@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Barcelona In 2020
+title: Top 10 Mothers Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top mothers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #mother #portrait #love.
+  Find top mothers Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #mother #portrait #love.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram profiles on inBeat.

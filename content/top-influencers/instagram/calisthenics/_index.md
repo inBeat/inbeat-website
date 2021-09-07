@@ -1,7 +1,7 @@
 ---
-title: Top 10 Calisthenics Instagram Influencers In 2020
+title: Top 10 Calisthenics Instagram Influencers In 2021
 description: >-
-  Find top calisthenics Instagram influencers in 2020. Most popular hashtags: #calisthenics #streetworkout #workout #handstand.
+  Find top calisthenics Instagram influencers in 2021. Most popular hashtags: #calisthenics #streetworkout #workout #handstand.
 platform: Instagram
 hits: 1271
 text_top: Analyze the top-rated Instagram influencers on inBeat.

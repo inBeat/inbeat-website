@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Poland In 2020
+title: Top 10 Architecture Instagram Influencers In Poland In 2021
 description: >-
-  Find top architecture Instagram influencers in Poland in 2020. Most popular hashtags: #warszawa #artystycznapodroz #stylizacja #igerspoland.
+  Find top architecture Instagram influencers in Poland in 2021. Most popular hashtags: #warszawa #artystycznapodroz #stylizacja #igerspoland.
 platform: Instagram
 hits: 203
 text_top: Analyze the most popular Instagram influencers on inBeat.

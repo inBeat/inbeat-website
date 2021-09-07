@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Germany In 2020
+title: Top 10 Cyclists Instagram Influencers In Germany In 2021
 description: >-
-  Find top cyclists Instagram influencers in Germany in 2020. Most popular hashtags: #cycling #cyclinglife #bike #bikelife.
+  Find top cyclists Instagram influencers in Germany in 2021. Most popular hashtags: #cycling #cyclinglife #bike #bikelife.
 platform: Instagram
 hits: 55
 text_top: Analyze the most popular Instagram influencers on inBeat.

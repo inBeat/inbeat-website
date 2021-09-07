@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Austria In 2020
+title: Top 10 Vegan TikTok Influencers In Austria In 2021
 description: >-
-  Find top vegan TikTok influencers in Austria in 2020. Most popular hashtags: #vegan #fyp #vienna #viral.
+  Find top vegan TikTok influencers in Austria in 2021. Most popular hashtags: #vegan #fyp #vienna #viral.
 platform: TikTok
 hits: 12
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Los Angeles In 2020
+title: Top 10 Photographers TikTok Influencers In Los Angeles In 2021
 description: >-
-  Find top photographers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #photographer #fyp #foryou #photoshoot.
+  Find top photographers TikTok influencers in Los Angeles in 2021. Most popular hashtags: #photographer #fyp #foryou #photoshoot.
 platform: TikTok
 hits: 64
 text_top: Analyze the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Rio De Janeiro In 2020
+title: Top 10 TikTok Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top TikTok influencers in Rio De Janeiro in 2020. Most popular hashtags: #foryou #foryoupage #dueto.
+  Find top TikTok influencers in Rio De Janeiro in 2021. Most popular hashtags: #foryou #foryoupage #dueto.
 platform: TikTok
 hits: 176
 text_top: Discover the top-rated TikTok influencers on inBeat.

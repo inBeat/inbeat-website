@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Sydney In 2020
+title: Top 10 Fitness TikTok Influencers In Sydney In 2021
 description: >-
-  Find top fitness TikTok influencers in Sydney in 2020. Most popular hashtags: #sydney #fitness #foryou #duet.
+  Find top fitness TikTok influencers in Sydney in 2021. Most popular hashtags: #sydney #fitness #foryou #duet.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok accounts on inBeat.

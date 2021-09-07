@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Peru In 2020
+title: Top 10 Chefs Instagram Influencers In Peru In 2021
 description: >-
-  Find top chefs Instagram influencers in Peru in 2020. Most popular hashtags: #peru #comidaperuana #cuarentena.
+  Find top chefs Instagram influencers in Peru in 2021. Most popular hashtags: #peru #comidaperuana #cuarentena.
 platform: Instagram
 hits: 17
 text_top: Analyze the top-rated Instagram profiles on inBeat.

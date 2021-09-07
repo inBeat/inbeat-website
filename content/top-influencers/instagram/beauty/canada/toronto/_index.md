@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Toronto In 2020
+title: Top 10 Beauty Instagram Influencers In Toronto In 2021
 description: >-
-  Find top beauty Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #beauty #nature #glow.
+  Find top beauty Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #beauty #nature #glow.
 platform: Instagram
 hits: 235
 text_top: Discover the top-rated Instagram accounts on inBeat.

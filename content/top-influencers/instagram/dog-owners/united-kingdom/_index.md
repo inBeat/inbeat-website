@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2020
+title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top dog owners Instagram influencers in United Kingdom in 2020. Most popular hashtags: #dogsofinsta #stayhome #dogstagram.
+  Find top dog owners Instagram influencers in United Kingdom in 2021. Most popular hashtags: #dogsofinsta #stayhome #dogstagram.
 platform: Instagram
 hits: 18
 text_top: Identify the best Instagram accounts on inBeat.

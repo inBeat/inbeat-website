@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Japan In 2020
+title: Top 10 Cinema Instagram Influencers In Japan In 2021
 description: >-
-  Find top cinema Instagram influencers in Japan in 2020. Most popular hashtags: #cinematography #japan #sonyalpha.
+  Find top cinema Instagram influencers in Japan in 2021. Most popular hashtags: #cinematography #japan #sonyalpha.
 platform: Instagram
 hits: 90
 text_top: Identify the best Instagram influencers on inBeat.

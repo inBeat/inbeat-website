@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Dallas In 2020
+title: Top 10 Skincare TikTok Influencers In Dallas In 2021
 description: >-
-  Find top skincare TikTok influencers in Dallas in 2020. Most popular hashtags: #fyp #skincare #dallas #foryou.
+  Find top skincare TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #skincare #dallas #foryou.
 platform: TikTok
 hits: 19
 text_top: See the best TikTok accounts on inBeat.

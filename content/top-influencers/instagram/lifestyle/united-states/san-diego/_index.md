@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In San Diego In 2020
+title: Top 10 Lifestyle Instagram Influencers In San Diego In 2021
 description: >-
-  Find top lifestyle Instagram influencers in San Diego in 2020. Most popular hashtags: #chicana #gymtip #chinups.
+  Find top lifestyle Instagram influencers in San Diego in 2021. Most popular hashtags: #chicana #gymtip #chinups.
 platform: Instagram
 hits: 187
 text_top: Discover the best Instagram accounts on inBeat.

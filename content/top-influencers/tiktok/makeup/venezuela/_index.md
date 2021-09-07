@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Venezuela In 2020
+title: Top 10 Makeup TikTok Influencers In Venezuela In 2021
 description: >-
-  Find top makeup TikTok influencers in Venezuela in 2020. Most popular hashtags: #makeup #parati #foryou #fyp.
+  Find top makeup TikTok influencers in Venezuela in 2021. Most popular hashtags: #makeup #parati #foryou #fyp.
 platform: TikTok
 hits: 24
 text_top: Identify the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Turkey in 2020. Most popular hashtags: #photography #istanbul #travel.
+  Find top graphic-designers Instagram influencers in Turkey in 2021. Most popular hashtags: #photography #istanbul #travel.
 platform: Instagram
 hits: 28
 text_top: Analyze the top-rated Instagram influencers on inBeat.

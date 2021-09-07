@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In South Africa In 2020
+title: Top 10 Hypebeast Instagram Influencers In South Africa In 2021
 description: >-
-  Find top hypebeast Instagram influencers in South Africa in 2020. Most popular hashtags: #hypebeast #southafrica #photooftheday #photography.
+  Find top hypebeast Instagram influencers in South Africa in 2021. Most popular hashtags: #hypebeast #southafrica #photooftheday #photography.
 platform: Instagram
 hits: 11
 text_top: Identify the most popular Instagram influencers on inBeat.

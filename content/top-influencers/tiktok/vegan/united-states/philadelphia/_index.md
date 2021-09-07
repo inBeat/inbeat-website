@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Philadelphia In 2020
+title: Top 10 Vegan TikTok Influencers In Philadelphia In 2021
 description: >-
-  Find top vegan TikTok influencers in Philadelphia in 2020. Most popular hashtags: #foryou #fyp #philadelphia #lgbt.
+  Find top vegan TikTok influencers in Philadelphia in 2021. Most popular hashtags: #foryou #fyp #philadelphia #lgbt.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok influencers on inBeat.

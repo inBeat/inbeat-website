@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Italy In 2020
+title: Top 10 Health TikTok Influencers In Italy In 2021
 description: >-
-  Find top health TikTok influencers in Italy in 2020. Most popular hashtags: #perte #healthy #food #whatieatinaday.
+  Find top health TikTok influencers in Italy in 2021. Most popular hashtags: #perte #healthy #food #whatieatinaday.
 platform: TikTok
 hits: 52
 text_top: See the top-rated TikTok accounts on inBeat.

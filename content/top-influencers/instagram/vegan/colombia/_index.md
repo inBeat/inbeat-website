@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Colombia In 2020
+title: Top 10 Vegan Instagram Influencers In Colombia In 2021
 description: >-
-  Find top vegan Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #amor #recetasveganas.
+  Find top vegan Instagram influencers in Colombia in 2021. Most popular hashtags: #yomequedoencasa #amor #recetasveganas.
 platform: Instagram
 hits: 40
 text_top: Analyze the most popular Instagram profiles on inBeat.

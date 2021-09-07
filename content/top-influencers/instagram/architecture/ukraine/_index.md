@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Ukraine In 2020
+title: Top 10 Architecture Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top architecture Instagram influencers in Ukraine in 2020. Most popular hashtags: #architecture #city #kyiv #ukraine.
+  Find top architecture Instagram influencers in Ukraine in 2021. Most popular hashtags: #architecture #city #kyiv #ukraine.
 platform: Instagram
 hits: 38
 text_top: See the most popular Instagram accounts on inBeat.

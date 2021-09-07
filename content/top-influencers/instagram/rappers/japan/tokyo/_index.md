@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Tokyo In 2020
+title: Top 10 Rappers Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top rappers Instagram influencers in Tokyo in 2020. Most popular hashtags: #hiphop #novelcore #ak69.
+  Find top rappers Instagram influencers in Tokyo in 2021. Most popular hashtags: #hiphop #novelcore #ak69.
 platform: Instagram
 hits: 5
 text_top: Discover the best Instagram accounts on inBeat.

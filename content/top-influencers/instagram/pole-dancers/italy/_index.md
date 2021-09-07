@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Italy In 2020
+title: Top 10 Pole Dancers Instagram Influencers In Italy In 2021
 description: >-
-  Find top pole dancers Instagram influencers in Italy in 2020. Most popular hashtags: #poledance #summer #poledancer #fitnessgirl.
+  Find top pole dancers Instagram influencers in Italy in 2021. Most popular hashtags: #poledance #summer #poledancer #fitnessgirl.
 platform: Instagram
 hits: 40
 text_top: Discover the best Instagram accounts on inBeat.

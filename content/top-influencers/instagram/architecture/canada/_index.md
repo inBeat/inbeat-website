@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Canada In 2020
+title: Top 10 Architecture Instagram Influencers In Canada In 2021
 description: >-
-  Find top architecture Instagram influencers in Canada in 2020. Most popular hashtags: #architecture #modernarchitecture #archdaily.
+  Find top architecture Instagram influencers in Canada in 2021. Most popular hashtags: #architecture #modernarchitecture #archdaily.
 platform: Instagram
 hits: 185
 text_top: See the best Instagram profiles on inBeat.

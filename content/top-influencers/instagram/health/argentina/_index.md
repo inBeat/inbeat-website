@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Argentina In 2020
+title: Top 10 Health Instagram Influencers In Argentina In 2021
 description: >-
-  Find top health Instagram influencers in Argentina in 2020. Most popular hashtags: #nutricion #sorteo #hiit.
+  Find top health Instagram influencers in Argentina in 2021. Most popular hashtags: #nutricion #sorteo #hiit.
 platform: Instagram
 hits: 185
 text_top: Discover the best Instagram influencers on inBeat.

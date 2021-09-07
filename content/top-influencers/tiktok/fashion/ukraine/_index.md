@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Ukraine In 2020
+title: Top 10 Fashion TikTok Influencers In Ukraine In 2021
 description: >-
-  Find top fashion TikTok influencers in Ukraine in 2020. Most popular hashtags: #fashion #girls #party #photooftheday.
+  Find top fashion TikTok influencers in Ukraine in 2021. Most popular hashtags: #fashion #girls #party #photooftheday.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Greece In 2020
+title: Top 10 Illustrators Instagram Influencers In Greece In 2021
 description: >-
-  Find top illustrators Instagram influencers in Greece in 2020. Most popular hashtags: #art #illustration #artwork #illustrator.
+  Find top illustrators Instagram influencers in Greece in 2021. Most popular hashtags: #art #illustration #artwork #illustrator.
 platform: Instagram
 hits: 13
 text_top: Analyze the top-rated Instagram influencers on inBeat.

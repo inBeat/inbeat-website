@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Los Angeles In 2020
+title: Top 10 Health Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top health Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fitness #losangeles #health.
+  Find top health Instagram influencers in Los Angeles in 2021. Most popular hashtags: #fitness #losangeles #health.
 platform: Instagram
 hits: 364
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In South Korea In 2020
+title: Top 10 Models TikTok Influencers In South Korea In 2021
 description: >-
-  Find top models TikTok influencers in South Korea in 2020. Most popular hashtags: #fyp #model #korea #foryou.
+  Find top models TikTok influencers in South Korea in 2021. Most popular hashtags: #fyp #model #korea #foryou.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok profiles on inBeat.

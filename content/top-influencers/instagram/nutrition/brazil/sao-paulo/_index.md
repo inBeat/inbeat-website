@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Nutrition Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top nutrition Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #foco #gym #tbt #dieta.
+  Find top nutrition Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #foco #gym #tbt #dieta.
 platform: Instagram
 hits: 7
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Africa In 2020
+title: Top 10 Stylists Instagram Influencers In South Africa In 2021
 description: >-
-  Find top stylists Instagram influencers in South Africa in 2020. Most popular hashtags: #style #fashion #art.
+  Find top stylists Instagram influencers in South Africa in 2021. Most popular hashtags: #style #fashion #art.
 platform: Instagram
 hits: 32
 text_top: Discover the best Instagram accounts on inBeat.

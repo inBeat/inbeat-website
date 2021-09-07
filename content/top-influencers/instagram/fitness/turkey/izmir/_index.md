@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Izmir In 2020
+title: Top 10 Fitness Instagram Influencers In Izmir In 2021
 description: >-
-  Find top fitness Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #fitness #istanbul #tbt.
+  Find top fitness Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #fitness #istanbul #tbt.
 platform: Instagram
 hits: 42
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In United States In 2020
+title: Top 10 Stylists Instagram Influencers In United States In 2021
 description: >-
-  Find top stylists Instagram influencers in United States in 2020. Most popular hashtags: #ad #selenagomez #margotrobbie.
+  Find top stylists Instagram influencers in United States in 2021. Most popular hashtags: #ad #selenagomez #margotrobbie.
 platform: Instagram
 hits: 3097
 text_top: Analyze the most popular Instagram accounts on inBeat.

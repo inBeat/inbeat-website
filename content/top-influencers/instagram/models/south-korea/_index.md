@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In South Korea In 2020
+title: Top 10 Models Instagram Influencers In South Korea In 2021
 description: >-
-  Find top models Instagram influencers in South Korea in 2020. Most popular hashtags: #mlb #ad #theordinary.
+  Find top models Instagram influencers in South Korea in 2021. Most popular hashtags: #mlb #ad #theordinary.
 platform: Instagram
 hits: 207
 text_top: Discover the top-rated Instagram influencers on inBeat.

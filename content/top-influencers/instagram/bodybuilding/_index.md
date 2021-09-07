@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In 2020
+title: Top 10 Bodybuilding Instagram Influencers In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #fitness #fitnessmotivation #bodybuilding.
+  Find top bodybuilding Instagram influencers in 2021. Most popular hashtags: #fitness #fitnessmotivation #bodybuilding.
 platform: Instagram
 hits: 4820
 text_top: Discover the most popular Instagram accounts on inBeat.

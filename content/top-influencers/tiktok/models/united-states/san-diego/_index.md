@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In San Diego In 2020
+title: Top 10 Models TikTok Influencers In San Diego In 2021
 description: >-
-  Find top models TikTok influencers in San Diego in 2020. Most popular hashtags: #sandiego #fyp #model #foryoupage.
+  Find top models TikTok influencers in San Diego in 2021. Most popular hashtags: #sandiego #fyp #model #foryoupage.
 platform: TikTok
 hits: 21
 text_top: Discover the top-rated TikTok profiles on inBeat.

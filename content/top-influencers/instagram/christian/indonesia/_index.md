@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Indonesia In 2020
+title: Top 10 Christian Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top christian Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #tiktok #africageographic.
+  Find top christian Instagram influencers in Indonesia in 2021. Most popular hashtags: #dirumahaja #tiktok #africageographic.
 platform: Instagram
 hits: 154
 text_top: Discover the best Instagram profiles on inBeat.

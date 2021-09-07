@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Vancouver In 2020
+title: Top 10 Models TikTok Influencers In Vancouver In 2021
 description: >-
-  Find top models TikTok influencers in Vancouver in 2020. Most popular hashtags: #fyp #foryou #vancouver #model.
+  Find top models TikTok influencers in Vancouver in 2021. Most popular hashtags: #fyp #foryou #vancouver #model.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok influencers on inBeat.

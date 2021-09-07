@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In South Korea In 2020
+title: Top 10 Music Instagram Influencers In South Korea In 2021
 description: >-
-  Find top music Instagram influencers in South Korea in 2020. Most popular hashtags: #10 #marieclairekorea #legend.
+  Find top music Instagram influencers in South Korea in 2021. Most popular hashtags: #10 #marieclairekorea #legend.
 platform: Instagram
 hits: 153
 text_top: See the most popular Instagram influencers on inBeat.

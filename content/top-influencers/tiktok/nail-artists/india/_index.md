@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In India In 2020
+title: Top 10 Nail Artists TikTok Influencers In India In 2021
 description: >-
-  Find top nail artists TikTok influencers in India in 2020. Most popular hashtags: #trending #foryou #nailart #foryoupage.
+  Find top nail artists TikTok influencers in India in 2021. Most popular hashtags: #trending #foryou #nailart #foryoupage.
 platform: TikTok
 hits: 12
 text_top: Analyze the best TikTok profiles on inBeat.

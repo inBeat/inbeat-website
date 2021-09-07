@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Italy In 2020
+title: Top 10 Nail Artists Instagram Influencers In Italy In 2021
 description: >-
-  Find top nail artists Instagram influencers in Italy in 2020. Most popular hashtags: #makeup #girl #nailart #nails.
+  Find top nail artists Instagram influencers in Italy in 2021. Most popular hashtags: #makeup #girl #nailart #nails.
 platform: Instagram
 hits: 36
 text_top: See the most popular Instagram profiles on inBeat.

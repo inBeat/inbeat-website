@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Russia In 2020
+title: Top 10 Architecture Instagram Influencers In Russia In 2021
 description: >-
-  Find top architecture Instagram influencers in Russia in 2020. Most popular hashtags: #architecture #photography #architecturephotography.
+  Find top architecture Instagram influencers in Russia in 2021. Most popular hashtags: #architecture #photography #architecturephotography.
 platform: Instagram
 hits: 172
 text_top: Identify the most popular Instagram influencers on inBeat.

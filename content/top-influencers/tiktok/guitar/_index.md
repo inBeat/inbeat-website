@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In 2020
+title: Top 10 Guitar TikTok Influencers In 2021
 description: >-
-  Find top guitar TikTok influencers in 2020. Most popular hashtags: #guitar #fyp #duet #guitarist.
+  Find top guitar TikTok influencers in 2021. Most popular hashtags: #guitar #fyp #duet #guitarist.
 platform: TikTok
 hits: 1617
 text_top: Discover the most popular TikTok influencers on inBeat.

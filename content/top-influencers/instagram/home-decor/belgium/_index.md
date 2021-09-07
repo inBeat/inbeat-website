@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Belgium In 2020
+title: Top 10 Home Decor Instagram Influencers In Belgium In 2021
 description: >-
-  Find top home decor Instagram influencers in Belgium in 2020. Most popular hashtags: #homedecor #interiordesign #belgium #design.
+  Find top home decor Instagram influencers in Belgium in 2021. Most popular hashtags: #homedecor #interiordesign #belgium #design.
 platform: Instagram
 hits: 21
 text_top: Identify the most popular Instagram profiles on inBeat.

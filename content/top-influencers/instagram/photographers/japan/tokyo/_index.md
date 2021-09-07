@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Tokyo In 2020
+title: Top 10 Photographers Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top photographers Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #portraits.
+  Find top photographers Instagram influencers in Tokyo in 2021. Most popular hashtags: #tokyo #japan #portraits.
 platform: Instagram
 hits: 138
 text_top: See the most popular Instagram profiles on inBeat.

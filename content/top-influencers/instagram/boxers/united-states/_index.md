@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In United States In 2020
+title: Top 10 Boxers Instagram Influencers In United States In 2021
 description: >-
-  Find top boxers Instagram influencers in United States in 2020. Most popular hashtags: #boxing #rgba #family.
+  Find top boxers Instagram influencers in United States in 2021. Most popular hashtags: #boxing #rgba #family.
 platform: Instagram
 hits: 647
 text_top: Analyze the top-rated Instagram accounts on inBeat.

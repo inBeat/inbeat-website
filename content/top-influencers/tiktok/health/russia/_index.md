@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Russia In 2020
+title: Top 10 Health TikTok Influencers In Russia In 2021
 description: >-
-  Find top health TikTok influencers in Russia in 2020. Most popular hashtags: #ownvoice #sky #foryou.
+  Find top health TikTok influencers in Russia in 2021. Most popular hashtags: #ownvoice #sky #foryou.
 platform: TikTok
 hits: 8
 text_top: Discover the most popular TikTok influencers on inBeat.

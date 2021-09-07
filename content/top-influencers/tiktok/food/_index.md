@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In 2020
+title: Top 10 Food TikTok Influencers In 2021
 description: >-
-  Find top food TikTok influencers in 2020. Most popular hashtags: #fyp #duet #foryoupage #youwantmore.
+  Find top food TikTok influencers in 2021. Most popular hashtags: #fyp #duet #foryoupage #youwantmore.
 platform: TikTok
 hits: 13998
 text_top: See the most popular TikTok accounts on inBeat.

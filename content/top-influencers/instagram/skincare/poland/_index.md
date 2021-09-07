@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Poland In 2020
+title: Top 10 Skincare Instagram Influencers In Poland In 2021
 description: >-
-  Find top skincare Instagram influencers in Poland in 2020. Most popular hashtags: #makijaz #makija #makeup #makeuplover.
+  Find top skincare Instagram influencers in Poland in 2021. Most popular hashtags: #makijaz #makija #makeup #makeuplover.
 platform: Instagram
 hits: 446
 text_top: Identify the top-rated Instagram accounts on inBeat.

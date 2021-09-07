@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In San Francisco In 2020
+title: Top 10 Home Decor TikTok Influencers In San Francisco In 2021
 description: >-
-  Find top home decor TikTok influencers in San Francisco in 2020. Most popular hashtags: #homedecor #sanfrancisco #fyp #bayarea.
+  Find top home decor TikTok influencers in San Francisco in 2021. Most popular hashtags: #homedecor #sanfrancisco #fyp #bayarea.
 platform: TikTok
 hits: 8
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Chile In 2020
+title: Top 10 Stylists Instagram Influencers In Chile In 2021
 description: >-
-  Find top stylists Instagram influencers in Chile in 2020. Most popular hashtags: #love #chile #stylist #ootd.
+  Find top stylists Instagram influencers in Chile in 2021. Most popular hashtags: #love #chile #stylist #ootd.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram profiles on inBeat.

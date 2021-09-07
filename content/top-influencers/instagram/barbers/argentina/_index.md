@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Argentina In 2020
+title: Top 10 Barbers Instagram Influencers In Argentina In 2021
 description: >-
-  Find top barbers Instagram influencers in Argentina in 2020. Most popular hashtags: #barber #hairstyle #barbershop #fade.
+  Find top barbers Instagram influencers in Argentina in 2021. Most popular hashtags: #barber #hairstyle #barbershop #fade.
 platform: Instagram
 hits: 46
 text_top: Discover the top-rated Instagram profiles on inBeat.

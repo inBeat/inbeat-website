@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Atlanta In 2020
+title: Top 10 Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlblogger #atlantablogger #gltlove.
+  Find top Instagram influencers in Atlanta in 2021. Most popular hashtags: #atlblogger #atlantablogger #gltlove.
 platform: Instagram
 hits: 3286
 text_top: See the most popular Instagram profiles on inBeat.

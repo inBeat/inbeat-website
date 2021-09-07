@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In New York In 2020
+title: Top 10 Models TikTok Influencers In New York In 2021
 description: >-
-  Find top models TikTok influencers in New York in 2020. Most popular hashtags: #fyp #model #foryoupage #newyork.
+  Find top models TikTok influencers in New York in 2021. Most popular hashtags: #fyp #model #foryoupage #newyork.
 platform: TikTok
 hits: 99
 text_top: Identify the best TikTok influencers on inBeat.

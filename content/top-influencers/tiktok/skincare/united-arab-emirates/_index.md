@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Skincare TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top skincare TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #skincare #fyp #foryou #foryoupage.
+  Find top skincare TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #skincare #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok profiles on inBeat.

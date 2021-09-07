@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Singapore In 2020
+title: Top 10 Travel Instagram Influencers In Singapore In 2021
 description: >-
-  Find top travel Instagram influencers in Singapore in 2020. Most popular hashtags: #sgig #singapore #visitsingapore.
+  Find top travel Instagram influencers in Singapore in 2021. Most popular hashtags: #sgig #singapore #visitsingapore.
 platform: Instagram
 hits: 94
 text_top: See the top-rated Instagram influencers on inBeat.

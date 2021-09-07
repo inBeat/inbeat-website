@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Miami in 2020. Most popular hashtags: #graphicdesign #art #nba #lakers.
+  Find top graphic-designers Instagram influencers in Miami in 2021. Most popular hashtags: #graphicdesign #art #nba #lakers.
 platform: Instagram
 hits: 36
 text_top: See the top-rated Instagram influencers on inBeat.

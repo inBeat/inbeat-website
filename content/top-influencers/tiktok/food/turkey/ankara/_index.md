@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Ankara In 2020
+title: Top 10 Food TikTok Influencers In Ankara In 2021
 description: >-
-  Find top food TikTok influencers in Ankara in 2020. Most popular hashtags: #food #ke #yemek #tiktok.
+  Find top food TikTok influencers in Ankara in 2021. Most popular hashtags: #food #ke #yemek #tiktok.
 platform: TikTok
 hits: 5
 text_top: Discover the most popular TikTok profiles on inBeat.

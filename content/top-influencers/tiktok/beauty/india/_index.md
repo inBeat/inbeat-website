@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In India In 2020
+title: Top 10 Beauty TikTok Influencers In India In 2021
 description: >-
-  Find top beauty TikTok influencers in India in 2020. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
+  Find top beauty TikTok influencers in India in 2021. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
 platform: TikTok
 hits: 1044
 text_top: Discover the best TikTok accounts on inBeat.

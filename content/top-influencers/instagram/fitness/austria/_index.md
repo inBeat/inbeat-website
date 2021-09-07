@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Austria In 2020
+title: Top 10 Fitness Instagram Influencers In Austria In 2021
 description: >-
-  Find top fitness Instagram influencers in Austria in 2020. Most popular hashtags: #austria #vienna #weekend.
+  Find top fitness Instagram influencers in Austria in 2021. Most popular hashtags: #austria #vienna #weekend.
 platform: Instagram
 hits: 207
 text_top: Discover the best Instagram influencers on inBeat.

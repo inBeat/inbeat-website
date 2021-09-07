@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In India In 2020
+title: Top 10 TikTok Influencers In India In 2021
 description: >-
-  Find top TikTok influencers in India in 2020. Most popular hashtags: #duet #foryoupage #tik.
+  Find top TikTok influencers in India in 2021. Most popular hashtags: #duet #foryoupage #tik.
 platform: TikTok
 hits: 19266
 text_top: Discover the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Toronto In 2020
+title: Top 10 Barbers TikTok Influencers In Toronto In 2021
 description: >-
-  Find top barbers TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #barber #foryou #foryoupage.
+  Find top barbers TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #barber #foryou #foryoupage.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok influencers on inBeat.

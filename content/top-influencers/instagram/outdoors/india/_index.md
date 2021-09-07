@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In India In 2020
+title: Top 10 Outdoors Instagram Influencers In India In 2021
 description: >-
-  Find top outdoors Instagram influencers in India in 2020. Most popular hashtags: #india #earthfocus #travelrealindia #kerala.
+  Find top outdoors Instagram influencers in India in 2021. Most popular hashtags: #india #earthfocus #travelrealindia #kerala.
 platform: Instagram
 hits: 698
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Colombia In 2020
+title: Top 10 Home Decor Instagram Influencers In Colombia In 2021
 description: >-
-  Find top home decor Instagram influencers in Colombia in 2020. Most popular hashtags: #homedecor #colombia #home #decor.
+  Find top home decor Instagram influencers in Colombia in 2021. Most popular hashtags: #homedecor #colombia #home #decor.
 platform: Instagram
 hits: 12
 text_top: See the best Instagram accounts on inBeat.

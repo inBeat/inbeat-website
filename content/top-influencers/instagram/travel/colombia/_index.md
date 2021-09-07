@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Colombia In 2020
+title: Top 10 Travel Instagram Influencers In Colombia In 2021
 description: >-
-  Find top travel Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #medellin #colombiatravel #travel.
+  Find top travel Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #medellin #colombiatravel #travel.
 platform: Instagram
 hits: 331
 text_top: See the top-rated Instagram accounts on inBeat.

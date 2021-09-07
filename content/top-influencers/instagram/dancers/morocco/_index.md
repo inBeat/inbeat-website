@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Morocco In 2020
+title: Top 10 Dancers Instagram Influencers In Morocco In 2021
 description: >-
-  Find top dancers Instagram influencers in Morocco in 2020. Most popular hashtags: #dance #lifestyle #dancer #morocco.
+  Find top dancers Instagram influencers in Morocco in 2021. Most popular hashtags: #dance #lifestyle #dancer #morocco.
 platform: Instagram
 hits: 34
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Colombia In 2020
+title: Top 10 Runners Instagram Influencers In Colombia In 2021
 description: >-
-  Find top runners Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #love #picoftheday.
+  Find top runners Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #love #picoftheday.
 platform: Instagram
 hits: 29
 text_top: Identify the best Instagram profiles on inBeat.

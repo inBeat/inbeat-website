@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Australia In 2020
+title: Top 10 Cinema Instagram Influencers In Australia In 2021
 description: >-
-  Find top cinema Instagram influencers in Australia in 2020. Most popular hashtags: #passionpassport #voyaged #hellofrom.
+  Find top cinema Instagram influencers in Australia in 2021. Most popular hashtags: #passionpassport #voyaged #hellofrom.
 platform: Instagram
 hits: 109
 text_top: Discover the best Instagram profiles on inBeat.

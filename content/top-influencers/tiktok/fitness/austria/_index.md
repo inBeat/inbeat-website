@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Austria In 2020
+title: Top 10 Fitness TikTok Influencers In Austria In 2021
 description: >-
-  Find top fitness TikTok influencers in Austria in 2020. Most popular hashtags: #fyp #fitness #viral #austria.
+  Find top fitness TikTok influencers in Austria in 2021. Most popular hashtags: #fyp #fitness #viral #austria.
 platform: TikTok
 hits: 33
 text_top: Discover the most popular TikTok profiles on inBeat.

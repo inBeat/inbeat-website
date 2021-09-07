@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Peru In 2020
+title: Top 10 Cinema Instagram Influencers In Peru In 2021
 description: >-
-  Find top cinema Instagram influencers in Peru in 2020. Most popular hashtags: #photography #peru #portrait #love.
+  Find top cinema Instagram influencers in Peru in 2021. Most popular hashtags: #photography #peru #portrait #love.
 platform: Instagram
 hits: 15
 text_top: Identify the top-rated Instagram accounts on inBeat.

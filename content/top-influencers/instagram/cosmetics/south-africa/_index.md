@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In South Africa In 2020
+title: Top 10 Cosmetics Instagram Influencers In South Africa In 2021
 description: >-
-  Find top cosmetics Instagram influencers in South Africa in 2020. Most popular hashtags: #makeup #eyeshadow #fashion.
+  Find top cosmetics Instagram influencers in South Africa in 2021. Most popular hashtags: #makeup #eyeshadow #fashion.
 platform: Instagram
 hits: 30
 text_top: Identify the top-rated Instagram profiles on inBeat.

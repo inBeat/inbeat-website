@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Malaysia In 2020
+title: Top 10 Models Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top models Instagram influencers in Malaysia in 2020. Most popular hashtags: #ootd #selfie #model #photo.
+  Find top models Instagram influencers in Malaysia in 2021. Most popular hashtags: #ootd #selfie #model #photo.
 platform: Instagram
 hits: 110
 text_top: Identify the best Instagram accounts on inBeat.

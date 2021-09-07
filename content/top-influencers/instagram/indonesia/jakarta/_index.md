@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Jakarta In 2020
+title: Top 10 Instagram Influencers In Jakarta In 2021
 description: >-
-  Find top Instagram influencers in Jakarta in 2020. Most popular hashtags: #lfl #makeup #ootd.
+  Find top Instagram influencers in Jakarta in 2021. Most popular hashtags: #lfl #makeup #ootd.
 platform: Instagram
 hits: 2591
 text_top: Identify the most popular Instagram influencers on inBeat.

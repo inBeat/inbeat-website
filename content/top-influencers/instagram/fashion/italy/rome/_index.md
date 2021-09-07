@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Rome In 2020
+title: Top 10 Fashion Instagram Influencers In Rome In 2021
 description: >-
-  Find top fashion Instagram influencers in Rome in 2020. Most popular hashtags: #fashion #rome #model.
+  Find top fashion Instagram influencers in Rome in 2021. Most popular hashtags: #fashion #rome #model.
 platform: Instagram
 hits: 248
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Montreal In 2020
+title: Top 10 Models Instagram Influencers In Montreal In 2021
 description: >-
-  Find top models Instagram influencers in Montreal in 2020. Most popular hashtags: #model #montreal #photography.
+  Find top models Instagram influencers in Montreal in 2021. Most popular hashtags: #model #montreal #photography.
 platform: Instagram
 hits: 58
 text_top: See the best Instagram influencers on inBeat.

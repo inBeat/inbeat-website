@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Bali In 2020
+title: Top 10 Stylists Instagram Influencers In Bali In 2021
 description: >-
-  Find top stylists Instagram influencers in Bali in 2020. Most popular hashtags: #bali #ootd #photoshoot #stylist.
+  Find top stylists Instagram influencers in Bali in 2021. Most popular hashtags: #bali #ootd #photoshoot #stylist.
 platform: Instagram
 hits: 18
 text_top: Identify the most popular Instagram profiles on inBeat.

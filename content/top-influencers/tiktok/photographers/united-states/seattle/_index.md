@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Seattle In 2020
+title: Top 10 Photographers TikTok Influencers In Seattle In 2021
 description: >-
-  Find top photographers TikTok influencers in Seattle in 2020. Most popular hashtags: #washington #washingtoncheck #seattle #pnw.
+  Find top photographers TikTok influencers in Seattle in 2021. Most popular hashtags: #washington #washingtoncheck #seattle #pnw.
 platform: TikTok
 hits: 17
 text_top: Analyze the best TikTok influencers on inBeat.

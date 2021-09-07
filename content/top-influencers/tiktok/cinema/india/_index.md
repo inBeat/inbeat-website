@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In India In 2020
+title: Top 10 Cinema TikTok Influencers In India In 2021
 description: >-
-  Find top cinema TikTok influencers in India in 2020. Most popular hashtags: #foryou #duet #tiktok #tiktokindia.
+  Find top cinema TikTok influencers in India in 2021. Most popular hashtags: #foryou #duet #tiktok #tiktokindia.
 platform: TikTok
 hits: 121
 text_top: Identify the most popular TikTok profiles on inBeat.

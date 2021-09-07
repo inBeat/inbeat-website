@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United Kingdom In 2020
+title: Top 10 Crossfit Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top crossfit Instagram influencers in United Kingdom in 2020. Most popular hashtags: #crossfit #fitness #workout #love.
+  Find top crossfit Instagram influencers in United Kingdom in 2021. Most popular hashtags: #crossfit #fitness #workout #love.
 platform: Instagram
 hits: 106
 text_top: Discover the best Instagram profiles on inBeat.

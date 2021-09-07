@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Osaka In 2020
+title: Top 10 TikTok Influencers In Osaka In 2021
 description: >-
-  Find top TikTok influencers in Osaka in 2020. Most popular hashtags: #osaka #japan #tiktok.
+  Find top TikTok influencers in Osaka in 2021. Most popular hashtags: #osaka #japan #tiktok.
 platform: TikTok
 hits: 24
 text_top: Discover the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Colombia In 2020
+title: Top 10 Models TikTok Influencers In Colombia In 2021
 description: >-
-  Find top models TikTok influencers in Colombia in 2020. Most popular hashtags: #fyp #parati #model #viral.
+  Find top models TikTok influencers in Colombia in 2021. Most popular hashtags: #fyp #parati #model #viral.
 platform: TikTok
 hits: 37
 text_top: See the most popular TikTok profiles on inBeat.

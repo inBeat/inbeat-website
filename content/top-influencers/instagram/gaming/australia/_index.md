@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Australia In 2020
+title: Top 10 Gaming Instagram Influencers In Australia In 2021
 description: >-
-  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gamer #supermario #playstation.
+  Find top gaming Instagram influencers in Australia in 2021. Most popular hashtags: #gamer #supermario #playstation.
 platform: Instagram
 hits: 81
 text_top: See the best Instagram profiles on inBeat.

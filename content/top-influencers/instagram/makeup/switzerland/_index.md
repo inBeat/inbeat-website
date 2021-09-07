@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Switzerland In 2020
+title: Top 10 Makeup Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top makeup Instagram influencers in Switzerland in 2020. Most popular hashtags: #makeup #switzerland #love #makeupartist.
+  Find top makeup Instagram influencers in Switzerland in 2021. Most popular hashtags: #makeup #switzerland #love #makeupartist.
 platform: Instagram
 hits: 134
 text_top: Discover the most popular Instagram influencers on inBeat.

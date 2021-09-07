@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Germany In 2020
+title: Top 10 Lingerie Instagram Influencers In Germany In 2021
 description: >-
-  Find top lingerie Instagram influencers in Germany in 2020. Most popular hashtags: #lingerie #portrait #sensual #portraitphotography.
+  Find top lingerie Instagram influencers in Germany in 2021. Most popular hashtags: #lingerie #portrait #sensual #portraitphotography.
 platform: Instagram
 hits: 211
 text_top: See the top-rated Instagram influencers on inBeat.

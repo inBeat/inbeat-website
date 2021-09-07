@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Switzerland In 2020
+title: Top 10 Runners Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top runners Instagram influencers in Switzerland in 2020. Most popular hashtags: #running #mountains #training #friends.
+  Find top runners Instagram influencers in Switzerland in 2021. Most popular hashtags: #running #mountains #training #friends.
 platform: Instagram
 hits: 23
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Malaysia In 2020
+title: Top 10 Christian Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top christian Instagram influencers in Malaysia in 2020. Most popular hashtags: #malaysia #cmco #exploretocreate.
+  Find top christian Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #cmco #exploretocreate.
 platform: Instagram
 hits: 12
 text_top: Identify the most popular Instagram influencers on inBeat.

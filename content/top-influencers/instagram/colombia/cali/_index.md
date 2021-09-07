@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Cali In 2020
+title: Top 10 Instagram Influencers In Cali In 2021
 description: >-
-  Find top Instagram influencers in Cali in 2020. Most popular hashtags: #tbt #cali #medellin.
+  Find top Instagram influencers in Cali in 2021. Most popular hashtags: #tbt #cali #medellin.
 platform: Instagram
 hits: 436
 text_top: See the best Instagram influencers on inBeat.

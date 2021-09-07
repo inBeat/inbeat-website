@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Chicago In 2020
+title: Top 10 Nutrition Instagram Influencers In Chicago In 2021
 description: >-
-  Find top nutrition Instagram influencers in Chicago in 2020. Most popular hashtags: #homeworkout #chicago #wellness.
+  Find top nutrition Instagram influencers in Chicago in 2021. Most popular hashtags: #homeworkout #chicago #wellness.
 platform: Instagram
 hits: 35
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In 2020
+title: Top 10 Bakers TikTok Influencers In 2021
 description: >-
-  Find top bakers TikTok influencers in 2020. Most popular hashtags: #duet #foryou #fyp #greenscreen.
+  Find top bakers TikTok influencers in 2021. Most popular hashtags: #duet #foryou #fyp #greenscreen.
 platform: TikTok
 hits: 1523
 text_top: See the top-rated TikTok accounts on inBeat.

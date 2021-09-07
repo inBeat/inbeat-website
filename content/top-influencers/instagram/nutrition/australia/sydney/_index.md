@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Sydney In 2020
+title: Top 10 Nutrition Instagram Influencers In Sydney In 2021
 description: >-
-  Find top nutrition Instagram influencers in Sydney in 2020. Most popular hashtags: #ad #sydney #sydneyfoodie.
+  Find top nutrition Instagram influencers in Sydney in 2021. Most popular hashtags: #ad #sydney #sydneyfoodie.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram accounts on inBeat.

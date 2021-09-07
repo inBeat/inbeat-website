@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Poland In 2020
+title: Top 10 Gaming TikTok Influencers In Poland In 2021
 description: >-
-  Find top gaming TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #foryou #dc #trend.
+  Find top gaming TikTok influencers in Poland in 2021. Most popular hashtags: #dlaciebie #foryou #dc #trend.
 platform: TikTok
 hits: 21
 text_top: Discover the best TikTok influencers on inBeat.

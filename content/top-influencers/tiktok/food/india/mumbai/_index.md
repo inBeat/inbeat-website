@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Mumbai In 2020
+title: Top 10 Food TikTok Influencers In Mumbai In 2021
 description: >-
-  Find top food TikTok influencers in Mumbai in 2020. Most popular hashtags: #tiktokchef #mumbai #food #foodie.
+  Find top food TikTok influencers in Mumbai in 2021. Most popular hashtags: #tiktokchef #mumbai #food #foodie.
 platform: TikTok
 hits: 43
 text_top: Analyze the most popular TikTok profiles on inBeat.

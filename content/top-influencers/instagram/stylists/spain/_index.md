@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Spain In 2020
+title: Top 10 Stylists Instagram Influencers In Spain In 2021
 description: >-
-  Find top stylists Instagram influencers in Spain in 2020. Most popular hashtags: #fashion #streetstyle #ootd.
+  Find top stylists Instagram influencers in Spain in 2021. Most popular hashtags: #fashion #streetstyle #ootd.
 platform: Instagram
 hits: 207
 text_top: See the best Instagram influencers on inBeat.

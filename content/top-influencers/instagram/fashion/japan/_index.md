@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Japan In 2020
+title: Top 10 Fashion Instagram Influencers In Japan In 2021
 description: >-
-  Find top fashion Instagram influencers in Japan in 2020. Most popular hashtags: #ootd #zara #instafashion.
+  Find top fashion Instagram influencers in Japan in 2021. Most popular hashtags: #ootd #zara #instafashion.
 platform: Instagram
 hits: 1153
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Poland In 2020
+title: Top 10 Lifestyle TikTok Influencers In Poland In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Poland in 2020. Most popular hashtags: #foryou #dc #dlaciebie #fyp.
+  Find top lifestyle TikTok influencers in Poland in 2021. Most popular hashtags: #foryou #dc #dlaciebie #fyp.
 platform: TikTok
 hits: 17
 text_top: Discover the best TikTok influencers on inBeat.

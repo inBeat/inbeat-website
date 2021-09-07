@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Japan In 2020
+title: Top 10 TikTok Influencers In Japan In 2021
 description: >-
-  Find top TikTok influencers in Japan in 2020. Most popular hashtags: #duet #tiktok #fyp.
+  Find top TikTok influencers in Japan in 2021. Most popular hashtags: #duet #tiktok #fyp.
 platform: TikTok
 hits: 1129
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Belgium In 2020
+title: Top 10 Divers Instagram Influencers In Belgium In 2021
 description: >-
-  Find top divers Instagram influencers in Belgium in 2020. Most popular hashtags: #nature #beautifuldestinations #belgium #lockdown.
+  Find top divers Instagram influencers in Belgium in 2021. Most popular hashtags: #nature #beautifuldestinations #belgium #lockdown.
 platform: Instagram
 hits: 8
 text_top: Identify the most popular Instagram profiles on inBeat.

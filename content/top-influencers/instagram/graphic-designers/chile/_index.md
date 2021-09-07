@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Chile In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Chile In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #love #illustration #art.
+  Find top graphic-designers Instagram influencers in Chile in 2021. Most popular hashtags: #chile #love #illustration #art.
 platform: Instagram
 hits: 15
 text_top: Discover the most popular Instagram accounts on inBeat.

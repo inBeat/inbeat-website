@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Birmingham In 2020
+title: Top 10 Photographers Instagram Influencers In Birmingham In 2021
 description: >-
-  Find top photographers Instagram influencers in Birmingham in 2020. Most popular hashtags: #birmingham #photography #travel #ig.
+  Find top photographers Instagram influencers in Birmingham in 2021. Most popular hashtags: #birmingham #photography #travel #ig.
 platform: Instagram
 hits: 24
 text_top: Identify the most popular Instagram accounts on inBeat.

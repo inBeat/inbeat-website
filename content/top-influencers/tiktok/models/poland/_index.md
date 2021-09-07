@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Poland In 2020
+title: Top 10 Models TikTok Influencers In Poland In 2021
 description: >-
-  Find top models TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
+  Find top models TikTok influencers in Poland in 2021. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
 platform: TikTok
 hits: 48
 text_top: Identify the most popular TikTok influencers on inBeat.

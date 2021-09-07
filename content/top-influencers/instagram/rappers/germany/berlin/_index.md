@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Berlin In 2020
+title: Top 10 Rappers Instagram Influencers In Berlin In 2021
 description: >-
-  Find top rappers Instagram influencers in Berlin in 2020. Most popular hashtags: #deutschrap #berlin #rap #rapper.
+  Find top rappers Instagram influencers in Berlin in 2021. Most popular hashtags: #deutschrap #berlin #rap #rapper.
 platform: Instagram
 hits: 38
 text_top: Analyze the top-rated Instagram influencers on inBeat.

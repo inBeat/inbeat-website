@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Indonesia In 2020
+title: Top 10 Photographers Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top photographers Instagram influencers in Indonesia in 2020. Most popular hashtags: #bandung #bandungbanget #jawabarat.
+  Find top photographers Instagram influencers in Indonesia in 2021. Most popular hashtags: #bandung #bandungbanget #jawabarat.
 platform: Instagram
 hits: 613
 text_top: Analyze the most popular Instagram profiles on inBeat.

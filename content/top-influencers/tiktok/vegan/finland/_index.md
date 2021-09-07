@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Finland In 2020
+title: Top 10 Vegan TikTok Influencers In Finland In 2021
 description: >-
-  Find top vegan TikTok influencers in Finland in 2020. Most popular hashtags: #vegan #tiktoksuomi #fyp #funny.
+  Find top vegan TikTok influencers in Finland in 2021. Most popular hashtags: #vegan #tiktoksuomi #fyp #funny.
 platform: TikTok
 hits: 9
 text_top: Identify the top-rated TikTok influencers on inBeat.

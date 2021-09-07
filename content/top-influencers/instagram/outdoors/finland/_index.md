@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Finland In 2020
+title: Top 10 Outdoors Instagram Influencers In Finland In 2021
 description: >-
-  Find top outdoors Instagram influencers in Finland in 2020. Most popular hashtags: #finland #outdoors #stayandwander.
+  Find top outdoors Instagram influencers in Finland in 2021. Most popular hashtags: #finland #outdoors #stayandwander.
 platform: Instagram
 hits: 154
 text_top: Discover the best Instagram accounts on inBeat.

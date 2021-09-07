@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Las Vegas In 2020
+title: Top 10 Fitness TikTok Influencers In Las Vegas In 2021
 description: >-
-  Find top fitness TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fitness #fyp #lasvegas #foryoupage.
+  Find top fitness TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fitness #fyp #lasvegas #foryoupage.
 platform: TikTok
 hits: 35
 text_top: Analyze the best TikTok influencers on inBeat.

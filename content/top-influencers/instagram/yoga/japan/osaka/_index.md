@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Osaka In 2020
+title: Top 10 Yoga Instagram Influencers In Osaka In 2021
 description: >-
-  Find top yoga Instagram influencers in Osaka in 2020. Most popular hashtags: #yoga #pr #japanesegirl #japan.
+  Find top yoga Instagram influencers in Osaka in 2021. Most popular hashtags: #yoga #pr #japanesegirl #japan.
 platform: Instagram
 hits: 4
 text_top: See the best Instagram influencers on inBeat.

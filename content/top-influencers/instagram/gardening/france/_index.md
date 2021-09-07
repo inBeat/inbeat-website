@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In France In 2020
+title: Top 10 Gardening Instagram Influencers In France In 2021
 description: >-
-  Find top gardening Instagram influencers in France in 2020. Most popular hashtags: #garden #gardening #flowers #nature.
+  Find top gardening Instagram influencers in France in 2021. Most popular hashtags: #garden #gardening #flowers #nature.
 platform: Instagram
 hits: 65
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Manchester In 2020
+title: Top 10 Beauty Instagram Influencers In Manchester In 2021
 description: >-
-  Find top beauty Instagram influencers in Manchester in 2020. Most popular hashtags: #beauty #manchester #makeup #makeupartist.
+  Find top beauty Instagram influencers in Manchester in 2021. Most popular hashtags: #beauty #manchester #makeup #makeupartist.
 platform: Instagram
 hits: 91
 text_top: Analyze the best Instagram influencers on inBeat.

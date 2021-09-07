@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In 2020
+title: Top 10 Fitness Instagram Influencers In 2021
 description: >-
-  Find top fitness Instagram influencers in 2020. Most popular hashtags: #fitness #gym #outfit.
+  Find top fitness Instagram influencers in 2021. Most popular hashtags: #fitness #gym #outfit.
 platform: Instagram
 hits: 49824
 text_top: See the best Instagram influencers on inBeat.

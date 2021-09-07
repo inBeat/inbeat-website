@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Rio De Janeiro In 2020
+title: Top 10 Health Instagram Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top health Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #love #riodejaneiro #tbt #beach.
+  Find top health Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #love #riodejaneiro #tbt #beach.
 platform: Instagram
 hits: 8
 text_top: Analyze the top-rated Instagram profiles on inBeat.

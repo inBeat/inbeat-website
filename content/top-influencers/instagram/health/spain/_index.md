@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Spain In 2020
+title: Top 10 Health Instagram Influencers In Spain In 2021
 description: >-
-  Find top health Instagram influencers in Spain in 2020. Most popular hashtags: #healthylifestyle #fitness #lifestyle #training.
+  Find top health Instagram influencers in Spain in 2021. Most popular hashtags: #healthylifestyle #fitness #lifestyle #training.
 platform: Instagram
 hits: 712
 text_top: Identify the best Instagram profiles on inBeat.

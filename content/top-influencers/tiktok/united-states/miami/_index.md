@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Miami In 2020
+title: Top 10 TikTok Influencers In Miami In 2021
 description: >-
-  Find top TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #foryou #duet.
+  Find top TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
 hits: 1221
 text_top: Discover the most popular TikTok profiles on inBeat.

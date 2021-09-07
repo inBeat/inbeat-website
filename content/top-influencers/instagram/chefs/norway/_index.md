@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Norway In 2020
+title: Top 10 Chefs Instagram Influencers In Norway In 2021
 description: >-
-  Find top chefs Instagram influencers in Norway in 2020. Most popular hashtags: #norway #michelinguide #oslo #michelin.
+  Find top chefs Instagram influencers in Norway in 2021. Most popular hashtags: #norway #michelinguide #oslo #michelin.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram accounts on inBeat.

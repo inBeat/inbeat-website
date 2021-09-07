@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In San Francisco In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in San Francisco in 2020. Most popular hashtags: #tattoo #tattooartist #bayareatattoo #sanfrancisco.
+  Find top tattoo-artists Instagram influencers in San Francisco in 2021. Most popular hashtags: #tattoo #tattooartist #bayareatattoo #sanfrancisco.
 platform: Instagram
 hits: 17
 text_top: Identify the best Instagram influencers on inBeat.

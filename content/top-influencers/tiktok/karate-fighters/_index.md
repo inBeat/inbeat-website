@@ -1,7 +1,7 @@
 ---
-title: Top 10 Karate Fighters TikTok Influencers In 2020
+title: Top 10 Karate Fighters TikTok Influencers In 2021
 description: >-
-  Find top karate fighters TikTok influencers in 2020. Most popular hashtags: #knife #kickbox #athlet #fighter.
+  Find top karate fighters TikTok influencers in 2021. Most popular hashtags: #knife #kickbox #athlet #fighter.
 platform: TikTok
 hits: 1
 text_top: See the most popular TikTok accounts on inBeat.

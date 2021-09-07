@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Rappers Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top rappers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #mydubai #bts.
+  Find top rappers Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #mydubai #bts.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

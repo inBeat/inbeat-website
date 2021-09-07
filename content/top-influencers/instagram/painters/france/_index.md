@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In France In 2020
+title: Top 10 Painters Instagram Influencers In France In 2021
 description: >-
-  Find top painters Instagram influencers in France in 2020. Most popular hashtags: #painting #art #illustration #sketch.
+  Find top painters Instagram influencers in France in 2021. Most popular hashtags: #painting #art #illustration #sketch.
 platform: Instagram
 hits: 291
 text_top: Analyze the most popular Instagram accounts on inBeat.

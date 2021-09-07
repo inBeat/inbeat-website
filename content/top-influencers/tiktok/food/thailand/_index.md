@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Thailand In 2020
+title: Top 10 Food TikTok Influencers In Thailand In 2021
 description: >-
-  Find top food TikTok influencers in Thailand in 2020. Most popular hashtags: #food #fyp #foryou #cooking.
+  Find top food TikTok influencers in Thailand in 2021. Most popular hashtags: #food #fyp #foryou #cooking.
 platform: TikTok
 hits: 62
 text_top: Identify the top-rated TikTok accounts on inBeat.

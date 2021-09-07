@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Portugal In 2020
+title: Top 10 Divers Instagram Influencers In Portugal In 2021
 description: >-
-  Find top divers Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #algarve #lisboa #stayhome.
+  Find top divers Instagram influencers in Portugal in 2021. Most popular hashtags: #portugal #algarve #lisboa #stayhome.
 platform: Instagram
 hits: 11
 text_top: See the most popular Instagram profiles on inBeat.

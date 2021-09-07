@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Las Vegas In 2020
+title: Top 10 Athletes TikTok Influencers In Las Vegas In 2021
 description: >-
-  Find top athletes TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top athletes TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
 hits: 7
 text_top: Identify the top-rated TikTok influencers on inBeat.

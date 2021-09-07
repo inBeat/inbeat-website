@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In New York In 2020
+title: Top 10 Food Instagram Influencers In New York In 2021
 description: >-
-  Find top food Instagram influencers in New York in 2020. Most popular hashtags: #newyork #food #love #foodie.
+  Find top food Instagram influencers in New York in 2021. Most popular hashtags: #newyork #food #love #foodie.
 platform: Instagram
 hits: 430
 text_top: Discover the most popular Instagram accounts on inBeat.

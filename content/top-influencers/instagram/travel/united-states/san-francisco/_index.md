@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In San Francisco In 2020
+title: Top 10 Travel Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top travel Instagram influencers in San Francisco in 2020. Most popular hashtags: #travel #sanfrancisco #california #nature.
+  Find top travel Instagram influencers in San Francisco in 2021. Most popular hashtags: #travel #sanfrancisco #california #nature.
 platform: Instagram
 hits: 299
 text_top: See the best Instagram profiles on inBeat.

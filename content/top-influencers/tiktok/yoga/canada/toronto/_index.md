@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Toronto In 2020
+title: Top 10 Yoga TikTok Influencers In Toronto In 2021
 description: >-
-  Find top yoga TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #yoga #funny #foryou.
+  Find top yoga TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #yoga #funny #foryou.
 platform: TikTok
 hits: 8
 text_top: Identify the most popular TikTok influencers on inBeat.

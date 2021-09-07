@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Berlin In 2020
+title: Top 10 Yoga Instagram Influencers In Berlin In 2021
 description: >-
-  Find top yoga Instagram influencers in Berlin in 2020. Most popular hashtags: #yoga #yogaberlin #yogainspiration #berlin.
+  Find top yoga Instagram influencers in Berlin in 2021. Most popular hashtags: #yoga #yogaberlin #yogainspiration #berlin.
 platform: Instagram
 hits: 109
 text_top: Identify the best Instagram influencers on inBeat.

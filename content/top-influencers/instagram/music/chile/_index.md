@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Chile In 2020
+title: Top 10 Music Instagram Influencers In Chile In 2021
 description: >-
-  Find top music Instagram influencers in Chile in 2020. Most popular hashtags: #musica #musicachilena #chile.
+  Find top music Instagram influencers in Chile in 2021. Most popular hashtags: #musica #musicachilena #chile.
 platform: Instagram
 hits: 248
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Spain In 2020
+title: Top 10 Lifestyle Instagram Influencers In Spain In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Spain in 2020. Most popular hashtags: #sorteo #halloween #recetas.
+  Find top lifestyle Instagram influencers in Spain in 2021. Most popular hashtags: #sorteo #halloween #recetas.
 platform: Instagram
 hits: 1015
 text_top: Analyze the most popular Instagram profiles on inBeat.

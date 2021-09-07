@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Poland In 2020
+title: Top 10 Mma Fighters Instagram Influencers In Poland In 2021
 description: >-
-  Find top mma fighters Instagram influencers in Poland in 2020. Most popular hashtags: #ksw #fighter #mma #fight.
+  Find top mma fighters Instagram influencers in Poland in 2021. Most popular hashtags: #ksw #fighter #mma #fight.
 platform: Instagram
 hits: 17
 text_top: Identify the top-rated Instagram accounts on inBeat.

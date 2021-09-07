@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Russia In 2020
+title: Top 10 Divers Instagram Influencers In Russia In 2021
 description: >-
-  Find top divers Instagram influencers in Russia in 2020. Most popular hashtags: #russia #life #travel #nature.
+  Find top divers Instagram influencers in Russia in 2021. Most popular hashtags: #russia #life #travel #nature.
 platform: Instagram
 hits: 21
 text_top: Identify the top-rated Instagram accounts on inBeat.

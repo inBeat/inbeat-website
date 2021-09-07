@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Germany In 2020
+title: Top 10 Fashion Instagram Influencers In Germany In 2021
 description: >-
-  Find top fashion Instagram influencers in Germany in 2020. Most popular hashtags: #fashion #ootd #fashionblogger #blogger.
+  Find top fashion Instagram influencers in Germany in 2021. Most popular hashtags: #fashion #ootd #fashionblogger #blogger.
 platform: Instagram
 hits: 4894
 text_top: Identify the best Instagram influencers on inBeat.

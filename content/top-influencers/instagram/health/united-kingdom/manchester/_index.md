@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Manchester In 2020
+title: Top 10 Health Instagram Influencers In Manchester In 2021
 description: >-
-  Find top health Instagram influencers in Manchester in 2020. Most popular hashtags: #health #ad #mentalhealth #manchester.
+  Find top health Instagram influencers in Manchester in 2021. Most popular hashtags: #health #ad #mentalhealth #manchester.
 platform: Instagram
 hits: 32
 text_top: Discover the top-rated Instagram influencers on inBeat.

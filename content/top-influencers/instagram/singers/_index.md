@@ -1,7 +1,7 @@
 ---
-title: Top 10 Singers Instagram Influencers In 2020
+title: Top 10 Singers Instagram Influencers In 2021
 description: >-
-  Find top singers Instagram influencers in 2020. Most popular hashtags: #music #live #coronavirus.
+  Find top singers Instagram influencers in 2021. Most popular hashtags: #music #live #coronavirus.
 platform: Instagram
 hits: 14465
 text_top: Discover the most popular Instagram profiles on inBeat.

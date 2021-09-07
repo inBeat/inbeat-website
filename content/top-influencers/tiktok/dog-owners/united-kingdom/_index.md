@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In United Kingdom In 2020
+title: Top 10 Dog Owners TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top dog owners TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #dogsoftiktok #dogs #foryoupage.
+  Find top dog owners TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #dogsoftiktok #dogs #foryoupage.
 platform: TikTok
 hits: 9
 text_top: See the best TikTok profiles on inBeat.

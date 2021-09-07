@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Finland In 2020
+title: Top 10 Travel Instagram Influencers In Finland In 2021
 description: >-
-  Find top travel Instagram influencers in Finland in 2020. Most popular hashtags: #finland #suomi #visitfinland #nature.
+  Find top travel Instagram influencers in Finland in 2021. Most popular hashtags: #finland #suomi #visitfinland #nature.
 platform: Instagram
 hits: 141
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In 2020
+title: Top 10 Photographers Instagram Influencers In 2021
 description: >-
-  Find top photographers Instagram influencers in 2020. Most popular hashtags: #zheste #777luckyfish #bnw.
+  Find top photographers Instagram influencers in 2021. Most popular hashtags: #zheste #777luckyfish #bnw.
 platform: Instagram
 hits: 36071
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Canada In 2020
+title: Top 10 Lingerie Instagram Influencers In Canada In 2021
 description: >-
-  Find top lingerie Instagram influencers in Canada in 2020. Most popular hashtags: #lingerie #model #photoshoot #blackandwhite.
+  Find top lingerie Instagram influencers in Canada in 2021. Most popular hashtags: #lingerie #model #photoshoot #blackandwhite.
 platform: Instagram
 hits: 54
 text_top: See the top-rated Instagram accounts on inBeat.

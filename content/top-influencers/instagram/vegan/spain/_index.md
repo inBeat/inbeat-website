@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Spain In 2020
+title: Top 10 Vegan Instagram Influencers In Spain In 2021
 description: >-
-  Find top vegan Instagram influencers in Spain in 2020. Most popular hashtags: #namaste #happy #nature.
+  Find top vegan Instagram influencers in Spain in 2021. Most popular hashtags: #namaste #happy #nature.
 platform: Instagram
 hits: 331
 text_top: See the best Instagram accounts on inBeat.

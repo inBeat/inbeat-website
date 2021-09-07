@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In South Africa In 2020
+title: Top 10 Chefs Instagram Influencers In South Africa In 2021
 description: >-
-  Find top chefs Instagram influencers in South Africa in 2020. Most popular hashtags: #endsars #muffins #stayhome.
+  Find top chefs Instagram influencers in South Africa in 2021. Most popular hashtags: #endsars #muffins #stayhome.
 platform: Instagram
 hits: 19
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Las Vegas In 2020
+title: Top 10 Gaming Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top gaming Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #gaming #newyork #vegas.
+  Find top gaming Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #gaming #newyork #vegas.
 platform: Instagram
 hits: 21
 text_top: See the top-rated Instagram accounts on inBeat.

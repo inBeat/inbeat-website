@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In London In 2020
+title: Top 10 Fitness Instagram Influencers In London In 2021
 description: >-
-  Find top fitness Instagram influencers in London in 2020. Most popular hashtags: #london #fitness #workout #fitnessmotivation.
+  Find top fitness Instagram influencers in London in 2021. Most popular hashtags: #london #fitness #workout #fitnessmotivation.
 platform: Instagram
 hits: 424
 text_top: See the most popular Instagram accounts on inBeat.

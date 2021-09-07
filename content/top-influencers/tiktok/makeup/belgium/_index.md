@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Belgium In 2020
+title: Top 10 Makeup TikTok Influencers In Belgium In 2021
 description: >-
-  Find top makeup TikTok influencers in Belgium in 2020. Most popular hashtags: #makeup #foryou #fyp #pourtoi.
+  Find top makeup TikTok influencers in Belgium in 2021. Most popular hashtags: #makeup #foryou #fyp #pourtoi.
 platform: TikTok
 hits: 53
 text_top: See the top-rated TikTok profiles on inBeat.

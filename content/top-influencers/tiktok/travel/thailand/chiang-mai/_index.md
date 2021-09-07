@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chiang Mai In 2020
+title: Top 10 Travel TikTok Influencers In Chiang Mai In 2021
 description: >-
-  Find top travel TikTok influencers in Chiang Mai in 2020. Most popular hashtags: #travel #thailand #chiangmai.
+  Find top travel TikTok influencers in Chiang Mai in 2021. Most popular hashtags: #travel #thailand #chiangmai.
 platform: TikTok
 hits: 5
 text_top: Discover the top-rated TikTok influencers on inBeat.

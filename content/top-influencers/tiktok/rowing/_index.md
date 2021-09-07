@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rowing TikTok Influencers In 2020
+title: Top 10 Rowing TikTok Influencers In 2021
 description: >-
-  Find top rowing TikTok influencers in 2020. Most popular hashtags: #fyp #rowing #foryoupage #foryou.
+  Find top rowing TikTok influencers in 2021. Most popular hashtags: #fyp #rowing #foryoupage #foryou.
 platform: TikTok
 hits: 931
 text_top: Analyze the best TikTok influencers on inBeat.

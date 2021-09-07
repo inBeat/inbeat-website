@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Berlin In 2020
+title: Top 10 Photographers TikTok Influencers In Berlin In 2021
 description: >-
-  Find top photographers TikTok influencers in Berlin in 2020. Most popular hashtags: #fyp #foryou #berlin #tiktoktravel.
+  Find top photographers TikTok influencers in Berlin in 2021. Most popular hashtags: #fyp #foryou #berlin #tiktoktravel.
 platform: TikTok
 hits: 5
 text_top: Discover the top-rated TikTok accounts on inBeat.

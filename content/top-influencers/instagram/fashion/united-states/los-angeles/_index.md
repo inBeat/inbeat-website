@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Los Angeles In 2020
+title: Top 10 Fashion Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top fashion Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fashion #losangeles #model #style.
+  Find top fashion Instagram influencers in Los Angeles in 2021. Most popular hashtags: #fashion #losangeles #model #style.
 platform: Instagram
 hits: 1166
 text_top: Identify the most popular Instagram profiles on inBeat.

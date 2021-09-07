@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In New York In 2020
+title: Top 10 Tattoo-Artists TikTok Influencers In New York In 2021
 description: >-
-  Find top tattoo-artists TikTok influencers in New York in 2020. Most popular hashtags: #fyp #duet #foryoupage #tattoo.
+  Find top tattoo-artists TikTok influencers in New York in 2021. Most popular hashtags: #fyp #duet #foryoupage #tattoo.
 platform: TikTok
 hits: 7
 text_top: See the best TikTok accounts on inBeat.

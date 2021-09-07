@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Las Vegas In 2020
+title: Top 10 Health Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top health Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #health #love #model.
+  Find top health Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #health #love #model.
 platform: Instagram
 hits: 134
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Milan In 2020
+title: Top 10 Fashion Instagram Influencers In Milan In 2021
 description: >-
-  Find top fashion Instagram influencers in Milan in 2020. Most popular hashtags: #fashion #milan #italy #outfit.
+  Find top fashion Instagram influencers in Milan in 2021. Most popular hashtags: #fashion #milan #italy #outfit.
 platform: Instagram
 hits: 650
 text_top: See the top-rated Instagram influencers on inBeat.

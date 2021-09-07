@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Berlin In 2020
+title: Top 10 Food Instagram Influencers In Berlin In 2021
 description: >-
-  Find top food Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #berlinfood #berlinfoodie #food.
+  Find top food Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #berlinfood #berlinfoodie #food.
 platform: Instagram
 hits: 237
 text_top: Identify the most popular Instagram profiles on inBeat.

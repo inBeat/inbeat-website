@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Capetown In 2020
+title: Top 10 Nutrition Instagram Influencers In Capetown In 2021
 description: >-
-  Find top nutrition Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #fitness #love.
+  Find top nutrition Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #southafrica #fitness #love.
 platform: Instagram
 hits: 6
 text_top: Analyze the top-rated Instagram accounts on inBeat.

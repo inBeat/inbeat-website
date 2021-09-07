@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Brazil In 2020
+title: Top 10 Outdoors Instagram Influencers In Brazil In 2021
 description: >-
-  Find top outdoors Instagram influencers in Brazil in 2020. Most popular hashtags: #outdoors #adventure #nature #aventura.
+  Find top outdoors Instagram influencers in Brazil in 2021. Most popular hashtags: #outdoors #adventure #nature #aventura.
 platform: Instagram
 hits: 243
 text_top: Discover the most popular Instagram profiles on inBeat.

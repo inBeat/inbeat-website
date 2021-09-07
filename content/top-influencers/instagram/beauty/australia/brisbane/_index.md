@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Brisbane In 2020
+title: Top 10 Beauty Instagram Influencers In Brisbane In 2021
 description: >-
-  Find top beauty Instagram influencers in Brisbane in 2020. Most popular hashtags: #beauty #brisbane #fashionblogger #makeupinspo.
+  Find top beauty Instagram influencers in Brisbane in 2021. Most popular hashtags: #beauty #brisbane #fashionblogger #makeupinspo.
 platform: Instagram
 hits: 59
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Australia In 2020
+title: Top 10 Christian Instagram Influencers In Australia In 2021
 description: >-
-  Find top christian Instagram influencers in Australia in 2020. Most popular hashtags: #photoshoot #newborn #collab.
+  Find top christian Instagram influencers in Australia in 2021. Most popular hashtags: #photoshoot #newborn #collab.
 platform: Instagram
 hits: 141
 text_top: Discover the top-rated Instagram influencers on inBeat.

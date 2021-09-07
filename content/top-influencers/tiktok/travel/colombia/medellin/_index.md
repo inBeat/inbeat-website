@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Medellín In 2020
+title: Top 10 Travel TikTok Influencers In Medellín In 2021
 description: >-
-  Find top travel TikTok influencers in Medellín in 2020. Most popular hashtags: #colombia #travel #tiktokcolombia #viral.
+  Find top travel TikTok influencers in Medellín in 2021. Most popular hashtags: #colombia #travel #tiktokcolombia #viral.
 platform: TikTok
 hits: 8
 text_top: Identify the best TikTok profiles on inBeat.

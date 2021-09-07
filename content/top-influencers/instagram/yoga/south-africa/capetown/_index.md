@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Capetown In 2020
+title: Top 10 Yoga Instagram Influencers In Capetown In 2021
 description: >-
-  Find top yoga Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #yoga #love.
+  Find top yoga Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #southafrica #yoga #love.
 platform: Instagram
 hits: 11
 text_top: Identify the most popular Instagram influencers on inBeat.

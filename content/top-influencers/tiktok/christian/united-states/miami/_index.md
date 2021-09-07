@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Miami In 2020
+title: Top 10 Christian TikTok Influencers In Miami In 2021
 description: >-
-  Find top christian TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #christian #greenscreen #miami.
+  Find top christian TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #christian #greenscreen #miami.
 platform: TikTok
 hits: 18
 text_top: See the best TikTok profiles on inBeat.

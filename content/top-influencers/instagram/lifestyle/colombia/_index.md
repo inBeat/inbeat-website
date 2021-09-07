@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Colombia In 2020
+title: Top 10 Lifestyle Instagram Influencers In Colombia In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #lifestyle #fashion.
+  Find top lifestyle Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #lifestyle #fashion.
 platform: Instagram
 hits: 245
 text_top: Analyze the best Instagram accounts on inBeat.

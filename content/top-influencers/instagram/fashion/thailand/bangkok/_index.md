@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bangkok In 2020
+title: Top 10 Fashion Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top fashion Instagram influencers in Bangkok in 2020. Most popular hashtags: #fashion #photooftheday #thailand #travel.
+  Find top fashion Instagram influencers in Bangkok in 2021. Most popular hashtags: #fashion #photooftheday #thailand #travel.
 platform: Instagram
 hits: 15
 text_top: Identify the most popular Instagram influencers on inBeat.

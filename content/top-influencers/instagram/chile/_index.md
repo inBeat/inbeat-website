@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Chile In 2020
+title: Top 10 Instagram Influencers In Chile In 2021
 description: >-
-  Find top Instagram influencers in Chile in 2020. Most popular hashtags: #maquillajechile #aquisomostodos #adidasfootball.
+  Find top Instagram influencers in Chile in 2021. Most popular hashtags: #maquillajechile #aquisomostodos #adidasfootball.
 platform: Instagram
 hits: 2665
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Malaysia In 2020
+title: Top 10 Bloggers Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top bloggers Instagram influencers in Malaysia in 2020. Most popular hashtags: #instagram #lahore #bookshelfie.
+  Find top bloggers Instagram influencers in Malaysia in 2021. Most popular hashtags: #instagram #lahore #bookshelfie.
 platform: Instagram
 hits: 33
 text_top: Identify the top-rated Instagram profiles on inBeat.

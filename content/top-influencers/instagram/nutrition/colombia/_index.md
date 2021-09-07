@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Colombia In 2020
+title: Top 10 Nutrition Instagram Influencers In Colombia In 2021
 description: >-
-  Find top nutrition Instagram influencers in Colombia in 2020. Most popular hashtags: #fitness #healthy #fit.
+  Find top nutrition Instagram influencers in Colombia in 2021. Most popular hashtags: #fitness #healthy #fit.
 platform: Instagram
 hits: 46
 text_top: See the most popular Instagram profiles on inBeat.

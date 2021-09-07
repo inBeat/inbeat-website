@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In India In 2020
+title: Top 10 Christian TikTok Influencers In India In 2021
 description: >-
-  Find top christian TikTok influencers in India in 2020. Most popular hashtags: #duet #tamil #sharethecare #foryoupage.
+  Find top christian TikTok influencers in India in 2021. Most popular hashtags: #duet #tamil #sharethecare #foryoupage.
 platform: TikTok
 hits: 75
 text_top: Identify the best TikTok profiles on inBeat.

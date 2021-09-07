@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs TikTok Influencers In Brazil In 2020
+title: Top 10 Djs TikTok Influencers In Brazil In 2021
 description: >-
-  Find top djs TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #dance #foryou #meme.
+  Find top djs TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #dance #foryou #meme.
 platform: TikTok
 hits: 10
 text_top: Analyze the top-rated TikTok accounts on inBeat.

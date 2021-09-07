@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Germany In 2020
+title: Top 10 Chefs Instagram Influencers In Germany In 2021
 description: >-
-  Find top chefs Instagram influencers in Germany in 2020. Most popular hashtags: #love #happy #culinary #kochen.
+  Find top chefs Instagram influencers in Germany in 2021. Most popular hashtags: #love #happy #culinary #kochen.
 platform: Instagram
 hits: 110
 text_top: Identify the top-rated Instagram accounts on inBeat.

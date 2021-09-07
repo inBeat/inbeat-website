@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Argentina In 2020
+title: Top 10 Home Decor Instagram Influencers In Argentina In 2021
 description: >-
-  Find top home decor Instagram influencers in Argentina in 2020. Most popular hashtags: #homedecor #deco #home #decoracion.
+  Find top home decor Instagram influencers in Argentina in 2021. Most popular hashtags: #homedecor #deco #home #decoracion.
 platform: Instagram
 hits: 39
 text_top: Analyze the top-rated Instagram influencers on inBeat.

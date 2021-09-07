@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Switzerland In 2020
+title: Top 10 Comedians TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top comedians TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top comedians TikTok influencers in Switzerland in 2021. Most popular hashtags: #fyp #foryou #viral #fy.
 platform: TikTok
 hits: 10
 text_top: Identify the top-rated TikTok profiles on inBeat.

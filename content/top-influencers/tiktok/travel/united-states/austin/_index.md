@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Austin In 2020
+title: Top 10 Travel TikTok Influencers In Austin In 2021
 description: >-
-  Find top travel TikTok influencers in Austin in 2020. Most popular hashtags: #texas #austin #fyp #travel.
+  Find top travel TikTok influencers in Austin in 2021. Most popular hashtags: #texas #austin #fyp #travel.
 platform: TikTok
 hits: 94
 text_top: Analyze the best TikTok influencers on inBeat.

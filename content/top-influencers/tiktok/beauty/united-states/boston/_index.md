@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Boston In 2020
+title: Top 10 Beauty TikTok Influencers In Boston In 2021
 description: >-
-  Find top beauty TikTok influencers in Boston in 2020. Most popular hashtags: #fyp #boston #beauty #greenscreen.
+  Find top beauty TikTok influencers in Boston in 2021. Most popular hashtags: #fyp #boston #beauty #greenscreen.
 platform: TikTok
 hits: 13
 text_top: Analyze the best TikTok influencers on inBeat.

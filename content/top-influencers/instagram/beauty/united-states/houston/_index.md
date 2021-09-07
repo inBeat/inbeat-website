@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Houston In 2020
+title: Top 10 Beauty Instagram Influencers In Houston In 2021
 description: >-
-  Find top beauty Instagram influencers in Houston in 2020. Most popular hashtags: #houston #beauty #makeup #hair.
+  Find top beauty Instagram influencers in Houston in 2021. Most popular hashtags: #houston #beauty #makeup #hair.
 platform: Instagram
 hits: 256
 text_top: Identify the top-rated Instagram accounts on inBeat.

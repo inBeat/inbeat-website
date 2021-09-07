@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Singapore In 2020
+title: Top 10 Illustrators Instagram Influencers In Singapore In 2021
 description: >-
-  Find top illustrators Instagram influencers in Singapore in 2020. Most popular hashtags: #illustration #sketch #digitalart #animation.
+  Find top illustrators Instagram influencers in Singapore in 2021. Most popular hashtags: #illustration #sketch #digitalart #animation.
 platform: Instagram
 hits: 11
 text_top: Identify the most popular Instagram profiles on inBeat.

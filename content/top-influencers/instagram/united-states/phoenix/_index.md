@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Phoenix In 2020
+title: Top 10 Instagram Influencers In Phoenix In 2021
 description: >-
-  Find top Instagram influencers in Phoenix in 2020. Most popular hashtags: #liketkit #ad #running.
+  Find top Instagram influencers in Phoenix in 2021. Most popular hashtags: #liketkit #ad #running.
 platform: Instagram
 hits: 1223
 text_top: Analyze the most popular Instagram accounts on inBeat.

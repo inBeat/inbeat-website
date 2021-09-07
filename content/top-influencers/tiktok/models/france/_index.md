@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In France In 2020
+title: Top 10 Models TikTok Influencers In France In 2021
 description: >-
-  Find top models TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #love.
+  Find top models TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #fyp #love.
 platform: TikTok
 hits: 107
 text_top: See the most popular TikTok influencers on inBeat.

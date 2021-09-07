@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Greece In 2020
+title: Top 10 Fashion TikTok Influencers In Greece In 2021
 description: >-
-  Find top fashion TikTok influencers in Greece in 2020. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
+  Find top fashion TikTok influencers in Greece in 2021. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
 platform: TikTok
 hits: 13
 text_top: Analyze the most popular TikTok influencers on inBeat.

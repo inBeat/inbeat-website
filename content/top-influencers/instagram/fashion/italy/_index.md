@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Italy In 2020
+title: Top 10 Fashion Instagram Influencers In Italy In 2021
 description: >-
-  Find top fashion Instagram influencers in Italy in 2020. Most popular hashtags: #fashion #style #ootdfashion.
+  Find top fashion Instagram influencers in Italy in 2021. Most popular hashtags: #fashion #style #ootdfashion.
 platform: Instagram
 hits: 2703
 text_top: See the top-rated Instagram influencers on inBeat.

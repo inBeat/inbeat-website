@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Melbourne In 2020
+title: Top 10 Fashion Instagram Influencers In Melbourne In 2021
 description: >-
-  Find top fashion Instagram influencers in Melbourne in 2020. Most popular hashtags: #fashion #melbourne #photography.
+  Find top fashion Instagram influencers in Melbourne in 2021. Most popular hashtags: #fashion #melbourne #photography.
 platform: Instagram
 hits: 159
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Milan In 2020
+title: Top 10 Beauty TikTok Influencers In Milan In 2021
 description: >-
-  Find top beauty TikTok influencers in Milan in 2020. Most popular hashtags: #beauty #foryou #viral #fyp.
+  Find top beauty TikTok influencers in Milan in 2021. Most popular hashtags: #beauty #foryou #viral #fyp.
 platform: TikTok
 hits: 12
 text_top: Identify the best TikTok accounts on inBeat.

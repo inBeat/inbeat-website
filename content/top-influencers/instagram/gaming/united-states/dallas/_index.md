@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Dallas In 2020
+title: Top 10 Gaming Instagram Influencers In Dallas In 2021
 description: >-
-  Find top gaming Instagram influencers in Dallas in 2020. Most popular hashtags: #gaming #dallas #videogames #gamers.
+  Find top gaming Instagram influencers in Dallas in 2021. Most popular hashtags: #gaming #dallas #videogames #gamers.
 platform: Instagram
 hits: 25
 text_top: See the best Instagram accounts on inBeat.

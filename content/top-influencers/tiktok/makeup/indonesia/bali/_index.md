@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Bali In 2020
+title: Top 10 Makeup TikTok Influencers In Bali In 2021
 description: >-
-  Find top makeup TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #viral #bali #foryou.
+  Find top makeup TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #viral #bali #foryou.
 platform: TikTok
 hits: 8
 text_top: Discover the top-rated TikTok influencers on inBeat.

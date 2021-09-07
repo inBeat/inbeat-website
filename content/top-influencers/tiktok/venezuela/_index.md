@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Venezuela In 2020
+title: Top 10 TikTok Influencers In Venezuela In 2021
 description: >-
-  Find top TikTok influencers in Venezuela in 2020. Most popular hashtags: #fyp #parati #venezuela #foryou.
+  Find top TikTok influencers in Venezuela in 2021. Most popular hashtags: #fyp #parati #venezuela #foryou.
 platform: TikTok
 hits: 279
 text_top: Discover the top-rated TikTok influencers on inBeat.

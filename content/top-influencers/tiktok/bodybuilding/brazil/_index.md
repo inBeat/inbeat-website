@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Brazil In 2020
+title: Top 10 Bodybuilding TikTok Influencers In Brazil In 2021
 description: >-
-  Find top bodybuilding TikTok influencers in Brazil in 2020. Most popular hashtags: #bodybuilding #treino #fitness #viral.
+  Find top bodybuilding TikTok influencers in Brazil in 2021. Most popular hashtags: #bodybuilding #treino #fitness #viral.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In India In 2020
+title: Top 10 Photographers TikTok Influencers In India In 2021
 description: >-
-  Find top photographers TikTok influencers in India in 2020. Most popular hashtags: #tiktok #duet #tiktokindia #foryou.
+  Find top photographers TikTok influencers in India in 2021. Most popular hashtags: #tiktok #duet #tiktokindia #foryou.
 platform: TikTok
 hits: 214
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Hamburg In 2020
+title: Top 10 Lifestyle Instagram Influencers In Hamburg In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #lifestyle #berlin #germany.
+  Find top lifestyle Instagram influencers in Hamburg in 2021. Most popular hashtags: #hamburg #lifestyle #berlin #germany.
 platform: Instagram
 hits: 399
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Poland In 2020
+title: Top 10 Cosmetics TikTok Influencers In Poland In 2021
 description: >-
-  Find top cosmetics TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #foryou #cosmetics #foryoupage.
+  Find top cosmetics TikTok influencers in Poland in 2021. Most popular hashtags: #dlaciebie #foryou #cosmetics #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok accounts on inBeat.

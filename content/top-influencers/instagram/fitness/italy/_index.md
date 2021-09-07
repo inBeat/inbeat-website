@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Italy In 2020
+title: Top 10 Fitness Instagram Influencers In Italy In 2021
 description: >-
-  Find top fitness Instagram influencers in Italy in 2020. Most popular hashtags: #fitness #italiangirl #me #fashion.
+  Find top fitness Instagram influencers in Italy in 2021. Most popular hashtags: #fitness #italiangirl #me #fashion.
 platform: Instagram
 hits: 1267
 text_top: Identify the most popular Instagram accounts on inBeat.

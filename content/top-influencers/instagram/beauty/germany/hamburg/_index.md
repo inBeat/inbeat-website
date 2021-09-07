@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Hamburg In 2020
+title: Top 10 Beauty Instagram Influencers In Hamburg In 2021
 description: >-
-  Find top beauty Instagram influencers in Hamburg in 2020. Most popular hashtags: #beauty #hamburg #happy #smile.
+  Find top beauty Instagram influencers in Hamburg in 2021. Most popular hashtags: #beauty #hamburg #happy #smile.
 platform: Instagram
 hits: 329
 text_top: Discover the best Instagram accounts on inBeat.

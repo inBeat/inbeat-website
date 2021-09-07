@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Nigeria In 2020
+title: Top 10 Rappers Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top rappers Instagram influencers in Nigeria in 2020. Most popular hashtags: #music #endsars #covid #endpolicebrutality.
+  Find top rappers Instagram influencers in Nigeria in 2021. Most popular hashtags: #music #endsars #covid #endpolicebrutality.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Chicago In 2020
+title: Top 10 Instagram Influencers In Chicago In 2021
 description: >-
-  Find top Instagram influencers in Chicago in 2020. Most popular hashtags: #painting #wip #solomonadufah.
+  Find top Instagram influencers in Chicago in 2021. Most popular hashtags: #painting #wip #solomonadufah.
 platform: Instagram
 hits: 3774
 text_top: Identify the best Instagram profiles on inBeat.

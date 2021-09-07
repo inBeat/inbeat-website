@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Switzerland In 2020
+title: Top 10 Gymnasts TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top gymnasts TikTok influencers in Switzerland in 2020. Most popular hashtags: #foryou #gymnastics #fyp #viral.
+  Find top gymnasts TikTok influencers in Switzerland in 2021. Most popular hashtags: #foryou #gymnastics #fyp #viral.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok influencers on inBeat.

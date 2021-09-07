@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rugby Players TikTok Influencers In 2020
+title: Top 10 Rugby Players TikTok Influencers In 2021
 description: >-
-  Find top rugby players TikTok influencers in 2020. Most popular hashtags: #rugby #fyp #foryou #viral.
+  Find top rugby players TikTok influencers in 2021. Most popular hashtags: #rugby #fyp #foryou #viral.
 platform: TikTok
 hits: 15
 text_top: See the most popular TikTok accounts on inBeat.

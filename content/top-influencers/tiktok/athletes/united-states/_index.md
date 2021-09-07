@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In United States In 2020
+title: Top 10 Athletes TikTok Influencers In United States In 2021
 description: >-
-  Find top athletes TikTok influencers in United States in 2020. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top athletes TikTok influencers in United States in 2021. Most popular hashtags: #fyp #foryou #viral #foryoupage.
 platform: TikTok
 hits: 822
 text_top: Analyze the top-rated TikTok influencers on inBeat.

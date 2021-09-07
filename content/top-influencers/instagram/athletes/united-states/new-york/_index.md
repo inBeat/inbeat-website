@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In New York In 2020
+title: Top 10 Athletes Instagram Influencers In New York In 2021
 description: >-
-  Find top athletes Instagram influencers in New York in 2020. Most popular hashtags: #athlete #newyork #halloween.
+  Find top athletes Instagram influencers in New York in 2021. Most popular hashtags: #athlete #newyork #halloween.
 platform: Instagram
 hits: 133
 text_top: Analyze the top-rated Instagram accounts on inBeat.

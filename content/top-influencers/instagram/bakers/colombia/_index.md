@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Colombia In 2020
+title: Top 10 Bakers Instagram Influencers In Colombia In 2021
 description: >-
-  Find top bakers Instagram influencers in Colombia in 2020. Most popular hashtags: #bikersofinstagram #bikelife #bmwmotorrad #bikers.
+  Find top bakers Instagram influencers in Colombia in 2021. Most popular hashtags: #bikersofinstagram #bikelife #bmwmotorrad #bikers.
 platform: Instagram
 hits: 25
 text_top: Analyze the most popular Instagram influencers on inBeat.

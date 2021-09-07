@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Miami In 2020
+title: Top 10 Lifestyle Instagram Influencers In Miami In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Miami in 2020. Most popular hashtags: #lifestyle #miami #miamibeach #lifestylemiami.
+  Find top lifestyle Instagram influencers in Miami in 2021. Most popular hashtags: #lifestyle #miami #miamibeach #lifestylemiami.
 platform: Instagram
 hits: 585
 text_top: Analyze the top-rated Instagram profiles on inBeat.

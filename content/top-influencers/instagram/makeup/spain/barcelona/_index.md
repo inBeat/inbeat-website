@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Barcelona In 2020
+title: Top 10 Makeup Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top makeup Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #makeup #model #photooftheday.
+  Find top makeup Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #makeup #model #photooftheday.
 platform: Instagram
 hits: 128
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Montreal In 2020
+title: Top 10 Lifestyle TikTok Influencers In Montreal In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #canada #foryou #montreal.
+  Find top lifestyle TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #canada #foryou #montreal.
 platform: TikTok
 hits: 5
 text_top: See the top-rated TikTok profiles on inBeat.

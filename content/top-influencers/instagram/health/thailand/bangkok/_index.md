@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Bangkok In 2020
+title: Top 10 Health Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top health Instagram influencers in Bangkok in 2020. Most popular hashtags: #healthy #bangkok #thailand #healthylifestyle.
+  Find top health Instagram influencers in Bangkok in 2021. Most popular hashtags: #healthy #bangkok #thailand #healthylifestyle.
 platform: Instagram
 hits: 7
 text_top: See the top-rated Instagram influencers on inBeat.

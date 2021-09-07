@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Italy In 2020
+title: Top 10 Bloggers Instagram Influencers In Italy In 2021
 description: >-
-  Find top bloggers Instagram influencers in Italy in 2020. Most popular hashtags: #italy #travelblogger #memories.
+  Find top bloggers Instagram influencers in Italy in 2021. Most popular hashtags: #italy #travelblogger #memories.
 platform: Instagram
 hits: 933
 text_top: Analyze the most popular Instagram profiles on inBeat.

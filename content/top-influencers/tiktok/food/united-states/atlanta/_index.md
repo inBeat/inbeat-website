@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Atlanta In 2020
+title: Top 10 Food TikTok Influencers In Atlanta In 2021
 description: >-
-  Find top food TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #atlanta #foryou #food.
+  Find top food TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #atlanta #foryou #food.
 platform: TikTok
 hits: 41
 text_top: Identify the most popular TikTok accounts on inBeat.

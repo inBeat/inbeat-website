@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Rome In 2020
+title: Top 10 Nutrition Instagram Influencers In Rome In 2021
 description: >-
-  Find top nutrition Instagram influencers in Rome in 2020. Most popular hashtags: #italy #italia #nutrition #love.
+  Find top nutrition Instagram influencers in Rome in 2021. Most popular hashtags: #italy #italia #nutrition #love.
 platform: Instagram
 hits: 9
 text_top: See the best Instagram influencers on inBeat.

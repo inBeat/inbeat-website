@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Milan In 2020
+title: Top 10 Fitness TikTok Influencers In Milan In 2021
 description: >-
-  Find top fitness TikTok influencers in Milan in 2020. Most popular hashtags: #fitness #perte #foryou #milan.
+  Find top fitness TikTok influencers in Milan in 2021. Most popular hashtags: #fitness #perte #foryou #milan.
 platform: TikTok
 hits: 17
 text_top: Discover the top-rated TikTok profiles on inBeat.

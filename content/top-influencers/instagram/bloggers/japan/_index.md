@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Japan In 2020
+title: Top 10 Bloggers Instagram Influencers In Japan In 2021
 description: >-
-  Find top bloggers Instagram influencers in Japan in 2020. Most popular hashtags: #pr #outfit #ootd #tokyo.
+  Find top bloggers Instagram influencers in Japan in 2021. Most popular hashtags: #pr #outfit #ootd #tokyo.
 platform: Instagram
 hits: 43
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Morocco In 2020
+title: Top 10 Home Decor Instagram Influencers In Morocco In 2021
 description: >-
-  Find top home decor Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #fashion #homedecor #lifestyle.
+  Find top home decor Instagram influencers in Morocco in 2021. Most popular hashtags: #morocco #fashion #homedecor #lifestyle.
 platform: Instagram
 hits: 10
 text_top: See the best Instagram accounts on inBeat.

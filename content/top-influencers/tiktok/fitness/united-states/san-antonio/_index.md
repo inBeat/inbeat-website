@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Antonio In 2020
+title: Top 10 Fitness TikTok Influencers In San Antonio In 2021
 description: >-
-  Find top fitness TikTok influencers in San Antonio in 2020. Most popular hashtags: #fyp #foryoupage #fitness #texas.
+  Find top fitness TikTok influencers in San Antonio in 2021. Most popular hashtags: #fyp #foryoupage #fitness #texas.
 platform: TikTok
 hits: 9
 text_top: Discover the top-rated TikTok profiles on inBeat.

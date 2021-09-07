@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Switzerland In 2020
+title: Top 10 Divers Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top divers Instagram influencers in Switzerland in 2020. Most popular hashtags: #love #switzerland #swiss #amazing.
+  Find top divers Instagram influencers in Switzerland in 2021. Most popular hashtags: #love #switzerland #swiss #amazing.
 platform: Instagram
 hits: 29
 text_top: See the most popular Instagram accounts on inBeat.

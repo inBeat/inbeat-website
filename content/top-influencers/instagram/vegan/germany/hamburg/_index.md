@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Hamburg In 2020
+title: Top 10 Vegan Instagram Influencers In Hamburg In 2021
 description: >-
-  Find top vegan Instagram influencers in Hamburg in 2020. Most popular hashtags: #vegan #hamburg #happy #hamburgcity.
+  Find top vegan Instagram influencers in Hamburg in 2021. Most popular hashtags: #vegan #hamburg #happy #hamburgcity.
 platform: Instagram
 hits: 109
 text_top: See the top-rated Instagram profiles on inBeat.

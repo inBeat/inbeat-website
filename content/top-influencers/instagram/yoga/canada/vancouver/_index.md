@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Vancouver In 2020
+title: Top 10 Yoga Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top yoga Instagram influencers in Vancouver in 2020. Most popular hashtags: #canada #vancouver #vancouverisland #yoga.
+  Find top yoga Instagram influencers in Vancouver in 2021. Most popular hashtags: #canada #vancouver #vancouverisland #yoga.
 platform: Instagram
 hits: 21
 text_top: Discover the top-rated Instagram profiles on inBeat.

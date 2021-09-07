@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Colombia In 2020
+title: Top 10 Models Instagram Influencers In Colombia In 2021
 description: >-
-  Find top models Instagram influencers in Colombia in 2020. Most popular hashtags: #model #colombia #photography.
+  Find top models Instagram influencers in Colombia in 2021. Most popular hashtags: #model #colombia #photography.
 platform: Instagram
 hits: 352
 text_top: See the top-rated Instagram accounts on inBeat.

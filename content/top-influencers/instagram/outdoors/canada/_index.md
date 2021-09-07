@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Canada In 2020
+title: Top 10 Outdoors Instagram Influencers In Canada In 2021
 description: >-
-  Find top outdoors Instagram influencers in Canada in 2020. Most popular hashtags: #canada #exploremore #stayandwander.
+  Find top outdoors Instagram influencers in Canada in 2021. Most popular hashtags: #canada #exploremore #stayandwander.
 platform: Instagram
 hits: 598
 text_top: Analyze the best Instagram profiles on inBeat.

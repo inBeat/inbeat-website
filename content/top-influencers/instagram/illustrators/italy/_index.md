@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Italy In 2020
+title: Top 10 Illustrators Instagram Influencers In Italy In 2021
 description: >-
-  Find top illustrators Instagram influencers in Italy in 2020. Most popular hashtags: #witch #portrait #modeling.
+  Find top illustrators Instagram influencers in Italy in 2021. Most popular hashtags: #witch #portrait #modeling.
 platform: Instagram
 hits: 192
 text_top: Identify the most popular Instagram accounts on inBeat.

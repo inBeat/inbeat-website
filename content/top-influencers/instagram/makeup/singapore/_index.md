@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Singapore In 2020
+title: Top 10 Makeup Instagram Influencers In Singapore In 2021
 description: >-
-  Find top makeup Instagram influencers in Singapore in 2020. Most popular hashtags: #makeuplooks #makeup #makeuptutorial.
+  Find top makeup Instagram influencers in Singapore in 2021. Most popular hashtags: #makeuplooks #makeup #makeuptutorial.
 platform: Instagram
 hits: 71
 text_top: Identify the best Instagram profiles on inBeat.

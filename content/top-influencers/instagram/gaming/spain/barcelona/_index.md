@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Barcelona In 2020
+title: Top 10 Gaming Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top gaming Instagram influencers in Barcelona in 2020. Most popular hashtags: #gaming #anime #barcelona #art.
+  Find top gaming Instagram influencers in Barcelona in 2021. Most popular hashtags: #gaming #anime #barcelona #art.
 platform: Instagram
 hits: 8
 text_top: Discover the best Instagram profiles on inBeat.

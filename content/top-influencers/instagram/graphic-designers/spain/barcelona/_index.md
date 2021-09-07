@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Barcelona In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #instagood #illustration #graphicdesign.
+  Find top graphic-designers Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #instagood #illustration #graphicdesign.
 platform: Instagram
 hits: 10
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In France In 2020
+title: Top 10 Health Instagram Influencers In France In 2021
 description: >-
-  Find top health Instagram influencers in France in 2020. Most popular hashtags: #summer #concours #corse #confinement.
+  Find top health Instagram influencers in France in 2021. Most popular hashtags: #summer #concours #corse #confinement.
 platform: Instagram
 hits: 1118
 text_top: Identify the top-rated Instagram influencers on inBeat.

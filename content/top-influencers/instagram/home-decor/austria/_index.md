@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Austria In 2020
+title: Top 10 Home Decor Instagram Influencers In Austria In 2021
 description: >-
-  Find top home decor Instagram influencers in Austria in 2020. Most popular hashtags: #homedecor #interior #interiorinspo #homesweethome.
+  Find top home decor Instagram influencers in Austria in 2021. Most popular hashtags: #homedecor #interior #interiorinspo #homesweethome.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram accounts on inBeat.

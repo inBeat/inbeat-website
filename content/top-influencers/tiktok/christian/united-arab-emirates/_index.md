@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Christian TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top christian TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fyp #foryou #duet #uae.
+  Find top christian TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #fyp #foryou #duet #uae.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok profiles on inBeat.

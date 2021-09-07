@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Chicago In 2020
+title: Top 10 Vegan TikTok Influencers In Chicago In 2021
 description: >-
-  Find top vegan TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #vegan #chicago #foryou.
+  Find top vegan TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #vegan #chicago #foryou.
 platform: TikTok
 hits: 14
 text_top: See the top-rated TikTok accounts on inBeat.

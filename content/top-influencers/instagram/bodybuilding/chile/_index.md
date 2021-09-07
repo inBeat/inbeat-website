@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Chile In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Chile In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Chile in 2020. Most popular hashtags: #fitness #bodybuilding #gym #workout.
+  Find top bodybuilding Instagram influencers in Chile in 2021. Most popular hashtags: #fitness #bodybuilding #gym #workout.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Korea In 2020
+title: Top 10 Stylists Instagram Influencers In South Korea In 2021
 description: >-
-  Find top stylists Instagram influencers in South Korea in 2020. Most popular hashtags: #life #12 #wkorea.
+  Find top stylists Instagram influencers in South Korea in 2021. Most popular hashtags: #life #12 #wkorea.
 platform: Instagram
 hits: 27
 text_top: Analyze the best Instagram profiles on inBeat.

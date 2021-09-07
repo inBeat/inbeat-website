@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Hamburg In 2020
+title: Top 10 Fitness Instagram Influencers In Hamburg In 2021
 description: >-
-  Find top fitness Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #fitness #fitnessmotivation #motivation.
+  Find top fitness Instagram influencers in Hamburg in 2021. Most popular hashtags: #hamburg #fitness #fitnessmotivation #motivation.
 platform: Instagram
 hits: 344
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Ankara In 2020
+title: Top 10 Yoga Instagram Influencers In Ankara In 2021
 description: >-
-  Find top yoga Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #istanbul #yoga #izmir.
+  Find top yoga Instagram influencers in Ankara in 2021. Most popular hashtags: #ankara #istanbul #yoga #izmir.
 platform: Instagram
 hits: 13
 text_top: Identify the top-rated Instagram profiles on inBeat.

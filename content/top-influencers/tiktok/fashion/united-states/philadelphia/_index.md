@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Philadelphia In 2020
+title: Top 10 Fashion TikTok Influencers In Philadelphia In 2021
 description: >-
-  Find top fashion TikTok influencers in Philadelphia in 2020. Most popular hashtags: #fyp #fashion #foryou #duet.
+  Find top fashion TikTok influencers in Philadelphia in 2021. Most popular hashtags: #fyp #fashion #foryou #duet.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok profiles on inBeat.

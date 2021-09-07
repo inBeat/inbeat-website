@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In India In 2020
+title: Top 10 Cooking Instagram Influencers In India In 2021
 description: >-
-  Find top cooking Instagram influencers in India in 2020. Most popular hashtags: #indianfood #foodphotography #indianfoodbloggers #foodblogger.
+  Find top cooking Instagram influencers in India in 2021. Most popular hashtags: #indianfood #foodphotography #indianfoodbloggers #foodblogger.
 platform: Instagram
 hits: 853
 text_top: Discover the most popular Instagram profiles on inBeat.

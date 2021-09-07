@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In 2020
+title: Top 10 Stylists Instagram Influencers In 2021
 description: >-
-  Find top stylists Instagram influencers in 2020. Most popular hashtags: #ad #hoping #netaporter.
+  Find top stylists Instagram influencers in 2021. Most popular hashtags: #ad #hoping #netaporter.
 platform: Instagram
 hits: 10290
 text_top: Identify the most popular Instagram influencers on inBeat.

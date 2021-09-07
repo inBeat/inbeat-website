@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Konya In 2020
+title: Top 10 Beauty Instagram Influencers In Konya In 2021
 description: >-
-  Find top beauty Instagram influencers in Konya in 2020. Most popular hashtags: #instagram #istanbul #instagood #travel.
+  Find top beauty Instagram influencers in Konya in 2021. Most popular hashtags: #instagram #istanbul #instagood #travel.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram influencers on inBeat.

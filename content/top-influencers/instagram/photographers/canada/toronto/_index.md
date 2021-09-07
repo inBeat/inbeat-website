@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Toronto In 2020
+title: Top 10 Photographers Instagram Influencers In Toronto In 2021
 description: >-
-  Find top photographers Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #love #ontario.
+  Find top photographers Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #love #ontario.
 platform: Instagram
 hits: 161
 text_top: Identify the most popular Instagram profiles on inBeat.

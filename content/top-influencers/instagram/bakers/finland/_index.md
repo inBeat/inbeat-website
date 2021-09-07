@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Finland In 2020
+title: Top 10 Bakers Instagram Influencers In Finland In 2021
 description: >-
-  Find top bakers Instagram influencers in Finland in 2020. Most popular hashtags: #tyyli #finnish #syksy.
+  Find top bakers Instagram influencers in Finland in 2021. Most popular hashtags: #tyyli #finnish #syksy.
 platform: Instagram
 hits: 14
 text_top: See the top-rated Instagram profiles on inBeat.

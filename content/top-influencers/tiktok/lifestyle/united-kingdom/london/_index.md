@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In London In 2020
+title: Top 10 Lifestyle TikTok Influencers In London In 2021
 description: >-
-  Find top lifestyle TikTok influencers in London in 2020. Most popular hashtags: #fyp #london #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in London in 2021. Most popular hashtags: #fyp #london #foryou #foryoupage.
 platform: TikTok
 hits: 31
 text_top: See the most popular TikTok influencers on inBeat.

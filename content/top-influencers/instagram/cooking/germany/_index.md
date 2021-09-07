@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Germany In 2020
+title: Top 10 Cooking Instagram Influencers In Germany In 2021
 description: >-
-  Find top cooking Instagram influencers in Germany in 2020. Most popular hashtags: #vegan #healthy #nature.
+  Find top cooking Instagram influencers in Germany in 2021. Most popular hashtags: #vegan #healthy #nature.
 platform: Instagram
 hits: 1027
 text_top: See the most popular Instagram influencers on inBeat.

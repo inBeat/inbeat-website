@@ -1,7 +1,7 @@
 ---
-title: Top 10 Environmental Instagram Influencers In 2020
+title: Top 10 Environmental Instagram Influencers In 2021
 description: >-
-  Find top environmental Instagram influencers in 2020. Most popular hashtags: #games #gamer #gamergirl.
+  Find top environmental Instagram influencers in 2021. Most popular hashtags: #games #gamer #gamergirl.
 platform: Instagram
 hits: 279
 text_top: Identify the most popular Instagram profiles on inBeat.

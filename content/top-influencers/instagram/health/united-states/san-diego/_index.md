@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In San Diego In 2020
+title: Top 10 Health Instagram Influencers In San Diego In 2021
 description: >-
-  Find top health Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #california #health #fitness.
+  Find top health Instagram influencers in San Diego in 2021. Most popular hashtags: #sandiego #california #health #fitness.
 platform: Instagram
 hits: 104
 text_top: Analyze the top-rated Instagram profiles on inBeat.

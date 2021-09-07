@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Atlanta In 2020
+title: Top 10 Beauty Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2020. Most popular hashtags: #beauty #explore #atlanta #melanin.
+  Find top beauty Instagram influencers in Atlanta in 2021. Most popular hashtags: #beauty #explore #atlanta #melanin.
 platform: Instagram
 hits: 330
 text_top: Identify the most popular Instagram influencers on inBeat.

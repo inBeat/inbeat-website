@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Russia In 2020
+title: Top 10 Instagram Influencers In Russia In 2021
 description: >-
-  Find top Instagram influencers in Russia in 2020. Most popular hashtags: #cosplayfun #disneyprincesscosplay #cosplaylife.
+  Find top Instagram influencers in Russia in 2021. Most popular hashtags: #cosplayfun #disneyprincesscosplay #cosplaylife.
 platform: Instagram
 hits: 30383
 text_top: Analyze the top-rated Instagram influencers on inBeat.

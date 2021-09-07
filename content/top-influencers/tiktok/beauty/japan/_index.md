@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Japan In 2020
+title: Top 10 Beauty TikTok Influencers In Japan In 2021
 description: >-
-  Find top beauty TikTok influencers in Japan in 2020. Most popular hashtags: #fyp #tiktok #beauty #foryou.
+  Find top beauty TikTok influencers in Japan in 2021. Most popular hashtags: #fyp #tiktok #beauty #foryou.
 platform: TikTok
 hits: 25
 text_top: See the best TikTok influencers on inBeat.

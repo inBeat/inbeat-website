@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Rome In 2020
+title: Top 10 Lifestyle TikTok Influencers In Rome In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Rome in 2020. Most popular hashtags: #fyp #italia #perte #lifestyle.
+  Find top lifestyle TikTok influencers in Rome in 2021. Most popular hashtags: #fyp #italia #perte #lifestyle.
 platform: TikTok
 hits: 4
 text_top: See the most popular TikTok profiles on inBeat.

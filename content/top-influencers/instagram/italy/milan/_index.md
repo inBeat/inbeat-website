@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Milan In 2020
+title: Top 10 Instagram Influencers In Milan In 2021
 description: >-
-  Find top Instagram influencers in Milan in 2020. Most popular hashtags: #makeup #makeuptutorial #halloweenmakeup.
+  Find top Instagram influencers in Milan in 2021. Most popular hashtags: #makeup #makeuptutorial #halloweenmakeup.
 platform: Instagram
 hits: 3207
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Norway In 2020
+title: Top 10 Beauty TikTok Influencers In Norway In 2021
 description: >-
-  Find top beauty TikTok influencers in Norway in 2020. Most popular hashtags: #fyp #foryoupage #viral #foryou.
+  Find top beauty TikTok influencers in Norway in 2021. Most popular hashtags: #fyp #foryoupage #viral #foryou.
 platform: TikTok
 hits: 20
 text_top: Analyze the most popular TikTok profiles on inBeat.

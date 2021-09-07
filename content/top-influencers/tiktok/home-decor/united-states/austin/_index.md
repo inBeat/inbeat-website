@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Austin In 2020
+title: Top 10 Home Decor TikTok Influencers In Austin In 2021
 description: >-
-  Find top home decor TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #foryou #homedecor #foryoupage.
+  Find top home decor TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #foryou #homedecor #foryoupage.
 platform: TikTok
 hits: 27
 text_top: Analyze the top-rated TikTok influencers on inBeat.

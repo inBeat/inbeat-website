@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Dallas In 2020
+title: Top 10 Christian Instagram Influencers In Dallas In 2021
 description: >-
-  Find top christian Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #cowboysnation #dallasblogger.
+  Find top christian Instagram influencers in Dallas in 2021. Most popular hashtags: #dallas #cowboysnation #dallasblogger.
 platform: Instagram
 hits: 27
 text_top: Discover the top-rated Instagram influencers on inBeat.

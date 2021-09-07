@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Phoenix In 2020
+title: Top 10 Fashion TikTok Influencers In Phoenix In 2021
 description: >-
-  Find top fashion TikTok influencers in Phoenix in 2020. Most popular hashtags: #fyp #fashion #duet #foryou.
+  Find top fashion TikTok influencers in Phoenix in 2021. Most popular hashtags: #fyp #fashion #duet #foryou.
 platform: TikTok
 hits: 7
 text_top: Discover the best TikTok accounts on inBeat.

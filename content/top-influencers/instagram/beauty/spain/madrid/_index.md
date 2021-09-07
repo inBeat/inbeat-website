@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Madrid In 2020
+title: Top 10 Beauty Instagram Influencers In Madrid In 2021
 description: >-
-  Find top beauty Instagram influencers in Madrid in 2020. Most popular hashtags: #beauty #madrid #love.
+  Find top beauty Instagram influencers in Madrid in 2021. Most popular hashtags: #beauty #madrid #love.
 platform: Instagram
 hits: 204
 text_top: Discover the best Instagram accounts on inBeat.

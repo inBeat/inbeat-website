@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Austin In 2020
+title: Top 10 Health Instagram Influencers In Austin In 2021
 description: >-
-  Find top health Instagram influencers in Austin in 2020. Most popular hashtags: #motivation #health #austin #texas.
+  Find top health Instagram influencers in Austin in 2021. Most popular hashtags: #motivation #health #austin #texas.
 platform: Instagram
 hits: 145
 text_top: Identify the most popular Instagram profiles on inBeat.

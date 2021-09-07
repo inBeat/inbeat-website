@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Italy In 2020
+title: Top 10 Lingerie Instagram Influencers In Italy In 2021
 description: >-
-  Find top lingerie Instagram influencers in Italy in 2020. Most popular hashtags: #lingerie #lingerielove #fashion #intimo.
+  Find top lingerie Instagram influencers in Italy in 2021. Most popular hashtags: #lingerie #lingerielove #fashion #intimo.
 platform: Instagram
 hits: 182
 text_top: Identify the best Instagram influencers on inBeat.

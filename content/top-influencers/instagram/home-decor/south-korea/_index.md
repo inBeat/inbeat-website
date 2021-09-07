@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In South Korea In 2020
+title: Top 10 Home Decor Instagram Influencers In South Korea In 2021
 description: >-
-  Find top home decor Instagram influencers in South Korea in 2020. Most popular hashtags: #homedecor #interior #home #daily.
+  Find top home decor Instagram influencers in South Korea in 2021. Most popular hashtags: #homedecor #interior #home #daily.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram accounts on inBeat.

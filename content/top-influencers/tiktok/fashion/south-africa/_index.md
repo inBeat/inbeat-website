@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In South Africa In 2020
+title: Top 10 Fashion TikTok Influencers In South Africa In 2021
 description: >-
-  Find top fashion TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
+  Find top fashion TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #fashion #tiktoksouthafrica #makeup.
 platform: TikTok
 hits: 42
 text_top: Discover the best TikTok profiles on inBeat.

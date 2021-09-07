@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Canada In 2020
+title: Top 10 Instagram Influencers In Canada In 2021
 description: >-
-  Find top Instagram influencers in Canada in 2020. Most popular hashtags: #toronto #explorequebec #canadianphotographer.
+  Find top Instagram influencers in Canada in 2021. Most popular hashtags: #toronto #explorequebec #canadianphotographer.
 platform: Instagram
 hits: 12832
 text_top: Analyze the top-rated Instagram profiles on inBeat.

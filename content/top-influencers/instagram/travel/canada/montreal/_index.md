@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Montreal In 2020
+title: Top 10 Travel Instagram Influencers In Montreal In 2021
 description: >-
-  Find top travel Instagram influencers in Montreal in 2020. Most popular hashtags: #canada #quebec #montreal #stayandwander.
+  Find top travel Instagram influencers in Montreal in 2021. Most popular hashtags: #canada #quebec #montreal #stayandwander.
 platform: Instagram
 hits: 108
 text_top: Discover the top-rated Instagram accounts on inBeat.

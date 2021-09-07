@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Austin In 2020
+title: Top 10 Gaming Instagram Influencers In Austin In 2021
 description: >-
-  Find top gaming Instagram influencers in Austin in 2020. Most popular hashtags: #gaming #art #halloween #videogames.
+  Find top gaming Instagram influencers in Austin in 2021. Most popular hashtags: #gaming #art #halloween #videogames.
 platform: Instagram
 hits: 27
 text_top: Analyze the top-rated Instagram influencers on inBeat.

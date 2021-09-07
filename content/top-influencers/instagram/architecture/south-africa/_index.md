@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In South Africa In 2020
+title: Top 10 Architecture Instagram Influencers In South Africa In 2021
 description: >-
-  Find top architecture Instagram influencers in South Africa in 2020. Most popular hashtags: #architecture #travel #nature #photography.
+  Find top architecture Instagram influencers in South Africa in 2021. Most popular hashtags: #architecture #travel #nature #photography.
 platform: Instagram
 hits: 12
 text_top: Analyze the top-rated Instagram accounts on inBeat.

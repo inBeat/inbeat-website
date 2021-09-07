@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graffiti Instagram Influencers In 2020
+title: Top 10 Graffiti Instagram Influencers In 2021
 description: >-
-  Find top graffiti Instagram influencers in 2020. Most popular hashtags: #graffiti #tattoo #instagood.
+  Find top graffiti Instagram influencers in 2021. Most popular hashtags: #graffiti #tattoo #instagood.
 platform: Instagram
 hits: 3095
 text_top: Discover the top-rated Instagram accounts on inBeat.

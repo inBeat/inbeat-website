@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Barcelona In 2020
+title: Top 10 Comedians TikTok Influencers In Barcelona In 2021
 description: >-
-  Find top comedians TikTok influencers in Barcelona in 2020. Most popular hashtags: #comedia #parati #humor #barcelona.
+  Find top comedians TikTok influencers in Barcelona in 2021. Most popular hashtags: #comedia #parati #humor #barcelona.
 platform: TikTok
 hits: 35
 text_top: See the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Argentina In 2020
+title: Top 10 Fashion TikTok Influencers In Argentina In 2021
 description: >-
-  Find top fashion TikTok influencers in Argentina in 2020. Most popular hashtags: #fashion #parati #fyp #foryou.
+  Find top fashion TikTok influencers in Argentina in 2021. Most popular hashtags: #fashion #parati #fyp #foryou.
 platform: TikTok
 hits: 48
 text_top: Discover the best TikTok accounts on inBeat.

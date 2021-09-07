@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Poland In 2020
+title: Top 10 Makeup Instagram Influencers In Poland In 2021
 description: >-
-  Find top makeup Instagram influencers in Poland in 2020. Most popular hashtags: #anastasiabeverlyhills #wakeupandmakeup #makeupartist #bperfectcosmetics.
+  Find top makeup Instagram influencers in Poland in 2021. Most popular hashtags: #anastasiabeverlyhills #wakeupandmakeup #makeupartist #bperfectcosmetics.
 platform: Instagram
 hits: 1777
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Las Vegas In 2020
+title: Top 10 Fitness Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top fitness Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #fitness #vegas.
+  Find top fitness Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #fitness #vegas.
 platform: Instagram
 hits: 260
 text_top: Discover the top-rated Instagram profiles on inBeat.

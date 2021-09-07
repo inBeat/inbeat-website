@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Switzerland In 2020
+title: Top 10 Rappers TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top rappers TikTok influencers in Switzerland in 2020. Most popular hashtags: #foryou #funny #viral #fyp.
+  Find top rappers TikTok influencers in Switzerland in 2021. Most popular hashtags: #foryou #funny #viral #fyp.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok profiles on inBeat.

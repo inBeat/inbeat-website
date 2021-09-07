@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Milan In 2020
+title: Top 10 Stylists Instagram Influencers In Milan In 2021
 description: >-
-  Find top stylists Instagram influencers in Milan in 2020. Most popular hashtags: #milan #blackandwhite #fashion.
+  Find top stylists Instagram influencers in Milan in 2021. Most popular hashtags: #milan #blackandwhite #fashion.
 platform: Instagram
 hits: 104
 text_top: Identify the most popular Instagram influencers on inBeat.

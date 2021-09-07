@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Argentina In 2020
+title: Top 10 Health TikTok Influencers In Argentina In 2021
 description: >-
-  Find top health TikTok influencers in Argentina in 2020. Most popular hashtags: #parati #vegan #fyp #recetafacil.
+  Find top health TikTok influencers in Argentina in 2021. Most popular hashtags: #parati #vegan #fyp #recetafacil.
 platform: TikTok
 hits: 25
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In New York In 2020
+title: Top 10 Health Instagram Influencers In New York In 2021
 description: >-
-  Find top health Instagram influencers in New York in 2020. Most popular hashtags: #health #newyork #fitness.
+  Find top health Instagram influencers in New York in 2021. Most popular hashtags: #health #newyork #fitness.
 platform: Instagram
 hits: 348
 text_top: Identify the best Instagram influencers on inBeat.

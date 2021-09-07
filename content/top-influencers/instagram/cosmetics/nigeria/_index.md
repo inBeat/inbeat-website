@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Nigeria In 2020
+title: Top 10 Cosmetics Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #explore #makeup #beauty.
+  Find top cosmetics Instagram influencers in Nigeria in 2021. Most popular hashtags: #explorepage #explore #makeup #beauty.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram profiles on inBeat.

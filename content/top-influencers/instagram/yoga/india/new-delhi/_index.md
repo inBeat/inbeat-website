@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In New Delhi In 2020
+title: Top 10 Yoga Instagram Influencers In New Delhi In 2021
 description: >-
-  Find top yoga Instagram influencers in New Delhi in 2020. Most popular hashtags: #yoga #newdelhi #fitness #fitnessmotivation.
+  Find top yoga Instagram influencers in New Delhi in 2021. Most popular hashtags: #yoga #newdelhi #fitness #fitnessmotivation.
 platform: Instagram
 hits: 13
 text_top: Analyze the most popular Instagram accounts on inBeat.

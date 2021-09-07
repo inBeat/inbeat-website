@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Belgium In 2020
+title: Top 10 Runners Instagram Influencers In Belgium In 2021
 description: >-
-  Find top runners Instagram influencers in Belgium in 2020. Most popular hashtags: #motivation #runner #training #teambelgium.
+  Find top runners Instagram influencers in Belgium in 2021. Most popular hashtags: #motivation #runner #training #teambelgium.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram influencers on inBeat.

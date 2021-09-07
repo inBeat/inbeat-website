@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Poland In 2020
+title: Top 10 Music TikTok Influencers In Poland In 2021
 description: >-
-  Find top music TikTok influencers in Poland in 2020. Most popular hashtags: #music #dlaciebie #duet #funny.
+  Find top music TikTok influencers in Poland in 2021. Most popular hashtags: #music #dlaciebie #duet #funny.
 platform: TikTok
 hits: 94
 text_top: See the most popular TikTok accounts on inBeat.

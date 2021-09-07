@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Norway In 2020
+title: Top 10 Home Decor Instagram Influencers In Norway In 2021
 description: >-
-  Find top home decor Instagram influencers in Norway in 2020. Most popular hashtags: #interi #interior #livingroom #homedecor.
+  Find top home decor Instagram influencers in Norway in 2021. Most popular hashtags: #interi #interior #livingroom #homedecor.
 platform: Instagram
 hits: 58
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In United Kingdom In 2020
+title: Top 10 Music Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top music Instagram influencers in United Kingdom in 2020. Most popular hashtags: #blogger #fashion #fashionblogger.
+  Find top music Instagram influencers in United Kingdom in 2021. Most popular hashtags: #blogger #fashion #fashionblogger.
 platform: Instagram
 hits: 1689
 text_top: Discover the best Instagram profiles on inBeat.

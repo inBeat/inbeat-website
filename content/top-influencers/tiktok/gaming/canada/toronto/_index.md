@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Toronto In 2020
+title: Top 10 Gaming TikTok Influencers In Toronto In 2021
 description: >-
-  Find top gaming TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
+  Find top gaming TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
 hits: 14
 text_top: Analyze the most popular TikTok influencers on inBeat.

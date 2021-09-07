@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Poland In 2020
+title: Top 10 Guitar Instagram Influencers In Poland In 2021
 description: >-
-  Find top guitar Instagram influencers in Poland in 2020. Most popular hashtags: #poland #guitar #polishgirl #video.
+  Find top guitar Instagram influencers in Poland in 2021. Most popular hashtags: #poland #guitar #polishgirl #video.
 platform: Instagram
 hits: 58
 text_top: Analyze the top-rated Instagram influencers on inBeat.

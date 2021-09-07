@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Austin In 2020
+title: Top 10 TikTok Influencers In Austin In 2021
 description: >-
-  Find top TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #foryou #foryoupage #greenscreen.
+  Find top TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #foryou #foryoupage #greenscreen.
 platform: TikTok
 hits: 1064
 text_top: Discover the top-rated TikTok influencers on inBeat.

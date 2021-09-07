@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Nigeria In 2020
+title: Top 10 Cooking Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top cooking Instagram influencers in Nigeria in 2020. Most popular hashtags: #naijafood #nigerianfood #foodporn #nigerianfoodblogger.
+  Find top cooking Instagram influencers in Nigeria in 2021. Most popular hashtags: #naijafood #nigerianfood #foodporn #nigerianfoodblogger.
 platform: Instagram
 hits: 123
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Germany In 2020
+title: Top 10 Gaming TikTok Influencers In Germany In 2021
 description: >-
-  Find top gaming TikTok influencers in Germany in 2020. Most popular hashtags: #gaming #fyp #foryou #fy.
+  Find top gaming TikTok influencers in Germany in 2021. Most popular hashtags: #gaming #fyp #foryou #fy.
 platform: TikTok
 hits: 128
 text_top: Analyze the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Morocco In 2020
+title: Top 10 Photographers Instagram Influencers In Morocco In 2021
 description: >-
-  Find top photographers Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #photography #visitmorocco #moroccobyyou.
+  Find top photographers Instagram influencers in Morocco in 2021. Most popular hashtags: #morocco #photography #visitmorocco #moroccobyyou.
 platform: Instagram
 hits: 77
 text_top: See the best Instagram influencers on inBeat.

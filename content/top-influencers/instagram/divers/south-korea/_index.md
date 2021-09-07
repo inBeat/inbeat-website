@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Korea In 2020
+title: Top 10 Divers Instagram Influencers In South Korea In 2021
 description: >-
-  Find top divers Instagram influencers in South Korea in 2020. Most popular hashtags: #kpop #selfie #diversity #diving.
+  Find top divers Instagram influencers in South Korea in 2021. Most popular hashtags: #kpop #selfie #diversity #diving.
 platform: Instagram
 hits: 18
 text_top: See the best Instagram profiles on inBeat.

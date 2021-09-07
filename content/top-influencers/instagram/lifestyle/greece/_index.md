@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Greece In 2020
+title: Top 10 Lifestyle Instagram Influencers In Greece In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Greece in 2020. Most popular hashtags: #greece #photooftheday #travel #instapic.
+  Find top lifestyle Instagram influencers in Greece in 2021. Most popular hashtags: #greece #photooftheday #travel #instapic.
 platform: Instagram
 hits: 153
 text_top: See the best Instagram influencers on inBeat.

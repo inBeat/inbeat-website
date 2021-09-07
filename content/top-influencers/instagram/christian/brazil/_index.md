@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Brazil In 2020
+title: Top 10 Christian Instagram Influencers In Brazil In 2021
 description: >-
-  Find top christian Instagram influencers in Brazil in 2020. Most popular hashtags: #love #maedemenina #nature #flowers.
+  Find top christian Instagram influencers in Brazil in 2021. Most popular hashtags: #love #maedemenina #nature #flowers.
 platform: Instagram
 hits: 563
 text_top: Analyze the top-rated Instagram accounts on inBeat.

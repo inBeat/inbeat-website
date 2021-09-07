@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In South Korea In 2020
+title: Top 10 Cinema Instagram Influencers In South Korea In 2021
 description: >-
-  Find top cinema Instagram influencers in South Korea in 2020. Most popular hashtags: #somewheremagazine #cinematic #photooftheday #photography.
+  Find top cinema Instagram influencers in South Korea in 2021. Most popular hashtags: #somewheremagazine #cinematic #photooftheday #photography.
 platform: Instagram
 hits: 11
 text_top: Analyze the best Instagram influencers on inBeat.

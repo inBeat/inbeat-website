@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Switzerland In 2020
+title: Top 10 Photographers Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top photographers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #creative #photography #creativephotography.
+  Find top photographers Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #creative #photography #creativephotography.
 platform: Instagram
 hits: 250
 text_top: Analyze the best Instagram accounts on inBeat.

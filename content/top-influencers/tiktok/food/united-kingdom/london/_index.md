@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In London In 2020
+title: Top 10 Food TikTok Influencers In London In 2021
 description: >-
-  Find top food TikTok influencers in London in 2020. Most popular hashtags: #fyp #london #food #uk.
+  Find top food TikTok influencers in London in 2021. Most popular hashtags: #fyp #london #food #uk.
 platform: TikTok
 hits: 126
 text_top: See the best TikTok profiles on inBeat.

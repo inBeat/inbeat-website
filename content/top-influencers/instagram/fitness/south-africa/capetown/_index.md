@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Capetown In 2020
+title: Top 10 Fitness Instagram Influencers In Capetown In 2021
 description: >-
-  Find top fitness Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #fitness #love.
+  Find top fitness Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #southafrica #fitness #love.
 platform: Instagram
 hits: 39
 text_top: Analyze the most popular Instagram profiles on inBeat.

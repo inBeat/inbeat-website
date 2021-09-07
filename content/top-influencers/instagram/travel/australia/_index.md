@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Australia In 2020
+title: Top 10 Travel Instagram Influencers In Australia In 2021
 description: >-
-  Find top travel Instagram influencers in Australia in 2020. Most popular hashtags: #travel #traveltheworld #dametraveler #travelgram.
+  Find top travel Instagram influencers in Australia in 2021. Most popular hashtags: #travel #traveltheworld #dametraveler #travelgram.
 platform: Instagram
 hits: 1467
 text_top: Discover the best Instagram accounts on inBeat.

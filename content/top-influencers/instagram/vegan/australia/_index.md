@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Australia In 2020
+title: Top 10 Vegan Instagram Influencers In Australia In 2021
 description: >-
-  Find top vegan Instagram influencers in Australia in 2020. Most popular hashtags: #happiness #vegan #indyllew.
+  Find top vegan Instagram influencers in Australia in 2021. Most popular hashtags: #happiness #vegan #indyllew.
 platform: Instagram
 hits: 286
 text_top: Discover the most popular Instagram accounts on inBeat.

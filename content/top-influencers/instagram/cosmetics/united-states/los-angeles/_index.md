@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2020
+title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #beauty #cosmetics #makeup.
+  Find top cosmetics Instagram influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #beauty #cosmetics #makeup.
 platform: Instagram
 hits: 102
 text_top: Identify the top-rated Instagram influencers on inBeat.

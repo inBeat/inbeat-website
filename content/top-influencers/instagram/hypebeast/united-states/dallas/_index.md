@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Dallas In 2020
+title: Top 10 Hypebeast Instagram Influencers In Dallas In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Dallas in 2020. Most popular hashtags: #hypebeast #art #dallas #portrait.
+  Find top hypebeast Instagram influencers in Dallas in 2021. Most popular hashtags: #hypebeast #art #dallas #portrait.
 platform: Instagram
 hits: 19
 text_top: Identify the most popular Instagram accounts on inBeat.

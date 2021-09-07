@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Austria In 2020
+title: Top 10 Painters Instagram Influencers In Austria In 2021
 description: >-
-  Find top painters Instagram influencers in Austria in 2020. Most popular hashtags: #austria #art #artwork #contemporaryart.
+  Find top painters Instagram influencers in Austria in 2021. Most popular hashtags: #austria #art #artwork #contemporaryart.
 platform: Instagram
 hits: 28
 text_top: Analyze the top-rated Instagram accounts on inBeat.

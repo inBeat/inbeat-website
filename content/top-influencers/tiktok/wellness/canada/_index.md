@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Canada In 2020
+title: Top 10 Wellness TikTok Influencers In Canada In 2021
 description: >-
-  Find top wellness TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #wellness #foryou #duet.
+  Find top wellness TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #wellness #foryou #duet.
 platform: TikTok
 hits: 48
 text_top: Analyze the top-rated TikTok accounts on inBeat.

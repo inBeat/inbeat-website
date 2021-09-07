@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers TikTok Influencers In Canada In 2020
+title: Top 10 Golfers TikTok Influencers In Canada In 2021
 description: >-
-  Find top golfers TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #golf #golftiktok #golfer.
+  Find top golfers TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #golf #golftiktok #golfer.
 platform: TikTok
 hits: 13
 text_top: Analyze the top-rated TikTok accounts on inBeat.

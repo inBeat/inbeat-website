@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Brazil In 2020
+title: Top 10 Gaming Instagram Influencers In Brazil In 2021
 description: >-
-  Find top gaming Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #redhead #csgo.
+  Find top gaming Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #redhead #csgo.
 platform: Instagram
 hits: 146
 text_top: See the top-rated Instagram accounts on inBeat.

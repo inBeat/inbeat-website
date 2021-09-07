@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Venezuela In 2020
+title: Top 10 Food Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top food Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #caracas #foodporn #model.
+  Find top food Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #caracas #foodporn #model.
 platform: Instagram
 hits: 65
 text_top: Analyze the most popular Instagram profiles on inBeat.

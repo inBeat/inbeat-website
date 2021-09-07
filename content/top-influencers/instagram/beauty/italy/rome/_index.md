@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Rome In 2020
+title: Top 10 Beauty Instagram Influencers In Rome In 2021
 description: >-
-  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #beauty #fashion #love #rome.
+  Find top beauty Instagram influencers in Rome in 2021. Most popular hashtags: #beauty #fashion #love #rome.
 platform: Instagram
 hits: 166
 text_top: Analyze the top-rated Instagram influencers on inBeat.

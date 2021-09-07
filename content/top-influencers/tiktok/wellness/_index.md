@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In 2020
+title: Top 10 Wellness TikTok Influencers In 2021
 description: >-
-  Find top wellness TikTok influencers in 2020. Most popular hashtags: #duet #fyp #mentalhealth #biden2020.
+  Find top wellness TikTok influencers in 2021. Most popular hashtags: #duet #fyp #mentalhealth #biden2020.
 platform: TikTok
 hits: 493
 text_top: Discover the most popular TikTok influencers on inBeat.

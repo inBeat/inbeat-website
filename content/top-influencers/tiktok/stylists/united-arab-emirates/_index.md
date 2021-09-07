@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Stylists TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top stylists TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #stylishvssavage #tiktok #foryoupage #duet.
+  Find top stylists TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #stylishvssavage #tiktok #foryoupage #duet.
 platform: TikTok
 hits: 21
 text_top: See the most popular TikTok influencers on inBeat.

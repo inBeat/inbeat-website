@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #tattoo #tattoos #tattooartist.
+  Find top tattoo-artists Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #tattoo #tattoos #tattooartist.
 platform: Instagram
 hits: 37
 text_top: Identify the top-rated Instagram accounts on inBeat.

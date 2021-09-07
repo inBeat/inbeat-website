@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Indonesia In 2020
+title: Top 10 Stylists Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top stylists Instagram influencers in Indonesia in 2020. Most popular hashtags: #ootd #bali #aesthetics.
+  Find top stylists Instagram influencers in Indonesia in 2021. Most popular hashtags: #ootd #bali #aesthetics.
 platform: Instagram
 hits: 99
 text_top: See the most popular Instagram accounts on inBeat.

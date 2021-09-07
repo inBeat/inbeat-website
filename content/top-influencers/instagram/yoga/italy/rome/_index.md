@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Rome In 2020
+title: Top 10 Yoga Instagram Influencers In Rome In 2021
 description: >-
-  Find top yoga Instagram influencers in Rome in 2020. Most popular hashtags: #yoga #love #rome #italy.
+  Find top yoga Instagram influencers in Rome in 2021. Most popular hashtags: #yoga #love #rome #italy.
 platform: Instagram
 hits: 13
 text_top: Analyze the top-rated Instagram influencers on inBeat.

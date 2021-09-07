@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Canada In 2020
+title: Top 10 Bodybuilding TikTok Influencers In Canada In 2021
 description: >-
-  Find top bodybuilding TikTok influencers in Canada in 2020. Most popular hashtags: #bodybuilding #fyp #foryou #fitness.
+  Find top bodybuilding TikTok influencers in Canada in 2021. Most popular hashtags: #bodybuilding #fyp #foryou #fitness.
 platform: TikTok
 hits: 13
 text_top: See the most popular TikTok influencers on inBeat.

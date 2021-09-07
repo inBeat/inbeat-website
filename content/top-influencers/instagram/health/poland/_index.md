@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Poland In 2020
+title: Top 10 Health Instagram Influencers In Poland In 2021
 description: >-
-  Find top health Instagram influencers in Poland in 2020. Most popular hashtags: #polskadziewczyna #photooftheday #warsaw #makeup.
+  Find top health Instagram influencers in Poland in 2021. Most popular hashtags: #polskadziewczyna #photooftheday #warsaw #makeup.
 platform: Instagram
 hits: 781
 text_top: Analyze the best Instagram profiles on inBeat.

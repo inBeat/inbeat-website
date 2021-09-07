@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Argentina In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Argentina In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #bodybuilding #fitness #instagood #muscle.
+  Find top bodybuilding Instagram influencers in Argentina in 2021. Most popular hashtags: #bodybuilding #fitness #instagood #muscle.
 platform: Instagram
 hits: 23
 text_top: Identify the top-rated Instagram profiles on inBeat.

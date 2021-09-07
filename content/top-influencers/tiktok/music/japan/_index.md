@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Japan In 2020
+title: Top 10 Music TikTok Influencers In Japan In 2021
 description: >-
-  Find top music TikTok influencers in Japan in 2020. Most popular hashtags: #tiktok #lipsync #kpop.
+  Find top music TikTok influencers in Japan in 2021. Most popular hashtags: #tiktok #lipsync #kpop.
 platform: TikTok
 hits: 44
 text_top: Identify the top-rated TikTok influencers on inBeat.

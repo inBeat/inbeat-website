@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Thailand In 2020
+title: Top 10 Lifestyle Instagram Influencers In Thailand In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Thailand in 2020. Most popular hashtags: #thailand #suntan #style.
+  Find top lifestyle Instagram influencers in Thailand in 2021. Most popular hashtags: #thailand #suntan #style.
 platform: Instagram
 hits: 64
 text_top: Discover the most popular Instagram influencers on inBeat.

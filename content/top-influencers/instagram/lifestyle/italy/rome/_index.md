@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Rome In 2020
+title: Top 10 Lifestyle Instagram Influencers In Rome In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Rome in 2020. Most popular hashtags: #italy #lifestyle #rome #love.
+  Find top lifestyle Instagram influencers in Rome in 2021. Most popular hashtags: #italy #lifestyle #rome #love.
 platform: Instagram
 hits: 146
 text_top: Discover the top-rated Instagram accounts on inBeat.

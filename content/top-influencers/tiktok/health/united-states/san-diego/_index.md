@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In San Diego In 2020
+title: Top 10 Health TikTok Influencers In San Diego In 2021
 description: >-
-  Find top health TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #sandiego #health #workout.
+  Find top health TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #sandiego #health #workout.
 platform: TikTok
 hits: 19
 text_top: Identify the top-rated TikTok accounts on inBeat.

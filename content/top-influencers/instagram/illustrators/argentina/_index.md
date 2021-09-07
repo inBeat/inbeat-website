@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Argentina In 2020
+title: Top 10 Illustrators Instagram Influencers In Argentina In 2021
 description: >-
-  Find top illustrators Instagram influencers in Argentina in 2020. Most popular hashtags: #illustration #instaart #digitalart #characterdesign.
+  Find top illustrators Instagram influencers in Argentina in 2021. Most popular hashtags: #illustration #instaart #digitalart #characterdesign.
 platform: Instagram
 hits: 29
 text_top: Identify the most popular Instagram profiles on inBeat.

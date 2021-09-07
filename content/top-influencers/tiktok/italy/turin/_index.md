@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Turin In 2020
+title: Top 10 TikTok Influencers In Turin In 2021
 description: >-
-  Find top TikTok influencers in Turin in 2020. Most popular hashtags: #perte #foryou #viral #duetto.
+  Find top TikTok influencers in Turin in 2021. Most popular hashtags: #perte #foryou #viral #duetto.
 platform: TikTok
 hits: 20
 text_top: Discover the best TikTok accounts on inBeat.

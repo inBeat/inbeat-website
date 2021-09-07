@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Fitness TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top fitness TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fitness #fyp #foryou #dubai.
+  Find top fitness TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #fitness #fyp #foryou #dubai.
 platform: TikTok
 hits: 38
 text_top: Analyze the best TikTok influencers on inBeat.

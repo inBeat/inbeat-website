@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Singapore In 2020
+title: Top 10 Dancers Instagram Influencers In Singapore In 2021
 description: >-
-  Find top dancers Instagram influencers in Singapore in 2020. Most popular hashtags: #dance #singapore #dancers #sgdance.
+  Find top dancers Instagram influencers in Singapore in 2021. Most popular hashtags: #dance #singapore #dancers #sgdance.
 platform: Instagram
 hits: 15
 text_top: See the most popular Instagram accounts on inBeat.

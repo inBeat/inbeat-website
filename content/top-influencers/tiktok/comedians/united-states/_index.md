@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United States In 2020
+title: Top 10 Comedians TikTok Influencers In United States In 2021
 description: >-
-  Find top comedians TikTok influencers in United States in 2020. Most popular hashtags: #fyp #comedy #duet #foryoupage.
+  Find top comedians TikTok influencers in United States in 2021. Most popular hashtags: #fyp #comedy #duet #foryoupage.
 platform: TikTok
 hits: 1173
 text_top: Discover the most popular TikTok accounts on inBeat.

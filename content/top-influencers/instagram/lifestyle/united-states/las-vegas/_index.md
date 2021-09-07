@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2020
+title: Top 10 Lifestyle Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #lifestyle #vegas #healthylifestyle.
+  Find top lifestyle Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #lifestyle #vegas #healthylifestyle.
 platform: Instagram
 hits: 208
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Indonesia In 2020
+title: Top 10 Cinema TikTok Influencers In Indonesia In 2021
 description: >-
-  Find top cinema TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #foryou #xyzbca #foryoupage.
+  Find top cinema TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryou #xyzbca #foryoupage.
 platform: TikTok
 hits: 13
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In United Kingdom In 2020
+title: Top 10 Music TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top music TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #foryoupage #voiceeffects #foryou.
+  Find top music TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #foryoupage #voiceeffects #foryou.
 platform: TikTok
 hits: 975
 text_top: Discover the best TikTok profiles on inBeat.

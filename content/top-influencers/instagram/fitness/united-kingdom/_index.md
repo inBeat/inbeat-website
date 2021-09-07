@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In United Kingdom In 2020
+title: Top 10 Fitness Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top fitness Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ootd #autumn #gifted.
+  Find top fitness Instagram influencers in United Kingdom in 2021. Most popular hashtags: #ootd #autumn #gifted.
 platform: Instagram
 hits: 1423
 text_top: Discover the top-rated Instagram influencers on inBeat.

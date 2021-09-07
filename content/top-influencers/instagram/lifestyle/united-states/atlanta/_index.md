@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Atlanta In 2020
+title: Top 10 Lifestyle Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #lifestyle #atl.
+  Find top lifestyle Instagram influencers in Atlanta in 2021. Most popular hashtags: #atlanta #lifestyle #atl.
 platform: Instagram
 hits: 211
 text_top: Discover the most popular Instagram accounts on inBeat.

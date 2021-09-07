@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Medellín In 2020
+title: Top 10 Architecture Instagram Influencers In Medellín In 2021
 description: >-
-  Find top architecture Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #travel #architecture #medellin.
+  Find top architecture Instagram influencers in Medellín in 2021. Most popular hashtags: #colombia #travel #architecture #medellin.
 platform: Instagram
 hits: 5
 text_top: See the most popular Instagram accounts on inBeat.

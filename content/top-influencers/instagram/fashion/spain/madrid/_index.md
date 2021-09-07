@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Madrid In 2020
+title: Top 10 Fashion Instagram Influencers In Madrid In 2021
 description: >-
-  Find top fashion Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #fashion #moda #style.
+  Find top fashion Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #fashion #moda #style.
 platform: Instagram
 hits: 336
 text_top: Discover the best Instagram profiles on inBeat.

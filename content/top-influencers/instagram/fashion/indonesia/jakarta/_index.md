@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Jakarta In 2020
+title: Top 10 Fashion Instagram Influencers In Jakarta In 2021
 description: >-
-  Find top fashion Instagram influencers in Jakarta in 2020. Most popular hashtags: #fashion #jakarta #indonesia.
+  Find top fashion Instagram influencers in Jakarta in 2021. Most popular hashtags: #fashion #jakarta #indonesia.
 platform: Instagram
 hits: 216
 text_top: Analyze the best Instagram influencers on inBeat.

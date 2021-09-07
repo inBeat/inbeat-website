@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Dallas In 2020
+title: Top 10 Models Instagram Influencers In Dallas In 2021
 description: >-
-  Find top models Instagram influencers in Dallas in 2020. Most popular hashtags: #model #beauty #fashion.
+  Find top models Instagram influencers in Dallas in 2021. Most popular hashtags: #model #beauty #fashion.
 platform: Instagram
 hits: 222
 text_top: Analyze the top-rated Instagram profiles on inBeat.

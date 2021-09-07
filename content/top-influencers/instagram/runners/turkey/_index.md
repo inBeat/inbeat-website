@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Turkey In 2020
+title: Top 10 Runners Instagram Influencers In Turkey In 2021
 description: >-
-  Find top runners Instagram influencers in Turkey in 2020. Most popular hashtags: #runner #run #triathlon #sport.
+  Find top runners Instagram influencers in Turkey in 2021. Most popular hashtags: #runner #run #triathlon #sport.
 platform: Instagram
 hits: 43
 text_top: Analyze the best Instagram influencers on inBeat.

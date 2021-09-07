@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Colombia In 2020
+title: Top 10 Makeup Instagram Influencers In Colombia In 2021
 description: >-
-  Find top makeup Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #halloweenmakeup #colombia #makeupartist.
+  Find top makeup Instagram influencers in Colombia in 2021. Most popular hashtags: #makeup #halloweenmakeup #colombia #makeupartist.
 platform: Instagram
 hits: 353
 text_top: Identify the best Instagram accounts on inBeat.

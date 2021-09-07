@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In India In 2020
+title: Top 10 Wellness Instagram Influencers In India In 2021
 description: >-
-  Find top wellness Instagram influencers in India in 2020. Most popular hashtags: #healthylifestyle #travel #goa #fitnessmotivation.
+  Find top wellness Instagram influencers in India in 2021. Most popular hashtags: #healthylifestyle #travel #goa #fitnessmotivation.
 platform: Instagram
 hits: 217
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In France In 2020
+title: Top 10 Bakers Instagram Influencers In France In 2021
 description: >-
-  Find top bakers Instagram influencers in France in 2020. Most popular hashtags: #baking #chocolate #cake #pastry.
+  Find top bakers Instagram influencers in France in 2021. Most popular hashtags: #baking #chocolate #cake #pastry.
 platform: Instagram
 hits: 341
 text_top: Discover the top-rated Instagram influencers on inBeat.

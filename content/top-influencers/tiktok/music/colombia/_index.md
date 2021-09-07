@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Colombia In 2020
+title: Top 10 Music TikTok Influencers In Colombia In 2021
 description: >-
-  Find top music TikTok influencers in Colombia in 2020. Most popular hashtags: #colombia #foryou #tiktok #viral.
+  Find top music TikTok influencers in Colombia in 2021. Most popular hashtags: #colombia #foryou #tiktok #viral.
 platform: TikTok
 hits: 117
 text_top: Discover the most popular TikTok accounts on inBeat.

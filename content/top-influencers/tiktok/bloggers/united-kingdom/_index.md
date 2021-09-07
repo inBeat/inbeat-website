@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In United Kingdom In 2020
+title: Top 10 Bloggers TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top bloggers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #fyp #duet #foryou #foryoupage.
+  Find top bloggers TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
 hits: 46
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In United Kingdom In 2020
+title: Top 10 Cyclists Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top cyclists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ad #womenscycling #cycling.
+  Find top cyclists Instagram influencers in United Kingdom in 2021. Most popular hashtags: #ad #womenscycling #cycling.
 platform: Instagram
 hits: 72
 text_top: Identify the most popular Instagram profiles on inBeat.

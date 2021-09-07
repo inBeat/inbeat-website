@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In South Africa In 2020
+title: Top 10 Photographers Instagram Influencers In South Africa In 2021
 description: >-
-  Find top photographers Instagram influencers in South Africa in 2020. Most popular hashtags: #photooftheday #capetown #southafrica.
+  Find top photographers Instagram influencers in South Africa in 2021. Most popular hashtags: #photooftheday #capetown #southafrica.
 platform: Instagram
 hits: 127
 text_top: See the top-rated Instagram influencers on inBeat.

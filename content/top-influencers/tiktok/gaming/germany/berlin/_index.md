@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Berlin In 2020
+title: Top 10 Gaming TikTok Influencers In Berlin In 2021
 description: >-
-  Find top gaming TikTok influencers in Berlin in 2020. Most popular hashtags: #fyp #gaming #viral #foryou.
+  Find top gaming TikTok influencers in Berlin in 2021. Most popular hashtags: #fyp #gaming #viral #foryou.
 platform: TikTok
 hits: 6
 text_top: Analyze the top-rated TikTok accounts on inBeat.

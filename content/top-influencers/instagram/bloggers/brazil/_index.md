@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Brazil In 2020
+title: Top 10 Bloggers Instagram Influencers In Brazil In 2021
 description: >-
-  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #love #quarentena #beleza.
+  Find top bloggers Instagram influencers in Brazil in 2021. Most popular hashtags: #love #quarentena #beleza.
 platform: Instagram
 hits: 1505
 text_top: Analyze the best Instagram profiles on inBeat.

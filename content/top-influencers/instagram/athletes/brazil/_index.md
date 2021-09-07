@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Brazil In 2020
+title: Top 10 Athletes Instagram Influencers In Brazil In 2021
 description: >-
-  Find top athletes Instagram influencers in Brazil in 2020. Most popular hashtags: #repost #esporte #brasil.
+  Find top athletes Instagram influencers in Brazil in 2021. Most popular hashtags: #repost #esporte #brasil.
 platform: Instagram
 hits: 205
 text_top: Identify the best Instagram influencers on inBeat.

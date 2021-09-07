@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Morocco In 2020
+title: Top 10 Fitness Instagram Influencers In Morocco In 2021
 description: >-
-  Find top fitness Instagram influencers in Morocco in 2020. Most popular hashtags: #fitness #instagood #fitnessmotivation #morocco.
+  Find top fitness Instagram influencers in Morocco in 2021. Most popular hashtags: #fitness #instagood #fitnessmotivation #morocco.
 platform: Instagram
 hits: 40
 text_top: See the most popular Instagram influencers on inBeat.

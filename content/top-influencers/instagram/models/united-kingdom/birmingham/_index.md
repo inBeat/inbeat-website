@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Birmingham In 2020
+title: Top 10 Models Instagram Influencers In Birmingham In 2021
 description: >-
-  Find top models Instagram influencers in Birmingham in 2020. Most popular hashtags: #model #photography #birmingham.
+  Find top models Instagram influencers in Birmingham in 2021. Most popular hashtags: #model #photography #birmingham.
 platform: Instagram
 hits: 22
 text_top: See the best Instagram accounts on inBeat.

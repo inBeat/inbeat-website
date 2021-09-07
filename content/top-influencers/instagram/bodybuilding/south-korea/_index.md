@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In South Korea In 2020
+title: Top 10 Bodybuilding Instagram Influencers In South Korea In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in South Korea in 2020. Most popular hashtags: #bodybuilding #fitness #workout.
+  Find top bodybuilding Instagram influencers in South Korea in 2021. Most popular hashtags: #bodybuilding #fitness #workout.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram accounts on inBeat.

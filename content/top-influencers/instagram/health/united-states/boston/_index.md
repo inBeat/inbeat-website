@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Boston In 2020
+title: Top 10 Health Instagram Influencers In Boston In 2021
 description: >-
-  Find top health Instagram influencers in Boston in 2020. Most popular hashtags: #boston #fitness #health #love.
+  Find top health Instagram influencers in Boston in 2021. Most popular hashtags: #boston #fitness #health #love.
 platform: Instagram
 hits: 99
 text_top: Analyze the most popular Instagram accounts on inBeat.

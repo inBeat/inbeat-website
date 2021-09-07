@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Germany In 2020
+title: Top 10 Models Instagram Influencers In Germany In 2021
 description: >-
-  Find top models Instagram influencers in Germany in 2020. Most popular hashtags: #shooting #berlin #streetstyle #love.
+  Find top models Instagram influencers in Germany in 2021. Most popular hashtags: #shooting #berlin #streetstyle #love.
 platform: Instagram
 hits: 2497
 text_top: Identify the most popular Instagram influencers on inBeat.

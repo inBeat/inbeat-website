@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Australia In 2020
+title: Top 10 Lifestyle Instagram Influencers In Australia In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Australia in 2020. Most popular hashtags: #sydneyinfluencer #sydneylocal #sydneyblogger.
+  Find top lifestyle Instagram influencers in Australia in 2021. Most popular hashtags: #sydneyinfluencer #sydneylocal #sydneyblogger.
 platform: Instagram
 hits: 572
 text_top: Identify the most popular Instagram profiles on inBeat.

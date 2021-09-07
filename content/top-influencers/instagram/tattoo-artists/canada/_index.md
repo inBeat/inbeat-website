@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Canada In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Canada In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Canada in 2020. Most popular hashtags: #inked #tattoo #art.
+  Find top tattoo-artists Instagram influencers in Canada in 2021. Most popular hashtags: #inked #tattoo #art.
 platform: Instagram
 hits: 112
 text_top: Identify the most popular Instagram profiles on inBeat.

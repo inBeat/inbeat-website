@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Chile In 2020
+title: Top 10 Beauty Instagram Influencers In Chile In 2021
 description: >-
-  Find top beauty Instagram influencers in Chile in 2020. Most popular hashtags: #nyxcosmeticschile #urbandecaychile #makeup.
+  Find top beauty Instagram influencers in Chile in 2021. Most popular hashtags: #nyxcosmeticschile #urbandecaychile #makeup.
 platform: Instagram
 hits: 224
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Thailand In 2020
+title: Top 10 Fitness TikTok Influencers In Thailand In 2021
 description: >-
-  Find top fitness TikTok influencers in Thailand in 2020. Most popular hashtags: #fitness #workout #gym #fyp.
+  Find top fitness TikTok influencers in Thailand in 2021. Most popular hashtags: #fitness #workout #gym #fyp.
 platform: TikTok
 hits: 17
 text_top: See the most popular TikTok accounts on inBeat.

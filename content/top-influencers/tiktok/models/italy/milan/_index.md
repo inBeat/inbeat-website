@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Milan In 2020
+title: Top 10 Models TikTok Influencers In Milan In 2021
 description: >-
-  Find top models TikTok influencers in Milan in 2020. Most popular hashtags: #model #viral #fyp #foryou.
+  Find top models TikTok influencers in Milan in 2021. Most popular hashtags: #model #viral #fyp #foryou.
 platform: TikTok
 hits: 19
 text_top: Discover the best TikTok influencers on inBeat.

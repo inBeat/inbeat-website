@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Canada In 2020
+title: Top 10 Photographers Instagram Influencers In Canada In 2021
 description: >-
-  Find top photographers Instagram influencers in Canada in 2020. Most popular hashtags: #ourplanetdaily #roamtheplanet #explorecanada.
+  Find top photographers Instagram influencers in Canada in 2021. Most popular hashtags: #ourplanetdaily #roamtheplanet #explorecanada.
 platform: Instagram
 hits: 696
 text_top: Analyze the best Instagram accounts on inBeat.

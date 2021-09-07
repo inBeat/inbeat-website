@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Ireland In 2020
+title: Top 10 Cooking TikTok Influencers In Ireland In 2021
 description: >-
-  Find top cooking TikTok influencers in Ireland in 2020. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top cooking TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
 hits: 13
 text_top: Discover the most popular TikTok influencers on inBeat.

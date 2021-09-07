@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chicago In 2020
+title: Top 10 Travel TikTok Influencers In Chicago In 2021
 description: >-
-  Find top travel TikTok influencers in Chicago in 2020. Most popular hashtags: #chicago #travel #fyp #foryou.
+  Find top travel TikTok influencers in Chicago in 2021. Most popular hashtags: #chicago #travel #fyp #foryou.
 platform: TikTok
 hits: 88
 text_top: Discover the most popular TikTok accounts on inBeat.

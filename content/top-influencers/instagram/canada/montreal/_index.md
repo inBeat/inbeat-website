@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Montreal In 2020
+title: Top 10 Instagram Influencers In Montreal In 2021
 description: >-
-  Find top Instagram influencers in Montreal in 2020. Most popular hashtags: #gifted #dirtybootsmessyhair #worldtravel.
+  Find top Instagram influencers in Montreal in 2021. Most popular hashtags: #gifted #dirtybootsmessyhair #worldtravel.
 platform: Instagram
 hits: 815
 text_top: Discover the best Instagram accounts on inBeat.

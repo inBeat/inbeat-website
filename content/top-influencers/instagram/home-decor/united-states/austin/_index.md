@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Austin In 2020
+title: Top 10 Home Decor Instagram Influencers In Austin In 2021
 description: >-
-  Find top home decor Instagram influencers in Austin in 2020. Most popular hashtags: #homedecor #liketkit #ltksalealert #ltkunder50.
+  Find top home decor Instagram influencers in Austin in 2021. Most popular hashtags: #homedecor #liketkit #ltksalealert #ltkunder50.
 platform: Instagram
 hits: 55
 text_top: Discover the top-rated Instagram influencers on inBeat.

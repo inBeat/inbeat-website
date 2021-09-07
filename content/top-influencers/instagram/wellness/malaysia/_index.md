@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Malaysia In 2020
+title: Top 10 Wellness Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top wellness Instagram influencers in Malaysia in 2020. Most popular hashtags: #fitness #staysafe #stayhome #instagood.
+  Find top wellness Instagram influencers in Malaysia in 2021. Most popular hashtags: #fitness #staysafe #stayhome #instagood.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram accounts on inBeat.

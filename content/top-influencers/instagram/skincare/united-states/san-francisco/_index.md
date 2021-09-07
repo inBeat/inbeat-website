@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In San Francisco In 2020
+title: Top 10 Skincare Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top skincare Instagram influencers in San Francisco in 2020. Most popular hashtags: #skincare #makeup #beauty #makeupartist.
+  Find top skincare Instagram influencers in San Francisco in 2021. Most popular hashtags: #skincare #makeup #beauty #makeupartist.
 platform: Instagram
 hits: 27
 text_top: Identify the most popular Instagram accounts on inBeat.

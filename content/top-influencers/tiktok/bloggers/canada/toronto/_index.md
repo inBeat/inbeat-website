@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Toronto In 2020
+title: Top 10 Bloggers TikTok Influencers In Toronto In 2021
 description: >-
-  Find top bloggers TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
+  Find top bloggers TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
 platform: TikTok
 hits: 5
 text_top: Analyze the top-rated TikTok accounts on inBeat.

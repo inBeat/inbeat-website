@@ -1,7 +1,7 @@
 ---
 layout: creator-studio
-slug: creatorstudio
-title: inBeat Influencer Database | Creator Studio
+slug: ugc-platform
+title: inBeat Creator Studio | User-Generated Content Platform
 description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer
   database. Use our tools to search, vet and track your influencer marketing campaigns.

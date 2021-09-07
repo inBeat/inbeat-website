@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In India In 2020
+title: Top 10 Hypebeast Instagram Influencers In India In 2021
 description: >-
-  Find top hypebeast Instagram influencers in India in 2020. Most popular hashtags: #hypebeast #photography #instagood #portrait.
+  Find top hypebeast Instagram influencers in India in 2021. Most popular hashtags: #hypebeast #photography #instagood #portrait.
 platform: Instagram
 hits: 109
 text_top: Analyze the best Instagram accounts on inBeat.

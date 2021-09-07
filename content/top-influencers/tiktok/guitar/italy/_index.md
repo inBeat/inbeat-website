@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Italy In 2020
+title: Top 10 Guitar TikTok Influencers In Italy In 2021
 description: >-
-  Find top guitar TikTok influencers in Italy in 2020. Most popular hashtags: #music #guitar #perte #fyp.
+  Find top guitar TikTok influencers in Italy in 2021. Most popular hashtags: #music #guitar #perte #fyp.
 platform: TikTok
 hits: 24
 text_top: Identify the top-rated TikTok profiles on inBeat.

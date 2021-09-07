@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Miami In 2020
+title: Top 10 Travel Instagram Influencers In Miami In 2021
 description: >-
-  Find top travel Instagram influencers in Miami in 2020. Most popular hashtags: #miami #travel #florida #beach.
+  Find top travel Instagram influencers in Miami in 2021. Most popular hashtags: #miami #travel #florida #beach.
 platform: Instagram
 hits: 661
 text_top: Discover the best Instagram accounts on inBeat.

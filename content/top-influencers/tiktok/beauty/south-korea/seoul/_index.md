@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Seoul In 2020
+title: Top 10 Beauty TikTok Influencers In Seoul In 2021
 description: >-
-  Find top beauty TikTok influencers in Seoul in 2020. Most popular hashtags: #fyp #beauty #makeup #korea.
+  Find top beauty TikTok influencers in Seoul in 2021. Most popular hashtags: #fyp #beauty #makeup #korea.
 platform: TikTok
 hits: 4
 text_top: Identify the most popular TikTok profiles on inBeat.

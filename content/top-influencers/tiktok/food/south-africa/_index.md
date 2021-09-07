@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In South Africa In 2020
+title: Top 10 Food TikTok Influencers In South Africa In 2021
 description: >-
-  Find top food TikTok influencers in South Africa in 2020. Most popular hashtags: #fyp #viral #food #foryoupage.
+  Find top food TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #viral #food #foryoupage.
 platform: TikTok
 hits: 56
 text_top: Discover the top-rated TikTok accounts on inBeat.

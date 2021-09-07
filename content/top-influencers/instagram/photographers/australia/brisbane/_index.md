@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Brisbane In 2020
+title: Top 10 Photographers Instagram Influencers In Brisbane In 2021
 description: >-
-  Find top photographers Instagram influencers in Brisbane in 2020. Most popular hashtags: #goldcoast #brisbane #photographer.
+  Find top photographers Instagram influencers in Brisbane in 2021. Most popular hashtags: #goldcoast #brisbane #photographer.
 platform: Instagram
 hits: 61
 text_top: Identify the top-rated Instagram profiles on inBeat.

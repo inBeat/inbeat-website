@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Germany In 2020
+title: Top 10 Lifestyle Instagram Influencers In Germany In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Germany in 2020. Most popular hashtags: #carmushka #fashionblogger #blogger #americanstyle.
+  Find top lifestyle Instagram influencers in Germany in 2021. Most popular hashtags: #carmushka #fashionblogger #blogger #americanstyle.
 platform: Instagram
 hits: 2814
 text_top: See the best Instagram accounts on inBeat.

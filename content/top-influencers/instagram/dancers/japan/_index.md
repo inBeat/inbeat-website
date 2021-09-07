@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Japan In 2020
+title: Top 10 Dancers Instagram Influencers In Japan In 2021
 description: >-
-  Find top dancers Instagram influencers in Japan in 2020. Most popular hashtags: #japan #cyberjapan #selfie #fashion.
+  Find top dancers Instagram influencers in Japan in 2021. Most popular hashtags: #japan #cyberjapan #selfie #fashion.
 platform: Instagram
 hits: 179
 text_top: Analyze the top-rated Instagram accounts on inBeat.

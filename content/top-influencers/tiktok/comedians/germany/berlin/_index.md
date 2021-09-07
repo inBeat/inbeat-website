@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Berlin In 2020
+title: Top 10 Comedians TikTok Influencers In Berlin In 2021
 description: >-
-  Find top comedians TikTok influencers in Berlin in 2020. Most popular hashtags: #comedy #foryou #funny #corona.
+  Find top comedians TikTok influencers in Berlin in 2021. Most popular hashtags: #comedy #foryou #funny #corona.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok accounts on inBeat.

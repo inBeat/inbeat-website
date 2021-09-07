@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Singapore In 2020
+title: Top 10 Architecture Instagram Influencers In Singapore In 2021
 description: >-
-  Find top architecture Instagram influencers in Singapore in 2020. Most popular hashtags: #architecture #singapore #travel #beautifuldestinations.
+  Find top architecture Instagram influencers in Singapore in 2021. Most popular hashtags: #architecture #singapore #travel #beautifuldestinations.
 platform: Instagram
 hits: 17
 text_top: Analyze the best Instagram accounts on inBeat.

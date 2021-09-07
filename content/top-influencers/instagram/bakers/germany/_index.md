@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Germany In 2020
+title: Top 10 Bakers Instagram Influencers In Germany In 2021
 description: >-
-  Find top bakers Instagram influencers in Germany in 2020. Most popular hashtags: #bakersgonnabake #thebakefeed #bakersofinstagram #backenistliebe.
+  Find top bakers Instagram influencers in Germany in 2021. Most popular hashtags: #bakersgonnabake #thebakefeed #bakersofinstagram #backenistliebe.
 platform: Instagram
 hits: 537
 text_top: See the most popular Instagram profiles on inBeat.

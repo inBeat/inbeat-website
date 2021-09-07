@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Poland In 2020
+title: Top 10 Food TikTok Influencers In Poland In 2021
 description: >-
-  Find top food TikTok influencers in Poland in 2020. Most popular hashtags: #food #dlaciebie #foryou #dc.
+  Find top food TikTok influencers in Poland in 2021. Most popular hashtags: #food #dlaciebie #foryou #dc.
 platform: TikTok
 hits: 80
 text_top: Analyze the top-rated TikTok profiles on inBeat.

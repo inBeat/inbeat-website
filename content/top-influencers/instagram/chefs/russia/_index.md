@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Russia In 2020
+title: Top 10 Chefs Instagram Influencers In Russia In 2021
 description: >-
-  Find top chefs Instagram influencers in Russia in 2020. Most popular hashtags: #chef #aroyd #chefstalk.
+  Find top chefs Instagram influencers in Russia in 2021. Most popular hashtags: #chef #aroyd #chefstalk.
 platform: Instagram
 hits: 136
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Austria In 2020
+title: Top 10 Guitar Instagram Influencers In Austria In 2021
 description: >-
-  Find top guitar Instagram influencers in Austria in 2020. Most popular hashtags: #vienna #guitar #austria #portrait.
+  Find top guitar Instagram influencers in Austria in 2021. Most popular hashtags: #vienna #guitar #austria #portrait.
 platform: Instagram
 hits: 8
 text_top: Analyze the best Instagram profiles on inBeat.

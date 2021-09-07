@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Montreal In 2020
+title: Top 10 Home Decor TikTok Influencers In Montreal In 2021
 description: >-
-  Find top home decor TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #homedecor #foryou #foryoupage.
+  Find top home decor TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #homedecor #foryou #foryoupage.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Finland In 2020
+title: Top 10 Gardening Instagram Influencers In Finland In 2021
 description: >-
-  Find top gardening Instagram influencers in Finland in 2020. Most popular hashtags: #gardening #sisustusinspiraatio #flowers #nordichome.
+  Find top gardening Instagram influencers in Finland in 2021. Most popular hashtags: #gardening #sisustusinspiraatio #flowers #nordichome.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram accounts on inBeat.

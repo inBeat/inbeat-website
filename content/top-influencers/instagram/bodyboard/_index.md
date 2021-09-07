@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodyboard Instagram Influencers In 2020
+title: Top 10 Bodyboard Instagram Influencers In 2021
 description: >-
-  Find top bodyboard Instagram influencers in 2020. Most popular hashtags: #bodyboard #bodyboarding #surf.
+  Find top bodyboard Instagram influencers in 2021. Most popular hashtags: #bodyboard #bodyboarding #surf.
 platform: Instagram
 hits: 249
 text_top: Analyze the best Instagram profiles on inBeat.

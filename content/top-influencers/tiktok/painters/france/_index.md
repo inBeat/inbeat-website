@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In France In 2020
+title: Top 10 Painters TikTok Influencers In France In 2021
 description: >-
-  Find top painters TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
+  Find top painters TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok accounts on inBeat.

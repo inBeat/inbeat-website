@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Poland In 2020
+title: Top 10 Lifestyle Instagram Influencers In Poland In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Poland in 2020. Most popular hashtags: #autumnoutfit #polskadziewczyna #paznokciehybrydowe #ootd.
+  Find top lifestyle Instagram influencers in Poland in 2021. Most popular hashtags: #autumnoutfit #polskadziewczyna #paznokciehybrydowe #ootd.
 platform: Instagram
 hits: 888
 text_top: Identify the top-rated Instagram influencers on inBeat.

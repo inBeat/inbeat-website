@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Los Angeles In 2020
+title: Top 10 Gardening TikTok Influencers In Los Angeles In 2021
 description: >-
-  Find top gardening TikTok influencers in Los Angeles in 2020. Most popular hashtags: #gardening #fyp #losangeles #plants.
+  Find top gardening TikTok influencers in Los Angeles in 2021. Most popular hashtags: #gardening #fyp #losangeles #plants.
 platform: TikTok
 hits: 7
 text_top: Identify the top-rated TikTok accounts on inBeat.

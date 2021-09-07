@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Berlin In 2020
+title: Top 10 Fashion TikTok Influencers In Berlin In 2021
 description: >-
-  Find top fashion TikTok influencers in Berlin in 2020. Most popular hashtags: #berlin #fashion #fun #vlog.
+  Find top fashion TikTok influencers in Berlin in 2021. Most popular hashtags: #berlin #fashion #fun #vlog.
 platform: TikTok
 hits: 26
 text_top: Analyze the top-rated TikTok influencers on inBeat.

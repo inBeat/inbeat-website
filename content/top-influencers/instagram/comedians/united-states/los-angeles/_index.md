@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Los Angeles In 2020
+title: Top 10 Comedians Instagram Influencers In Los Angeles In 2021
 description: >-
-  Find top comedians Instagram influencers in Los Angeles in 2020. Most popular hashtags: #comedy #standupcomedy #losangeles.
+  Find top comedians Instagram influencers in Los Angeles in 2021. Most popular hashtags: #comedy #standupcomedy #losangeles.
 platform: Instagram
 hits: 50
 text_top: Discover the most popular Instagram accounts on inBeat.

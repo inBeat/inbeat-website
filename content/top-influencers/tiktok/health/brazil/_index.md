@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Brazil In 2020
+title: Top 10 Health TikTok Influencers In Brazil In 2021
 description: >-
-  Find top health TikTok influencers in Brazil in 2020. Most popular hashtags: #fitness #healthy #fy #health.
+  Find top health TikTok influencers in Brazil in 2021. Most popular hashtags: #fitness #healthy #fy #health.
 platform: TikTok
 hits: 56
 text_top: See the most popular TikTok accounts on inBeat.

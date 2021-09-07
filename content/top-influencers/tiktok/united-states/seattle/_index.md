@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Seattle In 2020
+title: Top 10 TikTok Influencers In Seattle In 2021
 description: >-
-  Find top TikTok influencers in Seattle in 2020. Most popular hashtags: #fyp #duet #foryoupage #greenscreen.
+  Find top TikTok influencers in Seattle in 2021. Most popular hashtags: #fyp #duet #foryoupage #greenscreen.
 platform: TikTok
 hits: 934
 text_top: See the best TikTok profiles on inBeat.

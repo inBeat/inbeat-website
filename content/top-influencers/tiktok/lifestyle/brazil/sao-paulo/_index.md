@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2020
+title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Sao Paulo in 2020. Most popular hashtags: #fyp #foryou #foryoupage #lifestyle.
+  Find top lifestyle TikTok influencers in Sao Paulo in 2021. Most popular hashtags: #fyp #foryou #foryoupage #lifestyle.
 platform: TikTok
 hits: 6
 text_top: See the most popular TikTok influencers on inBeat.

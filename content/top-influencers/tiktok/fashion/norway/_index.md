@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Norway In 2020
+title: Top 10 Fashion TikTok Influencers In Norway In 2021
 description: >-
-  Find top fashion TikTok influencers in Norway in 2020. Most popular hashtags: #fyp #foryou #fashion #norge.
+  Find top fashion TikTok influencers in Norway in 2021. Most popular hashtags: #fyp #foryou #fashion #norge.
 platform: TikTok
 hits: 15
 text_top: Identify the best TikTok influencers on inBeat.

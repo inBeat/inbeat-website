@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Singapore In 2020
+title: Top 10 Health Instagram Influencers In Singapore In 2021
 description: >-
-  Find top health Instagram influencers in Singapore in 2020. Most popular hashtags: #healthylifestyle #singapore #igsg #giveaway.
+  Find top health Instagram influencers in Singapore in 2021. Most popular hashtags: #healthylifestyle #singapore #igsg #giveaway.
 platform: Instagram
 hits: 48
 text_top: Identify the most popular Instagram influencers on inBeat.

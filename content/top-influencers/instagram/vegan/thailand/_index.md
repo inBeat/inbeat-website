@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Thailand In 2020
+title: Top 10 Vegan Instagram Influencers In Thailand In 2021
 description: >-
-  Find top vegan Instagram influencers in Thailand in 2020. Most popular hashtags: #vegan #healthyfood #plantbased.
+  Find top vegan Instagram influencers in Thailand in 2021. Most popular hashtags: #vegan #healthyfood #plantbased.
 platform: Instagram
 hits: 23
 text_top: See the most popular Instagram accounts on inBeat.

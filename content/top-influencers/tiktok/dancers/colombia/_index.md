@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Colombia In 2020
+title: Top 10 Dancers TikTok Influencers In Colombia In 2021
 description: >-
-  Find top dancers TikTok influencers in Colombia in 2020. Most popular hashtags: #colombia #parati #foryou #fyp.
+  Find top dancers TikTok influencers in Colombia in 2021. Most popular hashtags: #colombia #parati #foryou #fyp.
 platform: TikTok
 hits: 23
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In United Kingdom In 2020
+title: Top 10 Barbers TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top barbers TikTok influencers in United Kingdom in 2020. Most popular hashtags: #barber #fyp #haircut #duet.
+  Find top barbers TikTok influencers in United Kingdom in 2021. Most popular hashtags: #barber #fyp #haircut #duet.
 platform: TikTok
 hits: 77
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Berlin In 2020
+title: Top 10 Gardening Instagram Influencers In Berlin In 2021
 description: >-
-  Find top gardening Instagram influencers in Berlin in 2020. Most popular hashtags: #autumn #gardening #garden #summer.
+  Find top gardening Instagram influencers in Berlin in 2021. Most popular hashtags: #autumn #gardening #garden #summer.
 platform: Instagram
 hits: 7
 text_top: See the best Instagram profiles on inBeat.

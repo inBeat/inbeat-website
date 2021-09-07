@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Greece In 2020
+title: Top 10 Photographers Instagram Influencers In Greece In 2021
 description: >-
-  Find top photographers Instagram influencers in Greece in 2020. Most popular hashtags: #fashion #greece #editorial #photoshoot.
+  Find top photographers Instagram influencers in Greece in 2021. Most popular hashtags: #fashion #greece #editorial #photoshoot.
 platform: Instagram
 hits: 202
 text_top: Identify the top-rated Instagram profiles on inBeat.

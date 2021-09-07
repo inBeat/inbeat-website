@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Malaysia In 2020
+title: Top 10 Models TikTok Influencers In Malaysia In 2021
 description: >-
-  Find top models TikTok influencers in Malaysia in 2020. Most popular hashtags: #duet #fyp #foryou #trending.
+  Find top models TikTok influencers in Malaysia in 2021. Most popular hashtags: #duet #fyp #foryou #trending.
 platform: TikTok
 hits: 14
 text_top: Discover the best TikTok profiles on inBeat.

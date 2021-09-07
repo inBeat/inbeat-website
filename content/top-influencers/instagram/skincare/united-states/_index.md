@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United States In 2020
+title: Top 10 Skincare Instagram Influencers In United States In 2021
 description: >-
-  Find top skincare Instagram influencers in United States in 2020. Most popular hashtags: #love #liketkit #skincare.
+  Find top skincare Instagram influencers in United States in 2021. Most popular hashtags: #love #liketkit #skincare.
 platform: Instagram
 hits: 3376
 text_top: Identify the most popular Instagram accounts on inBeat.

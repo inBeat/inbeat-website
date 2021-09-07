@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Russia In 2020
+title: Top 10 Lingerie Instagram Influencers In Russia In 2021
 description: >-
-  Find top lingerie Instagram influencers in Russia in 2020. Most popular hashtags: #liquidleggings #latexfetish #lingeriemodel.
+  Find top lingerie Instagram influencers in Russia in 2021. Most popular hashtags: #liquidleggings #latexfetish #lingeriemodel.
 platform: Instagram
 hits: 118
 text_top: Analyze the most popular Instagram influencers on inBeat.

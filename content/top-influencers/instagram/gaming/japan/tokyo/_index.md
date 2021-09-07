@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Tokyo In 2020
+title: Top 10 Gaming Instagram Influencers In Tokyo In 2021
 description: >-
-  Find top gaming Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #gaming #kawaii #tokyo.
+  Find top gaming Instagram influencers in Tokyo in 2021. Most popular hashtags: #japan #gaming #kawaii #tokyo.
 platform: Instagram
 hits: 7
 text_top: Discover the most popular Instagram influencers on inBeat.

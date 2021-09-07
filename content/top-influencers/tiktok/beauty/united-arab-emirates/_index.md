@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2020
+title: Top 10 Beauty TikTok Influencers In United Arab Emirates In 2021
 description: >-
-  Find top beauty TikTok influencers in United Arab Emirates in 2020. Most popular hashtags: #fyp #foryou #dubai #beauty.
+  Find top beauty TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #fyp #foryou #dubai #beauty.
 platform: TikTok
 hits: 91
 text_top: Identify the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Atlanta In 2020
+title: Top 10 Fitness Instagram Influencers In Atlanta In 2021
 description: >-
-  Find top fitness Instagram influencers in Atlanta in 2020. Most popular hashtags: #fitness #atlanta #gym #workout.
+  Find top fitness Instagram influencers in Atlanta in 2021. Most popular hashtags: #fitness #atlanta #gym #workout.
 platform: Instagram
 hits: 229
 text_top: Discover the best Instagram influencers on inBeat.

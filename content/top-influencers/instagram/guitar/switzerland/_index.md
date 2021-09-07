@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Switzerland In 2020
+title: Top 10 Guitar Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top guitar Instagram influencers in Switzerland in 2020. Most popular hashtags: #guitar #music #musician #love.
+  Find top guitar Instagram influencers in Switzerland in 2021. Most popular hashtags: #guitar #music #musician #love.
 platform: Instagram
 hits: 19
 text_top: Analyze the top-rated Instagram accounts on inBeat.

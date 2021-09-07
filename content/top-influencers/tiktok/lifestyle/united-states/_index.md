@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In United States In 2020
+title: Top 10 Lifestyle TikTok Influencers In United States In 2021
 description: >-
-  Find top lifestyle TikTok influencers in United States in 2020. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in United States in 2021. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
 platform: TikTok
 hits: 759
 text_top: See the top-rated TikTok profiles on inBeat.

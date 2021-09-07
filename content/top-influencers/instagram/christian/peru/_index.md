@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Peru In 2020
+title: Top 10 Christian Instagram Influencers In Peru In 2021
 description: >-
-  Find top christian Instagram influencers in Peru in 2020. Most popular hashtags: #peru #cuarentena #musica.
+  Find top christian Instagram influencers in Peru in 2021. Most popular hashtags: #peru #cuarentena #musica.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram accounts on inBeat.

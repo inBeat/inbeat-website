@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Toronto In 2020
+title: Top 10 Nutrition TikTok Influencers In Toronto In 2021
 description: >-
-  Find top nutrition TikTok influencers in Toronto in 2020. Most popular hashtags: #nutrition #nutritiontips #weightloss #fyp.
+  Find top nutrition TikTok influencers in Toronto in 2021. Most popular hashtags: #nutrition #nutritiontips #weightloss #fyp.
 platform: TikTok
 hits: 5
 text_top: See the top-rated TikTok profiles on inBeat.

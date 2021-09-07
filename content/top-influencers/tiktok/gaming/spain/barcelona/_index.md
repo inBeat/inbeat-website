@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Barcelona In 2020
+title: Top 10 Gaming TikTok Influencers In Barcelona In 2021
 description: >-
-  Find top gaming TikTok influencers in Barcelona in 2020. Most popular hashtags: #humor #gaming #gamer #viral.
+  Find top gaming TikTok influencers in Barcelona in 2021. Most popular hashtags: #humor #gaming #gamer #viral.
 platform: TikTok
 hits: 4
 text_top: Discover the top-rated TikTok influencers on inBeat.

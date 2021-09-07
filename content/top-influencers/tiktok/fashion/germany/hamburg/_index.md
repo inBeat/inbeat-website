@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Hamburg In 2020
+title: Top 10 Fashion TikTok Influencers In Hamburg In 2021
 description: >-
-  Find top fashion TikTok influencers in Hamburg in 2020. Most popular hashtags: #hamburg #foryou #fashion #fyp.
+  Find top fashion TikTok influencers in Hamburg in 2021. Most popular hashtags: #hamburg #foryou #fashion #fyp.
 platform: TikTok
 hits: 14
 text_top: Analyze the best TikTok profiles on inBeat.

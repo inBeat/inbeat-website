@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Montreal In 2020
+title: Top 10 Athletes TikTok Influencers In Montreal In 2021
 description: >-
-  Find top athletes TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #foryou #canada #duet.
+  Find top athletes TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #foryou #canada #duet.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok accounts on inBeat.

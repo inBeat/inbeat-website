@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In France In 2020
+title: Top 10 Home Decor Instagram Influencers In France In 2021
 description: >-
-  Find top home decor Instagram influencers in France in 2020. Most popular hashtags: #homedecor #homesweethome #deco #decoration.
+  Find top home decor Instagram influencers in France in 2021. Most popular hashtags: #homedecor #homesweethome #deco #decoration.
 platform: Instagram
 hits: 571
 text_top: Analyze the top-rated Instagram accounts on inBeat.

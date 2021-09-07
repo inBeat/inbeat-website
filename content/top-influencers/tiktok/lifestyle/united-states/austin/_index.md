@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Austin In 2020
+title: Top 10 Lifestyle TikTok Influencers In Austin In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Austin in 2020. Most popular hashtags: #fyp #foryoupage #tiktok #lifestyle.
+  Find top lifestyle TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #foryoupage #tiktok #lifestyle.
 platform: TikTok
 hits: 14
 text_top: Discover the best TikTok influencers on inBeat.

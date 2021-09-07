@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Ukraine In 2020
+title: Top 10 Home Decor Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top home decor Instagram influencers in Ukraine in 2020. Most popular hashtags: #homedecor #handmade #art #decor.
+  Find top home decor Instagram influencers in Ukraine in 2021. Most popular hashtags: #homedecor #handmade #art #decor.
 platform: Instagram
 hits: 9
 text_top: Analyze the best Instagram profiles on inBeat.

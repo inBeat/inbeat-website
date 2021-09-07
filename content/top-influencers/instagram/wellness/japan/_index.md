@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Japan In 2020
+title: Top 10 Wellness Instagram Influencers In Japan In 2021
 description: >-
-  Find top wellness Instagram influencers in Japan in 2020. Most popular hashtags: #fashion #wellness #nature #yoga.
+  Find top wellness Instagram influencers in Japan in 2021. Most popular hashtags: #fashion #wellness #nature #yoga.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram profiles on inBeat.

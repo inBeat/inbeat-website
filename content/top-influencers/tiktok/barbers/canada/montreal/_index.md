@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Montreal In 2020
+title: Top 10 Barbers TikTok Influencers In Montreal In 2021
 description: >-
-  Find top barbers TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #foryoupage #foryou #montreal.
+  Find top barbers TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #foryoupage #foryou #montreal.
 platform: TikTok
 hits: 7
 text_top: Identify the top-rated TikTok influencers on inBeat.

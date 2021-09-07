@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In New York In 2020
+title: Top 10 Yoga Instagram Influencers In New York In 2021
 description: >-
-  Find top yoga Instagram influencers in New York in 2020. Most popular hashtags: #yoga #newyork #yogi #nature.
+  Find top yoga Instagram influencers in New York in 2021. Most popular hashtags: #yoga #newyork #yogi #nature.
 platform: Instagram
 hits: 126
 text_top: Identify the most popular Instagram influencers on inBeat.

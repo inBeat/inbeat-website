@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Austria In 2020
+title: Top 10 Health TikTok Influencers In Austria In 2021
 description: >-
-  Find top health TikTok influencers in Austria in 2020. Most popular hashtags: #fyp #foryou #austria #vienna.
+  Find top health TikTok influencers in Austria in 2021. Most popular hashtags: #fyp #foryou #austria #vienna.
 platform: TikTok
 hits: 16
 text_top: Analyze the top-rated TikTok accounts on inBeat.

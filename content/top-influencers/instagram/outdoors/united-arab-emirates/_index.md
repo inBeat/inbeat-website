@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Outdoors Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top outdoors Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #uae #dubai #outdoors #summer.
+  Find top outdoors Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #uae #dubai #outdoors #summer.
 platform: Instagram
 hits: 39
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In New Delhi In 2020
+title: Top 10 TikTok Influencers In New Delhi In 2021
 description: >-
-  Find top TikTok influencers in New Delhi in 2020. Most popular hashtags: #foryou #fyp #foryoupage #duet.
+  Find top TikTok influencers in New Delhi in 2021. Most popular hashtags: #foryou #fyp #foryoupage #duet.
 platform: TikTok
 hits: 77
 text_top: Discover the most popular TikTok profiles on inBeat.

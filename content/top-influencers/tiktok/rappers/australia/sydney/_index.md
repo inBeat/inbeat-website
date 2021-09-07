@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Sydney In 2020
+title: Top 10 Rappers TikTok Influencers In Sydney In 2021
 description: >-
-  Find top rappers TikTok influencers in Sydney in 2020. Most popular hashtags: #fyp #foryou #rap #rapper.
+  Find top rappers TikTok influencers in Sydney in 2021. Most popular hashtags: #fyp #foryou #rap #rapper.
 platform: TikTok
 hits: 5
 text_top: See the best TikTok accounts on inBeat.

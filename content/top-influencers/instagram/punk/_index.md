@@ -1,7 +1,7 @@
 ---
-title: Top 10 Punk Instagram Influencers In 2020
+title: Top 10 Punk Instagram Influencers In 2021
 description: >-
-  Find top punk Instagram influencers in 2020. Most popular hashtags: #staysafe #liebe #ootd.
+  Find top punk Instagram influencers in 2021. Most popular hashtags: #staysafe #liebe #ootd.
 platform: Instagram
 hits: 2552
 text_top: Identify the top-rated Instagram accounts on inBeat.

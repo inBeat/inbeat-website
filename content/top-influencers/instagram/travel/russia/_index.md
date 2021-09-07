@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Russia In 2020
+title: Top 10 Travel Instagram Influencers In Russia In 2021
 description: >-
-  Find top travel Instagram influencers in Russia in 2020. Most popular hashtags: #travel #video #travelblog.
+  Find top travel Instagram influencers in Russia in 2021. Most popular hashtags: #travel #video #travelblog.
 platform: Instagram
 hits: 1320
 text_top: Identify the most popular Instagram profiles on inBeat.

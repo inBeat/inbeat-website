@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Fitness Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top fitness Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #weekendvibes #fitness #beauty.
+  Find top fitness Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #weekendvibes #fitness #beauty.
 platform: Instagram
 hits: 166
 text_top: Analyze the top-rated Instagram profiles on inBeat.

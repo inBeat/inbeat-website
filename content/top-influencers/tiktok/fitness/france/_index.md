@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In France In 2020
+title: Top 10 Fitness TikTok Influencers In France In 2021
 description: >-
-  Find top fitness TikTok influencers in France in 2020. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
+  Find top fitness TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 127
 text_top: Identify the most popular TikTok profiles on inBeat.

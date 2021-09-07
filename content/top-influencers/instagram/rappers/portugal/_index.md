@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Portugal In 2020
+title: Top 10 Rappers Instagram Influencers In Portugal In 2021
 description: >-
-  Find top rappers Instagram influencers in Portugal in 2020. Most popular hashtags: #ootdmen #simplydapper #mensweardaily #menwithstreetstyle.
+  Find top rappers Instagram influencers in Portugal in 2021. Most popular hashtags: #ootdmen #simplydapper #mensweardaily #menwithstreetstyle.
 platform: Instagram
 hits: 8
 text_top: See the best Instagram accounts on inBeat.

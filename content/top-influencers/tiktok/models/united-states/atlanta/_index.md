@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Atlanta In 2020
+title: Top 10 Models TikTok Influencers In Atlanta In 2021
 description: >-
-  Find top models TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
+  Find top models TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
 platform: TikTok
 hits: 24
 text_top: Identify the most popular TikTok influencers on inBeat.

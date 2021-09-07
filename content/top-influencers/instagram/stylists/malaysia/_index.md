@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Malaysia In 2020
+title: Top 10 Stylists Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top stylists Instagram influencers in Malaysia in 2020. Most popular hashtags: #love #influencer #stayhome #fashion.
+  Find top stylists Instagram influencers in Malaysia in 2021. Most popular hashtags: #love #influencer #stayhome #fashion.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram accounts on inBeat.

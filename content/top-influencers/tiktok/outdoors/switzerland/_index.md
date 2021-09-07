@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Switzerland In 2020
+title: Top 10 Outdoors TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top outdoors TikTok influencers in Switzerland in 2020. Most popular hashtags: #switzerland #viral #nature #swiss.
+  Find top outdoors TikTok influencers in Switzerland in 2021. Most popular hashtags: #switzerland #viral #nature #swiss.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok influencers on inBeat.

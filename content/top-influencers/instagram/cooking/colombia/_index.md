@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Colombia In 2020
+title: Top 10 Cooking Instagram Influencers In Colombia In 2021
 description: >-
-  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #bogota #foodporn #cooking.
+  Find top cooking Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #bogota #foodporn #cooking.
 platform: Instagram
 hits: 24
 text_top: Discover the best Instagram influencers on inBeat.

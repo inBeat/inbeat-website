@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Japan In 2020
+title: Top 10 Food Instagram Influencers In Japan In 2021
 description: >-
-  Find top food Instagram influencers in Japan in 2020. Most popular hashtags: #fashion #ootd #pr #2020.
+  Find top food Instagram influencers in Japan in 2021. Most popular hashtags: #fashion #ootd #pr #2020.
 platform: Instagram
 hits: 605
 text_top: Analyze the most popular Instagram profiles on inBeat.

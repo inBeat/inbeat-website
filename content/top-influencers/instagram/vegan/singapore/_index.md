@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Singapore In 2020
+title: Top 10 Vegan Instagram Influencers In Singapore In 2021
 description: >-
-  Find top vegan Instagram influencers in Singapore in 2020. Most popular hashtags: #vegan #singapore #indianfood #vegetarian.
+  Find top vegan Instagram influencers in Singapore in 2021. Most popular hashtags: #vegan #singapore #indianfood #vegetarian.
 platform: Instagram
 hits: 15
 text_top: See the best Instagram influencers on inBeat.

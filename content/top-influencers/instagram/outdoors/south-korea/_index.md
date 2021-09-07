@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Korea In 2020
+title: Top 10 Outdoors Instagram Influencers In South Korea In 2021
 description: >-
-  Find top outdoors Instagram influencers in South Korea in 2020. Most popular hashtags: #korea #camping #nature #outdoor.
+  Find top outdoors Instagram influencers in South Korea in 2021. Most popular hashtags: #korea #camping #nature #outdoor.
 platform: Instagram
 hits: 24
 text_top: Analyze the top-rated Instagram profiles on inBeat.

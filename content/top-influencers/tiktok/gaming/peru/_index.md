@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Peru In 2020
+title: Top 10 Gaming TikTok Influencers In Peru In 2021
 description: >-
-  Find top gaming TikTok influencers in Peru in 2020. Most popular hashtags: #fyp #parati #humor #gaminghighlight.
+  Find top gaming TikTok influencers in Peru in 2021. Most popular hashtags: #fyp #parati #humor #gaminghighlight.
 platform: TikTok
 hits: 17
 text_top: Identify the best TikTok profiles on inBeat.

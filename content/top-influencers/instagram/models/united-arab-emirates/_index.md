@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Models Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top models Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #model #dubai #fashion #dubaifashion.
+  Find top models Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #model #dubai #fashion #dubaifashion.
 platform: Instagram
 hits: 242
 text_top: See the best Instagram profiles on inBeat.

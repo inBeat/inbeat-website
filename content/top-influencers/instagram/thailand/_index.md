@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Thailand In 2020
+title: Top 10 Instagram Influencers In Thailand In 2021
 description: >-
-  Find top Instagram influencers in Thailand in 2020. Most popular hashtags: #instagood #gmm25 #thailand.
+  Find top Instagram influencers in Thailand in 2021. Most popular hashtags: #instagood #gmm25 #thailand.
 platform: Instagram
 hits: 2057
 text_top: Discover the top-rated Instagram profiles on inBeat.

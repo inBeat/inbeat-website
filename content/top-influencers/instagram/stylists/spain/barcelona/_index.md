@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Barcelona In 2020
+title: Top 10 Stylists Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top stylists Instagram influencers in Barcelona in 2020. Most popular hashtags: #beauty #style #hairstyle.
+  Find top stylists Instagram influencers in Barcelona in 2021. Most popular hashtags: #beauty #style #hairstyle.
 platform: Instagram
 hits: 44
 text_top: See the most popular Instagram profiles on inBeat.

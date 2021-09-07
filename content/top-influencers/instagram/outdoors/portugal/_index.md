@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Portugal In 2020
+title: Top 10 Outdoors Instagram Influencers In Portugal In 2021
 description: >-
-  Find top outdoors Instagram influencers in Portugal in 2020. Most popular hashtags: #outdoors #nature #portugal #travel.
+  Find top outdoors Instagram influencers in Portugal in 2021. Most popular hashtags: #outdoors #nature #portugal #travel.
 platform: Instagram
 hits: 41
 text_top: Discover the top-rated Instagram profiles on inBeat.

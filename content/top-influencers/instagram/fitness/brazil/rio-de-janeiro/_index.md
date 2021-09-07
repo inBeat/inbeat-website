@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Rio De Janeiro In 2020
+title: Top 10 Fitness Instagram Influencers In Rio De Janeiro In 2021
 description: >-
-  Find top fitness Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #fitness #vidasaudavel #tbt #lifestyle.
+  Find top fitness Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #fitness #vidasaudavel #tbt #lifestyle.
 platform: Instagram
 hits: 31
 text_top: Analyze the top-rated Instagram accounts on inBeat.

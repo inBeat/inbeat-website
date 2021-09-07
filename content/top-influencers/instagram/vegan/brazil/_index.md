@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Brazil In 2020
+title: Top 10 Vegan Instagram Influencers In Brazil In 2021
 description: >-
-  Find top vegan Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #travel #menclothing.
+  Find top vegan Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #travel #menclothing.
 platform: Instagram
 hits: 479
 text_top: See the top-rated Instagram influencers on inBeat.

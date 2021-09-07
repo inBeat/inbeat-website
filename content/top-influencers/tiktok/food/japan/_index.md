@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Japan In 2020
+title: Top 10 Food TikTok Influencers In Japan In 2021
 description: >-
-  Find top food TikTok influencers in Japan in 2020. Most popular hashtags: #food #tiktok #fyp #foryou.
+  Find top food TikTok influencers in Japan in 2021. Most popular hashtags: #food #tiktok #fyp #foryou.
 platform: TikTok
 hits: 21
 text_top: Identify the best TikTok accounts on inBeat.

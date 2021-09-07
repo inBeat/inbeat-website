@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Finland In 2020
+title: Top 10 Beauty Instagram Influencers In Finland In 2021
 description: >-
-  Find top beauty Instagram influencers in Finland in 2020. Most popular hashtags: #tytt #naturelovers #quoteoftheday.
+  Find top beauty Instagram influencers in Finland in 2021. Most popular hashtags: #tytt #naturelovers #quoteoftheday.
 platform: Instagram
 hits: 219
 text_top: Analyze the best Instagram accounts on inBeat.

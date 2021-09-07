@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Milan In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Milan In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Milan in 2020. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
+  Find top tattoo-artists Instagram influencers in Milan in 2021. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
 platform: Instagram
 hits: 50
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Chicago In 2020
+title: Top 10 Rappers TikTok Influencers In Chicago In 2021
 description: >-
-  Find top rappers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
+  Find top rappers TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
 platform: TikTok
 hits: 16
 text_top: Identify the top-rated TikTok profiles on inBeat.

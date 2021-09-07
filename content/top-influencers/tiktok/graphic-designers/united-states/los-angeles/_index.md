@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Los Angeles In 2020
+title: Top 10 Graphic-Designers TikTok Influencers In Los Angeles In 2021
 description: >-
-  Find top graphic-designers TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #graphicdesign #losangeles #foryoupage.
+  Find top graphic-designers TikTok influencers in Los Angeles in 2021. Most popular hashtags: #fyp #graphicdesign #losangeles #foryoupage.
 platform: TikTok
 hits: 8
 text_top: Identify the best TikTok profiles on inBeat.

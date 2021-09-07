@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Brazil In 2020
+title: Top 10 Barbers TikTok Influencers In Brazil In 2021
 description: >-
-  Find top barbers TikTok influencers in Brazil in 2020. Most popular hashtags: #tiktok #foryou #barber #viral.
+  Find top barbers TikTok influencers in Brazil in 2021. Most popular hashtags: #tiktok #foryou #barber #viral.
 platform: TikTok
 hits: 15
 text_top: See the best TikTok influencers on inBeat.

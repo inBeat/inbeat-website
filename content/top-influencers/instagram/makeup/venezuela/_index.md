@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Venezuela In 2020
+title: Top 10 Makeup Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top makeup Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeup #makeupartist #venezuela #soymuavzla.
+  Find top makeup Instagram influencers in Venezuela in 2021. Most popular hashtags: #makeup #makeupartist #venezuela #soymuavzla.
 platform: Instagram
 hits: 178
 text_top: Analyze the most popular Instagram influencers on inBeat.

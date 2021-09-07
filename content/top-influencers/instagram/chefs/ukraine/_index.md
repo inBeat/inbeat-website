@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Ukraine In 2020
+title: Top 10 Chefs Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top chefs Instagram influencers in Ukraine in 2020. Most popular hashtags: #chef #foodporn #dessert.
+  Find top chefs Instagram influencers in Ukraine in 2021. Most popular hashtags: #chef #foodporn #dessert.
 platform: Instagram
 hits: 18
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Argentina In 2020
+title: Top 10 Gaming Instagram Influencers In Argentina In 2021
 description: >-
-  Find top gaming Instagram influencers in Argentina in 2020. Most popular hashtags: #gaming #gamer #cuarentena #pcgamer.
+  Find top gaming Instagram influencers in Argentina in 2021. Most popular hashtags: #gaming #gamer #cuarentena #pcgamer.
 platform: Instagram
 hits: 31
 text_top: Identify the best Instagram profiles on inBeat.

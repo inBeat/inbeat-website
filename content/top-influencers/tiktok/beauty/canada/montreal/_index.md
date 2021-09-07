@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Montreal In 2020
+title: Top 10 Beauty TikTok Influencers In Montreal In 2021
 description: >-
-  Find top beauty TikTok influencers in Montreal in 2020. Most popular hashtags: #montreal #canada #beauty #funny.
+  Find top beauty TikTok influencers in Montreal in 2021. Most popular hashtags: #montreal #canada #beauty #funny.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok profiles on inBeat.

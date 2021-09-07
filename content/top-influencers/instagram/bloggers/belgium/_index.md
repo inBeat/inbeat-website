@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Belgium In 2020
+title: Top 10 Bloggers Instagram Influencers In Belgium In 2021
 description: >-
-  Find top bloggers Instagram influencers in Belgium in 2020. Most popular hashtags: #belgianblogger #ad #ootd #belgium.
+  Find top bloggers Instagram influencers in Belgium in 2021. Most popular hashtags: #belgianblogger #ad #ootd #belgium.
 platform: Instagram
 hits: 69
 text_top: Discover the most popular Instagram influencers on inBeat.

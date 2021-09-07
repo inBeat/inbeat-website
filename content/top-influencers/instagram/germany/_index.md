@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Germany In 2020
+title: Top 10 Instagram Influencers In Germany In 2021
 description: >-
-  Find top Instagram influencers in Germany in 2020. Most popular hashtags: #carmushka #love #summervibes.
+  Find top Instagram influencers in Germany in 2021. Most popular hashtags: #carmushka #love #summervibes.
 platform: Instagram
 hits: 35762
 text_top: See the top-rated Instagram influencers on inBeat.

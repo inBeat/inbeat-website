@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Houston In 2020
+title: Top 10 Photographers TikTok Influencers In Houston In 2021
 description: >-
-  Find top photographers TikTok influencers in Houston in 2020. Most popular hashtags: #fyp #photographer #houston #photography.
+  Find top photographers TikTok influencers in Houston in 2021. Most popular hashtags: #fyp #photographer #houston #photography.
 platform: TikTok
 hits: 23
 text_top: Analyze the most popular TikTok accounts on inBeat.

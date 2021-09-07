@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Turin In 2020
+title: Top 10 Fashion Instagram Influencers In Turin In 2021
 description: >-
-  Find top fashion Instagram influencers in Turin in 2020. Most popular hashtags: #torino #turin #portrait #italiangirl.
+  Find top fashion Instagram influencers in Turin in 2021. Most popular hashtags: #torino #turin #portrait #italiangirl.
 platform: Instagram
 hits: 32
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Denver In 2020
+title: Top 10 Health Instagram Influencers In Denver In 2021
 description: >-
-  Find top health Instagram influencers in Denver in 2020. Most popular hashtags: #fitness #motivation #fitfam.
+  Find top health Instagram influencers in Denver in 2021. Most popular hashtags: #fitness #motivation #fitfam.
 platform: Instagram
 hits: 52
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Peru In 2020
+title: Top 10 Food TikTok Influencers In Peru In 2021
 description: >-
-  Find top food TikTok influencers in Peru in 2020. Most popular hashtags: #parati #peru #fyp #trend.
+  Find top food TikTok influencers in Peru in 2021. Most popular hashtags: #parati #peru #fyp #trend.
 platform: TikTok
 hits: 23
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Austin In 2020
+title: Top 10 Bloggers Instagram Influencers In Austin In 2021
 description: >-
-  Find top bloggers Instagram influencers in Austin in 2020. Most popular hashtags: #austinblogger #ad #sponsored #trueaustin.
+  Find top bloggers Instagram influencers in Austin in 2021. Most popular hashtags: #austinblogger #ad #sponsored #trueaustin.
 platform: Instagram
 hits: 61
 text_top: Discover the best Instagram profiles on inBeat.

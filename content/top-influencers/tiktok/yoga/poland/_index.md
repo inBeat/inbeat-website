@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Poland In 2020
+title: Top 10 Yoga TikTok Influencers In Poland In 2021
 description: >-
-  Find top yoga TikTok influencers in Poland in 2020. Most popular hashtags: #dlaciebie #foryou #yoga #duet.
+  Find top yoga TikTok influencers in Poland in 2021. Most popular hashtags: #dlaciebie #foryou #yoga #duet.
 platform: TikTok
 hits: 14
 text_top: Identify the best TikTok influencers on inBeat.

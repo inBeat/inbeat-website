@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Malaysia In 2020
+title: Top 10 Cinema Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top cinema Instagram influencers in Malaysia in 2020. Most popular hashtags: #portrait #throwback #fashion #life.
+  Find top cinema Instagram influencers in Malaysia in 2021. Most popular hashtags: #portrait #throwback #fashion #life.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram influencers on inBeat.

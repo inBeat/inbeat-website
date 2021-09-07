@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Spain In 2020
+title: Top 10 Skincare Instagram Influencers In Spain In 2021
 description: >-
-  Find top skincare Instagram influencers in Spain in 2020. Most popular hashtags: #ootd #outfitinspiration #lifestyle.
+  Find top skincare Instagram influencers in Spain in 2021. Most popular hashtags: #ootd #outfitinspiration #lifestyle.
 platform: Instagram
 hits: 183
 text_top: Discover the best Instagram accounts on inBeat.

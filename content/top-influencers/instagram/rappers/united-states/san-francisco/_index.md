@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In San Francisco In 2020
+title: Top 10 Rappers Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top rappers Instagram influencers in San Francisco in 2020. Most popular hashtags: #newyork #love #losangeles.
+  Find top rappers Instagram influencers in San Francisco in 2021. Most popular hashtags: #newyork #love #losangeles.
 platform: Instagram
 hits: 5
 text_top: Analyze the top-rated Instagram accounts on inBeat.

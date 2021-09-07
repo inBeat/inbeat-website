@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In United States In 2020
+title: Top 10 Makeup Instagram Influencers In United States In 2021
 description: >-
-  Find top makeup Instagram influencers in United States in 2020. Most popular hashtags: #makeup #wakeupandmakeup #makeuptutorial #tiktok.
+  Find top makeup Instagram influencers in United States in 2021. Most popular hashtags: #makeup #wakeupandmakeup #makeuptutorial #tiktok.
 platform: Instagram
 hits: 13024
 text_top: Identify the top-rated Instagram influencers on inBeat.

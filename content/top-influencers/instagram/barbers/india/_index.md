@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In India In 2020
+title: Top 10 Barbers Instagram Influencers In India In 2021
 description: >-
-  Find top barbers Instagram influencers in India in 2020. Most popular hashtags: #barber #fashion #barbershop #style.
+  Find top barbers Instagram influencers in India in 2021. Most popular hashtags: #barber #fashion #barbershop #style.
 platform: Instagram
 hits: 57
 text_top: Identify the top-rated Instagram accounts on inBeat.

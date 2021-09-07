@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bangkok In 2020
+title: Top 10 Beauty Instagram Influencers In Bangkok In 2021
 description: >-
-  Find top beauty Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #beauty #bangkok #travel.
+  Find top beauty Instagram influencers in Bangkok in 2021. Most popular hashtags: #thailand #beauty #bangkok #travel.
 platform: Instagram
 hits: 14
 text_top: Identify the top-rated Instagram influencers on inBeat.

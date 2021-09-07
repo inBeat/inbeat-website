@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In France In 2020
+title: Top 10 Cosmetics Instagram Influencers In France In 2021
 description: >-
-  Find top cosmetics Instagram influencers in France in 2020. Most popular hashtags: #cosmetics #giveaway #love.
+  Find top cosmetics Instagram influencers in France in 2021. Most popular hashtags: #cosmetics #giveaway #love.
 platform: Instagram
 hits: 314
 text_top: Identify the top-rated Instagram profiles on inBeat.

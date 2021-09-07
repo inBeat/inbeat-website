@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Germany In 2020
+title: Top 10 Gymnasts Instagram Influencers In Germany In 2021
 description: >-
-  Find top gymnasts Instagram influencers in Germany in 2020. Most popular hashtags: #gymnastics #happy #training.
+  Find top gymnasts Instagram influencers in Germany in 2021. Most popular hashtags: #gymnastics #happy #training.
 platform: Instagram
 hits: 176
 text_top: Analyze the best Instagram profiles on inBeat.

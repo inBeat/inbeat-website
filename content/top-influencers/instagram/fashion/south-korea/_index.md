@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In South Korea In 2020
+title: Top 10 Fashion Instagram Influencers In South Korea In 2021
 description: >-
-  Find top fashion Instagram influencers in South Korea in 2020. Most popular hashtags: #kstyle #ad #koreanbeauty.
+  Find top fashion Instagram influencers in South Korea in 2021. Most popular hashtags: #kstyle #ad #koreanbeauty.
 platform: Instagram
 hits: 213
 text_top: See the top-rated Instagram accounts on inBeat.

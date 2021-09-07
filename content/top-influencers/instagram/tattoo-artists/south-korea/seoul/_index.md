@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Seoul in 2020. Most popular hashtags: #tattoo #colortattoo #tattoodesign #flowertattoo.
+  Find top tattoo-artists Instagram influencers in Seoul in 2021. Most popular hashtags: #tattoo #colortattoo #tattoodesign #flowertattoo.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

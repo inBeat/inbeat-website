@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Barcelona In 2020
+title: Top 10 Photographers TikTok Influencers In Barcelona In 2021
 description: >-
-  Find top photographers TikTok influencers in Barcelona in 2020. Most popular hashtags: #photomagic #photographer #phototips #photoshoot.
+  Find top photographers TikTok influencers in Barcelona in 2021. Most popular hashtags: #photomagic #photographer #phototips #photoshoot.
 platform: TikTok
 hits: 4
 text_top: Identify the best TikTok influencers on inBeat.

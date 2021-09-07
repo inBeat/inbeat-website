@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bogotá In 2020
+title: Top 10 Fitness Instagram Influencers In Bogotá In 2021
 description: >-
-  Find top fitness Instagram influencers in Bogotá in 2020. Most popular hashtags: #bogota #fitness #colombia #fitnessmotivation.
+  Find top fitness Instagram influencers in Bogotá in 2021. Most popular hashtags: #bogota #fitness #colombia #fitnessmotivation.
 platform: Instagram
 hits: 52
 text_top: Identify the best Instagram influencers on inBeat.

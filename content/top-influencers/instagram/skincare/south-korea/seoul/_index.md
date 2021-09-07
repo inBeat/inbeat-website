@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Seoul In 2020
+title: Top 10 Skincare Instagram Influencers In Seoul In 2021
 description: >-
-  Find top skincare Instagram influencers in Seoul in 2020. Most popular hashtags: #skincare #kbeauty #seoul #makeup.
+  Find top skincare Instagram influencers in Seoul in 2021. Most popular hashtags: #skincare #kbeauty #seoul #makeup.
 platform: Instagram
 hits: 11
 text_top: Identify the top-rated Instagram influencers on inBeat.

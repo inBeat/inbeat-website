@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Bali In 2020
+title: Top 10 TikTok Influencers In Bali In 2021
 description: >-
-  Find top TikTok influencers in Bali in 2020. Most popular hashtags: #fyp #duet #foryoupage #bali.
+  Find top TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #duet #foryoupage #bali.
 platform: TikTok
 hits: 112
 text_top: Identify the best TikTok accounts on inBeat.

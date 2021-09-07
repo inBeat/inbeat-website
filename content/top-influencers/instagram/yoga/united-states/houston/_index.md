@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Houston In 2020
+title: Top 10 Yoga Instagram Influencers In Houston In 2021
 description: >-
-  Find top yoga Instagram influencers in Houston in 2020. Most popular hashtags: #yoga #houston #love #lifestyle.
+  Find top yoga Instagram influencers in Houston in 2021. Most popular hashtags: #yoga #houston #love #lifestyle.
 platform: Instagram
 hits: 37
 text_top: See the best Instagram profiles on inBeat.

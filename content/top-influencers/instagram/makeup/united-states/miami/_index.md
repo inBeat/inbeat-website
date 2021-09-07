@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Miami In 2020
+title: Top 10 Makeup Instagram Influencers In Miami In 2021
 description: >-
-  Find top makeup Instagram influencers in Miami in 2020. Most popular hashtags: #miami #makeup #model #miamibeach.
+  Find top makeup Instagram influencers in Miami in 2021. Most popular hashtags: #miami #makeup #model #miamibeach.
 platform: Instagram
 hits: 418
 text_top: Analyze the best Instagram accounts on inBeat.

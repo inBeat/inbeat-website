@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In San Diego In 2020
+title: Top 10 Beauty TikTok Influencers In San Diego In 2021
 description: >-
-  Find top beauty TikTok influencers in San Diego in 2020. Most popular hashtags: #fyp #sandiego #beauty #foryou.
+  Find top beauty TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #sandiego #beauty #foryou.
 platform: TikTok
 hits: 16
 text_top: Identify the best TikTok accounts on inBeat.

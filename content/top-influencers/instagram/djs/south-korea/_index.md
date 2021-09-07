@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In South Korea In 2020
+title: Top 10 Djs Instagram Influencers In South Korea In 2021
 description: >-
-  Find top djs Instagram influencers in South Korea in 2020. Most popular hashtags: #dance #dj #mlbcrew #mlbkorea.
+  Find top djs Instagram influencers in South Korea in 2021. Most popular hashtags: #dance #dj #mlbcrew #mlbkorea.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram influencers on inBeat.

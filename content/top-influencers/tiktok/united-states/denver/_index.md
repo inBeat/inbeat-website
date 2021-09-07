@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Denver In 2020
+title: Top 10 TikTok Influencers In Denver In 2021
 description: >-
-  Find top TikTok influencers in Denver in 2020. Most popular hashtags: #fyp #duet #greenscreen #colorado.
+  Find top TikTok influencers in Denver in 2021. Most popular hashtags: #fyp #duet #greenscreen #colorado.
 platform: TikTok
 hits: 320
 text_top: Analyze the most popular TikTok accounts on inBeat.

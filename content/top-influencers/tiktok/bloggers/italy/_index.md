@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Italy In 2020
+title: Top 10 Bloggers TikTok Influencers In Italy In 2021
 description: >-
-  Find top bloggers TikTok influencers in Italy in 2020. Most popular hashtags: #imparacontiktok #italia #perte #foryou.
+  Find top bloggers TikTok influencers in Italy in 2021. Most popular hashtags: #imparacontiktok #italia #perte #foryou.
 platform: TikTok
 hits: 18
 text_top: Identify the best TikTok profiles on inBeat.

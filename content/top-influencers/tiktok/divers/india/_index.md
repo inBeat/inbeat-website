@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In India In 2020
+title: Top 10 Divers TikTok Influencers In India In 2021
 description: >-
-  Find top divers TikTok influencers in India in 2020. Most popular hashtags: #fyp #tiktok #foryou #tiktokindia.
+  Find top divers TikTok influencers in India in 2021. Most popular hashtags: #fyp #tiktok #foryou #tiktokindia.
 platform: TikTok
 hits: 30
 text_top: See the most popular TikTok profiles on inBeat.

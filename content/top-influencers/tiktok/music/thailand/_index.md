@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Thailand In 2020
+title: Top 10 Music TikTok Influencers In Thailand In 2021
 description: >-
-  Find top music TikTok influencers in Thailand in 2020. Most popular hashtags: #fyp #duet #music #foryoupage.
+  Find top music TikTok influencers in Thailand in 2021. Most popular hashtags: #fyp #duet #music #foryoupage.
 platform: TikTok
 hits: 15
 text_top: Analyze the top-rated TikTok influencers on inBeat.

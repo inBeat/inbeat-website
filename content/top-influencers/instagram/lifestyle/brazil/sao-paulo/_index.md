@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #saopaulo #lookdodia.
+  Find top lifestyle Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #lifestyle #saopaulo #lookdodia.
 platform: Instagram
 hits: 411
 text_top: Identify the most popular Instagram influencers on inBeat.

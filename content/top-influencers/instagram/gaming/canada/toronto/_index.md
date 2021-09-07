@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Toronto In 2020
+title: Top 10 Gaming Instagram Influencers In Toronto In 2021
 description: >-
-  Find top gaming Instagram influencers in Toronto in 2020. Most popular hashtags: #gaming #instagood #love #gamer.
+  Find top gaming Instagram influencers in Toronto in 2021. Most popular hashtags: #gaming #instagood #love #gamer.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram profiles on inBeat.

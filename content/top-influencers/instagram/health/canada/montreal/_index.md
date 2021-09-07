@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Montreal In 2020
+title: Top 10 Health Instagram Influencers In Montreal In 2021
 description: >-
-  Find top health Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #health #fall #canada.
+  Find top health Instagram influencers in Montreal in 2021. Most popular hashtags: #montreal #health #fall #canada.
 platform: Instagram
 hits: 35
 text_top: Analyze the top-rated Instagram profiles on inBeat.

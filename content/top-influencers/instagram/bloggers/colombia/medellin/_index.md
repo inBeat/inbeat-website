@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Medellín In 2020
+title: Top 10 Bloggers Instagram Influencers In Medellín In 2021
 description: >-
-  Find top bloggers Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #medellin #makeup #cartagena.
+  Find top bloggers Instagram influencers in Medellín in 2021. Most popular hashtags: #colombia #medellin #makeup #cartagena.
 platform: Instagram
 hits: 14
 text_top: Analyze the top-rated Instagram profiles on inBeat.

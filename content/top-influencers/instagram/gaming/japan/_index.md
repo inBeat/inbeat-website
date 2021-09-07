@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Japan In 2020
+title: Top 10 Gaming Instagram Influencers In Japan In 2021
 description: >-
-  Find top gaming Instagram influencers in Japan in 2020. Most popular hashtags: #gaming #gamer #japan.
+  Find top gaming Instagram influencers in Japan in 2021. Most popular hashtags: #gaming #gamer #japan.
 platform: Instagram
 hits: 34
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Spain In 2020
+title: Top 10 Travel Instagram Influencers In Spain In 2021
 description: >-
-  Find top travel Instagram influencers in Spain in 2020. Most popular hashtags: #beautifuldestinations #islascanarias #travelphotography #travelgram.
+  Find top travel Instagram influencers in Spain in 2021. Most popular hashtags: #beautifuldestinations #islascanarias #travelphotography #travelgram.
 platform: Instagram
 hits: 1754
 text_top: Identify the top-rated Instagram accounts on inBeat.

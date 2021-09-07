@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Toronto In 2020
+title: Top 10 Food Instagram Influencers In Toronto In 2021
 description: >-
-  Find top food Instagram influencers in Toronto in 2020. Most popular hashtags: #torontofoodie #torontofood #foodtoronto #tastetoronto.
+  Find top food Instagram influencers in Toronto in 2021. Most popular hashtags: #torontofoodie #torontofood #foodtoronto #tastetoronto.
 platform: Instagram
 hits: 181
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Canada In 2020
+title: Top 10 Gymnasts Instagram Influencers In Canada In 2021
 description: >-
-  Find top gymnasts Instagram influencers in Canada in 2020. Most popular hashtags: #gymnastics #fun #handstand.
+  Find top gymnasts Instagram influencers in Canada in 2021. Most popular hashtags: #gymnastics #fun #handstand.
 platform: Instagram
 hits: 47
 text_top: Identify the top-rated Instagram accounts on inBeat.

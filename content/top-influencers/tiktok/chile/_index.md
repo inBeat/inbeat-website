@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Chile In 2020
+title: Top 10 TikTok Influencers In Chile In 2021
 description: >-
-  Find top TikTok influencers in Chile in 2020. Most popular hashtags: #parati #fyp #blackpink.
+  Find top TikTok influencers in Chile in 2021. Most popular hashtags: #parati #fyp #blackpink.
 platform: TikTok
 hits: 915
 text_top: Analyze the top-rated TikTok accounts on inBeat.

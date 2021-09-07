@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Argentina In 2020
+title: Top 10 Music Instagram Influencers In Argentina In 2021
 description: >-
-  Find top music Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #cuarentenacreativa #argentina.
+  Find top music Instagram influencers in Argentina in 2021. Most popular hashtags: #cuarentena #cuarentenacreativa #argentina.
 platform: Instagram
 hits: 879
 text_top: Identify the best Instagram accounts on inBeat.

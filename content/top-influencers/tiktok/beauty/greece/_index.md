@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Greece In 2020
+title: Top 10 Beauty TikTok Influencers In Greece In 2021
 description: >-
-  Find top beauty TikTok influencers in Greece in 2020. Most popular hashtags: #foryou #greece #tiktok #foryoupage.
+  Find top beauty TikTok influencers in Greece in 2021. Most popular hashtags: #foryou #greece #tiktok #foryoupage.
 platform: TikTok
 hits: 20
 text_top: Identify the best TikTok profiles on inBeat.

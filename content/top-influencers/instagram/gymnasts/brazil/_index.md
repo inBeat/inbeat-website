@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Brazil In 2020
+title: Top 10 Gymnasts Instagram Influencers In Brazil In 2021
 description: >-
-  Find top gymnasts Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #timebrasil #caixa #ninjakids.
+  Find top gymnasts Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #timebrasil #caixa #ninjakids.
 platform: Instagram
 hits: 86
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Portugal In 2020
+title: Top 10 Fashion TikTok Influencers In Portugal In 2021
 description: >-
-  Find top fashion TikTok influencers in Portugal in 2020. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
+  Find top fashion TikTok influencers in Portugal in 2021. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok influencers on inBeat.

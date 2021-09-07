@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Indonesia In 2020
+title: Top 10 Outdoors Instagram Influencers In Indonesia In 2021
 description: >-
-  Find top outdoors Instagram influencers in Indonesia in 2020. Most popular hashtags: #outdoors #ootdfashion #adventure #travelphotography.
+  Find top outdoors Instagram influencers in Indonesia in 2021. Most popular hashtags: #outdoors #ootdfashion #adventure #travelphotography.
 platform: Instagram
 hits: 212
 text_top: Analyze the most popular Instagram profiles on inBeat.

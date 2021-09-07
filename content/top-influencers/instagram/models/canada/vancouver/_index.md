@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Vancouver In 2020
+title: Top 10 Models Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top models Instagram influencers in Vancouver in 2020. Most popular hashtags: #model #photography #style #fashion.
+  Find top models Instagram influencers in Vancouver in 2021. Most popular hashtags: #model #photography #style #fashion.
 platform: Instagram
 hits: 81
 text_top: Discover the best Instagram influencers on inBeat.

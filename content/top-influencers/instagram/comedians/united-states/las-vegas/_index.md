@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Las Vegas In 2020
+title: Top 10 Comedians Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top comedians Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #music #quarantine #love.
+  Find top comedians Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #music #quarantine #love.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram accounts on inBeat.

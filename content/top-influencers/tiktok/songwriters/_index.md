@@ -1,7 +1,7 @@
 ---
-title: Top 10 Songwriters TikTok Influencers In 2020
+title: Top 10 Songwriters TikTok Influencers In 2021
 description: >-
-  Find top songwriters TikTok influencers in 2020. Most popular hashtags: #duet #fyp #foryoupage #voiceeffects.
+  Find top songwriters TikTok influencers in 2021. Most popular hashtags: #duet #fyp #foryoupage #voiceeffects.
 platform: TikTok
 hits: 509
 text_top: See the top-rated TikTok accounts on inBeat.

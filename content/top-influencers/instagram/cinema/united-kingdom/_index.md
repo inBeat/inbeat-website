@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United Kingdom In 2020
+title: Top 10 Cinema Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top cinema Instagram influencers in United Kingdom in 2020. Most popular hashtags: #cinematography #weddingdress #ig.
+  Find top cinema Instagram influencers in United Kingdom in 2021. Most popular hashtags: #cinematography #weddingdress #ig.
 platform: Instagram
 hits: 328
 text_top: Analyze the top-rated Instagram accounts on inBeat.

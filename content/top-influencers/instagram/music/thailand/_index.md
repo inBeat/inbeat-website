@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Thailand In 2020
+title: Top 10 Music Instagram Influencers In Thailand In 2021
 description: >-
-  Find top music Instagram influencers in Thailand in 2020. Most popular hashtags: #ultrainfluencer #sashimi #ramen.
+  Find top music Instagram influencers in Thailand in 2021. Most popular hashtags: #ultrainfluencer #sashimi #ramen.
 platform: Instagram
 hits: 60
 text_top: See the most popular Instagram influencers on inBeat.

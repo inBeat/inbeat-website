@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In San Francisco In 2020
+title: Top 10 Fitness Instagram Influencers In San Francisco In 2021
 description: >-
-  Find top fitness Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #fitness #art #artist.
+  Find top fitness Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #fitness #art #artist.
 platform: Instagram
 hits: 98
 text_top: Discover the top-rated Instagram accounts on inBeat.

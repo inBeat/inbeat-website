@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Izmir In 2020
+title: Top 10 Food Instagram Influencers In Izmir In 2021
 description: >-
-  Find top food Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #food #istanbul #instagood.
+  Find top food Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #food #istanbul #instagood.
 platform: Instagram
 hits: 152
 text_top: Analyze the best Instagram profiles on inBeat.

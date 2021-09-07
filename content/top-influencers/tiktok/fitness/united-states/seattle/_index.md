@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Seattle In 2020
+title: Top 10 Fitness TikTok Influencers In Seattle In 2021
 description: >-
-  Find top fitness TikTok influencers in Seattle in 2020. Most popular hashtags: #seattle #fitness #fyp #foryou.
+  Find top fitness TikTok influencers in Seattle in 2021. Most popular hashtags: #seattle #fitness #fyp #foryou.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Colombia In 2020
+title: Top 10 Photographers Instagram Influencers In Colombia In 2021
 description: >-
-  Find top photographers Instagram influencers in Colombia in 2020. Most popular hashtags: #portrait #pursuitofportraits #portraitvision.
+  Find top photographers Instagram influencers in Colombia in 2021. Most popular hashtags: #portrait #pursuitofportraits #portraitvision.
 platform: Instagram
 hits: 125
 text_top: Discover the best Instagram accounts on inBeat.

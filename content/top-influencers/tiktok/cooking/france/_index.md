@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In France In 2020
+title: Top 10 Cooking TikTok Influencers In France In 2021
 description: >-
-  Find top cooking TikTok influencers in France in 2020. Most popular hashtags: #cooking #pourtoi #fyp #foryou.
+  Find top cooking TikTok influencers in France in 2021. Most popular hashtags: #cooking #pourtoi #fyp #foryou.
 platform: TikTok
 hits: 59
 text_top: Analyze the top-rated TikTok accounts on inBeat.

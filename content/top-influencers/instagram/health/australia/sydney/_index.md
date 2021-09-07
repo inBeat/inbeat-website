@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Sydney In 2020
+title: Top 10 Health Instagram Influencers In Sydney In 2021
 description: >-
-  Find top health Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #health #fitness.
+  Find top health Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #health #fitness.
 platform: Instagram
 hits: 85
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Belgium In 2020
+title: Top 10 Travel TikTok Influencers In Belgium In 2021
 description: >-
-  Find top travel TikTok influencers in Belgium in 2020. Most popular hashtags: #travel #belgium #fyp #foryou.
+  Find top travel TikTok influencers in Belgium in 2021. Most popular hashtags: #travel #belgium #fyp #foryou.
 platform: TikTok
 hits: 34
 text_top: See the best TikTok influencers on inBeat.

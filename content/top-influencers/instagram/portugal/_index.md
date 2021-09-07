@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Portugal In 2020
+title: Top 10 Instagram Influencers In Portugal In 2021
 description: >-
-  Find top Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #mensfashionreview #visitportugal.
+  Find top Instagram influencers in Portugal in 2021. Most popular hashtags: #portugal #mensfashionreview #visitportugal.
 platform: Instagram
 hits: 1643
 text_top: See the best Instagram influencers on inBeat.

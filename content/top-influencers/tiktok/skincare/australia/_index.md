@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Australia In 2020
+title: Top 10 Skincare TikTok Influencers In Australia In 2021
 description: >-
-  Find top skincare TikTok influencers in Australia in 2020. Most popular hashtags: #skincare #fyp #viral #skincareroutine.
+  Find top skincare TikTok influencers in Australia in 2021. Most popular hashtags: #skincare #fyp #viral #skincareroutine.
 platform: TikTok
 hits: 123
 text_top: Identify the best TikTok influencers on inBeat.

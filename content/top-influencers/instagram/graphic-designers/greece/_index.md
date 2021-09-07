@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Greece In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Greece In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Greece in 2020. Most popular hashtags: #wu #travel #greece #athens.
+  Find top graphic-designers Instagram influencers in Greece in 2021. Most popular hashtags: #wu #travel #greece #athens.
 platform: Instagram
 hits: 13
 text_top: See the most popular Instagram influencers on inBeat.

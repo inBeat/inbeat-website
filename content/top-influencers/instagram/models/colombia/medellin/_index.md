@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Medellín In 2020
+title: Top 10 Models Instagram Influencers In Medellín In 2021
 description: >-
-  Find top models Instagram influencers in Medellín in 2020. Most popular hashtags: #model #medellin #colombia #picoftheday.
+  Find top models Instagram influencers in Medellín in 2021. Most popular hashtags: #model #medellin #colombia #picoftheday.
 platform: Instagram
 hits: 69
 text_top: See the top-rated Instagram influencers on inBeat.

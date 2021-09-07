@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Indonesia In 2020
+title: Top 10 Makeup TikTok Influencers In Indonesia In 2021
 description: >-
-  Find top makeup TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #makeup #foryoupage #tiktokscarynight.
+  Find top makeup TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #makeup #foryoupage #tiktokscarynight.
 platform: TikTok
 hits: 79
 text_top: Discover the top-rated TikTok accounts on inBeat.

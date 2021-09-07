@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Singapore In 2020
+title: Top 10 Beauty TikTok Influencers In Singapore In 2021
 description: >-
-  Find top beauty TikTok influencers in Singapore in 2020. Most popular hashtags: #fyp #foryou #foryoupage #tiktok.
+  Find top beauty TikTok influencers in Singapore in 2021. Most popular hashtags: #fyp #foryou #foryoupage #tiktok.
 platform: TikTok
 hits: 14
 text_top: See the top-rated TikTok profiles on inBeat.

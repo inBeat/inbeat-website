@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Los Angeles In 2020
+title: Top 10 TikTok Influencers In Los Angeles In 2021
 description: >-
-  Find top TikTok influencers in Los Angeles in 2020. Most popular hashtags: #fyp #duet #foryou.
+  Find top TikTok influencers in Los Angeles in 2021. Most popular hashtags: #fyp #duet #foryou.
 platform: TikTok
 hits: 1198
 text_top: See the top-rated TikTok accounts on inBeat.

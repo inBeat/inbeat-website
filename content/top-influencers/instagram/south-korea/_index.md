@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In South Korea In 2020
+title: Top 10 Instagram Influencers In South Korea In 2021
 description: >-
-  Find top Instagram influencers in South Korea in 2020. Most popular hashtags: #kai #superm #ad.
+  Find top Instagram influencers in South Korea in 2021. Most popular hashtags: #kai #superm #ad.
 platform: Instagram
 hits: 4889
 text_top: See the most popular Instagram influencers on inBeat.

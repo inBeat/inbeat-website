@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Greece In 2020
+title: Top 10 Cinema Instagram Influencers In Greece In 2021
 description: >-
-  Find top cinema Instagram influencers in Greece in 2020. Most popular hashtags: #friends #actor #stayhome.
+  Find top cinema Instagram influencers in Greece in 2021. Most popular hashtags: #friends #actor #stayhome.
 platform: Instagram
 hits: 58
 text_top: Discover the best Instagram profiles on inBeat.

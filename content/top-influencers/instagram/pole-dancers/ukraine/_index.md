@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Ukraine In 2020
+title: Top 10 Pole Dancers Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top pole dancers Instagram influencers in Ukraine in 2020. Most popular hashtags: #poledance #pole #polesport #sport.
+  Find top pole dancers Instagram influencers in Ukraine in 2021. Most popular hashtags: #poledance #pole #polesport #sport.
 platform: Instagram
 hits: 13
 text_top: Discover the most popular Instagram accounts on inBeat.

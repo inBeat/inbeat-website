@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Milan In 2020
+title: Top 10 Lifestyle TikTok Influencers In Milan In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Milan in 2020. Most popular hashtags: #milano #perte #lifestyle #viral.
+  Find top lifestyle TikTok influencers in Milan in 2021. Most popular hashtags: #milano #perte #lifestyle #viral.
 platform: TikTok
 hits: 9
 text_top: Analyze the best TikTok accounts on inBeat.

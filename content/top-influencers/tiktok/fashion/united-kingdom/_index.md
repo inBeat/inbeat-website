@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United Kingdom In 2020
+title: Top 10 Fashion TikTok Influencers In United Kingdom In 2021
 description: >-
-  Find top fashion TikTok influencers in United Kingdom in 2020. Most popular hashtags: #duet #halloweenlook #halloween2020 #asosdaytofright.
+  Find top fashion TikTok influencers in United Kingdom in 2021. Most popular hashtags: #duet #halloweenlook #halloween2020 #asosdaytofright.
 platform: TikTok
 hits: 700
 text_top: Discover the most popular TikTok accounts on inBeat.

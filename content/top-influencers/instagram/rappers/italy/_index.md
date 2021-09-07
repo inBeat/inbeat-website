@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Italy In 2020
+title: Top 10 Rappers Instagram Influencers In Italy In 2021
 description: >-
-  Find top rappers Instagram influencers in Italy in 2020. Most popular hashtags: #rapper #rap #estate2020.
+  Find top rappers Instagram influencers in Italy in 2021. Most popular hashtags: #rapper #rap #estate2020.
 platform: Instagram
 hits: 79
 text_top: Analyze the most popular Instagram profiles on inBeat.

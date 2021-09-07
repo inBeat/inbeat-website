@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Canada In 2020
+title: Top 10 Runners Instagram Influencers In Canada In 2021
 description: >-
-  Find top runners Instagram influencers in Canada in 2020. Most popular hashtags: #running #runnersofinstagram #hikingadventures.
+  Find top runners Instagram influencers in Canada in 2021. Most popular hashtags: #running #runnersofinstagram #hikingadventures.
 platform: Instagram
 hits: 65
 text_top: Analyze the best Instagram profiles on inBeat.

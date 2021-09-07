@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In New York In 2020
+title: Top 10 Photographers TikTok Influencers In New York In 2021
 description: >-
-  Find top photographers TikTok influencers in New York in 2020. Most popular hashtags: #fyp #foryou #photography #newyork.
+  Find top photographers TikTok influencers in New York in 2021. Most popular hashtags: #fyp #foryou #photography #newyork.
 platform: TikTok
 hits: 65
 text_top: See the top-rated TikTok accounts on inBeat.

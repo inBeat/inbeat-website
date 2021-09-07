@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Turkey In 2020
+title: Top 10 Fitness TikTok Influencers In Turkey In 2021
 description: >-
-  Find top fitness TikTok influencers in Turkey in 2020. Most popular hashtags: #fitness #ke #spor #muaythai.
+  Find top fitness TikTok influencers in Turkey in 2021. Most popular hashtags: #fitness #ke #spor #muaythai.
 platform: TikTok
 hits: 39
 text_top: Analyze the top-rated TikTok accounts on inBeat.

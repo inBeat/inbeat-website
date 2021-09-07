@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Atlanta In 2020
+title: Top 10 Health TikTok Influencers In Atlanta In 2021
 description: >-
-  Find top health TikTok influencers in Atlanta in 2020. Most popular hashtags: #fyp #duet #health #foryoupage.
+  Find top health TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #duet #health #foryoupage.
 platform: TikTok
 hits: 14
 text_top: See the most popular TikTok influencers on inBeat.

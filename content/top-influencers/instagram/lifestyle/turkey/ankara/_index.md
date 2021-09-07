@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Ankara In 2020
+title: Top 10 Lifestyle Instagram Influencers In Ankara In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Ankara in 2020. Most popular hashtags: #lifestyle #influencer #blogger #evdekal.
+  Find top lifestyle Instagram influencers in Ankara in 2021. Most popular hashtags: #lifestyle #influencer #blogger #evdekal.
 platform: Instagram
 hits: 62
 text_top: Identify the top-rated Instagram accounts on inBeat.

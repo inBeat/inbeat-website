@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Istanbul In 2020
+title: Top 10 Fashion Instagram Influencers In Istanbul In 2021
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #style #fashionblogger.
+  Find top fashion Instagram influencers in Istanbul in 2021. Most popular hashtags: #istanbul #fashion #style #fashionblogger.
 platform: Instagram
 hits: 381
 text_top: Analyze the most popular Instagram profiles on inBeat.

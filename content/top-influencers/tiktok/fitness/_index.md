@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In 2020
+title: Top 10 Fitness TikTok Influencers In 2021
 description: >-
-  Find top fitness TikTok influencers in 2020. Most popular hashtags: #fyp #foryoupage #foryou #fitness.
+  Find top fitness TikTok influencers in 2021. Most popular hashtags: #fyp #foryoupage #foryou #fitness.
 platform: TikTok
 hits: 6690
 text_top: See the most popular TikTok profiles on inBeat.

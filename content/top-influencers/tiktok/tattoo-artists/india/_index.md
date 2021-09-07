@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In India In 2020
+title: Top 10 Tattoo-Artists TikTok Influencers In India In 2021
 description: >-
-  Find top tattoo-artists TikTok influencers in India in 2020. Most popular hashtags: #tattoo #tiktok #foryoupage #foryou.
+  Find top tattoo-artists TikTok influencers in India in 2021. Most popular hashtags: #tattoo #tiktok #foryoupage #foryou.
 platform: TikTok
 hits: 25
 text_top: Identify the top-rated TikTok accounts on inBeat.

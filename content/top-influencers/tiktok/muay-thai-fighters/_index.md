@@ -1,7 +1,7 @@
 ---
-title: Top 10 Muay Thai Fighters TikTok Influencers In 2020
+title: Top 10 Muay Thai Fighters TikTok Influencers In 2021
 description: >-
-  Find top muay thai fighters TikTok influencers in 2020. Most popular hashtags: #fighter #muaythai #kickboxing #fyp.
+  Find top muay thai fighters TikTok influencers in 2021. Most popular hashtags: #fighter #muaythai #kickboxing #fyp.
 platform: TikTok
 hits: 26
 text_top: Identify the most popular TikTok profiles on inBeat.

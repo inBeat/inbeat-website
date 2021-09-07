@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Russia In 2020
+title: Top 10 Nail Artists Instagram Influencers In Russia In 2021
 description: >-
-  Find top nail artists Instagram influencers in Russia in 2020. Most popular hashtags: #nails #nailartist #nailart.
+  Find top nail artists Instagram influencers in Russia in 2021. Most popular hashtags: #nails #nailartist #nailart.
 platform: Instagram
 hits: 49
 text_top: Discover the best Instagram influencers on inBeat.

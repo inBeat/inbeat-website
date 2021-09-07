@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Italy In 2020
+title: Top 10 Music Instagram Influencers In Italy In 2021
 description: >-
-  Find top music Instagram influencers in Italy in 2020. Most popular hashtags: #fashion #photography #guitarplayer.
+  Find top music Instagram influencers in Italy in 2021. Most popular hashtags: #fashion #photography #guitarplayer.
 platform: Instagram
 hits: 1589
 text_top: Discover the top-rated Instagram profiles on inBeat.

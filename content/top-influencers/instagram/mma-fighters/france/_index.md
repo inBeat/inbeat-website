@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In France In 2020
+title: Top 10 Mma Fighters Instagram Influencers In France In 2021
 description: >-
-  Find top mma fighters Instagram influencers in France in 2020. Most popular hashtags: #mma #mmafighter #fight #fighter.
+  Find top mma fighters Instagram influencers in France in 2021. Most popular hashtags: #mma #mmafighter #fight #fighter.
 platform: Instagram
 hits: 11
 text_top: Discover the top-rated Instagram influencers on inBeat.

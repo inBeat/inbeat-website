@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Vancouver In 2020
+title: Top 10 TikTok Influencers In Vancouver In 2021
 description: >-
-  Find top TikTok influencers in Vancouver in 2020. Most popular hashtags: #fyp #foryou #greenscreen #duet.
+  Find top TikTok influencers in Vancouver in 2021. Most popular hashtags: #fyp #foryou #greenscreen #duet.
 platform: TikTok
 hits: 455
 text_top: Identify the most popular TikTok influencers on inBeat.

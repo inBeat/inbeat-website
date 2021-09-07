@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Barcelona In 2020
+title: Top 10 Home Decor Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top home decor Instagram influencers in Barcelona in 2020. Most popular hashtags: #homedecor #home #barcelona #igersbcn.
+  Find top home decor Instagram influencers in Barcelona in 2021. Most popular hashtags: #homedecor #home #barcelona #igersbcn.
 platform: Instagram
 hits: 22
 text_top: Discover the top-rated Instagram accounts on inBeat.

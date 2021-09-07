@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In South Africa In 2020
+title: Top 10 Wellness Instagram Influencers In South Africa In 2021
 description: >-
-  Find top wellness Instagram influencers in South Africa in 2020. Most popular hashtags: #fitnessmotivation #fitness #model.
+  Find top wellness Instagram influencers in South Africa in 2021. Most popular hashtags: #fitnessmotivation #fitness #model.
 platform: Instagram
 hits: 36
 text_top: Discover the best Instagram accounts on inBeat.

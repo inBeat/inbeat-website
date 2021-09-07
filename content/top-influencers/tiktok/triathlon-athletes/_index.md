@@ -1,5 +1,5 @@
 ---
-title: Top 10 Triathlon Athletes TikTok Influencers In 2020
+title: Top 10 Triathlon Athletes TikTok Influencers In 2021
 description: >-
   Find top triathlon athletes TikTok influencers in 2020.
 platform: TikTok

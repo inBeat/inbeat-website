@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Peru In 2020
+title: Top 10 Music Instagram Influencers In Peru In 2021
 description: >-
-  Find top music Instagram influencers in Peru in 2020. Most popular hashtags: #nikky #octubre #kcamexico.
+  Find top music Instagram influencers in Peru in 2021. Most popular hashtags: #nikky #octubre #kcamexico.
 platform: Instagram
 hits: 186
 text_top: Identify the most popular Instagram accounts on inBeat.

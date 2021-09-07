@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Japan In 2020
+title: Top 10 Music Instagram Influencers In Japan In 2021
 description: >-
-  Find top music Instagram influencers in Japan in 2020. Most popular hashtags: #tokyo #ootd #japan.
+  Find top music Instagram influencers in Japan in 2021. Most popular hashtags: #tokyo #ootd #japan.
 platform: Instagram
 hits: 413
 text_top: Analyze the most popular Instagram accounts on inBeat.

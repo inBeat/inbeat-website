@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In France In 2020
+title: Top 10 Hypebeast Instagram Influencers In France In 2021
 description: >-
-  Find top hypebeast Instagram influencers in France in 2020. Most popular hashtags: #hypebeast #streetwear #streetstyle.
+  Find top hypebeast Instagram influencers in France in 2021. Most popular hashtags: #hypebeast #streetwear #streetstyle.
 platform: Instagram
 hits: 94
 text_top: Identify the best Instagram influencers on inBeat.

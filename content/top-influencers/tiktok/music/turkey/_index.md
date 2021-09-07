@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Turkey In 2020
+title: Top 10 Music TikTok Influencers In Turkey In 2021
 description: >-
-  Find top music TikTok influencers in Turkey in 2020. Most popular hashtags: #ke #beni #tiktok #foryou.
+  Find top music TikTok influencers in Turkey in 2021. Most popular hashtags: #ke #beni #tiktok #foryou.
 platform: TikTok
 hits: 112
 text_top: See the top-rated TikTok profiles on inBeat.

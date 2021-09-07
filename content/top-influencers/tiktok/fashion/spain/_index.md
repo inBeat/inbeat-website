@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Spain In 2020
+title: Top 10 Fashion TikTok Influencers In Spain In 2021
 description: >-
-  Find top fashion TikTok influencers in Spain in 2020. Most popular hashtags: #fashion #fyp #tiktokfashion #outfits.
+  Find top fashion TikTok influencers in Spain in 2021. Most popular hashtags: #fashion #fyp #tiktokfashion #outfits.
 platform: TikTok
 hits: 87
 text_top: Identify the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In New York In 2020
+title: Top 10 Comedians TikTok Influencers In New York In 2021
 description: >-
-  Find top comedians TikTok influencers in New York in 2020. Most popular hashtags: #fyp #nyc #newyork #duet.
+  Find top comedians TikTok influencers in New York in 2021. Most popular hashtags: #fyp #nyc #newyork #duet.
 platform: TikTok
 hits: 42
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In South Africa In 2020
+title: Top 10 Motivational Speakers Instagram Influencers In South Africa In 2021
 description: >-
-  Find top motivational speakers Instagram influencers in South Africa in 2020. Most popular hashtags: #love #motivation #ootd #southafrica.
+  Find top motivational speakers Instagram influencers in South Africa in 2021. Most popular hashtags: #love #motivation #ootd #southafrica.
 platform: Instagram
 hits: 9
 text_top: Analyze the top-rated Instagram profiles on inBeat.

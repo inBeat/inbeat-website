@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Vancouver In 2020
+title: Top 10 Health TikTok Influencers In Vancouver In 2021
 description: >-
-  Find top health TikTok influencers in Vancouver in 2020. Most popular hashtags: #vancouver #canada #fyp #fitness.
+  Find top health TikTok influencers in Vancouver in 2021. Most popular hashtags: #vancouver #canada #fyp #fitness.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok profiles on inBeat.

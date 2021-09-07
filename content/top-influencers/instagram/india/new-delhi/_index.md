@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In New Delhi In 2020
+title: Top 10 Instagram Influencers In New Delhi In 2021
 description: >-
-  Find top Instagram influencers in New Delhi in 2020. Most popular hashtags: #fashion #ootd #style.
+  Find top Instagram influencers in New Delhi in 2021. Most popular hashtags: #fashion #ootd #style.
 platform: Instagram
 hits: 452
 text_top: Identify the best Instagram accounts on inBeat.

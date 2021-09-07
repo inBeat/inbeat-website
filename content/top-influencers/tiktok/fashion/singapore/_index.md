@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Singapore In 2020
+title: Top 10 Fashion TikTok Influencers In Singapore In 2021
 description: >-
-  Find top fashion TikTok influencers in Singapore in 2020. Most popular hashtags: #fyp #foryou #fashion #tiktoksg.
+  Find top fashion TikTok influencers in Singapore in 2021. Most popular hashtags: #fyp #foryou #fashion #tiktoksg.
 platform: TikTok
 hits: 16
 text_top: Discover the best TikTok profiles on inBeat.

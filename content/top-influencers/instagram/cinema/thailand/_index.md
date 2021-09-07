@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Thailand In 2020
+title: Top 10 Cinema Instagram Influencers In Thailand In 2021
 description: >-
-  Find top cinema Instagram influencers in Thailand in 2020. Most popular hashtags: #25celebxlineman #teamgalaxy #lineman.
+  Find top cinema Instagram influencers in Thailand in 2021. Most popular hashtags: #25celebxlineman #teamgalaxy #lineman.
 platform: Instagram
 hits: 16
 text_top: Identify the top-rated Instagram accounts on inBeat.

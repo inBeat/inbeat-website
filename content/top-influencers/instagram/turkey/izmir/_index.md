@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Izmir In 2020
+title: Top 10 Instagram Influencers In Izmir In 2021
 description: >-
-  Find top Instagram influencers in Izmir in 2020. Most popular hashtags: #outfit #bornova #bucayikesfet.
+  Find top Instagram influencers in Izmir in 2021. Most popular hashtags: #outfit #bornova #bucayikesfet.
 platform: Instagram
 hits: 1646
 text_top: See the most popular Instagram accounts on inBeat.

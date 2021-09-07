@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Norway In 2020
+title: Top 10 Travel Instagram Influencers In Norway In 2021
 description: >-
-  Find top travel Instagram influencers in Norway in 2020. Most popular hashtags: #norway #norge #norwegian.
+  Find top travel Instagram influencers in Norway in 2021. Most popular hashtags: #norway #norge #norwegian.
 platform: Instagram
 hits: 270
 text_top: Discover the best Instagram profiles on inBeat.

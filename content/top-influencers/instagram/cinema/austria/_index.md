@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Austria In 2020
+title: Top 10 Cinema Instagram Influencers In Austria In 2021
 description: >-
-  Find top cinema Instagram influencers in Austria in 2020. Most popular hashtags: #vienna #igersvienna #austria #fatalframes.
+  Find top cinema Instagram influencers in Austria in 2021. Most popular hashtags: #vienna #igersvienna #austria #fatalframes.
 platform: Instagram
 hits: 19
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Diego In 2020
+title: Top 10 Vegan TikTok Influencers In San Diego In 2021
 description: >-
-  Find top vegan TikTok influencers in San Diego in 2020. Most popular hashtags: #foryou #vegan #fyp #sandiego.
+  Find top vegan TikTok influencers in San Diego in 2021. Most popular hashtags: #foryou #vegan #fyp #sandiego.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok profiles on inBeat.

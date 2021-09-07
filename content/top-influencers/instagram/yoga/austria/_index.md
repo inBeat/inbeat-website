@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Austria In 2020
+title: Top 10 Yoga Instagram Influencers In Austria In 2021
 description: >-
-  Find top yoga Instagram influencers in Austria in 2020. Most popular hashtags: #yoga #yogainspiration #yogapractice #yogateacher.
+  Find top yoga Instagram influencers in Austria in 2021. Most popular hashtags: #yoga #yogainspiration #yogapractice #yogateacher.
 platform: Instagram
 hits: 44
 text_top: See the best Instagram influencers on inBeat.

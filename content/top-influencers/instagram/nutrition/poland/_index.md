@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Poland In 2020
+title: Top 10 Nutrition Instagram Influencers In Poland In 2021
 description: >-
-  Find top nutrition Instagram influencers in Poland in 2020. Most popular hashtags: #love #poland #olimp.
+  Find top nutrition Instagram influencers in Poland in 2021. Most popular hashtags: #love #poland #olimp.
 platform: Instagram
 hits: 77
 text_top: Analyze the top-rated Instagram accounts on inBeat.

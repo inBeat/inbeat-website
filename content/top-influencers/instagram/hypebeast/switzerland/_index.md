@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2020
+title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Switzerland in 2020. Most popular hashtags: #hypebeast #agameoftones #theimaged #moodygrams.
+  Find top hypebeast Instagram influencers in Switzerland in 2021. Most popular hashtags: #hypebeast #agameoftones #theimaged #moodygrams.
 platform: Instagram
 hits: 15
 text_top: Discover the top-rated Instagram influencers on inBeat.

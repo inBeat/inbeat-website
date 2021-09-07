@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Austin In 2020
+title: Top 10 Skincare Instagram Influencers In Austin In 2021
 description: >-
-  Find top skincare Instagram influencers in Austin in 2020. Most popular hashtags: #skincare #austintexas #instagood #makeup.
+  Find top skincare Instagram influencers in Austin in 2021. Most popular hashtags: #skincare #austintexas #instagood #makeup.
 platform: Instagram
 hits: 60
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Belgium In 2020
+title: Top 10 Skincare Instagram Influencers In Belgium In 2021
 description: >-
-  Find top skincare Instagram influencers in Belgium in 2020. Most popular hashtags: #skincare #love #makeup #outfit.
+  Find top skincare Instagram influencers in Belgium in 2021. Most popular hashtags: #skincare #love #makeup #outfit.
 platform: Instagram
 hits: 29
 text_top: See the best Instagram profiles on inBeat.

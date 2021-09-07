@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Spain In 2020
+title: Top 10 Guitar TikTok Influencers In Spain In 2021
 description: >-
-  Find top guitar TikTok influencers in Spain in 2020. Most popular hashtags: #parati #humor #fyp #guitarra.
+  Find top guitar TikTok influencers in Spain in 2021. Most popular hashtags: #parati #humor #fyp #guitarra.
 platform: TikTok
 hits: 23
 text_top: Identify the best TikTok profiles on inBeat.

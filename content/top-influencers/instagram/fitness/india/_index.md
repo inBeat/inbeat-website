@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In India In 2020
+title: Top 10 Fitness Instagram Influencers In India In 2021
 description: >-
-  Find top fitness Instagram influencers in India in 2020. Most popular hashtags: #love #instagood #nature #naturephotography.
+  Find top fitness Instagram influencers in India in 2021. Most popular hashtags: #love #instagood #nature #naturephotography.
 platform: Instagram
 hits: 2142
 text_top: Discover the best Instagram profiles on inBeat.

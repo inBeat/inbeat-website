@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Greece In 2020
+title: Top 10 Gaming Instagram Influencers In Greece In 2021
 description: >-
-  Find top gaming Instagram influencers in Greece in 2020. Most popular hashtags: #gaming #instagood #gamer #photo.
+  Find top gaming Instagram influencers in Greece in 2021. Most popular hashtags: #gaming #instagood #gamer #photo.
 platform: Instagram
 hits: 20
 text_top: Discover the best Instagram profiles on inBeat.

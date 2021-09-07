@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Turkey In 2020
+title: Top 10 Food TikTok Influencers In Turkey In 2021
 description: >-
-  Find top food TikTok influencers in Turkey in 2020. Most popular hashtags: #food #fyp #ke #foryou.
+  Find top food TikTok influencers in Turkey in 2021. Most popular hashtags: #food #fyp #ke #foryou.
 platform: TikTok
 hits: 56
 text_top: Analyze the most popular TikTok influencers on inBeat.

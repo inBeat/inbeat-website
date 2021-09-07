@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Canada In 2020
+title: Top 10 Rappers Instagram Influencers In Canada In 2021
 description: >-
-  Find top rappers Instagram influencers in Canada in 2020. Most popular hashtags: #rap #rapper #hiphop #music.
+  Find top rappers Instagram influencers in Canada in 2021. Most popular hashtags: #rap #rapper #hiphop #music.
 platform: Instagram
 hits: 34
 text_top: See the top-rated Instagram influencers on inBeat.

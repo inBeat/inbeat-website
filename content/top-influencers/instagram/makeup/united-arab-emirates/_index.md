@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Makeup Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top makeup Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #makeup #makeupartist #dubai.
+  Find top makeup Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #makeup #makeupartist #dubai.
 platform: Instagram
 hits: 291
 text_top: Analyze the most popular Instagram accounts on inBeat.

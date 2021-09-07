@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Chile In 2020
+title: Top 10 Divers TikTok Influencers In Chile In 2021
 description: >-
-  Find top divers TikTok influencers in Chile in 2020. Most popular hashtags: #parati #chile #fyp #foryou.
+  Find top divers TikTok influencers in Chile in 2021. Most popular hashtags: #parati #chile #fyp #foryou.
 platform: TikTok
 hits: 25
 text_top: Analyze the most popular TikTok profiles on inBeat.

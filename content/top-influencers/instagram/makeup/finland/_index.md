@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Finland In 2020
+title: Top 10 Makeup Instagram Influencers In Finland In 2021
 description: >-
-  Find top makeup Instagram influencers in Finland in 2020. Most popular hashtags: #makeup #makeupartist #halloweenmakeup #anastasiabeverlyhills.
+  Find top makeup Instagram influencers in Finland in 2021. Most popular hashtags: #makeup #makeupartist #halloweenmakeup #anastasiabeverlyhills.
 platform: Instagram
 hits: 85
 text_top: See the best Instagram profiles on inBeat.

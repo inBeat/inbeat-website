@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Belgium In 2020
+title: Top 10 Graphic-Designers Instagram Influencers In Belgium In 2021
 description: >-
-  Find top graphic-designers Instagram influencers in Belgium in 2020. Most popular hashtags: #graphicdesign #illustration #design #motiondesign.
+  Find top graphic-designers Instagram influencers in Belgium in 2021. Most popular hashtags: #graphicdesign #illustration #design #motiondesign.
 platform: Instagram
 hits: 8
 text_top: See the best Instagram accounts on inBeat.

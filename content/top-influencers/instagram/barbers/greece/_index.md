@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Greece In 2020
+title: Top 10 Barbers Instagram Influencers In Greece In 2021
 description: >-
-  Find top barbers Instagram influencers in Greece in 2020. Most popular hashtags: #barber #menshair #thebarberpost #barbershop.
+  Find top barbers Instagram influencers in Greece in 2021. Most popular hashtags: #barber #menshair #thebarberpost #barbershop.
 platform: Instagram
 hits: 14
 text_top: Identify the most popular Instagram influencers on inBeat.

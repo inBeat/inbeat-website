@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Sydney In 2020
+title: Top 10 Gaming Instagram Influencers In Sydney In 2021
 description: >-
-  Find top gaming Instagram influencers in Sydney in 2020. Most popular hashtags: #gamer #gaming #streamer #twitch.
+  Find top gaming Instagram influencers in Sydney in 2021. Most popular hashtags: #gamer #gaming #streamer #twitch.
 platform: Instagram
 hits: 6
 text_top: Analyze the best Instagram influencers on inBeat.

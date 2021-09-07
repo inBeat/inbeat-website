@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In France In 2020
+title: Top 10 Photographers Instagram Influencers In France In 2021
 description: >-
-  Find top photographers Instagram influencers in France in 2020. Most popular hashtags: #nikond5 #nikonusa #nikon.
+  Find top photographers Instagram influencers in France in 2021. Most popular hashtags: #nikond5 #nikonusa #nikon.
 platform: Instagram
 hits: 1925
 text_top: See the best Instagram accounts on inBeat.

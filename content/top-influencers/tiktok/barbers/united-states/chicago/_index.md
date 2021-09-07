@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Chicago In 2020
+title: Top 10 Barbers TikTok Influencers In Chicago In 2021
 description: >-
-  Find top barbers TikTok influencers in Chicago in 2020. Most popular hashtags: #fyp #barber #foryou #foryoupage.
+  Find top barbers TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #barber #foryou #foryoupage.
 platform: TikTok
 hits: 16
 text_top: Discover the top-rated TikTok accounts on inBeat.

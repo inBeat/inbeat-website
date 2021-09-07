@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In 2020
+title: Top 10 Travel TikTok Influencers In 2021
 description: >-
-  Find top travel TikTok influencers in 2020. Most popular hashtags: #foryou #travel #duet #tiktoktravel.
+  Find top travel TikTok influencers in 2021. Most popular hashtags: #foryou #travel #duet #tiktoktravel.
 platform: TikTok
 hits: 10315
 text_top: See the top-rated TikTok profiles on inBeat.

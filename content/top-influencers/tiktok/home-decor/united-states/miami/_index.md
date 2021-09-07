@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Miami In 2020
+title: Top 10 Home Decor TikTok Influencers In Miami In 2021
 description: >-
-  Find top home decor TikTok influencers in Miami in 2020. Most popular hashtags: #miami #homedecor #fyp #foryou.
+  Find top home decor TikTok influencers in Miami in 2021. Most popular hashtags: #miami #homedecor #fyp #foryou.
 platform: TikTok
 hits: 22
 text_top: See the top-rated TikTok profiles on inBeat.

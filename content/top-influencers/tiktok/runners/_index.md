@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners TikTok Influencers In 2020
+title: Top 10 Runners TikTok Influencers In 2021
 description: >-
-  Find top runners TikTok influencers in 2020. Most popular hashtags: #duet #fyp #tiktok #foryou.
+  Find top runners TikTok influencers in 2021. Most popular hashtags: #duet #fyp #tiktok #foryou.
 platform: TikTok
 hits: 316
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Venezuela In 2020
+title: Top 10 Nutrition Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top nutrition Instagram influencers in Venezuela in 2020. Most popular hashtags: #fitness #healthylifestyle #motivation #fitnessmodel.
+  Find top nutrition Instagram influencers in Venezuela in 2021. Most popular hashtags: #fitness #healthylifestyle #motivation #fitnessmodel.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram profiles on inBeat.

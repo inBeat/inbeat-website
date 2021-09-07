@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In 2020
+title: Top 10 Vegan TikTok Influencers In 2021
 description: >-
-  Find top vegan TikTok influencers in 2020. Most popular hashtags: #duet #fyp #vegan #govegan.
+  Find top vegan TikTok influencers in 2021. Most popular hashtags: #duet #fyp #vegan #govegan.
 platform: TikTok
 hits: 1951
 text_top: See the top-rated TikTok profiles on inBeat.

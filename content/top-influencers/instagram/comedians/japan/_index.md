@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Japan In 2020
+title: Top 10 Comedians Instagram Influencers In Japan In 2021
 description: >-
-  Find top comedians Instagram influencers in Japan in 2020. Most popular hashtags: #whitecollarwork #ukulele #comedian.
+  Find top comedians Instagram influencers in Japan in 2021. Most popular hashtags: #whitecollarwork #ukulele #comedian.
 platform: Instagram
 hits: 12
 text_top: See the best Instagram influencers on inBeat.

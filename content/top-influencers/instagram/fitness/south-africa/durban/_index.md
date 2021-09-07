@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Durban In 2020
+title: Top 10 Fitness Instagram Influencers In Durban In 2021
 description: >-
-  Find top fitness Instagram influencers in Durban in 2020. Most popular hashtags: #love #fitness #southafrica #lockdown.
+  Find top fitness Instagram influencers in Durban in 2021. Most popular hashtags: #love #fitness #southafrica #lockdown.
 platform: Instagram
 hits: 5
 text_top: Identify the best Instagram accounts on inBeat.

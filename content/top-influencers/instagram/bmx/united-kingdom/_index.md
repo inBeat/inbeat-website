@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In United Kingdom In 2020
+title: Top 10 Bmx Instagram Influencers In United Kingdom In 2021
 description: >-
-  Find top bmx Instagram influencers in United Kingdom in 2020. Most popular hashtags: #bmx #bmx4life #bikes.
+  Find top bmx Instagram influencers in United Kingdom in 2021. Most popular hashtags: #bmx #bmx4life #bikes.
 platform: Instagram
 hits: 87
 text_top: See the best Instagram accounts on inBeat.

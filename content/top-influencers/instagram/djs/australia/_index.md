@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Australia In 2020
+title: Top 10 Djs Instagram Influencers In Australia In 2021
 description: >-
-  Find top djs Instagram influencers in Australia in 2020. Most popular hashtags: #dj #music #letsgo.
+  Find top djs Instagram influencers in Australia in 2021. Most popular hashtags: #dj #music #letsgo.
 platform: Instagram
 hits: 39
 text_top: Discover the most popular Instagram accounts on inBeat.

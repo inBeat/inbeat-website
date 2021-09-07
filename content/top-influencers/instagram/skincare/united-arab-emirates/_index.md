@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United Arab Emirates In 2020
+title: Top 10 Skincare Instagram Influencers In United Arab Emirates In 2021
 description: >-
-  Find top skincare Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #skincare #dubai #mydubai #beauty.
+  Find top skincare Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #skincare #dubai #mydubai #beauty.
 platform: Instagram
 hits: 73
 text_top: Discover the best Instagram profiles on inBeat.

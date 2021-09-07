@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Indonesia In 2020
+title: Top 10 Painters TikTok Influencers In Indonesia In 2021
 description: >-
-  Find top painters TikTok influencers in Indonesia in 2020. Most popular hashtags: #fyp #foryou #fypage #painting.
+  Find top painters TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryou #fypage #painting.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok accounts on inBeat.

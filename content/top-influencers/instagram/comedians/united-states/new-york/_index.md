@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In New York In 2020
+title: Top 10 Comedians Instagram Influencers In New York In 2021
 description: >-
-  Find top comedians Instagram influencers in New York in 2020. Most popular hashtags: #comedy #comedian #quarantinelife.
+  Find top comedians Instagram influencers in New York in 2021. Most popular hashtags: #comedy #comedian #quarantinelife.
 platform: Instagram
 hits: 65
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Milan In 2020
+title: Top 10 Travel TikTok Influencers In Milan In 2021
 description: >-
-  Find top travel TikTok influencers in Milan in 2020. Most popular hashtags: #travel #milano #italy #perte.
+  Find top travel TikTok influencers in Milan in 2021. Most popular hashtags: #travel #milano #italy #perte.
 platform: TikTok
 hits: 23
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Italy In 2020
+title: Top 10 Travel TikTok Influencers In Italy In 2021
 description: >-
-  Find top travel TikTok influencers in Italy in 2020. Most popular hashtags: #travel #fyp #italy #italia.
+  Find top travel TikTok influencers in Italy in 2021. Most popular hashtags: #travel #fyp #italy #italia.
 platform: TikTok
 hits: 244
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Istanbul In 2020
+title: Top 10 Food Instagram Influencers In Istanbul In 2021
 description: >-
-  Find top food Instagram influencers in Istanbul in 2020. Most popular hashtags: #food #istanbul #fashion #instagood.
+  Find top food Instagram influencers in Istanbul in 2021. Most popular hashtags: #food #istanbul #fashion #instagood.
 platform: Instagram
 hits: 253
 text_top: See the top-rated Instagram profiles on inBeat.

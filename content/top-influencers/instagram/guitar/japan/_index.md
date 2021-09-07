@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Japan In 2020
+title: Top 10 Guitar Instagram Influencers In Japan In 2021
 description: >-
-  Find top guitar Instagram influencers in Japan in 2020. Most popular hashtags: #guitar #guitarist #heavymetal.
+  Find top guitar Instagram influencers in Japan in 2021. Most popular hashtags: #guitar #guitarist #heavymetal.
 platform: Instagram
 hits: 78
 text_top: Identify the top-rated Instagram influencers on inBeat.

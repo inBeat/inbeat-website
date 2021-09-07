@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Montreal In 2020
+title: Top 10 Fitness TikTok Influencers In Montreal In 2021
 description: >-
-  Find top fitness TikTok influencers in Montreal in 2020. Most popular hashtags: #fitness #fyp #montreal #funny.
+  Find top fitness TikTok influencers in Montreal in 2021. Most popular hashtags: #fitness #fyp #montreal #funny.
 platform: TikTok
 hits: 18
 text_top: Discover the best TikTok influencers on inBeat.

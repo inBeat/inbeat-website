@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Switzerland In 2020
+title: Top 10 Bloggers Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top bloggers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #blogger #swissblogger #swissinfluencer.
+  Find top bloggers Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #blogger #swissblogger #swissinfluencer.
 platform: Instagram
 hits: 118
 text_top: Identify the most popular Instagram profiles on inBeat.

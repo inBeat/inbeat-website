@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Barcelona In 2020
+title: Top 10 Lifestyle Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Barcelona in 2020. Most popular hashtags: #photooftheday #barcelona #love.
+  Find top lifestyle Instagram influencers in Barcelona in 2021. Most popular hashtags: #photooftheday #barcelona #love.
 platform: Instagram
 hits: 200
 text_top: Discover the top-rated Instagram accounts on inBeat.

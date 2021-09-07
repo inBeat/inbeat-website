@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Croatia In 2020
+title: Top 10 Instagram Influencers In Croatia In 2021
 description: >-
-  Find top Instagram influencers in Croatia in 2020. Most popular hashtags: #croatia #croatiafulloflife #beautifuldestinations.
+  Find top Instagram influencers in Croatia in 2021. Most popular hashtags: #croatia #croatiafulloflife #beautifuldestinations.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram accounts on inBeat.

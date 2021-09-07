@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Venezuela In 2020
+title: Top 10 Photographers Instagram Influencers In Venezuela In 2021
 description: >-
-  Find top photographers Instagram influencers in Venezuela in 2020. Most popular hashtags: #photography #model #photographer #portrait.
+  Find top photographers Instagram influencers in Venezuela in 2021. Most popular hashtags: #photography #model #photographer #portrait.
 platform: Instagram
 hits: 29
 text_top: Analyze the top-rated Instagram influencers on inBeat.

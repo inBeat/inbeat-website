@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In India In 2020
+title: Top 10 Gaming TikTok Influencers In India In 2021
 description: >-
-  Find top gaming TikTok influencers in India in 2020. Most popular hashtags: #pubg #tiktok #pubgindia #pubgmobile.
+  Find top gaming TikTok influencers in India in 2021. Most popular hashtags: #pubg #tiktok #pubgindia #pubgmobile.
 platform: TikTok
 hits: 116
 text_top: Identify the best TikTok profiles on inBeat.

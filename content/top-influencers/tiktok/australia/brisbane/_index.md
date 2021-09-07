@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Brisbane In 2020
+title: Top 10 TikTok Influencers In Brisbane In 2021
 description: >-
-  Find top TikTok influencers in Brisbane in 2020. Most popular hashtags: #fyp #duet #brisbane #foryoupage.
+  Find top TikTok influencers in Brisbane in 2021. Most popular hashtags: #fyp #duet #brisbane #foryoupage.
 platform: TikTok
 hits: 183
 text_top: See the top-rated TikTok accounts on inBeat.

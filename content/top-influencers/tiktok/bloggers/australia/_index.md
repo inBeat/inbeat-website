@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Australia In 2020
+title: Top 10 Bloggers TikTok Influencers In Australia In 2021
 description: >-
-  Find top bloggers TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #foryoupage #travel.
+  Find top bloggers TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #foryoupage #travel.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok accounts on inBeat.

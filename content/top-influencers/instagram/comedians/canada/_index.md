@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Canada In 2020
+title: Top 10 Comedians Instagram Influencers In Canada In 2021
 description: >-
-  Find top comedians Instagram influencers in Canada in 2020. Most popular hashtags: #standup #halloween #toronto.
+  Find top comedians Instagram influencers in Canada in 2021. Most popular hashtags: #standup #halloween #toronto.
 platform: Instagram
 hits: 48
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Ukraine In 2020
+title: Top 10 Lifestyle TikTok Influencers In Ukraine In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Ukraine in 2020. Most popular hashtags: #lifestyle #fyp #life #love.
+  Find top lifestyle TikTok influencers in Ukraine in 2021. Most popular hashtags: #lifestyle #fyp #life #love.
 platform: TikTok
 hits: 8
 text_top: Analyze the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Belgium In 2020
+title: Top 10 Beauty TikTok Influencers In Belgium In 2021
 description: >-
-  Find top beauty TikTok influencers in Belgium in 2020. Most popular hashtags: #foryou #fyp #foryoupage #funny.
+  Find top beauty TikTok influencers in Belgium in 2021. Most popular hashtags: #foryou #fyp #foryoupage #funny.
 platform: TikTok
 hits: 29
 text_top: Identify the most popular TikTok profiles on inBeat.

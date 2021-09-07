@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Argentina In 2020
+title: Top 10 Cooking Instagram Influencers In Argentina In 2021
 description: >-
-  Find top cooking Instagram influencers in Argentina in 2020. Most popular hashtags: #cooking #foodie #food #foodporn.
+  Find top cooking Instagram influencers in Argentina in 2021. Most popular hashtags: #cooking #foodie #food #foodporn.
 platform: Instagram
 hits: 43
 text_top: Discover the most popular Instagram influencers on inBeat.

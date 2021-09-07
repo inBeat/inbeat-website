@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Kyoto In 2020
+title: Top 10 Beauty Instagram Influencers In Kyoto In 2021
 description: >-
-  Find top beauty Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #beauty #pr.
+  Find top beauty Instagram influencers in Kyoto in 2021. Most popular hashtags: #kyoto #beauty #pr.
 platform: Instagram
 hits: 29
 text_top: See the top-rated Instagram accounts on inBeat.

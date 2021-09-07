@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Brazil In 2020
+title: Top 10 Cosmetics Instagram Influencers In Brazil In 2021
 description: >-
-  Find top cosmetics Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #make #maquiagem #makeuptutorial.
+  Find top cosmetics Instagram influencers in Brazil in 2021. Most popular hashtags: #makeup #make #maquiagem #makeuptutorial.
 platform: Instagram
 hits: 389
 text_top: Discover the best Instagram influencers on inBeat.

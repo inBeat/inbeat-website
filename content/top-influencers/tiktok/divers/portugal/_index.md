@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Portugal In 2020
+title: Top 10 Divers TikTok Influencers In Portugal In 2021
 description: >-
-  Find top divers TikTok influencers in Portugal in 2020. Most popular hashtags: #dance #comedia #foryou #portugal.
+  Find top divers TikTok influencers in Portugal in 2021. Most popular hashtags: #dance #comedia #foryou #portugal.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok influencers on inBeat.

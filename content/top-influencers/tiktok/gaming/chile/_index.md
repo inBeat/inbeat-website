@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Chile In 2020
+title: Top 10 Gaming TikTok Influencers In Chile In 2021
 description: >-
-  Find top gaming TikTok influencers in Chile in 2020. Most popular hashtags: #parati #chile #viral #foryou.
+  Find top gaming TikTok influencers in Chile in 2021. Most popular hashtags: #parati #chile #viral #foryou.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Switzerland In 2020
+title: Top 10 TikTok Influencers In Switzerland In 2021
 description: >-
-  Find top TikTok influencers in Switzerland in 2020. Most popular hashtags: #fyp #fy #pourtoi.
+  Find top TikTok influencers in Switzerland in 2021. Most popular hashtags: #fyp #fy #pourtoi.
 platform: TikTok
 hits: 790
 text_top: See the top-rated TikTok profiles on inBeat.

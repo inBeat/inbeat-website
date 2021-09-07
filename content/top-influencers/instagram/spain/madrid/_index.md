@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Madrid In 2020
+title: Top 10 Instagram Influencers In Madrid In 2021
 description: >-
-  Find top Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #art #photo.
+  Find top Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #art #photo.
 platform: Instagram
 hits: 2500
 text_top: See the top-rated Instagram accounts on inBeat.

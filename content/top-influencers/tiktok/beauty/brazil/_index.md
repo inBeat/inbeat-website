@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brazil In 2020
+title: Top 10 Beauty TikTok Influencers In Brazil In 2021
 description: >-
-  Find top beauty TikTok influencers in Brazil in 2020. Most popular hashtags: #fyp #foryou #makeup #fy.
+  Find top beauty TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #foryou #makeup #fy.
 platform: TikTok
 hits: 127
 text_top: See the best TikTok profiles on inBeat.

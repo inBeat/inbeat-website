@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Durban In 2020
+title: Top 10 Instagram Influencers In Durban In 2021
 description: >-
-  Find top Instagram influencers in Durban in 2020. Most popular hashtags: #durban #throwback #southafrica.
+  Find top Instagram influencers in Durban in 2021. Most popular hashtags: #durban #throwback #southafrica.
 platform: Instagram
 hits: 60
 text_top: Identify the best Instagram influencers on inBeat.

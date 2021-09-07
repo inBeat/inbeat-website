@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Medellín In 2020
+title: Top 10 Photographers Instagram Influencers In Medellín In 2021
 description: >-
-  Find top photographers Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #medellin #photooftheday #photography.
+  Find top photographers Instagram influencers in Medellín in 2021. Most popular hashtags: #colombia #medellin #photooftheday #photography.
 platform: Instagram
 hits: 22
 text_top: See the top-rated Instagram influencers on inBeat.

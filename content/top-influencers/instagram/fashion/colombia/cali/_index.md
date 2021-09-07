@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Cali In 2020
+title: Top 10 Fashion Instagram Influencers In Cali In 2021
 description: >-
-  Find top fashion Instagram influencers in Cali in 2020. Most popular hashtags: #fashion #cali #colombia #cute.
+  Find top fashion Instagram influencers in Cali in 2021. Most popular hashtags: #fashion #cali #colombia #cute.
 platform: Instagram
 hits: 39
 text_top: Analyze the most popular Instagram influencers on inBeat.

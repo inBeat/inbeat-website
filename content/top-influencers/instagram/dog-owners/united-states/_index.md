@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In United States In 2020
+title: Top 10 Dog Owners Instagram Influencers In United States In 2021
 description: >-
-  Find top dog owners Instagram influencers in United States in 2020. Most popular hashtags: #selfie #featurewall #bookstack.
+  Find top dog owners Instagram influencers in United States in 2021. Most popular hashtags: #selfie #featurewall #bookstack.
 platform: Instagram
 hits: 144
 text_top: See the top-rated Instagram accounts on inBeat.

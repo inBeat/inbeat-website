@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Finland In 2020
+title: Top 10 Painters Instagram Influencers In Finland In 2021
 description: >-
-  Find top painters Instagram influencers in Finland in 2020. Most popular hashtags: #artistsoninstagram #repost #abstractexpressionist.
+  Find top painters Instagram influencers in Finland in 2021. Most popular hashtags: #artistsoninstagram #repost #abstractexpressionist.
 platform: Instagram
 hits: 8
 text_top: Analyze the best Instagram accounts on inBeat.

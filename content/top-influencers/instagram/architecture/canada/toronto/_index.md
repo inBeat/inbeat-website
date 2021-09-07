@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Toronto In 2020
+title: Top 10 Architecture Instagram Influencers In Toronto In 2021
 description: >-
-  Find top architecture Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #architecture #canada #interiordesign.
+  Find top architecture Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #architecture #canada #interiordesign.
 platform: Instagram
 hits: 55
 text_top: Discover the most popular Instagram influencers on inBeat.

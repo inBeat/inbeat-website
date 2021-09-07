@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Brazil In 2020
+title: Top 10 Yoga Instagram Influencers In Brazil In 2021
 description: >-
-  Find top yoga Instagram influencers in Brazil in 2020. Most popular hashtags: #yoga #autoamor #autoconhecimento.
+  Find top yoga Instagram influencers in Brazil in 2021. Most popular hashtags: #yoga #autoamor #autoconhecimento.
 platform: Instagram
 hits: 522
 text_top: Identify the best Instagram profiles on inBeat.

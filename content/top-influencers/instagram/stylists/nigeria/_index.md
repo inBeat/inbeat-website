@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Nigeria In 2020
+title: Top 10 Stylists Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top stylists Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #endpolicebrutality #endsars.
+  Find top stylists Instagram influencers in Nigeria in 2021. Most popular hashtags: #explore #endpolicebrutality #endsars.
 platform: Instagram
 hits: 31
 text_top: Identify the top-rated Instagram profiles on inBeat.

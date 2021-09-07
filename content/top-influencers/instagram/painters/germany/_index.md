@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Germany In 2020
+title: Top 10 Painters Instagram Influencers In Germany In 2021
 description: >-
-  Find top painters Instagram influencers in Germany in 2020. Most popular hashtags: #artwork #berlin #art.
+  Find top painters Instagram influencers in Germany in 2021. Most popular hashtags: #artwork #berlin #art.
 platform: Instagram
 hits: 291
 text_top: Discover the top-rated Instagram profiles on inBeat.

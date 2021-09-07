@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In United States In 2020
+title: Top 10 Cosmetics TikTok Influencers In United States In 2021
 description: >-
-  Find top cosmetics TikTok influencers in United States in 2020. Most popular hashtags: #fyp #foryou #duet #lipgloss.
+  Find top cosmetics TikTok influencers in United States in 2021. Most popular hashtags: #fyp #foryou #duet #lipgloss.
 platform: TikTok
 hits: 181
 text_top: Analyze the top-rated TikTok accounts on inBeat.

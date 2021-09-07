@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Miami In 2020
+title: Top 10 Nutrition TikTok Influencers In Miami In 2021
 description: >-
-  Find top nutrition TikTok influencers in Miami in 2020. Most popular hashtags: #fyp #miami #foryou #health.
+  Find top nutrition TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #miami #foryou #health.
 platform: TikTok
 hits: 9
 text_top: See the best TikTok influencers on inBeat.

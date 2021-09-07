@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Brazil In 2020
+title: Top 10 Chefs TikTok Influencers In Brazil In 2021
 description: >-
-  Find top chefs TikTok influencers in Brazil in 2020. Most popular hashtags: #foryou #tiktok #chef #food.
+  Find top chefs TikTok influencers in Brazil in 2021. Most popular hashtags: #foryou #tiktok #chef #food.
 platform: TikTok
 hits: 19
 text_top: See the best TikTok influencers on inBeat.

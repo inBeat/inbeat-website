@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Barcelona In 2020
+title: Top 10 Athletes Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top athletes Instagram influencers in Barcelona in 2020. Most popular hashtags: #athlete #training #motivation #workout.
+  Find top athletes Instagram influencers in Barcelona in 2021. Most popular hashtags: #athlete #training #motivation #workout.
 platform: Instagram
 hits: 24
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Poland In 2020
+title: Top 10 Outdoors Instagram Influencers In Poland In 2021
 description: >-
-  Find top outdoors Instagram influencers in Poland in 2020. Most popular hashtags: #jesie #outdoors #polskadziewczyna #tatry.
+  Find top outdoors Instagram influencers in Poland in 2021. Most popular hashtags: #jesie #outdoors #polskadziewczyna #tatry.
 platform: Instagram
 hits: 275
 text_top: Analyze the top-rated Instagram profiles on inBeat.

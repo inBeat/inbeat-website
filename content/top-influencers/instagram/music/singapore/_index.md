@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Singapore In 2020
+title: Top 10 Music Instagram Influencers In Singapore In 2021
 description: >-
-  Find top music Instagram influencers in Singapore in 2020. Most popular hashtags: #indomusikgram #singapore #sgmusic.
+  Find top music Instagram influencers in Singapore in 2021. Most popular hashtags: #indomusikgram #singapore #sgmusic.
 platform: Instagram
 hits: 41
 text_top: Analyze the most popular Instagram accounts on inBeat.

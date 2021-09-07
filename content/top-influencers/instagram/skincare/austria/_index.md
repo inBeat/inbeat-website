@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Austria In 2020
+title: Top 10 Skincare Instagram Influencers In Austria In 2021
 description: >-
-  Find top skincare Instagram influencers in Austria in 2020. Most popular hashtags: #skincare #vienna #wien #makeup.
+  Find top skincare Instagram influencers in Austria in 2021. Most popular hashtags: #skincare #vienna #wien #makeup.
 platform: Instagram
 hits: 31
 text_top: Discover the best Instagram influencers on inBeat.

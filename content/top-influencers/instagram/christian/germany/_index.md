@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Germany In 2020
+title: Top 10 Christian Instagram Influencers In Germany In 2021
 description: >-
-  Find top christian Instagram influencers in Germany in 2020. Most popular hashtags: #blogger #schwangerschaft #germany.
+  Find top christian Instagram influencers in Germany in 2021. Most popular hashtags: #blogger #schwangerschaft #germany.
 platform: Instagram
 hits: 692
 text_top: See the most popular Instagram influencers on inBeat.

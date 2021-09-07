@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Peru In 2020
+title: Top 10 Dancers Instagram Influencers In Peru In 2021
 description: >-
-  Find top dancers Instagram influencers in Peru in 2020. Most popular hashtags: #dance #reggaeton #dancer #love.
+  Find top dancers Instagram influencers in Peru in 2021. Most popular hashtags: #dance #reggaeton #dancer #love.
 platform: Instagram
 hits: 41
 text_top: Analyze the top-rated Instagram influencers on inBeat.

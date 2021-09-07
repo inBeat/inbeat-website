@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bogotá In 2020
+title: Top 10 Beauty Instagram Influencers In Bogotá In 2021
 description: >-
-  Find top beauty Instagram influencers in Bogotá in 2020. Most popular hashtags: #beauty #makeup #makeupartist.
+  Find top beauty Instagram influencers in Bogotá in 2021. Most popular hashtags: #beauty #makeup #makeupartist.
 platform: Instagram
 hits: 45
 text_top: Analyze the top-rated Instagram profiles on inBeat.

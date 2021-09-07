@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Durban In 2020
+title: Top 10 Fashion Instagram Influencers In Durban In 2021
 description: >-
-  Find top fashion Instagram influencers in Durban in 2020. Most popular hashtags: #durban #fashion #southafrica #capetown.
+  Find top fashion Instagram influencers in Durban in 2021. Most popular hashtags: #durban #fashion #southafrica #capetown.
 platform: Instagram
 hits: 18
 text_top: Analyze the most popular Instagram profiles on inBeat.

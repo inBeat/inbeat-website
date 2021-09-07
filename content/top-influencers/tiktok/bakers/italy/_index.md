@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Italy In 2020
+title: Top 10 Bakers TikTok Influencers In Italy In 2021
 description: >-
-  Find top bakers TikTok influencers in Italy in 2020. Most popular hashtags: #perte #neiperte #foryou #bikers.
+  Find top bakers TikTok influencers in Italy in 2021. Most popular hashtags: #perte #neiperte #foryou #bikers.
 platform: TikTok
 hits: 16
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Ukraine In 2020
+title: Top 10 Divers Instagram Influencers In Ukraine In 2021
 description: >-
-  Find top divers Instagram influencers in Ukraine in 2020. Most popular hashtags: #ukraine #lviv #ukrainegirls.
+  Find top divers Instagram influencers in Ukraine in 2021. Most popular hashtags: #ukraine #lviv #ukrainegirls.
 platform: Instagram
 hits: 10
 text_top: Discover the best Instagram influencers on inBeat.

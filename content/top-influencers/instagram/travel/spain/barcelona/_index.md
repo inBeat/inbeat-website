@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Barcelona In 2020
+title: Top 10 Travel Instagram Influencers In Barcelona In 2021
 description: >-
-  Find top travel Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #travel #travelphotography #spain.
+  Find top travel Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #travel #travelphotography #spain.
 platform: Instagram
 hits: 310
 text_top: See the top-rated Instagram influencers on inBeat.

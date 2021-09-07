@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Thailand In 2020
+title: Top 10 Runners Instagram Influencers In Thailand In 2021
 description: >-
-  Find top runners Instagram influencers in Thailand in 2020. Most popular hashtags: #frontrowathome #edfw2020 #mtu.
+  Find top runners Instagram influencers in Thailand in 2021. Most popular hashtags: #frontrowathome #edfw2020 #mtu.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Austria In 2020
+title: Top 10 Music Instagram Influencers In Austria In 2021
 description: >-
-  Find top music Instagram influencers in Austria in 2020. Most popular hashtags: #austria #ootd #music.
+  Find top music Instagram influencers in Austria in 2021. Most popular hashtags: #austria #ootd #music.
 platform: Instagram
 hits: 107
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Milan In 2020
+title: Top 10 Travel Instagram Influencers In Milan In 2021
 description: >-
-  Find top travel Instagram influencers in Milan in 2020. Most popular hashtags: #italy #travel #milan #love.
+  Find top travel Instagram influencers in Milan in 2021. Most popular hashtags: #italy #travel #milan #love.
 platform: Instagram
 hits: 648
 text_top: Discover the best Instagram profiles on inBeat.

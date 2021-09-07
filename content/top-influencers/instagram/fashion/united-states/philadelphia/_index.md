@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Philadelphia In 2020
+title: Top 10 Fashion Instagram Influencers In Philadelphia In 2021
 description: >-
-  Find top fashion Instagram influencers in Philadelphia in 2020. Most popular hashtags: #fashion #philadelphia #nyc #vintage.
+  Find top fashion Instagram influencers in Philadelphia in 2021. Most popular hashtags: #fashion #philadelphia #nyc #vintage.
 platform: Instagram
 hits: 69
 text_top: Analyze the most popular Instagram profiles on inBeat.

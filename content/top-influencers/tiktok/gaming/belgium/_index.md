@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Belgium In 2020
+title: Top 10 Gaming TikTok Influencers In Belgium In 2021
 description: >-
-  Find top gaming TikTok influencers in Belgium in 2020. Most popular hashtags: #fyp #viral #gaming #pourtoi.
+  Find top gaming TikTok influencers in Belgium in 2021. Most popular hashtags: #fyp #viral #gaming #pourtoi.
 platform: TikTok
 hits: 11
 text_top: Identify the best TikTok influencers on inBeat.

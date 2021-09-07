@@ -1,7 +1,7 @@
 ---
-title: Top 10 Entrepreneurs Instagram Influencers In 2020
+title: Top 10 Entrepreneurs Instagram Influencers In 2021
 description: >-
-  Find top entrepreneurs Instagram influencers in 2020. Most popular hashtags: #happybirthday #lavinia #discoverla.
+  Find top entrepreneurs Instagram influencers in 2021. Most popular hashtags: #happybirthday #lavinia #discoverla.
 platform: Instagram
 hits: 6227
 text_top: Discover the most popular Instagram influencers on inBeat.

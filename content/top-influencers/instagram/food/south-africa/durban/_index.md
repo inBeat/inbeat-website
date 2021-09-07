@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Durban In 2020
+title: Top 10 Food Instagram Influencers In Durban In 2021
 description: >-
-  Find top food Instagram influencers in Durban in 2020. Most popular hashtags: #durban #food #southafrica.
+  Find top food Instagram influencers in Durban in 2021. Most popular hashtags: #durban #food #southafrica.
 platform: Instagram
 hits: 6
 text_top: Analyze the best Instagram profiles on inBeat.

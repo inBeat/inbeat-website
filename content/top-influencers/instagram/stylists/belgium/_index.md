@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Belgium In 2020
+title: Top 10 Stylists Instagram Influencers In Belgium In 2021
 description: >-
-  Find top stylists Instagram influencers in Belgium in 2020. Most popular hashtags: #art #ootd #belgium #style.
+  Find top stylists Instagram influencers in Belgium in 2021. Most popular hashtags: #art #ootd #belgium #style.
 platform: Instagram
 hits: 23
 text_top: See the top-rated Instagram accounts on inBeat.

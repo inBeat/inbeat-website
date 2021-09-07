@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Australia In 2020
+title: Top 10 Cooking Instagram Influencers In Australia In 2021
 description: >-
-  Find top cooking Instagram influencers in Australia in 2020. Most popular hashtags: #australia #lemon #food.
+  Find top cooking Instagram influencers in Australia in 2021. Most popular hashtags: #australia #lemon #food.
 platform: Instagram
 hits: 201
 text_top: Analyze the most popular Instagram influencers on inBeat.

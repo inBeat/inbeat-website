@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Switzerland In 2020
+title: Top 10 Skincare Instagram Influencers In Switzerland In 2021
 description: >-
-  Find top skincare Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #skincare #beauty #instagood.
+  Find top skincare Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #skincare #beauty #instagood.
 platform: Instagram
 hits: 43
 text_top: See the top-rated Instagram influencers on inBeat.

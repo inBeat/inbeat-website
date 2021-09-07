@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In 2020
+title: Top 10 Lifestyle Instagram Influencers In 2021
 description: >-
-  Find top lifestyle Instagram influencers in 2020. Most popular hashtags: #streetstyle #fashion #style.
+  Find top lifestyle Instagram influencers in 2021. Most popular hashtags: #streetstyle #fashion #style.
 platform: Instagram
 hits: 63828
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Germany In 2020
+title: Top 10 Barbers TikTok Influencers In Germany In 2021
 description: >-
-  Find top barbers TikTok influencers in Germany in 2020. Most popular hashtags: #barber #friseur #hairstyle #duett.
+  Find top barbers TikTok influencers in Germany in 2021. Most popular hashtags: #barber #friseur #hairstyle #duett.
 platform: TikTok
 hits: 20
 text_top: Discover the most popular TikTok profiles on inBeat.

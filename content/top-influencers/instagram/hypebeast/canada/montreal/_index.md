@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Montreal In 2020
+title: Top 10 Hypebeast Instagram Influencers In Montreal In 2021
 description: >-
-  Find top hypebeast Instagram influencers in Montreal in 2020. Most popular hashtags: #hypebeast #montreal #mtl #canada.
+  Find top hypebeast Instagram influencers in Montreal in 2021. Most popular hashtags: #hypebeast #montreal #mtl #canada.
 platform: Instagram
 hits: 8
 text_top: Discover the most popular Instagram accounts on inBeat.

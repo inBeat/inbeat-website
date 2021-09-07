@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Toronto In 2020
+title: Top 10 Lifestyle TikTok Influencers In Toronto In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #toronto #canada #foryou.
+  Find top lifestyle TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #toronto #canada #foryou.
 platform: TikTok
 hits: 17
 text_top: See the most popular TikTok accounts on inBeat.

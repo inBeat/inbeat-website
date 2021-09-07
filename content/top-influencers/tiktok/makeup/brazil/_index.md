@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Brazil In 2020
+title: Top 10 Makeup TikTok Influencers In Brazil In 2021
 description: >-
-  Find top makeup TikTok influencers in Brazil in 2020. Most popular hashtags: #makeup #maquiagem #halloween #fyp.
+  Find top makeup TikTok influencers in Brazil in 2021. Most popular hashtags: #makeup #maquiagem #halloween #fyp.
 platform: TikTok
 hits: 439
 text_top: Identify the best TikTok profiles on inBeat.

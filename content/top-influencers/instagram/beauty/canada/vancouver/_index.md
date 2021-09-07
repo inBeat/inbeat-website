@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Vancouver In 2020
+title: Top 10 Beauty Instagram Influencers In Vancouver In 2021
 description: >-
-  Find top beauty Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #beauty #love.
+  Find top beauty Instagram influencers in Vancouver in 2021. Most popular hashtags: #vancouver #beauty #love.
 platform: Instagram
 hits: 94
 text_top: Identify the most popular Instagram influencers on inBeat.

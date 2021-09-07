@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Germany In 2020
+title: Top 10 Crossfit Instagram Influencers In Germany In 2021
 description: >-
-  Find top crossfit Instagram influencers in Germany in 2020. Most popular hashtags: #happy #crossfit #fitness #weekend.
+  Find top crossfit Instagram influencers in Germany in 2021. Most popular hashtags: #happy #crossfit #fitness #weekend.
 platform: Instagram
 hits: 157
 text_top: Identify the most popular Instagram profiles on inBeat.

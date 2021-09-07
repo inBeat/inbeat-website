@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In United States In 2020
+title: Top 10 Cosmetics Instagram Influencers In United States In 2021
 description: >-
-  Find top cosmetics Instagram influencers in United States in 2020. Most popular hashtags: #instagood #love #sponsored.
+  Find top cosmetics Instagram influencers in United States in 2021. Most popular hashtags: #instagood #love #sponsored.
 platform: Instagram
 hits: 1652
 text_top: Identify the most popular Instagram influencers on inBeat.

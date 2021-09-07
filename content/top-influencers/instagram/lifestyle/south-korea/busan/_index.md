@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Busan In 2020
+title: Top 10 Lifestyle Instagram Influencers In Busan In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Busan in 2020. Most popular hashtags: #seoul #korea #instagood #travel.
+  Find top lifestyle Instagram influencers in Busan in 2021. Most popular hashtags: #seoul #korea #instagood #travel.
 platform: Instagram
 hits: 4
 text_top: Analyze the top-rated Instagram accounts on inBeat.

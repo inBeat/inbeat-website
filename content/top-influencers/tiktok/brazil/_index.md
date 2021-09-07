@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Brazil In 2020
+title: Top 10 TikTok Influencers In Brazil In 2021
 description: >-
-  Find top TikTok influencers in Brazil in 2020. Most popular hashtags: #dueto #foryou #fyp.
+  Find top TikTok influencers in Brazil in 2021. Most popular hashtags: #dueto #foryou #fyp.
 platform: TikTok
 hits: 7207
 text_top: Analyze the top-rated TikTok influencers on inBeat.

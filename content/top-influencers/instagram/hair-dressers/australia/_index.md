@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Australia In 2020
+title: Top 10 Hair Dressers Instagram Influencers In Australia In 2021
 description: >-
-  Find top hair dressers Instagram influencers in Australia in 2020. Most popular hashtags: #sydney #australia #beauty #hairdressers.
+  Find top hair dressers Instagram influencers in Australia in 2021. Most popular hashtags: #sydney #australia #beauty #hairdressers.
 platform: Instagram
 hits: 13
 text_top: Analyze the best Instagram influencers on inBeat.

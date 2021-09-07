@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie TikTok Influencers In 2020
+title: Top 10 Lingerie TikTok Influencers In 2021
 description: >-
-  Find top lingerie TikTok influencers in 2020. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
+  Find top lingerie TikTok influencers in 2021. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
 platform: TikTok
 hits: 55
 text_top: See the best TikTok profiles on inBeat.

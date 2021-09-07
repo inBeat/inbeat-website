@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Toronto In 2020
+title: Top 10 Instagram Influencers In Toronto In 2021
 description: >-
-  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #heywildlove #torontodrinks.
+  Find top Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #heywildlove #torontodrinks.
 platform: Instagram
 hits: 2270
 text_top: See the top-rated Instagram influencers on inBeat.

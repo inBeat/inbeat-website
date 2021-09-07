@@ -1,7 +1,7 @@
 ---
-title: Top 10 Badminton Players Instagram Influencers In 2020
+title: Top 10 Badminton Players Instagram Influencers In 2021
 description: >-
-  Find top badminton players Instagram influencers in 2020. Most popular hashtags: #badminton #badmintonworld #badmintonplayer.
+  Find top badminton players Instagram influencers in 2021. Most popular hashtags: #badminton #badmintonworld #badmintonplayer.
 platform: Instagram
 hits: 81
 text_top: Analyze the best Instagram profiles on inBeat.

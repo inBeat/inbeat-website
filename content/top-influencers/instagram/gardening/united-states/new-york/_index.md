@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In New York In 2020
+title: Top 10 Gardening Instagram Influencers In New York In 2021
 description: >-
-  Find top gardening Instagram influencers in New York in 2020. Most popular hashtags: #gardening #brooklyn #garden #flowers.
+  Find top gardening Instagram influencers in New York in 2021. Most popular hashtags: #gardening #brooklyn #garden #flowers.
 platform: Instagram
 hits: 36
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodyboard TikTok Influencers In 2020
+title: Top 10 Bodyboard TikTok Influencers In 2021
 description: >-
-  Find top bodyboard TikTok influencers in 2020. Most popular hashtags: #surf #surfing #fyp #summer.
+  Find top bodyboard TikTok influencers in 2021. Most popular hashtags: #surf #surfing #fyp #summer.
 platform: TikTok
 hits: 11
 text_top: Identify the best TikTok profiles on inBeat.

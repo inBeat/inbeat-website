@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2020
+title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2021
 description: >-
-  Find top fashion Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #fashion #saopaulo #love #brasil.
+  Find top fashion Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #fashion #saopaulo #love #brasil.
 platform: Instagram
 hits: 342
 text_top: Identify the best Instagram accounts on inBeat.

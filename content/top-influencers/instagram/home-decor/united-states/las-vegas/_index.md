@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Las Vegas In 2020
+title: Top 10 Home Decor Instagram Influencers In Las Vegas In 2021
 description: >-
-  Find top home decor Instagram influencers in Las Vegas in 2020. Most popular hashtags: #homedecor #lasvegas #halloween #modernfarmhouse.
+  Find top home decor Instagram influencers in Las Vegas in 2021. Most popular hashtags: #homedecor #lasvegas #halloween #modernfarmhouse.
 platform: Instagram
 hits: 30
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Portugal In 2020
+title: Top 10 Bakers Instagram Influencers In Portugal In 2021
 description: >-
-  Find top bakers Instagram influencers in Portugal in 2020. Most popular hashtags: #motorcycle #photography #bikers #instamoto.
+  Find top bakers Instagram influencers in Portugal in 2021. Most popular hashtags: #motorcycle #photography #bikers #instamoto.
 platform: Instagram
 hits: 15
 text_top: Analyze the top-rated Instagram influencers on inBeat.

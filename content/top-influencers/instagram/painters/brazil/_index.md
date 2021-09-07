@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Brazil In 2020
+title: Top 10 Painters Instagram Influencers In Brazil In 2021
 description: >-
-  Find top painters Instagram influencers in Brazil in 2020. Most popular hashtags: #art #oilpainting #arte.
+  Find top painters Instagram influencers in Brazil in 2021. Most popular hashtags: #art #oilpainting #arte.
 platform: Instagram
 hits: 991
 text_top: Discover the best Instagram profiles on inBeat.

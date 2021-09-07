@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Brazil In 2020
+title: Top 10 Home Decor Instagram Influencers In Brazil In 2021
 description: >-
-  Find top home decor Instagram influencers in Brazil in 2020. Most popular hashtags: #homedecor #decor #decora #apartamentopequeno.
+  Find top home decor Instagram influencers in Brazil in 2021. Most popular hashtags: #homedecor #decor #decora #apartamentopequeno.
 platform: Instagram
 hits: 397
 text_top: Analyze the best Instagram accounts on inBeat.

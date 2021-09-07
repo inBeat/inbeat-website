@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United States In 2020
+title: Top 10 Athletes Instagram Influencers In United States In 2021
 description: >-
-  Find top athletes Instagram influencers in United States in 2020. Most popular hashtags: #fall #fitness #beach.
+  Find top athletes Instagram influencers in United States in 2021. Most popular hashtags: #fall #fitness #beach.
 platform: Instagram
 hits: 3168
 text_top: See the most popular Instagram accounts on inBeat.

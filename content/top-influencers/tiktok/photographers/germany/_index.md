@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Germany In 2020
+title: Top 10 Photographers TikTok Influencers In Germany In 2021
 description: >-
-  Find top photographers TikTok influencers in Germany in 2020. Most popular hashtags: #fyp #foryou #fy #tiktoktravel.
+  Find top photographers TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #foryou #fy #tiktoktravel.
 platform: TikTok
 hits: 36
 text_top: Discover the most popular TikTok profiles on inBeat.

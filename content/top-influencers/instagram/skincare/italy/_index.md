@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Italy In 2020
+title: Top 10 Skincare Instagram Influencers In Italy In 2021
 description: >-
-  Find top skincare Instagram influencers in Italy in 2020. Most popular hashtags: #makeup #fentybeauty #makeuplover #skincare.
+  Find top skincare Instagram influencers in Italy in 2021. Most popular hashtags: #makeup #fentybeauty #makeuplover #skincare.
 platform: Instagram
 hits: 442
 text_top: Discover the best Instagram profiles on inBeat.

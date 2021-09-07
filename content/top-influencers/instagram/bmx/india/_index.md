@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In India In 2020
+title: Top 10 Bmx Instagram Influencers In India In 2021
 description: >-
-  Find top bmx Instagram influencers in India in 2020. Most popular hashtags: #bmx #mtb #bikelife #bike.
+  Find top bmx Instagram influencers in India in 2021. Most popular hashtags: #bmx #mtb #bikelife #bike.
 platform: Instagram
 hits: 18
 text_top: Analyze the best Instagram accounts on inBeat.

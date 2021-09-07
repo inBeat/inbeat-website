@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In South Africa In 2020
+title: Top 10 Runners Instagram Influencers In South Africa In 2021
 description: >-
-  Find top runners Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #sponsored #capetown.
+  Find top runners Instagram influencers in South Africa in 2021. Most popular hashtags: #southafrica #sponsored #capetown.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram accounts on inBeat.

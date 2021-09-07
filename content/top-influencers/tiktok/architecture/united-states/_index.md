@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In United States In 2020
+title: Top 10 Architecture TikTok Influencers In United States In 2021
 description: >-
-  Find top architecture TikTok influencers in United States in 2020. Most popular hashtags: #architecture #fyp #foryou #interiordesign.
+  Find top architecture TikTok influencers in United States in 2021. Most popular hashtags: #architecture #fyp #foryou #interiordesign.
 platform: TikTok
 hits: 97
 text_top: Analyze the top-rated TikTok profiles on inBeat.

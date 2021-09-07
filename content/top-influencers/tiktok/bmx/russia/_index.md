@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In Russia In 2020
+title: Top 10 Bmx TikTok Influencers In Russia In 2021
 description: >-
-  Find top bmx TikTok influencers in Russia in 2020. Most popular hashtags: #bmx #bmx2 #sport.
+  Find top bmx TikTok influencers in Russia in 2021. Most popular hashtags: #bmx #bmx2 #sport.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok influencers on inBeat.

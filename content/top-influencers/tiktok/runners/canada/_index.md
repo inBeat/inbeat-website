@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners TikTok Influencers In Canada In 2020
+title: Top 10 Runners TikTok Influencers In Canada In 2021
 description: >-
-  Find top runners TikTok influencers in Canada in 2020. Most popular hashtags: #fyp #runner #duet #foryoupage.
+  Find top runners TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #runner #duet #foryoupage.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok accounts on inBeat.

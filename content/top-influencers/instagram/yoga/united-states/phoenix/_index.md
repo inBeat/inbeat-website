@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Phoenix In 2020
+title: Top 10 Yoga Instagram Influencers In Phoenix In 2021
 description: >-
-  Find top yoga Instagram influencers in Phoenix in 2020. Most popular hashtags: #yoga #phoenix #strength #fitness.
+  Find top yoga Instagram influencers in Phoenix in 2021. Most popular hashtags: #yoga #phoenix #strength #fitness.
 platform: Instagram
 hits: 26
 text_top: Identify the best Instagram influencers on inBeat.

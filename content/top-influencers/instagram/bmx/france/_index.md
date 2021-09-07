@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In France In 2020
+title: Top 10 Bmx Instagram Influencers In France In 2021
 description: >-
-  Find top bmx Instagram influencers in France in 2020. Most popular hashtags: #bmx #bmxporn #wheelie.
+  Find top bmx Instagram influencers in France in 2021. Most popular hashtags: #bmx #bmxporn #wheelie.
 platform: Instagram
 hits: 90
 text_top: Identify the best Instagram accounts on inBeat.

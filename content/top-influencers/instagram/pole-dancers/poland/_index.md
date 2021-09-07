@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Poland In 2020
+title: Top 10 Pole Dancers Instagram Influencers In Poland In 2021
 description: >-
-  Find top pole dancers Instagram influencers in Poland in 2020. Most popular hashtags: #poledancer #poledance #polishgirl #polskadziewczyna.
+  Find top pole dancers Instagram influencers in Poland in 2021. Most popular hashtags: #poledancer #poledance #polishgirl #polskadziewczyna.
 platform: Instagram
 hits: 37
 text_top: Analyze the top-rated Instagram accounts on inBeat.

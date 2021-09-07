@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Greece In 2020
+title: Top 10 Runners Instagram Influencers In Greece In 2021
 description: >-
-  Find top runners Instagram influencers in Greece in 2020. Most popular hashtags: #greece #running #fitness #runner.
+  Find top runners Instagram influencers in Greece in 2021. Most popular hashtags: #greece #running #fitness #runner.
 platform: Instagram
 hits: 11
 text_top: Identify the best Instagram influencers on inBeat.

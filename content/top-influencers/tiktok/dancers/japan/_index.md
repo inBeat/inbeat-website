@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Japan In 2020
+title: Top 10 Dancers TikTok Influencers In Japan In 2021
 description: >-
-  Find top dancers TikTok influencers in Japan in 2020. Most popular hashtags: #tiktok #dance #fyp #foryoupage.
+  Find top dancers TikTok influencers in Japan in 2021. Most popular hashtags: #tiktok #dance #fyp #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Las Vegas In 2020
+title: Top 10 Lifestyle TikTok Influencers In Las Vegas In 2021
 description: >-
-  Find top lifestyle TikTok influencers in Las Vegas in 2020. Most popular hashtags: #fyp #foryou #lasvegas #lifestyle.
+  Find top lifestyle TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #foryou #lasvegas #lifestyle.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok accounts on inBeat.

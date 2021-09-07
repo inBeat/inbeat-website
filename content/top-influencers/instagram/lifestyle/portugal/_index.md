@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Portugal In 2020
+title: Top 10 Lifestyle Instagram Influencers In Portugal In 2021
 description: >-
-  Find top lifestyle Instagram influencers in Portugal in 2020. Most popular hashtags: #ootd #outfitoftheday #fashion #outfit.
+  Find top lifestyle Instagram influencers in Portugal in 2021. Most popular hashtags: #ootd #outfitoftheday #fashion #outfit.
 platform: Instagram
 hits: 202
 text_top: Identify the top-rated Instagram influencers on inBeat.

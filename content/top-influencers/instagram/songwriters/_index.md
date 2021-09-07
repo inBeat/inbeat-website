@@ -1,7 +1,7 @@
 ---
-title: Top 10 Songwriters Instagram Influencers In 2020
+title: Top 10 Songwriters Instagram Influencers In 2021
 description: >-
-  Find top songwriters Instagram influencers in 2020. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
+  Find top songwriters Instagram influencers in 2021. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
 platform: Instagram
 hits: 4091
 text_top: Discover the best Instagram influencers on inBeat.

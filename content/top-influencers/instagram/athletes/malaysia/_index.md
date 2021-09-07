@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Malaysia In 2020
+title: Top 10 Athletes Instagram Influencers In Malaysia In 2021
 description: >-
-  Find top athletes Instagram influencers in Malaysia in 2020. Most popular hashtags: #staysafe #fitness #kitajagakita.
+  Find top athletes Instagram influencers in Malaysia in 2021. Most popular hashtags: #staysafe #fitness #kitajagakita.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Finland In 2020
+title: Top 10 Instagram Influencers In Finland In 2021
 description: >-
-  Find top Instagram influencers in Finland in 2020. Most popular hashtags: #finland #muoti #smile.
+  Find top Instagram influencers in Finland in 2021. Most popular hashtags: #finland #muoti #smile.
 platform: Instagram
 hits: 1730
 text_top: Discover the most popular Instagram profiles on inBeat.

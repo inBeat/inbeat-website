@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Russia In 2020
+title: Top 10 Bloggers Instagram Influencers In Russia In 2021
 description: >-
-  Find top bloggers Instagram influencers in Russia in 2020. Most popular hashtags: #f1testing #78 #racing.
+  Find top bloggers Instagram influencers in Russia in 2021. Most popular hashtags: #f1testing #78 #racing.
 platform: Instagram
 hits: 414
 text_top: Analyze the top-rated Instagram accounts on inBeat.

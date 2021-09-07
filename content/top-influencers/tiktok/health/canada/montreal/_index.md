@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Montreal In 2020
+title: Top 10 Health TikTok Influencers In Montreal In 2021
 description: >-
-  Find top health TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #montreal #quebec #love.
+  Find top health TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #montreal #quebec #love.
 platform: TikTok
 hits: 9
 text_top: Identify the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In 2020
+title: Top 10 Bakers Instagram Influencers In 2021
 description: >-
-  Find top bakers Instagram influencers in 2020. Most popular hashtags: #family #food52 #thefeedfeedbaking.
+  Find top bakers Instagram influencers in 2021. Most popular hashtags: #family #food52 #thefeedfeedbaking.
 platform: Instagram
 hits: 4406
 text_top: Identify the top-rated Instagram accounts on inBeat.

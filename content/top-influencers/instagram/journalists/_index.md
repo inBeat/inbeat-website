@@ -1,7 +1,7 @@
 ---
-title: Top 10 Journalists Instagram Influencers In 2020
+title: Top 10 Journalists Instagram Influencers In 2021
 description: >-
-  Find top journalists Instagram influencers in 2020. Most popular hashtags: #summer #love #picoftheday.
+  Find top journalists Instagram influencers in 2021. Most popular hashtags: #summer #love #picoftheday.
 platform: Instagram
 hits: 1578
 text_top: Discover the most popular Instagram accounts on inBeat.

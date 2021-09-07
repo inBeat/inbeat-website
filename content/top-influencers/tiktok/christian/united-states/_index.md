@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In United States In 2020
+title: Top 10 Christian TikTok Influencers In United States In 2021
 description: >-
-  Find top christian TikTok influencers in United States in 2020. Most popular hashtags: #duet #fyp #foryou #funny.
+  Find top christian TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #foryou #funny.
 platform: TikTok
 hits: 2775
 text_top: Analyze the best TikTok accounts on inBeat.

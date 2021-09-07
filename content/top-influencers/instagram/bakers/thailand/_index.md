@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Thailand In 2020
+title: Top 10 Bakers Instagram Influencers In Thailand In 2021
 description: >-
-  Find top bakers Instagram influencers in Thailand in 2020. Most popular hashtags: #thailand #patisserie #breadstagram.
+  Find top bakers Instagram influencers in Thailand in 2021. Most popular hashtags: #thailand #patisserie #breadstagram.
 platform: Instagram
 hits: 23
 text_top: Identify the top-rated Instagram accounts on inBeat.

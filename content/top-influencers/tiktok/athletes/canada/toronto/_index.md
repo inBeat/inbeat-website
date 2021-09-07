@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Toronto In 2020
+title: Top 10 Athletes TikTok Influencers In Toronto In 2021
 description: >-
-  Find top athletes TikTok influencers in Toronto in 2020. Most popular hashtags: #fyp #foryou #toronto #canada.
+  Find top athletes TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #foryou #toronto #canada.
 platform: TikTok
 hits: 10
 text_top: Identify the top-rated TikTok profiles on inBeat.

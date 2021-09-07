@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In 2020
+title: Top 10 Makeup TikTok Influencers In 2021
 description: >-
-  Find top makeup TikTok influencers in 2020. Most popular hashtags: #duet #fyp #foryou #makeup.
+  Find top makeup TikTok influencers in 2021. Most popular hashtags: #duet #fyp #foryou #makeup.
 platform: TikTok
 hits: 16413
 text_top: Identify the best TikTok influencers on inBeat.

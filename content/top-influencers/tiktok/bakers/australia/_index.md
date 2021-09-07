@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Australia In 2020
+title: Top 10 Bakers TikTok Influencers In Australia In 2021
 description: >-
-  Find top bakers TikTok influencers in Australia in 2020. Most popular hashtags: #fyp #foryou #australia #food.
+  Find top bakers TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #australia #food.
 platform: TikTok
 hits: 25
 text_top: Analyze the most popular TikTok profiles on inBeat.

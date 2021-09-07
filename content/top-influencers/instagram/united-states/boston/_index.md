@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Boston In 2020
+title: Top 10 Instagram Influencers In Boston In 2021
 description: >-
-  Find top Instagram influencers in Boston in 2020. Most popular hashtags: #boston #liketkit #ad.
+  Find top Instagram influencers in Boston in 2021. Most popular hashtags: #boston #liketkit #ad.
 platform: Instagram
 hits: 2033
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Poland In 2020
+title: Top 10 Food Instagram Influencers In Poland In 2021
 description: >-
-  Find top food Instagram influencers in Poland in 2020. Most popular hashtags: #piek #strajkkobiet #autumnoutfit #autumn.
+  Find top food Instagram influencers in Poland in 2021. Most popular hashtags: #piek #strajkkobiet #autumnoutfit #autumn.
 platform: Instagram
 hits: 792
 text_top: Identify the best Instagram influencers on inBeat.

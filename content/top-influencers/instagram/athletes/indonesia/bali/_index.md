@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Bali In 2020
+title: Top 10 Athletes Instagram Influencers In Bali In 2021
 description: >-
-  Find top athletes Instagram influencers in Bali in 2020. Most popular hashtags: #bali #beach #athlete.
+  Find top athletes Instagram influencers in Bali in 2021. Most popular hashtags: #bali #beach #athlete.
 platform: Instagram
 hits: 26
 text_top: Identify the top-rated Instagram influencers on inBeat.

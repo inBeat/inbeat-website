@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Canada In 2020
+title: Top 10 Gymnasts TikTok Influencers In Canada In 2021
 description: >-
-  Find top gymnasts TikTok influencers in Canada in 2020. Most popular hashtags: #gymnastics #fyp #foryou #gymnast.
+  Find top gymnasts TikTok influencers in Canada in 2021. Most popular hashtags: #gymnastics #fyp #foryou #gymnast.
 platform: TikTok
 hits: 56
 text_top: See the most popular TikTok influencers on inBeat.

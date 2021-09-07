@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Mumbai In 2020
+title: Top 10 Vegan Instagram Influencers In Mumbai In 2021
 description: >-
-  Find top vegan Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbai #instagood #vegan #love.
+  Find top vegan Instagram influencers in Mumbai in 2021. Most popular hashtags: #mumbai #instagood #vegan #love.
 platform: Instagram
 hits: 173
 text_top: Discover the best Instagram accounts on inBeat.

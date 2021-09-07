@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Izmir In 2020
+title: Top 10 Health Instagram Influencers In Izmir In 2021
 description: >-
-  Find top health Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #health #istanbul #instalike.
+  Find top health Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #health #istanbul #instalike.
 platform: Instagram
 hits: 28
 text_top: Analyze the best Instagram influencers on inBeat.

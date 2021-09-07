@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Japan In 2020
+title: Top 10 Tattoo-Artists Instagram Influencers In Japan In 2021
 description: >-
-  Find top tattoo-artists Instagram influencers in Japan in 2020. Most popular hashtags: #tattoo #art #tattooartist #tattooart.
+  Find top tattoo-artists Instagram influencers in Japan in 2021. Most popular hashtags: #tattoo #art #tattooartist #tattooart.
 platform: Instagram
 hits: 28
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Montreal In 2020
+title: Top 10 Models TikTok Influencers In Montreal In 2021
 description: >-
-  Find top models TikTok influencers in Montreal in 2020. Most popular hashtags: #fyp #montreal #model #dance.
+  Find top models TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #montreal #model #dance.
 platform: TikTok
 hits: 12
 text_top: Identify the most popular TikTok influencers on inBeat.

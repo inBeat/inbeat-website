@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Germany In 2020
+title: Top 10 Gaming Instagram Influencers In Germany In 2021
 description: >-
-  Find top gaming Instagram influencers in Germany in 2020. Most popular hashtags: #gamergirl #gaming #gamergirls #gaminggirl.
+  Find top gaming Instagram influencers in Germany in 2021. Most popular hashtags: #gamergirl #gaming #gamergirls #gaminggirl.
 platform: Instagram
 hits: 283
 text_top: Analyze the best Instagram accounts on inBeat.

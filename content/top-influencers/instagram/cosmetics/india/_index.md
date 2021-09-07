@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In India In 2020
+title: Top 10 Cosmetics Instagram Influencers In India In 2021
 description: >-
-  Find top cosmetics Instagram influencers in India in 2020. Most popular hashtags: #cosmetics #makeup #beauty #fashionphotography.
+  Find top cosmetics Instagram influencers in India in 2021. Most popular hashtags: #cosmetics #makeup #beauty #fashionphotography.
 platform: Instagram
 hits: 188
 text_top: Analyze the best Instagram profiles on inBeat.

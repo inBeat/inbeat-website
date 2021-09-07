@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Nigeria In 2020
+title: Top 10 Health Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top health Instagram influencers in Nigeria in 2020. Most popular hashtags: #teamnatural #naturalhaircommunity #fashion #naturalhair.
+  Find top health Instagram influencers in Nigeria in 2021. Most popular hashtags: #teamnatural #naturalhaircommunity #fashion #naturalhair.
 platform: Instagram
 hits: 52
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Canada In 2020
+title: Top 10 Bodybuilding Instagram Influencers In Canada In 2021
 description: >-
-  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #bodybuilding #fitness #personaltrainer #quads.
+  Find top bodybuilding Instagram influencers in Canada in 2021. Most popular hashtags: #bodybuilding #fitness #personaltrainer #quads.
 platform: Instagram
 hits: 105
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Muay Thai Fighters Instagram Influencers In 2020
+title: Top 10 Muay Thai Fighters Instagram Influencers In 2021
 description: >-
-  Find top muay thai fighters Instagram influencers in 2020. Most popular hashtags: #muaythai #training #kickboxing.
+  Find top muay thai fighters Instagram influencers in 2021. Most popular hashtags: #muaythai #training #kickboxing.
 platform: Instagram
 hits: 394
 text_top: See the top-rated Instagram accounts on inBeat.

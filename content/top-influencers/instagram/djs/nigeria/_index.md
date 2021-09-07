@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Nigeria In 2020
+title: Top 10 Djs Instagram Influencers In Nigeria In 2021
 description: >-
-  Find top djs Instagram influencers in Nigeria in 2020. Most popular hashtags: #endsars #endpolicebrutality #endbadgovernanceinnigeria.
+  Find top djs Instagram influencers in Nigeria in 2021. Most popular hashtags: #endsars #endpolicebrutality #endbadgovernanceinnigeria.
 platform: Instagram
 hits: 18
 text_top: See the top-rated Instagram accounts on inBeat.
