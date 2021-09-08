@@ -1,14 +1,14 @@
 .popupTrigger {
 	cursor: pointer;
 }
-.blur:not(#popupOverlay):not(#header){
+.blur:not(.popupOverlay):not(#header){
 	filter: blur(6px);
 	-webkit-filter: blur(6px);
 	-moz-filter: blur(6px);
 	-o-filter: blur(6px);
 	-ms-filter: blur(6px);
 }
-#popupOverlay {
+.popupOverlay {
 	z-index: -1;
 	opacity: 0;
 	display: block;

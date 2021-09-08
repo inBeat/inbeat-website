@@ -10,6 +10,7 @@
         align-items: center;
     }
     .text-content{
+        pointer-events: none;
         margin: 0 auto;
         p{
             font-size: .875rem;

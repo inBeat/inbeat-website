@@ -10,7 +10,7 @@
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
 <div id="engagement-rate">
-    {{- partial "site/formPopup.html" -}}
+    {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}}
     <section class="container mobile-adjusted page-top" id="engagement-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
@@ -268,7 +268,7 @@
             },
             clearFormPopup(formObject){
                 setCookie('erc-submit', true, 60);
-                togglePopup();
+                togglePopup('formPopup');
                 // reset value
                 formObject[0].value = null;
                 formObject[1].value = 'default';
@@ -400,8 +400,9 @@
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
                 if(!this.getCookie('erc-submit') && this.getFirstData === true){
+                    document.getElementById('banner').style.pointerEvents= 'none';
                     request.addEventListener('loadend', (() =>{
-                        setTimeout(function(){ this.togglePopup(); }, 500);
+                        setTimeout(function(){ this.togglePopup('formPopup'); }, 500);
                     }));
                 }
             },

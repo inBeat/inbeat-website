@@ -9,7 +9,7 @@
     - anchor: Quick Search
       link: features/quicksearch
     - anchor: Deep Search
-      link: categories/deepsearch
+      link: features/deepsearch
     - anchor: Contact Export
       link: features/export-contacts/
     - anchor: Influencer Tracking
