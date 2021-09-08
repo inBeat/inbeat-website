@@ -325,11 +325,8 @@ function popup() {
     // For each DIV that have the class .popupTrigger, when click open et set position of the popup form
     document.querySelectorAll('.popupTrigger').forEach(function (item) {
         item.addEventListener('click', function (e) {
-            if(isOpen)return;
             e.preventDefault();
             id = e.target.dataset.popupId
-            console.log('e.target', e.target.dataset);
-            
             togglePopup(e.target.dataset.popupId);
         })
     })
