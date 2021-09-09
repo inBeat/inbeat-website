@@ -49,7 +49,9 @@ ul, ol, li {
 .align-right {
     text-align: right;
 }
-
+span:not(#tooltip-element){
+    pointer-events: none !important;
+}
 a.btn {
     background-color: $dark;
     background: $dark;
@@ -65,6 +67,7 @@ a.btn {
     letter-spacing: -0.5px;
     transition: background-color 0.3s;
     white-space: nowrap;
+
     &.no-border{
         border: none;
     }
@@ -128,7 +131,7 @@ a.btn {
         color: $dark;
         border-color: white;
         animation: crazy 2s infinite;
-    };
+    }
 }
 
 @keyframes crazy {

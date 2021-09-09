@@ -239,17 +239,16 @@ function topInfluencers() {
 }
 
 function popup() {
-   
-    if (document.getElementById('popupOverlay') === null) { return };
     // Get Popup from the DOM
-    var popupOverlay = document.getElementById('popupOverlay');
-    var innerPopup = popupOverlay.querySelector(".popup");
-    var closeBtn = popupOverlay.querySelector(".close")
+    var id;
+    var popupOverlay;
+    var innerPopup;
+    var closeBtn;
+    var defaultWidth;
+    var defaultHeight;
+    var contentParent;
     var popupContent = document.getElementsByClassName('popupContent')[0];
-    var contentParent = popupOverlay.querySelector(".content-wrapper")
     var isOpen = false;
-    var defaultWidth = innerPopup.style.width;
-    var defaultHeight = innerPopup.style.height;
     var mediaQuery = window.matchMedia('(max-width: 768px)')
 
     // Set the position of the popup to always be centered
@@ -278,12 +277,19 @@ function popup() {
     }
 
     // Open/Close popup
-    this.togglePopup = function() {
+    this.togglePopup = function(popupId) {
+        
+        id = popupId;
+        popupOverlay = document.getElementById(id);
+        innerPopup = popupOverlay.querySelector(".popup");
+        closeBtn = popupOverlay.querySelector(".close")
+        defaultWidth = innerPopup.style.width;
+        defaultHeight = innerPopup.style.height;
+        contentParent = popupOverlay.querySelector(".content-wrapper");
         popupOverlay.classList.toggle('popupOverlay--fadeIn');
         innerPopup.classList.toggle('popupInner--fadeIn');
         position();
         isOpen = !isOpen;
-
         // Toggle player play or pause
         if (isOpen) {
             if(contentParent.querySelector("video")){
@@ -304,24 +310,25 @@ function popup() {
                 item.classList.remove("blur");
             })
         }
+
+        // Close popup if click on overlay
+        popupOverlay.addEventListener('click', function (e) {
+            if (!e.target.classList.contains('popup-overlay')) return;
+            togglePopup(id);
+        })
+
+        // Close popup if click on X button
+        closeBtn.addEventListener('click', function () {
+            togglePopup(id);
+        })
     }
-    // For each DIV that have the class .popupTrigger, when click open et set position of the popup
+    // For each DIV that have the class .popupTrigger, when click open et set position of the popup form
     document.querySelectorAll('.popupTrigger').forEach(function (item) {
         item.addEventListener('click', function (e) {
             e.preventDefault();
-            togglePopup();
+            id = e.target.dataset.popupId
+            togglePopup(e.target.dataset.popupId);
         })
-    })
-
-    // Close popup if click on overlay
-    popupOverlay.addEventListener('click', function (e) {
-        if (!e.target.classList.contains('popup-overlay')) return;
-        togglePopup(e);
-    })
-
-    // Close popup if click on X button
-    closeBtn.addEventListener('click', function () {
-        togglePopup();
     })
 
     // Listen to resize event and don't position if the popup is closed

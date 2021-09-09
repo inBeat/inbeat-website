@@ -12,7 +12,7 @@
                         {{- htmlUnescape .Params.header.cta.text | markdownify -}}
                     </a>
                     {{- if isset .Params.header "ctasecond" -}}
-                    <a href="#" title="Book a demo" target="_blank" class="btn btn-lg btn-outline popupTrigger">
+                    <a href="#" title="Book a demo" target="_blank" class="btn btn-lg btn-outline popupTrigger" data-popup-id="videoPopup">
                         <span>►</span> See how it works
                     </a>
                     {{- end -}}

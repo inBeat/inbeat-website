@@ -45,7 +45,7 @@ features:
       Once your list is ready, you can export all <span>contact information</span> in a click. 
     link:
       text: Learn more &#8594;
-      link: 'features/export'
+      link: 'features/export-contacts/'
       external: false
     question:
       text: What can I do with the exports?
