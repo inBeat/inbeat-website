@@ -1,9 +1,9 @@
 #creator-studio-hero{
     #hero{
-        @media only screen  and (min-width : 1824px) {
-            padding-top: calc(50vh - 15rem);
+        @include breakpoint(sm) {
+            padding-top: 26vh;
         }
-        padding-top: calc(76vh - 15rem);
+        padding-top: 20vh;
         padding-bottom: 0;
         margin: 0;
         a{
