@@ -1,5 +1,9 @@
 #creator-studio-hero{
     #hero{
+        @include breakpoint(sm) {
+            padding-top: 26vh;
+        }
+        padding-top: 20vh;
         padding-bottom: 0;
         margin: 0;
         a{

@@ -49,9 +49,6 @@ ul, ol, li {
 .align-right {
     text-align: right;
 }
-span:not(#tooltip-element){
-    pointer-events: none !important;
-}
 a.btn {
     background-color: $dark;
     background: $dark;
