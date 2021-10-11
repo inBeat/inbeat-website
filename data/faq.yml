@@ -49,6 +49,8 @@ home:
   - question: I don't want my profile listed on inBeat! Can you remove it?
     answer: >-
       Of course! Just contact us by email and we'll take care of it right away.
+  - question: What is inBeat UGC platform
+    answer: The [UGC Platform](https://inbeat.co/ugc-platform/) (User Generated Content) is a platform that allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content. 
 tiktok:
   - question: How do I find TikTok influencers?
     answer: >-
@@ -168,6 +170,10 @@ engagement:
         The more engaged users an influencer gets, the most willing to interact with the post the audience is. 
         It is a good metric to identify an active audience that is more likely to be responsive to your campaign. 
         Engagement rate is one of the top factors for DTC brands when forecasting influencer marketing ROI.
+    - question: Why should I care about the Instagram engagement rate for influencer marketing?
+      answer: >- 
+        Far too often, companies doing influencer marketing only focus on vanity metrics when evaluating influencers (followers, likes, impressions). 
+        Vanity metrics matter but they don't tell the whole story. If the target audience is engaged towards the influencer you are collaborating with (either posts or Instagram stories) your company will have more chance of building a successful campaign.
   tiktok:
     - question: How do You Calculate a TikTok Account's Engagement Rate?
       answer: >-
