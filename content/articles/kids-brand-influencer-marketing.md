@@ -17,7 +17,7 @@ summary: >-
   influencers for their marketing efforts. They were seeking mother
   micro-influencers. Here's how they did it.
 i18nlanguage: en
-weight: 1
+weight: 0
 draft: false
 categories:
   - Studies

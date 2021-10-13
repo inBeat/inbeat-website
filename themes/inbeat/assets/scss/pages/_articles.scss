@@ -37,6 +37,7 @@
             display: block;
         }
         h4 {
+            height: 72px;
             font-weight: bold;
             margin-top: 1rem;
             a {
@@ -47,6 +48,11 @@
         }
         p {
             margin: 1rem 0;
+        }
+        .small {
+            display: block;
+            height: 110px;
+            overflow: hidden;
         }
         .author {
             font-size: 0.6875rem;
