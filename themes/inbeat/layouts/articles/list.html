@@ -26,7 +26,7 @@
                     <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
                 </p>
                 {{- $author := index .Params.authors 0 -}}
-                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</p>
             </div>
         </div>
         {{- end -}}
