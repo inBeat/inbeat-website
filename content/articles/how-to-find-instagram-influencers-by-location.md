@@ -8,14 +8,14 @@ slug: how-to-find-instagram-influencers-by-location
 feature_image: 'https://ghost.inbeat.co/content/images/2020/11/Banner-for-Articles.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/11/Banner-for-Articles.png'
 lastmod: '2021-04-14T04:46:33.000-04:00'
-date: '2020-11-21T08:21:19.000-05:00'
+date: '2021-04-21T08:21:19.000-05:00'
 summary: >-
   Targeting local influencers? Knowing how to find Instagram influencers by
   location can be detrimental to an influencer campaign’s success. This guide
   will show you how to search for local influencers using various tools and
   methods. 
 i18nlanguage: en
-weight: 0
+weight: 1
 draft: false
 categories:
   - Tutorials
