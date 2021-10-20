@@ -1,5 +1,6 @@
 #features-top {
 	background-color: $light_grey;
+	padding-top: 40px;
 	img {
 		width: 100%;
 		margin: 25px 0;
@@ -29,7 +30,14 @@
 			text-align: left;
 			flex-direction: row;
 		}
+		h1{
+			line-height: 4rem;
+			font-size: 4rem;
+		}
 		h4 {
+			font-weight: 300;
+			font-size: 1.125rem;
+			line-height: 1.625rem;
 			opacity: 0.75;
 		}
 		.cta {
@@ -44,7 +52,7 @@
 			.btn:nth-child(1) {
 				border: none;
 			}
-			margin: 50px 0;
+			margin: 75px 0;
 		}
 	}
 }

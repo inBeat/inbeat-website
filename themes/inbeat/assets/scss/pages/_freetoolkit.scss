@@ -1,0 +1,79 @@
+#freetoolkit {
+    padding-bottom: 12.5rem;
+    @include breakpoint(sm-down) {
+        padding-left: 1.25rem;
+        padding-right: 1.25rem;
+    }
+    
+    #freetoolkit-header{
+        padding-top: 6.25rem;
+        padding-bottom: 6.25rem;
+        text-align: center;
+    @include breakpoint(sm-down) {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+        h1 {
+            @include breakpoint(sm) {
+                font-size: 5rem;
+                line-height: 4.6rem;
+            }
+        }
+    }
+	.toolkits {
+		.toolkit {
+            display: table;
+
+            width: 100%;
+            margin-top: 25px;
+            &:hover .inner{
+                border: 1px solid rgba(0, 0, 0, 1);
+                cursor: pointer;
+            }
+			.inner {
+                transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+                display: flex;
+				border: 1px solid rgba(0, 0, 0, 0.20);
+				padding: 15px;
+                flex-direction: row-reverse;
+                @include breakpoint(sm-down) {
+                    flex-direction: row;
+                    padding: 10px 25px;
+                    .icon{
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-right: 25px;
+                    }
+                }
+                .content{
+                    padding: 50px 25px 25px 25px;
+                    @include breakpoint(sm-down) {
+                        padding: 25px 0px 25px 0px;
+                    }
+                    p{
+                        display: inline-block;
+                        align-self: flex-end;
+                        font-size: 0.875rem;
+                        margin-bottom: 0;
+                        @include breakpoint(sm-down) {
+                              // display: none;
+                               font-size: .75rem;
+                               margin-top:5px;
+                               line-height: 1.25rem;
+                        }
+                    }
+                    h4{
+                        line-height: 31px;
+                        margin: 0;
+                        font-size: 1.5rem;
+                        font-weight: 500;
+                        @include breakpoint(sm-down) {
+                               font-size: 1.2rem;
+                        }
+                    }
+                }
+			}
+		}
+	}
+}
