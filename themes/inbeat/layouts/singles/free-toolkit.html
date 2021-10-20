@@ -7,27 +7,25 @@
     <section class="toolkits container">
         <div class="row">
             {{- range .Params.toolkits -}}
-                
+
                     <div class="toolkit col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <a href="{{ $.Site.BaseURL }}{{ .url }}">
                         <div class="inner">
-                            <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div> 
+                            <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
                             <div class="content">
                                 <h4>{{ .title }}</h4>
                                 <p> {{ .text }}</p>
                             </div>
-                        </div>  
+                        </div>
                     </a>
                     </div>
-               
+
             {{- end -}}
         </div>
     </section>
 </div>
 
 {{- partial "site/testimonial.html" . -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
 
 <section class="container-fluid p-tb-80 mobile-adjusted" id="cta-home">
     <div class="row m-tb-160">

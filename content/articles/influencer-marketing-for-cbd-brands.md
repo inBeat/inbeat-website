@@ -17,7 +17,7 @@ summary: >-
   marketing for CBD brands. We’ll discuss some legal background, plus how to
   pick the right influencers and channels.
 i18nlanguage: en
-weight: 0
+weight: 1
 draft: false
 categories:
   - Studies

@@ -32,7 +32,7 @@
                     <span class="tooltip left">
                         {{- .tooltip -}}
                     </span>
-                </p> 
+                </p>
             </div>
             {{- end -}}
         </div>
@@ -42,7 +42,7 @@
                     <source src="/videos/{{- .video -}}.mp4" />
                     <!-- <source src="../static/video/10s.webm" type='video/webm; codecs="vp8, vorbis"' />
                     <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' /> -->
-                </video>    
+                </video>
             </div>
             <a  class="learn-more hide-md-up {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
                 {{- htmlUnescape .link.text -}}
@@ -95,6 +95,7 @@
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
+
 
 <section class="container-fluid p-tb-80 mobile-adjusted" id="cta-home">
     <div class="row m-tb-160">
