@@ -171,11 +171,8 @@
     </div>
 </section>
 
-{{- if $forInstagram -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
-{{- else -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
-{{- end -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.collaboration.instagram "id" "home-faq" "title" "FAQ Regarding Our Instagram Money Calculator") -}}
+
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
