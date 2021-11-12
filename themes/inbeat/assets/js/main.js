@@ -374,10 +374,15 @@ function faq() {
 function banner(){
     var banner = document.getElementById('banner');
     var closeBtn = document.getElementById('close');
-
+    if (getCookie('banner-hide')) {
+        banner.classList.add("hide-banner");
+        return;
+    }
+    banner.classList.remove("hide-banner");
     closeBtn.addEventListener('click', function (e) {
         e.preventDefault();
-        banner.remove()
+        setCookie('banner-hide', true, 60);
+        banner.remove();
     })
 }
 
