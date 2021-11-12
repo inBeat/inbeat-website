@@ -24,10 +24,8 @@
 		z-index: 100;
 	}
 	.popup {
-		@include breakpoint(xs) {
-			width: 600px;
-			height: 490px;
-		}
+		height: auto !important;
+		padding: 10px;
 		@include breakpoint(sm) {
 			width: 800px;
 			height: 600px;
