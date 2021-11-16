@@ -1,6 +1,6 @@
 #hero {
-    padding-top: 12.5rem;
-    padding-bottom: 6.25rem;
+    padding-top: 6.25rem;
+    padding-bottom: 6rem;
     text-align: center;
     @include breakpoint(sm) {
         padding-top: calc(50vh - 12.5rem);
