@@ -3,7 +3,7 @@
     padding-bottom: 6rem;
     text-align: center;
     @include breakpoint(sm) {
-        padding-top: calc(50vh - 12.5rem);
+        padding-top: calc(50vh - 15.625rem);
         padding-bottom: calc(50vh - 18rem);
     }
     h4 {
