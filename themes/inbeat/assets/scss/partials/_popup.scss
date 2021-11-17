@@ -24,7 +24,7 @@
 		z-index: 100;
 	}
 	.popup {
-		height: auto !important;
+		height: auto;
 		padding: 10px;
 		@include breakpoint(sm) {
 			width: 800px;
@@ -70,17 +70,21 @@
 			width: 100% !important;
 			background-color: #151515;
 			color: white;
-			height: 112px;
+			left: 0;
+			height: 80px;
 			border: none;
 			font-size: 18px;
 			font-weight: 400;
 			position: absolute;
 			bottom: 0;
 			padding: 5px 0px;
-			width: 100%;
 			cursor: pointer;
 			border-radius: 0;
 			outline: none !important;
+			@include breakpoint(sm) {
+				height: 112px;
+				padding: 5px 0px;
+			}
 		}
 	}
 }
