@@ -374,8 +374,10 @@ function faq() {
 function banner(){
     var banner = document.getElementById('banner');
     var closeBtn = document.getElementById('close');
+    var hero = document.getElementById('hero');
     if (getCookie('banner-hide')) {
         banner.classList.add("hide-banner");
+        if(hero == null){return}hero.classList.remove('has-banner');
         return;
     }
     banner.classList.remove("hide-banner");
@@ -383,7 +385,9 @@ function banner(){
         e.preventDefault();
         setCookie('banner-hide', true, 60);
         banner.remove();
+        if(hero == null){return}hero.classList.remove('has-banner');
     })
+    if(hero == null){return}hero.classList.add('has-banner');
 }
 
 (function () {

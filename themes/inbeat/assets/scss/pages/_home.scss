@@ -6,6 +6,10 @@
         padding-top: calc(50vh - 15.625rem);
         padding-bottom: calc(50vh - 18rem);
     }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
     h4 {
         width: 100%;
         margin-bottom: 4rem;
