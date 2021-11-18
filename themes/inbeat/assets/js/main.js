@@ -259,7 +259,8 @@ function popup() {
         // Check if the media query is true
         if (mediaQuery.matches) {
             if(popupContent != null){
-                innerPopup.style.height = 112 + popupContent.offsetHeight + 'px';
+              if(contentParent.querySelector('video')){
+                innerPopup.style.height = 75 + popupContent.offsetHeight + 'px';
                 innerPopup.style.margin = 10 + 'px';
                 popupContent.style.borderRadius = '0px';
                 contentParent.style.padding = '0px';
