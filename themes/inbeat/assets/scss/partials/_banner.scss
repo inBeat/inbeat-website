@@ -3,7 +3,10 @@
     cursor: pointer;
     position: relative;
     padding: 5px;
-
+    &.hide-banner{
+        visibility: hidden;
+        display: none;
+    }
     a{
         display: flex;
         align-content: center;
@@ -19,6 +22,7 @@
         }
         span{
             margin-left: 10px;
+            font-size: 12px;
         }
         text-align: center;
     }
