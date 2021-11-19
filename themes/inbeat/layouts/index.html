@@ -8,7 +8,7 @@
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
         <a href="javascript:void(0)" title="Book a demo" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
-            <span>&#9654;</span> Watch Product Demo
+            <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Product Demo
         </a>
     </div>
 </section>
