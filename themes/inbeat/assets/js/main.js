@@ -259,7 +259,8 @@ function popup() {
         // Check if the media query is true
         if (mediaQuery.matches) {
             if(popupContent != null){
-                innerPopup.style.height = 112 + popupContent.offsetHeight + 'px';
+              if(contentParent.querySelector('video')){
+                innerPopup.style.height = 75 + popupContent.offsetHeight + 'px';
                 innerPopup.style.margin = 10 + 'px';
                 popupContent.style.borderRadius = '0px';
                 contentParent.style.padding = '0px';
@@ -374,11 +375,20 @@ function faq() {
 function banner(){
     var banner = document.getElementById('banner');
     var closeBtn = document.getElementById('close');
-
+    var hero = document.getElementById('hero');
+    if (getCookie('banner-hide')) {
+        banner.classList.add("hide-banner");
+        if(hero == null){return}hero.classList.remove('has-banner');
+        return;
+    }
+    banner.classList.remove("hide-banner");
     closeBtn.addEventListener('click', function (e) {
         e.preventDefault();
-        banner.remove()
+        setCookie('banner-hide', true, 60);
+        banner.remove();
+        if(hero == null){return}hero.classList.remove('has-banner');
     })
+    if(hero == null){return}hero.classList.add('has-banner');
 }
 
 (function () {
