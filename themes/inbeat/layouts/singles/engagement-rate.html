@@ -223,10 +223,10 @@
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
             },
-            request(data, request){
+            request(data, request, api){
                     return new Promise(function (resolve, reject) {
                         var xhr = new XMLHttpRequest();
-                        xhr.open(request, 'https://graphql.inbeat.co/active-campaign', true);
+                        xhr.open(request, api, true);
                         xhr.setRequestHeader('Content-Type', 'application/json');
                         xhr.onload = function () {
                             var status = xhr.status;
@@ -248,7 +248,7 @@
                         xhr.send(data);
                     });
             },
-            getTagId(tagName) {
+            getListID(tagName) {
                 switch (tagName) {
                     case 'Influencer':
                         return '1'
@@ -276,6 +276,21 @@
                 this.errorform = null;
                 this.loadingform = false;
             },
+            getGroupId(type, continent, country){
+              if(type == 'Influencer'){
+                return 109535675
+              }
+              if(type == 'Brand' ||type == 'Agency' || type == 'E-commerce')
+                if(continent == 'EU'){
+                  return 107989498
+                }
+                if(continent == 'NA' && (country == 'US' || country == 'CA')){
+                    return 107989498
+                  }
+                  else{
+                    return 109535666 
+                  }
+            },
             async formSubmit() {
                 this.loadingform = true;
                 var error = this.errorform;
@@ -300,41 +315,34 @@
                 } else {
                     formElements[1].classList.remove('input-error')
                 }
-                if(_this.getTagId(formElements[1].value) === '1'){
-                    _this.clearFormPopup(formElements);
-                    return;
-                }
-                var data = JSON.stringify({
-                    'url': '/api/3/contacts',
-                    'contact': {
-                        'email': formElements[0].value,
-                        'tag': formElements[1].value
+                //https://graphql.inbeat.co/ipdata
+                await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
+                    const json = JSON.parse(e);
+                    const continent = json.continent_code;
+                    const country = json.country_code;
+                    const type = formElements[1].value
+                    const email = formElements[0].value
+                    const listId = _this.getListID(formElements[1].value)
+                    let group = await _this.getGroupId(type, continent, country);
+                    var data = JSON.stringify({
+                      'url': `/api/v2/groups/${group}/subscribers`,
+                      'email': email,
+                      'fields': {
+                        'category': type,
+                        'country': json.country_name
+                      }
+                    });
+
+                    // https://graphql.inbeat.co/mailer-lite
+                    try{
+                      await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
+                      _this.clearFormPopup(formElements);
+                    }catch (error) {
+                      console.error(error.statusText);
+                      _this.errorform = 'There has been an error, please try again';
+                      return;
                     }
                 });
-                await _this.request(data, 'POST').then(async function(response){ 
-                    var res = JSON.parse(response);
-                    var tagData = JSON.stringify({
-                        'url': '/api/3/contactTags',
-                        'contactTag': {
-                            'contact': res.contact.id,
-                            'tag':  _this.getTagId(formElements[1].value)
-                        }
-                    });
-                    var setList = JSON.stringify({
-                        'url': '/api/3/contactLists',
-                        'contactList': {
-                            'list': 2,
-                            'contact': res.contact.id,
-                            'status': 1
-                        }
-                    });
-                    await _this.request(tagData , 'POST');
-                    await _this.request(setList , 'POST').then(function(response){   
-                        _this.clearFormPopup(formElements);
-                    });
-                }).catch(function(e) {
-                  _this.errorform = 'There has been an error, please try again';
-                })
                 this.loadingform = false;
             },
             getCookie(name){
