@@ -37,7 +37,7 @@
             display: block;
         }
         h4 {
-            height: 72px;
+            //height: 72px;
             font-weight: bold;
             margin-top: 1rem;
             a {
@@ -55,6 +55,7 @@
             overflow: hidden;
         }
         .author {
+            margin-bottom: auto; 
             font-size: 0.6875rem;
             line-height: 1rem;
             color: $dark_sub;

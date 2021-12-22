@@ -30,7 +30,7 @@
                     <span class="infos">{{ .ReadingTime }} min {{ $method }} | {{.Date.Format "Jan 2 2006"}}</span>
                 </p>
             </div>
-            <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
+            <img class="banner" src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
         </div>
         <div class="col-xs-12{{ if $hasCategory }} {{ $category | urlize }}{{ end }}" id="article-body">
             {{ .Content }}

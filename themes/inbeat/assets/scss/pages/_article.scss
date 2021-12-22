@@ -1,9 +1,10 @@
 // Single
 h1 {
     font-weight: 500;
-    font-size: 2rem;
-    line-height: 2.75rem;
+    font-size: 3.125rem;
+    line-height: 3.875rem;
     letter-spacing: -1.4px;
+    color: #292929;
     @include breakpoint(sm) {
         font-size: 3.125rem;
         line-height: 3.875rem;
@@ -12,10 +13,12 @@ h1 {
 
 h2 {
     font-weight: 500;
-    font-size: 1.875rem;
-    line-height: 2.75rem;
+    font-size: 2.5rem;
+    line-height: 3.875rem;
     letter-spacing: -1.4px;
-    margin-top: 3.5rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    color: #292929;
     @include breakpoint(sm) {
         font-size: 2.5rem;
         line-height: 3.875rem;
@@ -24,9 +27,11 @@ h2 {
 
 h3 {
     font-weight: 500;
-    font-size: 1.5625rem;
-    line-height: 2.125rem;
+    font-size: 1.75rem;
+    line-height: 2.375rem;
     letter-spacing: -1.4px;
+    margin-bottom: 2rem;
+    color: #292929;
     @include breakpoint(sm) {
         font-size: 1.75rem;
         line-height: 2.375rem;
@@ -35,19 +40,24 @@ h3 {
 
 h4 {
     font-weight: bold;
-    font-size: 1.0625rem;
-    line-height: 1.6875rem;
+    font-size: 1.375rem;
+    line-height: 2.125rem;
+    margin-bottom: 1.5rem;
+    color: #292929;
     @include breakpoint(sm) {
         font-size: 1.375rem;
         line-height: 2.125rem;
     }
 }
 
+
 h5 {
     font-weight: 500;
-    font-size: 1.0625rem;
-    line-height: 1.6875rem;
+    font-size: 1.25rem;
+    line-height: 2rem;
     letter-spacing: -0.3px;
+    margin-bottom: 1.5rem;
+    color: #292929;
     @include breakpoint(sm) {
         font-size: 1.375rem;
         line-height: 2rem;
@@ -55,16 +65,16 @@ h5 {
 }
 
 #article-ctn {
-    max-width: 42.5rem !important;
+    max-width: 41.25rem !important;
 }
 
 #article-header {
-    margin-bottom: 0;
     p {
         font-weight: 400;
         font-size: 0.825rem;
         line-height: 1.25rem;
         letter-spacing: -0.3px;
+        color: #292929;
         @include breakpoint(sm) {
             font-size: 1rem;
             line-height: 1.625rem;
@@ -72,6 +82,9 @@ h5 {
     }
     img {
         max-width: 100%;
+    }
+    .banner{
+        margin-bottom: 4rem;
     }
     .category {
         display: inline-block;
@@ -165,6 +178,8 @@ h5 {
         font-weight: 300;
         font-size: 1.0625rem;
         line-height: 1.6875rem;
+        margin: 2rem 0;
+        color: #292929;
         @include breakpoint(sm) {
             font-size: 1.1875rem;
             line-height: 2.0625rem;
@@ -183,8 +198,8 @@ h5 {
                 top: 0.5rem;
                 height: 0.75rem;
                 width: 0.75rem;
-                border-radius: 50%;
-                border: 1px solid black;
+                background-color: black;
+                border-radius: 100%;
                 box-sizing: border-box;
             }
         }
