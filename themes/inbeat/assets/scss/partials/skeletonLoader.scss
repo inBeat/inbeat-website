@@ -1,0 +1,153 @@
+#skeleton-loader {
+    overflow: hidden;
+	@mixin loader-vertical($size, $color) {
+		background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, $color 50%, #ffffff00 100%);
+		background-repeat: repeat-y;
+		background-size: 200%;
+		background-position: 0 0;
+		animation: shine-v 2s infinite;
+		transform: translateY($size);
+        position: relative;
+        height: 100%;
+        width: 100%;
+	}
+
+	@mixin loader-horizontal($size, $color) {
+		background-image: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, $color 50%, #ffffff00 100%);
+		background-repeat: repeat-y;
+		background-size: 100%;
+		background-position: 0 0;
+		animation: shine-h 2s infinite;
+		border-radius: 2px;
+		transform: translateX($size);
+        position: relative;
+        height: 100%;
+        width: 100%;
+	}
+
+    @mixin bar($width, $height, $color) {
+        overflow: hidden !important;
+        background-color: $color ;
+        height: $height;
+        border-radius: 20px;
+        max-width: $width;
+        margin: 1rem 0 ;
+    }
+
+    @mixin circle($width, $height, $color) {
+        overflow: hidden !important;
+        background: $color ;
+        height: $height;
+        width: $width;
+        border-radius: 100%;
+        opacity: .2;
+        margin: 1rem 0 ;
+    }
+    @mixin square($width, $height, $color) {
+        opacity: .2;
+        overflow: hidden !important;
+        background: $color ;
+        height: $height;
+        width: $width;
+        border-radius: 5px;
+        margin: 1rem 0 ;
+    }
+
+	.loader-bar--tiny {
+        @include bar(5%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-50px, rgba(224, 224, 224, 0.5));
+        }
+	}
+
+    .loader-bar--small {
+        @include bar(15%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-300px, rgba(224, 224, 224, 0.5));
+        }
+    }
+
+    .loader-bar--medium {
+        @include bar(25%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-300px, rgba(224, 224, 224, 0.5));
+        }
+    }
+
+    .loader-bar--regular {
+        @include bar(50%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-750px, rgba(224, 224, 224, 0.5));
+        }
+    }
+
+    .loader-bar--big {
+        @include bar(75%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-1000px, rgba(224, 224, 224, 0.5));
+        }
+    }
+
+    .loader-bar--full {
+        @include bar(100%, 15px,#F8F8F8);
+        .loader-horizontal {
+            @include loader-horizontal(-1920px, rgba(224, 224, 224, 0.5));
+        }
+    }
+
+// ----------------------------------------------------------------------------------------------------
+
+    .loader-circle--small {
+        @include circle(50px, 50px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-50px, rgba(252, 252, 252, 0.918));
+        }
+    }
+
+    .loader-circle--medium {
+        @include circle(100px, 100px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-100px, rgba(252, 252, 252, 0.918));
+        }
+    }
+
+    .loader-circle--big {
+        @include circle(250px, 250px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-250px, rgba(252, 252, 252, 0.918));
+        }
+    }
+
+// ----------------------------------------------------------------------------------------------------
+
+    .loader-square--small {
+        @include square(500px , 200px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+        }
+    }
+
+    .loader-square--medium {
+        @include square(500px , 400px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+        }
+    }
+    .loader-square--big {
+        @include square(500px , 700px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
+        .loader-vertical {
+            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+        }
+    }
+
+	@keyframes shine-v {
+		to {
+			transform: translateY(100%);
+		}
+	}
+    @keyframes shine-h {
+        to {
+            transform: translateX(100%);
+        }
+    }
+}

@@ -10,12 +10,27 @@
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
 <div id="engagement-rate">
+
     {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}}
     <section class="container mobile-adjusted page-top" id="engagement-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section id="engagement-calculator" class="container mobile-adjusted">
+        <div id="skeleton-loader">
+            <div class="loader-bar--tiny"><div class="loader-horizontal"></div></div>
+            <div class="loader-bar--small"><div class="loader-horizontal"></div></div>
+            <div class="loader-bar--medium"><div class="loader-horizontal"></div></div>
+            <div class="loader-bar--regular"><div class="loader-horizontal"></div></div>
+            <div class="loader-bar--big"><div class="loader-horizontal"></div></div>
+            <div class="loader-bar--full"><div class="loader-horizontal"></div></div>
+            <div class="loader-circle--small"><div class="loader-vertical"></div></div>
+            <div class="loader-circle--medium"><div class="loader-vertical"></div></div>
+            <div class="loader-circle--big"><div class="loader-vertical"></div></div>
+            <div class="loader-square--small"><div class="loader-vertical"></div></div>
+            <div class="loader-square--medium"><div class="loader-vertical"></div></div>
+            <div class="loader-square--big"><div class="loader-vertical"></div></div>
+        </div>
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
