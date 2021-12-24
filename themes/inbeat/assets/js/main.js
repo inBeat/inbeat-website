@@ -252,30 +252,32 @@ function popup() {
     var mediaQuery = window.matchMedia('(max-width: 768px)')
 
     // Set the position of the popup to always be centered
-    function position() {
-        innerPopup.style.transition = "none";
-        var pageWidth = window.innerWidth,
-            pageHeight = window.innerHeight;
-        // Check if the media query is true
-        if (mediaQuery.matches) {
-            if(popupContent != null){
-              if(contentParent.querySelector('video')){
-                innerPopup.style.height = 75 + popupContent.offsetHeight + 'px';
-                innerPopup.style.margin = 10 + 'px';
-                popupContent.style.borderRadius = '0px';
-                contentParent.style.padding = '0px';
-            }
-        } else {
-            innerPopup.style.width = defaultWidth;
-            innerPopup.style.height = defaultHeight;
-            if(contentParent.querySelector("video")){
-                contentParent.style.padding = '50px';
-            }
+  function position() {
+    innerPopup.style.transition = "none";
+    console.log('innerPopup', innerPopup);
+    var pageWidth = window.innerWidth,
+      pageHeight = window.innerHeight;
+    // Check if the media query is true
+    if (mediaQuery.matches) {
+      if (popupContent != null) {
+        if (contentParent.querySelector('video')) {
+          innerPopup.style.height = 75 + popupContent.offsetHeight + 'px';
+          innerPopup.style.margin = 10 + 'px';
+          popupContent.style.borderRadius = '0px';
+          contentParent.style.padding = '0px';
         }
-        innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + 'px';
-        innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + 'px';
-        innerPopup.style.transition = "all .25s ease-in-out";
-    }
+      }
+    } else {
+        innerPopup.style.width = defaultWidth;
+        innerPopup.style.height = defaultHeight;
+        if (contentParent.querySelector("video")) {
+          contentParent.style.padding = '50px';
+        }
+      }
+      innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + 'px';
+      innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + 'px';
+      innerPopup.style.transition = "all .25s ease-in-out";
+  }
 
     // Open/Close popup
     this.togglePopup = function(popupId) {
@@ -391,14 +393,47 @@ function banner(){
     if(hero == null){return}hero.classList.add('has-banner');
 }
 
+function articleProgressBar() {
+  var footer = document.querySelector("footer");
+  var progressBar = document.querySelectorAll(".progress-bar");
+  var barWidth = 100 / progressBar.length;
+
+  for (var i = 0; i < progressBar.length; i++) {
+    progressBar[i].style.left = barWidth * i + "%";
+  }
+
+  document.addEventListener("scroll",
+    function () {
+      getScroll()
+    },
+    { passive: true }
+  );
+
+  function getScroll(){
+    var scrollTop = document.documentElement["scrollTop"] || document.body["scrollTop"];
+    var scrollBottom = (document.documentElement["scrollHeight"] || document.body["scrollHeight"]) - document.documentElement.clientHeight - footer.offsetHeight ;
+    var scrollPercentValue = scrollTop / scrollBottom * 100;
+    for (var i = 0; i < progressBar.length; i++) {
+     // progressBar[i].style.backgroundColor = barBG[i]
+      if (scrollPercentValue >= barWidth * i) {
+        progressBar[i].style.width = scrollPercentValue - barWidth * i + "%";
+      } else {
+        progressBar[i].style.width = 0 + "%";
+      }
+    }
+  }
+  getScroll();
+}
+
 (function () {
-    scrollTo();
-    header();
-    home();
-    pricing();
-    affiliate();
-    topInfluencers();
-    popup();
-    faq();
-    banner();
+  scrollTo();
+  header();
+  home();
+  pricing();
+  affiliate();
+  topInfluencers();
+  popup();
+  faq();
+  banner();
+  articleProgressBar();
 })();
