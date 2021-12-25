@@ -1,142 +1,198 @@
 #skeleton-loader {
     overflow: hidden;
-	@mixin loader-vertical($size, $color) {
-		background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, $color 50%, #ffffff00 100%);
+position: relative;
+    .loading-bar--container{
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        .loading-bar{
+            align-items: center;
+            display: flex;
+            margin: 0 auto;
+            min-width: 100px;
+            flex-direction: column;
+            justify-content: center;
+            .text{
+                font-size: 18px;
+                line-height: 28px;
+                color: black;
+            }
+            .bar{
+                min-width: 200px;
+                background-color: #EBEBEB;
+                border-radius: 5px;
+                .progress-bar-fill {
+                    display: block;
+                    height: 5px;
+                    width: 0%;
+                    background-color: #000000;
+                    border-radius: 5px;
+                    transition: width 500ms ease-in-out;
+                }
+            }
+
+        }
+    }
+
+    .loader-center{
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+	@mixin loader-vertical($size) {
+		background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(252, 252, 252, 0.918) 50%, #ffffff00 100%);
 		background-repeat: repeat-y;
 		background-size: 200%;
 		background-position: 0 0;
-		animation: shine-v 2s infinite;
+		//animation: shine-v 2s infinite;
 		transform: translateY($size);
         position: relative;
         height: 100%;
         width: 100%;
 	}
 
-	@mixin loader-horizontal($size, $color) {
-		background-image: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, $color 50%, #ffffff00 100%);
+	@mixin loader-horizontal($size) {
+		background-image: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 50%, #ffffff00 100%);
 		background-repeat: repeat-y;
 		background-size: 100%;
 		background-position: 0 0;
-		animation: shine-h 2s infinite;
+	//	animation: shine-h 2s infinite;
 		border-radius: 2px;
-		transform: translateX($size);
+		transform: translateX(-100%);
         position: relative;
         height: 100%;
         width: 100%;
 	}
 
-    @mixin bar($width, $height, $color) {
+    @mixin bar($width, $height) {
+        opacity: .3;
         overflow: hidden !important;
-        background-color: $color ;
-        height: $height;
+        background-color: rgba(224, 224, 224, 0.5);
+        height: 12px;
         border-radius: 20px;
-        max-width: $width;
-        margin: 1rem 0 ;
+       // max-width: $width;
+        margin: .75rem 0 ;
     }
 
-    @mixin circle($width, $height, $color) {
+    @mixin circle($width, $height) {
+        opacity: .3;
         overflow: hidden !important;
-        background: $color ;
+        background: rgba(224, 224, 224, 0.5);
         height: $height;
         width: $width;
         border-radius: 100%;
-        opacity: .2;
         margin: 1rem 0 ;
     }
-    @mixin square($width, $height, $color) {
-        opacity: .2;
+    @mixin square($width, $height) {
+        opacity: .3;
+        //opacity: .2;
         overflow: hidden !important;
-        background: $color ;
+        background: rgba(224, 224, 224, 0.5);
         height: $height;
-        width: $width;
+        width: 100%;
         border-radius: 5px;
         margin: 1rem 0 ;
     }
 
 	.loader-bar--tiny {
-        @include bar(5%, 15px,#F8F8F8);
+        @include bar(5%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-50px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-200px);
         }
 	}
 
     .loader-bar--small {
-        @include bar(15%, 15px,#F8F8F8);
+        @include bar(15%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-300px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-300px);
         }
     }
 
     .loader-bar--medium {
-        @include bar(25%, 15px,#F8F8F8);
+        @include bar(25%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-300px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-300px);
         }
     }
 
     .loader-bar--regular {
-        @include bar(50%, 15px,#F8F8F8);
+        @include bar(50%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-750px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-750px);
         }
     }
 
     .loader-bar--big {
-        @include bar(75%, 15px,#F8F8F8);
+        @include bar(75%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-1000px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-1000px);
         }
     }
 
     .loader-bar--full {
-        @include bar(100%, 15px,#F8F8F8);
+        @include bar(100%, 15px);
         .loader-horizontal {
-            @include loader-horizontal(-1920px, rgba(224, 224, 224, 0.5));
+            @include loader-horizontal(-1920px);
         }
     }
 
 // ----------------------------------------------------------------------------------------------------
 
     .loader-circle--small {
-        @include circle(50px, 50px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-50px, rgba(252, 252, 252, 0.918));
+        @include circle(50px, 50px);
+        .loader-horizontal {
+            @include loader-horizontal(-50px);
         }
     }
 
     .loader-circle--medium {
-        @include circle(100px, 100px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-100px, rgba(252, 252, 252, 0.918));
+        @include circle(100px, 100px);
+        .loader-horizontal {
+            @include loader-horizontal(-100px);
         }
     }
 
     .loader-circle--big {
-        @include circle(250px, 250px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-250px, rgba(252, 252, 252, 0.918));
+        @include circle(250px, 250px);
+        .loader-horizontal {
+            @include loader-horizontal(-250px);
         }
     }
 
 // ----------------------------------------------------------------------------------------------------
 
-    .loader-square--small {
-        @include square(500px , 200px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+.loader-square--tiny {
+    @include square(500px , 64px);
+    .loader-horizontal {
+        @include loader-horizontal(-300px);
+    }
+}
+
+.loader-square--small {
+        @include square(500px , 100px);
+        .loader-horizontal {
+            @include loader-horizontal(-600px);
         }
     }
 
     .loader-square--medium {
-        @include square(500px , 400px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+        @include square(500px , 200px);
+        .loader-horizontal {
+            @include loader-horizontal(-600px);
         }
     }
     .loader-square--big {
-        @include square(500px , 700px,linear-gradient(180deg, rgba(229,229,229,1) 0%, rgba(229,229,229,0) 100%));
-        .loader-vertical {
-            @include loader-vertical(-600px, rgba(252, 252, 252, 0.918));
+        @include square(500px , 500px);
+        .loader-horizontal {
+            @include loader-horizontal(-600px);
+        }
+    }
+    .loader-square--full {
+        @include square(100%, 700px);
+        .loader-horizontal {
+            @include loader-horizontal(-600px);
         }
     }
 

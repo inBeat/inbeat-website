@@ -17,20 +17,7 @@
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section id="engagement-calculator" class="container mobile-adjusted">
-        <div id="skeleton-loader">
-            <div class="loader-bar--tiny"><div class="loader-horizontal"></div></div>
-            <div class="loader-bar--small"><div class="loader-horizontal"></div></div>
-            <div class="loader-bar--medium"><div class="loader-horizontal"></div></div>
-            <div class="loader-bar--regular"><div class="loader-horizontal"></div></div>
-            <div class="loader-bar--big"><div class="loader-horizontal"></div></div>
-            <div class="loader-bar--full"><div class="loader-horizontal"></div></div>
-            <div class="loader-circle--small"><div class="loader-vertical"></div></div>
-            <div class="loader-circle--medium"><div class="loader-vertical"></div></div>
-            <div class="loader-circle--big"><div class="loader-vertical"></div></div>
-            <div class="loader-square--small"><div class="loader-vertical"></div></div>
-            <div class="loader-square--medium"><div class="loader-vertical"></div></div>
-            <div class="loader-square--big"><div class="loader-vertical"></div></div>
-        </div>
+       
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
@@ -47,10 +34,41 @@
         </div>
 
         {{- end -}}
-
+        <transition name="" mode="">
+                        <div id="skeleton-loader" class="engagement-loader card row section" v-if="loading && !user">
+                            <div class="loading-bar--container">
+                                <div class="loading-bar">
+                                    <div> <p class="text">Fetching Profile</p></div>
+                                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
+                                </div>
+                            </div>
+                <div class="col-lg-4 ">
+                    <div class="loader-circle--medium loader-center"><div class="loader-horizontal"></div></div>
+                    <div class="col-lg-6 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
+                    <div class="col-lg-8 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
+                    <div class="col-lg-8 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
+                    <div class="col-lg-12 loader-center"><div class="loader-square--tiny "><div class="loader-horizontal"></div></div></div>
+                </div>
+                <div class="col-lg-8 ">
+                    <div class="row">
+                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
+                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
+                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6"><div class="loader-square--medium"><div class="loader-horizontal"></div></div></div>
+                        <div class="col-lg-6"><div class="loader-square--medium"><div class="loader-horizontal"></div></div></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12"><div class="loader-square--big"><div class="loader-horizontal"></div></div></div>
+                    </div>
+                </div>
+            </div>
+        </transition>
         <transition name="slide-fade" mode="out-in">
             <p v-if="error" class="error">{ error }</p>
         <div id="engagement-result" class="card row section" v-else-if="!loading && user">
+
             <div class="col-xs-12 col-md-4 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
@@ -234,6 +252,17 @@
         },
         mounted() {},
         methods: {
+            handleEvent(e) {
+                var progressBar = document.getElementById("progress")
+                progressBar.style.width = 0 + "%";
+
+                if (e.lengthComputable) {
+                    var ratio = Math.floor((e.loaded / e.total) * 100) + '%';
+                    progressBar.style.width = ratio;
+                    console.log(ratio);
+                }
+                console.log('e.loaded', e.loaded);
+            },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
@@ -394,6 +423,10 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
+                request.addEventListener('progress', this.handleEvent);
+                request.addEventListener('loadstart', this.handleEvent);
+                request.addEventListener('load', this.handleEvent);
+                request.addEventListener('loadend', this.handleEvent);
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -408,13 +441,17 @@
                         return
                     }
                     var res = JSON.parse(request.response);
-                    _this.user = res.user;
-                    _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
-                    _this.datasetLikes = res.posts.map(post => post.likes);
-                    _this.datasetComments = res.posts.map(post => post.comments);
-                    _this.error = null;
-                    _this.loading = false;
+                    setTimeout(function(){
+                        _this.user = res.user;
+                        _this.posts = res.posts;
+                        _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                        _this.datasetLikes = res.posts.map(post => post.likes);
+                        _this.datasetComments = res.posts.map(post => post.comments);
+                        _this.error = null;
+                        _this.loading = false;
+                    }, 1000);
+
+                    //_this.loading = false;
                     _this.getFirstData = true;
                 };
                 request.onerror = function() {
