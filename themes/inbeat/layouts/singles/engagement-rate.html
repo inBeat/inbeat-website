@@ -34,37 +34,33 @@
         </div>
 
         {{- end -}}
-        <transition name="" mode="">
-                        <div id="skeleton-loader" class="engagement-loader card row section" v-if="loading && !user">
-                            <div class="loading-bar--container">
-                                <div class="loading-bar">
-                                    <div> <p class="text">Fetching Profile</p></div>
-                                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
-                                </div>
-                            </div>
-                <div class="col-lg-4 ">
-                    <div class="loader-circle--medium loader-center"><div class="loader-horizontal"></div></div>
-                    <div class="col-lg-6 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
-                    <div class="col-lg-8 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
-                    <div class="col-lg-8 loader-center"><div class="loader-bar--tiny "><div class="loader-horizontal"></div></div></div>
-                    <div class="col-lg-12 loader-center"><div class="loader-square--tiny "><div class="loader-horizontal"></div></div></div>
-                </div>
-                <div class="col-lg-8 ">
-                    <div class="row">
-                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
-                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
-                        <div class="col-lg-4"><div class="loader-square--small"><div class="loader-horizontal"></div></div></div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6"><div class="loader-square--medium"><div class="loader-horizontal"></div></div></div>
-                        <div class="col-lg-6"><div class="loader-square--medium"><div class="loader-horizontal"></div></div></div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-12"><div class="loader-square--big"><div class="loader-horizontal"></div></div></div>
-                    </div>
+
+        <div id="skeleton-loader" class="engagement-loader card row section"  v-if="loading && !user">
+            <div class="loading-bar--container">
+                <div class="loading-bar">
+                    <div> <p class="text">Fetching Profile</p></div>
+                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
                 </div>
             </div>
-        </transition>
+            <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="loader-circle--medium loader-center"></div>
+                <div class="col-md-6 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-12 loader-center"><div class="loader-square--tiny"></div></div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-xs-12">
+                <div class="row">
+                    <div class="col-xs-4"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-4"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-4"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--full"></div></div>
+                </div>
+            </div>
+        </div>
+
         <transition name="slide-fade" mode="out-in">
             <p v-if="error" class="error">{ error }</p>
         <div id="engagement-result" class="card row section" v-else-if="!loading && user">
@@ -254,7 +250,7 @@
         methods: {
             handleEvent(e) {
                 var progressBar = document.getElementById("progress")
-                progressBar.style.width = 0 + "%";
+                progressBar.style.width = 10 + "%";
 
                 if (e.lengthComputable) {
                     var ratio = Math.floor((e.loaded / e.total) * 100) + '%';
