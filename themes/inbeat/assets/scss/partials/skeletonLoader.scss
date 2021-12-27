@@ -90,9 +90,9 @@ $skeleton-element-color:  hsla(0, 0%, 90%, 1);
 
 	// ----------------------------------------------------------------------------------------------------
 
-  .loader-bar {
-    @include bar;
-  }
+	.loader-bar {
+		@include bar;
+	}
 	.loader-circle--small {
 		@include circle(50px, 50px);
 	}
@@ -106,10 +106,10 @@ $skeleton-element-color:  hsla(0, 0%, 90%, 1);
 		@include square(500px, 64px);
 	}
 	.loader-square--small {
-		@include square(500px, 100px);
+		@include square(500px, 120px);
 	}
 	.loader-square--medium {
-		@include square(500px, 150px);
+		@include square(500px, 180px);
 	}
 	.loader-square--big {
 		@include square(500px, 250px);

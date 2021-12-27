@@ -49,6 +49,18 @@
 }
 
 #collaboration-cost-calculator {
+    .collaboration-loader{
+        padding: 50px !important;
+       .data{
+           margin-top: 50px;
+           div{
+               margin-top: 25px;
+           }
+       }
+       .loader-square--medium, .loader-square--big{
+           margin-top: 22px;
+       }
+    }
     .card {
         border: 1px solid #dcdcdc;
         box-sizing: border-box;
