@@ -7,7 +7,7 @@
         <div class="col-xs-12 posts-list-title">
             <p>Featured</p>
         </div>
-        {{- range first 3 (where .Pages ".Params.unlisted" "!=" true) -}}
+        {{- range first 6 (where .Pages ".Params.unlisted" "!=" true) -}}
         {{- partial "site/post.html" . $ -}}
         {{- end -}}
     </div>
@@ -20,6 +20,27 @@
             <p>Tips</p>
         </div>
         {{- range .Site.Taxonomies.categories.tips -}}
+        <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="post">
+                <p class="title">
+                    <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+                </p>
+                {{- $author := index .Params.authors 0 -}}
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</p>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+{{- end -}}
+
+{{- if (isset .Site.Taxonomies.categories "guides") -}}
+<section class="container mobile-adjusted post-list guides">
+    <div class="row">
+        <div class="col-xs-12 posts-list-title">
+            <p>Guides</p>
+        </div>
+        {{- range .Site.Taxonomies.categories.guides -}}
         <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="post">
                 <p class="title">

@@ -110,6 +110,12 @@
             </div>
         </div>
     </div>
+{{$url := print "/articles/" .File.BaseFileName "/"}}
+    {{ if and (eq .Page.RelPermalink $url) }}
+        <div class="progress-bar--container">
+            <div class="progress-bar"></div>
+        </div>
+    {{ end }}
 </div>
 <div id="menu-overlay">
     <ul>
