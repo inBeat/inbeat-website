@@ -248,16 +248,22 @@
         },
         mounted() {},
         methods: {
-            handleEvent(e) {
+           handleEvent(e) {
                 var progressBar = document.getElementById("progress")
-                progressBar.style.width = 10 + "%";
-
                 if (e.lengthComputable) {
-                    var ratio = Math.floor((e.loaded / e.total) * 100) + '%';
+                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
+                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
                     progressBar.style.width = ratio;
-                    console.log(ratio);
+                    console.log('e.loadend', e.loadend);
+                    if(e.type === "loadend" ){
+                        setTimeout(() => {
+                            progressBar.style.width = 100 + "%";
+                            setTimeout(() => {
+                                this.loading = false;
+                            }, 1000);
+                        }, 2000);
+                    }
                 }
-                console.log('e.loaded', e.loaded);
             },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
@@ -404,7 +410,7 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
-            submit() {
+            async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
@@ -421,7 +427,6 @@
                 request.setRequestHeader('Content-Type', 'application/json');
                 request.addEventListener('progress', this.handleEvent);
                 request.addEventListener('loadstart', this.handleEvent);
-                request.addEventListener('load', this.handleEvent);
                 request.addEventListener('loadend', this.handleEvent);
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
@@ -443,11 +448,6 @@
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
-                    setTimeout(function(){
-                        _this.loading = false;
-                    }, 1500);
-
-                    //_this.loading = false;
                     _this.getFirstData = true;
                 };
                 request.onerror = function() {
