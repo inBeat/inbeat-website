@@ -20,6 +20,7 @@
     max-width: 700px;
     margin: 50px auto 60px;
     text-align: center;
+
     input {
         background: transparent;
         width: 90%;
@@ -49,6 +50,12 @@
 }
 
 #engagement-calculator {
+    
+    .engagement-loader{
+        .loader-square--tiny{
+            margin-top: 35px;
+        }
+    }
     .card {
         border: 1px solid #dcdcdc;
         box-sizing: border-box;

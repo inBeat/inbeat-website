@@ -29,9 +29,35 @@
             </button>
         </div>
         {{- end -}}
+
+        <div id="skeleton-loader" class="collaboration-loader card row section"  v-if="loading">
+            <div class="loading-bar--container">
+                <div class="loading-bar">
+                    <div> <p class="text">Fetching Profile</p></div>
+                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xs-12">
+                <div class="loader-circle--medium loader-center"></div>
+                <div class="col-md-4 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-3 loader-center"><div class="loader-bar"></div></div>
+                <div class="data">
+                    <div class="col-md-12 loader-center"><div class="loader-square--medium"></div></div>
+                    <div class="col-md-12 loader-center"><div class="loader-square--big"></div></div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xs-12">
+                <div class="row">
+                    <div class="col-lg-4"><div class="loader-bar"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--big"></div></div>
+                </div>
+            </div>
+        </div>
 <transition name="slide-fade" mode="out-in">
     <p v-if="error" class="error">{ error }</p>
-    <div id="cost-calculator-result" class="card row" v-else-if="!loading && user">
+    <div id="cost-calculator-result" class="card row" v-else-if="!loading">
         <div class="col-xs-12 col-md-6 profile-info">
             <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
             <p class="username" @click="openProfile">@{ user.username }</p>
@@ -222,6 +248,23 @@
             this.initialSearch = false;
         },
         methods: {
+            handleEvent(e) {
+                var progressBar = document.getElementById("progress")
+                if (e.lengthComputable) {
+                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
+                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
+                    progressBar.style.width = ratio;
+                    console.log('e.loadend', e.loadend);
+                    if(e.type === "loadend" ){
+                        setTimeout(() => {
+                            progressBar.style.width = 100 + "%";
+                            setTimeout(() => {
+                                this.loading = false;
+                            }, 1000);
+                        }, 2000);
+                    }
+                }
+            },
             getInfluencerBadge(nbFollowers){
                 if(nbFollowers > 1 && nbFollowers < 10000)
                     return 'Nano Influencer';
@@ -268,6 +311,11 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
+                request.addEventListener('progress', this.handleEvent);
+                request.addEventListener('loadstart', this.handleEvent);
+                request.addEventListener('load', this.handleEvent);
+                request.addEventListener('loadend', this.handleEvent);
+                request.setRequestHeader('Content-Type', 'application/json');
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -290,7 +338,6 @@
                     _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers);
                     _this.updateFullPrice();
                     _this.error = null;
-                    _this.loading = false;
                 };
                 request.onerror = function() {
                     console.log(request.response);

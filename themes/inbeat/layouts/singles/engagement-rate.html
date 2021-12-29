@@ -10,12 +10,14 @@
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
 <div id="engagement-rate">
+
     {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}}
     <section class="container mobile-adjusted page-top" id="engagement-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section id="engagement-calculator" class="container mobile-adjusted">
+       
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
@@ -33,9 +35,36 @@
 
         {{- end -}}
 
+        <div id="skeleton-loader" class="engagement-loader card row section"  v-if="loading">
+            <div class="loading-bar--container">
+                <div class="loading-bar">
+                    <div> <p class="text">Fetching Profile</p></div>
+                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12">
+                <div class="loader-circle--medium loader-center"></div>
+                <div class="col-md-6 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-md-12 loader-center"><div class="loader-square--tiny"></div></div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-xs-12">
+                <div class="row">
+                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
+                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
+                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
+                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--full"></div></div>
+                </div>
+            </div>
+        </div>
+
         <transition name="slide-fade" mode="out-in">
             <p v-if="error" class="error">{ error }</p>
-        <div id="engagement-result" class="card row section" v-else-if="!loading && user">
+        <div id="engagement-result" class="card row section" v-else-if="!loading">
+
             <div class="col-xs-12 col-md-4 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
@@ -219,6 +248,23 @@
         },
         mounted() {},
         methods: {
+           handleEvent(e) {
+                var progressBar = document.getElementById("progress")
+                if (e.lengthComputable) {
+                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
+                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
+                    progressBar.style.width = ratio;
+                    console.log('e.loadend', e.loadend);
+                    if(e.type === "loadend" ){
+                        setTimeout(() => {
+                            progressBar.style.width = 100 + "%";
+                            setTimeout(() => {
+                                this.loading = false;
+                            }, 1000);
+                        }, 2000);
+                    }
+                }
+            },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
@@ -364,7 +410,7 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
-            submit() {
+            async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
@@ -379,6 +425,9 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
+                request.addEventListener('progress', this.handleEvent);
+                request.addEventListener('loadstart', this.handleEvent);
+                request.addEventListener('loadend', this.handleEvent);
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -399,7 +448,6 @@
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
-                    _this.loading = false;
                     _this.getFirstData = true;
                 };
                 request.onerror = function() {
