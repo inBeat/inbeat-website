@@ -248,23 +248,6 @@
         },
         mounted() {},
         methods: {
-           handleEvent(e) {
-                var progressBar = document.getElementById("progress")
-                if (e.lengthComputable) {
-                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
-                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
-                    progressBar.style.width = ratio;
-                    console.log('e.loadend', e.loadend);
-                    if(e.type === "loadend" ){
-                        setTimeout(() => {
-                            progressBar.style.width = 100 + "%";
-                            setTimeout(() => {
-                                this.loading = false;
-                            }, 1000);
-                        }, 2000);
-                    }
-                }
-            },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
@@ -425,9 +408,6 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
-                request.addEventListener('progress', this.handleEvent);
-                request.addEventListener('loadstart', this.handleEvent);
-                request.addEventListener('loadend', this.handleEvent);
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -441,6 +421,7 @@
                         _this.loading = false;
                         return
                     }
+                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
@@ -449,6 +430,12 @@
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
+                    setTimeout(() => {
+                        document.getElementById("progress").style.width = 100 + "%";
+                        setTimeout(() => {
+                            _this.loading = false;
+                        }, 1000);
+                    }, 2000);
                 };
                 request.onerror = function() {
                     console.log(request.response);
@@ -456,6 +443,7 @@
                     _this.loading = false;
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                
                 if(!this.getCookie('erc-submit') && this.getFirstData === true){
                     document.getElementById('banner').style.pointerEvents= 'none';
                     request.addEventListener('loadend', (() =>{
