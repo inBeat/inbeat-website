@@ -9,9 +9,9 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-<div id="engagement-rate">
+<div id="fake-follower-checker">
 
-    {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}}
+    <!-- {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}} -->
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
@@ -29,7 +29,7 @@
             {{- end -}}
             <button type="submit" @click="submit">
                 <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
-                <span v-else>Check Profile</span>
+                <span v-else>Check Followers</span>
             </button>
         </div>
 
@@ -65,99 +65,75 @@
             <p v-if="error" class="error">{ error }</p>
         <div id="ffc-result" class="card row section" v-else-if="!loading">
 
-            <div class="col-xs-12 col-md-4 profile-info">
+            <div class="col-xs-12 col-md-6 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
-                <span class="contact" style="text-decoration: underline">
-                    Contact info { user.has_email ? '' : 'not' } available
+                <span class="tag tag--verypoor">
+                   Score - Very poor
                 </span>
+                <div class="audience-score row ">
+                    <div class="gauge-wrapper card">
+                        <div>
+                            <p class="score">{ audienceScore }<br> <span>Audience Score</span></p>
+                        </div>
+                            
+                     
+                        <svg viewBox="-100 0 500 200"  fill="none">
+                        <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
+                        <path id="gauge" fill="none" stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
+                        <g filter="url(#filter0_d_2410_5728)" >
+                            <circle cx="17.5" cy="13.5" r="8.5" fill="white" id="circle"/>
+                        </g>
+                   
+                        
+                        <defs>
+                            <linearGradient id="paint0_linear_2410_5725" x1="6" y1="123" x2="240" y2="123" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#FFE9F0"/>
+                                <stop offset="0.510417" stop-color="#FAECDB"/>
+                                <stop offset="1" stop-color="#D6EBE4"/>
+                            </linearGradient>
+                            <filter id="filter0_d_2410_5728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                                <feOffset dy="4"/>
+                                <feGaussianBlur stdDeviation="4.5"/>
+                                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+                                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2410_5728"/>
+                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2410_5728" result="shape"/>
+                            </filter>
+                        </defs>
+                    </svg></div>
+                    
+                </div>
                 <div class="stats row">
-                    <div class="col-xs-4">
-                        <p>{ formatFollowing(user.followers) }</p>
-                        <span>Followers</span>
-                    </div>
-                    <div class="col-xs-4">
-                        <p>{ formatFollowing(user.following) }</p>
-                        <span>Following</span>
-                    </div>
-                    <div class="col-xs-4">
-                        {{- if $forInstagram -}}
-                        <p>{ user.nb_posts }</p>
-                        <span>Posts</span>
-                        {{- else -}}
-                        <p>{ formatLikes(parseInt(user.total_likes || 0, 10)) }</p>
-                        <span>Likes</span>
-                        {{- end -}}
+                    <div class="card col-md-12 p-tb-60">
+                        <div class="row">
+                            <div class="followers col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/followers.html" -}}
+                                <p>{ formatFollowing(user.followers) }</p>
+                                <span>Followers</span>
+                            </div>
+                            <div class="engagement col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/engagement.html" -}}
+                                <p>{ user.engagement.toFixed(2) }%</p>
+                                <span>Engagement Rate</span>
+                            </div>
+                            <div class="likes col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/heart.html" -}}
+                                <p>{ formatNb(user.avg_likes) }</p>
+                                <span>Avg. Likes</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <a href="https://app.inbeat.co/get-started" class="btn btn-md btn-crazy" target="_blank">
-                    Find similar influencers
-                </a>
             </div>
-            <div class="col-xs-12 col-md-8 posts-info">
+            <div class="col-xs-12 col-md-12 posts-info">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-4 stats engagement">
-                        <div class="card">
-                            {{- partial "icons/engagement.html" -}}
-                            <p>{ user.engagement.toFixed(2) }%</p>
-                            <span>Engagement Rate</span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-4 stats likes">
-                        <div class="card">
-                            {{- partial "icons/heart.html" -}}
-                            <p>{ formatLikes(user.avg_likes) }</p>
-                            <span>Avg. Likes</span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6 col-sm-4 stats comments">
-                        <div class="card">
-                            {{- if $forInstagram -}}
-                            {{- partial "icons/comment.html" -}}
-                            <p>{ Math.round(user.comments_per_likes * 1000) }</p>
-                            <span>Comments per 1000 Likes</span>
-                            {{- else -}}
-                            {{- partial "icons/play.html" -}}
-                            <p>{ formatLikes(user.avg_views) }</p>
-                            <span>Avg. Views</span>
-                            {{- end -}}
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-md-6 graph">
-                        <div class="card">
-                            <p>Likes per post</p>
-                            <svg style="width:0; height:0; position:absolute;" aria-hidden="true" focusable="false">
-                                <defs>
-                                    <linearGradient id="graphFill" x1="1" x2="1" y1="0" y2="1">
-                                        <stop offset="0%" stop-color="#E7AEC0"></stop>
-                                        <stop offset="100%" stop-color="#FAECDB"></stop>
-                                    </linearGradient>
-                                </defs>
-                            </svg>
-                            <trend-chart
-                                v-if="datasetLikes.length"
-                                :datasets="[{data: datasetLikes, fill: true, className: 'curve-inbeat', smooth: true}]"
-                                :labels="labels"
-                                :min="0"
-                                :grid="grid" />
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-md-6 graph">
-                        <div class="card">
-                            <p>Comments per post</p>
-                            <trend-chart
-                                v-if="datasetComments.length"
-                                :datasets="[{data: datasetComments, fill: true, className: 'curve-inbeat', smooth: true}]"
-                                :labels="labels"
-                                :min="0"
-                                :grid="grid" />
-                        </div>
-                    </div>
                     <div class="col-xs-12 col-md-12 posts">
                         <div class="card">
-                            <p class="card-title">Recent posts</p>
+                            <p class="card-title">Latest Audience Engagement</p>
                             <div class="row">
-                                <div class="col-xs-6 col-sm-4 col-md-3" v-for="post in posts.slice(0, 8)" :key="post.url">
+                                <div class="col-xs-6 col-sm-4 col-md-2" v-for="post in posts.slice(0, 6)" :key="post.url">
                                     <div class="post" @click="openPost(post.url)">
                                         <div class="img" :style="`background-image: url(${post.image})`">
                                             <div class="views" v-if="post.is_video">
@@ -176,27 +152,14 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-12">
+                <p class="subtext col-md-6">We use the avg. likes & comments then compare them to industry standards by following size. This calculator does not analyse followers, so the audience score is an estimation.</p>
+            </div>
         </div>
+       
     </transition>
 </section>
-<section class="container m-tb-160 mobile-adjusted" id="start-now">
-    <div class="row">
-        <div class="col-xs-12 col-sm-4 col1">
-            <h2>Find more influencers</h2>
-            <h4>Search thousands of influencers with inBeat</h4>
-            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
-                <span>Try it now</span> &#8212 it's free
-            </a>
-            <p class="signin">
-                Already in the family?
-                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
-            </p>
-        </div>
-        <div class="col-xs-12 col-sm-offset-1 col-sm-7 hide-sm align-right">
-            {{- partial "icons/engagement-img.html" -}}
-        </div>
-    </div>
-</section>
+{{- partial "site/whatwedo.html" . -}}
 </div>
 {{- if $forInstagram -}}
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
@@ -213,7 +176,7 @@
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#engagement-rate',
+        el: '#fake-follower-checker',
         data() {
             return {
                 username: '',
@@ -222,6 +185,7 @@
                 datasetLikes: [],
                 datasetComments: [],
                 getFirstData: false,
+                audienceScore: 0,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -248,22 +212,29 @@
         },
         mounted() {},
         methods: {
-           handleEvent(e) {
-                var progressBar = document.getElementById("progress")
-                if (e.lengthComputable) {
-                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
-                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
-                    progressBar.style.width = ratio;
-                    console.log('e.loadend', e.loadend);
-                    if(e.type === "loadend" ){
-                        setTimeout(() => {
-                            progressBar.style.width = 100 + "%";
-                            setTimeout(() => {
-                                this.loading = false;
-                            }, 1000);
-                        }, 2000);
-                    }
-                }
+            polarToCartesian(centerX, centerY, radius, angleInDegrees) {
+              var angleInRadians = (angleInDegrees+180) * Math.PI / 180.0;
+
+              return {
+                x: centerX + (radius * Math.cos(angleInRadians)),
+                y: centerY + (radius * Math.sin(angleInRadians))
+              };
+            },
+            describeArc(x, y, radius, startAngle, endAngle){
+
+                var start = this.polarToCartesian(x, y, radius, endAngle);
+                var end = this.polarToCartesian(x, y, radius, startAngle);
+                console.log('end', end);
+
+                var largeArcFlag = endAngle - startAngle <= 180 ? "0" : "1";
+
+                var d = [
+                    "M", start.x, start.y, 
+                    "A", radius, radius, 0, largeArcFlag, 0, end.x, end.y
+                ].join(" ");
+                document.getElementById("circle").setAttribute("cx", start.x);
+                document.getElementById("circle").setAttribute("cy", start.y);
+                return d;       
             },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
@@ -410,6 +381,9 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
+            userAudience(score){                
+                 document.getElementById("gauge").setAttribute("d", this.describeArc(150, 160, 125, 0, score));
+            },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
@@ -425,9 +399,7 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
-                request.addEventListener('progress', this.handleEvent);
-                request.addEventListener('loadstart', this.handleEvent);
-                request.addEventListener('loadend', this.handleEvent);
+
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -441,6 +413,7 @@
                         _this.loading = false;
                         return
                     }
+                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
@@ -449,6 +422,17 @@
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
+                    _this.loading = false;
+                 
+                    setTimeout(() => {
+
+                        _this.userAudience(180);
+                        //document.getElementById("progress").style.width = 100 + "%";
+                        setTimeout(() => {
+                            //_this.loading = false;
+                           // _this.userAudience(90);
+                        }, 1000);
+                    }, 0);
                 };
                 request.onerror = function() {
                     console.log(request.response);
@@ -456,12 +440,14 @@
                     _this.loading = false;
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-                if(!this.getCookie('erc-submit') && this.getFirstData === true){
+
+                //disable form popup for now
+                /*if(!this.getCookie('erc-submit') && this.getFirstData === true){
                     document.getElementById('banner').style.pointerEvents= 'none';
                     request.addEventListener('loadend', (() =>{
                         setTimeout(function(){ this.togglePopup('formPopup'); }, 500);
                     }));
-                }
+                }*/
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
@@ -475,6 +461,29 @@
                 return `${newNb / 100}M`;
                 },
             formatLikes(nb) {
+                if (nb < 1000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 10000) {
+                    var newNb = Math.ceil(nb / 10);
+                    return `${newNb / 100}k`;
+                }
+                if (nb < 100000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                if (nb < 1000000) {
+                    return `${Math.ceil(nb / 1000)}k`;
+                }
+                if (nb < 10000000) {
+                    var newNb = Math.ceil(nb / 10000);
+                    return `${newNb / 100}M`;
+                }
+                // if nb = 3 415 786 -> 3.42M
+                var newNb = Math.ceil(nb / 100000);
+                return `${newNb / 10}M`;
+            },
+            formatNb(nb) {
                 if (nb < 1000) {
                     return Math.ceil(nb);
                 }
