@@ -248,23 +248,6 @@
             this.initialSearch = false;
         },
         methods: {
-            handleEvent(e) {
-                var progressBar = document.getElementById("progress")
-                if (e.lengthComputable) {
-                    var percent = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
-                    var ratio = Math.floor((e.loaded / e.total) * percent) + '%';
-                    progressBar.style.width = ratio;
-                    console.log('e.loadend', e.loadend);
-                    if(e.type === "loadend" ){
-                        setTimeout(() => {
-                            progressBar.style.width = 100 + "%";
-                            setTimeout(() => {
-                                this.loading = false;
-                            }, 1000);
-                        }, 2000);
-                    }
-                }
-            },
             getInfluencerBadge(nbFollowers){
                 if(nbFollowers > 1 && nbFollowers < 10000)
                     return 'Nano Influencer';
@@ -311,10 +294,6 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
-                request.addEventListener('progress', this.handleEvent);
-                request.addEventListener('loadstart', this.handleEvent);
-                request.addEventListener('load', this.handleEvent);
-                request.addEventListener('loadend', this.handleEvent);
                 request.setRequestHeader('Content-Type', 'application/json');
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
@@ -329,6 +308,7 @@
                         _this.loading = false;
                         return
                     }
+                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
@@ -338,6 +318,12 @@
                     _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers);
                     _this.updateFullPrice();
                     _this.error = null;
+                    setTimeout(() => {
+                        document.getElementById("progress").style.width = 100 + "%";
+                        setTimeout(() => {
+                            _this.loading = false;
+                        }, 1000);
+                    }, 2000);
                 };
                 request.onerror = function() {
                     console.log(request.response);
