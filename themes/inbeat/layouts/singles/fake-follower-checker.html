@@ -42,14 +42,14 @@
                     <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12">
+            <div class="col-lg-6 col-md-4 col-xs-12">
                 <div class="loader-circle--medium loader-center"></div>
+                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
                 <div class="col-md-6 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-12 loader-center"><div class="loader-square--tiny"></div></div>
+                <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                <div class="col-xs-12"><div class="loader-square--medium"></div></div>
             </div>
-            <div class="col-lg-8 col-md-8 col-xs-12">
+            <div class="col-lg-6 col-md-8 col-xs-12">
                 <div class="row">
                     <div class="col-xs-4"><div class="loader-square--small"></div></div>
                     <div class="col-xs-4"><div class="loader-square--small"></div></div>
@@ -74,7 +74,7 @@
                 <div class="audience-score row ">
                     <div class="gauge-wrapper card">
                         <div>
-                            <p class="score">{ audienceScore }<br> <span>Audience Score</span></p>
+                            <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
                         </div>
                         <svg viewBox="-100 0 500 200"  fill="none">
                         <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
@@ -129,24 +129,24 @@
                         <div class="card ratio-followers">
                             <div class="row">
                                 <div class="col-md-4 real-followers">
-                                    <p>8,000</p><span>Real Followers ≈</span>
+                                    <p>{ formatNb(realFollowersValue)}</p><span>Real Followers ≈</span>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="percent">{ followersPercent }</p>
+                                    <p class="percent">{ realFollowersPercent }</p>
                                     <div class="data-progressbar">
-                                        <span id="followers-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':followersPercent}"></span>
+                                        <span id="followers-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':realFollowersPercent}"></span>
                                     </div>
                                 </div>
                             </div>
                             <hr>
                             <div class="row">
                                 <div class="col-md-4 inactive-foll">
-                                    <p>300</p><span>Inactive Foll. ≈</span>
+                                    <p>{inactiveFollowersValue}</p><span>Inactive Foll. ≈</span>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="percent">{ inactivePercent }</p>
+                                    <p class="percent">{ inactiveFollowersPercent }</p>
                                     <div class="data-progressbar">
-                                        <span id="inactive-data-progress" class="data-progressbar--fill" style="background-color:#000000" :style="{'width':inactivePercent}"></span>
+                                        <span id="inactive-data-progress" class="data-progressbar--fill" style="background-color:#000000" :style="{'width':inactiveFollowersPercent}"></span>
                                     </div>
                                 </div>
                             </div>
@@ -158,24 +158,24 @@
                         <div class="card ratio-average">
                             <div class="row">
                                 <div class="col-md-4 average-likes">
-                                    <p>8,500</p><span>Average likes</span>
+                                    <p>{ formatNb(user.avg_likes) }</p><span>Average likes</span>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="percent">Target: { likesTarget }</p>
+                                    <p class="percent">Target: { formatNb(likesTarget) }</p>
                                     <div class="data-progressbar">
-                                        <span id="likesTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7AEC0" :style="{'width':likesTarget}"></span>
+                                        <span id="likesTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7AEC0" :style="{'width':likesTargetPercent }"></span>
                                     </div>
                                 </div>
                             </div>
                             <hr>
                             <div class="row">
                                 <div class="col-md-4 average-comments">
-                                    <p>30</p><span>Average comments</span>
+                                    <p>{ user.comments_per_likes.toFixed(2)*100 }%</p><span>Comments/Likes</span>
                                 </div>
                                 <div class="col-md-8">
-                                    <p class="percent">Target: { followersTarget }</p>
+                                    <p class="percent">Target: { commentsLikesTarget.toFixed(0) }%</p>
                                     <div class="data-progressbar">
-                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':followersTarget}"></span>
+                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':commentsLikesTargetPercent}"></span>
                                     </div>
                                 </div>
                             </div>
@@ -240,20 +240,21 @@
                 datasetComments: [],
                 getFirstData: false,
                 audienceScore: 0,
+                audienceScoreTag: '',
                 arcStyle : 0,
-                followersPercent: 0,
-                inactivePercent: 0,
                 likesTarget: 0,
-                followersTarget: 0,
+                likesTargetPercent: 0,
+                commentsLikesTarget: 0,
+                commentsLikesTargetPercent: 0,
                 GaugeCircle: {
                     x: 0,
                     y: 0
                 },
                 scoreArc : 0,
-                realFollowersValue: 8000,
-                inactiveFollowersValue: 300,
-                averageLikesValue:800,
-                averageCommentsValue:800,
+                realFollowersValue: 0,
+                realFollowersPercent: 0,
+                inactiveFollowersValue: 0,
+                inactiveFollowersPercent: 0,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -450,31 +451,45 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
-            setRealFollowers(followers, inactive){
-                this.followersPercent = followers + '%';
-                this.inactivePercent = inactive + '%';
+            setTargetMetric(target){
+                const percent = (value, target) => (value * 100) / target;
+                var type = this.userType(this.user.followers);
+                this.likesTarget = type.likes_follower * this.user.followers;
+                this.likesTargetPercent = percent(this.user.avg_likes, this.likesTarget) + '%'
+                this.commentsLikesTarget = type.comments_likes*100;
+                this.commentsLikesTargetPercent = this.clamp((this.user.comments_per_likes/type.comments_likes)*100, 0 ,100) + '%'
             },
-            setAverageVsTarget(likesTarget, followersTarget){
-                this.likesTarget = likesTarget + '%';
-                this.followersTarget = followersTarget + '%';
+            setFinalMetric(){
+                this.realFollowersValue = (this.userScore() / 100  ) * this.user.followers;
+                this.realFollowersPercent = this.formatNb(this.userScore()) + '%';
+                this.inactiveFollowersPercent = ((100 - this.userScore())).toFixed(0) +'%';
+                this.inactiveFollowersValue = this.formatNb(this.user.followers -  this.realFollowersValue);
             },
-            getRatioFollowers(){
-
+            userScore(){
+                var l = (this.user.avg_likes *100) / this.likesTarget;
+                console.log('l', l);
+                var c = (this.user.comments_per_likes * 100) / this.userType(this.user.followers).comments_likes;
+                console.log('c', c);
+                console.log('l + c / 2', (l + c) / 2);
+                return (l + c) / 2;
             },
-            getRatioAverage(){
-
+            clamp(num, min, max){
+                return Math.min(Math.max(num, min), max);
             },
-            getInfluencerBadgeValue(nbFollowers){
-                if(nbFollowers > 1 && nbFollowers < 10000)
-                    return 'Nano Influencer';
-                if(nbFollowers >= 10000 && nbFollowers < 50000)
-                    return 'Micro Influencer';
-                if(nbFollowers >= 50000 && nbFollowers < 300000)
-                    return 'Mid-Tier Influencer';
-                if(nbFollowers >= 300000 && nbFollowers < 1000000)
-                    return 'Mid-Tier Influencer';
-                if(nbFollowers >= 1000000)
-                    return 'Mega Influencer';
+            remap(x, inMin, inMax, outMin, outMax){
+                return (x - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
+            },
+            userType(nbFollowers){
+                    if(nbFollowers > 1 && nbFollowers < 10000)
+                        return {'likes_follower': 0.07, 'comments_likes': 0.22};
+                    if(nbFollowers >= 10000 && nbFollowers < 50000)
+                    return {'likes_follower': 0.05, 'comments_likes': 0.17};
+                    if(nbFollowers >= 50000 && nbFollowers < 300000)
+                    return {'likes_follower': 0.04, 'comments_likes': 0.11};
+                    if(nbFollowers >= 300000 && nbFollowers < 1000000)
+                    return {'likes_follower': 0.03, 'comments_likes': 0.07};
+                    if(nbFollowers >= 1000000)
+                    return {'likes_follower': 0.02, 'comments_likes': 0.05};
             },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
@@ -519,9 +534,12 @@
                         document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
                             _this.loading = false;
-                            _this.arcStyle = _this.describeArc(150, 160, 125, 0, 120);
-                            _this.realFollowers = _this.setRealFollowers(50,20)
-                            _this.averageVsTarget = _this.setAverageVsTarget(50,50)
+                            _this.setTargetMetric();
+                            _this.setFinalMetric();
+                            _this.audienceScore =  _this.clamp(_this.userScore() / 10, 0, 10);
+                            console.log('_this.userScore() / 10', _this.userScore() / 10);
+                            _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10 , 0, 100,0,180));
+                          
                         }, 1000);
                     }, 2000);
                 };
