@@ -78,7 +78,7 @@
                         </div>
                         <svg viewBox="-100 0 500 200"  fill="none">
                         <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
-                        <path id="gauge" fill="none" :d=scoreArc stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
+                        <path id="gauge" fill="none" :d=arcStyle stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
                         <g filter="url(#filter0_d_2410_5728)" >
                             <circle :cx=GaugeCircle.x :cy=GaugeCircle.y r="8.5" fill="white" id="circle"/>
                         </g>
@@ -217,11 +217,9 @@
 </section>
 {{- partial "site/whatwedo.html" . -}}
 </div>
-{{- if $forInstagram -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
-{{- else -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
-{{- end -}}
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
@@ -242,6 +240,7 @@
                 datasetComments: [],
                 getFirstData: false,
                 audienceScore: 0,
+                arcStyle : 0,
                 followersPercent: 0,
                 inactivePercent: 0,
                 likesTarget: 0,
@@ -251,8 +250,10 @@
                     y: 0
                 },
                 scoreArc : 0,
-                realFollowers: 0,
-                averageVsTarget: 0,
+                realFollowersValue: 8000,
+                inactiveFollowersValue: 300,
+                averageLikesValue:800,
+                averageCommentsValue:800,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -299,6 +300,7 @@
                     "M", start.x, start.y, 
                     "A", radius, radius, 0, largeArcFlag, 0, end.x, end.y
                 ].join(" ");
+                this.arcStyle = d
                 this.GaugeCircle.x = start.x
                 this.GaugeCircle.y = start.y
                 return d;       
@@ -448,9 +450,6 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
-            userAudience(score){                
-                 document.getElementById("gauge").setAttribute("d", this.describeArc(150, 160, 125, 0, score));
-            },
             setRealFollowers(followers, inactive){
                 this.followersPercent = followers + '%';
                 this.inactivePercent = inactive + '%';
@@ -458,6 +457,24 @@
             setAverageVsTarget(likesTarget, followersTarget){
                 this.likesTarget = likesTarget + '%';
                 this.followersTarget = followersTarget + '%';
+            },
+            getRatioFollowers(){
+
+            },
+            getRatioAverage(){
+
+            },
+            getInfluencerBadgeValue(nbFollowers){
+                if(nbFollowers > 1 && nbFollowers < 10000)
+                    return 'Nano Influencer';
+                if(nbFollowers >= 10000 && nbFollowers < 50000)
+                    return 'Micro Influencer';
+                if(nbFollowers >= 50000 && nbFollowers < 300000)
+                    return 'Mid-Tier Influencer';
+                if(nbFollowers >= 300000 && nbFollowers < 1000000)
+                    return 'Mid-Tier Influencer';
+                if(nbFollowers >= 1000000)
+                    return 'Mega Influencer';
             },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
@@ -502,8 +519,7 @@
                         document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
                             _this.loading = false;
-                           // _this.userAudience(180);
-                            _this.scoreArc = _this.describeArc(150, 160, 125, 0, 80);
+                            _this.arcStyle = _this.describeArc(150, 160, 125, 0, 120);
                             _this.realFollowers = _this.setRealFollowers(50,20)
                             _this.averageVsTarget = _this.setAverageVsTarget(50,50)
                         }, 1000);
