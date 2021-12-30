@@ -68,8 +68,8 @@
             <div class="col-xs-12 col-md-6 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
-                <span class="tag tag--verypoor">
-                   Score - Very poor
+                <span class="tag" :class=audienceScoreClass>
+                   { audienceScoreTag }
                 </span>
                 <div class="audience-score row ">
                     <div class="gauge-wrapper card">
@@ -241,6 +241,7 @@
                 getFirstData: false,
                 audienceScore: 0,
                 audienceScoreTag: '',
+                audienceScoreClass: '',
                 arcStyle : 0,
                 likesTarget: 0,
                 likesTargetPercent: 0,
@@ -455,23 +456,36 @@
                 const percent = (value, target) => (value * 100) / target;
                 var type = this.userType(this.user.followers);
                 this.likesTarget = type.likes_follower * this.user.followers;
-                this.likesTargetPercent = percent(this.user.avg_likes, this.likesTarget) + '%'
+                this.likesTargetPercent = this.clamp( percent(this.user.avg_likes, this.likesTarget), 0 ,100) + '%'
                 this.commentsLikesTarget = type.comments_likes*100;
                 this.commentsLikesTargetPercent = this.clamp((this.user.comments_per_likes/type.comments_likes)*100, 0 ,100) + '%'
             },
             setFinalMetric(){
-                this.realFollowersValue = (this.userScore() / 100  ) * this.user.followers;
-                this.realFollowersPercent = this.formatNb(this.userScore()) + '%';
-                this.inactiveFollowersPercent = ((100 - this.userScore())).toFixed(0) +'%';
-                this.inactiveFollowersValue = this.formatNb(this.user.followers -  this.realFollowersValue);
+                this.realFollowersValue = (this.userScore().score / 100  ) * this.user.followers;
+                this.realFollowersPercent = this.clamp( this.formatNb(this.userScore().score), 0, 100) + '%';
+                this.inactiveFollowersValue =  this.formatNb(this.user.followers -  this.realFollowersValue);
+                this.inactiveFollowersPercent = this.clamp( ((100 - this.userScore().score)).toFixed(0),0 , 100) +'%';
             },
             userScore(){
                 var l = (this.user.avg_likes *100) / this.likesTarget;
-                console.log('l', l);
                 var c = (this.user.comments_per_likes * 100) / this.userType(this.user.followers).comments_likes;
-                console.log('c', c);
-                console.log('l + c / 2', (l + c) / 2);
-                return (l + c) / 2;
+                var score = (l + c) / 2;
+                let tag, tagClass;
+                if(score > 0 && score < 10){tag =  'Score - Very Poor'; tagClass = 'tag--verypoor';}
+                if(score > 10 && score < 20){tag =  'Score - Poor'; tagClass = 'tag--poor';}
+                if(score > 20 && score < 30){tag =  'Score - Mediocre'; tagClass = 'tag--mediocre';}
+                if(score > 30 && score < 40){tag =  'Score - Ok'; tagClass = 'tag--ok';}
+                if(score > 40 && score < 50){tag =  'Score - Fair'; tagClass = 'tag--fair';}
+                if(score > 50 && score < 60){tag =  'Score - Good'; tagClass = 'tag--good';}
+                if(score > 70 && score < 80){tag =  'Score - Excellent'; tagClass = 'tag--excellent';}
+                if(score > 80 && score < 90){tag =  'Score - Amazing'; tagClass = 'tag--amazing';}
+                if(score > 90 && score < 101){tag =  'Score - Exceptional'; tagClass = 'tag--exceptional';}
+
+                return {
+                    'score': score,
+                    'tag': tag,
+                    'tagClass': tagClass
+                };
             },
             clamp(num, min, max){
                 return Math.min(Math.max(num, min), max);
@@ -481,15 +495,15 @@
             },
             userType(nbFollowers){
                     if(nbFollowers > 1 && nbFollowers < 10000)
-                        return {'likes_follower': 0.07, 'comments_likes': 0.22};
+                        return {'likes_follower': 0.07, 'comments_likes': 0.22, 'type': 'nano-influencer'};
                     if(nbFollowers >= 10000 && nbFollowers < 50000)
-                    return {'likes_follower': 0.05, 'comments_likes': 0.17};
+                        return {'likes_follower': 0.05, 'comments_likes': 0.17, 'type': 'micro-influencer'};
                     if(nbFollowers >= 50000 && nbFollowers < 300000)
-                    return {'likes_follower': 0.04, 'comments_likes': 0.11};
+                        return {'likes_follower': 0.04, 'comments_likes': 0.11, 'type': 'midtier-influencer'};
                     if(nbFollowers >= 300000 && nbFollowers < 1000000)
-                    return {'likes_follower': 0.03, 'comments_likes': 0.07};
+                        return {'likes_follower': 0.03, 'comments_likes': 0.07, 'type': 'macro-influencer'};
                     if(nbFollowers >= 1000000)
-                    return {'likes_follower': 0.02, 'comments_likes': 0.05};
+                        return {'likes_follower': 0.02, 'comments_likes': 0.05, 'type': 'mega-influencer'};
             },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
@@ -536,8 +550,9 @@
                             _this.loading = false;
                             _this.setTargetMetric();
                             _this.setFinalMetric();
-                            _this.audienceScore =  _this.clamp(_this.userScore() / 10, 0, 10);
-                            console.log('_this.userScore() / 10', _this.userScore() / 10);
+                            _this.audienceScore =  _this.clamp(_this.userScore().score / 10, 0, 10);
+                            _this.audienceScoreTag = _this.userScore().tag
+                            _this.audienceScoreClass = _this.userScore().tagClass
                             _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10 , 0, 100,0,180));
                           
                         }, 1000);

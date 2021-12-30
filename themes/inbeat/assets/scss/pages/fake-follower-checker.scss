@@ -118,10 +118,24 @@
         padding: 3px 10px;
         font-size: 12px;
         line-height: 18px;
+        
         &.tag--verypoor, &.tag--poor{
             background-color: $low;
             color: $low_text;
         }
+        &.tag--mediocre, &.tag--ok{
+            background-color: $medium;
+            color: $medium_text;
+        }
+        &.tag--fair, &.tag--good{
+            background-color: $fair;
+            color: $fair_text;
+        }
+        &.tag--excellent, &.tag--amazing, &.tag--exceptional{
+            background-color: $great;
+            color: $great_text;
+        }
+
         span{
 
         }
@@ -166,7 +180,7 @@
                 }
                 span{
                     font-size: 16px;
-                    line-height: 26px;
+                    line-height: 16px;
                     color: rgba(0, 0, 0, 0.5);
                 }
             }
@@ -193,7 +207,7 @@
                 p{
                     font-weight: 500;
                     font-size: 16px;
-                    line-height: 26px;
+                    line-height: 16px;
                     color:$dark;
                     margin: 0;
                 }
