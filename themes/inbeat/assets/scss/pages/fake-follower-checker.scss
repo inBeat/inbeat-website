@@ -126,13 +126,94 @@
 
         }
     }
+    .data-info{
+        margin-top: auto;
+        padding-left: 50px;
+        .average-subtitle h5{
+            margin-bottom: 0;
+            font-size: 14px;
+            line-height: 18px;
+        }
+        .data-progressbar{
+                min-width: 250px;
+                background-color: #EBEBEB;
+                border-radius: 5px;
+                .data-progressbar--fill {
+                    display: block;
+                    height: 3px;
+                    width: 0%;
+                    border-radius: 5px;
+                    transition: width 500ms ease-in-out;
+                }
+        }
+        .ratio-followers{
+            padding: 50px 40px !important;
+            .row{
+                align-items: center;
+            }
+            hr{
+                border: 1px solid rgba(0, 0, 0, 0.15);
+                margin: 50px 0;
+            }
+            .real-followers , .inactive-foll{
+                p{
+                    font-weight: 500;
+                    font-size: 30px;
+                    line-height: 40px;
+                    margin: 0;
+                    color: $dark;
+                    letter-spacing: -0.3px;
+                }
+                span{
+                    font-size: 16px;
+                    line-height: 26px;
+                    color: rgba(0, 0, 0, 0.5);
+                }
+            }
+      
+        }
+        .percent{
+            margin-top: 0;
+            margin-bottom: 5px;
+            font-size: 12px;
+            line-height: 16px;
+            color: rgba(0, 0, 0, 0.5);
+            text-align: right;
+        }
+        .ratio-average{
+            padding: 50px 40px !important;
+            .row{
+                align-items: center;
+            }
+            hr{
+                border: 1px solid rgba(0, 0, 0, 0.15);
+                margin: 50px 0;
+            }
+            .average-likes, .average-comments{
+                p{
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 26px;
+                    color:$dark;
+                    margin: 0;
+                }
+                span{
+                    font-size: 12px;
+                    color: rgba(0, 0, 0, 0.25);
+                }
+
+            }
+        }
+    }
     .profile-info {
         margin-top: 40px;
         text-align: center;
-
+        padding-right: 55px;
+        padding-left: 30px;
+        border-right: 1px solid rgba(0, 0, 0, 0.1);
         .audience-score{
             position: relative;
-            margin-top: 50px;
+            margin-top:35px;
             .gauge-wrapper{
                 display: flex; justify-content: center; align-items: center;
             }
@@ -151,20 +232,15 @@
               text-align: center;
               margin-top: 20px;
               span{
-                  font-weight: 400;
+                font-weight: 400;
                 font-size: 14px;
-                  line-height: 26px;
-                  color: rgba(0, 0, 0, 0.5);
+                line-height: 26px;
+                color: rgba(0, 0, 0, 0.5);
                 }
             }
-            p{
-
-            }
             svg{
-     
                 display: block;
                 margin: auto
-
             }
         }
         img {
@@ -231,7 +307,7 @@
        }
         .posts {
             text-align: left;
-            margin-top: 90px;
+            margin-top: 60px;
             .card-title {
                 font-weight: 500;
                 font-size: 14px;

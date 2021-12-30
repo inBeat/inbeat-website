@@ -76,16 +76,12 @@
                         <div>
                             <p class="score">{ audienceScore }<br> <span>Audience Score</span></p>
                         </div>
-                            
-                     
                         <svg viewBox="-100 0 500 200"  fill="none">
                         <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
-                        <path id="gauge" fill="none" stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
+                        <path id="gauge" fill="none" :d=scoreArc stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
                         <g filter="url(#filter0_d_2410_5728)" >
-                            <circle cx="17.5" cy="13.5" r="8.5" fill="white" id="circle"/>
+                            <circle :cx=GaugeCircle.x :cy=GaugeCircle.y r="8.5" fill="white" id="circle"/>
                         </g>
-                   
-                        
                         <defs>
                             <linearGradient id="paint0_linear_2410_5725" x1="6" y1="123" x2="240" y2="123" gradientUnits="userSpaceOnUse">
                                 <stop stop-color="#FFE9F0"/>
@@ -122,6 +118,66 @@
                                 {{- partial "icons/heart.html" -}}
                                 <p>{ formatNb(user.avg_likes) }</p>
                                 <span>Avg. Likes</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6 data-info">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="card ratio-followers">
+                            <div class="row">
+                                <div class="col-md-4 real-followers">
+                                    <p>8,000</p><span>Real Followers ≈</span>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="percent">{ followersPercent }</p>
+                                    <div class="data-progressbar">
+                                        <span id="followers-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':followersPercent}"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-md-4 inactive-foll">
+                                    <p>300</p><span>Inactive Foll. ≈</span>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="percent">{ inactivePercent }</p>
+                                    <div class="data-progressbar">
+                                        <span id="inactive-data-progress" class="data-progressbar--fill" style="background-color:#000000" :style="{'width':inactivePercent}"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 average-subtitle"><h5>Average VS Target</h5></div>
+                    
+                    <div class="col-xs-12">
+                        <div class="card ratio-average">
+                            <div class="row">
+                                <div class="col-md-4 average-likes">
+                                    <p>8,500</p><span>Average likes</span>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="percent">Target: { likesTarget }</p>
+                                    <div class="data-progressbar">
+                                        <span id="likesTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7AEC0" :style="{'width':likesTarget}"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-md-4 average-comments">
+                                    <p>30</p><span>Average comments</span>
+                                </div>
+                                <div class="col-md-8">
+                                    <p class="percent">Target: { followersTarget }</p>
+                                    <div class="data-progressbar">
+                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':followersTarget}"></span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -186,6 +242,17 @@
                 datasetComments: [],
                 getFirstData: false,
                 audienceScore: 0,
+                followersPercent: 0,
+                inactivePercent: 0,
+                likesTarget: 0,
+                followersTarget: 0,
+                GaugeCircle: {
+                    x: 0,
+                    y: 0
+                },
+                scoreArc : 0,
+                realFollowers: 0,
+                averageVsTarget: 0,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -232,8 +299,8 @@
                     "M", start.x, start.y, 
                     "A", radius, radius, 0, largeArcFlag, 0, end.x, end.y
                 ].join(" ");
-                document.getElementById("circle").setAttribute("cx", start.x);
-                document.getElementById("circle").setAttribute("cy", start.y);
+                this.GaugeCircle.x = start.x
+                this.GaugeCircle.y = start.y
                 return d;       
             },
             validateEmail(email) {
@@ -384,6 +451,14 @@
             userAudience(score){                
                  document.getElementById("gauge").setAttribute("d", this.describeArc(150, 160, 125, 0, score));
             },
+            setRealFollowers(followers, inactive){
+                this.followersPercent = followers + '%';
+                this.inactivePercent = inactive + '%';
+            },
+            setAverageVsTarget(likesTarget, followersTarget){
+                this.likesTarget = likesTarget + '%';
+                this.followersTarget = followersTarget + '%';
+            },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
@@ -422,17 +497,17 @@
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
-                    _this.loading = false;
                  
                     setTimeout(() => {
-
-                        _this.userAudience(180);
-                        //document.getElementById("progress").style.width = 100 + "%";
+                        document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
-                            //_this.loading = false;
-                           // _this.userAudience(90);
+                            _this.loading = false;
+                           // _this.userAudience(180);
+                            _this.scoreArc = _this.describeArc(150, 160, 125, 0, 80);
+                            _this.realFollowers = _this.setRealFollowers(50,20)
+                            _this.averageVsTarget = _this.setAverageVsTarget(50,50)
                         }, 1000);
-                    }, 0);
+                    }, 2000);
                 };
                 request.onerror = function() {
                     console.log(request.response);
