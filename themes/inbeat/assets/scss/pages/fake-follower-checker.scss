@@ -27,22 +27,25 @@
         max-width: 350px;
         border: 1px solid #000000;
         outline: none;
-        height: 60px;
-        padding: 5px 20px;
+        height: 70px;
+        padding: 5px 25px;
         box-sizing: border-box;
         margin-bottom: 10px;
         @media screen and (min-width: 700px) {
             margin-bottom: 0px;
             margin-right: 10px;
         }
+       &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: rgba(0, 0, 0, 0.25);
+       }
     }
     button {
-        background-color: #000000;
+        background-color: $dark;
         color: white;
-        height: 60px;
+        height: 70px;
         border: none;
-        padding: 5px 0px;
-        width: 150px;
+        padding: 10px 0px;
+        width: 224px;
         cursor: pointer;
         border-radius: 0;
         outline: none !important;
@@ -62,7 +65,6 @@
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
         border-radius: 1px;
         padding: 20px 15px;
-        margin: 20px 0;
         &.p-tb-60{
             padding: 60px 40px;
         }
@@ -135,16 +137,16 @@
             background-color: $great;
             color: $great_text;
         }
-
-        span{
-
-        }
     }
     .data-info{
-        margin-top: auto;
-        padding-left: 50px;
+        margin-top: 40px;
+        padding-left: auto;
+        @include breakpoint(md) {
+            padding-left: 50px;
+        }
         .average-subtitle h5{
-            margin-bottom: 0;
+            margin-bottom: 20px;
+            margin-top: 40px;
             font-size: 14px;
             line-height: 18px;
         }
@@ -166,8 +168,12 @@
                 align-items: center;
             }
             hr{
-                border: 1px solid rgba(0, 0, 0, 0.15);
-                margin: 50px 0;
+                border: 1px solid rgba(0, 0, 0, 0);
+                margin: 25px 0;
+                @include breakpoint(md) {
+                    border: 1px solid rgba(0, 0, 0, 0.15);
+                    margin: 50px 0;
+                }
             }
             .real-followers , .inactive-foll{
                 p{
@@ -200,8 +206,12 @@
                 align-items: center;
             }
             hr{
-                border: 1px solid rgba(0, 0, 0, 0.15);
-                margin: 50px 0;
+                border: 1px solid rgba(0, 0, 0, 0);
+                margin: 25px 0;
+                @include breakpoint(md) {
+                    border: 1px solid rgba(0, 0, 0, 0.15);
+                    margin: 50px 0;
+                }
             }
             .average-likes, .average-comments{
                 p{
@@ -222,9 +232,13 @@
     .profile-info {
         margin-top: 40px;
         text-align: center;
-        padding-right: 55px;
-        padding-left: 30px;
-        border-right: 1px solid rgba(0, 0, 0, 0.1);
+        border-right: none;
+       // padding: 25px;
+        @include breakpoint(md) {
+            border-right: 1px solid rgba(0, 0, 0, 0.1);
+            padding-right: 55px;
+            padding-left: 30px;
+        }
         .audience-score{
             position: relative;
             margin-top:35px;
@@ -272,6 +286,9 @@
         }
  
     .stats {
+        .card{
+            padding: 60px 20px;
+        }
         p {
             font-weight: 700;
             margin-bottom: 0;

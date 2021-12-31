@@ -26,22 +26,25 @@
         max-width: 350px;
         border: 1px solid #000000;
         outline: none;
-        height: 60px;
-        padding: 5px 20px;
+        height: 70px;
+        padding: 5px 25px;
         box-sizing: border-box;
         margin-bottom: 10px;
         @media screen and (min-width: 700px) {
             margin-bottom: 0px;
             margin-right: 10px;
         }
+    &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: rgba(0, 0, 0, 0.25);
+    }
     }
     button {
-        background-color: #000000;
+        background-color: $dark;
         color: white;
-        height: 60px;
+        height: 70px;
         border: none;
-        padding: 5px 0px;
-        width: 150px;
+        padding: 10px 0px;
+        width: 224px;
         cursor: pointer;
         border-radius: 0;
         outline: none !important;
@@ -49,6 +52,7 @@
 }
 
 #collaboration-cost-calculator {
+    margin-bottom: 80px;
     .collaboration-loader{
         padding: 50px !important;
        .data{
@@ -67,7 +71,6 @@
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
         border-radius: 1px;
         padding: 20px 15px;
-        margin: 10px 0;
         &.p-tb-60{
             padding: 60px 40px;
         }

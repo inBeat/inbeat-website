@@ -9,8 +9,6 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-<div id="fake-follower-checker">
-
     <!-- {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}} -->
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
@@ -35,28 +33,32 @@
 
         {{- end -}}
 
-        <div id="skeleton-loader" class="ffc-loader card row section"  v-if="loading">
+        <div id="skeleton-loader" class="ffc-loader card row section "  v-if="loading">
             <div class="loading-bar--container">
                 <div class="loading-bar">
                     <div> <p class="text">Fetching Profile</p></div>
                     <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-4 col-xs-12">
+            <div class="col-md-6  col-xs-12 margin-top">
                 <div class="loader-circle--medium loader-center"></div>
-                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-6 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-xs-12"><div class="loader-square--medium"></div></div>
-                <div class="col-xs-12"><div class="loader-square--medium"></div></div>
-            </div>
-            <div class="col-lg-6 col-md-8 col-xs-12">
+                <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div>
+                <br><br>
                 <div class="row">
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
-                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
-                    <div class="col-xs-12"><div class="loader-square--full"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12 margin-top">
+                <div class="row">
+                    <div class="col-xs-12"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--big"></div></div>
+                </div>
+            </div>
+            <div class="col-xs-12 m-tb-40">
+                <div class="row">
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
                 </div>
             </div>
         </div>
@@ -72,7 +74,7 @@
                    { audienceScoreTag }
                 </span>
                 <div class="audience-score row ">
-                    <div class="gauge-wrapper card">
+                    <div class="gauge-wrapper card col-xs-12">
                         <div>
                             <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
                         </div>
@@ -102,7 +104,7 @@
                     
                 </div>
                 <div class="stats row">
-                    <div class="card col-md-12 p-tb-60">
+                    <div class="card col-xs-12 p-tb-60 m-tb-40">
                         <div class="row">
                             <div class="followers col-xs-12 col-sm-4 col-md-4">
                                 {{- partial "icons/followers.html" -}}
@@ -128,22 +130,22 @@
                     <div class="col-xs-12">
                         <div class="card ratio-followers">
                             <div class="row">
-                                <div class="col-md-4 real-followers">
+                                <div class="col-lg-4 col-xs-12 real-followers">
                                     <p>{ formatNb(realFollowersValue)}</p><span>Real Followers ≈</span>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-lg-8 col-xs-12">
                                     <p class="percent">{ realFollowersPercent }</p>
                                     <div class="data-progressbar">
                                         <span id="followers-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':realFollowersPercent}"></span>
                                     </div>
                                 </div>
                             </div>
-                            <hr>
+                            <hr> 
                             <div class="row">
-                                <div class="col-md-4 inactive-foll">
+                                <div class="col-lg-4 col-xs-12 inactive-foll">
                                     <p>{inactiveFollowersValue}</p><span>Inactive Foll. ≈</span>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-lg-8 col-xs-12">
                                     <p class="percent">{ inactiveFollowersPercent }</p>
                                     <div class="data-progressbar">
                                         <span id="inactive-data-progress" class="data-progressbar--fill" style="background-color:#000000" :style="{'width':inactiveFollowersPercent}"></span>
@@ -152,15 +154,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-12 average-subtitle"><h5>Average VS Target</h5></div>
-                    
+                    <div class="col-xs-12 average-subtitle "><h5>Average VS Target</h5></div>   
                     <div class="col-xs-12">
                         <div class="card ratio-average">
                             <div class="row">
-                                <div class="col-md-4 average-likes">
+                                <div class="col-lg-4 col-xs-12 average-likes">
                                     <p>{ formatNb(user.avg_likes) }</p><span>Average likes</span>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-lg-8 col-xs-12">
                                     <p class="percent">Target: { formatNb(likesTarget) }</p>
                                     <div class="data-progressbar">
                                         <span id="likesTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7AEC0" :style="{'width':likesTargetPercent }"></span>
@@ -169,10 +170,10 @@
                             </div>
                             <hr>
                             <div class="row">
-                                <div class="col-md-4 average-comments">
+                                <div class="col-lg-4 col-xs-12 average-comments">
                                     <p>{ user.comments_per_likes.toFixed(2)*100 }%</p><span>Comments/Likes</span>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-lg-8 col-xs-12">
                                     <p class="percent">Target: { commentsLikesTarget.toFixed(0) }%</p>
                                     <div class="data-progressbar">
                                         <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':commentsLikesTargetPercent}"></span>
@@ -216,7 +217,7 @@
     </transition>
 </section>
 {{- partial "site/whatwedo.html" . -}}
-</div>
+
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 
@@ -230,7 +231,7 @@
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#fake-follower-checker',
+        el: '#ffc-calculator',
         data() {
             return {
                 username: '',
@@ -294,14 +295,13 @@
 
                 var start = this.polarToCartesian(x, y, radius, endAngle);
                 var end = this.polarToCartesian(x, y, radius, startAngle);
-                console.log('end', end);
 
-                var largeArcFlag = endAngle - startAngle <= 180 ? "0" : "1";
+                var largeArcFlag = endAngle - startAngle <= 180 ? '0' : '1';
 
                 var d = [
-                    "M", start.x, start.y, 
-                    "A", radius, radius, 0, largeArcFlag, 0, end.x, end.y
-                ].join(" ");
+                    'M', start.x, start.y, 
+                    'A', radius, radius, 0, largeArcFlag, 0, end.x, end.y
+                ].join(' ');
                 this.arcStyle = d
                 this.GaugeCircle.x = start.x
                 this.GaugeCircle.y = start.y
@@ -554,7 +554,6 @@
                             _this.audienceScoreTag = _this.userScore().tag
                             _this.audienceScoreClass = _this.userScore().tagClass
                             _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10 , 0, 100,0,180));
-                          
                         }, 1000);
                     }, 2000);
                 };
