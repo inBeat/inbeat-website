@@ -110,6 +110,7 @@
         }
     }
     .profile-info {
+        position: relative;
         @include breakpoint(md) {
             padding-right: 58px;
             padding-left: 30px;
@@ -127,12 +128,40 @@
             margin: 10px 0;
             cursor: pointer;
         }
-        span {
+        span:not(.tooltip) {
             font-size: 14px;
             line-height: 1;
             color: $dark_sub;
         }
+        .tooltip{
+            right: 15%;
+            text-align: left;
+            p, span{
+                font-size: 11px !important;
+                line-height: 16px;
+                letter-spacing: -0.3px;
+                color: white;
+            }
+            .tooltip-infos{
+                p{
+                    margin:0;
+                }
+                .tooltip-subtitle{
+                    margin-bottom: 21px;
+                    opacity: .5;
+                }
+                .tooltip-text{
+                    p{
+                        margin: 2px 0;
+                    }
+                    span{
+                        color: white;
+                        font-weight: 400;
+                    }
+                }
+            }
 
+        }
         .stats {
             border-top: 1px solid rgba(0, 0, 0, 0.25);
             border-bottom: 1px solid rgba(0, 0, 0, 0.25);
