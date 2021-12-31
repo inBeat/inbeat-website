@@ -19,7 +19,7 @@ toolkits:
       text: Gain insights on influencers with our rapid TikTok engagement checker.
       icon: freetoolkit-tiktok-engagement
       url: engagement-rate-calculator-tiktok
-    - title: Instagram Fake Follower checker
+    - title: Instagram Fake Follower Checker
       text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
       icon: freetoolkit-pulsepodcast
       url: fake-follower-checker

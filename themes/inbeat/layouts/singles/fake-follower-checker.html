@@ -461,15 +461,19 @@
                 this.commentsLikesTargetPercent = this.clamp((this.user.comments_per_likes/type.comments_likes)*100, 0 ,100) + '%'
             },
             setFinalMetric(){
-                this.realFollowersValue = (this.userScore().score / 100  ) * this.user.followers;
-                this.realFollowersPercent = this.clamp( this.formatNb(this.userScore().score), 0, 100) + '%';
-                this.inactiveFollowersValue =  this.formatNb(this.user.followers -  this.realFollowersValue);
-                this.inactiveFollowersPercent = this.clamp( ((100 - this.userScore().score)).toFixed(0),0 , 100) +'%';
+                var nbRealFollower = (this.userScore().score / 100) * this.user.followers;
+                var percentRealFollower = this.userScore().score;
+                this.realFollowersValue = nbRealFollower;
+                this.realFollowersPercent = percentRealFollower.toFixed(0) + '%';
+ 
+                var nbInactiveFollower = this.user.followers -  nbRealFollower;
+                this.inactiveFollowersValue =  this.formatNb(Math.abs(nbInactiveFollower));
+                this.inactiveFollowersPercent = (100 - this.userScore().score).toFixed(0) +'%';
             },
             userScore(){
-                var l = (this.user.avg_likes *100) / this.likesTarget;
+                var l = (this.user.avg_likes * 100) / this.likesTarget;
                 var c = (this.user.comments_per_likes * 100) / this.userType(this.user.followers).comments_likes;
-                var score = (l + c) / 2;
+                var score = this.clamp((l + c) / 2, 0 ,100);
                 let tag, tagClass;
                 if(score > 0 && score < 10){tag =  'Score - Very Poor'; tagClass = 'tag--verypoor';}
                 if(score > 10 && score < 20){tag =  'Score - Poor'; tagClass = 'tag--poor';}
@@ -479,7 +483,7 @@
                 if(score > 50 && score < 60){tag =  'Score - Good'; tagClass = 'tag--good';}
                 if(score > 70 && score < 80){tag =  'Score - Excellent'; tagClass = 'tag--excellent';}
                 if(score > 80 && score < 90){tag =  'Score - Amazing'; tagClass = 'tag--amazing';}
-                if(score > 90 && score < 101){tag =  'Score - Exceptional'; tagClass = 'tag--exceptional';}
+                if(score > 90){tag =  'Score - Exceptional'; tagClass = 'tag--exceptional';}
 
                 return {
                     'score': score,
