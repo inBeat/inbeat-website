@@ -9,19 +9,17 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
-<div id="engagement-rate">
-
-    {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}}
-    <section class="container mobile-adjusted page-top" id="engagement-header">
+    <!-- {{- partial "site/formPopup.html" (dict "context" . "class" "popup-form" ) -}} -->
+    <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
-    <section id="engagement-calculator" class="container mobile-adjusted">
+    <section id="ffc-calculator" class="container mobile-adjusted">
        
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
-        <div id="engagement-form">
+        <div id="ffc-form">
             {{- if $forInstagram -}}
             <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
             {{- else -}}
@@ -29,135 +27,170 @@
             {{- end -}}
             <button type="submit" @click="submit">
                 <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
-                <span v-else>Check Profile</span>
+                <span v-else>Check Followers</span>
             </button>
         </div>
 
         {{- end -}}
 
-        <div id="skeleton-loader" class="engagement-loader card row section"  v-if="loading">
+        <div id="skeleton-loader" class="ffc-loader card row section "  v-if="loading">
             <div class="loading-bar--container">
                 <div class="loading-bar">
                     <div> <p class="text">Fetching Profile</p></div>
                     <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12">
+            <div class="col-md-6  col-xs-12 margin-top">
                 <div class="loader-circle--medium loader-center"></div>
-                <div class="col-md-6 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-8 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-md-12 loader-center"><div class="loader-square--tiny"></div></div>
-            </div>
-            <div class="col-lg-8 col-md-8 col-xs-12">
+                <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div>
+                <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div>
+                <br><br>
                 <div class="row">
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-4"><div class="loader-square--small"></div></div>
-                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
-                    <div class="col-xs-6"><div class="loader-square--big"></div></div>
-                    <div class="col-xs-12"><div class="loader-square--full"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12 margin-top">
+                <div class="row">
+                    <div class="col-xs-12"><div class="loader-square--big"></div></div>
+                    <div class="col-xs-12"><div class="loader-square--big"></div></div>
+                </div>
+            </div>
+            <div class="col-xs-12 m-tb-40">
+                <div class="row">
+                    <div class="col-xs-12"><div class="loader-square--medium"></div></div>
                 </div>
             </div>
         </div>
 
         <transition name="slide-fade" mode="out-in">
             <p v-if="error" class="error">{ error }</p>
-        <div id="engagement-result" class="card row section" v-else-if="!loading">
+        <div id="ffc-result" class="card row section" v-else-if="!loading">
 
-            <div class="col-xs-12 col-md-4 profile-info">
+            <div class="col-xs-12 col-md-6 profile-info">
                 <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
                 <p class="username" @click="openProfile">@{ user.username }</p>
-                <span class="contact" style="text-decoration: underline">
-                    Contact info { user.has_email ? '' : 'not' } available
+                <span class="tag" :class=audienceScoreClass>
+                   { audienceScoreTag }
                 </span>
+                <div class="audience-score row ">
+                    <div class="gauge-wrapper card col-xs-12">
+                        <div>
+                            <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
+                        </div>
+                        <svg viewBox="-100 0 500 200"  fill="none">
+                        <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
+                        <path id="gauge" fill="none" :d=arcStyle stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
+                        <g filter="url(#filter0_d_2410_5728)" >
+                            <circle :cx=GaugeCircle.x :cy=GaugeCircle.y r="8.5" fill="white" id="circle"/>
+                        </g>
+                        <defs>
+                            <linearGradient id="paint0_linear_2410_5725" x1="6" y1="123" x2="240" y2="123" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#FFE9F0"/>
+                                <stop offset="0.510417" stop-color="#FAECDB"/>
+                                <stop offset="1" stop-color="#D6EBE4"/>
+                            </linearGradient>
+                            <filter id="filter0_d_2410_5728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                                <feOffset dy="4"/>
+                                <feGaussianBlur stdDeviation="4.5"/>
+                                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+                                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2410_5728"/>
+                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2410_5728" result="shape"/>
+                            </filter>
+                        </defs>
+                    </svg></div>
+                    
+                </div>
                 <div class="stats row">
-                    <div class="col-xs-4">
-                        <p>{ formatFollowing(user.followers) }</p>
-                        <span>Followers</span>
-                    </div>
-                    <div class="col-xs-4">
-                        <p>{ formatFollowing(user.following) }</p>
-                        <span>Following</span>
-                    </div>
-                    <div class="col-xs-4">
-                        {{- if $forInstagram -}}
-                        <p>{ user.nb_posts }</p>
-                        <span>Posts</span>
-                        {{- else -}}
-                        <p>{ formatLikes(parseInt(user.total_likes || 0, 10)) }</p>
-                        <span>Likes</span>
-                        {{- end -}}
+                    <div class="card col-xs-12 p-tb-60 m-tb-40">
+                        <div class="row">
+                            <div class="followers col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/followers.html" -}}
+                                <p>{ formatFollowing(user.followers) }</p>
+                                <span>Followers</span>
+                            </div>
+                            <div class="engagement col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/engagement.html" -}}
+                                <p>{ user.engagement.toFixed(2) }%</p>
+                                <span>Engagement Rate</span>
+                            </div>
+                            <div class="likes col-xs-12 col-sm-4 col-md-4">
+                                {{- partial "icons/heart.html" -}}
+                                <p>{ formatNb(user.avg_likes) }</p>
+                                <span>Avg. Likes</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <a href="https://app.inbeat.co/get-started" class="btn btn-md btn-crazy" target="_blank">
-                    Find similar influencers
-                </a>
             </div>
-            <div class="col-xs-12 col-md-8 posts-info">
+            <div class="col-xs-12 col-md-6 data-info">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-4 stats engagement">
-                        <div class="card">
-                            {{- partial "icons/engagement.html" -}}
-                            <p>{ user.engagement.toFixed(2) }%</p>
-                            <span>Engagement Rate</span>
+                    <div class="col-xs-12">
+                        <div class="card ratio-followers">
+                            <div class="row">
+                                <div class="col-lg-4 col-xs-12 real-followers">
+                                    <p>{ formatNb(realFollowersValue)}</p><span>Real Followers ≈</span>
+                                </div>
+                                <div class="col-lg-8 col-xs-12">
+                                    <p class="percent">{ realFollowersPercent }</p>
+                                    <div class="data-progressbar">
+                                        <span id="followers-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':realFollowersPercent}"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr> 
+                            <div class="row">
+                                <div class="col-lg-4 col-xs-12 inactive-foll">
+                                    <p>{inactiveFollowersValue}</p><span>Inactive Foll. ≈</span>
+                                </div>
+                                <div class="col-lg-8 col-xs-12">
+                                    <p class="percent">{ inactiveFollowersPercent }</p>
+                                    <div class="data-progressbar">
+                                        <span id="inactive-data-progress" class="data-progressbar--fill" style="background-color:#000000" :style="{'width':inactiveFollowersPercent}"></span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 stats likes">
-                        <div class="card">
-                            {{- partial "icons/heart.html" -}}
-                            <p>{ formatLikes(user.avg_likes) }</p>
-                            <span>Avg. Likes</span>
+                    <div class="col-xs-12 average-subtitle "><h5>Average VS Target</h5></div>   
+                    <div class="col-xs-12">
+                        <div class="card ratio-average">
+                            <div class="row">
+                                <div class="col-lg-4 col-xs-12 average-likes">
+                                    <p>{ formatNb(user.avg_likes) }</p><span>Average likes</span>
+                                </div>
+                                <div class="col-lg-8 col-xs-12">
+                                    <p class="percent">Target: { formatNb(likesTarget) }</p>
+                                    <div class="data-progressbar">
+                                        <span id="likesTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7AEC0" :style="{'width':likesTargetPercent }"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-lg-4 col-xs-12 average-comments">
+                                    <p>{ user.comments_per_likes.toFixed(2)*100 }%</p><span>Comments/Likes</span>
+                                </div>
+                                <div class="col-lg-8 col-xs-12">
+                                    <p class="percent">Target: { commentsLikesTarget.toFixed(0) }%</p>
+                                    <div class="data-progressbar">
+                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':commentsLikesTargetPercent}"></span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-4 stats comments">
-                        <div class="card">
-                            {{- if $forInstagram -}}
-                            {{- partial "icons/comment.html" -}}
-                            <p>{ average_comments }</p>
-                            <span>Avg. Comments</span>
-                            {{- else -}}
-                            {{- partial "icons/play.html" -}}
-                            <p>{ formatLikes(user.avg_views) }</p>
-                            <span>Avg. Views</span>
-                            {{- end -}}
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-md-6 graph">
-                        <div class="card">
-                            <p>Likes per post</p>
-                            <svg style="width:0; height:0; position:absolute;" aria-hidden="true" focusable="false">
-                                <defs>
-                                    <linearGradient id="graphFill" x1="1" x2="1" y1="0" y2="1">
-                                        <stop offset="0%" stop-color="#E7AEC0"></stop>
-                                        <stop offset="100%" stop-color="#FAECDB"></stop>
-                                    </linearGradient>
-                                </defs>
-                            </svg>
-                            <trend-chart
-                                v-if="datasetLikes.length"
-                                :datasets="[{data: datasetLikes, fill: true, className: 'curve-inbeat', smooth: true}]"
-                                :labels="labels"
-                                :min="0"
-                                :grid="grid" />
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-md-6 graph">
-                        <div class="card">
-                            <p>Comments per post</p>
-                            <trend-chart
-                                v-if="datasetComments.length"
-                                :datasets="[{data: datasetComments, fill: true, className: 'curve-inbeat', smooth: true}]"
-                                :labels="labels"
-                                :min="0"
-                                :grid="grid" />
-                        </div>
-                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-12 posts-info">
+                <div class="row">
                     <div class="col-xs-12 col-md-12 posts">
                         <div class="card">
-                            <p class="card-title">Recent posts</p>
+                            <p class="card-title">Latest Audience Engagement</p>
                             <div class="row">
-                                <div class="col-xs-6 col-sm-4 col-md-3" v-for="post in posts.slice(0, 8)" :key="post.url">
+                                <div class="col-xs-6 col-sm-4 col-md-2" v-for="post in posts.slice(0, 6)" :key="post.url">
                                     <div class="post" @click="openPost(post.url)">
                                         <div class="img" :style="`background-image: url(${post.image})`">
                                             <div class="views" v-if="post.is_video">
@@ -176,16 +209,18 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-12">
+                <p class="subtext col-md-6">We use the avg. likes & comments then compare them to industry standards by following size. This calculator does not analyse followers, so the audience score is an estimation.</p>
+            </div>
         </div>
+       
     </transition>
 </section>
 {{- partial "site/whatwedo.html" . -}}
-</div>
-{{- if $forInstagram -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
-{{- else -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
-{{- end -}}
+
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
@@ -196,7 +231,7 @@
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#engagement-rate',
+        el: '#ffc-calculator',
         data() {
             return {
                 username: '',
@@ -205,7 +240,23 @@
                 datasetLikes: [],
                 datasetComments: [],
                 getFirstData: false,
-                average_comments : 0,
+                audienceScore: 0,
+                audienceScoreTag: '',
+                audienceScoreClass: '',
+                arcStyle : 0,
+                likesTarget: 0,
+                likesTargetPercent: 0,
+                commentsLikesTarget: 0,
+                commentsLikesTargetPercent: 0,
+                GaugeCircle: {
+                    x: 0,
+                    y: 0
+                },
+                scoreArc : 0,
+                realFollowersValue: 0,
+                realFollowersPercent: 0,
+                inactiveFollowersValue: 0,
+                inactiveFollowersPercent: 0,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -232,16 +283,33 @@
         },
         mounted() {},
         methods: {
+            polarToCartesian(centerX, centerY, radius, angleInDegrees) {
+              var angleInRadians = (angleInDegrees+180) * Math.PI / 180.0;
+
+              return {
+                x: centerX + (radius * Math.cos(angleInRadians)),
+                y: centerY + (radius * Math.sin(angleInRadians))
+              };
+            },
+            describeArc(x, y, radius, startAngle, endAngle){
+
+                var start = this.polarToCartesian(x, y, radius, endAngle);
+                var end = this.polarToCartesian(x, y, radius, startAngle);
+
+                var largeArcFlag = endAngle - startAngle <= 180 ? '0' : '1';
+
+                var d = [
+                    'M', start.x, start.y, 
+                    'A', radius, radius, 0, largeArcFlag, 0, end.x, end.y
+                ].join(' ');
+                this.arcStyle = d
+                this.GaugeCircle.x = start.x
+                this.GaugeCircle.y = start.y
+                return d;       
+            },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
-            },
-            getAverageComments(){
-                var sum = 0;
-                for(var i = 0; i < this.posts.length; i++){
-                    sum += this.posts[i].comments;
-                }
-                this.average_comments = Math.round(sum / this.posts.length);
             },
             request(data, request, api){
                     return new Promise(function (resolve, reject) {
@@ -384,6 +452,63 @@
                 }
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
+            setTargetMetric(target){
+                const percent = (value, target) => (value * 100) / target;
+                var type = this.userType(this.user.followers);
+                this.likesTarget = type.likes_follower * this.user.followers;
+                this.likesTargetPercent = this.clamp( percent(this.user.avg_likes, this.likesTarget), 0 ,100) + '%'
+                this.commentsLikesTarget = type.comments_likes*100;
+                this.commentsLikesTargetPercent = this.clamp((this.user.comments_per_likes/type.comments_likes)*100, 0 ,100) + '%'
+            },
+            setFinalMetric(){
+                var nbRealFollower = (this.userScore().score / 100) * this.user.followers;
+                var percentRealFollower = this.userScore().score;
+                this.realFollowersValue = nbRealFollower;
+                this.realFollowersPercent = percentRealFollower.toFixed(0) + '%';
+ 
+                var nbInactiveFollower = this.user.followers -  nbRealFollower;
+                this.inactiveFollowersValue =  this.formatNb(Math.abs(nbInactiveFollower));
+                this.inactiveFollowersPercent = (100 - this.userScore().score).toFixed(0) +'%';
+            },
+            userScore(){
+                var l = (this.user.avg_likes * 100) / this.likesTarget;
+                var c = (this.user.comments_per_likes * 100) / this.userType(this.user.followers).comments_likes;
+                var score = this.clamp((l + c) / 2, 0 ,100);
+                let tag, tagClass;
+                if(score > 0 && score < 10){tag =  'Score - Very Poor'; tagClass = 'tag--verypoor';}
+                if(score > 10 && score < 20){tag =  'Score - Poor'; tagClass = 'tag--poor';}
+                if(score > 20 && score < 30){tag =  'Score - Mediocre'; tagClass = 'tag--mediocre';}
+                if(score > 30 && score < 40){tag =  'Score - Ok'; tagClass = 'tag--ok';}
+                if(score > 40 && score < 50){tag =  'Score - Fair'; tagClass = 'tag--fair';}
+                if(score > 50 && score < 60){tag =  'Score - Good'; tagClass = 'tag--good';}
+                if(score > 70 && score < 80){tag =  'Score - Excellent'; tagClass = 'tag--excellent';}
+                if(score > 80 && score < 90){tag =  'Score - Amazing'; tagClass = 'tag--amazing';}
+                if(score > 90){tag =  'Score - Exceptional'; tagClass = 'tag--exceptional';}
+
+                return {
+                    'score': score,
+                    'tag': tag,
+                    'tagClass': tagClass
+                };
+            },
+            clamp(num, min, max){
+                return Math.min(Math.max(num, min), max);
+            },
+            remap(x, inMin, inMax, outMin, outMax){
+                return (x - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
+            },
+            userType(nbFollowers){
+                    if(nbFollowers > 1 && nbFollowers < 10000)
+                        return {'likes_follower': 0.07, 'comments_likes': 0.22, 'type': 'nano-influencer'};
+                    if(nbFollowers >= 10000 && nbFollowers < 50000)
+                        return {'likes_follower': 0.05, 'comments_likes': 0.17, 'type': 'micro-influencer'};
+                    if(nbFollowers >= 50000 && nbFollowers < 300000)
+                        return {'likes_follower': 0.04, 'comments_likes': 0.11, 'type': 'midtier-influencer'};
+                    if(nbFollowers >= 300000 && nbFollowers < 1000000)
+                        return {'likes_follower': 0.03, 'comments_likes': 0.07, 'type': 'macro-influencer'};
+                    if(nbFollowers >= 1000000)
+                        return {'likes_follower': 0.02, 'comments_likes': 0.05, 'type': 'mega-influencer'};
+            },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
@@ -399,6 +524,7 @@
                 var request = new XMLHttpRequest();
                 request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                 request.setRequestHeader('Content-Type', 'application/json');
+
                 request.onload = function() {
                     if (!request.status || request.status !== 200) {
                         if (request.status === 429) {
@@ -421,11 +547,17 @@
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
+                 
                     setTimeout(() => {
                         document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
                             _this.loading = false;
-                            _this.getAverageComments();
+                            _this.setTargetMetric();
+                            _this.setFinalMetric();
+                            _this.audienceScore =  _this.clamp(_this.userScore().score / 10, 0, 10);
+                            _this.audienceScoreTag = _this.userScore().tag
+                            _this.audienceScoreClass = _this.userScore().tagClass
+                            _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10 , 0, 100,0,180));
                         }, 1000);
                     }, 2000);
                 };
@@ -435,13 +567,14 @@
                     _this.loading = false;
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-                
-                if(!this.getCookie('erc-submit') && this.getFirstData === true){
+
+                //disable form popup for now
+                /*if(!this.getCookie('erc-submit') && this.getFirstData === true){
                     document.getElementById('banner').style.pointerEvents= 'none';
                     request.addEventListener('loadend', (() =>{
                         setTimeout(function(){ this.togglePopup('formPopup'); }, 500);
                     }));
-                }
+                }*/
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
@@ -455,6 +588,29 @@
                 return `${newNb / 100}M`;
                 },
             formatLikes(nb) {
+                if (nb < 1000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 10000) {
+                    var newNb = Math.ceil(nb / 10);
+                    return `${newNb / 100}k`;
+                }
+                if (nb < 100000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                if (nb < 1000000) {
+                    return `${Math.ceil(nb / 1000)}k`;
+                }
+                if (nb < 10000000) {
+                    var newNb = Math.ceil(nb / 10000);
+                    return `${newNb / 100}M`;
+                }
+                // if nb = 3 415 786 -> 3.42M
+                var newNb = Math.ceil(nb / 100000);
+                return `${newNb / 10}M`;
+            },
+            formatNb(nb) {
                 if (nb < 1000) {
                     return Math.ceil(nb);
                 }

@@ -1,0 +1,445 @@
+#ffc-header {
+    text-align: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    h1 {
+        @include breakpoint(sm) {
+            font-size: 4rem;
+            line-height: 4.6rem;
+        }
+    }
+    p br {
+        @include breakpoint(sm-down) {
+            display: none;
+        }
+    }
+}
+
+#ffc-form {
+    max-width: 700px;
+    margin: 50px auto 60px;
+    text-align: center;
+
+    input {
+        background: transparent;
+        width: 90%;
+        max-width: 350px;
+        border: 1px solid #000000;
+        outline: none;
+        height: 70px;
+        padding: 5px 25px;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+        @media screen and (min-width: 700px) {
+            margin-bottom: 0px;
+            margin-right: 10px;
+        }
+       &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: rgba(0, 0, 0, 0.25);
+       }
+    }
+    button {
+        background-color: $dark;
+        color: white;
+        height: 70px;
+        border: none;
+        padding: 10px 0px;
+        width: 224px;
+        cursor: pointer;
+        border-radius: 0;
+        outline: none !important;
+    }
+}
+
+#ffc-calculator {
+    margin-bottom: 80px;
+    .ffc-loader{
+        .loader-square--tiny{
+            margin-top: 35px;
+        }
+    }
+    .card {
+        border: 1px solid #dcdcdc;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+        border-radius: 1px;
+        padding: 20px 15px;
+        &.p-tb-60{
+            padding: 60px 40px;
+        }
+        @include breakpoint(sm) {
+            padding: 20px 25px;
+        }
+        .title{
+            display: flex;
+            text-align: center;
+            p{
+                font-size:  0.875rem;
+                font-weight: 500;
+                align-items: center;
+                display: flex;
+                justify-content: center;
+                margin: 0 auto;
+            }
+        }
+    }
+    .error {
+        text-align: center;
+        color: red;
+        margin-top: -20px;
+        margin-bottom: 60px;
+    }
+    .maintenance {
+        text-align: center;
+        color: red;
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+}
+#ffc-result {
+    margin-bottom: 60px;
+    .subtext{
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 12px;
+        line-height: 16px;
+        color: $dark;
+        opacity: .5;
+        text-align: center;
+
+    }
+    & > div {
+        @include breakpoint(sm) {
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+    }
+    .tag{
+        border-radius: 50px;
+        padding: 3px 10px;
+        font-size: 12px;
+        line-height: 18px;
+        
+        &.tag--verypoor, &.tag--poor{
+            background-color: $low;
+            color: $low_text;
+        }
+        &.tag--mediocre, &.tag--ok{
+            background-color: $medium;
+            color: $medium_text;
+        }
+        &.tag--fair, &.tag--good{
+            background-color: $fair;
+            color: $fair_text;
+        }
+        &.tag--excellent, &.tag--amazing, &.tag--exceptional{
+            background-color: $great;
+            color: $great_text;
+        }
+    }
+    .data-info{
+        margin-top: 40px;
+        padding-left: auto;
+        @include breakpoint(md) {
+            padding-left: 50px;
+        }
+        .average-subtitle h5{
+            margin-bottom: 20px;
+            margin-top: 40px;
+            font-size: 14px;
+            line-height: 18px;
+        }
+        .data-progressbar{
+                min-width: 250px;
+                background-color: #EBEBEB;
+                border-radius: 5px;
+                .data-progressbar--fill {
+                    display: block;
+                    height: 3px;
+                    width: 0%;
+                    border-radius: 5px;
+                    transition: width 500ms ease-in-out;
+                }
+        }
+        .ratio-followers{
+            padding: 50px 40px !important;
+            .row{
+                align-items: center;
+            }
+            hr{
+                border: 1px solid rgba(0, 0, 0, 0);
+                margin: 25px 0;
+                @include breakpoint(md) {
+                    border: 1px solid rgba(0, 0, 0, 0.15);
+                    margin: 50px 0;
+                }
+            }
+            .real-followers , .inactive-foll{
+                p{
+                    font-weight: 500;
+                    font-size: 30px;
+                    line-height: 40px;
+                    margin: 0;
+                    color: $dark;
+                    letter-spacing: -0.3px;
+                }
+                span{
+                    font-size: 16px;
+                    line-height: 16px;
+                    color: rgba(0, 0, 0, 0.5);
+                }
+            }
+      
+        }
+        .percent{
+            margin-top: 0;
+            margin-bottom: 5px;
+            font-size: 12px;
+            line-height: 16px;
+            color: rgba(0, 0, 0, 0.5);
+            text-align: right;
+        }
+        .ratio-average{
+            padding: 50px 40px !important;
+            .row{
+                align-items: center;
+            }
+            hr{
+                border: 1px solid rgba(0, 0, 0, 0);
+                margin: 25px 0;
+                @include breakpoint(md) {
+                    border: 1px solid rgba(0, 0, 0, 0.15);
+                    margin: 50px 0;
+                }
+            }
+            .average-likes, .average-comments{
+                p{
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 16px;
+                    color:$dark;
+                    margin: 0;
+                }
+                span{
+                    font-size: 12px;
+                    color: rgba(0, 0, 0, 0.25);
+                }
+
+            }
+        }
+    }
+    .profile-info {
+        margin-top: 40px;
+        text-align: center;
+        border-right: none;
+       // padding: 25px;
+        @include breakpoint(md) {
+            border-right: 1px solid rgba(0, 0, 0, 0.1);
+            padding-right: 55px;
+            padding-left: 30px;
+        }
+        .audience-score{
+            position: relative;
+            margin-top:35px;
+            .gauge-wrapper{
+                display: flex; justify-content: center; align-items: center;
+            }
+            .score{
+              position: absolute;
+              margin-left: auto;
+              margin-right: auto;
+              left: 0;
+              right: 0;
+              top: 50%;
+              transform: translateY(-50%);
+              text-align: center;
+              font-weight: bold;
+              font-size: 40px;
+              line-height: 29px;
+              text-align: center;
+              margin-top: 20px;
+              span{
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 26px;
+                color: rgba(0, 0, 0, 0.5);
+                }
+            }
+            svg{
+                display: block;
+                margin: auto
+            }
+        }
+        img {
+            width: 125px;
+            height: 125px;
+            border-radius: 50%;
+            filter: drop-shadow(0px 4px 9px rgba(0, 0, 0, 0.1));
+            cursor: pointer;
+        }
+        .username {
+            font-weight: 700;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+ 
+    .stats {
+        .card{
+            padding: 60px 20px;
+        }
+        p {
+            font-weight: 700;
+            margin-bottom: 0;
+            margin-top: 5px;
+            line-height: 1;
+        }
+        span {
+            font-size: 14px;
+            line-height: 16px;
+            color: $dark_sub;
+            opacity: .5;
+            display: block;
+            margin-top: 5px;
+        }
+
+        .likes svg {
+            fill: $red;
+        }
+        .engagement svg {
+            fill: $green;
+        }
+        .followers svg {
+            width: 21px;
+            height: 21px;
+            fill: $yellow;
+        }
+    }
+        a {
+            width: 100%;
+            font-weight: 700;
+            display: block;
+            margin-bottom: 40px;
+            @include breakpoint(md) {
+                margin-bottom: 0;
+            }
+        }
+
+    }
+    .posts-info {
+        text-align: center;
+        & > .row > div {
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+        }
+       .card{
+           box-shadow: none !important;
+       }
+        .posts {
+            text-align: left;
+            margin-top: 60px;
+            .card-title {
+                font-weight: 500;
+                font-size: 14px;
+                letter-spacing: -0.5px;
+                margin-top: 0;
+                margin-bottom: 15px;
+            }
+            .post {
+                border: 1px solid #ebebeb;
+                border-radius: 2px;
+                margin-bottom: 20px;
+                text-align: center;
+                cursor: pointer;
+                .img {
+                    padding-top: 100%;
+                    background-size: cover;
+                    position: relative;
+                    background-position: center;
+                    .views {
+                        position: absolute;
+                        bottom: 2px;
+                        left: 10px;
+                        svg {
+                            width: 10px;
+                            height: 10px;
+                            vertical-align: middle;
+                            margin-right: 3px;
+                        }
+                        color: white;
+                        font-size: 12px;
+                    }
+                }
+                p {
+                    font-size: 12px;
+                    line-height: 18px;
+                    margin: 7px 0;
+                    svg {
+                        width: 8px;
+                        height: 8px;
+                        vertical-align: middle;
+                        margin: 0 2px 0;
+                        fill: #d6d6d6 !important;
+                    }
+                    span {
+                        display: inline-block;
+                        &:first-child {
+                            svg  {
+                                margin-left: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    div {
+        box-sizing: border-box;
+        display: block;
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        margin: 2px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        border-color: #fff transparent transparent transparent;
+        &:nth-child(1) {
+            animation-delay: -0.45s;
+        }
+        &:nth-child(2) {
+            animation-delay: -0.3s;
+        }
+        &:nth-child(3) {
+            animation-delay: -0.15s;
+        }
+    }
+}
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.slide-fade-enter-active {
+    transition: all 0.2s ease;
+}
+.slide-fade-leave-active {
+    transition: all 0.2s cubic-bezier(1, 0.5, 0.8, 1);
+}
+.slide-fade-enter,
+.slide-fade-leave-to {
+    transform: translateX(10px);
+    opacity: 0;
+}

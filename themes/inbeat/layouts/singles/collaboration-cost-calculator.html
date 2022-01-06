@@ -37,7 +37,7 @@
                     <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
                 </div>
             </div>
-            <div class="col-lg-6 col-xs-12">
+            <div class="col-lg-6 col-xs-12 margin-top">
                 <div class="loader-circle--medium loader-center"></div>
                 <div class="col-md-4 loader-center"><div class="loader-bar"></div></div>
                 <div class="col-md-3 loader-center"><div class="loader-bar"></div></div>
@@ -193,24 +193,7 @@
     </div>
 </transition>
 </section>
-<section class="container m-tb-160 mobile-adjusted" id="start-now">
-    <div class="row">
-        <div class="col-xs-12 col-sm-4 col1">
-            <h2>Find more influencers</h2>
-            <h4>Search thousands of influencers with inBeat</h4>
-            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
-                <span>Try it now</span> &#8212 it's free
-            </a>
-            <p class="signin">
-                Already in the family?
-                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
-            </p>
-        </div>
-        <div class="col-xs-12 col-sm-offset-1 col-sm-7 hide-sm align-right">
-            {{- partial "icons/engagement-img.html" -}}
-        </div>
-    </div>
-</section>
+{{- partial "site/whatwedo.html" . -}}
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.collaboration.instagram "id" "home-faq" "title" "FAQ Regarding Our Instagram Money Calculator") -}}
 

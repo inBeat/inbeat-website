@@ -19,6 +19,10 @@ toolkits:
       text: Gain insights on influencers with our rapid TikTok engagement checker.
       icon: freetoolkit-tiktok-engagement
       url: engagement-rate-calculator-tiktok
+    - title: Instagram Fake Follower Checker
+      text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
+      icon: freetoolkit-pulsepodcast
+      url: fake-follower-checker
     - title: Top Instagram Influencers 2021
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-ig-topinfluencers
@@ -27,8 +31,5 @@ toolkits:
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
-    - title: The Pulse Podcast
-      text: Keep the pulse on current trends, and stay in the know with our Influencer Marketing Podcast
-      icon: freetoolkit-pulsepodcast
-      url: categories/podcasts/
+
 ---
