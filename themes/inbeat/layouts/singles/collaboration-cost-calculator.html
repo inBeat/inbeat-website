@@ -61,20 +61,35 @@
         <div class="col-xs-12 col-md-6 profile-info">
             <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
             <p class="username" @click="openProfile">@{ user.username }</p>
-            <div class="influencer-type-badge ">{ costCalculator.influencerBadge }</div>
+            <span id="tooltip-element">
+                <div class="influencer-type-badge ">{ costCalculator.influencerBadge }</div>
+                <span class="tooltip left">
+                    <div class="tooltip-infos">
+                        <p class="tooltip-subtitle">Influencer Types</p>
+                        <div class="tooltip-text">
+                            <p><span>Small Creator :</span> < 1k followers</p> 
+                            <p><span>Nano Influencer :</span> 1k - 10k followers</p> 
+                            <p><span>Micro Influencer :</span> 10k - 50k followers</p>
+                            <p></p><span>Mid-tier Influencer :</span> 50k - 300k followers</p>
+                            <p></p><span>Macro Influencer :</span> 300k - 1M followers</p>
+                            <p></p><span>Mega Influencer :</span> 1M + followers</p>
+                        </div>
+                    </div>
+                </span>
+            </span>
             <div class="estimated-total row">
-            <div class="card col-xs-12 col-md-12">
-                <p>Estimated Total (USD)</p>
-                <div class="result" v-if="costCalculator.minRange == 0">
-                    <span class="min-range"> $0</span>
+                <div class="card col-xs-12 col-md-12">
+                    <p>Estimated Total (USD)</p>
+                    <div class="result" v-if="costCalculator.minRange == 0">
+                        <span class="min-range"> $0</span>
+                    </div>
+                    <div class="result" v-else>
+                        <span class="min-range"> ${ costCalculator.minRange }</span>
+                        <div class="dash"></div>
+                        <span class="max-range"> ${ costCalculator.maxRange }</span>
+                    </div>
+                    <div class="border"></div>
                 </div>
-                <div class="result" v-else>
-                    <span class="min-range"> ${ costCalculator.minRange }</span>
-                    <div class="dash"></div>
-                    <span class="max-range"> ${ costCalculator.maxRange }</span>
-                </div>
-                <div class="border"></div>
-            </div>
             </div>
             <div class="estimated-total-selector row">
                 <div class="col-xs-12 col-md-12 card">
@@ -232,21 +247,23 @@
         },
         methods: {
             getInfluencerBadge(nbFollowers){
-                if(nbFollowers > 1 && nbFollowers < 10000)
-                    return 'Nano Influencer';
+                if(nbFollowers < 1000 )
+                    return {'type':'Small Creator', 'base_cost': 10 };
+                if(nbFollowers > 1000 && nbFollowers < 10000)
+                    return {'type':'Nano Influencer', 'base_cost': 25 };
                 if(nbFollowers >= 10000 && nbFollowers < 50000)
-                    return 'Micro Influencer';
+                    return  {'type':'Micro Influencer', 'base_cost': 20 };
                 if(nbFollowers >= 50000 && nbFollowers < 300000)
-                    return 'Mid-Tier Influencer';
+                    return  {'type':'Mid-Tier Influencer', 'base_cost': 15 };
                 if(nbFollowers >= 300000 && nbFollowers < 1000000)
-                    return 'Mid-Tier Influencer';
+                    return {'type':'Macro Influencer', 'base_cost': 10 };
                 if(nbFollowers >= 1000000)
-                    return 'Mega Influencer';
+                    return  {'type':'Mega Influencer', 'base_cost': 0 };
             },
             updateFullPrice(){
                 var followeCount = (1 / 100) * this.user.followers;
                 var engagementRate = 1 + (this.user.engagement/100);
-                var base = Math.round(followeCount * engagementRate);
+                var base = Math.round(followeCount * engagementRate) + this.getInfluencerBadge(this.user.followers).base_cost;
                 var cost = base * ((this.costCalculator.postValue * 1) + (this.costCalculator.storiesValue * .5) + (this.costCalculator.reelsValue * 1.3));
                 var min = cost - (cost * .15);
                 var max = cost + (cost * .15);
@@ -298,7 +315,7 @@
                     _this.labels.xLabels = res.posts.map((_, i) => i+1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
-                    _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers);
+                    _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers).type;
                     _this.updateFullPrice();
                     _this.error = null;
                     setTimeout(() => {

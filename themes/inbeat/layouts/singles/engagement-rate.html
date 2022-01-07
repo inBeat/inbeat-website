@@ -114,8 +114,8 @@
                         <div class="card">
                             {{- if $forInstagram -}}
                             {{- partial "icons/comment.html" -}}
-                            <p>{ Math.round(user.comments_per_likes * 1000) }</p>
-                            <span>Comments per 1000 Likes</span>
+                            <p>{ average_comments }</p>
+                            <span>Avg. Comments</span>
                             {{- else -}}
                             {{- partial "icons/play.html" -}}
                             <p>{ formatLikes(user.avg_views) }</p>
@@ -205,6 +205,7 @@
                 datasetLikes: [],
                 datasetComments: [],
                 getFirstData: false,
+                average_comments : 0,
                 labels: {
                     xLabels: [],
                     yLabels: 5,
@@ -234,6 +235,13 @@
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
+            },
+            getAverageComments(){
+                var sum = 0;
+                for(var i = 0; i < this.posts.length; i++){
+                    sum += this.posts[i].comments;
+                }
+                this.average_comments = Math.round(sum / this.posts.length);
             },
             request(data, request, api){
                     return new Promise(function (resolve, reject) {
@@ -417,6 +425,7 @@
                         document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
                             _this.loading = false;
+                            _this.getAverageComments();
                         }, 1000);
                     }, 2000);
                 };
