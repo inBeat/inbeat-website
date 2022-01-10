@@ -265,6 +265,10 @@ function popup() {
                     item.classList.add("noTrigger");
                 })      
             }
+            if(this.content.querySelector('video')){
+                this.content.querySelector('video').play();
+                this.content.querySelector('video').volume = 0.2;
+            }
         }
         this.closePopup = function () {
             isOpen = false
@@ -274,6 +278,10 @@ function popup() {
             document.querySelectorAll('section').forEach(function (item) {
                 item.classList.remove("blur");
             })
+            if(this.content.querySelector('video')){
+                this.content.querySelector('video').pause();
+                this.content.querySelector('video').currentTime = 0;
+            }
         }
 
         this.popup.addEventListener('click', function (e) {
