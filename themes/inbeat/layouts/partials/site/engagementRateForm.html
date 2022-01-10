@@ -1,0 +1,24 @@
+<form id="form-popup" onsubmit="return false">
+  <img src="/images/embedpopup-baner.png" alt="">
+  <div class="text-element">
+    <h3>Unlock Calculator by entering E-mail</h3>
+    <p>We'll never share your email with anyone else.</p>
+  </div>
+  <p class="errorform">{ errorform }</p>
+  <div class="form-content">
+    <input name="email" placeholder="Email">
+    <div>
+      <select name="tag" class="form-control">
+        <option  value="default" selected>What represents you?</option>
+        <option  value="Influencer">Influencer</option>
+        <option  value="Brand">Brand</option>
+        <option  value="Agency">Agency</option>
+        <option  value="E-commerce">E-commerce</option>
+      </select>
+    </div>
+    <button type="submit" @click="formSubmit">
+        <div class="lds-ring" v-if="loadingform"><div></div><div></div><div></div><div></div></div>
+        <span v-else>Unlock Calculator</span>
+    </button>
+  </div>
+</form>

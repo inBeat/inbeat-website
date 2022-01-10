@@ -1,0 +1,11 @@
+<section {{ if eq .canClose false }} data-force="true" {{ end }} class="popupOverlay  {{ if eq .canClose true }} closeOverlay {{ end }}" id={{ .id }}>
+    <div class="popup  {{ .class }}">
+        {{ if eq .canClose true }} <div class="close">
+            {{- partial "icons/close.html" -}}
+        </div>
+        {{ end }} 
+        <div class="content-wrapper">
+            {{ .content | markdownify }}
+        </div>
+    </div>
+</section>

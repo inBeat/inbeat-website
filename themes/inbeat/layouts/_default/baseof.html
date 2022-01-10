@@ -7,7 +7,8 @@
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/gtm.html" . }}
 		{{ partial "site-header.html" . }}
-		{{ partial "site/videoPopup.html" (dict "context" . "video" "deep-search" "link" "https://app.inbeat.co/get-started" "text" "<span>Try it now</span> &#8212 it's free" ) }}
+		{{ $content :=  `<div class="content-video"><video controls><source src="/videos/deep-search.mp4" /></video></div><div class="btn-cta"><a href="https://app.inbeat.co/get-started" target="_blank"><button class="btn"><span>Try it now</span> — it’s free</button></a></div>` }}
+		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
 		{{ block "main" . }}
 		{{ end }}
 		{{ partial "site-footer.html" . }}

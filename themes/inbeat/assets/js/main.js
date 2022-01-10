@@ -237,111 +237,84 @@ function topInfluencers() {
 
     }
 }
-
+var allPopup = [];
 function popup() {
-    // Get Popup from the DOM
-    var id;
-    var popupOverlay;
-    var innerPopup;
-    var closeBtn;
-    var defaultWidth;
-    var defaultHeight;
-    var contentParent;
-    var popupContent = document.getElementsByClassName('popupContent')[0];
-    var isOpen = false;
-    var mediaQuery = window.matchMedia('(max-width: 768px)')
-
-    // Set the position of the popup to always be centered
-  function position() {
-    innerPopup.style.transition = "none";
-    console.log('innerPopup', innerPopup);
-    var pageWidth = window.innerWidth,
-      pageHeight = window.innerHeight;
-    // Check if the media query is true
-    if (mediaQuery.matches) {
-      if (popupContent != null) {
-        if (contentParent.querySelector('video')) {
-          innerPopup.style.height = 75 + popupContent.offsetHeight + 'px';
-          innerPopup.style.margin = 10 + 'px';
-          popupContent.style.borderRadius = '0px';
-          contentParent.style.padding = '0px';
-        }
-      }
-    } else {
-        innerPopup.style.width = defaultWidth;
-        innerPopup.style.height = defaultHeight;
-        if (contentParent.querySelector("video")) {
-          contentParent.style.padding = '50px';
-        }
-      }
-      innerPopup.style.top = (pageHeight / 2) - (innerPopup.offsetHeight / 2) + 'px';
-      innerPopup.style.left = (pageWidth / 2) - (innerPopup.clientWidth / 2) - 10 + 'px';
-      innerPopup.style.transition = "all .25s ease-in-out";
-  }
-
-    // Open/Close popup
-    this.togglePopup = function(popupId) {
+    var Popup = function (options) {
+        var self = this
+        this.popup = options.popup;
+        this.innerPopup = this.popup.querySelector('.popup');
+        this.id = this.popup.id
+        var isOpen = false;
+        this.force = this.popup.dataset.force || false;
+        close = this.popup.querySelector(".close")
+        defaultWidth = this.innerPopup.style.width;
+        defaultHeight = this.innerPopup.style.height;
+        this.content = this.popup.querySelector(".content-wrapper");
+        this.innerPopup.style.transition = "all .25s ease-in-out";
         
-        id = popupId;
-        popupOverlay = document.getElementById(id);
-        innerPopup = popupOverlay.querySelector(".popup");
-        closeBtn = popupOverlay.querySelector(".close")
-        defaultWidth = innerPopup.style.width;
-        defaultHeight = innerPopup.style.height;
-        contentParent = popupOverlay.querySelector(".content-wrapper");
-        popupOverlay.classList.toggle('popupOverlay--fadeIn');
-        innerPopup.classList.toggle('popupInner--fadeIn');
-        position();
-        isOpen = !isOpen;
-        // Toggle player play or pause
-        if (isOpen) {
-            if(contentParent.querySelector("video")){
-                contentParent.querySelector("video").play();
-                contentParent.querySelector("video").volume = 0.2;
-            }
+        this.openPopup = function () { 
+            isOpen = true;
+            this.popup.classList.toggle('popupOverlay--fadeIn');
+            this.innerPopup.classList.toggle('popupInner--fadeIn');
             document.body.style.overflow = 'hidden';
             document.querySelectorAll('section').forEach(function (item) {
-                item.classList.add("blur");
+                item.classList.toggle("blur");
             })
-        } else {
-            if(contentParent.querySelector("video")){
-                contentParent.querySelector("video").pause();
-                contentParent.querySelector("video").currentTime = 0;;
+            if (this.force) {
+                document.querySelectorAll('.preventPointer').forEach(function (item) {
+                    item.classList.add("noTrigger");
+                })      
             }
+        }
+        this.closePopup = function () {
+            isOpen = false
+            this.popup.classList.toggle('popupOverlay--fadeIn');
+            this.innerPopup.classList.toggle('popupInner--fadeIn');
             document.body.style.overflow = 'visible';
             document.querySelectorAll('section').forEach(function (item) {
                 item.classList.remove("blur");
             })
         }
 
-        // Close popup if click on overlay
-        popupOverlay.addEventListener('click', function (e) {
-            if (!e.target.classList.contains('popup-overlay')) return;
-            togglePopup(id);
+        this.popup.addEventListener('click', function (e) {
+            if (!e.target.classList.contains('closeOverlay')) return;
+            self.closePopup();
         })
 
         // Close popup if click on X button
-        closeBtn.addEventListener('click', function () {
-            togglePopup(id);
-        })
-    }
-    // For each DIV that have the class .popupTrigger, when click open et set position of the popup form
-    document.querySelectorAll('.popupTrigger').forEach(function (item) {
-        item.addEventListener('click', function (e) {
-            e.preventDefault();
-            id = e.target.dataset.popupId
-            togglePopup(e.target.dataset.popupId);
-        })
+        if(close !== null){
+            close.addEventListener('click', function () {
+                self.closePopup();
+            })
+        }
+        this.getState = function () {
+          return isOpen
+        }
+        this.getId = function () {
+          return id
+        }
+    };
+    
+    document.querySelectorAll('.popup').forEach(function (item, i) {
+        allPopup.push(new Popup({
+            force: true,
+            popup: document.getElementById(item.parentElement.id)
+        }))
     })
 
-    // Listen to resize event and don't position if the popup is closed
-    window.addEventListener('resize', function () {
-        if (isOpen) {
-            position();
-        } else {
-            return
-        }
-    });
+    document.querySelectorAll('.popupTrigger').forEach( function (item) {
+        item.addEventListener('click',  function (e) {
+            e.preventDefault();
+            var thisPopup  = allPopup.find(function (x) {
+                if(x.id === e.target.dataset.popupId)
+                    return x;
+            })
+            if (thisPopup.getState === true) {
+                thisPopup.closePopup();
+            }
+            thisPopup.openPopup()
+        })
+    })
 }
 
 function faq() {

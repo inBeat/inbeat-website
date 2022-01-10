@@ -1,3 +1,6 @@
+.noTrigger{
+	pointer-events: none !important;
+}
 .popupTrigger {
 	cursor: pointer;
 }
@@ -11,7 +14,7 @@
 .popupOverlay {
 	z-index: -1;
 	opacity: 0;
-	display: block;
+	display: flex;
 	background: rgba(0, 0, 0, 0.6);
 	position: fixed;
 	top: 0;
@@ -19,24 +22,28 @@
 	left: 0;
 	right: 0;
 	transition: all .2s ease-in-out;
+
+	justify-content: center;
+	align-items: center;
 	&.popupOverlay--fadeIn {
 		opacity: 1;
 		z-index: 100;
 	}
 	.popup {
 		height: auto;
-		padding: 10px;
+		//padding: 10px;
+		margin: 10px;
 		@include breakpoint(sm) {
 			width: 800px;
-			height: 600px;
+			//height: 600px;
 		}
 		@include breakpoint(md) {
 			width: 1000px;
-			height: 720px;
+			//height: 720px;
 		}
 		opacity: 0;
 		background-color: white;
-		position: absolute;
+		//position: absolute;
 		transform: translateY(100px);
 		transition: all .25s ease-in-out;
 		&.popupInner--fadeIn {
@@ -48,12 +55,22 @@
 			height: auto;
 		}
 		.content-wrapper {
-			padding: 0px;
+	
 			video {
-				border-radius: 10px;
 				width: 100%;
+				padding-top: 15px;
+				@include breakpoint(sm) {
+					padding-top: 60px;
+				}
+			}
+			.content-video{
+				padding: 0 15px;
+				@include breakpoint(sm) {
+					padding:0 50px
+				}
 			}
 		}
+
 		.close {
 			z-index: 100;
 			cursor: pointer;
@@ -75,13 +92,14 @@
 			border: none;
 			font-size: 18px;
 			font-weight: 400;
-			position: absolute;
+			margin-top: 10px;
 			bottom: 0;
 			padding: 5px 0px;
 			cursor: pointer;
 			border-radius: 0;
 			outline: none !important;
 			@include breakpoint(sm) {
+				margin-top: 40px;
 				height: 112px;
 				padding: 5px 0px;
 			}
