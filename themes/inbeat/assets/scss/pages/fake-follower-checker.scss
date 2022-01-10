@@ -255,10 +255,13 @@
               transform: translateY(-50%);
               text-align: center;
               font-weight: bold;
-              font-size: 40px;
+              font-size: 30px;
               line-height: 29px;
               text-align: center;
               margin-top: 20px;
+              @include breakpoint(sm) {
+                font-size: 40px;
+              }
               span{
                 font-weight: 400;
                 font-size: 14px;
@@ -288,6 +291,36 @@
     .stats {
         .card{
             padding: 60px 20px;
+            
+            .likes {
+                margin-top:25px;
+                @include breakpoint(sm) {
+                    margin: 0;
+                }
+                svg {
+                    fill: $red;
+                }
+            }
+            .engagement{
+                margin: 25px 0;
+                @include breakpoint(sm) {
+                    margin: 0;
+                }
+                svg {
+                    fill: $green;
+                }
+            } 
+            .followers {
+                margin-bottom:25px;
+                @include breakpoint(sm) {
+                margin: 0;
+                }
+                svg {
+                    width: 21px;
+                    height: 21px;
+                    fill: $yellow;
+                }
+            }
         }
         p {
             font-weight: 700;
@@ -304,17 +337,6 @@
             margin-top: 5px;
         }
 
-        .likes svg {
-            fill: $red;
-        }
-        .engagement svg {
-            fill: $green;
-        }
-        .followers svg {
-            width: 21px;
-            height: 21px;
-            fill: $yellow;
-        }
     }
         a {
             width: 100%;
