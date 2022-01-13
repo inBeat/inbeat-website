@@ -3,13 +3,13 @@ title: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 description: >-
   This is a guide that shows you how to find, pitch and manage 100s of Youtube
   influencers. 
-titre: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
+titre: 'Closing 181 Youtubers for Your Brand [A COMPLETE GUIDE]'
 slug: ultimate-guide-youtuber-outreach
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/closing-181-youtubers-for-your-brand.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/closing-181-youtubers-for-your-brand.png
-lastmod: '2020-04-27T19:09:49.000-04:00'
+lastmod: '2022-01-13T12:39:55.000-05:00'
 date: '2019-04-12T18:37:00.000-04:00'
 summary: >-
   This is a guide that shows you how to find, pitch and manage 100s of Youtube
@@ -18,7 +18,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tutorials
+  - Social Media
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

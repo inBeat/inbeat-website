@@ -25,13 +25,15 @@ const createMdFilesFromGhost = async () => {
       include: "tags,authors",
       formats: ["html"],
       filter: [
-        "tag:studies",
-        "tag:tips",
-        "tag:tutorials",
-        "tag:wikis",
-        "tag:podcasts",
-        "tag:guides",
         "tag:ambassador-marketing",
+        "tag:cpg",
+        "tag:influencer-marketing",
+        "tag:instagram",
+        "tag:micro-influencer-marketing",
+        "tag:podcasts",
+        "tag:social-media",
+        "tag:tiktok",
+        "tag:ugc",
       ],
     });
 

@@ -7,7 +7,7 @@ titre: What Is an Influencer Search Engine?
 slug: what-is-an-influencer-search-engine
 feature_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2.png'
-lastmod: '2020-08-10T13:38:37.000-04:00'
+lastmod: '2022-01-13T12:23:24.000-05:00'
 date: '2020-06-11T15:10:48.000-04:00'
 summary: >-
   An influencer search engine is a tool, which helps you find influencers on
@@ -16,8 +16,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Influencer Marketing
 authors:
   - id: 5edfb3681387ab066ce8fe7f
     name: Alexandra Kazakova

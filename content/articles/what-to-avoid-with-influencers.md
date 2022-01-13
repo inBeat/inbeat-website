@@ -10,7 +10,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/avoid-these-5-things-at-all-costs-when-working-with-influencers.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/avoid-these-5-things-at-all-costs-when-working-with-influencers.png
-lastmod: '2020-10-12T18:16:32.000-04:00'
+lastmod: '2022-01-13T12:36:12.000-05:00'
 date: '2020-04-07T17:52:00.000-04:00'
 summary: >-
   This article covers tips and tricks to detect fraudulent influencers. We go
@@ -20,7 +20,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tips
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

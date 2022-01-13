@@ -10,7 +10,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2021/04/Influencer-Search-Enginedemo-custom-search-influncers-1.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2021/04/Influencer-Search-Enginedemo-custom-search-influncers-1.png
-lastmod: '2021-04-10T12:11:46.000-04:00'
+lastmod: '2022-01-13T13:48:34.000-05:00'
 date: '2021-04-10T07:48:56.000-04:00'
 summary: >-
   In this demo, I will walk you through our new custom influencer search feature
@@ -20,7 +20,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tutorials
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

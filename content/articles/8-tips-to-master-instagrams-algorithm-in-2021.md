@@ -10,7 +10,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2021/05/micro-influencer-marketing-for-cbd-brands.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2021/05/micro-influencer-marketing-for-cbd-brands.png
-lastmod: '2021-07-29T03:44:37.000-04:00'
+lastmod: '2022-01-13T12:37:28.000-05:00'
 date: '2021-05-11T08:34:02.000-04:00'
 summary: >-
   While sorting content based on interests makes sense, Instagram’s algorithm
@@ -20,7 +20,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tips
+  - Instagram
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

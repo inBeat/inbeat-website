@@ -9,7 +9,7 @@ titre: Influencer Marketing for Fashion Brands
 slug: influencer-marketing-for-fashion-brands
 feature_image: 'https://ghost.inbeat.co/content/images/2021/04/youtube-trends-2021-1.png'
 og_image: 'https://ghost.inbeat.co/content/images/2021/04/youtube-trends-2021-1.png'
-lastmod: '2021-06-30T14:20:40.000-04:00'
+lastmod: '2022-01-13T12:19:39.000-05:00'
 date: '2021-04-29T12:12:40.000-04:00'
 summary: >-
   Studies show that the global fashion influencer marketing market will grow by
@@ -20,7 +20,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Studies
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

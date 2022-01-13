@@ -7,16 +7,16 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/05/how-to-find-tik-tok-Influencers-for-free.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/05/how-to-find-tik-tok-Influencers-for-free.png
-lastmod: '2020-11-21T08:30:00.000-05:00'
+lastmod: '2021-12-07T10:12:07.000-05:00'
 date: '2020-05-02T11:43:37.000-04:00'
 summary: >-
   This article goes through the different methods to find TikTok influencers for
   your influencer marketing
 i18nlanguage: en
-weight: 0
+weight: 1
 draft: false
 categories:
-  - Tutorials
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

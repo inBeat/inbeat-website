@@ -14,7 +14,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-slash-your-cost-per-conversion-by-80-using-influencer-generated-content.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-slash-your-cost-per-conversion-by-80-using-influencer-generated-content.png
-lastmod: '2021-07-29T03:46:05.000-04:00'
+lastmod: '2022-01-13T12:34:33.000-05:00'
 date: '2020-02-12T18:23:00.000-05:00'
 summary: >-
   Influencer-generated content (IGC) or user-generated content (UGC) outperforms
@@ -24,7 +24,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tips
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

@@ -8,7 +8,7 @@ titre: Ultimate Guide to Creating a Brand Ambassador Program
 slug: creating-a-brand-ambassador-program
 feature_image: 'https://ghost.inbeat.co/content/images/2020/12/Banner-for-Articles.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/12/Banner-for-Articles.png'
-lastmod: '2020-12-08T13:14:14.000-05:00'
+lastmod: '2022-01-13T12:22:56.000-05:00'
 date: '2020-12-08T03:06:03.000-05:00'
 summary: >-
   The people who hold the most influencing power in the marketplace could
@@ -19,8 +19,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Ambassador marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

@@ -4,7 +4,7 @@
 {{- $category = lower (index .Params.categories 0) -}}
 {{- $hasCategory = true -}}
 {{- end -}}
-<div class="post col-md-4 col-xs-12 post{{ if $hasCategory }} {{ $category }}{{ end }}">
+<div class="post col-md-4 col-xs-12 post{{ if $hasCategory }} {{ $category | urlize }}{{ end }}">
     <a href="{{.Permalink}}" title="{{.Params.titre}}" class="img-link">
         <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
     </a>
