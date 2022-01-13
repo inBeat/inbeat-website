@@ -10,17 +10,17 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/micro-influencer-marketing-for-mobile-apps.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/micro-influencer-marketing-for-mobile-apps.png
-lastmod: '2020-11-30T16:36:51.000-05:00'
+lastmod: '2022-01-13T12:35:51.000-05:00'
 date: '2020-03-30T18:13:00.000-04:00'
 summary: >-
   Micro-influencer marketing is a powerful way for mobile apps to drive
   downloads and awareness to their brand. This article covers actionable advice
   to help you skyrocket your influencer marketing
 i18nlanguage: en
-weight: 1
+weight: 0
 draft: false
 categories:
-  - Tips
+  - Micro-influencer marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau
@@ -37,7 +37,7 @@ authors:
     url: 'https://ghost.inbeat.co/author/david/'
 
 ---
-<p>Micro-influencer marketing is a powerful strategy for mobile apps. It acts as a user acquisition channel, a content creation pipeline, and a top of the funnel awareness for your brand. There are many levers you can pull to leverage <strong>mobile application influencer marketing</strong>.</p><!--kg-card-begin: html-->{{% quote author="Jon Howard" position="Head of Influencer Relations at Flaregames" %}}
+<p><a href="https://www.inbeat.co/articles/micro-influencer-marketing-the-ultimate-guide/">Micro-influencer marketing</a> is a powerful strategy for mobile apps. It acts as a user acquisition channel, a content creation pipeline, and a top of the funnel awareness for your brand. There are many levers you can pull to leverage <strong>mobile application influencer marketing</strong>.</p><!--kg-card-begin: html-->{{% quote author="Jon Howard" position="Head of Influencer Relations at Flaregames" %}}
 Over the last 2 years, we’ve experienced cases of influencer-driven UA ads performing twice as well (in terms of click-through rate %) as other creatives in our video networks at the time.
 {{% /quote %}}<!--kg-card-end: html--><p></p><p>In this article, I will show you different tactics to skyrocket your mobile app influencer marketing.</p><p>Let’s get into it.</p><h3 id="tactic-1-build-a-referral-or-affiliate-program">Tactic #1: Build a Referral or Affiliate Program</h3><p>Most apps already have a referral or affiliate program, but if you don’t, it is something to consider seriously.</p><p>A referral or affiliate program will allow you to identify your top-performing micro-influencers and build long-term relationships with them. If you can address your influencers’ audiences multiple times in a given period, you will increase trust, which by itself will affect your bottom line metrics.</p><p>For example, <a href="https://aaptiv.com/">Aaptiv</a>, a mobile fitness app, pays out its partners for every sales:</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/apps_3.png" class="kg-image" alt="alt_text" title="image_tooltip"></figure><p>Additionally, you should consider incentivizing your downloads. Give discounts or exclusive in-game content that can only be accessed through your network of influencers.</p><p>Treat these ambassadors as your army of inbound salespeople promoting your app. Arm them with convincing material.</p><h3 id="tactic-2-create-unique-ads-to-power-your-media-buy">Tactic #2: Create Unique Ads to Power Your Media Buy</h3><p>Creating new ad concepts is challenging. Additionally, combatting ad fatigue is a big part of media buying. You can leverage micro-influencers as content creators to generate outside-the-box concepts that will drive low CPIs.</p><p>Here is an example of a top-performing ad we have created through our <a href="https://inbeat.agency/mobile-applications/">DFY influencer agency </a>by leveraging influencers in our network:</p><!--kg-card-begin: html--><iframe src="https://drive.google.com/file/d/1ISuJMwFVZWH0ewTjNSEDN8Uk-qwS6Qds/preview" width="640" height="480"></iframe><!--kg-card-end: html--><p>You can use this tactic to create original content on new markets, fast. For instance, we have leveraged the same strategy to help our client break into the Japanese and Portugese markets in a matter of weeks<a href="https://www.inbeat.co/engagement-rate-calculator-instagram/">. Influencers with high engagement rate</a> are much more likely to create unique concepts.</p><!--kg-card-begin: html-->{{% protip title="Side note" %}}
 If you want to learn more about how our software or our DFY service can help you scale influencer marketing for your mobile application, feel free to [contact me](https://calendly.com/inbeatagency/inbeat-strategy-session)

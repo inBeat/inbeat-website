@@ -51,7 +51,6 @@ h4 {
     }
 }
 
-
 h5 {
     font-weight: 500;
     font-size: 1.25rem;
@@ -64,20 +63,19 @@ h5 {
     }
 }
 
-.line{
+.line {
     border-top: 1px solid rgba(0, 0, 0, 0.15);
-    margin-top: .75rem;
-    margin-bottom: .75rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
     width: 100%;
 }
 
 .progress-bar--container {
-    .progress-bar{
-        background:  linear-gradient(90deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
+    .progress-bar {
+        background: linear-gradient(90deg, #ffe9f0 0%, #faecdb 51.04%, #d6ebe4 100%);
         position: fixed;
         height: 5px;
         width: 0%;
-      
     }
 }
 
@@ -103,7 +101,7 @@ h5 {
     img {
         max-width: 100%;
     }
-    .banner{
+    .banner {
         margin-bottom: 2rem;
     }
     .category {
@@ -112,6 +110,7 @@ h5 {
         padding: 0.125rem 1.125rem;
         font-size: 0.6875rem;
         line-height: 1rem;
+        background-color: #e3e3e3;
     }
     .meta-box {
         margin: 1.5rem 0 2rem;
@@ -135,7 +134,7 @@ h5 {
             vertical-align: middle;
         }
     }
-    &.tips {
+    &.influencer-marketing {
         .category {
             background-color: $red_sub;
         }
@@ -143,7 +142,7 @@ h5 {
             color: $red !important;
         }
     }
-    &.studies,
+    &.micro-influencer-marketing,
     &.guides,
     &.ambassador-marketing {
         .category {
@@ -153,7 +152,7 @@ h5 {
             color: $green !important;
         }
     }
-    &.tutorials,
+    &.ugc,
     &.wikis {
         .category {
             background-color: $yellow_sub;
@@ -303,7 +302,7 @@ h5 {
         margin-right: auto;
         margin-bottom: 2em !important;
     }
-    &.tips {
+    &.influencer-marketing {
         ul li::before,
         blockquote {
             border-color: $red;
@@ -321,7 +320,7 @@ h5 {
             color: $red;
         }
     }
-    &.studies,
+    &.micro-influencer-marketing,
     &.guides,
     &.ambassador-marketing {
         ul li::before,
@@ -341,7 +340,7 @@ h5 {
             color: $green;
         }
     }
-    &.tutorials,
+    &.ugc,
     &.wikis {
         ul li::before,
         blockquote {
@@ -401,16 +400,16 @@ h5 {
             padding: 5rem;
         }
     }
-    .tips {
+    .influencer-marketing {
         background-color: $red_sub;
     }
-    .studies,
+    .micro-influencer-marketing,
     .podcasts,
     .guides,
     .ambassador-marketing {
         background-color: $green_sub;
     }
-    .tutorials,
+    .ugc,
     .wikis {
         background-color: $yellow_sub;
     }

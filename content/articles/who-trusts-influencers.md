@@ -7,7 +7,7 @@ titre: Who Trusts Influencers?
 slug: who-trusts-influencers
 feature_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2-1.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2-1.png'
-lastmod: '2020-06-15T12:27:21.000-04:00'
+lastmod: '2022-01-13T12:23:49.000-05:00'
 date: '2020-06-15T12:14:16.000-04:00'
 summary: >-
   In this infographic, we cover the level of trust people have in influencers
@@ -16,8 +16,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

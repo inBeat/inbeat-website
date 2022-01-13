@@ -1,4 +1,7 @@
 https://mg.inbeat.co/* https://www.inbeat.co/:splat 301!
+https://www.inbeat.co/categories/tips https://www.inbeat.co/categories/influencer-marketing 301!
+https://www.inbeat.co/categories/studies https://www.inbeat.co/categories/micro-influencer-marketing 301!
+https://www.inbeat.co/categories/tutorials https://www.inbeat.co/categories/ugc 301!
 
 # Redirect default Netlify subdomain to primary domain
 https://mystifying-allen-be5d31.netlify.com/* https://www.inbeat.co/:splat 301!

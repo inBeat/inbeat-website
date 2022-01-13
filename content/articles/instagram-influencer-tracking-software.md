@@ -7,7 +7,7 @@ titre: Instagram Influencer Tracking Software
 slug: instagram-influencer-tracking-software
 feature_image: 'https://ghost.inbeat.co/content/images/2020/08/Banner-for-Articles.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/08/Banner-for-Articles.png'
-lastmod: '2020-11-28T06:01:21.000-05:00'
+lastmod: '2022-01-13T13:44:04.000-05:00'
 date: '2020-08-24T13:20:00.000-04:00'
 summary: >-
   An Instagram Influencer tracking software is essential to attribute
@@ -16,7 +16,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tutorials
+  - Instagram
 authors:
   - id: 5edfb3681387ab066ce8fe7f
     name: Alexandra Kazakova

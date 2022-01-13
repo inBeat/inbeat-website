@@ -8,7 +8,7 @@ titre: How to Write an Influencer Brief
 slug: how-to-write-an-influencer-brief
 feature_image: 'https://ghost.inbeat.co/content/images/2020/08/banner-image-1.png'
 og_image: 'https://ghost.inbeat.co/content/images/2020/08/banner-image-1.png'
-lastmod: '2020-08-22T10:15:22.000-04:00'
+lastmod: '2022-01-13T12:29:53.000-05:00'
 date: '2020-08-22T10:13:10.000-04:00'
 summary: >-
   An influencer brief is key to a successful influencer marketing campaign. Once
@@ -18,8 +18,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Influencer Marketing
 authors:
   - id: 5edfb3681387ab066ce8fe7f
     name: Alexandra Kazakova

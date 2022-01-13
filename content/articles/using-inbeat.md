@@ -9,7 +9,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-use-inBeat-to-find-influencers.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-use-inBeat-to-find-influencers.png
-lastmod: '2020-11-21T08:33:58.000-05:00'
+lastmod: '2022-01-13T12:42:26.000-05:00'
 date: '2020-02-03T18:46:00.000-05:00'
 summary: >-
   In this guide, you will learn how to create and run an influencer marketing
@@ -18,7 +18,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Tutorials
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

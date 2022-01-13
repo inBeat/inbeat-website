@@ -10,7 +10,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-a-kids--fashion-brand-used-inBeat-to-work-with-micro-influencers.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-a-kids--fashion-brand-used-inBeat-to-work-with-micro-influencers.png
-lastmod: '2020-04-28T08:04:42.000-04:00'
+lastmod: '2022-01-13T12:16:02.000-05:00'
 date: '2020-03-26T18:19:00.000-04:00'
 summary: >-
   Deux par Deux is a kid's fashion brand which used inBeat to find relevant
@@ -20,7 +20,7 @@ i18nlanguage: en
 weight: 1
 draft: false
 categories:
-  - Studies
+  - Micro-influencer marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

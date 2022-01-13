@@ -10,17 +10,17 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2021/04/micro-influencer-marketing-for-cbd-brands.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2021/04/micro-influencer-marketing-for-cbd-brands.png
-lastmod: '2021-04-09T04:14:51.000-04:00'
+lastmod: '2021-11-11T10:49:23.000-05:00'
 date: '2021-04-09T04:14:51.000-04:00'
 summary: >-
   Read this guide to find out more about the pros and cons of influencer
   marketing for CBD brands. We’ll discuss some legal background, plus how to
   pick the right influencers and channels.
 i18nlanguage: en
-weight: 1
+weight: 0
 draft: false
 categories:
-  - Studies
+  - Influencer Marketing
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

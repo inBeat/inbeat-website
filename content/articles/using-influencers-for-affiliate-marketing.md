@@ -9,7 +9,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/06/using-influencers-for-affiliate-marketing.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/06/using-influencers-for-affiliate-marketing.png
-lastmod: '2021-04-16T09:38:10.000-04:00'
+lastmod: '2022-01-13T12:24:30.000-05:00'
 date: '2020-06-24T09:49:43.000-04:00'
 summary: >-
   An Instagram Influencer Jason Stone (aka the Millionaire Mentor) made $7
@@ -18,8 +18,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Influencer Marketing
 authors:
   - id: 5edfb3681387ab066ce8fe7f
     name: Alexandra Kazakova

@@ -39,8 +39,8 @@
         h4 {
             //height: 72px;
             font-weight: bold;
-            margin-top: .75rem;
-            margin-bottom: .75rem;
+            margin-top: 0.75rem;
+            margin-bottom: 0.75rem;
             a {
                 font-size: inherit;
                 line-height: inherit;
@@ -56,7 +56,7 @@
             overflow: hidden;
         }
         .author {
-            margin-bottom: auto; 
+            margin-bottom: auto;
             font-size: 0.6875rem;
             line-height: 1rem;
             color: $dark_sub;
@@ -70,20 +70,21 @@
             padding: 0.125rem 0.375rem;
             font-size: 0.6875rem;
             line-height: 1rem;
+            background-color: #e3e3e3;
         }
-        &.tips {
+        &.influencer-marketing {
             .category {
                 background-color: $red_sub;
             }
         }
-        &.studies,
+        &.micro-influencer-marketing,
         &.guides,
         &.ambassador-marketing {
             .category {
                 background-color: $green_sub;
             }
         }
-        &.tutorials,
+        &.ugc,
         &.wikis {
             .category {
                 background-color: $yellow_sub;
@@ -141,19 +142,19 @@
             }
         }
     }
-    &.tips {
+    &.influencer-marketing {
         .post {
             background-color: $red_sub;
         }
     }
-    &.studies,
+    &.micro-influencer-marketing,
     &.guides,
     &.ambassador-marketing {
         .post {
             background-color: $green_sub;
         }
     }
-    &.tutorials,
+    &.ugc,
     &.wikis {
         .post {
             background-color: $yellow_sub;

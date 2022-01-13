@@ -9,16 +9,16 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2021/04/Influencer-Search-Engine-3top-youtube-trends-2021.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2021/04/Influencer-Search-Engine-3top-youtube-trends-2021.png
-lastmod: '2021-09-28T10:06:29.000-04:00'
+lastmod: '2021-11-11T13:47:50.000-05:00'
 date: '2021-04-01T10:06:38.000-04:00'
 summary: >-
   The 2020 pandemic saw a steep rise in YouTube consumption. What YouTube trends
   should we keep our eyes peeled for in 2021? Let’s dive into them.
 i18nlanguage: en
-weight: 1
+weight: 0
 draft: false
 categories:
-  - Studies
+  - Social Media
 authors:
   - id: 5ea720001387ab066ce8fbdf
     name: David Morneau

@@ -41,6 +41,9 @@ defaultContentLanguageInSubdir = false
 [permalinks]
   singles = "/:slug/"
 
+[security.funcs]
+  getenv = ["IS_PROD"]
+
 # [Languages.fr]
 # [Languages.fr.Taxonomies]
 # category = "categories"

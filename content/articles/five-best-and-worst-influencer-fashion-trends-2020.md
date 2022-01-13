@@ -9,7 +9,7 @@ feature_image: >-
   https://ghost.inbeat.co/content/images/2020/07/using-influencers-for-affiliate-marketing.png
 og_image: >-
   https://ghost.inbeat.co/content/images/2020/07/using-influencers-for-affiliate-marketing.png
-lastmod: '2020-07-27T17:08:50.000-04:00'
+lastmod: '2022-01-13T12:26:08.000-05:00'
 date: '2020-07-19T08:27:59.000-04:00'
 summary: >-
   inBeat surveyed over 300 Instagram micro-influencers to reveal the fashion
@@ -18,8 +18,7 @@ i18nlanguage: en
 weight: 0
 draft: false
 categories:
-  - Wikis
-unlisted: true
+  - Social Media
 authors:
   - id: 5edfb3681387ab066ce8fe7f
     name: Alexandra Kazakova
