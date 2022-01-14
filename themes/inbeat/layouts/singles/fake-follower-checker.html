@@ -6,7 +6,7 @@
 {{- $forInstagram := eq .Params.platform "instagram" -}}
 {{- $username := "amoureuxdumonde"}}
 {{- if not $forInstagram -}}
-{{- $username = "jasminmccarthyy" -}}
+{{- $username = "watchaswewander" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
     <section class="container mobile-adjusted page-top" id="ffc-header">
@@ -77,7 +77,7 @@
                         <div>
                             <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
                         </div>
-                        <svg viewBox="-100 0 500 200"  fill="none">
+                        <svg viewBox="-100 0 500 200"  fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
                         <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
                         <path id="gauge" fill="none" :d=arcStyle stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
                         <g filter="url(#filter0_d_2410_5728)" >
@@ -170,12 +170,12 @@
                             <hr>
                             <div class="row">
                                 <div class="col-lg-4 col-xs-12 average-comments">
-                                    <p>{ user.comments_per_likes.toFixed(2)*100 }%</p><span>Comments/Likes</span>
+                                    <p>{ (user.comments_per_likes * 100).toFixed(1) }%</p><span>Comments/Likes</span>
                                 </div>
                                 <div class="col-lg-8 col-xs-12">
                                     <p class="percent">Target: { commentsLikesTarget.toFixed(0) }%</p>
                                     <div class="data-progressbar">
-                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#E7CAA7" :style="{'width':commentsLikesTargetPercent}"></span>
+                                        <span id="followersTarget-data-progress" class="data-progressbar--fill" style="background-color:#95BEB0" :style="{'width':commentsLikesTargetPercent}"></span>
                                     </div>
                                 </div>
                             </div>
@@ -353,16 +353,6 @@
                         return 0;
                 }
             },
-            clearFormPopup(formObject){
-                setCookie('erc-submit', true, 60);
-                togglePopup('formPopup');
-                // reset value
-                formObject[0].value = null;
-                formObject[1].value = 'default';
-                document.getElementById('banner').style.pointerEvents= 'all';
-                this.errorform = null;
-                this.loadingform = false;
-            },
             getGroupId(type, continent, country){
               if(type == 'Influencer'){
                 return 109535675
@@ -377,60 +367,6 @@
                   else{
                     return 109535666 
                   }
-            },
-            async formSubmit() {
-                this.loadingform = true;
-                var error = this.errorform;
-                var _this = this;
-                var formElements = document.getElementById('form-popup').elements;
-                // Reset error on element change
-                formElements[1].addEventListener('change', function(e){
-                    formElements[1].classList.remove('input-error')
-                });
-               if (!this.validateEmail(formElements[0])) {
-                    formElements[0].classList.add('input-error')
-                    this.loadingform = false;
-                    return;
-                } else {
-                    formElements[0].classList.remove('input-error')
-                }
-                // Check dropdown field
-                if (formElements[1].value === 'default') {
-                    formElements[1].classList.add('input-error')
-                    this.loadingform = false;
-                    return;
-                } else {
-                    formElements[1].classList.remove('input-error')
-                }
-                //https://graphql.inbeat.co/ipdata
-                await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
-                    const json = JSON.parse(e);
-                    const continent = json.continent_code;
-                    const country = json.country_code;
-                    const type = formElements[1].value
-                    const email = formElements[0].value
-                    const listId = _this.getListID(formElements[1].value)
-                    let group = await _this.getGroupId(type, continent, country);
-                    var data = JSON.stringify({
-                      'url': `/api/v2/groups/${group}/subscribers`,
-                      'email': email,
-                      'fields': {
-                        'category': type,
-                        'country': json.country_name
-                      }
-                    });
-
-                    // https://graphql.inbeat.co/mailer-lite
-                    try{
-                      await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
-                      _this.clearFormPopup(formElements);
-                    }catch (error) {
-                      console.error(error.statusText);
-                      _this.errorform = 'There has been an error, please try again';
-                      return;
-                    }
-                });
-                this.loadingform = false;
             },
             getCookie(name){
                 var nameEQ = name + '=';
@@ -497,16 +433,18 @@
                 return (x - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
             },
             userType(nbFollowers){
-                    if(nbFollowers > 1 && nbFollowers < 10000)
-                        return {'likes_follower': 0.07, 'comments_likes': 0.22, 'type': 'nano-influencer'};
+                    if(nbFollowers < 1000)
+                        return {'likes_follower': 0.1, 'comments_likes': 0.1, 'type': 'small-creator'};
+                    if(nbFollowers > 1000 && nbFollowers < 10000)
+                        return {'likes_follower': 0.1, 'comments_likes': 0.1, 'type': 'nano-influencer'};
                     if(nbFollowers >= 10000 && nbFollowers < 50000)
-                        return {'likes_follower': 0.05, 'comments_likes': 0.17, 'type': 'micro-influencer'};
+                        return {'likes_follower': 0.08, 'comments_likes': 0.06, 'type': 'micro-influencer'};
                     if(nbFollowers >= 50000 && nbFollowers < 300000)
-                        return {'likes_follower': 0.04, 'comments_likes': 0.11, 'type': 'midtier-influencer'};
+                        return {'likes_follower': 0.06, 'comments_likes': 0.04, 'type': 'midtier-influencer'};
                     if(nbFollowers >= 300000 && nbFollowers < 1000000)
-                        return {'likes_follower': 0.03, 'comments_likes': 0.07, 'type': 'macro-influencer'};
+                        return {'likes_follower': 0.04, 'comments_likes': 0.02, 'type': 'macro-influencer'};
                     if(nbFollowers >= 1000000)
-                        return {'likes_follower': 0.02, 'comments_likes': 0.05, 'type': 'mega-influencer'};
+                        return {'likes_follower': 0.035, 'comments_likes': 0.01, 'type': 'mega-influencer'};
             },
             async submit() {
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
@@ -566,14 +504,6 @@
                     _this.loading = false;
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-
-                //disable form popup for now
-                /*if(!this.getCookie('erc-submit') && this.getFirstData === true){
-                    document.getElementById('banner').style.pointerEvents= 'none';
-                    request.addEventListener('loadend', (() =>{
-                        setTimeout(function(){ this.togglePopup('formPopup'); }, 500);
-                    }));
-                }*/
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
