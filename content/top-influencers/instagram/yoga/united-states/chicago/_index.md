@@ -67,18 +67,6 @@ profiles:
     id: ck5q3quxam05d0i11ohu2exi9
     verified: false
     hashtags: "#crystaltones, #soundbath, #sendinglove, #proactivepractice"
-  - username: "xostephmorgan"
-    fullname: >-
-      Stephanie Morgan | Chicago
-    bio: >-
-      ✧ Yoga ✧ Inspiration ✧ Healthy Living 🧘🏼‍♀️ 200 Hour Certified Yoga Teacher 📧 XoStephMorgan@gmail.com Read my latest blog ⬇️
-    location: "United States"
-    followers: 7620
-    engagement: 805
-    commentsToLikes: 0.114672
-    id: ck0vveb0mor4j0i19wrj8l21w
-    verified: false
-    hashtags: "#ad, #enjoypress, #stayinpresson, #letspressthroughthis"
   - username: "majer_eddie"
     fullname: >-
       Eddie Ryan
