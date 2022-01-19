@@ -15,12 +15,12 @@
                                 <path d="M1 1L5.4698 5L10 1" stroke="black"/>
                             </svg>
                         </a>
-                      <div id="navigation">
+                      <div id="navigation" class="nav">
                           <div class="submenu container">
                               <div class="row">
-                                  {{- range .Site.Data.navigation.col -}}
+                                  {{- range .Site.Data.navigation.solutions -}}
                                   {{ $color := .color }}
-                                  <div class="col-sm-6 col-md-3 column {{ .class }}">
+                                  <div class="column {{ .class }}">
                                       <ul>
                                           <li class="title">
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -30,17 +30,15 @@
                                           </li>
                                           <div class="pages">
                                               {{- range .pages -}}
-                                              <li class="page">
+                                                <li class="page">
                                                   <div class="inner {{ $color }}" class=>
-                                                      <h4>{{ .name }}</h4>
+                                                    <h4>{{ .name }}</h4>
                                                     {{ if .description }}
-                                                    <p>{{ .description }}</p>
+                                                        <p>{{ .description }}</p>
                                                     {{ end }}  
                                                   </div>
-                                                      </li>
+                                                </li>
                                               {{- end -}}
-
-
                                           </div>
                                       </ul>
                                   </div>
@@ -50,6 +48,53 @@
                       </div>
                     </li>
                     <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
+                    <li class="menu-parent has-submenu">
+                        <a href="javascript:void(0)" title="Features">
+                            Resources
+                            <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1L5.4698 5L10 1" stroke="black"/>
+                            </svg>
+                        </a>
+                      <div id="navigation" class="nav">
+                          <div class="submenu container  auto-width">
+                              <div class="row">
+                                  {{- range .Site.Data.navigation.resources -}}
+                                  {{ $color := .color }}
+                                  <div class="col-sm-6 col-md-4 column {{ .class }}">
+                                      <ul>
+                                          <li class="title">
+                                          <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                          <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+                                          </svg>     
+                                          <h4>{{ .title }}</h4>
+                                          </li>
+                                          <div class="pages">
+                                              {{- range .pages -}}
+                                                <li class="page">
+                                                  <div class="inner {{ $color }}" class=>
+                                                    <h4>{{ .name }}</h4>
+                                                    {{ if .description }}
+                                                        <p>{{ .description }}</p>
+                                                    {{ end }}  
+                                                  </div>
+                                                </li>
+                                              {{- end -}}
+                                           {{ if eq .hasMorePage true }} <div class="more-link">See all tools <span>→</span></div> {{ end }}
+                                          </div>
+                                      </ul>
+                                  </div>
+                                  {{ with .announcement }} <div style="background-color:#{{ .color }}" class="col-sm-6 col-md-4 column announcement">
+                                      <h2>{{ .topText }}</h2>
+                                      <h1>{{ .title }}</h1>
+                                      <a href="https://app.inbeat.co/get-started"  style="background-color:#{{ .cta.color }}" title="Sign up" class="btn btn-lg" target="_blank" >
+                                          {{ .cta.text }}
+                                      </a>
+                                  </div> {{ end }} 
+                                  {{- end -}}
+                              </div>
+                          </div>
+                      </div>
+                    </li>
                 </ul>
             </div>
             <div class="col-xs-4 hide-sm">

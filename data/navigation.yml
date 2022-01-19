@@ -1,7 +1,7 @@
-col:
+solutions:
   - color: grey
     title: Use Cases
-    class: main-column
+    class: main-column col-sm-6 col-md-3
     pages:
       - name: Influencer Marketing
         description: Create successful influencer campaigns of any size in minutes.
@@ -13,7 +13,7 @@ col:
         description: Get your product in the hands of thousands of creators
   - color: pink
     title: By Industry
-    class: width-edit
+    class: width-edit col-sm-6 col-md-3
     pages:
       - name: Agencies
       - name: CPG
@@ -23,15 +23,42 @@ col:
       - name: Mobile applications
   - color: green
     title: By Platform
-    class: width-edit
+    class: width-edit col-sm-6 col-md-3
     pages:
       - name: TikTok
       - name: Instagram
       - name: YouTube
   - color: yellow
     title: By Influencer Type
-    class: width-edit
+    class: width-edit col-sm-6 col-md-3
     pages:
       - name: Nano Influencers
       - name: Micro Influencers
       - name: Macro Influencers
+
+resources:
+  - color: grey
+    title: Learn
+    pages:
+      - name: Articles
+        description: Read about influencer marketing
+      - name: The Pulse Podcast
+        description: Listen to influencer marketing experts
+  - color: grey
+    title: The Toolkit
+    tag: Free
+    hasMorePage: true
+    announcement:
+      color: 393045
+      title: Detailed campaign reports & analytics 
+      topText: Coming Soon!
+      cta:
+        text: Book a demo
+        color: FDE7E6
+        link: #
+    pages:
+      - name: Engagement rate calculator
+      - name: Fake follower checker
+      - name: Collaboration cost calculator
+      - name: TikTok influencer database*
+      - name: Instagram influencer database*
