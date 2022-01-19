@@ -406,6 +406,34 @@ function articleProgressBar() {
   getScroll();
 }
 
+
+function navigation(){
+    var nav = document.getElementById('navigation');
+    var column = nav.querySelectorAll('.column')
+    for (var i = 0; i < column.length; i++) {
+        column[i].addEventListener('mouseover', function (e) {
+            var thisColumn = this;
+            thisColumn.classList.add('active');
+            // loop column
+            for (var j = 0; j < column.length; j++) {
+                if (column[j] != thisColumn) {
+                    column[j].classList.add('fade');
+                }
+            }
+        })
+        column[i].addEventListener('mouseleave', function (e) {
+            var thisColumn = this;
+            thisColumn.classList.remove('active');
+            // loop column
+            for (var j = 0; j < column.length; j++) {
+                if (column[j] != thisColumn) {
+                    column[j].classList.remove('fade');
+                }
+            }
+        })
+    }
+}
+
 (function () {
   scrollTo();
   header();
@@ -416,5 +444,6 @@ function articleProgressBar() {
   popup();
   faq();
   banner();
-  articleProgressBar();
+    articleProgressBar();
+    navigation()
 })();

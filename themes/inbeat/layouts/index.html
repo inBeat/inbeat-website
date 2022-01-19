@@ -1,5 +1,8 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
+
+
+
 <section class="container mobile-adjusted" id="hero">
     <h1>{{- .title | markdownify -}}</h1>
     <h4>{{- .subtitle | markdownify -}}</h4>
@@ -13,7 +16,39 @@
     </div>
 </section>
 {{- end -}}
+<div id="navigation">
+    <div class="submenu container">
+        <div class="row">
+            {{- range .Site.Data.navigation.col -}}
+            {{ $color := .color }}
+            <div class="col-sm-6 col-md-3 column {{ .class }}">
+                <ul>
+                    <li class="title">
+                    <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+                    </svg>     
+                    <h4>{{ .title }}</h4>
+                    </li>
+                    <div class="pages">
+                        {{- range .pages -}}
+                        <li class="page">
+                            <div class="inner {{ $color }}" class=>
+                                <h4>{{ .name }}</h4>
+                              {{ if .description }}
+                              <p>{{ .description }}</p>
+                              {{ end }}  
+                            </div>
+                                </li>
+                        {{- end -}}
+                   
 
+                    </div>
+                </ul>
+            </div>
+            {{- end -}}
+        </div>
+    </div>
+</div>
 {{- partial "site/testimonial.html" . -}}
 {{- range .Params.features -}}
 <section class="container m-tb-80 home-features" id="{{- .id -}}">

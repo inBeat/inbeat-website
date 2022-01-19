@@ -1,0 +1,37 @@
+col:
+  - color: grey
+    title: Use Cases
+    class: main-column
+    pages:
+      - name: Influencer Marketing
+        description: Create successful influencer campaigns of any size in minutes.
+      - name: User Generated Content
+        description: Generate diverse, engaging, platform-native content.
+      - name: Content Marketing
+        description: Increase your paid conversion with ads that don’t look like ads. 
+      - name: Product Sampling
+        description: Get your product in the hands of thousands of creators
+  - color: pink
+    title: By Industry
+    class: width-edit
+    pages:
+      - name: Agencies
+      - name: CPG
+      - name: E-commerce
+      - name: Direct-to-consumer
+      - name: Music labels
+      - name: Mobile applications
+  - color: green
+    title: By Platform
+    class: width-edit
+    pages:
+      - name: TikTok
+      - name: Instagram
+      - name: YouTube
+  - color: yellow
+    title: By Influencer Type
+    class: width-edit
+    pages:
+      - name: Nano Influencers
+      - name: Micro Influencers
+      - name: Macro Influencers
