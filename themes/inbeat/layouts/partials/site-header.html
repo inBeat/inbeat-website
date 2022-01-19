@@ -26,7 +26,7 @@
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                           <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                                           </svg>     
-                                          <h4>{{ .title }}</h4>
+                                          <h4>{{ .title }}</h4>  {{ if .tag}} <span class="tag">{{ .tag }}</span>  {{ end }}
                                           </li>
                                           <div class="pages">
                                               {{- range .pages -}}
@@ -66,7 +66,7 @@
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                           <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                                           </svg>     
-                                          <h4>{{ .title }}</h4>
+                                          <h4>{{ .title }}</h4> {{ if .tag}} <span class="tag">{{ .tag }}</span>  {{ end }}
                                           </li>
                                           <div class="pages">
                                               {{- range .pages -}}
