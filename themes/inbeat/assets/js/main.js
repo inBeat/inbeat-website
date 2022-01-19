@@ -408,9 +408,6 @@ function articleProgressBar() {
 
 
 function navigation(){
-   // var nav = document.getElementById('navigation');
-   // var nav = document.querySelectorAll('.nav')
-    
     var column = document.querySelectorAll('.column')
     for (var i = 0; i < column.length; i++) {
         column[i].addEventListener('mouseover', function (e) {

@@ -15,7 +15,7 @@
                                 <path d="M1 1L5.4698 5L10 1" stroke="black"/>
                             </svg>
                         </a>
-                      <div id="navigation" class="nav">
+                      <div id="navigation">
                           <div class="submenu container">
                               <div class="row">
                                   {{- range .Site.Data.navigation.solutions -}}
@@ -55,12 +55,12 @@
                                 <path d="M1 1L5.4698 5L10 1" stroke="black"/>
                             </svg>
                         </a>
-                      <div id="navigation" class="nav">
-                          <div class="submenu container  auto-width">
+                      <div id="navigation">
+                          <div class="submenu container auto-width">
                               <div class="row">
                                   {{- range .Site.Data.navigation.resources -}}
                                   {{ $color := .color }}
-                                  <div class="col-sm-6 col-md-4 column {{ .class }}">
+                                  <div class="col-sm-4 col-md-4 column {{ .class }}">
                                       <ul>
                                           <li class="title">
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -83,7 +83,7 @@
                                           </div>
                                       </ul>
                                   </div>
-                                  {{ with .announcement }} <div style="background-color:#{{ .color }}" class="col-sm-6 col-md-4 column announcement">
+                                  {{ with .announcement }} <div style="background-color:#{{ .color }}" class="col-sm-4 col-md-4 column announcement">
                                       <h2>{{ .topText }}</h2>
                                       <h1>{{ .title }}</h1>
                                       <a href="https://app.inbeat.co/get-started"  style="background-color:#{{ .cta.color }}" title="Sign up" class="btn btn-lg" target="_blank" >

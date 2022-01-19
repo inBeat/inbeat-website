@@ -3,25 +3,31 @@
   opacity: 0;
   position: absolute;
   transform: translateY(-5px);
-  transition: all 0.15s ease;
+  transition: all 0.15s cubic-bezier(0.215, 0.610, 0.355, 1);
   cursor: default;
   background: white;
   top: 80%;
   z-index: 5;
+
+  @include breakpoint(md-down) {
+    right: 0;
+  }
 
   .submenu {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
     overflow: hidden;
 
     &.auto-width {
-      width: auto;
+      @include breakpoint(md) {
+        width: auto;
+      }
     }
 
     .announcement {
       display: flex;
-      margin-left: auto;
       flex-direction: column;
       color: white;
+      margin-left: auto;
 
       h2 {
         font-size: 14px;
@@ -129,18 +135,18 @@
         flex-direction: row;
         border-bottom: 1px solid rgba(0, 0, 0, 0.10);
 
-        .tag{
-           background-color: #F2F2F2;
-           font-size: 11px;
-           line-height: 16px;
-           border-radius:20px;
-           padding: 2px 8px;
-           letter-spacing: 0.01em;
-           font-weight: normal;
-           margin-left: 8px;
-           line-height: normal;
+        .tag {
+          background-color: #F2F2F2;
+          font-size: 11px;
+          line-height: 16px;
+          border-radius: 20px;
+          padding: 2px 8px;
+          letter-spacing: 0.01em;
+          font-weight: normal;
+          margin-left: 8px;
+          line-height: normal;
         }
-        
+
         h4 {
           font-weight: bold;
         }
@@ -156,10 +162,10 @@
         .more-link {
           padding: 14px 8px;
           opacity: .3;
-          transition: all .15s ease;
+          transition: all .2s ease;
 
           span {
-            transition: all .15s ease;
+            transition: all .2s ease;
           }
 
           &:hover {
@@ -182,7 +188,7 @@
           .inner {
             border-radius: 5px;
             padding-bottom: 30px;
-            transition: all .15s ease;
+            transition: all .2s ease;
 
             &:hover {
               cursor: pointer;
