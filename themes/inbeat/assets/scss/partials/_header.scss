@@ -312,37 +312,82 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: $dark;
+  background-color: white;
   display: none;
   opacity: 0;
   transition: opacity 0.2s;
 
   ul {
-    margin-top: 100px;
-    padding-left: 30px;
+    margin-top: 58px;
+    padding: 0px 30px;
     list-style: none;
-
+    width: 100%;
     li {
       margin-top: 0.7rem;
       margin-bottom: 0.7rem;
-
+      border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+      cursor: pointer;
       @media screen and (max-height: 560px) {
         margin-top: 0.2rem;
         margin-bottom: 0.2rem;
       }
-
       a {
-        color: white !important;
+        padding:  12.5px 0;
+        color: black !important;
         text-decoration: none;
         font-size: 1.625rem;
         line-height: 2.375rem;
         display: block;
         box-sizing: border-box;
       }
+      &.dropdown-item{
+        margin: 0;
+        .content{
+          ul{
+            padding: 0;
+            margin: 0 0 16px 0 ;
+            li{
+              border: none;
+              margin: 0;
+              &:not(:first-child){
+                padding-bottom: 10px;
+              }
+              p{
+                padding: 0;
+                margin: 0;
+                font-size: 11px;
+                line-height: 16px;
+                letter-spacing: 0.01em;
+                opacity: .75;
+              }
+              a{
+               font-size: 16px;
+               line-height: 26px;
+               font-weight: 400;
+               padding-top: 0;
+               padding-bottom: 5px;
+               
+               margin: 0;
+              }
+            }
+          }
+          .content-title{
+            font-weight: bold;
+            svg{
+              margin-right: 5px;
+            }
+          }
+          display: none;
+          &.show{
+            display: block;
+          }
+
+        }
+      }
+
 
       &.has-submenu {
         margin-bottom: 0;
-
         a {
           font-weight: bold;
         }
@@ -378,24 +423,34 @@
 
   #menu-overlay {
     display: block;
+    overflow-y: scroll;
+    overflow-x: none !important;
+    padding-right: 17px; /* Increase/decrease this value for cross-browser compatibility */
+    box-sizing: content-box; /* So the width will be 100% + 17px */
     opacity: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: -17px; /* Increase/Decrease this value for cross-browser compatibility */
+
   }
 
   #header {
     .logo svg {
-      fill: white;
+      fill: rgb(0, 0, 0);
     }
 
     .hamburger-inner,
     .hamburger-inner::before,
     .hamburger-inner::after {
-      background-color: white;
+      background-color: rgb(0, 0, 0);
     }
   }
 
   #header-container {
     z-index: 200;
-    background: $dark;
+    background: white;
   }
 }
 

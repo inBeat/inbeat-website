@@ -42,22 +42,41 @@ function getCookie(name) {
 
 // Open the menu overlay on click
 function header() {
-    var menuBtn = document.getElementById('menu-icon');
-    if(menuBtn === null) return;
-    menuBtn.addEventListener('click', function (e) {
-        if (!menuBtn.classList.contains('is-active')) {
-            menuBtn.classList.add('is-active');
-            document.body.classList.add('with-menu');
-        } else {
-            menuBtn.classList.remove('is-active');
-            document.body.classList.remove('with-menu');
-        }
+  var menuBtn = document.getElementById('menu-icon');
+  var icon = document.getElementById('inbeat-animated-logo');
+  var anim = bodymovin.loadAnimation({
+      container: icon, // Required
+      path: '/animations/inbeat-animated-logo.json', // Required
+      renderer: 'svg', // Required
+      loop: false, // Optional
+      autoplay: false, // Optional
+      name: 'inbeat-animated-logo', // Name for future reference. Optional.
+  });
+  if(menuBtn === null) return;
+  menuBtn.addEventListener('click', function (e) {
+      if (!menuBtn.classList.contains('is-active')) {
+        menuBtn.classList.add('is-active');
+        document.body.classList.add('with-menu');
+        anim.setDirection(1);
+        anim.play();
+      } else {
+        menuBtn.classList.remove('is-active');
+        document.body.classList.remove('with-menu');
+        anim.setDirection(-1);
+        anim.play();
+      }
+    });
+    icon.addEventListener('mouseenter', function (e) {
+        anim.play();
+    });
+    icon.addEventListener('mouseleave', function (e) {
+        anim.stop();
     });
 }
 
 function home() {
     // Icons in the extras section
-    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing', 'inbeat-animated-logo'];
+    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing'];
     homeIcons.forEach(function (iconName) {
         var icon = document.getElementById(iconName);
         if (!icon) {
@@ -433,6 +452,25 @@ function navigation(){
     }
 }
 
+function menuOverlay(){
+  var menu = document.getElementById('menu-overlay');
+
+  var acc = menu.querySelectorAll('.dropdown-item');
+  console.log('acc', acc);
+  if (acc.length === 0) { return }
+  var currentActive = acc[0];
+
+  // loop acc
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener('mousedown', function (e) {
+      console.log('e', e);
+      e.target.nextElementSibling.classList.toggle("show");
+      e.preventDefault();
+    }, true);
+  }
+  
+}
+
 (function () {
   scrollTo();
   header();
@@ -443,6 +481,7 @@ function navigation(){
   popup();
   faq();
   banner();
-    articleProgressBar();
-    navigation()
+  articleProgressBar();
+  navigation();
+  menuOverlay();
 })();
