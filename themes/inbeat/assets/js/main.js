@@ -42,8 +42,14 @@ function getCookie(name) {
 
 // Open the menu overlay on click
 function header() {
-  var menuBtn = document.getElementById('menu-icon');
-  var icon = document.getElementById('inbeat-animated-logo');
+    var menuBtn = document.getElementById('menu-icon');
+    var icon = document.getElementById('inbeat-animated-logo');
+    var mediaQuery = window.matchMedia('(min-width: 768px)');
+    var isOpen = false;
+    mediaQuery.addEventListener("change", function(e) {
+        close();
+    });
+    
   var anim = bodymovin.loadAnimation({
       container: icon, // Required
       path: '/animations/inbeat-animated-logo.json', // Required
@@ -52,25 +58,46 @@ function header() {
       autoplay: false, // Optional
       name: 'inbeat-animated-logo', // Name for future reference. Optional.
   });
-  if(menuBtn === null) return;
-  menuBtn.addEventListener('click', function (e) {
-      if (!menuBtn.classList.contains('is-active')) {
+ 
+    if (menuBtn === null) return;
+    var open = function () {
+        isOpen = true;
         menuBtn.classList.add('is-active');
         document.body.classList.add('with-menu');
+        anim.setSpeed(4);
         anim.setDirection(1);
         anim.play();
-      } else {
+    };
+
+    var close = function () {
+        isOpen = false;
         menuBtn.classList.remove('is-active');
         document.body.classList.remove('with-menu');
+        anim.setSpeed(10);
         anim.setDirection(-1);
         anim.play();
-      }
+    };
+
+    menuBtn.addEventListener('click', function (e) {
+        if (!menuBtn.classList.contains('is-active')) {
+            open();
+        } else {
+            close();
+        }
     });
+
     icon.addEventListener('mouseenter', function (e) {
-        anim.play();
+        if (!isOpen) {
+            anim.setDirection(1);
+            anim.setSpeed(1);
+            anim.play();       
+        }
     });
+    
     icon.addEventListener('mouseleave', function (e) {
-        anim.stop();
+        if (!isOpen) {
+            anim.stop();
+        }
     });
 }
 
@@ -454,17 +481,28 @@ function navigation(){
 
 function menuOverlay(){
   var menu = document.getElementById('menu-overlay');
-
   var acc = menu.querySelectorAll('.dropdown-item');
-  console.log('acc', acc);
   if (acc.length === 0) { return }
   var currentActive = acc[0];
 
-  // loop acc
+  var open = function (elm) {
+    var arrow = elm.querySelector('.arrow-ico');
+    arrow.classList.toggle('open');
+    elm.lastElementChild.classList.toggle("show");
+  };
+  var close = function (elm) {
+    var arrow = elm.querySelector('.arrow-ico');
+    arrow.classList.remove('open');
+    elm.lastElementChild.classList.remove("show");
+  };
+
   for (var i = 0; i < acc.length; i++) {
     acc[i].addEventListener('mousedown', function (e) {
-      console.log('e', e);
-      e.target.nextElementSibling.classList.toggle("show");
+      open(this);
+      if (this != currentActive) {
+        close(currentActive);
+          currentActive = this;
+      }
       e.preventDefault();
     }, true);
   }

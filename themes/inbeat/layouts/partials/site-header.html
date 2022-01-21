@@ -9,13 +9,13 @@
             <div class="col-xs-7 hide-sm">
                 <ul>
                     <li class="menu-parent has-submenu">
-                        <a href="javascript:void(0)" title="Features">
+                        <a href="javascript:void(0)" title="Solutions">
                             Solutions
                             <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M1 1L5.4698 5L10 1" stroke="black"/>
                             </svg>
                         </a>
-                      <div id="navigation">
+                      <div id="navigation" class="no-right">
                           <div class="submenu container">
                               <div class="row">
                                   {{- range .Site.Data.navigation.solutions -}}
@@ -100,8 +100,8 @@
             <div class="col-xs-4 hide-sm">
                 <ul class="right">
                     <li class="cta">
-                        <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-sm btn-crazy-hover no-border" target="_blank">
-                            Try it now
+                        <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy-hover no-border" target="_blank">
+                            Book a demo
                         </a>
                     </li>
                 </ul>
@@ -128,57 +128,53 @@
             <ul>
                 <li ><a href="{{- $.Site.BaseURL -}}/Pricing" title="Pricing">Pricing</a> </li>
                 <li class="dropdown-item">
-                    <a>Solution </a>
-                    <div class="content">
-                        <ul>
-                            <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                            </svg>Use Cases</li>
-                            <li> <a href="">Agencies</a> <p>Create successful influencer campaigns of any size in minutes.</p></li>
-                            <li><a href="">CPG</a> </li>
-                            <li><a href="">Direct-to-consumer</a> </li>
-                            <li><a href="">Agencies</a> </li>
-                            <li><a href="">Mobile applications</a> </li>
-                        </ul>
-                        <ul>
-                            <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                            </svg>By Industry</li>
-                            <li> <a href="">Agencies</a> </li>
-                            <li><a href="">CPG</a> </li>
-                            <li><a href="">Direct-to-consumer</a> </li>
-                            <li><a href="">Agencies</a> </li>
-                            <li><a href="">Mobile applications</a> </li>
-                        </ul>
-                    </div>
-                
+                    <div class="dropdown">
+                        <a>Solution </a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="black"/>
+                        </svg>
+                    </div> 
+                        <div class="content">
+                            {{- range .Site.Data.navigation.solutions -}} 
+                            <ul>
+                                <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+                                </svg>{{ .title }}</li>
+                                {{- range .pages -}}
+                                    <li> <a href="">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                {{ end }}
+                            </ul>
+                            {{- end -}}
+                        </div>
                 </li>
                 <li class="dropdown-item">
-                    <a>Resources </a>
+                    <div class="dropdown">
+                        <a>Resources </a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="black"/>
+                        </svg>
+                    </div>
+                    
                     <div class="content">
-                    <ul>
-                        <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                        </svg>Learn</li>
-                        <li><a href="">Articles</a></li>
-                        <li><a href="">The Pulse Podcast</a></li>
-                    </ul>
-                    <ul>
-                        <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-                        </svg>The Toolkit</li>
-                        <li><a href="">Engagement rate calculator</a></li>
-                    </ul>
+                        {{- range .Site.Data.navigation.resources -}} 
+                        <ul>
+                            <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+                            </svg>{{ .title }}</li>
+                            {{- range .pages -}}
+                                <li> <a href="">{{ .name }}</a> <p>{{ .description }}</p></li>
+                            {{ end }}
+                        </ul>
+                        {{- end -}}
                     </div>
                 </li>
             </ul>
+            <div class="cta">
+                <a class="btn btn-lg" href="https://app.inbeat.co/get-started" target="_blank">
+                    <span>Book a demo — it's free</span>
+                </a>
+                <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+            </div>
         </div>
-    </div>
-
-    <div class="cta">
-        <a class="btn btn-gradient btn-md" href="https://app.inbeat.co/get-started" target="_blank">
-            <span>Try it now</span>
-        </a>
-        <a class="btn btn-md" href="https://app.inbeat.co"><span>Sign in</span></a>
     </div>
 </div>
