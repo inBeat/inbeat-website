@@ -125,7 +125,7 @@
 <div id="menu-overlay">
     <div class="container">
         <div class="row">
-            <ul>
+            <ul class="dropdown-wrapper">
                 <li ><a href="{{- $.Site.BaseURL -}}/Pricing" title="Pricing">Pricing</a> </li>
                 <li class="dropdown-item">
                     <div class="dropdown">
@@ -137,7 +137,7 @@
                         <div class="content">
                             {{- range .Site.Data.navigation.solutions -}} 
                             <ul>
-                                <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <li class="content-title title-black"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                                 </svg>{{ .title }}</li>
                                 {{- range .pages -}}
@@ -158,7 +158,7 @@
                     <div class="content">
                         {{- range .Site.Data.navigation.resources -}} 
                         <ul>
-                            <li class="content-title"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <li class="content-title title--black"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                             </svg>{{ .title }}</li>
                             {{- range .pages -}}

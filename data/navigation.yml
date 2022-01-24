@@ -62,3 +62,18 @@ resources:
       - name: Collaboration cost calculator
       - name: TikTok influencer database*
       - name: Instagram influencer database*
+footer:
+  toolkits:
+    - name: Engagement rate calculator
+    - name: Fake follower checker
+    - name: Collaboration cost calculator
+    - name: TikTok influencer database*
+    - name: Instagram influencer database*
+  social:
+    - name: Facebook
+    - name: Instagram
+    - name: Youtube
+    - name: Linkedin
+  support:
+    - name: Book a demo
+    - name: Send us a message
