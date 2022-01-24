@@ -43,21 +43,76 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
-    if(menuBtn === null) return;
+    var icon = document.getElementById('inbeat-animated-logo');
+    var mediaQuery = window.matchMedia('(min-width: 768px)');
+    var isOpen = false;
+    mediaQuery.addEventListener("change", function(e) {
+        close();
+    });
+    
+  var anim = bodymovin.loadAnimation({
+      container: icon, // Required
+      path: '/animations/inbeat-animated-logo.json', // Required
+      renderer: 'svg', // Required
+      loop: false, // Optional
+      autoplay: false, // Optional
+      name: 'inbeat-animated-logo', // Name for future reference. Optional.
+  });
+ 
+    if (menuBtn === null) return;
+    var open = function () {
+        isOpen = true;
+        menuBtn.classList.add('is-active');
+        document.body.classList.add('with-menu');
+        anim.setSpeed(4);
+        anim.setDirection(1);
+        anim.play();
+    };
+
+    var close = function () {
+        isOpen = false;
+        menuBtn.classList.remove('is-active');
+        document.body.classList.remove('with-menu');
+      var arrow = document.querySelectorAll('.arrow-ico');
+      for (var i = 0; i < arrow.length; i++) {
+        arrow[i].classList.remove('open');
+      }
+      for (var i = 0; i < dropdownItems.length; i++) {
+         for (var j = 0; j < dropdownItems[i].acc.length; j++) {
+            dropdownItems[i].acc[j].lastElementChild.classList.remove('show')
+         }
+      }  
+        anim.setSpeed(10);
+        anim.setDirection(-1);
+        anim.play();
+    };
+
     menuBtn.addEventListener('click', function (e) {
         if (!menuBtn.classList.contains('is-active')) {
-            menuBtn.classList.add('is-active');
-            document.body.classList.add('with-menu');
+            open();
         } else {
-            menuBtn.classList.remove('is-active');
-            document.body.classList.remove('with-menu');
+            close();
+        }
+    });
+
+    icon.addEventListener('mouseenter', function (e) {
+        if (!isOpen) {
+            anim.setDirection(1);
+            anim.setSpeed(1);
+            anim.play();       
+        }
+    });
+    
+    icon.addEventListener('mouseleave', function (e) {
+        if (!isOpen) {
+            anim.stop();
         }
     });
 }
 
 function home() {
     // Icons in the extras section
-    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing', 'inbeat-animated-logo'];
+    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing'];
     homeIcons.forEach(function (iconName) {
         var icon = document.getElementById(iconName);
         if (!icon) {
@@ -406,15 +461,87 @@ function articleProgressBar() {
   getScroll();
 }
 
+// submenu for the navigation
+function navigation(){
+    var column = document.querySelectorAll('.column')
+    for (var i = 0; i < column.length; i++) {
+        column[i].addEventListener('mouseover', function (e) {
+            var thisColumn = this;
+            thisColumn.classList.add('active');
+            // loop column
+            for (var j = 0; j < column.length; j++) {
+                if (column[j] != thisColumn) {
+                    column[j].classList.add('fade');
+                }
+            }
+        })
+        column[i].addEventListener('mouseleave', function (e) {
+            var thisColumn = this;
+            thisColumn.classList.remove('active');
+            // loop column
+            for (var j = 0; j < column.length; j++) {
+                if (column[j] != thisColumn) {
+                    column[j].classList.remove('fade');
+                }
+            }
+        })
+    }
+}
+
+var dropdownItems = [];
+function dropdown() {
+    var id = ['menu-overlay', 'mobile-footer']
+ 
+    var currentActive;
+    var dropdown = function (obj) {
+        this.menu = obj;
+        this.acc = this.menu.querySelectorAll('.dropdown-item');
+    } 
+    var open = function (elm) {
+        console.log('elm', elm);
+        var arrow = elm.querySelector('.arrow-ico');
+        arrow.classList.toggle('open');
+        elm.lastElementChild.classList.toggle("show");
+    };
+    var close = function (elm) {
+        var arrow = elm.querySelector('.arrow-ico');
+        arrow.classList.remove('open');
+        elm.lastElementChild.classList.remove("show");
+    };
+
+    for (var i = 0; i < id.length; i++) {
+      dropdownItems.push(new dropdown(document.getElementById(id[i])))
+    }
+    currentActive = dropdownItems[0].acc[0];
+    
+  function handleDropdown(elm) {
+        open(elm);
+        if (elm != currentActive) {
+            close(currentActive);
+            currentActive  = elm;
+        }
+    }
+    for (var i = 0; i < dropdownItems.length; i++) {
+        for (var j = 0; j < dropdownItems[i].acc.length; j++) {
+            dropdownItems[i].acc[j].addEventListener('mousedown', function (e) {
+              handleDropdown(this);
+              e.preventDefault();
+            }, true);
+        }
+    }  
+}
+
 (function () {
-  scrollTo();
-  header();
-  home();
-  pricing();
-  affiliate();
-  topInfluencers();
-  popup();
-  faq();
-  banner();
-  articleProgressBar();
+    scrollTo();
+    home();
+    pricing();
+    affiliate();
+    topInfluencers();
+    popup();
+    faq();
+    banner();
+    articleProgressBar();
+    header();
+    navigation();
+    dropdown();
 })();
