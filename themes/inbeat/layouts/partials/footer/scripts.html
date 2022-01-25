@@ -3,9 +3,10 @@
 
 {{- if getenv "IS_PROD" -}}
     {{ if and (ne .Page.RelPermalink "/engagement-rate-calculator-tiktok/") (ne .Page.RelPermalink "/engagement-rate-calculator-instagram/") (ne .Page.RelPermalink "/top-influencers/tiktok/") (ne .Page.RelPermalink "/top-influencers/instagram/") }}
-        <!-- Add Helpscout -->
-        <script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});
-        </script><script type="text/javascript">window.Beacon('init', '7e03d51f-9235-4cda-9f5b-b0f7db66dba0')</script>
-        <script async src='https://r.wdfl.co/rw.js' data-rewardful='5b161e'></script>
+        <!-- start Gist JS code-->
+        <script>
+            (function(d,h,w){var gist=w.gist=w.gist||[];gist.methods=['trackPageView','identify','track','setAppId'];gist.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);gist.push(e);return gist;}};for(var i=0;i<gist.methods.length;i++){var c=gist.methods[i];gist[c]=gist.factory(c)}s=d.createElement('script'),s.src="https://widget.getgist.com",s.async=!0,e=d.getElementsByTagName(h)[0],e.appendChild(s),s.addEventListener('load',function(e){},!1),gist.setAppId("vh6e94bm"),gist.trackPageView()})(document,'head',window);
+        </script>
+        <!-- end Gist JS code-->
     {{ end }}
 {{- end -}}
