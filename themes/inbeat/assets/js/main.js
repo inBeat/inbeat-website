@@ -61,18 +61,18 @@ function header() {
  
     if (menuBtn === null) return;
     var open = function () {
-        isOpen = true;
-        menuBtn.classList.add('is-active');
-        document.body.classList.add('with-menu');
-        anim.setSpeed(4);
-        anim.setDirection(1);
-        anim.play();
+      isOpen = true;
+      menuBtn.classList.add('is-active');
+      document.body.classList.add('with-menu');
+      anim.setSpeed(4);
+      anim.setDirection(1);
+      anim.play();
     };
 
-    var close = function () {
-        isOpen = false;
-        menuBtn.classList.remove('is-active');
-        document.body.classList.remove('with-menu');
+  var close = function () {
+      isOpen = false;
+      menuBtn.classList.remove('is-active');
+      document.body.classList.remove('with-menu');
       var arrow = document.querySelectorAll('.arrow-ico');
       for (var i = 0; i < arrow.length; i++) {
         arrow[i].classList.remove('open');

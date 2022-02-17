@@ -64,11 +64,12 @@ resources:
       - name: Instagram influencer database*
 footer:
   toolkits:
-    - name: Engagement rate calculator
-    - name: Fake follower checker
-    - name: Collaboration cost calculator
-    - name: TikTok influencer database*
-    - name: Instagram influencer database*
+    - name: Instagram Engagement Rate Calculator
+    - name: TikTok Engagement Rate Calculator
+    - name: Influencer Money Calculator
+    - name: Instagram Fake Follower checker
+    - name: Top Instagram Influencers
+    - name: Top TikTok Influencers
   social:
     - name: Facebook
     - name: Instagram

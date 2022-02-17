@@ -69,8 +69,8 @@
     .column {
       transition: all .15s ease;
 
-      &.fade {
-        opacity: .3;
+      &.fade:not(.announcement) {
+        opacity: .6;
       }
 
       .grey {
@@ -229,12 +229,6 @@
   padding-right: 1rem;
   margin: 0;
 
-  #menu-icon {
-    &.is-active {
-      padding-right: 17px;
-    }
-  }
-
   @include breakpoint(sm) {
     height: $navheight;
     padding-left: 0;
@@ -339,14 +333,14 @@
   display: none;
   opacity: 0;
   transition: all 0.2s ease;
-
+  overflow-x: hidden;
   .container,
   .row {
     height: 100%;
   }
 
   ul {
-    margin-top: 58px;
+    margin-top: 85px;
     padding: 0px 30px;
     list-style: none;
     width: 100%;
@@ -472,7 +466,6 @@
 
       &.has-submenu {
         margin-bottom: 0;
-
         a {
           font-weight: bold;
         }
@@ -518,7 +511,7 @@
     display: block;
     overflow-y: scroll;
     overflow-x: none !important;
-    padding-right: 17px;
+   // padding-right: 17px;
     /* Increase/decrease this value for cross-browser compatibility */
     box-sizing: content-box;
     /* So the width will be 100% + 17px */
