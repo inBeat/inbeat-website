@@ -8,8 +8,8 @@ teasertrial:
   description: Get a feel for the platform with our Teaser Plan. No credit card required. No trial period.
   cta:
     text: >-
-      <span>Try it for free</span> &#8212 No credit card
-    link: https://app.inbeat.co/get-started
+      <span>Book a demo</span> &#8212 It's free
+    link: https://calendly.com/inbeatapp/inbeat-demo?month=2021-09
   features:
     - has: true
       text: <span>Free</span> Forever
