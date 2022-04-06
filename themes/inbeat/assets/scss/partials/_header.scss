@@ -2,7 +2,7 @@
   visibility: hidden;
   opacity: 0;
   position: absolute;
-  transform: translateY(-5px);
+  transform: translateY(10px);
   transition: all 0.15s cubic-bezier(0.215, 0.610, 0.355, 1);
   cursor: default;
   background: white;
@@ -308,10 +308,11 @@
 
     &.has-submenu {
       &:hover {
+
         #navigation {
           visibility: visible;
           opacity: 1;
-          transform: translateY(6px);
+          transform: translateY(4px);
         }
       }
     }
