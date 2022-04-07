@@ -9,10 +9,10 @@ titre: Instagram Money Calculator
 subtitle: "Evaluate the potential cost for different types of influencer collaborations based on profile performance analytics."
 platform: instagram
 whatwedo:
-  title: Work with a vetted network of influencers
-  text: Work with a network of high quality micro-influencers, all in one integrated platform. Create highly converting user generated content that truly converts & engages your audience. 
+  title: Unlock a full Influencer report
+  text: Create lists, compare influencers, and unlock the full potential of our vetting tools with our Premium toolkit. 
   video: influencer-statistics 
   cta:
     link: https://app.inbeat.co/get-started
-    text: Book a demo — it's free
+    text: Get Started
 ---
