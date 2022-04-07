@@ -134,11 +134,7 @@ h5 {
             vertical-align: middle;
         }
     }
-    &.cpg
-    &.tiktok
-    &.ambassador-marketing
-    &.social-media
-    &.micro-influencer-marketing {
+    &.cpg, &.tiktok, &.ambassador-marketing, &.social-media, &.micro-influencer-marketing {
         .category {
             background-color: $red_sub;
         }
@@ -146,8 +142,7 @@ h5 {
             color: $red !important;
         }
     }
-    &.influencer-marketing
-    &.podcasts {
+    &.influencer-marketing, &.podcasts {
         .category {
             background-color: $green_sub;
         }
@@ -155,8 +150,7 @@ h5 {
             color: $green !important;
         }
     }
-    &.instagram,
-    &.ugc {
+    &.instagram, &.ugc {
         .category {
             background-color: $yellow_sub;
         }

@@ -72,23 +72,17 @@
             line-height: 1rem;
             background-color: #e3e3e3;
         }
-       &.cpg
-       &.tiktok
-       &.ambassador-marketing
-       &.social-media
-       &.micro-influencer-marketing {
+       &.cpg, &.tiktok, &.ambassador-marketing, &.social-media, &.micro-influencer-marketing {
             .category {
                 background-color: $red_sub;
             }
         }
-        &.influencer-marketing
-        &.podcasts {
+        &.influencer-marketing, &.podcasts {
             .category {
                 background-color: $green_sub;
             }
         }
-        &.instagram,
-        &.ugc {
+        &.instagram, &.ugc {
             .category {
                 background-color: $yellow_sub;
             }
