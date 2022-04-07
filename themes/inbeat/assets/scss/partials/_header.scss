@@ -1,12 +1,15 @@
+.has-submenu:hover #navigation{
+    display: block !important;
+    opacity: 1 !important;
+}
+
 #navigation {
-  visibility: hidden;
+  display: none;
   opacity: 0;
   position: absolute;
-  transform: translateY(10px);
-  transition: all 0.15s cubic-bezier(0.215, 0.610, 0.355, 1);
   cursor: default;
   background: white;
-  top: 80%;
+  top: 78%;
   z-index: 5;
 
   .no-right {
@@ -224,6 +227,7 @@
 }
 
 #header {
+  position:static;
   height: $mobilenavheight;
   padding-left: 0.5rem;
   padding-right: 1rem;
@@ -283,7 +287,7 @@
       transition: all 0.12s;
     }
 
-    &:hover>a {
+    &:hover>div {
       opacity: 0.5;
     }
 
@@ -306,16 +310,7 @@
       text-decoration: none;
     }
 
-    &.has-submenu {
-      &:hover {
 
-        #navigation {
-          visibility: visible;
-          opacity: 1;
-          transform: translateY(4px);
-        }
-      }
-    }
   }
 
   .col-xs-7 li {

@@ -48,12 +48,11 @@
                       </div>
                     </li>
                     <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
-                    <li class="menu-parent has-submenu">
-                        <a href="javascript:void(0)" title="Features">
-                            Resources
-                            <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1L5.4698 5L10 1" stroke="black"/>
-                            </svg>
+                    <li class="has-submenu menu-parent">
+                        <a href="javascript:void(0)" title="Features">Resources
+                          <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M1 1L5.4698 5L10 1" stroke="black"/>
+                          </svg>
                         </a>
                       <div id="navigation">
                           <div class="submenu container auto-width">
@@ -71,7 +70,7 @@
                                           <div class="pages">
                                               {{- range .pages -}}
                                                 <li class="page">
-                                                  <div class="inner {{ $color }}" class=>
+                                                  <div class="inner {{ $color }}">
                                                     <h4>{{ .name }}</h4>
                                                     {{ if .description }}
                                                         <p>{{ .description }}</p>
