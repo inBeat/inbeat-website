@@ -1,10 +1,15 @@
 #tooltip-element {
+  &.is-relative{
+    position: relative;
+    .tooltip{
+      top: calc(100% + 0.5rem);
+    }
+  }
 	a {
 		cursor: default;
 	}
 	.tooltip {
 		position: absolute;
-		// top: calc(100% + 0.5rem);
 		opacity: 0;
 		transform: translateY(-5px);
 		animation: display 0.15s ease forwards;

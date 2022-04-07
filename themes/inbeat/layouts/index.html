@@ -25,7 +25,7 @@
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
-            <div id="tooltip-element">
+            <div id="tooltip-element" class="is-relative">
                 <p>
                     <a title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
                     <span class="tooltip left">
