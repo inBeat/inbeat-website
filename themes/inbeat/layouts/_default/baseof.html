@@ -7,7 +7,7 @@
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/gtm.html" . }}
 		{{ partial "site-header.html" . }}
-		{{ $content :=  `<div class="content-video"><video controls><source src="/videos/deep-search.mp4" /></video></div><div class="btn-cta"><a href="https://app.inbeat.co/get-started" target="_blank"><button class="btn"><span>Try it now</span> — it’s free</button></a></div>` }}
+		{{ $content :=  `<div class="content-video" style="padding-top: 50px;"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/inbeat-co-demo" target="_blank"><button class="btn"><span>Book a demo</span> — it’s free</button></a></div>` }}
 		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
 		{{ block "main" . }}
 		{{ end }}
