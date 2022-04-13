@@ -9,8 +9,8 @@ hero:
     A search engine to find Micro-Nano influencers in seconds
   cta:
     text: >-
-      <span>Book a demo</span>
-    link: https://calendly.com/inbeat-co/inbeat-co-demo
+      <span>Try it now</span> &#8212 it's free
+    link: https://app.inbeat.co/get-started
 features:
   - id: search
     class: popupTrigger
@@ -40,12 +40,11 @@ features:
       tooltip: Our platform features influencers to whom we have no relationship to. We are a database of automatically added creators not a talent agency. 
     video: pick-out-the-bestest
   - id: export
-    class: popupTrigger
     title: Export for outreach
     text: >-
       Once your list is ready, you can export all <span>contact information</span> in a click. 
     link:
-      text: Watch Video &#8594;
+      text: Learn more &#8594;
       link: 'features/export-contacts/'
       external: false
     question:
@@ -68,8 +67,8 @@ whatwedo:
     text: Use our built-in influencer analytics tool to know exactly who you’re working with. Analyse Influencer performance & their past collaborations.
     video: influencer-statistics 
     cta:
-      link: https://calendly.com/inbeat-co/inbeat-co-demo
-      text: Book a demo — it's free
+      link: https://app.inbeat.co/get-started
+      text: Try it now — it's free
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
