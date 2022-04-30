@@ -129,6 +129,9 @@ a.btn {
         border-color: white;
         animation: crazy 2s infinite;
     }
+    &.btn-light{
+      font-weight: lighter !important;
+    }
 }
 
 @keyframes crazy {

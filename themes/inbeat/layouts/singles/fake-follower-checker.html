@@ -75,35 +75,33 @@
                 <div class="audience-score row ">
                     <div class="gauge-wrapper card col-xs-12">
                         <div>
-                            <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
+                            <p class="score">{ audienceScore.toFixed(1) }<br> <span>Audience Score</span></p>
                         </div>
-                        <?xml version="1.0" standalone="no"?>
                         <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
                         <svg viewBox="-100 0 500 200"  fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
-                        <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
-                        <path id="gauge" fill="none" :d=arcStyle stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
-                        <g filter="url(#filter0_d_2410_5728)" >
-                            <circle :cx=GaugeCircle.x :cy=GaugeCircle.y r="8.5" fill="white" id="circle"/>
-                        </g>
-                        <defs>
-                            <linearGradient id="paint0_linear_2410_5725" x1="6" y1="123" x2="240" y2="123" gradientUnits="userSpaceOnUse">
-                                <stop stop-color="#FFE9F0"/>
-                                <stop offset="0.510417" stop-color="#FAECDB"/>
-                                <stop offset="1" stop-color="#D6EBE4"/>
-                            </linearGradient>
-                            <filter id="filter0_d_2410_5728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-                                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-                                <feOffset dy="4"/>
-                                <feGaussianBlur stdDeviation="4.5"/>
-                                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
-                                <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2410_5728"/>
-                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2410_5728" result="shape"/>
-                            </filter>
-                        </defs>
+                            <path id="gauge_back" stroke="#F0F0F0" stroke-width="11" stroke-linecap="round" d="M 275 159.99999999999997 A 125 125 0 0 0 25 160.00000000000003"/>
+                            <path id="gauge" fill="none" :d=arcStyle stroke="url(#paint0_linear_2410_5725)" stroke-width="11" stroke-linecap="round" />
+                            <g filter="url(#filter0_d_2410_5728)" >
+                                <circle :cx=GaugeCircle.x :cy=GaugeCircle.y r="8.5" fill="white" id="circle"/>
+                            </g>
+                            <defs>
+                                <linearGradient id="paint0_linear_2410_5725" x1="6" y1="123" x2="240" y2="123" gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#FFE9F0"/>
+                                    <stop offset="0.510417" stop-color="#FAECDB"/>
+                                    <stop offset="1" stop-color="#D6EBE4"/>
+                                </linearGradient>
+                                <filter id="filter0_d_2410_5728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                                    <feOffset dy="4"/>
+                                    <feGaussianBlur stdDeviation="4.5"/>
+                                    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+                                    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2410_5728"/>
+                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2410_5728" result="shape"/>
+                                </filter>
+                            </defs>
                         </svg>
                     </div>
-                    
                 </div>
                 <div class="stats row">
                     <div class="card col-xs-12 p-tb-60 m-tb-40">

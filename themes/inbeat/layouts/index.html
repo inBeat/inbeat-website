@@ -4,11 +4,11 @@
     <h1>{{- .title | markdownify -}}</h1>
     <h4>{{- .subtitle | markdownify -}}</h4>
     <div class="cta">
-        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
+        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Book a demo" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
         <a href="javascript:void(0)" title="Book a demo" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
-            <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Product Demo
+            <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
         </a>
     </div>
 </section>
@@ -25,7 +25,7 @@
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
-            <div id="tooltip-element">
+            <div id="tooltip-element" class="is-relative">
                 <p>
                     <a title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
                     <span class="tooltip left">
@@ -102,8 +102,8 @@
             <h2>Get Started</h2>
             <h4>Dive into your influencer campaign<br>today, with inBeat.</h4>
             <div class="cta-button">
-                <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-gradient btn-lg" target="_blank">
-                    <span><strong>Try it now</strong> </span> &#8212 it's free
+                <a href="https://calendly.com/inbeat-co/inbeat-co-demo" title="Try it now" class="btn btn-gradient btn-lg" target="_blank">
+                    <span><strong>Book a demo</strong> </span> &#8212 it's free
                 </a>
             </div>
 
