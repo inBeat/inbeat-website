@@ -9,6 +9,10 @@
 {{- $username = "watchaswewander" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
+
+<div id="engagement-rate">
+  {{ $content := partial "site/engagementRateForm.html" .}}
+  {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
@@ -221,7 +225,7 @@
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 
-
+</div>
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
 {{- else -}}
@@ -231,7 +235,7 @@
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#ffc-calculator',
+        el: '#engagement-rate',
         data() {
             return {
                 username: '',
@@ -283,6 +287,10 @@
         },
         mounted() {},
         methods: {
+          validateEmail(email) {
+             var re = /\S+@\S+\.\S+/;
+             return re.test(email.value);
+          },
             polarToCartesian(centerX, centerY, radius, angleInDegrees) {
               var angleInRadians = (angleInDegrees+180) * Math.PI / 180.0;
 
@@ -310,6 +318,74 @@
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
                return re.test(email.value);
+            },
+          clearFormPopup(formObject){
+              setCookie('erc-submit', true, 60);
+              allPopup.find(x => x.id === 'formPopup').closePopup();
+              // reset value
+              formObject[0].value = null;
+              formObject[1].value = 'default';
+              this.errorform = null;
+              this.loadingform = false;
+              if(document.getElementById('banner') !== null){
+                document.getElementById('banner').style.pointerEvents= 'all';
+              }
+          },
+            errorHandle(error){
+                console.error(error.statusText);
+                this.errorform = 'There has been an error, please try again';
+                return;
+            },
+            async formSubmit() {
+                this.loadingform = true;
+                var error = this.errorform;
+                var _this = this;
+                var formElements = document.getElementById('form-popup').elements;
+                // Reset error on element change
+                formElements[1].addEventListener('change', function(e){
+                    formElements[1].classList.remove('input-error')
+                });
+               if (!this.validateEmail(formElements[0])) {
+                    formElements[0].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[0].classList.remove('input-error')
+                }
+                // Check dropdown field
+                if (formElements[1].value === 'default') {
+                    formElements[1].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[1].classList.remove('input-error')
+                }
+                try{
+                    //https://graphql.inbeat.co/ipdata
+                    await _this.request(null, 'GET', 'http://localhost:4000/ipdata').then(async (e) =>{
+                        const json = JSON.parse(e);
+                        const continent = json.continent_code;
+                        const country = json.country_code;
+                        const type = formElements[1].value
+                        const email = formElements[0].value
+                        const listId = _this.getListID(formElements[1].value)
+                        let group = await _this.getGroupId(type, continent, country);
+                        var data = JSON.stringify({
+                        'url': `/api/v2/groups/${group}/subscribers`,
+                        'email': email,
+                        'fields': {
+                            'category': type,
+                            'country': json.country_name
+                        }
+                        });
+                        //https://graphql.inbeat.co/mailer-lite
+                        await _this.request(data, 'POST', 'http://localhost:4000/mailer-lite')
+                        _this.clearFormPopup(formElements);
+                    });
+                }catch(error){
+                    this.errorHandle(error)
+                }
+                this.loadingform = false;
             },
             request(data, request, api){
                     return new Promise(function (resolve, reject) {
@@ -485,7 +561,6 @@
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
-                 
                     setTimeout(() => {
                         document.getElementById("progress").style.width = 100 + "%";
                         setTimeout(() => {
@@ -505,6 +580,16 @@
                     _this.loading = false;
                 }
                 request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                if (!this.getCookie('erc-submit') && this.getFirstData === true) {
+                  if(document.getElementById('banner') !== null){
+                    document.getElementById('banner').style.pointerEvents = 'none';
+                  }
+                  request.addEventListener('loadend', () => {
+                    setTimeout(function () {
+                      allPopup.find((x) => x.id === 'formPopup').openPopup();
+                    }, 3000);
+                  });
+                }
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
