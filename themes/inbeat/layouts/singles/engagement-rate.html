@@ -344,7 +344,7 @@
                 }
                 try{
                     //https://graphql.inbeat.co/ipdata
-                    await _this.request(null, 'GET', 'http://localhost:4000/ipdata').then(async (e) =>{
+                    await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
                         const json = JSON.parse(e);
                         const continent = json.continent_code;
                         const country = json.country_code;
@@ -361,7 +361,7 @@
                         }
                         });
                         //https://graphql.inbeat.co/mailer-lite
-                        await _this.request(data, 'POST', 'http://localhost:4000/mailer-lite')
+                        await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
                         _this.clearFormPopup(formElements);
                     });
                 }catch(error){
