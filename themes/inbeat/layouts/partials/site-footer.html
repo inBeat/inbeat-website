@@ -1,5 +1,5 @@
 <footer>
-    <div class="container mobile-adjusted">
+    <div id="footer" class="container mobile-adjusted">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-lg-6">
                 <div class="row">
@@ -86,6 +86,91 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row bottom middle-xs">
+                <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
+                <div><a href="{{- $.Site.BaseURL -}}terms-and-conditions" title="Terms & Conditions">Terms & Conditions</a></div>
+                <div class="bugbounty"><a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty" >Found a bug?</a></div>
+        </div>
+    </div>
+
+    <div id="mobile-footer" class="container mobile-adjusted ">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div>
+            </div>
+        </div>
+        <div class="row footer-items">
+            <ul>
+                <li class="page"><a href="{{- $.Site.BaseURL -}}/Pricing" title="Pricing">Pricing</a> </li>
+                <li class="page"><a href="{{- $.Site.BaseURL -}}/Articles" title="Articles">Articles</a> </li>
+                <li class="dropdown-item page">
+                    <div class="dropdown">
+                        <a>The Toolkit</a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
+                        </svg>
+                    </div> 
+                    <div class="content">
+                        <ul>
+                            {{- range .Site.Data.navigation.footer.toolkits -}} 
+                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                            {{- end -}}
+                        </ul>
+                    </div>
+                </li>
+                <li class="dropdown-item page">
+                    <div class="dropdown">
+                        <a>Solutions</a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
+                        </svg>
+                    </div> 
+                        <div class="content">
+                            {{- range .Site.Data.navigation.solutions -}} 
+                            <ul>
+                                <li class="content-title title--white"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <ellipse fill='white' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+                                </svg>{{ .title }}</li>
+                                {{- range .pages -}}
+                                    <li> <a href="" >{{ .name }}</a> <p>{{ .description }}</p></li>
+                                {{ end }}
+                            </ul>
+                            {{- end -}}
+                        </div>
+                </li>
+                <li class="dropdown-item page">
+                    <div class="dropdown">
+                        <a>Support</a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
+                        </svg>
+                    </div> 
+                    <div class="content">
+                        <ul>
+                            {{- range .Site.Data.navigation.footer.support -}} 
+                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                            {{- end -}}
+                        </ul>
+                    </div>
+                </li>
+                <li class="dropdown-item page">
+                    <div class="dropdown">
+                        <a>Social</a>
+                        <svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 0.803223L10 9.80322L19 0.803223" stroke="white"/>
+                        </svg>
+                    </div> 
+                    <div class="content">
+                        <ul>
+                            {{- range .Site.Data.navigation.footer.social -}} 
+                                <li> <a href="" class="low-white">{{ .name }}</a> <p>{{ .description }}</p></li>
+                            {{- end -}}
+                        </ul>
+                    </div>
+                </li>
+
+            </ul>
         </div>
         <div class="row bottom middle-xs">
                 <div><a href="{{- $.Site.BaseURL -}}privacy-policy" title="inBeat. ">Privacy Policy</a></div>
