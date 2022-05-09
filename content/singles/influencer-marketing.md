@@ -73,7 +73,7 @@ tabs:
     text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 
     tab: Brief
   - title: Take the hard work out of influencer marketing.
-    text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 hrushi thorat. 
+    text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 
     tab: Match
   - title: Take the hard work out of influencer marketing.
     text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 

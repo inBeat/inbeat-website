@@ -32,10 +32,15 @@
 		}
 	}
 	.icon-group{
-		display: flex; overflow-x:scroll; gap: 34px;justify-content: center;align-items: center;
-		margin-top: 80px;
+		display: flex; 
+		overflow-x:scroll; 
+		gap: 34px;
+		align-items: center;
+		// margin-top: 80px;
+		margin: 80px -3rem 0px;
+		padding: 0px 2rem;
 		@include breakpoint(md) {
-			justify-content: space-between;
+			justify-content: space-around;
 			gap: 0;
 			width: 76.8rem;
 		}
