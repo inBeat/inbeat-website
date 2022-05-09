@@ -1,0 +1,63 @@
+{{- $username := .Params.tabs -}}
+<section class="container m-tb-144 switchers sm-m-lr-20" id="switcher">
+    <div class="row" style="align-items: center; justify-content: space-between;">
+        <div class="col-xs-12 col-md-4_5 left-col"> 
+            <ul class="tabs hide-sm">
+                    <li v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
+                        {getTabValue(tab)}
+                    </li>
+                </ul>
+            <h2>{getTabHeading()}</h2>
+            <p>{getTabDescription()}</p>
+            <ul class="tabs hide-sm-up">
+                <li v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
+                    {getTabValue(tab)}
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-md-7">
+            <div>
+                <video autoplay muted loop playsinline style="height: auto; width:100%">
+                    <source src="/videos/export-for-outreach.mp4" />
+                </video>
+            </div>
+        </div>
+    </div>
+</section>
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script>
+    var app = new Vue({
+    el: '#switcher',
+    data(){
+        return {
+            tabs : [],
+            selectedTab: ''        
+        }
+    },
+        methods: {
+            tabSelect (e) {
+                this.selectedTab = e
+            },
+            getTabValue (e) {
+                return e.split('tab:')[1].split(' ')[0]
+            },
+            getTabHeading () {
+                return this.selectedTab.split('title:')[1].split(']')[0]
+            },
+            getTabDescription () {
+               return this.selectedTab.split('text:')[1].split('title:')[0] 
+            }
+            },
+        created() {
+           this.tabs = '{{- $username -}}'.split('map').slice(1)
+           this.selectedTab = this.tabs[0]
+        },
+        // To make sure there's no conflict with Hugo templating
+        delimiters: ['{', '}'],
+    });
+</script>
