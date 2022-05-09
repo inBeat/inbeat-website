@@ -329,7 +329,6 @@ function faq() {
     var acc = document.getElementsByClassName('accordion-heading');
     if(acc.length === 0){return}
     var currentActive = acc[0];
-
     var toggleAccordionState = function (accordion) {
         accordion.nextElementSibling.classList.toggle("active");
         accordion.lastElementChild.classList.toggle('open');
@@ -341,7 +340,7 @@ function faq() {
         accordion.classList.remove("new-padding");
     };
 
-    toggleAccordionState(currentActive);
+    // toggleAccordionState(currentActive);
 
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener('mousedown', function (e) {
