@@ -28,6 +28,16 @@
 					}
 				}
 			}
+	
+		}
+	}
+	.icon-group{
+		display: flex; overflow-x:scroll; gap: 34px;justify-content: center;align-items: center;
+		margin-top: 80px;
+		@include breakpoint(md) {
+			justify-content: space-between;
+			gap: 0;
+			width: 76.8rem;
 		}
 	}
 }

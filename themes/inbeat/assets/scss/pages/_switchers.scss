@@ -1,0 +1,59 @@
+.switchers{
+    .left-col{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        @include breakpoint(md) {
+            align-items: flex-start;
+        }
+        .tabs{
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0;
+            margin: 0;
+            margin-bottom: 2rem;
+            width: 90%;
+            li{
+                display: inline-block;
+                Padding : 5px 20px;
+                text-align: center;
+                border-radius: 2rem;
+                cursor: pointer;
+                font-size: 16px;
+                font-weight: 400;
+                color: rgba(0, 0, 0, 0.5);
+                line-height: 26px;
+                &:hover{
+                    color: rgba(0, 0, 0, 0.75);
+                    background: rgba(249, 247, 247, 1);
+                }     
+                   }
+            .active{
+                color: black;
+                background-color: rgba(0, 0, 0, 0.08);
+            }
+
+        }
+
+        h2{
+            margin-bottom: 24px;
+            text-align: center;
+            @include breakpoint(md) {
+                text-align: left;
+                margin-bottom: 2rem;
+            }
+        }
+        p{
+            margin: 0;
+            margin-bottom: 32px;
+            text-align: center;
+            @include breakpoint(md) {
+                margin: 0;
+                text-align: left;
+            }
+        }
+    }
+} 
