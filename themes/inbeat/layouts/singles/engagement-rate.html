@@ -320,6 +320,7 @@
                 return;
             },
             async formSubmit() {
+              if (this.loading) { return }
               this.loadingform = true;
               let data;
               let error = this.errorform;
@@ -407,6 +408,7 @@
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
             async submit() {
+              if (this.loading) { return }
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
