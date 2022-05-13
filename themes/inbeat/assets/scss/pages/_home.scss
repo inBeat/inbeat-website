@@ -2,10 +2,16 @@
     padding-top: 8.50rem;
     padding-bottom: 6rem;
     text-align: center;
+    .hero-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
     .hero-sub_title{
             margin-bottom: 3rem;
     }
     .hero-title{
+        font-size: 2.75rem;
         margin-bottom: 2rem;
         @include breakpoint(sm) {
             margin-bottom: 1.5rem;
@@ -31,8 +37,9 @@
     .cta {
         a {
             display: block;
-            margin: 0 auto 20px;
+            margin: 0 auto;
             width: 100%;
+            color: white;
             @include breakpoint(31.25rem) {
                 width: 16.75rem;
             }
@@ -45,9 +52,7 @@
             }
             &#hero-cta {
                 @include breakpoint(sm-down) {
-                    color: black;
                     border: none;
-                    animation: crazy 2s infinite;
                 }
             }
             span {
@@ -153,7 +158,7 @@
         height: auto;
         margin-bottom: 1rem;
         @include breakpoint(md) {
-            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);    height: 46%;
+            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);    height: 50%; margin-bottom: 0px;
         }
         video {
             width: 100%    !important;
@@ -161,7 +166,6 @@
         }
     }
     .use-cases{
-        margin-top: 2.75rem;
         display: none;
         align-items: center;
         justify-content: space-between;
@@ -170,6 +174,13 @@
         }
         .use-case{
             width: 12rem;
+            padding: 44px 0px;
+            p{
+                margin: 0;
+                font-weight: 400;
+                line-height: 22px;
+                font-size: 14px;
+            }
         }
         .use_case-title{
             display: flex;
@@ -201,12 +212,18 @@
 }
 
 #what-we-do {
-    background: $light_grey;
+    background: $light_green;
     padding: 32px auto;
     text-align: center;
+    .whatwedo-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
     @include breakpoint(xs) {
-        padding: 32px 20px;
+        padding: 32px 20px 64px;
         .cta-title{
+            margin-top: 2rem;
             margin-bottom: 24px !important;
         }
     }
@@ -214,6 +231,7 @@
         padding: 128px 51px;
         .cta-title{
             margin-bottom: 36px !important;
+            margin-top: 0;
         }
     }
     @include breakpoint(md) {
@@ -221,12 +239,9 @@
             text-align: left;
         }
     }
-    @include breakpoint(sm-down) {
-        margin: 0 !important;
-    }
     video {
         width: 100%;
-        margin-bottom: 32px;
+        // margin-bottom: 32px;
         border-radius: 10px;
         @include breakpoint(md) {
             width: 85%;

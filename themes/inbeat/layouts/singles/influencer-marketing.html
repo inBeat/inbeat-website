@@ -5,7 +5,7 @@
         <h1 class="hero-title">{{- .title | markdownify -}}</h1>
         <h4 class="hero-sub_title">{{- .subtitle | markdownify -}}</h4>
         <div class="cta">
-            <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Book a demo" id="hero-cta">
+            <a href="{{- .cta.link -}}" class="btn btn-lg hero-btn" title="Book a demo" id="hero-cta">
                 {{- htmlUnescape .cta.text | markdownify -}}
             </a>
         </div>

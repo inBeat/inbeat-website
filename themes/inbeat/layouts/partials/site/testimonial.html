@@ -3,9 +3,14 @@
         <div class="container m-tb-40"> 
             <div class="row">
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
-                <div style="display: flex; overflow-x:scroll;">
+                <div class="navigator hide-md-up">
+                    {{- range $elem_index, $elem_val := .client -}}
+                    <div class="testimonial_circle" @click="scrollTo($elem_index)"></div>
+                    {{- end -}}
+                </div>
+                <div class="clients_card-container">
                 {{- range .client -}}
-                    <div class="col-md-4 col-sm-12 box m-tb-80" > 
+                    <div class="col-md-4 col-sm-12 box m-tb-80 client-card" > 
                         <div class="inner-box" style="width: 350px;">
                            <p class="small">{{- .quote -}} </p> 
                            <div class="client">
@@ -22,15 +27,21 @@
             </div>
         </div>
     <section class="container mobile-adjusted"  id="clients">
-        <div class="icon-group">
-            <div>{{- partial "icons/got-milk.html" -}}</div>
-            <div>{{- partial "icons/moose.html" -}}</div>
-            <div>{{- partial "icons/new-balance.html" -}}</div>
-            <div>{{- partial "icons/nissan.html" -}}</div>
-            <div>{{- partial "icons/loop.html" -}}</div>
-            <div>{{- partial "icons/bedtime.html" -}}</div>
+        <div class="icon-group marquee">
+                            <span>
+                    <div class="client-icon">{{- partial "icons/got-milk.html" -}}</div>
+                    <div class="client-icon">{{- partial "icons/moose.html" -}}</div>
+                    <div class="client-icon">{{- partial "icons/new-balance.html" -}}</div>
+                    <div class="client-icon">{{- partial "icons/nissan.html" -}}</div>
+                    <div class="client-icon">{{- partial "icons/loop.html" -}}</div>
+                    <div class="client-icon">{{- partial "icons/bedtime.html" -}}</div>
+                </span>
         </div>
     </section>
 </section>
 {{- end -}}
-
+<script>
+    function scrollTo(elem){
+        console.log(elem)
+    }
+</script>
