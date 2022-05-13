@@ -55,4 +55,28 @@
             }
         }
     }
+    .progressbar {
+        width: 100%;
+        margin-top: -5px;
+        background: rgba(178, 208, 129, 0.2);
+      }
+      .progressbar .inner {
+        height: 10px;
+        animation: progressbar-countdown;
+        animation-duration: 40s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-play-state: paused;
+        animation-timing-function: linear;
+      }
+      @keyframes progressbar-countdown {
+        0% {
+            width: 0%;
+            background: #96b06d;
+        }
+        100% {
+            width: 100%;
+            background: #B2D081;
+        }
+      }
 } 

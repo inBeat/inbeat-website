@@ -3,7 +3,7 @@
     <div class="row" style="justify-content: space-between;">
         <div class="col-xs-12 col-md-4_5 left-col"> 
             <ul class="tabs hide-sm">
-                    <li v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
+                    <li class="tab" v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
                         <!-- {{- partial "icons/check.html" -}} -->
                         {getTabValue(tab)}
                         <svg v-if=" tab === selectedTab" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
@@ -12,7 +12,7 @@
             <h2>{getTabHeading()}</h2>
             <p>{getTabDescription()}</p>
             <ul class="tabs hide-sm-up">
-                <li v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
+                <li v-for="(tab,i) in tabs"  @click="tabSelect(tab,i)" :class="{'active' : tab === selectedTab}">
                     {getTabValue(tab)}
                     <svg v-if=" tab === selectedTab" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
                 </li>
@@ -24,6 +24,7 @@
                     <source src="/videos/export-for-outreach.mp4" />
                 </video> -->
                 <img :src="getImg()" alt="" style="height: auto; width:100%">
+                <div id="progress-bar"></div>
             </div>
         </div>
     </div>
@@ -36,35 +37,86 @@
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script>
     var app = new Vue({
-    el: '#switcher',
-    data(){
+      el: '#switcher',
+      data() {
         return {
-            tabs : [],
-            selectedTab: ''        
-        }
-    },
-        methods: {
-            tabSelect (e) {
-                this.selectedTab = e
-            },
-            getTabValue (e) {
-                return e.split('tab:')[1].split(' ')[0]
-            },
-            getTabHeading () {
-                return this.selectedTab.split('title:')[1].split(']')[0]
-            },
-            getTabDescription () {
-               return this.selectedTab.split('text:')[1].split('title:')[0] 
-            },
-            getImg () {
-               return this.selectedTab.split('text:')[0].split('img:')[1].split('tab:')[0] 
-            }
-            },
-        created() {
-           this.tabs = '{{- $username -}}'.split('map').slice(1)
-           this.selectedTab = this.tabs[0]
+          tabs: [],
+          selectedTab: '',
+          step: 2,
+        };
+      },
+      methods: {
+        tabSelect(e, i) {
+          console.log(i);
+          this.selectedTab = e;
         },
-        // To make sure there's no conflict with Hugo templating
-        delimiters: ['{', '}'],
+        getTabValue(e) {
+          return e.split('tab:')[1].split(' ')[0];
+        },
+        getTabHeading() {
+          return this.selectedTab.split('title:')[1].split(']')[0];
+        },
+        getTabDescription() {
+          return this.selectedTab.split('text:')[1].split('title:')[0];
+        },
+        getImg() {
+          return this.selectedTab.split('text:')[0].split('img:')[1].split('tab:')[0];
+        },
+        /*
+         *  Creates a progressbar.
+         *  @param id the id of the div we want to transform in a progressbar
+         *  @param duration the duration of the timer example: '10s'
+         *  @param callback, optional function which is called when the progressbar reaches 0.
+         */
+        createProgressbar(id, duration, callback) {
+          // We select the div that we want to turn into a progressbar
+          var progressbar = document.getElementById(id);
+          progressbar.className = 'progressbar';
+    
+          // We create the div that changes width to show progress
+          var progressbarinner = document.createElement('div');
+          progressbarinner.className = 'inner';
+    
+          // Now we set the animation parameters
+          progressbarinner.style.animationDuration = duration;
+    
+          // Eventually couple a callback
+          if (typeof callback === 'function') {
+            progressbarinner.addEventListener('animationend', callback);
+          }
+    
+          // Append the progressbar to the main progressbardiv
+          progressbar.appendChild(progressbarinner);
+    
+          // When everything is set up we start the animation
+          progressbarinner.style.animationPlayState = 'running';
+        },
+        updateProgressBar() {
+          console.log(this.step);
+          if (this.step !== 4) {
+            document.getElementById('progress-bar').children[0].remove();
+            this.createProgressbar('progress-bar', '10s', () => {
+              document.querySelectorAll('.tab')[this.step].click();
+              this.step++;
+              this.updateProgressBar();
+            });
+          } else {
+            return;
+          }
+        },
+      },
+      created() {
+        this.tabs = '{{- $username -}}'.split('map').slice(1);
+        this.selectedTab = this.tabs[0];
+      },
+      mounted() {
+        this.createProgressbar('progress-bar', '10s', () => {
+          document.querySelectorAll('.tab')[1].click();
+          this.updateProgressBar();
+        });
+      },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
     });
-</script>
+    </script>
+    
