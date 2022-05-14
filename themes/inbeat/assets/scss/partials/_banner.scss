@@ -3,14 +3,17 @@
     cursor: pointer;
     position: relative;
     padding: 5px;
+    height :  28px;
+    transition: all 1s ease;
     &.hide-banner{
-        visibility: hidden;
-        display: none;
+        height: 0;
     }
     a{
         display: flex;
         align-content: center;
         align-items: center;
+        transform: translateY(0);
+        transition: all 1s ease;
     }
     .text-content{
         pointer-events: none;
@@ -31,5 +34,9 @@
         position: absolute;
         right: 0;
         top: 0;
+        transition: all 1s ease;
+    }
+    .hide{
+        transform: translateY(-100%);
     }
 }

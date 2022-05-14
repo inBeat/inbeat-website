@@ -357,10 +357,28 @@ function faq() {
 
 function banner(){
     var banner = document.getElementById('banner');
+    var text = banner.querySelector('.popupTrigger')
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
+    var prevScrollpos = window.pageYOffset;
+    var height = banner.clientHeight 
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    banner.classList.remove('hide-banner')
+    text.classList.remove("hide");
+    closeBtn.style.top = '0'
+  } else {
+    banner.classList.add('hide-banner')
+    text.classList.add("hide");
+    closeBtn.style.top = '-30px'
+  }
+  prevScrollpos = currentScrollPos;
+}
     if (getCookie('banner-hide')) {
-        banner.classList.add("hide-banner");
+        banner.classList.add('hide-banner')
+        text.classList.add("hide");
+        closeBtn.style.top = '-30px'
         if(hero == null){return}hero.classList.remove('has-banner');
         return;
     }
