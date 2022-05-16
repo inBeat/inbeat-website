@@ -110,8 +110,15 @@ function scrollAnchors(e, respond) {
 
 function testimonial() {
     var dots = document.querySelectorAll('.testimonial_circle');
+    dots[0].classList.add('active')
     dots.forEach(function(dot,index){
         dot.addEventListener('click', function (e) {
+            dots.forEach(function(i){
+                if(i.classList.contains('active')){
+                    i.classList.remove('active');
+                }  
+            })
+            dot.classList.add('active');
             scroll(document.querySelectorAll('.client-card')[index])
         })
     });

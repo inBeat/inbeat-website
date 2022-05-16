@@ -13,6 +13,11 @@
 			width: 9px;
 			height: 9px;
 			border-radius: 50%;
+			border: 1px solid #C4C4C4;
+		}
+		.active{
+			border:none;
+			padding: 1px;
 			background-color: black;
 		}
 	}
@@ -84,6 +89,7 @@
 		}
 	}
 	  #clients{
+		//   margin-left: -2rem;
 		@include breakpoint(md) {
 			width: 76.8rem;
 		}
