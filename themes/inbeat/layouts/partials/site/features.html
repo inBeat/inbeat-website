@@ -21,11 +21,12 @@
         </div>
         <div class="col-xs-12 col-md-7">
             <div class="icon-ctn">
-                <video autoplay muted loop playsinline style="height:100% !important ;">
+                <!-- <video autoplay muted loop playsinline style="height:100% !important ;">
                     <source src="/videos/{{- .video -}}.mp4" />
-                    <!-- <source src="../static/video/10s.webm" type='video/webm; codecs="vp8, vorbis"' />
-                    <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' /> -->
-                </video>
+                    <source src="../static/video/10s.webm" type='video/webm; codecs="vp8, vorbis"' />
+                    <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' />
+                </video> -->
+                <img src="{{- .image -}}" alt=""> 
             </div>
             <div class="use-cases">
                 {{- with .use_cases -}}

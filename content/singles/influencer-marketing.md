@@ -18,6 +18,7 @@ features:
   - id: search
     class: popupTrigger
     title: Work with creators that love your brand. 
+    image: /images/feature-1.png
     text: >-
      Only work with influencers that have affinity with your brand to create collaborations that drive the highest engagement.
     use_cases:
@@ -30,6 +31,7 @@ features:
   - id: pick
     class: popupTrigger
     title: Craft high quality content at scale
+    image: /images/feature-2.png
     text: >-
       Leverage the inBeat Creator Community to generate content that will drive awareness, brand love & sales. 
     use_cases:
@@ -42,7 +44,8 @@ features:
   - id: export
     class: popupTriggers
     title: Reporting without the hassle
-    text:  Leverage the inBeat Creator Community to generate content that will drive awareness, brand love & sales. 
+    image: /images/feature-3.png
+    text:  Identify top-performing influencers and unlock long-term collaborati 
     use_cases:
       heading: Reach any audience
       text: We make it a priority to build a highly diverse community of creators.
@@ -64,7 +67,7 @@ extras:
 whatwedo:
     title: Amplify your content through paid media
     text: Whitelist your influencer-generated content and distribute it through the influencers’ handle to create ads that convert. 
-    video: influencer-statistics 
+    image: /images/whatwedo.png 
     cta:
       link: https://calendly.com/inbeat-co/inbeat-co-demo
       text: Book a demo — it's free

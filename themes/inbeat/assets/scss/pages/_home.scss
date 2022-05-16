@@ -103,8 +103,7 @@
     box-sizing: border-box;
     outline: none !important;
     @include breakpoint(sm) {
-        padding: 58px 55px 52px 51px;
-        height: 697px;;
+        padding: 58px 55px 0px 51px;
     }
     &#search {
         background-color: #EDF9EB;
@@ -158,11 +157,11 @@
         height: auto;
         margin-bottom: 1rem;
         @include breakpoint(md) {
-            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);    height: 50%; margin-bottom: 0px;
+            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
         }
-        video {
+        img {
             width: 100%    !important;
-            height: auto   !important;
+            height: 100%   !important;
         }
     }
     .use-cases{
@@ -242,7 +241,7 @@
             text-align: left;
         }
     }
-    video {
+    img {
         width: 100%;
         // margin-bottom: 32px;
         border-radius: 10px;

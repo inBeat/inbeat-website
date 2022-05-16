@@ -284,10 +284,9 @@ a.btn {
     }
 }
 .m-tb-144 {
-    margin-top: 64px;
+    margin-top: 36px;
     margin-bottom: 64px;
     @include breakpoint(lg) {
-        margin-top: 144px;
         margin-bottom: 144px;
     }
 }
