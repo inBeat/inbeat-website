@@ -1,4 +1,6 @@
-<div id="banner" class="hide-banner preventPointer">
+{{- $show := .show | default true -}}
+{{- if $show -}}
+<div id="banner" class="preventPointer">
     <a href="{{ .url }}" target="_blank" class="{{ .class }}" data-popup-id="videoPopup">
         <div class="text-content">
             <p class="small">{{ .text }} <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> </p>
@@ -11,3 +13,4 @@
         </svg>
     </div>
 </div>
+{{- end -}}
