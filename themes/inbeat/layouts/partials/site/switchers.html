@@ -3,23 +3,23 @@
     <div class="row desktop-adjested" style="justify-content: space-between;">
         <div class="col-xs-12 col-md-5 left-col"> 
             <ul class="tabs hide-sm">
-                    <li class="tab" v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
-                        {getTabValue(tab)}
-                        <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
-                    </li>
-                </ul>
-            <h2>{getTabHeading()}</h2>
-            <p>{getTabDescription()}</p>
-            <ul class="tabs hide-sm-up">
+                <li class="tab" v-for="(tab,i) in tabs"  @click="tabSelect(i)" :class="{'active' : i === selectedTabIndex}">
+                    {getTabValue(i)}
+                    <svg :class="i === selectedTabIndex ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+                </li>
+            </ul>
+            <h2>{getTabHeading}</h2>
+            <p>{getTabDescription}</p>
+            <!-- <ul class="tabs hide-sm-up">
                 <li v-for="(tab,i) in tabs"  @click="tabSelect(tab,i)" :class="{'active' : tab === selectedTab}">
                     {getTabValue(tab)}
                     <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
                 </li>
-            </ul>
+            </ul> -->
         </div>
         <div class="col-xs-12 col-md-6">
             <div class="right-col">
-                <img :src="getImg()" alt="" style="height: auto; width:100%">
+                <img :src="getImg" alt="" style="height: auto; width:100%">
                 <div id="progress-bar"></div>
             </div>
         </div>
@@ -37,26 +37,30 @@
       data() {
         return {
           tabs: [],
-          selectedTab: '',
-          step: 2,
+          selectedTabIndex: 0,
         };
       },
-      methods: {
-        tabSelect(e, i) {
-          console.log(i);
-          this.selectedTab = e;
-        },
-        getTabValue(e) {
-          return e.split('tab:')[1].split(' ')[0];
+      computed: {
+        currentTab() {
+          return this.tabs[this.selectedTabIndex];
         },
         getTabHeading() {
-          return this.selectedTab.split('title:')[1].split(']')[0];
+          return this.currentTab.split('title:')[1].split(']')[0];
         },
         getTabDescription() {
-          return this.selectedTab.split('text:')[1].split('title:')[0];
+          return this.currentTab.split('text:')[1].split('title:')[0];
         },
         getImg() {
-          return this.selectedTab.split('text:')[0].split('img:')[1].split('tab:')[0];
+          return this.currentTab.split('text:')[0].split('img:')[1].split('tab:')[0];
+        },
+      },
+      methods: {
+        tabSelect(i) {
+          this.selectedTabIndex = i;
+          this.updateProgressBar();
+        },
+        getTabValue(i) {
+          return this.tabs[i].split('tab:')[1].split(' ')[0];
         },
         /*
          *  Creates a progressbar.
@@ -88,27 +92,22 @@
           progressbarinner.style.animationPlayState = 'running';
         },
         updateProgressBar() {
-          console.log(this.step);
-          if (this.step !== 4) {
             document.getElementById('progress-bar').children[0].remove();
-            this.createProgressbar('progress-bar', '10s', () => {
-              document.querySelectorAll('.tab')[this.step].click();
-              this.step++;
-              this.updateProgressBar();
+            this.createProgressbar('progress-bar', '8s', () => {
+              if (this.selectedTabIndex !== this.tabs.length - 1) {
+                this.tabSelect(this.selectedTabIndex + 1);
+              } else {
+                this.tabSelect(0);
+              }
             });
-          } else {
-            return;
-          }
         },
       },
       created() {
         this.tabs = '{{- $username -}}'.split('map').slice(1);
-        this.selectedTab = this.tabs[0];
       },
       mounted() {
-        this.createProgressbar('progress-bar', '10s', () => {
-          document.querySelectorAll('.tab')[1].click();
-          this.updateProgressBar();
+        this.createProgressbar('progress-bar', '8s', () => {
+          this.tabSelect(0)
         });
       },
       // To make sure there's no conflict with Hugo templating
