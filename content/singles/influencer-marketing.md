@@ -27,7 +27,17 @@ features:
     link:
       text: Watch Video &#8594;
       link: 'features/discover'
-    video: search-with-flexibility 
+    video: search-with-flexibility
+    points:
+      - lines:
+          - title: Reach any audience
+          - text: We make it a priority to build a highly diverse community of creators. 
+      - lines:
+          - title: Creators of any size
+          - text: Nano, Micro, Macro Influencers & everything in between.  
+      - lines:
+          - title: Spam checked
+          - text: All our creators are highly vetted, and go through a fake-follower check.  
   - id: pick
     class: popupTrigger
     title: Craft high quality content at scale
@@ -41,6 +51,16 @@ features:
       text: Watch Video &#8594;
       link: 'features/discover'
     video: pick-out-the-bestest
+    points:
+      - lines:
+          - title: Cross Platform
+          - text: Work with Creators from any platform; Instagram, TikTok, Snapchat, YouTube. 
+      - lines:
+          - title: Creators of any size
+          - text: With our integrated licenses, you can utilize content as you see fit.   
+      - lines:
+          - title: Transparent pricing
+          - text: Pay exactly for what you get, no hidden fees. .
   - id: export
     class: popupTriggers
     title: Reporting without the hassle
@@ -54,6 +74,16 @@ features:
       link: 'features/export-contacts/'
       external: false
     video: export-for-outreach
+    points:
+      - lines:
+          - title: Campaign Insights
+          - text: Get a detailed overview of all key-metrics.
+      - lines:
+          - title: Creator Performance
+          - text: Identify top-performing creators & build your community of ambassadors.   
+      - lines:
+          - title: Optimize Campaigns
+          - text: Learn what content is right for your brand & double down as you scale. 
 extras:
   - title: Unlimited Searches
     text: Search as much as you want, using our powerful search filters.

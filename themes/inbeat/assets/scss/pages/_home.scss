@@ -166,7 +166,7 @@
     }
     .use-cases{
         display: none;
-        align-items: center;
+        align-items: baseline;
         justify-content: space-between;
         @include breakpoint(md) {
             display: flex;

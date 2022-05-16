@@ -29,21 +29,16 @@
                 <img src="{{- .image -}}" alt=""> 
             </div>
             <div class="use-cases">
-                {{- with .use_cases -}}
+                {{- range .points -}}
                 <div class="use-case">
-                    <div class="use_case-title">{{- partial "icons/check.html" -}} <p>{{- .heading -}}</p></div>
-                    <p>{{- .text -}} 
-                    </p>
-                </div>
-                <div class="use-case">
-                    <div class="use_case-title">{{- partial "icons/check.html" -}} <p>{{- .heading -}}</p></div>
-                    <p>{{- .text -}} 
-                    </p>
-                </div>
-                <div class="use-case">
-                    <div class="use_case-title">{{- partial "icons/check.html" -}} <p>{{- .heading -}}</p></div>
-                    <p>{{- .text -}} 
-                    </p>
+                    {{- with .lines -}}
+                    {{- range . -}}
+                    {{- if .title -}}
+                    <div class="use_case-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
+                    {{- end -}}
+                    <p>{{- .text -}} </p>
+                    {{- end -}}
+                    {{- end -}}
                 </div>
                 {{- end -}}
             </div>
