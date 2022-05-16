@@ -119,7 +119,13 @@ function testimonial() {
                 }  
             })
             dot.classList.add('active');
-            scroll(document.querySelectorAll('.client-card')[index])
+            // scroll(document.querySelectorAll('.client-card')[index])
+            // var el = document.querySelectorAll('.client-card')[index];
+            var scrollEl = document.querySelector('.clients_card-container');
+            scrollEl.scrollBy({
+              left: 200 * index,
+              behavior: 'smooth',
+            });
         })
     });
     var scroll = function (el) {
