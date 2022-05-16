@@ -1,12 +1,11 @@
 {{- $username := .Params.tabs -}}
 <section class="container m-tb-144 switchers sm-m-lr-20" id="switcher">
-    <div class="row" style="justify-content: space-between;">
+    <div class="row desktop-adjested" style="justify-content: space-between;">
         <div class="col-xs-12 col-md-4_5 left-col"> 
             <ul class="tabs hide-sm">
                     <li class="tab" v-for="tab in tabs"  @click="tabSelect(tab)" :class="{'active' : tab === selectedTab}">
-                        <!-- {{- partial "icons/check.html" -}} -->
                         {getTabValue(tab)}
-                        <svg v-if=" tab === selectedTab" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+                        <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
                     </li>
                 </ul>
             <h2>{getTabHeading()}</h2>
@@ -14,15 +13,12 @@
             <ul class="tabs hide-sm-up">
                 <li v-for="(tab,i) in tabs"  @click="tabSelect(tab,i)" :class="{'active' : tab === selectedTab}">
                     {getTabValue(tab)}
-                    <svg v-if=" tab === selectedTab" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+                    <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
                 </li>
             </ul>
         </div>
         <div class="col-xs-12 col-md-7">
-            <div>
-                <!-- <video autoplay muted loop playsinline style="height: auto; width:100%">
-                    <source src="/videos/export-for-outreach.mp4" />
-                </video> -->
+            <div class="right-col">
                 <img :src="getImg()" alt="" style="height: auto; width:100%">
                 <div id="progress-bar"></div>
             </div>

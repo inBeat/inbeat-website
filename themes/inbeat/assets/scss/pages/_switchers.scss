@@ -1,4 +1,9 @@
 .switchers{
+    .desktop-adjested{
+        @include breakpoint(md) {
+            padding-top: 144px;
+        }
+    }
     .left-col{
         padding: 6rem 0rem 2rem 0rem;
         @include breakpoint(md) {
@@ -14,8 +19,9 @@
             margin-bottom: 2rem;
             width: 90%;
             li{
-                display: inline-block;
-                Padding : 5px 20px;
+                display: flex;
+                align-items: center;
+                Padding : 5px 12px;
                 text-align: center;
                 border-radius: 2rem;
                 cursor: pointer;
@@ -23,10 +29,19 @@
                 font-weight: 400;
                 color: rgba(0, 0, 0, 0.5);
                 line-height: 26px;
+                @include breakpoint(md) {
+                    Padding : 5px 20px;
+                }
                 &:hover{
                     color: rgba(0, 0, 0, 0.75);
                     background: rgba(249, 247, 247, 1);
-                }     
+                }   
+                .show{
+                    visibility: visible;
+                }
+                .right-arrow{
+                    visibility: hidden;
+                }  
                    }
             .active{
                 color: black;
@@ -53,6 +68,12 @@
                 margin: 0;
                 text-align: left;
             }
+        }
+    }
+    .right-col{
+        width: auto;
+        @include breakpoint(md) {
+            width: 600px;
         }
     }
     .progressbar {
