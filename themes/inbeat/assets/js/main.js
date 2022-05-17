@@ -131,14 +131,10 @@ function testimonial() {
                 behavior: 'smooth',
               })
         } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
-            el.parentNode.scrollBy({
-                left: 430,
-                behavior: 'smooth',
-              })
               el.parentNode.scrollTo({
                 top: 0,
                 left: el.offsetLeft - el.parentNode.offsetLeft,
-                behavior: 'smooth',
+                behavior: 'smooth'
               })
         }
       }
