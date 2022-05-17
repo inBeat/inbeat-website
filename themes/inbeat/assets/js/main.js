@@ -119,23 +119,27 @@ function testimonial() {
                 }  
             })
             dot.classList.add('active');
-            // scroll(document.querySelectorAll('.client-card')[index])
-            // var el = document.querySelectorAll('.client-card')[index];
-            var scrollEl = document.querySelector('.clients_card-container');
-            scrollEl.scrollBy({
-              left: 200 * index,
-              behavior: 'smooth',
-            });
+            scroll(document.querySelectorAll('.client-card')[index])
         })
     });
     var scroll = function (el) {
         var elLeft = el.offsetLeft + el.offsetWidth;
         var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
-        // check if element not in view
         if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
-          el.parentNode.scrollLeft = elLeft - elParentLeft;
+            el.parentNode.scrollBy({
+                left: elLeft - elParentLeft,
+                behavior: 'smooth',
+              })
         } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
-          el.parentNode.scrollLeft = el.offsetLeft - el.parentNode.offsetLeft;
+            el.parentNode.scrollBy({
+                left: 430,
+                behavior: 'smooth',
+              })
+              el.parentNode.scrollTo({
+                top: 0,
+                left: el.offsetLeft - el.parentNode.offsetLeft,
+                behavior: 'smooth',
+              })
         }
       }
 }
