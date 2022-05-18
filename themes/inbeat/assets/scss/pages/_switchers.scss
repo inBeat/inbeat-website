@@ -72,17 +72,22 @@
     }
     .right-col{
         width: auto;
+        position: relative;
         @include breakpoint(md) {
             width: 600px;
         }
     }
     .progressbar {
         width: 100%;
-        margin-top: -5px;
-        background: rgba(178, 208, 129, 0.2);
+        position: absolute;
+        bottom: 2px;
+        left: 0;
+        // margin-top: -7px;
+        background: #b2d08133;
+        z-index: 10;
       }
       .progressbar .inner {
-        height: 10px;
+        height: 5px;
         animation: progressbar-countdown;
         animation-duration: 40s;
         animation-iteration-count: 1;
