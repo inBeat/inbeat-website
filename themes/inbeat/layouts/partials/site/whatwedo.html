@@ -3,15 +3,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-6">
-                    <video autoplay muted loop playsinline>
+                    <!-- <video autoplay muted loop playsinline>
                         <source src="/videos/{{- .video -}}.mp4" />
-                    </video>   
+                    </video>    -->
+                    <img src="{{- .image -}}" alt=""> 
                 </div>
                 <div class="col-xs-12 col-md-6 whatwedo-aside">
-                    <h2>{{- .title -}}</h2>
+                    <h2 class="cta-title">{{- .title -}}</h2>
                     <p>{{- .text -}}</p>
                     <div class="cta">
-                        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
+                        <a href="{{- .cta.link -}}" class="btn btn-lg whatwedo-btn" title="Try it now" id="hero-cta">
                             {{- htmlUnescape .cta.text | markdownify -}}
                         </a>
                     </div>

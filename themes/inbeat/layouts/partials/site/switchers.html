@@ -1,0 +1,117 @@
+{{- $username := .Params.tabs -}}
+<section class="container m-tb-144 switchers sm-m-lr-20" id="switcher">
+    <div class="row desktop-adjested" style="justify-content: space-between;">
+        <div class="col-xs-12 col-md-5 left-col"> 
+            <ul class="tabs hide-sm">
+                <li class="tab" v-for="(tab,i) in tabs"  @click="tabSelect(i)" :class="{'active' : i === selectedTabIndex}">
+                    {getTabValue(i)}
+                    <svg :class="i === selectedTabIndex ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+                </li>
+            </ul>
+            <h2>{getTabHeading}</h2>
+            <p>{getTabDescription}</p>
+            <!-- <ul class="tabs hide-sm-up">
+                <li v-for="(tab,i) in tabs"  @click="tabSelect(tab,i)" :class="{'active' : tab === selectedTab}">
+                    {getTabValue(tab)}
+                    <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+                </li>
+            </ul> -->
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <div class="right-col">
+                <img :src="getImg" alt="" style="height: auto; width:100%">
+                <div id="progress-bar"></div>
+            </div>
+        </div>
+    </div>
+</section>
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script>
+    var app = new Vue({
+      el: '#switcher',
+      data() {
+        return {
+          tabs: [],
+          selectedTabIndex: 0,
+        };
+      },
+      computed: {
+        currentTab() {
+          return this.tabs[this.selectedTabIndex];
+        },
+        getTabHeading() {
+          return this.currentTab.split('title:')[1].split(']')[0];
+        },
+        getTabDescription() {
+          return this.currentTab.split('text:')[1].split('title:')[0];
+        },
+        getImg() {
+          return this.currentTab.split('text:')[0].split('img:')[1].split('tab:')[0];
+        },
+      },
+      methods: {
+        tabSelect(i) {
+          this.selectedTabIndex = i;
+          this.updateProgressBar();
+        },
+        getTabValue(i) {
+          return this.tabs[i].split('tab:')[1].split(' ')[0];
+        },
+        /*
+         *  Creates a progressbar.
+         *  @param id the id of the div we want to transform in a progressbar
+         *  @param duration the duration of the timer example: '10s'
+         *  @param callback, optional function which is called when the progressbar reaches 0.
+         */
+        createProgressbar(id, duration, callback) {
+          // We select the div that we want to turn into a progressbar
+          var progressbar = document.getElementById(id);
+          progressbar.className = 'progressbar';
+    
+          // We create the div that changes width to show progress
+          var progressbarinner = document.createElement('div');
+          progressbarinner.className = 'inner';
+    
+          // Now we set the animation parameters
+          progressbarinner.style.animationDuration = duration;
+    
+          // Eventually couple a callback
+          if (typeof callback === 'function') {
+            progressbarinner.addEventListener('animationend', callback);
+          }
+    
+          // Append the progressbar to the main progressbardiv
+          progressbar.appendChild(progressbarinner);
+    
+          // When everything is set up we start the animation
+          progressbarinner.style.animationPlayState = 'running';
+        },
+        updateProgressBar() {
+            document.getElementById('progress-bar').children[0].remove();
+            this.createProgressbar('progress-bar', '8s', () => {
+              if (this.selectedTabIndex !== this.tabs.length - 1) {
+                this.tabSelect(this.selectedTabIndex + 1);
+              } else {
+                this.tabSelect(0);
+              }
+            });
+        },
+      },
+      created() {
+        this.tabs = '{{- $username -}}'.split('map').slice(1);
+      },
+      mounted() {
+        this.createProgressbar('progress-bar', '8s', () => {
+          this.tabSelect(1)
+        });
+      },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>
+    

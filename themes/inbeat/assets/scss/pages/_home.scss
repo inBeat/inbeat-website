@@ -2,6 +2,21 @@
     padding-top: 8.50rem;
     padding-bottom: 6rem;
     text-align: center;
+    .hero-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
+    .hero-sub_title{
+            margin-bottom: 3rem;
+    }
+    .hero-title{
+        font-size: 2.75rem;
+        margin-bottom: 2rem;
+        @include breakpoint(sm) {
+            margin-bottom: 1.5rem;
+        }
+    }
     @include breakpoint(sm) {
         padding-top: calc(50vh - 15.625rem);
         padding-bottom: calc(50vh - 18rem);
@@ -10,6 +25,7 @@
         // Add the banner height size
         transform: translateY(36.5px);
     }
+
     h4 {
         width: 100%;
         margin-bottom: 4rem;
@@ -21,8 +37,9 @@
     .cta {
         a {
             display: block;
-            margin: 0 auto 20px;
+            margin: 0 auto;
             width: 100%;
+            color: white;
             @include breakpoint(31.25rem) {
                 width: 16.75rem;
             }
@@ -35,9 +52,7 @@
             }
             &#hero-cta {
                 @include breakpoint(sm-down) {
-                    color: black;
                     border: none;
-                    animation: crazy 2s infinite;
                 }
             }
             span {
@@ -57,9 +72,6 @@
 #clients {
     .row {
         margin: 0;
-    }
-    @include breakpoint(md-down) {
-        max-width: 34rem;
     }
     .icons {
         @include breakpoint(md-down) {
@@ -87,26 +99,20 @@
 }
 
 .home-features {
-    padding: 30px 25px;
+    padding: 40px 32px 32px 32px;
     box-sizing: border-box;
     outline: none !important;
-    @include breakpoint(xs) {
-        padding: 50px 35px;
-    }
     @include breakpoint(sm) {
-        padding: 58px 51px;
-    }
-    @include breakpoint(sm-down) {
-        margin: 0 !important;
+        padding: 58px 55px 0px 51px;
     }
     &#search {
-        background-color: $yellow_sub;
+        background-color: #EDF9EB;
     }
     &#pick {
-        background-color: $red_sub;
+        background-color: #EBF9F1;
     }
     &#export {
-        background-color: $green_sub;
+        background-color: #EBF6F9;
     }
     .left-col {
         position: relative;
@@ -119,12 +125,17 @@
             font-weight: bold;
         }
     }
+    h2 {
+        @include breakpoint(md) {
+            margin-bottom: 2rem;
+        }
+    }
     a.learn-more {
         font-weight: bold;
         display: block;
         padding-bottom: 1.5rem;
         border-bottom: 1px solid $dark;
-        margin-bottom: 2.5rem;
+        margin-bottom: 0;
         @include breakpoint(md) {
             margin-bottom: 4rem;
         }
@@ -146,11 +157,42 @@
         height: auto;
         margin-bottom: 1rem;
         @include breakpoint(md) {
-            margin-bottom: 0;
+            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
         }
-        video {
+        img {
             width: 100%    !important;
-            height: auto   !important;
+            height: 100%   !important;
+        }
+    }
+    .use-cases{
+        display: none;
+        align-items: baseline;
+        justify-content: space-between;
+        @include breakpoint(md) {
+            display: flex;
+        }
+        .use-case{
+            width: 12rem;
+            padding: 44px 0px;
+            p{
+                margin: 0;
+                font-weight: 400;
+                line-height: 22px;
+                font-size: 14px;
+            }
+        }
+        .use_case-title{
+            display: flex;
+            align-items: center;
+            p{
+                display: block;
+                margin: 0;
+                margin-top: -1px;
+                font-weight: 500;
+                line-height: 26px;
+                font-size: 16px;
+                padding-left: 9px;
+            }
         }
     }
 }
@@ -169,39 +211,70 @@
 }
 
 #what-we-do {
-    background: $light_grey;
-    padding: 50px auto;
+    background: $light_green;
+    padding: 32px 20px 64px;
+    text-align: center;
+    .cta-title{
+        margin-top: 2rem;
+    }
+    .whatwedo-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
     @include breakpoint(xs) {
-        padding: 50px 35px;
+        padding: 32px 20px 64px;
+        .cta-title{
+            margin-top: 2rem;
+            margin-bottom: 24px !important;
+        }
     }
     @include breakpoint(sm) {
-        padding: 58px 51px;
+        padding: 128px 51px;
+        .cta-title{
+            margin-bottom: 36px !important;
+            margin-top: 0;
+        }
     }
-    @include breakpoint(sm-down) {
-        margin: 0 !important;
+    @include breakpoint(md) {
+        .cta-title{
+            text-align: left;
+        }
     }
-    video {
+    img {
         width: 100%;
-        margin: 25px 0;
+        // margin-bottom: 32px;
         border-radius: 10px;
         @include breakpoint(md) {
-            width: 85%;
+            width: 495px;
         }
     }
     .row{
         display: flex;
         align-items: center;
         @include breakpoint(md-down) {
-            flex-direction: column-reverse;
+            // flex-direction: column-reverse;
         }
         p{
             opacity: 0.75;
+            margin-bottom: 0rem !important;
+            text-align: center;
+            @include breakpoint(md) {
+                text-align: left;
+            }  
         }
         .cta{
             a{
                 border: none;
+                display: block;
+                width: 100%;
+                margin-top: 2rem;
+                @include breakpoint(md) {
+                    width: max-content;
+                    margin-top: 3rem;
+                }  
             }
-            margin: 50px 0;
+            margin: 0rem 0px 0rem 0px !important;
         }
     }
 }

@@ -1,5 +1,47 @@
 #testimonials {
 	background-color: $light_grey;
+	.navigator{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+		gap: 2rem;
+		margin-bottom: 32px;
+		padding-top: 6px;
+
+		.testimonial_circle{
+			width: 9px;
+			height: 9px;
+			border-radius: 50%;
+			border: 1px solid #C4C4C4;
+		}
+		.active{
+			border:none;
+			padding: 1px;
+			background-color: black;
+		}
+	}
+	.clients_card-container{
+		margin: 0 -2rem;
+		display: flex;
+		overflow-x: scroll;
+		@include breakpoint(md) {
+			margin: 0;
+			overflow-x: hidden !important;
+		}
+	}
+	.clients_card-container > *:first-child {
+		padding-left: 2rem;
+		@include breakpoint(md) {
+			padding-left: 0;
+		}
+	  }
+	.clients_card-container > *:last-child {
+		padding-right: 2rem;
+		@include breakpoint(md) {
+			padding-right: 0;
+		}
+	  }
 	.box {
 		@include breakpoint(md-down) {
 			margin: 0.625rem;
@@ -28,6 +70,71 @@
 					}
 				}
 			}
+	
 		}
 	}
+	.icon-group{
+		display: flex; 
+		overflow:hidden; 
+		gap: 34px;
+		align-items: center;
+		margin: 0;
+		padding: 0px 2rem;
+		@include breakpoint(md) {
+			// margin: 80px -3rem 0px;
+			padding: 0px 0rem;
+			justify-content: space-around;
+			gap: 0;
+			width: 76.8rem;
+		}
+	}
+	  #clients{
+		//   margin-left: -2rem;
+		@include breakpoint(md) {
+			width: 76.8rem;
+		}
+		  width: 100%;
+		  overflow:hidden;
+		//   .marquee{
+		//   position:relative;
+		//   width:800px;
+		//   @include breakpoint(md) {
+		// 	width: 100%;
+		// 	animation: none;
+		// }
+		//   animation:scroll 6s linear infinite;
+		//   }
+		.marquee {
+			width: 800px;
+			position: relative;
+			overflow: hidden;
+			@include breakpoint(md) {
+			width: 100%;
+			animation: none;
+		    }
+			animation: marquee 20s linear infinite;
+			span {
+				display: flex;
+				float: left;
+				width: 100%;
+				justify-content: space-between;
+				align-items: center;
+			  }
+
+			.marquee--inner {
+				display: flex;
+				width: 200%;
+				position: absolute;
+				// animation: marquee 20s linear infinite;
+
+			  }
+		  }
+		  .marquee:hover {
+			animation-play-state: paused
+		}
+		@keyframes marquee {
+			0% { left: 0; }
+			100% { left: -100%; }
+		  }
+	  }
 }

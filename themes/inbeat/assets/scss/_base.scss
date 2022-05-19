@@ -151,8 +151,8 @@ a.btn {
 
 // Layout
 .container.mobile-adjusted {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
     @include breakpoint(sm) {
         padding-left: 0;
         padding-right: 0;
@@ -167,8 +167,8 @@ a.btn {
 }
 .row.large-gutter {
     @include breakpoint(md) {
-        margin-right: -1.5rem;
-        margin-left: -1.5rem;
+        margin-right: -1.8rem;
+        margin-left: -1.8rem;
         .col-md,
         .col-md-1,
         .col-md-2,
@@ -195,8 +195,8 @@ a.btn {
         .col-lg-10,
         .col-lg-11,
         .col-lg-12 {
-            padding-right: 1.5rem;
-            padding-left: 1.5rem;
+            padding-right: 1.8rem;
+            padding-left: 1.8rem;
         }
     }
 }
@@ -264,4 +264,66 @@ a.btn {
         margin-top: 160px;
         margin-bottom: 160px;
     }
+}
+
+.m-tb-145 {
+    margin-top: 16px;
+    margin-bottom: 24px;
+    @include breakpoint(lg) {
+        margin-top: 145px;
+        margin-bottom: 145px;
+    }
+}
+
+.m-tb-192 {
+    margin-top: 64px;
+    margin-bottom: 64px;
+    @include breakpoint(lg) {
+        margin-top: 192px;
+        margin-bottom: 192px;
+    }
+}
+.m-tb-144 {
+    margin-top: 36px;
+    margin-bottom: 64px;
+    @include breakpoint(lg) {
+        margin-bottom: 144px;
+    }
+}
+
+.m-lr-345 {
+    margin-left: 20px;
+    margin-right: 20px;
+    @include breakpoint(lg) {
+        margin-left: 345px;
+        margin-right: 345px;
+    }
+}
+.sm-m-lr-9 {
+    margin-left: 9px;
+    margin-right: 9px;
+    @include breakpoint(lg) {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.sm-m-lr-20 {
+    margin-left: 20.5px;
+    margin-right: 20.5px;
+    @include breakpoint(lg) {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.m-b-96{
+    margin-bottom: 16px;
+    @include breakpoint(lg) {
+        margin-bottom: 96px;
+    }
+}
+
+.w-full {
+    width: 100% !important;
 }
