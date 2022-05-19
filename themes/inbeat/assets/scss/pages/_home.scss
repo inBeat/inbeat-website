@@ -104,6 +104,11 @@
 }
 
 .home-features {
+    .row{
+      @include breakpoint(sm-down) {
+        margin: 0;
+      }
+    }
     padding: 40px 32px 32px 32px;
     box-sizing: border-box;
     outline: none !important;
@@ -257,8 +262,8 @@
     .row{
         display: flex;
         align-items: center;
-        @include breakpoint(md-down) {
-            // flex-direction: column-reverse;
+        @include breakpoint(sm-down) {
+            margin: 0;
         }
         p{
             opacity: 0.75;
