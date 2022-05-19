@@ -10,12 +10,12 @@
             </ul>
             <h2>{getTabHeading}</h2>
             <p>{getTabDescription}</p>
-            <!-- <ul class="tabs hide-sm-up">
-                <li v-for="(tab,i) in tabs"  @click="tabSelect(tab,i)" :class="{'active' : tab === selectedTab}">
-                    {getTabValue(tab)}
-                    <svg :class="tab === selectedTab ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
-                </li>
-            </ul> -->
+            <ul class="tabs hide-sm-up">
+              <li class="tab" v-for="(tab,i) in tabs"  @click="tabSelect(i)" :class="{'active' : i === selectedTabIndex}">
+                  {getTabValue(i)}
+                  <svg :class="i === selectedTabIndex ? 'show' : 'right-arrow'" viewBox="0 0 32 32" style="width: 16px; height: 16px; margin-left: 2px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+              </li>
+          </ul>
         </div>
         <div class="col-xs-12 col-md-6">
             <div class="right-col">

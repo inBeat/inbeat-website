@@ -3,9 +3,13 @@
         @include breakpoint(md) {
             padding-top: 144px;
         }
+        @include breakpoint(sm-down) {
+            padding-top: 96px;
+            margin: 0;
+        }
     }
     .left-col{
-        padding: 6rem 0rem 2rem 0rem;
+        padding: 0rem 0rem 2rem 0rem;
         @include breakpoint(md) {
             padding: 6.281rem 0rem;
         }
