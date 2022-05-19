@@ -49,8 +49,12 @@
 		}
 		display: flex;
 		.inner-box {
+			width: 60vw;
 			background-color: $white;
 			padding: 45px 32px;
+			@include breakpoint(sm) {
+				width: 350px;
+			}
 			p {
 				margin: 0;
 				padding: 0;
