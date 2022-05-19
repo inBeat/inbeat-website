@@ -16,6 +16,11 @@
         @include breakpoint(sm) {
             margin-bottom: 1.5rem;
         }
+        @include breakpoint(lg) {
+            font-weight: 700;
+            line-height: 78px;
+           font-size: 4.75rem;
+        }
     }
     @include breakpoint(sm) {
         padding-top: calc(50vh - 15.625rem);
