@@ -109,6 +109,28 @@ function scrollAnchors(e, respond) {
 }
 
 function testimonial() {
+        $('.slider').slick({
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          speed: 5000,
+          cssEase: 'linear',
+          autoplay: true,
+          autoplaySpeed: 0,
+          arrows: false,
+          dots: false,
+          pauseOnHover: false,
+          responsive: [{
+            breakpoint: 768,
+            settings: {
+              slidesToShow: 3
+            }
+          }, {
+            breakpoint: 520,
+            settings: {
+              slidesToShow: 2
+            }
+          }]
+        });
     var dots = document.querySelectorAll('.testimonial_circle');
     dots[0].classList.add('active')
     dots.forEach(function(dot,index){
@@ -127,7 +149,7 @@ function testimonial() {
         var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
         if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
             el.parentNode.scrollBy({
-                left: elLeft - elParentLeft,
+                left: el.offsetLeft + el.parentNode.offsetLeft,
                 behavior: 'smooth',
               })
         } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
@@ -455,6 +477,8 @@ function articleProgressBar() {
   }
   getScroll();
 }
+
+
 
 (function () {
   scrollTo();

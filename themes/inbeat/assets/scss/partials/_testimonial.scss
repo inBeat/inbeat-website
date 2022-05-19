@@ -22,7 +22,8 @@
 		}
 	}
 	.clients_card-container{
-		margin: 0 -2rem;
+		margin-left: -2rem;
+		margin-right: -1.5rem;
 		display: flex;
 		overflow-x: scroll;
 		@include breakpoint(md) {
@@ -37,7 +38,7 @@
 		}
 	  }
 	.clients_card-container > *:last-child {
-		padding-right: 2rem;
+		padding-right: 0;
 		@include breakpoint(md) {
 			padding-right: 0;
 		}
@@ -104,22 +105,28 @@
 		// }
 		//   animation:scroll 6s linear infinite;
 		//   }
+		.slider{
+			.slick-track{
+				display: flex;
+				align-items: center;
+			}	
+		}
 		.marquee {
-			width: 800px;
+			// width: 800px;
 			position: relative;
 			overflow: hidden;
 			@include breakpoint(md) {
 			width: 100%;
 			animation: none;
 		    }
-			animation: marquee 20s linear infinite;
-			span {
+			// animation: marquee 20s linear infinite;
+			// span {
 				display: flex;
 				float: left;
 				width: 100%;
 				justify-content: space-between;
 				align-items: center;
-			  }
+			//   }
 
 			.marquee--inner {
 				display: flex;
