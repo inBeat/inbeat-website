@@ -67,8 +67,8 @@
                     <div class="tooltip-infos">
                         <p class="tooltip-subtitle">Influencer Types</p>
                         <div class="tooltip-text">
-                            <p><span>Small Creator :</span> < 1k followers</p> 
-                            <p><span>Nano Influencer :</span> 1k - 10k followers</p> 
+                            <p><span>Small Creator :</span> < 1k followers</p>
+                            <p><span>Nano Influencer :</span> 1k - 10k followers</p>
                             <p><span>Micro Influencer :</span> 10k - 50k followers</p>
                             <p></p><span>Mid-tier Influencer :</span> 50k - 300k followers</p>
                             <p></p><span>Macro Influencer :</span> 300k - 1M followers</p>
@@ -93,28 +93,28 @@
             </div>
             <div class="estimated-total-selector row">
                 <div class="col-xs-12 col-md-12 card">
-                    <div class="col-md-12 selector"> 
-                        {{- partial "icons/posts.html" -}} 
+                    <div class="col-md-12 selector">
+                        {{- partial "icons/posts.html" -}}
                         <span>{ costCalculator.postValue } Post</span>
                         <div class="controle">
-                            <div class="btn" @click="updateControlerValue(false, 'postValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
-                            <div class="btn" @click="updateControlerValue(true, 'postValue')">{{- partial "icons/increase-btn.html" -}} </div>  
+                            <div class="btn" @click="updateControlerValue(false, 'postValue')">{{- partial "icons/decrease-btn.html" -}} </div>
+                            <div class="btn" @click="updateControlerValue(true, 'postValue')">{{- partial "icons/increase-btn.html" -}} </div>
                         </div>
                     </div>
-                    <div class="col-md-12 selector"> 
-                        {{- partial "icons/stories.html" -}} 
+                    <div class="col-md-12 selector">
+                        {{- partial "icons/stories.html" -}}
                         <span>{ costCalculator.storiesValue } Stories</span>
                         <div class="controle">
-                            <div class="btn" @click="updateControlerValue(false, 'storiesValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
-                            <div class="btn" @click="updateControlerValue(true, 'storiesValue')">{{- partial "icons/increase-btn.html" -}} </div> 
+                            <div class="btn" @click="updateControlerValue(false, 'storiesValue')">{{- partial "icons/decrease-btn.html" -}} </div>
+                            <div class="btn" @click="updateControlerValue(true, 'storiesValue')">{{- partial "icons/increase-btn.html" -}} </div>
                         </div>
                     </div>
-                    <div class="col-md-12 selector"> 
-                        {{- partial "icons/reels.html" -}} 
+                    <div class="col-md-12 selector">
+                        {{- partial "icons/reels.html" -}}
                         <span>{ costCalculator.reelsValue }  Reels</span>
                         <div class="controle">
-                            <div class="btn" @click="updateControlerValue(false, 'reelsValue')">{{- partial "icons/decrease-btn.html" -}} </div> 
-                            <div class="btn" @click="updateControlerValue(true, 'reelsValue')">{{- partial "icons/increase-btn.html" -}} </div> 
+                            <div class="btn" @click="updateControlerValue(false, 'reelsValue')">{{- partial "icons/decrease-btn.html" -}} </div>
+                            <div class="btn" @click="updateControlerValue(true, 'reelsValue')">{{- partial "icons/increase-btn.html" -}} </div>
                         </div>
                     </div>
                 </div>
@@ -204,6 +204,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
@@ -291,46 +292,50 @@
                 }
                 this.loading = true;
                 var _this = this;
-                var request = new XMLHttpRequest();
-                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                request.setRequestHeader('Content-Type', 'application/json');
-                request.setRequestHeader('Content-Type', 'application/json');
-                request.onload = function() {
+              window.grecaptcha.ready(() => {
+                window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
+                  var request = new XMLHttpRequest();
+                  request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                  request.setRequestHeader('Content-Type', 'application/json');
+                  request.setRequestHeader('Content-Type', 'application/json');
+                  request.onload = function () {
                     if (!request.status || request.status !== 200) {
-                        if (request.status === 429) {
-                            _this.quotaReached = true;
-                            _this.error = 'You reached your quota for this hour. Try again later.';
-                            _this.loading = false;
-                            return
-                        }
-                        var res = JSON.parse(request.response);
-                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                      if (request.status === 429) {
+                        _this.quotaReached = true;
+                        _this.error = 'You reached your quota for this hour. Try again later.';
                         _this.loading = false;
                         return
+                      }
+                      var res = JSON.parse(request.response);
+                      _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                      _this.loading = false;
+                      return
                     }
                     document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                    _this.labels.xLabels = res.posts.map((_, i) => i + 1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers).type;
                     _this.updateFullPrice();
                     _this.error = null;
                     setTimeout(() => {
-                        document.getElementById("progress").style.width = 100 + "%";
-                        setTimeout(() => {
-                            _this.loading = false;
-                        }, 1000);
+                      document.getElementById("progress").style.width = 100 + "%";
+                      setTimeout(() => {
+                        _this.loading = false;
+                      }, 1000);
                     }, 2000);
-                };
-                request.onerror = function() {
+                  };
+                  request.onerror = function () {
                     console.log(request.response);
                     _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
                     _this.loading = false;
-                }
-                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                  }
+                  request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
+                })
+              })
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
