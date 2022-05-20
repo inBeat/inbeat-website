@@ -9,11 +9,16 @@
     }
     .hero-sub_title{
             margin-bottom: 3rem;
+            @include breakpoint(sm-down) {
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+            margin-top: 0;
+            }
     }
     .hero-title{
         font-size: 2.75rem;
         margin-bottom: 2rem;
-        @include breakpoint(sm) {
+        @include breakpoint(sm-down) {
             margin-bottom: 1.5rem;
         }
         @include breakpoint(lg) {
