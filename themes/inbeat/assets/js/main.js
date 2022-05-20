@@ -110,7 +110,7 @@ function scrollAnchors(e, respond) {
 
 function testimonial() {
         $('.slider').slick({
-          slidesToShow: 4,
+          slidesToShow: 5,
           slidesToScroll: 1,
           speed: 5000,
           cssEase: 'linear',
@@ -118,7 +118,7 @@ function testimonial() {
           autoplaySpeed: 0,
           arrows: false,
           dots: false,
-          pauseOnHover: false,
+          pauseOnHover: true,
           responsive: [{
             breakpoint: 768,
             settings: {
@@ -127,7 +127,7 @@ function testimonial() {
           }, {
             breakpoint: 520,
             settings: {
-              slidesToShow: 2
+              slidesToShow: 3
             }
           }]
         });

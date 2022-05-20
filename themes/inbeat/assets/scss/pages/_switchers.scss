@@ -11,7 +11,7 @@
     .left-col{
         padding: 0rem 0rem 2rem 0rem;
         @include breakpoint(md) {
-            padding: 6.281rem 0rem;
+            padding:70px 0rem;
         }
         .tabs{
             list-style: none;
@@ -90,7 +90,7 @@
         bottom: 2px;
         left: 0;
         // margin-top: -7px;
-        background: #b2d08133;
+        background: #E1F1D6;
         z-index: 10;
       }
       .progressbar .inner {

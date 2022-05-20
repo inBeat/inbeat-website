@@ -97,8 +97,10 @@
 		//   margin-left: -2rem;
 		@include breakpoint(md) {
 			width: 76.8rem;
+			margin: 0px auto;
 		}
-		  width: 100%;
+		  width: 100vw;
+		  margin: 0px -2rem;
 		  overflow:hidden;
 		//   .marquee{
 		//   position:relative;
