@@ -22,7 +22,8 @@
 		}
 	}
 	.clients_card-container{
-		margin: 0 -2rem;
+		margin-left: -2rem;
+		margin-right: -1.5rem;
 		display: flex;
 		overflow-x: scroll;
 		@include breakpoint(md) {
@@ -37,7 +38,7 @@
 		}
 	  }
 	.clients_card-container > *:last-child {
-		padding-right: 2rem;
+		padding-right: 0;
 		@include breakpoint(md) {
 			padding-right: 0;
 		}
@@ -48,8 +49,12 @@
 		}
 		display: flex;
 		.inner-box {
+			width: calc(100vw - 160px);
 			background-color: $white;
 			padding: 45px 32px;
+			@include breakpoint(sm) {
+				width: 350px;
+			}
 			p {
 				margin: 0;
 				padding: 0;
@@ -92,8 +97,10 @@
 		//   margin-left: -2rem;
 		@include breakpoint(md) {
 			width: 76.8rem;
+			margin: 0px auto;
 		}
-		  width: 100%;
+		  width: 100vw;
+		  margin: 0px -2rem;
 		  overflow:hidden;
 		//   .marquee{
 		//   position:relative;
@@ -104,22 +111,28 @@
 		// }
 		//   animation:scroll 6s linear infinite;
 		//   }
+		.slider{
+			.slick-track{
+				display: flex;
+				align-items: center;
+			}	
+		}
 		.marquee {
-			width: 800px;
+			// width: 800px;
 			position: relative;
 			overflow: hidden;
 			@include breakpoint(md) {
 			width: 100%;
 			animation: none;
 		    }
-			animation: marquee 20s linear infinite;
-			span {
+			// animation: marquee 20s linear infinite;
+			// span {
 				display: flex;
 				float: left;
 				width: 100%;
 				justify-content: space-between;
 				align-items: center;
-			  }
+			//   }
 
 			.marquee--inner {
 				display: flex;

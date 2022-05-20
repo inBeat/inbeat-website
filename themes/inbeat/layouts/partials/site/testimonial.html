@@ -11,8 +11,8 @@
                 <div class="clients_card-container">
                 {{- range .client -}}
                     <div class="col-md-4 col-sm-12 box m-tb-80 client-card" > 
-                        <div class="inner-box" style="width: 350px;">
-                           <p class="small">{{- .quote -}} </p> 
+                        <div class="inner-box">
+                           <p style="font-size: 14px;">{{- .quote -}} </p> 
                            <div class="client">
                                 <img src="{{- .img -}}" alt="">
                                 <div class="client-info">
@@ -26,18 +26,7 @@
             </div>    
             </div>
         </div>
-    <section class="container"  id="clients">
-        <div class="icon-group marquee">
-                            <span>
-                    <div class="client-icon">{{- partial "icons/got-milk.html" -}}</div>
-                    <div class="client-icon">{{- partial "icons/moose.html" -}}</div>
-                    <div class="client-icon">{{- partial "icons/new-balance.html" -}}</div>
-                    <div class="client-icon">{{- partial "icons/nissan.html" -}}</div>
-                    <div class="client-icon">{{- partial "icons/loop.html" -}}</div>
-                    <div class="client-icon">{{- partial "icons/bedtime.html" -}}</div>
-                </span>
-        </div>
-    </section>
+        {{- partial "site/clients.html" . -}}
 </section>
 {{- end -}}
 <script>
@@ -45,3 +34,5 @@
         console.log(elem)
     }
 </script>
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

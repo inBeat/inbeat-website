@@ -1,4 +1,4 @@
-#hero {
+#hero-influencer {
     padding-top: 8.50rem;
     padding-bottom: 6rem;
     text-align: center;
@@ -9,17 +9,11 @@
     }
     .hero-sub_title{
             margin-bottom: 3rem;
-            font-size: 1.375rem;
-            @include breakpoint(sm-down) {
-            font-size: 1.125rem;
-            line-height: 1.75rem;
-            margin-top: 0;
-            }
     }
     .hero-title{
         font-size: 2.75rem;
         margin-bottom: 2rem;
-        @include breakpoint(sm-down) {
+        @include breakpoint(sm) {
             margin-bottom: 1.5rem;
         }
         @include breakpoint(lg) {
@@ -110,11 +104,6 @@
 }
 
 .home-features {
-    .row{
-      @include breakpoint(sm-down) {
-        margin: 0;
-      }
-    }
     padding: 40px 32px 32px 32px;
     box-sizing: border-box;
     outline: none !important;
@@ -268,8 +257,8 @@
     .row{
         display: flex;
         align-items: center;
-        @include breakpoint(sm-down) {
-            margin: 0;
+        @include breakpoint(md-down) {
+            // flex-direction: column-reverse;
         }
         p{
             opacity: 0.75;
@@ -333,94 +322,4 @@
     .cta-button{
         margin-top: 3.75rem;
     }
-}
-#freetoolkit-sec {
-    padding: 3rem 1.25rem;
-    @include breakpoint(md) {
-        padding-top: 7.93rem;
-        padding-bottom: 8rem;
-    }
-    .toolkit-title{
-        @include breakpoint(sm-down) {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 100%;
-           }
-        h3{
-        font-weight: 500;
-        font-size: 42px;
-        line-height: 52px;
-        letter-spacing: -0.4px; 
-        @include breakpoint(sm-down) {
-            font-size: 30px;
-            line-height:36px;
-           }
-        }
-        svg{
-            display: block;
-            @include breakpoint(md) {
-                display: none;
-               }
-        }
-    }
-	.toolkits {
-        .row{
-         @include breakpoint(sm-down) {
-             overflow-x: auto;
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            grid-auto-rows: 1fr;
-            }
-        }
-		.toolkit {
-            display: table;
-
-            width: 100%;
-            margin-top: 25px;
-            &:hover .inner{
-                border: 1px solid rgba(0, 0, 0, 1);
-                cursor: pointer;
-            }
-			.inner {
-                transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
-                display: flex;
-				border: 1px solid rgba(0, 0, 0, 0.20);
-				padding: 15px;
-                flex-direction: row-reverse;
-                @include breakpoint(sm-down) {
-                    padding: 33px 16px 47px 27px;
-                    height: auto;
-                    width: 60vw;
-                    min-height: 120px;
-                }
-                .content{
-                    padding: 50px 25px 25px 25px;
-                    @include breakpoint(sm-down) {
-                        padding: 0px;
-                    }
-                    p{
-                        display: inline-block;
-                        align-self: flex-end;
-                        font-size: 0.875rem;
-                        margin-bottom: 0;
-                        @include breakpoint(sm-down) {
-                               font-size: .875rem;
-                               margin-top:5px;
-                               line-height: 1.5rem;
-                        }
-                    }
-                    h4{
-                        line-height: 31px;
-                        margin: 0;
-                        font-size: 1.5rem;
-                        font-weight: 500;
-                        @include breakpoint(sm-down) {
-                               font-size: 1rem;
-                        }
-                    }
-                }
-			}
-		}
-	}
 }
