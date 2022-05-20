@@ -106,16 +106,16 @@ tabs:
     text: Influencer marketing doesn’t need to be complicated. With inBeat, everything is taken care of so you can focus on what matters.
     tab: Brief
     img: /images/step1.png
-  - title: Take the hard work out of influencer marketing.
-    text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 
+  - title: Streamline your campaigns
+    text: Influencer marketing doesn’t need to be complicated. With inBeat, everything is taken care of so you can focus on what matters.
     tab: Match
     img: /images/step2.png
-  - title: Take the hard work out of influencer marketing.
-    text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 
+  - title: Streamline your campaigns
+    text: Influencer marketing doesn’t need to be complicated. With inBeat, everything is taken care of so you can focus on what matters.
     tab: Review
     img: /images/step1.png
-  - title: Take the hard work out of influencer marketing.
-    text: Main selling point, a description of the process. Not too long, adresses the main objection. Keep it from 2-3 lines. 
+  - title: Streamline your campaigns
+    text: Influencer marketing doesn’t need to be complicated. With inBeat, everything is taken care of so you can focus on what matters. 
     tab: Analyze
     img: /images/step2.png
 # startnow:
