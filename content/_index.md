@@ -9,8 +9,8 @@ hero:
     A search engine to find Micro-Nano influencers in seconds
   cta:
     text: >-
-      <span>Book a demo</span>
-    link: https://calendly.com/inbeat-co/inbeat-co-demo
+      <span>Get started — it's free</span>
+    link: https://app.inbeat.co/get-started
 features:
   - id: search
     class: popupTrigger
@@ -68,8 +68,8 @@ whatwedo:
     text: Use our built-in influencer analytics tool to know exactly who you’re working with. Analyse Influencer performance & their past collaborations.
     video: influencer-statistics 
     cta:
-      link: https://calendly.com/inbeat-co/inbeat-co-demo
-      text: Book a demo — it's free
+      link: https://app.inbeat.co/get-started
+      text: Get started — it's free
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
