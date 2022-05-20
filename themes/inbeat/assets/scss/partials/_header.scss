@@ -43,6 +43,9 @@
         @include breakpoint(md) {
             margin-right: 3rem;
         }
+        &:last-child {
+            margin-right: 0;
+        }
         cursor: pointer;
         a{
             transition: all .12s;
@@ -53,13 +56,14 @@
         &.cta {
             a{
                 opacity: 1;
+                padding: 12px 48px;
             }
-            line-height: 2.375rem;
+            line-height: 3rem;
         }
         a:not(.btn) {
             text-align: left;
             font-size: 1rem;
-            line-height: 2.375rem;;
+            line-height: 3rem;;
             color: $dark;
             text-decoration: none;
         }
