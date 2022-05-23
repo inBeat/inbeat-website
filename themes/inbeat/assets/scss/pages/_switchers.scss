@@ -9,7 +9,7 @@
         }
     }
     .left-col{
-        padding: 0rem 0rem 2rem 0rem;
+        padding: 0rem 0rem 0rem 0rem;
         @include breakpoint(md) {
             padding:70px 0rem;
         }
@@ -28,16 +28,18 @@
             li{
                 display: flex;
                 align-items: center;
-                Padding : 5px 12px;
+                height: 29px;
+                width: 75px;
+                Padding : 0px 6px 3px 16px;
                 text-align: center;
-                border-radius: 2rem;
+                border-radius: 360px;
                 cursor: pointer;
                 font-size: 16px;
                 font-weight: 400;
                 color: rgba(0, 0, 0, 0.5);
                 line-height: 26px;
                 @include breakpoint(md) {
-                    Padding : 5px 20px;
+                    justify-content: space-evenly;
                 }
                 &:hover{
                     color: rgba(0, 0, 0, 0.75);
@@ -45,6 +47,7 @@
                 }   
                 .show{
                     visibility: visible;
+                    margin-top: 2px;
                 }
                 .right-arrow{
                     visibility: hidden;
@@ -53,8 +56,6 @@
             .active{
                 color: black;
                 background-color: rgba(0, 0, 0, 0.08);
-                display: flex;
-                align-items: center;
             }
 
         }
