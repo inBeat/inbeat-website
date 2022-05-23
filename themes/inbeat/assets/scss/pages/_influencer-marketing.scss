@@ -243,6 +243,10 @@
     text-align: center;
     .cta-title{
         margin-top: 2rem;
+        font-weight: 400;
+        font-size: 2.25rem;
+        line-height: 2.62rem;
+        letter-spacing: -1px;
     }
     .whatwedo-btn{
         &:hover{
@@ -271,9 +275,10 @@
     img {
         width: 100%;
         // margin-bottom: 32px;
-        border-radius: 10px;
+        border-radius: 5px;
         @include breakpoint(md) {
             width: 495px;
+            border-radius: 10px;
         }
     }
     .row{
@@ -283,10 +288,10 @@
             margin: 0;
         }
         p{
-            opacity: 0.75;
             margin-bottom: 0rem !important;
             text-align: center;
             @include breakpoint(md) {
+                opacity: 0.75;
                 text-align: left;
             }  
         }
