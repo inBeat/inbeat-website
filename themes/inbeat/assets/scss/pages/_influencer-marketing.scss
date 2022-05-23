@@ -9,11 +9,17 @@
     }
     .hero-sub_title{
             margin-bottom: 3rem;
+            font-size: 1.375rem;
+            @include breakpoint(sm-down) {
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+            margin-top: 0;
+            }
     }
     .hero-title{
         font-size: 2.75rem;
         margin-bottom: 2rem;
-        @include breakpoint(sm) {
+        @include breakpoint(sm-down) {
             margin-bottom: 1.5rem;
         }
         @include breakpoint(lg) {
@@ -74,7 +80,7 @@
     }
 }
 
-#clients {
+#clients-influencer {
     .row {
         margin: 0;
     }
@@ -103,20 +109,25 @@
     }
 }
 
-.home-features {
+.home-features-influencer {
+    .row{
+      @include breakpoint(sm-down) {
+        margin: 0;
+      }
+    }
     padding: 40px 32px 32px 32px;
     box-sizing: border-box;
     outline: none !important;
     @include breakpoint(sm) {
         padding: 58px 55px 0px 51px;
     }
-    &#search {
+    &#search-influencer {
         background-color: #EDF9EB;
     }
-    &#pick {
+    &#pick-influencer {
         background-color: #EBF9F1;
     }
-    &#export {
+    &#export-influencer {
         background-color: #EBF6F9;
     }
     .left-col {
@@ -215,7 +226,7 @@
     }
 }
 
-#what-we-do {
+#what-we-do-influencer {
     background: $light_green;
     padding: 32px 20px 64px;
     text-align: center;
@@ -257,8 +268,8 @@
     .row{
         display: flex;
         align-items: center;
-        @include breakpoint(md-down) {
-            // flex-direction: column-reverse;
+        @include breakpoint(sm-down) {
+            margin: 0;
         }
         p{
             opacity: 0.75;

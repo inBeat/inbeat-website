@@ -1,6 +1,6 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
-<section class="container-fluid mobile-adjusted" id="hero" style="background-color: #EDF9EB;">
+<section class="container-fluid mobile-adjusted" id="hero-influencer" style="background-color: #EDF9EB;">
     <div class="container">
         <h1 class="hero-title">{{- .title | markdownify -}}</h1>
         <h4 class="hero-sub_title">{{- .subtitle | markdownify -}}</h4>
@@ -13,12 +13,12 @@
 </section>
 {{- end -}}
 {{- partial "site/switchers.html" . -}}
-{{- partial "site/testimonial.html" . -}}
+{{- partial "site/testimonial-influencer.html" . -}}
 <div class="m-tb-145">
     {{- partial "site/features.html" . -}}
 </div>
 
-{{- partial "site/whatwedo.html" . -}}
+{{- partial "site/whatwedo-influencer.html" . -}}
 
 {{- with .Params.startnow -}}
 <section class="container m-tb-160 mobile-adjusted" id="start-now">
@@ -41,6 +41,6 @@
 </section>
 {{- end -}}
 
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq" "header" true) -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
 
 {{- end -}}

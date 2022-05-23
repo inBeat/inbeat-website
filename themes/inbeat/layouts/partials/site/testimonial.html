@@ -2,17 +2,11 @@
     <section class="container-fluid p-tb-80" id="testimonials"> 
         <div class="container m-tb-40"> 
             <div class="row">
-                <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
-                <div class="navigator hide-md-up">
-                    {{- range $elem_index, $elem_val := .client -}}
-                    <div class="testimonial_circle" @click="scrollTo($elem_index)"></div>
-                    {{- end -}}
-                </div>
-                <div class="clients_card-container">
+                <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>    
                 {{- range .client -}}
-                    <div class="col-md-4 col-sm-12 box m-tb-80 client-card" > 
+                    <div class="col-md-4 col-sm-12 box m-tb-80"> 
                         <div class="inner-box">
-                           <p style="font-size: 14px;">{{- .quote -}} </p> 
+                           <p class="small">{{- .quote -}} </p> 
                            <div class="client">
                                 <img src="{{- .img -}}" alt="">
                                 <div class="client-info">
@@ -23,16 +17,17 @@
                         </div>
                     </div>
                 {{- end -}}
-            </div>    
             </div>
         </div>
-        {{- partial "site/clients.html" . -}}
+    <section class="container mobile-adjusted" id="clients">
+        <div class="row between-xs middle-xs">
+            <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
+            <div class="icons">{{- partial "icons/moose.html" -}}</div>
+            <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
+            <div class="icons">{{- partial "icons/nissan.html" -}}</div>
+            <div class="icons">{{- partial "icons/loop.html" -}}</div>
+            <div class="icons">{{- partial "icons/bedtime.html" -}}</div>
+        </div>
+    </section>
 </section>
 {{- end -}}
-<script>
-    function scrollTo(elem){
-        console.log(elem)
-    }
-</script>
-<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -11,11 +11,14 @@
 	}
 }
 
-#home-faq, #pricing-faq, #features-faq {
+#faq-influencer {
     h2 {
-        padding-bottom: 2rem;
+        padding-bottom: 1.5rem;
         border-bottom: 1px solid $dark;
         box-sizing: border-box;
+        @include breakpoint(lg) {   
+            padding-bottom: 3rem !important;
+        }
     }
     h3 {
         font-size: 1.125rem;
@@ -43,10 +46,10 @@
             display: flex;
             align-items: center;
             margin: 0;
-            padding: 25px 0;
+            padding: 24px 0;
 
             &.new-padding{
-              padding-bottom: 12px;  
+              padding-bottom: 6px;  
             }
             &:hover .active-ico{
                 opacity: 1;

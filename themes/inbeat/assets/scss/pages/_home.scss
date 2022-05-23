@@ -2,32 +2,6 @@
     padding-top: 8.50rem;
     padding-bottom: 6rem;
     text-align: center;
-    .hero-btn{
-        &:hover{
-            opacity: 0.9;
-        }
-    }
-    .hero-sub_title{
-            margin-bottom: 3rem;
-            font-size: 1.375rem;
-            @include breakpoint(sm-down) {
-            font-size: 1.125rem;
-            line-height: 1.75rem;
-            margin-top: 0;
-            }
-    }
-    .hero-title{
-        font-size: 2.75rem;
-        margin-bottom: 2rem;
-        @include breakpoint(sm-down) {
-            margin-bottom: 1.5rem;
-        }
-        @include breakpoint(lg) {
-            font-weight: 700;
-            line-height: 78px;
-           font-size: 4.75rem;
-        }
-    }
     @include breakpoint(sm) {
         padding-top: calc(50vh - 15.625rem);
         padding-bottom: calc(50vh - 18rem);
@@ -36,7 +10,6 @@
         // Add the banner height size
         transform: translateY(36.5px);
     }
-
     h4 {
         width: 100%;
         margin-bottom: 4rem;
@@ -48,9 +21,8 @@
     .cta {
         a {
             display: block;
-            margin: 0 auto;
+            margin: 0 auto 20px;
             width: 100%;
-            color: white;
             @include breakpoint(31.25rem) {
                 width: 16.75rem;
             }
@@ -63,7 +35,9 @@
             }
             &#hero-cta {
                 @include breakpoint(sm-down) {
+                    color: black;
                     border: none;
+                    animation: crazy 2s infinite;
                 }
             }
             span {
@@ -83,6 +57,9 @@
 #clients {
     .row {
         margin: 0;
+    }
+    @include breakpoint(md-down) {
+        max-width: 34rem;
     }
     .icons {
         @include breakpoint(md-down) {
@@ -110,25 +87,26 @@
 }
 
 .home-features {
-    .row{
-      @include breakpoint(sm-down) {
-        margin: 0;
-      }
-    }
-    padding: 40px 32px 32px 32px;
+    padding: 30px 25px;
     box-sizing: border-box;
     outline: none !important;
+    @include breakpoint(xs) {
+        padding: 50px 35px;
+    }
     @include breakpoint(sm) {
-        padding: 58px 55px 0px 51px;
+        padding: 58px 51px;
+    }
+    @include breakpoint(sm-down) {
+        margin: 0 !important;
     }
     &#search {
-        background-color: #EDF9EB;
+        background-color: $yellow_sub;
     }
     &#pick {
-        background-color: #EBF9F1;
+        background-color: $red_sub;
     }
     &#export {
-        background-color: #EBF6F9;
+        background-color: $green_sub;
     }
     .left-col {
         position: relative;
@@ -141,17 +119,12 @@
             font-weight: bold;
         }
     }
-    h2 {
-        @include breakpoint(md) {
-            margin-bottom: 2rem;
-        }
-    }
     a.learn-more {
         font-weight: bold;
         display: block;
         padding-bottom: 1.5rem;
         border-bottom: 1px solid $dark;
-        margin-bottom: 0;
+        margin-bottom: 2.5rem;
         @include breakpoint(md) {
             margin-bottom: 4rem;
         }
@@ -173,42 +146,11 @@
         height: auto;
         margin-bottom: 1rem;
         @include breakpoint(md) {
-            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
+            margin-bottom: 0;
         }
-        img {
+        video {
             width: 100%    !important;
-            height: 100%   !important;
-        }
-    }
-    .use-cases{
-        display: none;
-        align-items: baseline;
-        justify-content: space-between;
-        @include breakpoint(md) {
-            display: flex;
-        }
-        .use-case{
-            width: 12rem;
-            padding: 44px 0px;
-            p{
-                margin: 0;
-                font-weight: 400;
-                line-height: 22px;
-                font-size: 14px;
-            }
-        }
-        .use_case-title{
-            display: flex;
-            align-items: center;
-            p{
-                display: block;
-                margin: 0;
-                margin-top: -1px;
-                font-weight: 500;
-                line-height: 26px;
-                font-size: 16px;
-                padding-left: 9px;
-            }
+            height: auto   !important;
         }
     }
 }
@@ -227,70 +169,39 @@
 }
 
 #what-we-do {
-    background: $light_green;
-    padding: 32px 20px 64px;
-    text-align: center;
-    .cta-title{
-        margin-top: 2rem;
-    }
-    .whatwedo-btn{
-        &:hover{
-            opacity: 0.9;
-        }
-    }
+    background: $light_grey;
+    padding: 50px auto;
     @include breakpoint(xs) {
-        padding: 32px 20px 64px;
-        .cta-title{
-            margin-top: 2rem;
-            margin-bottom: 24px !important;
-        }
+        padding: 50px 35px;
     }
     @include breakpoint(sm) {
-        padding: 128px 51px;
-        .cta-title{
-            margin-bottom: 36px !important;
-            margin-top: 0;
-        }
+        padding: 58px 51px;
     }
-    @include breakpoint(md) {
-        .cta-title{
-            text-align: left;
-        }
+    @include breakpoint(sm-down) {
+        margin: 0 !important;
     }
-    img {
+    video {
         width: 100%;
-        // margin-bottom: 32px;
+        margin: 25px 0;
         border-radius: 10px;
         @include breakpoint(md) {
-            width: 495px;
+            width: 85%;
         }
     }
     .row{
         display: flex;
         align-items: center;
-        @include breakpoint(sm-down) {
-            margin: 0;
+        @include breakpoint(md-down) {
+            flex-direction: column-reverse;
         }
         p{
             opacity: 0.75;
-            margin-bottom: 0rem !important;
-            text-align: center;
-            @include breakpoint(md) {
-                text-align: left;
-            }  
         }
         .cta{
             a{
                 border: none;
-                display: block;
-                width: 100%;
-                margin-top: 2rem;
-                @include breakpoint(md) {
-                    width: max-content;
-                    margin-top: 3rem;
-                }  
             }
-            margin: 0rem 0px 0rem 0px !important;
+            margin: 50px 0;
         }
     }
 }
