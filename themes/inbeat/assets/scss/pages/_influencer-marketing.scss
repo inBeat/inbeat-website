@@ -137,6 +137,9 @@
         @include breakpoint(md) {
             margin-bottom: 4rem;
         }
+        @include breakpoint(sm-down) {
+            margin-bottom: 32px;
+        }
         span {
             font-weight: bold;
         }
@@ -145,11 +148,19 @@
         @include breakpoint(md) {
             margin-bottom: 2rem;
         }
+        @include breakpoint(sm-down) {
+            font-size: 36px;
+            line-height: 42px;
+            font-weight: 400;
+            letter-spacing: -1px;
+        }
     }
     a.learn-more {
-        font-weight: bold;
+        font-weight: 400;
         display: block;
-        padding-bottom: 1.5rem;
+        font-size: 1rem;
+        line-height: 1rem;
+        padding-bottom: 20px;
         border-bottom: 1px solid $dark;
         margin-bottom: 0;
         @include breakpoint(md) {
@@ -171,7 +182,7 @@
         position: relative;
         width: 100%;
         height: auto;
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
         @include breakpoint(md) {
             padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
         }
