@@ -1,4 +1,7 @@
 .switchers{
+    @include breakpoint(md) {
+       margin-top: 0px;
+    }
     .desktop-adjested{
         @include breakpoint(md) {
             padding-top: 144px;
@@ -7,11 +10,20 @@
             padding-top: 60px;
             margin: 0;
         }
+        .col-xs-12{
+            @include breakpoint(sm-down) {
+                padding-right: 0px;
+                padding-left: 0px;
+            }
+        }
     }
     .left-col{
         padding: 0rem 0rem 0rem 0rem;
         @include breakpoint(md) {
-            padding:70px 0rem;
+            // padding:70px 0rem;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
         }
         .tabs{
             list-style: none;
