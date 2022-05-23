@@ -9,11 +9,17 @@
     }
     .hero-sub_title{
             margin-bottom: 3rem;
+            font-size: 1.375rem;
+            @include breakpoint(sm-down) {
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+            margin-top: 0;
+            }
     }
     .hero-title{
         font-size: 2.75rem;
         margin-bottom: 2rem;
-        @include breakpoint(sm) {
+        @include breakpoint(sm-down) {
             margin-bottom: 1.5rem;
         }
         @include breakpoint(lg) {
@@ -74,7 +80,7 @@
     }
 }
 
-#clients {
+#clients-influencer {
     .row {
         margin: 0;
     }
@@ -103,20 +109,25 @@
     }
 }
 
-.home-features {
+.home-features-influencer {
+    .row{
+      @include breakpoint(sm-down) {
+        margin: 0;
+      }
+    }
     padding: 40px 32px 32px 32px;
     box-sizing: border-box;
     outline: none !important;
     @include breakpoint(sm) {
         padding: 58px 55px 0px 51px;
     }
-    &#search {
+    &#search-influencer {
         background-color: #EDF9EB;
     }
-    &#pick {
+    &#pick-influencer {
         background-color: #EBF9F1;
     }
-    &#export {
+    &#export-influencer {
         background-color: #EBF6F9;
     }
     .left-col {
@@ -126,6 +137,9 @@
         @include breakpoint(md) {
             margin-bottom: 4rem;
         }
+        @include breakpoint(sm-down) {
+            margin-bottom: 32px;
+        }
         span {
             font-weight: bold;
         }
@@ -134,11 +148,19 @@
         @include breakpoint(md) {
             margin-bottom: 2rem;
         }
+        @include breakpoint(sm-down) {
+            font-size: 36px;
+            line-height: 42px;
+            font-weight: 400;
+            letter-spacing: -1px;
+        }
     }
     a.learn-more {
-        font-weight: bold;
+        font-weight: 400;
         display: block;
-        padding-bottom: 1.5rem;
+        font-size: 1rem;
+        line-height: 1rem;
+        padding-bottom: 20px;
         border-bottom: 1px solid $dark;
         margin-bottom: 0;
         @include breakpoint(md) {
@@ -160,7 +182,7 @@
         position: relative;
         width: 100%;
         height: auto;
-        margin-bottom: 1rem;
+        margin-bottom: 1.5rem;
         @include breakpoint(md) {
             padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
         }
@@ -215,12 +237,16 @@
     }
 }
 
-#what-we-do {
+#what-we-do-influencer {
     background: $light_green;
     padding: 32px 20px 64px;
     text-align: center;
     .cta-title{
         margin-top: 2rem;
+        font-weight: 400;
+        font-size: 2.25rem;
+        line-height: 2.62rem;
+        letter-spacing: -1px;
     }
     .whatwedo-btn{
         &:hover{
@@ -249,22 +275,23 @@
     img {
         width: 100%;
         // margin-bottom: 32px;
-        border-radius: 10px;
+        border-radius: 5px;
         @include breakpoint(md) {
             width: 495px;
+            border-radius: 10px;
         }
     }
     .row{
         display: flex;
         align-items: center;
-        @include breakpoint(md-down) {
-            // flex-direction: column-reverse;
+        @include breakpoint(sm-down) {
+            margin: 0;
         }
         p{
-            opacity: 0.75;
             margin-bottom: 0rem !important;
             text-align: center;
             @include breakpoint(md) {
+                opacity: 0.75;
                 text-align: left;
             }  
         }

@@ -15,7 +15,7 @@ hero:
       <span>Book a demo</span>
     link: https://calendly.com/inbeat-co/inbeat-co-demo
 features:
-  - id: search
+  - id: search-influencer
     class: popupTrigger
     title: Work with creators that love your brand. 
     image: /images/feature-1.png
@@ -38,7 +38,7 @@ features:
       - lines:
           - title: Spam checked
           - text: All our creators are highly vetted, and go through a fake-follower check.  
-  - id: pick
+  - id: pick-influencer
     class: popupTrigger
     title: Craft high quality content at scale
     image: /images/feature-2.png
@@ -61,7 +61,7 @@ features:
       - lines:
           - title: Transparent pricing
           - text: Pay exactly for what you get, no hidden fees. .
-  - id: export
+  - id: export-influencer
     class: popupTriggers
     title: Reporting without the hassle
     image: /images/feature-3.png
