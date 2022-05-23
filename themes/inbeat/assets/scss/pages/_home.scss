@@ -278,10 +278,12 @@
 	.toolkits {
         .row{
          @include breakpoint(sm-down) {
-             overflow-x: auto;
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            grid-auto-rows: 1fr;
+                overflow-x: auto;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-auto-rows: 1fr;
+                margin: -1.25rem;
+                padding: 1.25rem;
             }
         }
 		.toolkit {
