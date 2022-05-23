@@ -38,7 +38,7 @@
 		}
 	  }
 	.clients_card-container > *:last-child {
-		padding-right: 0;
+		padding-right: 1.5rem;
 		@include breakpoint(md) {
 			padding-right: 0;
 		}
