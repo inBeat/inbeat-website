@@ -1,12 +1,27 @@
 #testimonials-influencer {
 	background-color: $light_grey;
+	@include breakpoint(sm-down) {
+		padding-bottom: 70px;
+	}
+	.m-tb-40{
+		@include breakpoint(sm-down) {
+			margin-top: 14px;
+			margin-bottom: 64px;
+		}
+	}
+	h3{
+		@include breakpoint(sm-down) {
+			font-size: 1.625rem;
+			line-height: 2rem;
+		}
+	}
 	.navigator{
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		width: 100%;
 		gap: 12px;
-		margin-bottom: 32px;
+		margin-bottom: 22px;
 		padding-top: 6px;
 
 		.testimonial_circle{
