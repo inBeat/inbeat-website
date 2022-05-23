@@ -9,14 +9,19 @@
 @import "partials/header";
 @import "partials/footer";
 @import "partials/faq";
+@import "partials/faqInfluencer";
 @import "partials/popup";
 @import "partials/tooltip";
 @import "partials/form.scss";
 @import "partials/banner.scss";
+@import "partials/testimonial";
+@import "partials/testimonial-influencer";
 
 
 @import "pages/home";
+@import "pages/influencer-marketing";
 @import "pages/top";
+@import "pages/switchers";
 @import "pages/pricing";
 @import "pages/normal";
 @import "pages/articles";
@@ -29,7 +34,6 @@
 @import "pages/creatorstudio";
 @import "pages/freetoolkit";
 @import "pages/fake-follower-checker";
-@import "partials/testimonial";
 @import "partials/skeletonLoader";
 
 @import "hamburgers";

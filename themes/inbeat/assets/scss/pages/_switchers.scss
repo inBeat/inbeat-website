@@ -1,0 +1,128 @@
+.switchers{
+    @include breakpoint(md) {
+       margin-top: 0px;
+    }
+    .desktop-adjested{
+        @include breakpoint(md) {
+            padding-top: 144px;
+        }
+        @include breakpoint(sm-down) {
+            padding-top: 60px;
+            margin: 0;
+        }
+        .col-xs-12{
+            @include breakpoint(sm-down) {
+                padding-right: 0px;
+                padding-left: 0px;
+            }
+        }
+    }
+    .left-col{
+        padding: 0rem 0rem 0rem 0rem;
+        @include breakpoint(md) {
+            // padding:70px 0rem;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .tabs{
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0;
+            margin: 0;
+            margin-bottom: 2rem;
+            width: 90%;
+            @include breakpoint(sm-down) {
+                width: 100%;
+            }
+            li{
+                display: flex;
+                align-items: center;
+                height: 29px;
+                width: 75px;
+                Padding : 0px 6px 3px 16px;
+                text-align: center;
+                border-radius: 360px;
+                cursor: pointer;
+                font-size: 16px;
+                font-weight: 400;
+                color: rgba(0, 0, 0, 0.5);
+                line-height: 26px;
+                @include breakpoint(md) {
+                    justify-content: space-evenly;
+                }
+                &:hover{
+                    color: rgba(0, 0, 0, 0.75);
+                    background: rgba(249, 247, 247, 1);
+                }   
+                .show{
+                    visibility: visible;
+                    margin-top: 2px;
+                }
+                .right-arrow{
+                    visibility: hidden;
+                }  
+                   }
+            .active{
+                color: black;
+                background-color: rgba(0, 0, 0, 0.08);
+            }
+
+        }
+
+        h2{
+            margin-bottom: 24px;
+            text-align: center;
+            @include breakpoint(md) {
+                text-align: left;
+                margin-bottom: 2rem;
+            }
+        }
+        p{
+            margin: 0;
+            margin-bottom: 32px;
+            text-align: center;
+            @include breakpoint(md) {
+                margin: 0;
+                text-align: left;
+            }
+        }
+    }
+    .right-col{
+        width: auto;
+        position: relative;
+        @include breakpoint(md) {
+            width: 600px;
+        }
+    }
+    .progressbar {
+        width: 100%;
+        position: absolute;
+        bottom: 2px;
+        left: 0;
+        // margin-top: -7px;
+        background: #E1F1D6;
+        z-index: 10;
+      }
+      .progressbar .inner {
+        height: 5px;
+        animation: progressbar-countdown;
+        animation-duration: 40s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-play-state: paused;
+        animation-timing-function: linear;
+      }
+      @keyframes progressbar-countdown {
+        0% {
+            width: 0%;
+            background: #96b06d;
+        }
+        100% {
+            width: 100%;
+            background: #B2D081;
+        }
+      }
+} 

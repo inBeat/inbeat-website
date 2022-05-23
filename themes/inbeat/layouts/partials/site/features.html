@@ -1,0 +1,56 @@
+
+{{- range .Params.features -}}
+<section class="container m-b-96 sm-m-lr-9 home-features-influencer" id="{{- .id -}}" >
+    <div class="row" style="justify-content: space-between; width:100%;height: 100%;">
+        <div class="col-xs-12 col-md-4_5 left-col">
+            <h2>{{- .title -}}</h2>
+            <p>{{- .text | markdownify -}}</p>
+            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
+                {{- htmlUnescape .link.text -}}
+            </a>
+            {{- with .question -}}
+            <div id="tooltip-element" class="is-relative">
+                <p>
+                    <a title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
+                    <span class="tooltip left">
+                        {{- .tooltip -}}
+                    </span>
+                </p>
+            </div>
+            {{- end -}}
+        </div>
+        <div class="col-xs-12 col-md-7">
+            <div class="icon-ctn">
+                <!-- <video autoplay muted loop playsinline style="height:100% !important ;">
+                    <source src="/videos/{{- .video -}}.mp4" />
+                    <source src="../static/video/10s.webm" type='video/webm; codecs="vp8, vorbis"' />
+                    <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' />
+                </video> -->
+                <img src="{{- .image -}}" alt=""> 
+            </div>
+            <div class="use-cases">
+                {{- range .points -}}
+                <div class="use-case">
+                    {{- with .lines -}}
+                    {{- range . -}}
+                    {{- if .title -}}
+                    <div class="use_case-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
+                    {{- end -}}
+                    <p>{{- .text -}} </p>
+                    {{- end -}}
+                    {{- end -}}
+                </div>
+                {{- end -}}
+            </div>
+            <a  class="learn-more hide-md-up {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
+                {{- htmlUnescape .link.text -}}
+            </a>
+            {{- with .question -}}
+            <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md-up">{{- .text -}}</a>
+            {{- end -}}
+        </div>
+        
+    </div>
+
+</section>
+{{- end -}}
