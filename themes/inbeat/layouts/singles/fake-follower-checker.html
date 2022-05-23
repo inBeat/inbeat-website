@@ -14,7 +14,7 @@
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section id="ffc-calculator" class="container mobile-adjusted">
-       
+
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
@@ -140,7 +140,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <hr> 
+                            <hr>
                             <div class="row">
                                 <div class="col-lg-4 col-xs-12 inactive-foll">
                                     <p>{inactiveFollowersValue}</p><span>Inactive Foll. ≈</span>
@@ -154,7 +154,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xs-12 average-subtitle "><h5>Average VS Target</h5></div>   
+                    <div class="col-xs-12 average-subtitle "><h5>Average VS Target</h5></div>
                     <div class="col-xs-12">
                         <div class="card ratio-average">
                             <div class="row">
@@ -213,7 +213,7 @@
                 <p class="subtext col-md-6">We use the avg. likes & comments then compare them to industry standards by following size. This calculator does not analyse followers, so the audience score is an estimation.</p>
             </div>
         </div>
-       
+
     </transition>
 </section>
 {{- partial "site/whatwedo.html" . -}}
@@ -228,6 +228,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
@@ -299,13 +300,13 @@
                 var largeArcFlag = endAngle - startAngle <= 180 ? '0' : '1';
 
                 var d = [
-                    'M', start.x, start.y, 
+                    'M', start.x, start.y,
                     'A', radius, radius, 0, largeArcFlag, 0, end.x, end.y
                 ].join(' ');
                 this.arcStyle = d
                 this.GaugeCircle.x = start.x
                 this.GaugeCircle.y = start.y
-                return d;       
+                return d;
             },
             validateEmail(email) {
                var re = /\S+@\S+\.\S+/;
@@ -366,7 +367,7 @@
                     return 107989498
                   }
                   else{
-                    return 109535666 
+                    return 109535666
                   }
             },
             getCookie(name){
@@ -401,7 +402,7 @@
                 var percentRealFollower = this.userScore().score;
                 this.realFollowersValue = nbRealFollower;
                 this.realFollowersPercent = percentRealFollower.toFixed(0) + '%';
- 
+
                 var nbInactiveFollower = this.user.followers -  nbRealFollower;
                 this.inactiveFollowersValue =  this.formatNb(Math.abs(nbInactiveFollower));
                 this.inactiveFollowersPercent = (100 - this.userScore().score).toFixed(0) +'%';
@@ -459,52 +460,56 @@
                 }
                 this.loading = true;
                 var _this = this;
-                var request = new XMLHttpRequest();
-                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                request.setRequestHeader('Content-Type', 'application/json');
+              window.grecaptcha.ready(() => {
+                window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
+                  var request = new XMLHttpRequest();
+                  request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                  request.setRequestHeader('Content-Type', 'application/json');
 
-                request.onload = function() {
+                  request.onload = function () {
                     if (!request.status || request.status !== 200) {
-                        if (request.status === 429) {
-                            _this.quotaReached = true;
-                            _this.error = 'You reached your quota for this hour. Try again later.';
-                            _this.loading = false;
-                            return
-                        }
-                        var res = JSON.parse(request.response);
-                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                      if (request.status === 429) {
+                        _this.quotaReached = true;
+                        _this.error = 'You reached your quota for this hour. Try again later.';
                         _this.loading = false;
                         return
+                      }
+                      var res = JSON.parse(request.response);
+                      _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                      _this.loading = false;
+                      return
                     }
                     document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
+                    _this.labels.xLabels = res.posts.map((_, i) => i + 1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
-                 
+
                     setTimeout(() => {
-                        document.getElementById("progress").style.width = 100 + "%";
-                        setTimeout(() => {
-                            _this.loading = false;
-                            _this.setTargetMetric();
-                            _this.setFinalMetric();
-                            _this.audienceScore =  _this.clamp(_this.userScore().score / 10, 0, 10);
-                            _this.audienceScoreTag = _this.userScore().tag
-                            _this.audienceScoreClass = _this.userScore().tagClass
-                            _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10 , 0, 100,0,180));
-                        }, 1000);
+                      document.getElementById("progress").style.width = 100 + "%";
+                      setTimeout(() => {
+                        _this.loading = false;
+                        _this.setTargetMetric();
+                        _this.setFinalMetric();
+                        _this.audienceScore = _this.clamp(_this.userScore().score / 10, 0, 10);
+                        _this.audienceScoreTag = _this.userScore().tag
+                        _this.audienceScoreClass = _this.userScore().tagClass
+                        _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10, 0, 100, 0, 180));
+                      }, 1000);
                     }, 2000);
-                };
-                request.onerror = function() {
+                  };
+                  request.onerror = function () {
                     console.log(request.response);
                     _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
                     _this.loading = false;
-                }
-                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
+                  }
+                  request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
+                })
+              })
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
