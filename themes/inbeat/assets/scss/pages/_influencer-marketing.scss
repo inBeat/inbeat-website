@@ -201,6 +201,9 @@
         .use-case{
             width: 12rem;
             padding: 44px 0px;
+            @include breakpoint(md) {
+                padding-bottom: 56px;
+            }
             p{
                 margin: 0;
                 font-weight: 400;
@@ -247,6 +250,12 @@
         font-size: 2.25rem;
         line-height: 2.62rem;
         letter-spacing: -1px;
+        @include breakpoint(md) {
+            font-weight: 500;
+            font-size: 3.5rem;
+            line-height: 4rem;
+            letter-spacing: -1.4px;
+        }
     }
     .whatwedo-btn{
         &:hover{
@@ -263,7 +272,7 @@
     @include breakpoint(sm) {
         padding: 128px 51px;
         .cta-title{
-            margin-bottom: 36px !important;
+            margin-bottom: 32px !important;
             margin-top: 0;
         }
     }

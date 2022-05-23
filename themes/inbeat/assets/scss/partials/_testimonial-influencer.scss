@@ -8,6 +8,10 @@
 			margin-top: 14px;
 			margin-bottom: 64px;
 		}
+		@include breakpoint(md) {
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
 	}
 	h3{
 		@include breakpoint(sm-down) {
@@ -127,12 +131,16 @@
 		//   animation:scroll 6s linear infinite;
 		//   }
 		.slider{
+			@include breakpoint(md) {
+					margin-bottom: 1rem;
+				}
 			.slick-track{
 				display: flex;
 				align-items: center;
 			}	
 		}
 		.marquee {
+			
 			// width: 800px;
 			position: relative;
 			overflow: hidden;
