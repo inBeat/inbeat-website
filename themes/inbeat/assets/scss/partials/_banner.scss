@@ -6,7 +6,9 @@
     height :  28px;
     transition: all 1s ease;
     &.hide-banner{
-        height: 0;
+        height: 0%;
+        // visibility: hidden;
+        // display: none;
     }
     a{
         display: flex;

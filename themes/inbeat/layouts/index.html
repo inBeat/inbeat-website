@@ -91,6 +91,35 @@
 </section>
 {{- end -}}
 
+<section id="freetoolkit-sec">
+    <div class="toolkits container">
+        <a href="{{- $.Site.BaseURL -}}free-toolkit" title="Free Toolkit" class="toolkit-title">
+            <h3>Expore our free tools</h3>
+            <svg viewBox="0 0 32 32" style="width: 30px; height: 30px; margin-top: -20px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
+            <!-- <svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1 1L8 8L1 15" stroke="black"/>
+                </svg> -->
+                
+        </a>
+        <div class="row">
+            {{- range .Params.toolkits -}}
+                    <div class="toolkit col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <a href="{{ $.Site.BaseURL }}{{ .url }}">
+                        <div class="inner">
+                            <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
+                            <div class="content">
+                                <h4>{{ .title }}</h4>
+                                <p> {{ .text }}</p>
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+    
+            {{- end -}}
+        </div>
+    </div>
+</section>
+
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
