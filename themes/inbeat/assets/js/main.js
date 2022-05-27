@@ -410,8 +410,7 @@ function faq() {
 
 function banner(){
     var banner = document.getElementById('banner');
-    var text = banner.querySelector('.popupTrigger')
-    var text = banner.querySelector('.popupTrigger')
+    var text = banner.querySelector('#popup-trigger')
     var close = banner.querySelector('#close')
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
