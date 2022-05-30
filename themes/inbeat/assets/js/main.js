@@ -420,7 +420,7 @@ function banner(){
         if (prevScrollpos > currentScrollPos) {
             banner.style.height =  '28px';
             text.classList.remove("hide");
-            close.style.top = '0'
+            close.style.top = '0';
         } else {
             banner.style.height = "0px"
             text.classList.add("hide");
