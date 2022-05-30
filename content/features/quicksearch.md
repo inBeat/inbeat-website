@@ -4,6 +4,8 @@ description: >-
   inBeat allows you to export campaigns in bulk, so that you can save numerous hours browsing through Instagram.
 pagetitle: QuickSearch
 palette: green
+banner:
+  show: false
 header:
   title: Fastest influencer search tool
   subtitle: Instantly browse our database of millions of TikTok & Instagram influencers.

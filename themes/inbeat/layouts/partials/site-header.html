@@ -1,5 +1,5 @@
 <div id="header-container">
-    {{- partial "site/banner.html" (dict "context" . "text" "See how it works" "url" "javascript:void(0)" "class" "popupTrigger" ) -}}
+    {{- partial "site/banner.html" (dict "context" . "text" "See how it works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
     <div class="container">
         <div class="row middle-xs between-xs" id="header">
             <div class="col-xs-6 col-sm-1 col-md-1">

@@ -1,3 +1,5 @@
+{{- $show := .show | default true -}}
+{{- if $show -}}
 <div id="banner" class="preventPointer">
     <a href="{{ .url }}" target="_blank" class="{{ .class }}" data-popup-id="videoPopup">
         <div class="text-content">
@@ -11,3 +13,4 @@
         </svg>
     </div>
 </div>
+{{- end -}}
