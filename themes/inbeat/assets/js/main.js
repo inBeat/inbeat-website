@@ -420,14 +420,14 @@ function banner(){
     window.onscroll = function() {
     var currentScrollPos = window.pageYOffset;
     if (prevScrollpos > currentScrollPos) {
-        banner.classList.remove('hide-banner')
+        banner.style.height =  '28px';
         text.classList.remove("hide");
         close.style.top = '0'
-    } else {
-        banner.classList.add('hide-banner')
+      } else {
+        banner.style.height = "0px"
         text.classList.add("hide");
         close.style.top = '-30px'
-    }
+      }
     prevScrollpos = currentScrollPos;
     }
     // if (getCookie('banner-hide')) {
