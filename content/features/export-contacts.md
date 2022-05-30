@@ -4,6 +4,8 @@ description: >-
   inBeat allows you to export campaigns in bulk, so that you can save numerous hours browsing through Instagram.
 pagetitle: Contact Exports
 palette: blue
+banner:
+  show: false
 header:
   title: Export contact information
   subtitle: Get thousands of Influencer E-mails & info quickly & export it to a CSV sheet.

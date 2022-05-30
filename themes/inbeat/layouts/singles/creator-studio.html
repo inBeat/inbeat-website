@@ -9,7 +9,7 @@
 		{{ block "main" . }}
 		{{ end }}
         <div id="header-container">
-            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" "class" "popupTrigger" ) -}}
+            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" "class" "popupTrigger" "show" .Params.banner.show) -}}
             <div class="container">
                 <div class="row middle-xs between-xs" id="header">
                     <div class="col-xs-6 col-sm-1 col-md-1">
