@@ -415,21 +415,19 @@ function banner(){
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
     var prevScrollpos = window.pageYOffset;
-    var height = banner.clientHeight 
-    console.log(height)
-window.onscroll = function() {
-var currentScrollPos = window.pageYOffset;
-  if (prevScrollpos > currentScrollPos) {
-    banner.style.height =  '28px';
-    text.classList.remove("hide");
-    close.style.top = '0'
-  } else {
-    banner.style.height = "0px"
-    text.classList.add("hide");
-    close.style.top = '-30px'
-  }
-  prevScrollpos = currentScrollPos;
-}
+    window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            banner.style.height =  '28px';
+            text.classList.remove("hide");
+            close.style.top = '0'
+        } else {
+            banner.style.height = "0px"
+            text.classList.add("hide");
+            close.style.top = '-30px'
+        }
+        prevScrollpos = currentScrollPos;
+    }
     // if (getCookie('banner-hide')) {
     //     banner.classList.add("hide-banner");
     //     if(hero == null){return}hero.classList.remove('has-banner');
@@ -440,9 +438,13 @@ var currentScrollPos = window.pageYOffset;
         e.preventDefault();
         setCookie('banner-hide', true, 60);
         banner.remove();
-        if(hero == null){return}hero.classList.remove('has-banner');
+        if(hero !== null){
+            hero.classList.remove('has-banner');
+        }
     })
-    if(hero == null){return}hero.classList.add('has-banner');
+    if(hero !== null){
+        hero.classList.add('has-banner');
+    }
 }
 
 function articleProgressBar() {
