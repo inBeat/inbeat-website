@@ -1,0 +1,353 @@
+#hero-industries {
+    padding: 146px 21px 32px;
+    text-align: left;
+    background-color: #EBF9F1;
+    .row{
+        @include breakpoint(md) {
+            max-width: 915px;
+        } 
+    }
+    @include breakpoint(md) {
+        padding: 192px 0px 80px;
+    }
+    @include breakpoint(sm-down) {
+        margin-bottom: 5rem;
+    }
+    .industries__title{
+        font-weight: 700;
+        font-size: 3.125rem;
+        line-height: 3.125rem;
+        letter-spacing: -1px;
+        text-align: left;
+        @include breakpoint(md) {
+            font-size: 4.687rem;
+            line-height: 4.875rem;
+        }
+    }
+    .industries__subtitle{
+        font-weight: 400;
+        font-size: 1.125rem;
+        margin: 0;
+        line-height: 1.75rem;
+        letter-spacing: -0.3px;
+        @include breakpoint(md) {
+            font-size: 1.625rem;
+            line-height: 2.25rem;
+        }
+    }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
+    h4 {
+        width: 100%;
+        margin-bottom: 4rem;
+        @include breakpoint(sm) {
+            margin: auto;
+            margin-bottom: 5rem;
+        }
+    }
+    .cta {
+        a {
+            display: block;
+            margin: 0 auto 20px;
+            width: 100%;
+            @include breakpoint(31.25rem) {
+                width: 16.75rem;
+            }
+            @include breakpoint(sm) {
+                display: inline-block;
+                margin: 0;
+                &:first-child {
+                    margin-right: 20px;
+                }
+            }
+            &#hero-cta {
+                @include breakpoint(sm-down) {
+                    color: black;
+                    border: none;
+                    animation: crazy 2s infinite;
+                }
+            }
+            span {
+                font-weight: bold;
+            }
+        }
+        a:nth-child(2){
+            padding-left: 20px;
+            span{
+               padding-left: 20px;
+                padding-right: 20px;
+            }
+        }
+    }
+}
+
+#clients {
+    .row {
+        margin: 0;
+    }
+    @include breakpoint(md-down) {
+        max-width: 34rem;
+    }
+    .icons {
+        @include breakpoint(md-down) {
+            flex-basis:33.33333%;
+            &:nth-child(3n + 2) {
+                text-align: center;
+            }
+            &:nth-child(3n) {
+                text-align: right;
+            }
+            svg {
+                margin-bottom: 1rem;
+            }
+        }
+        @include breakpoint(sm-down) {
+            svg {
+                max-width: 70%;
+                max-height: 2.5rem;
+            }
+        }
+    }
+    svg {
+        fill: $dark;
+    }
+}
+.home-features-industries {
+    .row{
+        justify-content: space-between; 
+        align-items: center;
+        width:100%;
+        height: 100%;
+      @include breakpoint(sm-down) {
+        margin: 0;
+      }
+    }
+    box-sizing: border-box;
+    outline: none !important;
+    @include breakpoint(sm) {
+    }
+    .left-col {
+        position: relative;
+    }
+    p {
+        margin: 0;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 32px;
+        @include breakpoint(md) {
+          padding-bottom: 64px;
+          border-bottom: 1px solid  rgba(0, 0, 0, 0.15);
+          margin-bottom: 0px;
+        }
+        span {
+            font-weight: bold;
+        }
+    }
+    h2 {
+        margin: 0;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 2.25rem;
+        line-height: 2.625rem;
+        letter-spacing: -0.1px;
+        margin-bottom: 24px;
+        @include breakpoint(md) {
+            font-size: 2.625rem;
+            line-height: 3.25rem;
+            letter-spacing: -0.4px;
+            margin-bottom: 32px;
+        }
+        @include breakpoint(sm-down) {
+            margin-top: 32px;
+        }
+    }
+    a.learn-more {
+        font-weight: 500;
+        display: block;
+        font-size: 1rem;
+        line-height: 1rem;
+        margin-bottom: 0;
+        letter-spacing: -0.3px;
+        margin-top: 24px;
+        @include breakpoint(sm-down) {
+            padding-bottom: 32px;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+            margin-bottom: 16px;
+        }
+    }
+    a.d-flex{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+    }
+    a.question {
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        color: $dark_sub;
+        text-decoration: underline;
+        @include breakpoint(md) {
+            position: absolute;
+            bottom: 0;
+            left: 0.5rem;
+        }
+    }
+    .icon-ctn {
+        position: relative;
+        width: auto;
+        height: 332px;
+        @include breakpoint(md) {
+            height: 563px;
+        }
+        img {
+            @include breakpoint(sm-down) {
+                width: 100%    !important;
+                height: 100%   !important;
+            }
+        }
+    }
+}
+
+$whatwedo-background: #232F28;
+$whatwedo-secondary: #141514;
+
+#what-we-do-industries {
+    background: $whatwedo-background;
+    color: #FFFFFF;
+    padding: 32px 20px 64px;
+    text-align: center;
+    .cta-title{
+        margin-top: 2rem;
+        font-weight: 400;
+        font-size: 2.25rem;
+        line-height: 2.62rem;
+        letter-spacing: -1px;
+        @include breakpoint(md) {
+            font-weight: 500;
+            font-size: 3.5rem;
+            line-height: 4rem;
+            letter-spacing: -1.4px;
+        }
+    }
+    .text-box{
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 9px;
+        padding: 20px 24px;
+        display: none;
+        opacity: 0;
+        transition: all .2s ease;
+        &.active{
+            margin-top: 32px;
+            animation: toggle forwards 0.2s ease-in-out;
+            display: block !important; 
+        }
+        @include breakpoint(md) {
+            padding: 32px;
+        }
+        .heading{
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 28px;
+            letter-spacing: -0.2px;
+            color: #FFFFFF;
+        }
+        p{
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 26px;
+          color: rgba(255, 255, 255, 0.8);
+          margin: 0;
+          text-align: left !important;
+        }
+
+    }
+    .list-box{
+        .box{
+            cursor: pointer;
+            padding: 24px 8px 24px 32px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            &:hover{
+                p{
+                    opacity: 0.5;
+                }
+                svg{
+                    opacity: 0.5;
+                }
+            }
+            p{
+                margin: 0;
+                margin-top: -5px;
+                font-weight: 500;
+                font-size: 18px;
+                line-height: 28px;
+                letter-spacing: -0.2px;
+            }
+        }
+    }
+    @include breakpoint(xs) {
+        padding: 32px 20px 64px;
+        .cta-title{
+            margin-top: 2rem;
+            margin-bottom: 24px !important;
+        }
+    }
+    @include breakpoint(sm) {
+        padding: 128px 51px;
+        .cta-title{
+            margin-bottom: 32px !important;
+            margin-top: 0;
+        }
+    }
+    @include breakpoint(md) {
+        .cta-title{
+            text-align: left;
+        }
+    }
+    img {
+        width: 100%;
+        // margin-bottom: 32px;
+        border-radius: 5px;
+        @include breakpoint(md) {
+            width: 495px;
+            border-radius: 10px;
+        }
+    }
+    .row{
+        display: flex;
+        align-items: center;
+        @include breakpoint(sm-down) {
+            margin: 0;
+        }
+        p{
+            margin-bottom: 0rem !important;
+            text-align: center;
+            @include breakpoint(md) {
+                opacity: 0.75;
+                text-align: left;
+            }  
+        }
+        .cta{
+            a{
+                border: none;
+                display: block;
+                width: 100%;
+                margin-top: 2rem;
+                @include breakpoint(md) {
+                    width: max-content;
+                    margin-top: 3rem;
+                }  
+            }
+            margin: 0rem 0px 0rem 0px !important;
+        }
+    }
+}
+
