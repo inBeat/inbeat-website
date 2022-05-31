@@ -1,0 +1,19 @@
+{{- define "main" -}}
+{{- with .Params.hero -}}
+<section class="container-fluid mobile-adjusted" id="hero-industries">
+    <div class="container">
+        <div class="row">
+            <h1 class="industries__title">{{- .title | markdownify -}}</h1>
+            <h4 class="industries__subtitle">{{- .subtitle | markdownify -}}</h4>
+        </div>
+    </div>
+</section>
+{{- end -}}
+
+<div class="m-tb-145">
+    {{- partial "site/features-industries.html" . -}}
+</div>
+{{- partial "site/whatwedo-industries.html" . -}}
+{{- partial "site/testimonial-industries.html" . -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
+{{- end -}}
