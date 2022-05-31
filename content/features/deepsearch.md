@@ -4,6 +4,8 @@ description: >-
   inBeat allows you to export campaigns in bulk, so that you can save numerous hours browsing through Instagram.
 pagetitle: DeepSearch
 palette: red
+banner:
+  show: false
 header:
   title: Find thousands of influencers’ contacts
   subtitle: Find thousands of look-alike influencers with automated similar profile & hashtag searches. 
