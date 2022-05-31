@@ -132,18 +132,20 @@ function testimonial() {
           }]
         });
     var dots = document.querySelectorAll('.testimonial_circle');
-    dots[0].classList.add('active')
-    dots.forEach(function(dot,index){
-        dot.addEventListener('click', function (e) {
-            dots.forEach(function(i){
-                if(i.classList.contains('active')){
-                    i.classList.remove('active');
-                }  
+    if(dots.length > 0){
+        dots[0].classList.add('active')
+        dots.forEach(function(dot,index){
+            dot.addEventListener('click', function (e) {
+                dots.forEach(function(i){
+                    if(i.classList.contains('active')){
+                        i.classList.remove('active');
+                    }  
+                })
+                dot.classList.add('active');
+                scroll(document.querySelectorAll('.client-card')[index])
             })
-            dot.classList.add('active');
-            scroll(document.querySelectorAll('.client-card')[index])
-        })
-    });
+        });
+    }
     var scroll = function (el) {
         var elLeft = el.offsetLeft + el.offsetWidth;
         var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
@@ -408,6 +410,30 @@ function faq() {
     }
 }
 
+function industries() {
+    var acc = document.getElementsByClassName('box');
+    if(acc.length === 0){return}
+    var currentActive = acc[0];
+    var toggleAccordionState = function (accordion) {
+        accordion.previousElementSibling.classList.add("active");
+    };
+    var reset = function (accordion) {
+        accordion.previousElementSibling.classList.remove("active");
+    };
+
+    toggleAccordionState(currentActive);
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener('mousedown', function (e) {
+            e.preventDefault();
+            toggleAccordionState(this);
+            if (this != currentActive) {
+                reset(currentActive);
+                currentActive = this;
+            }
+        }, true);
+    }
+}
 function banner(){
     var banner = document.getElementById('banner');
     var text = banner.querySelector('.popupTrigger')
@@ -416,8 +442,9 @@ function banner(){
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
     var prevScrollpos = window.pageYOffset;
-    var height = banner.clientHeight 
-    console.log(height)
+    if(hero == null){
+       hero = document.getElementById('hero-industries');
+    }
 window.onscroll = function() {
 var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
@@ -492,4 +519,5 @@ function articleProgressBar() {
   banner();
   testimonial();
   articleProgressBar();
+  industries();
 })();
