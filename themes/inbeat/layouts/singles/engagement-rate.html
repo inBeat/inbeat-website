@@ -91,9 +91,12 @@
                         {{- end -}}
                     </div>
                 </div>
-                <a href="https://app.inbeat.co/get-started" class="btn btn-lg btn-light" target="_blank">
-                   Find Similar <b>Influencers</b>
+                <a href="https://teaminbeat.typeform.com/to/sLHT8z3M" class="btn btn-lg btn-light" target="_blank" v-if="selectedUserType === 'Influencer'">
+                   Sign-up as a <b>Creator</b>
                 </a>
+                <a href="https://app.inbeat.co/get-started" class="btn btn-lg btn-light" target="_blank" v-else>
+                    Find Similar <b>Creator</b>
+                 </a>
             </div>
             <div class="col-xs-12 col-md-8 posts-info">
                 <div class="row">
@@ -202,6 +205,7 @@
         data() {
             return {
                 engagementRateFormStep: 1,
+                selectedUserType: 'Brand',
                 username: '',
                 user: null,
                 posts: [],
@@ -353,7 +357,7 @@
                 }
                 try{
                     //https://graphql.inbeat.co/ipdata
-                    const type = formElements[1].value
+                    this.selectedUserType = formElements[1].value
                     const email = formElements[0].value
                     const listId = _this.getListID(formElements[1].value)
                     window.localStorage.setItem('user-type', type);
@@ -362,19 +366,19 @@
                         const continent = json.continent_code;
                         const country = json.country_code;
 
-                        let group = await _this.getGroupId(type, continent, country);
+                        let group = await _this.getGroupId(_this.selectedUserType, continent, country);
                         var data = JSON.stringify({
                         'url': `/api/v2/groups/${group}/subscribers`,
                         'email': email,
                         'fields': {
-                            'category': type,
+                            'category': _this.selectedUserType,
                             'country': json.country_name
                         }
                         });
                         //https://graphql.inbeat.co/mailer-lite
                         await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
 
-                        if(type === 'Influencer') {
+                        if(_tis.selectedUserType === 'Influencer') {
                             _this.showInfluencerSignupForm(true);
                         } else {
                             _this.clearFormPopup(formElements);
@@ -386,7 +390,7 @@
                 }
                 this.loadingform = false;
             },
-            
+
             getCookie(name){
                 var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
