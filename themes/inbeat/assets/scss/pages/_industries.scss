@@ -391,10 +391,10 @@ $whatwedo-secondary: #141514;
     img {
         width: 100%;
         // margin-bottom: 32px;
-        border-radius: 5px;
+        border-radius: 2px;
         @include breakpoint(md) {
-            width: 495px;
-            border-radius: 10px;
+            width: 496px;
+            border-radius: 0px;
         }
     }
     .row{
