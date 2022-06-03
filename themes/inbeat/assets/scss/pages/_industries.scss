@@ -254,10 +254,17 @@ $whatwedo-secondary: #141514;
     .left-sec{
         display: flex;
     }
+    .list-seperator {
+        width: 100%;
+        height: 1px;
+        background: rgba(255, 255, 255, 0.2);
+        &.--hidden {
+            background: transparent;
+        }
+    }
     .text-box.active-option{
         background: rgba(255, 255, 255, 0.08);
         border-radius: 9px;
-        padding: 20px 24px;
         border: none;
         animation: toggle forwards 0.2s ease-in-out;
         p{
@@ -267,7 +274,7 @@ $whatwedo-secondary: #141514;
     .text-box{
         background: transparent;
         padding: 24px 8px 24px 32px;
-        border-bottom: 1px solid rgba(255,255,255,0.2);
+        // border-bottom: 1px solid rgba(255,255,255,0.2);
         border-radius: 0px;
         // display: none;
         // opacity: 0;

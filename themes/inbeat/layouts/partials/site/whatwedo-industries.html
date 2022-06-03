@@ -11,15 +11,15 @@
                 </div>
                 <div class="col-xs-12 col-md-6 whatwedo-aside">
                     <h2 class="cta-title hide-md">{{- .title -}}</h2>
+                    <div class="list-seperator"></div>
                     {{- range .tabs -}}
-                    <div class="list-box">
-                        <div class="text-box">
-                            <div class="heading">
-                                <span>{{- partial (printf "icons/%s.html" .icon) -}}</span> {{- .title -}}
-                            </div>
-                            <p>{{- .text -}}</p>
+                    <div class="list-box text-box">
+                        <div class="heading">
+                            <span>{{- partial (printf "icons/%s.html" .icon) -}}</span> {{- .title -}}
                         </div>
+                        <p>{{- .text -}}</p>
                     </div>
+                    <div class="list-seperator"></div>
                     {{- end -}}
                 </div>
             </div>

@@ -416,9 +416,13 @@ function industries() {
     var currentActive = acc[0];
     var toggleAccordionState = function (accordion) {
         accordion.classList.add("active-option");
+        accordion.nextElementSibling.classList.add("--hidden");
+        accordion.previousElementSibling.classList.add("--hidden");
     };
     var reset = function (accordion) {
         accordion.classList.remove("active-option");
+        accordion.nextElementSibling.classList.remove("--hidden");
+        accordion.previousElementSibling.classList.remove("--hidden");
     };
 
     toggleAccordionState(currentActive);
@@ -426,11 +430,11 @@ function industries() {
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener('mousedown', function (e) {
             e.preventDefault();
-            toggleAccordionState(this);
             if (this != currentActive) {
                 reset(currentActive);
                 currentActive = this;
             }
+            toggleAccordionState(this);
         }, true);
     }
 }
