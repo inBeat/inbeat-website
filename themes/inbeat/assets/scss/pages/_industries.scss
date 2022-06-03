@@ -174,9 +174,13 @@
         letter-spacing: -0.3px;
         margin-top: 24px;
         cursor: pointer;
-        transition: all 0.1s ease;
+        transition: all 0.3s ease-in-out;
+        opacity: 1;
         span{
             margin-left: 12px;
+            padding-left: 8px;
+            padding-bottom: 4px;
+            transition: all 0.3s ease-in-out;
         }
         @include breakpoint(sm-down) {
             padding-bottom: 32px;
@@ -186,7 +190,7 @@
         &:hover{
             opacity: 0.5;
             span{
-                margin-left: 20px;
+                margin-left: 24px;
             }
         }
     }
@@ -299,6 +303,10 @@ $whatwedo-secondary: #141514;
             line-height: 28px;
             letter-spacing: -0.2px;
             color: #FFFFFF;
+            transition: all .3s ease-in-out;
+        }
+        svg {
+            transition: all .3s ease-in-out;
         }
         p{
           font-weight: 400;
