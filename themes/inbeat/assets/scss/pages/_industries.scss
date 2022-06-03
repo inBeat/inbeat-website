@@ -3,6 +3,8 @@
     text-align: left;
     background-color: #EBF9F1;
     .row{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
         @include breakpoint(md) {
             max-width: 915px;
         } 
@@ -176,7 +178,7 @@
         cursor: pointer;
         transition: all 0.3s ease-in-out;
         opacity: 1;
-        span{
+        .right-arrow-icon{
             margin-left: 12px;
             padding-left: 8px;
             padding-bottom: 4px;
@@ -189,7 +191,7 @@
         }
         &:hover{
             opacity: 0.5;
-            span{
+            .right-arrow-icon{
                 margin-left: 24px;
             }
         }

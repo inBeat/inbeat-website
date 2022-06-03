@@ -7,9 +7,9 @@ layout: industries
 title: Industries
 subtitle: "industries"
 hero:
-  title: Scalable e-commerce influencer platform
+  title: Scalable e&#8209;commerce influencer platform
   subtitle: >-
-    Drive e-commerce growth by working with the top 4% of social media creators.
+    Drive e&#8209;commerce growth by working with the top 4% of social media creators.
   cta:
     text: >-
       <span>Book a demo - It</span>
