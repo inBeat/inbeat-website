@@ -141,9 +141,9 @@
 			width: 76.8rem;
 			margin: 0px auto;
 		}
-		  width: 100vw;
-		  margin: 0px -2rem;
-		  overflow:hidden;
+		width: 100vw;
+		margin: 0px -2rem;
+		overflow:hidden;
 		//   .marquee{
 		//   position:relative;
 		//   width:800px;
@@ -153,9 +153,18 @@
 		// }
 		//   animation:scroll 6s linear infinite;
 		//   }
+		.slider-static {
+			@include breakpoint(md-down) {
+				display: none;
+			}
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
 		.slider{
 			@include breakpoint(md) {
 					margin-bottom: 1rem;
+					display: none;
 				}
 			.slick-track{
 				display: flex;

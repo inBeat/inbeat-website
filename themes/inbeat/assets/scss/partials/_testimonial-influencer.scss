@@ -130,10 +130,19 @@
 		// }
 		//   animation:scroll 6s linear infinite;
 		//   }
+		.slider-static {
+			@include breakpoint(md-down) {
+				display: none;
+			}
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
 		.slider{
 			@include breakpoint(md) {
-					margin-bottom: 1rem;
-				}
+				margin-bottom: 1rem;
+				display: none;
+			}
 			.slick-track{
 				display: flex;
 				align-items: center;
