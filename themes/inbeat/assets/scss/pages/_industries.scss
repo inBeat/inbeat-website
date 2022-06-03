@@ -217,6 +217,10 @@
         position: relative;
         width: 100%;
         height: auto;
+
+        display: flex;
+        justify-content: flex-end;
+
         @include breakpoint(md) {
             width: 100%;
             height: auto;
@@ -225,6 +229,8 @@
             width: 100%    !important;
             height: auto   !important;
             object-fit: cover;
+            max-height: 500px;
+            max-width: 563px;
             // @include breakpoint(sm-down) {
             // }
         }
