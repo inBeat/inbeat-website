@@ -416,12 +416,12 @@ function industries() {
     if(acc.length === 0){return}
     var currentActive = acc[0];
     var toggleAccordionState = function (accordion) {
-        accordion.classList.add("active-option");
+        accordion.classList.add("--active");
         accordion.nextElementSibling.classList.add("--hidden");
         accordion.previousElementSibling.classList.add("--hidden");
     };
     var reset = function (accordion) {
-        accordion.classList.remove("active-option");
+        accordion.classList.remove("--active");
         accordion.nextElementSibling.classList.remove("--hidden");
         accordion.previousElementSibling.classList.remove("--hidden");
     };

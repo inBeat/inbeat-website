@@ -283,31 +283,33 @@ $whatwedo-secondary: #141514;
             background: transparent;
         }
     }
-    .text-box.active-option{
-        background: rgba(255, 255, 255, 0.08);
-        border-radius: 9px;
-        border: none;
-        animation: toggle forwards 0.2s ease-in-out;
-        p{
-            display: block;
-        }
-    }
     .text-box{
         background: transparent;
         padding: 24px 8px 24px 32px;
-        // border-bottom: 1px solid rgba(255,255,255,0.2);
         border-radius: 0px;
-        // display: none;
-        // opacity: 0;
+        opacity: 1;
+        cursor: pointer;
         transition: all .2s ease;
-        p{
-            display: none;
+        &:hover{
+            opacity: 0.5;
         }
-        // &.active{
-        //     margin-top: 32px;
-        //     animation: toggle forwards 0.2s ease-in-out;
-        //     display: block !important; 
-        // }
+        p{
+            // display: none;
+            max-height: 0px;
+            overflow: hidden;
+            transition: max-height .3s ease-in-out;
+        }
+        &.--active {
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 9px;
+            border: none;
+            opacity: 1 !important;
+            // animation: toggle forwards 0.2s ease-in-out;
+            p {
+                // display: block;
+                max-height: 64px;
+            }
+        }
         @include breakpoint(md) {
             padding: 32px;
         }
@@ -320,10 +322,6 @@ $whatwedo-secondary: #141514;
             line-height: 28px;
             letter-spacing: -0.2px;
             color: #FFFFFF;
-            transition: all .3s ease-in-out;
-        }
-        svg {
-            transition: all .3s ease-in-out;
         }
         p{
           font-weight: 400;
@@ -331,50 +329,9 @@ $whatwedo-secondary: #141514;
           line-height: 26px;
           color: rgba(255, 255, 255, 0.8);
           margin: 0;
-        //   display: none;
-        //   opacity: 0;
+          margin-top: 4px;
           text-align: left !important;
           transition: all .3s ease-in-out;
-        }
-        p.active{
-            animation: toggle forwards 0.2s ease-in-out;
-            display: block !important; 
-        }
-
-    }
-    .text-box{
-        cursor: pointer;
-        &:hover{
-            .heading{
-                opacity: 0.5;
-            }
-            svg{
-                opacity: 0.5;
-            }
-        }
-        .box{
-            cursor: pointer;
-            padding: 24px 8px 24px 32px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-            &:hover{
-                p{
-                    opacity: 0.5;
-                }
-                svg{
-                    opacity: 0.5;
-                }
-            }
-            p{
-                margin: 0;
-                margin-top: -5px;
-                font-weight: 500;
-                font-size: 18px;
-                line-height: 28px;
-                letter-spacing: -0.2px;
-            }
         }
     }
     @include breakpoint(xs) {
@@ -398,7 +355,7 @@ $whatwedo-secondary: #141514;
     }
     img {
         width: 100%;
-        // margin-bottom: 32px;
+        margin-top: 20px;
         border-radius: 2px;
         @include breakpoint(md) {
             width: 496px;
@@ -407,7 +364,7 @@ $whatwedo-secondary: #141514;
     }
     .row{
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         @include breakpoint(sm-down) {
             margin: 0;
         }
