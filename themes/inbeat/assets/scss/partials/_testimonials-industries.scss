@@ -163,9 +163,14 @@
 		}
 		.slider{
 			@include breakpoint(md) {
-					margin-bottom: 1rem;
-					display: none;
-				}
+				margin-bottom: 1rem;
+				display: none;
+			}
+			.slide {
+				display: flex;
+				justify-content: center;
+				padding: 0px 42px;
+			}
 			.slick-track{
 				display: flex;
 				align-items: center;

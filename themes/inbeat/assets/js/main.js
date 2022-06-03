@@ -109,28 +109,29 @@ function scrollAnchors(e, respond) {
 }
 
 function testimonial() {
-        $('.slider').slick({
-          slidesToShow: 6,
-          slidesToScroll: 1,
-          speed: 5000,
-          cssEase: 'linear',
-          autoplay: true,
-          autoplaySpeed: 0,
-          arrows: false,
-          dots: false,
-          pauseOnHover: false,
-          responsive: [{
+    $('.slider').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        speed: 5000,
+        cssEase: 'linear',
+        autoplay: true,
+        autoplaySpeed: 0,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        variableWidth: true,
+        responsive: [{
             breakpoint: 768,
             settings: {
-              slidesToShow: 3
+                slidesToShow: 3
             }
-          }, {
+            }, {
             breakpoint: 520,
             settings: {
-              slidesToShow: 3
+                slidesToShow: 3
             }
-          }]
-        });
+        }]
+    });
     var dots = document.querySelectorAll('.testimonial_circle');
     if(dots.length > 0){
         dots[0].classList.add('active')

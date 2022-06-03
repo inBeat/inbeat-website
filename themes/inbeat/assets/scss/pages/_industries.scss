@@ -329,7 +329,7 @@ $whatwedo-secondary: #141514;
         //   display: none;
         //   opacity: 0;
           text-align: left !important;
-          transition: all .2s ease;
+          transition: all .3s ease-in-out;
         }
         p.active{
             animation: toggle forwards 0.2s ease-in-out;
@@ -337,7 +337,7 @@ $whatwedo-secondary: #141514;
         }
 
     }
-    .list-box{
+    .text-box{
         cursor: pointer;
         &:hover{
             .heading{
