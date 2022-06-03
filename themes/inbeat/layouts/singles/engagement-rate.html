@@ -201,6 +201,7 @@
         el: '#engagement-rate',
         data() {
             return {
+                engagementRateFormStep: 1,
                 username: '',
                 user: null,
                 posts: [],
@@ -287,9 +288,18 @@
                         return 0;
                 }
             },
+            showInfluencerSignupForm(show) {
+                this.engagementRateFormStep = show ? 2 : 1;
+            },
+            closeFormPopup(){
+                allPopup.find(x => x.id === 'formPopup').closePopup();
+
+                setTimeout(() => {
+                    this.engagementRateFormStep = 1;
+                }, 2000);
+            },
             clearFormPopup(formObject){
                 setCookie('erc-submit', true, 60);
-                allPopup.find(x => x.id === 'formPopup').closePopup();
                 // reset value
                 formObject[0].value = null;
                 formObject[1].value = 'default';
@@ -343,13 +353,15 @@
                 }
                 try{
                     //https://graphql.inbeat.co/ipdata
+                    const type = formElements[1].value
+                    const email = formElements[0].value
+                    const listId = _this.getListID(formElements[1].value)
+                    window.localStorage.setItem('user-type', type);
                     await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
                         const json = JSON.parse(e);
                         const continent = json.continent_code;
                         const country = json.country_code;
-                        const type = formElements[1].value
-                        const email = formElements[0].value
-                        const listId = _this.getListID(formElements[1].value)
+
                         let group = await _this.getGroupId(type, continent, country);
                         var data = JSON.stringify({
                         'url': `/api/v2/groups/${group}/subscribers`,
@@ -361,13 +373,20 @@
                         });
                         //https://graphql.inbeat.co/mailer-lite
                         await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
-                        _this.clearFormPopup(formElements);
+
+                        if(type === 'Influencer') {
+                            _this.showInfluencerSignupForm(true);
+                        } else {
+                            _this.clearFormPopup(formElements);
+                            _this.closeFormPopup();
+                        }
                     });
                 }catch(error){
                     this.errorHandle(error)
                 }
                 this.loadingform = false;
             },
+            
             getCookie(name){
                 var nameEQ = name + '=';
                 var ca = document.cookie.split(';');
@@ -498,6 +517,10 @@
                     var win = window.open('https://www.tiktok.com/@' + this.user.username, '_blank');
                     win.focus();
                 }
+            },
+            openInfluencerRegistration() {
+                var win = window.open('https://teaminbeat.typeform.com/to/sLHT8z3M/', '_blank');
+                win.focus();
             },
         },
         // To make sure there's no conflict with Hugo templating
