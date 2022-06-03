@@ -8,7 +8,7 @@
         } 
     }
     @include breakpoint(md) {
-        padding: 192px 0px 80px;
+        padding: 276px 0px 80px;
     }
     @include breakpoint(sm-down) {
         margin-bottom: 5rem;
@@ -120,6 +120,7 @@
         align-items: center;
         width:100%;
         height: 100%;
+        margin: 0;
       @include breakpoint(sm-down) {
         margin: 0;
       }
@@ -172,10 +173,21 @@
         margin-bottom: 0;
         letter-spacing: -0.3px;
         margin-top: 24px;
+        cursor: pointer;
+        transition: all 0.1s ease;
+        span{
+            margin-left: 12px;
+        }
         @include breakpoint(sm-down) {
             padding-bottom: 32px;
             border-bottom: 1px solid rgba(0, 0, 0, 0.15);
             margin-bottom: 16px;
+        }
+        &:hover{
+            opacity: 0.5;
+            span{
+                margin-left: 20px;
+            }
         }
     }
     a.d-flex{
@@ -197,16 +209,18 @@
     }
     .icon-ctn {
         position: relative;
-        width: auto;
-        height: 332px;
+        width: 100%;
+        height: auto;
         @include breakpoint(md) {
-            height: 563px;
+            width: 100%;
+            height: auto;
         }
         img {
-            @include breakpoint(sm-down) {
-                width: 100%    !important;
-                height: 100%   !important;
-            }
+            width: 100%    !important;
+            height: auto   !important;
+            object-fit: cover;
+            // @include breakpoint(sm-down) {
+            // }
         }
     }
 }
@@ -227,23 +241,46 @@ $whatwedo-secondary: #141514;
         letter-spacing: -1px;
         @include breakpoint(md) {
             font-weight: 500;
-            font-size: 3.5rem;
-            line-height: 4rem;
-            letter-spacing: -1.4px;
+            font-size: 2.625rem;
+            line-height: 52px;
+            letter-spacing: -0.4px;
         }
     }
-    .text-box{
+    .mobile-title{
+        font-size: 1.875rem;
+        line-height: 36px;
+        letter-spacing: -0.4px;
+    }
+    .left-sec{
+        display: flex;
+    }
+    .text-box.active-option{
         background: rgba(255, 255, 255, 0.08);
         border-radius: 9px;
         padding: 20px 24px;
-        display: none;
-        opacity: 0;
-        transition: all .2s ease;
-        &.active{
-            margin-top: 32px;
-            animation: toggle forwards 0.2s ease-in-out;
-            display: block !important; 
+        border: none;
+        margin-top: 32px;
+        animation: toggle forwards 0.2s ease-in-out;
+        p{
+            display: block;
         }
+    }
+    .text-box{
+        background: transparent;
+        padding: 24px 8px 24px 32px;
+        border-bottom: 1px solid rgba(255,255,255,0.2);
+        border-radius: 0px;
+        // display: none;
+        // opacity: 0;
+        transition: all .2s ease;
+        p{
+            display: none;
+        }
+        // &.active{
+        //     margin-top: 32px;
+        //     animation: toggle forwards 0.2s ease-in-out;
+        //     display: block !important; 
+        // }
         @include breakpoint(md) {
             padding: 32px;
         }
@@ -263,11 +300,27 @@ $whatwedo-secondary: #141514;
           line-height: 26px;
           color: rgba(255, 255, 255, 0.8);
           margin: 0;
+        //   display: none;
+        //   opacity: 0;
           text-align: left !important;
+          transition: all .2s ease;
+        }
+        p.active{
+            animation: toggle forwards 0.2s ease-in-out;
+            display: block !important; 
         }
 
     }
     .list-box{
+        cursor: pointer;
+        &:hover{
+            .heading{
+                opacity: 0.5;
+            }
+            svg{
+                opacity: 0.5;
+            }
+        }
         .box{
             cursor: pointer;
             padding: 24px 8px 24px 32px;

@@ -411,14 +411,14 @@ function faq() {
 }
 
 function industries() {
-    var acc = document.getElementsByClassName('box');
+    var acc = document.getElementsByClassName('text-box');
     if(acc.length === 0){return}
     var currentActive = acc[0];
     var toggleAccordionState = function (accordion) {
-        accordion.previousElementSibling.classList.add("active");
+        accordion.classList.add("active-option");
     };
     var reset = function (accordion) {
-        accordion.previousElementSibling.classList.remove("active");
+        accordion.classList.remove("active-option");
     };
 
     toggleAccordionState(currentActive);

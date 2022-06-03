@@ -2,8 +2,8 @@
     <section class="container-fluid mobile-adjusted" id="what-we-do-industries">
         <div class="container">
             <div class="row">
-                <h2 class="cta-title hide-md-up" style="margin-bottom: 32px;">{{- .title -}}</h2>
-                <div class="col-xs-12 col-md-6">
+                <h2 class="cta-title mobile-title hide-md-up" style="margin-bottom: 32px;">{{- .title -}}</h2>
+                <div class="col-xs-12 col-md-6 left-sec">
                     <!-- <video autoplay muted loop playsinline>
                         <source src="/videos/{{- .video -}}.mp4" />
                     </video>    -->
@@ -11,44 +11,16 @@
                 </div>
                 <div class="col-xs-12 col-md-6 whatwedo-aside">
                     <h2 class="cta-title hide-md">{{- .title -}}</h2>
+                    {{- range .tabs -}}
                     <div class="list-box">
-                        <div class="box-wrapper">
-                            <div class="text-box">
-                                <div class="heading">
-                                    <span>{{- partial (printf "icons/%s.html" "play-icon") -}}</span> Uboxing Experiences
-                                </div>
-                                <p>{{- .text -}}</p>
+                        <div class="text-box">
+                            <div class="heading">
+                                <span>{{- partial (printf "icons/%s.html" .icon) -}}</span> {{- .title -}}
                             </div>
-                            <div class="box">
-                                <span>{{- partial (printf "icons/%s.html" "image-icon") -}}</span>
-                               <p>Images & Stills</p>
-                            </div>
-                        </div>
-                        <div class="box-wrapper">
-                            <div class="text-box">
-                                <div class="heading">
-                                    <span>{{- partial (printf "icons/%s.html" "play-icon") -}}</span> Uboxing Experiences
-                                </div>
-                                <p>{{- .text -}}</p>
-                            </div>
-                            <div class="box">
-                                <span>{{- partial (printf "icons/%s.html" "quots") -}}</span>
-                               <p>Testimonials</p>
-                            </div>
-                        </div>
-                        <div class="box-wrapper">
-                            <div class="text-box">
-                                <div class="heading">
-                                    <span>{{- partial (printf "icons/%s.html" "play-icon") -}}</span> Uboxing Experiences
-                                </div>
-                                <p>{{- .text -}}</p>
-                            </div>
-                            <div class="box">
-                                <span>{{- partial (printf "icons/%s.html" "movie") -}}</span>
-                               <p>Videos</p>
-                            </div>
+                            <p>{{- .text -}}</p>
                         </div>
                     </div>
+                    {{- end -}}
                 </div>
             </div>
         </div>

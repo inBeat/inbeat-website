@@ -52,6 +52,19 @@ whatwedo:
     cta:
       link: https://calendly.com/inbeat-co/inbeat-co-demo
       text: Book a demo — it's free
+    tabs:
+      - title: Uboxing Experiences
+        icon: play-icon
+        text: Use video to greatly increase conversions on paid ads. Ideal for TikTok, Reels, Shorts, etc. 
+      - title: Images & Stills
+        icon: image-icon
+        text: Use video to greatly increase conversions on paid ads. Ideal for TikTok, Reels, Shorts, etc. .   
+      - title: Testimonials
+        icon: quots
+        text: Use video to greatly increase conversions on paid ads. Ideal for TikTok, Reels, Shorts, etc. 
+      - title: Videos
+        icon: movie
+        text: Use video to greatly increase conversions on paid ads. Ideal for TikTok, Reels, Shorts, etc. 
 testmonial:
     title: Join the e-commerce brands that are using inBeat
     cta:
