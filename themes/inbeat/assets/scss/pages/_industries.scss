@@ -248,7 +248,7 @@ $whatwedo-secondary: #141514;
     text-align: center;
     .cta-title{
         margin-top: 2rem;
-        font-weight: 400;
+        font-weight: 500;
         font-size: 2.25rem;
         line-height: 2.62rem;
         letter-spacing: -1px;
@@ -266,6 +266,9 @@ $whatwedo-secondary: #141514;
     }
     .left-sec{
         display: flex;
+        @include breakpoint(md-down) {
+            margin-bottom: 32px;
+        }
     }
     .list-seperator {
         width: 100%;
