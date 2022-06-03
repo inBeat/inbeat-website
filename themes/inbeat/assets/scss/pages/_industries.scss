@@ -120,16 +120,17 @@
     .row{
         justify-content: space-between; 
         align-items: center;
-        width:100%;
+        width: calc(100% + 1 rem);
         height: 100%;
-        margin: 0;
-      @include breakpoint(sm-down) {
-        margin: 0;
-      }
+    //   @include breakpoint(sm-down) {
+    //     margin: 0;
+    //   }
     }
     box-sizing: border-box;
     outline: none !important;
-    @include breakpoint(sm) {
+    @include breakpoint(sm-down) {
+        margin-left: 21px;
+        margin-right: 21px;
     }
     .left-col {
         position: relative;
