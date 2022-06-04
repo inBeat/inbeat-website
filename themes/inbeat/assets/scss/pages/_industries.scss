@@ -285,11 +285,14 @@ $whatwedo-secondary: #141514;
     }
     .text-box{
         background: transparent;
-        padding: 24px 8px 24px 32px;
         border-radius: 0px;
+        padding: 20px 24px;
         opacity: 1;
         cursor: pointer;
         transition: all .2s ease;
+        @include breakpoint(md) {
+            padding: 24px 8px 24px 32px;
+        }
         &:hover{
             opacity: 0.5;
         }
@@ -308,6 +311,11 @@ $whatwedo-secondary: #141514;
             p {
                 // display: block;
                 max-height: 64px;
+                @include breakpoint(sm-down) {
+                    font-size: 0.875rem;
+                    line-height: 1.375rem;
+                }
+
             }
         }
         @include breakpoint(md) {
