@@ -249,7 +249,6 @@
             },
           request(data, request, api){
                     return new Promise(function (resolve, reject) {
-                        window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}, function (token) {
                           const body = {
                             ...JSON.parse(data),
                             token,
@@ -266,7 +265,6 @@
                             .then((res) => res.json())
                             .then((json) => resolve(json))
                             .catch(reject)
-                        })
                     });
             },
             getListID(tagName) {
