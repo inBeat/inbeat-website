@@ -12,13 +12,13 @@
 <div id="engagement-rate">
 
     {{ $content := partial "site/engagementRateForm.html" .}}
-    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}   
+    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section class="container mobile-adjusted page-top" id="engagement-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section id="engagement-calculator" class="container mobile-adjusted">
-       
+
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
         {{- else -}}
@@ -194,6 +194,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
@@ -232,7 +233,6 @@
             this.initialSearch = false;
         },
         mounted() {
-            
 
         },
         methods: {
@@ -247,29 +247,26 @@
                 }
                 this.average_comments = Math.round(sum / this.posts.length);
             },
-            request(data, request, api){
+          request(data, request, api){
                     return new Promise(function (resolve, reject) {
-                        var xhr = new XMLHttpRequest();
-                        xhr.open(request, api, true);
-                        xhr.setRequestHeader('Content-Type', 'application/json');
-                        xhr.onload = function () {
-                            var status = xhr.status;
-                            if (status == 200) {
-                                resolve(xhr.response);
-                            } else {
-                                reject({
-                                  status: this.status,
-                                  statusText: xhr.statusText
-                                });
-                            }
-                        };
-                        xhr.onerror = function () {
-                          reject({
-                            status: this.status,
-                            statusText: xhr.statusText
-                          });
-                        };
-                        xhr.send(data);
+                        window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}, function (token) {
+                          const body = {
+                            ...JSON.parse(data),
+                            token,
+                          }
+
+                          fetch({
+                            method: request,
+                            url: api,
+                            headers: {
+                              "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify(body),
+                          })
+                            .then((res) => res.json())
+                            .then((json) => resolve(json))
+                            .catch(reject)
+                        })
                     });
             },
             getListID(tagName) {
@@ -312,7 +309,7 @@
                     return 107989498
                   }
                   else{
-                    return 109535666 
+                    return 109535666
                   }
             },
             errorHandle(error){
@@ -402,54 +399,58 @@
                 }
                 this.loading = true;
                 var _this = this;
-                var request = new XMLHttpRequest();
-                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
-                request.setRequestHeader('Content-Type', 'application/json');
-                request.onload = function() {
-                    if (!request.status || request.status !== 200) {
-                        if (request.status === 429) {
+                window.grecaptcha.ready(() => {
+                    window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
+                      var request = new XMLHttpRequest();
+                      request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                      request.setRequestHeader('Content-Type', 'application/json');
+                      request.onload = function () {
+                        if (!request.status || request.status !== 200) {
+                          if (request.status === 429) {
                             _this.quotaReached = true;
                             _this.error = 'You reached your quota for this hour. Try again later.';
                             _this.loading = false;
                             return
+                          }
+                          var res = JSON.parse(request.response);
+                          _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                          _this.loading = false;
+                          return
                         }
+                        document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                         var res = JSON.parse(request.response);
-                        _this.error = res.error || 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                        _this.loading = false;
-                        return
-                    }
-                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
-                    var res = JSON.parse(request.response);
-                    _this.user = res.user;
-                    _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
-                    _this.datasetLikes = res.posts.map(post => post.likes);
-                    _this.datasetComments = res.posts.map(post => post.comments);
-                    _this.error = null;
-                    _this.getFirstData = true;
-                    setTimeout(() => {
-                        document.getElementById("progress").style.width = 100 + "%";
+                        _this.user = res.user;
+                        _this.posts = res.posts;
+                        _this.labels.xLabels = res.posts.map((_, i) => i + 1);
+                        _this.datasetLikes = res.posts.map(post => post.likes);
+                        _this.datasetComments = res.posts.map(post => post.comments);
+                        _this.error = null;
+                        _this.getFirstData = true;
                         setTimeout(() => {
+                          document.getElementById("progress").style.width = 100 + "%";
+                          setTimeout(() => {
                             _this.loading = false;
                             _this.getAverageComments();
-                        }, 1000);
-                    }, 2000);
-                };
-                request.onerror = function() {
-                    console.log(request.response);
-                    _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
-                    _this.loading = false;
-                }
-                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
-                
-                if(!this.getCookie('erc-submit') && this.getFirstData === true){
-                    document.getElementById('banner').style.pointerEvents= 'none';
-                    request.addEventListener('loadend', (() =>{
-                        setTimeout(function(){
+                          }, 1000);
+                        }, 2000);
+                      };
+                      request.onerror = function () {
+                        console.log(request.response);
+                        _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
+                        _this.loading = false;
+                      }
+                      request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
+
+                      if (!_this.getCookie('erc-submit') && _this.getFirstData === true) {
+                        document.getElementById('banner').style.pointerEvents = 'none';
+                        request.addEventListener('loadend', (() => {
+                          setTimeout(function () {
                             allPopup.find(x => x.id === 'formPopup').openPopup();
-                           }, 3000);
-                    }));
-                }
+                          }, 3000);
+                        }));
+                      }
+                    })
+                })
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
