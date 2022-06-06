@@ -248,24 +248,29 @@
                 this.average_comments = Math.round(sum / this.posts.length);
             },
           request(data, request, api){
-                    return new Promise(function (resolve, reject) {
-                          const body = {
-                            ...JSON.parse(data),
-                          }
-
-                          fetch({
-                            method: request,
-                            url: api,
-                            headers: {
-                              "Content-Type": "application/json"
-                            },
-                            body: JSON.stringify(body),
-                          })
-                            .then((res) => res.json())
-                            .then((json) => resolve(json))
-                            .catch(reject)
-                    });
-            },
+            return new Promise(function (resolve, reject) {
+              var xhr = new XMLHttpRequest();
+              xhr.open(request, api, true);
+              xhr.setRequestHeader('Content-Type', 'application/json');
+              xhr.onload = function () {
+                var status = xhr.status;
+                if (status == 200) {
+                  resolve(xhr.response);
+                } else {
+                  reject({
+                    status: this.status,
+                    statusText: xhr.statusText
+                  });
+                }
+              };
+              xhr.onerror = function () {
+                reject({
+                  status: this.status,
+                  statusText: xhr.statusText
+                });
+              };
+              xhr.send(data);
+            });            },
             getListID(tagName) {
                 switch (tagName) {
                     case 'Influencer':
