@@ -6,14 +6,15 @@ description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer
   database. Use our tools to search, vet and track your influencer marketing campaigns.
 hero:
-  title: User-Generated Content Platform
+  title: Collaborate with the best micro-influencers, without doing all the work.
   img: /images/cs-hero.png
   subtitle: >-
-    inBeat Creator Platform helps you scale your visual content creation needs through a vetted network of handpicked creators.
+    Save hundreds of hours. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you.
   features:
   - text: Unlimited Usage Rights
   - text: Top 1% of creators
   - text: Simple Platform
+  clientsSubTitle: 2,000+ online brands trust inBeat
 video: deep-search
 infosBlock:
   - title: Work with the top <br> 1% of creators.
@@ -79,6 +80,20 @@ howitworks:
 requestAccess:
   img: /images/highqualityugc.png
   title: Start creating High Quality UGC. 
-  text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.  
+  text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.
+Pricing:
+  title: Monthly Pricing
+  rate: 300
+  socialElement:
+  - title: Creator Network
+    description: Access our network of vetted 30,000+ creators
+  - title: Influencer matching
+    description: Select your influencer targeting and get match with the right creators without doing any outreach
+  - title: Content Library
+    description: Access all of your influencer-generated content in one single click.
+  - title: Dedicated campaign strategist
+    description: Get the help of a dedicated campaign strategist to help you create a successful campaign.
+  - title: Unlimited copyrights to the content
+    description: Re-use the content in ads & repurpose it in various channels. 
 ---
 
