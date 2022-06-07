@@ -39,6 +39,43 @@
 }
 
 $plan-padding: 1.5rem;
+#pricing_toggle{
+    #toggle-sec{
+        .toggle-container{
+            padding: 31px 21px 36px 38px;
+            background: #FFFFFF;
+            border-radius: 29px;
+            opacity: 0.6;
+            cursor: pointer;
+            border: 1px solid #BDBDBD;
+            transition: all 0.3s ease-in-out;
+            &:hover{
+             box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+             opacity: 1;
+            }
+            h3{
+              margin: 0;
+              margin-bottom: 0.8125rem;
+              font-style: normal;
+              font-weight: 500;
+              font-size: 2.625rem;
+              line-height: 3.25rem;
+              letter-spacing: -0.4px;
+            }
+            p{
+              margin: 0;
+              font-style: normal;
+              font-weight: 400;
+              font-size: 1rem;
+              line-height: 1.625rem;
+            }
+        }
+        .--active{
+            border: 2px solid #141514;
+            opacity: 1;
+        }
+    }
+}
 #pricing {
     margin-top: 40px;
     @include breakpoint(sm) {
