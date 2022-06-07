@@ -66,12 +66,13 @@ extras:
     text: Keepin' it simple. We offer transparent fluffless pricing.
     icon: affordable-pricing
 whatwedo:
-    title: Gain insight with influencer performance analytics & statistics
-    text: Use our built-in influencer analytics tool to know exactly who you’re working with. Analyse Influencer performance & their past collaborations.
+    title: Creator Studio
+    text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+    newBadge: true 
     video: influencer-statistics 
     cta:
-      link: https://app.inbeat.co/get-started
-      text: Get started — it's free
+      link: https://www.inbeat.co/ugc-platform/
+      text: Learn More
 toolkits:
     - title: Instagram Engagement Calculator
       text: Gain insights on influencers with our rapid Instagram engagement checker.
