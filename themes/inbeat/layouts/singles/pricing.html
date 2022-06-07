@@ -70,7 +70,7 @@
                                 {{- .description | markdownify -}}
                             </p>
                             {{ if eq .title "Business" }}
-                                <a class='btn btn-md btn-crazy' href="https://calendly.com/inbeatapp/inbeat-demo?month=2021-09" target="_blank">
+                                <a class='btn btn-md btn-crazy' href="https://calendly.com/inbeat-co/inbeat-co-demo" target="_blank">
                                     Book a demo
                                 </a>
                             {{ end }}
@@ -266,8 +266,12 @@
                     {{ end }} 
                     {{ if eq .title "Business" }}
                     {{ else }}
-                        <a class='btn btn-md col-lg-12' href="https://calendly.com/inbeat-co/inbeat-co-demo" target="_blank">
-                            Book a demo
+                        <a class='btn btn-md col-lg-12' href="https://app.inbeat.co/get-started" target="_blank">
+                            {{ if eq .title "Growth" }}
+                                Try it for Free
+                            {{ else }}
+                                Get Started
+                            {{ end }}
                         </a>
                     {{ end }}
                 </div>
