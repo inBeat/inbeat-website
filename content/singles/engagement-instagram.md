@@ -9,10 +9,11 @@ titre: Instagram Engagement Rate Calculator
 subtitle: "Analyze Instagram influencers: follower count,<br>engagement rate, popular content and more."
 platform: instagram
 whatwedo:
-  title: Generate lists, compare influencers & export PDFs
-  text: With our premium Toolkit, you can make lists of influencers, compare them & select exactly who you want to collaborate with!
+  title: Creator Studio
+  text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+  newBadge: true
   video: influencer-statistics 
   cta:
-    link: https://app.inbeat.co/get-started
-    text: Get Started
+    link: https://www.inbeat.co/ugc-platform/
+    text: Learn More
 ---

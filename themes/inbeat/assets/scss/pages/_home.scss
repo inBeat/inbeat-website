@@ -169,6 +169,21 @@
 }
 
 #what-we-do {
+    .new-badge{
+        padding: 5px 15px;
+        width: 33px;
+        height: 15px;
+        background: linear-gradient(180deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
+        border-radius: 15px;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 15px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        color: #141514;
+        display: block;
+        margin-bottom: 1rem;
+    }
     background: $light_grey;
     padding: 50px auto;
     @include breakpoint(xs) {

@@ -8,10 +8,11 @@ titre: Instagram Fake Follower checker
 subtitle: "Get an influencer’s audience audit & identify fake, dormant or suspect followers to evaluate an influencer’s audience quality. "
 platform: instagram
 whatwedo:
-  title: Work with a vetted network of influencers
-  text: Work with a network of high quality micro-influencers, all in one integrated platform. Create highly converting user generated content that truly converts & engages your audience. 
+  title: Creator Studio
+  text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+  newBadge: true 
   video: influencer-statistics 
   cta:
-    link: https://app.inbeat.co/get-started
-    text: Book a demo — it's free
+    link: https://www.inbeat.co/ugc-platform/
+    text: Learn More
 ---
