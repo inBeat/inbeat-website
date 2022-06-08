@@ -1,7 +1,7 @@
-<section class="container mobile-adjusted m-tb-80 pricing_database" id="pricing">
+<section class="container mobile-adjusted m-tb-80" id="pricing">
     <div class="row monthly" id="pricing-row">
         <div class="col-xs-12 pricing-header">
-            <h1>Database Pricing</h1>
+            <h1>Pricing</h1>
             <p class="pricing-schedule">
                 <span id="monthly-schedule">Billed Monthly</span>
                 <span id="yearly-schedule">
@@ -25,7 +25,7 @@
                                 {{- .description | markdownify -}}
                             </p>
                             {{ if eq .title "Business" }}
-                                <a class='btn btn-md btn-crazy' href="https://calendly.com/inbeatapp/inbeat-demo?month=2021-09" target="_blank">
+                                <a class='btn btn-md btn-crazy' href="https://calendly.com/inbeat-co/inbeat-co-demo" target="_blank">
                                     Book a demo
                                 </a>
                             {{ end }}
@@ -221,8 +221,12 @@
                     {{ end }} 
                     {{ if eq .title "Business" }}
                     {{ else }}
-                        <a class='btn btn-md col-lg-12' href="https://calendly.com/inbeatapp/inbeat-demo?month=2021-09" target="_blank">
-                            Book a demo
+                        <a class='btn btn-md col-lg-12' href="https://app.inbeat.co/get-started" target="_blank">
+                            {{ if eq .title "Growth" }}
+                                Try it for Free
+                            {{ else }}
+                                Get Started
+                            {{ end }}
                         </a>
                     {{ end }}
                 </div>
