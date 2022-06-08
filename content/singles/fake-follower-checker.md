@@ -11,7 +11,7 @@ whatwedo:
   title: Creator Studio
   text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
   newBadge: true 
-  video: influencer-statistics 
+  video: CreatorStudio_Snippet 
   cta:
     link: https://www.inbeat.co/ugc-platform/
     text: Learn More
