@@ -40,6 +40,14 @@
 
 $plan-padding: 1.5rem;
 #pricing_toggle{
+    padding-top: 84px;
+    margin-top: 94px;
+    margin-bottom: 94px;
+    @include breakpoint(sm-down) {
+        padding-top: 4rem;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
     #toggle-sec{
         @include breakpoint(sm-down) {
             gap: 1rem;
@@ -54,35 +62,37 @@ $plan-padding: 1.5rem;
             transition: all 0.3s ease-in-out;
             @include breakpoint(sm-down) {
                 padding: 20px 30px;
+                border-radius: 12px;
             }
             &:hover{
              box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
              opacity: 1;
             }
             h3{
-              margin: 0;
-              margin-bottom: 0.8125rem;
-              font-style: normal;
-              font-weight: 500;
-              font-size: 2.625rem;
-              line-height: 3.25rem;
-              letter-spacing: -0.4px;
-              @include breakpoint(sm-down) {
-                    font-size: 2.2rem;
-                    line-height: 3rem;
+                margin: 0;
+                margin-bottom: 0.8125rem;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 2.625rem;
+                line-height: 3.25rem;
+                letter-spacing: -0.4px;
+                @include breakpoint(sm-down) {
+                    font-size: 1.6rem;
+                    line-height: 2rem;
                     margin-bottom: 0.4rem
-            }
+                }
             }
             p{
-              margin: 0;
-              font-style: normal;
-              font-weight: 400;
-              font-size: 1rem;
-              line-height: 1.625rem;
-              @include breakpoint(sm-down) {
+                margin: 0;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 1rem;
+                line-height: 1.625rem;
+                @include breakpoint(sm-down) {
                   font-size: 0.9rem;
-                  line-height: 1rem;
-            }
+                  line-height: 1.2rem;
+                  font-weight: 300;
+                }
             }
         }
         .--active{
@@ -103,10 +113,10 @@ $plan-padding: 1.5rem;
     .pricing-header {
         text-align: left;
         margin-bottom: 20px;
-        margin-top: 30px;
+        text-align: center;
+        // margin-top: 30px;
         @include breakpoint(md) {
             margin-top: 0;
-            text-align: center;
             margin-bottom: 100px;
         }
     }
