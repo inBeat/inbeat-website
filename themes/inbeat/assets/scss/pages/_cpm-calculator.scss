@@ -34,4 +34,34 @@
           } 
       }  
     }
+    .calculator-toggle{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        margin-bottom: 33px;
+        .calculator-type{
+            cursor: pointer;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding: 0px 14px 3px;
+            width: 126px;
+            height: 29px;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 360px;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            transition: all 0.1s ease-in-out;
+            &:hover{
+                border: 1px solid rgba(0, 0, 0, 0.5);
+            }
+        }
+        .--active{
+            background: #EBEBEB;
+        }
+    }
 }

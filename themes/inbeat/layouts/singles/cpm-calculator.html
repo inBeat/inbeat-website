@@ -5,6 +5,14 @@
         <h1>{{- .title | markdownify -}}</h1>
         <h4>{{- .subtitle | markdownify -}}</h4>
     </div>
+    <div class="calculator-toggle">
+        <div class="calculator-type --active">
+            Simple Mode
+        </div>
+        <div class="calculator-type">
+            Advanced 
+        </div>
+    </div>
 </section>
 {{- end -}}
 {{- partial "site/whatwedo.html" . -}}
