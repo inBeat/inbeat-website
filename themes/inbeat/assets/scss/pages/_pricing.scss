@@ -41,6 +41,9 @@
 $plan-padding: 1.5rem;
 #pricing_toggle{
     #toggle-sec{
+        @include breakpoint(sm-down) {
+            gap: 1rem;
+        }
         .toggle-container{
             padding: 31px 21px 36px 38px;
             background: #FFFFFF;
@@ -49,6 +52,9 @@ $plan-padding: 1.5rem;
             cursor: pointer;
             border: 1px solid #BDBDBD;
             transition: all 0.3s ease-in-out;
+            @include breakpoint(sm-down) {
+                padding: 20px 30px;
+            }
             &:hover{
              box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
              opacity: 1;
@@ -61,6 +67,11 @@ $plan-padding: 1.5rem;
               font-size: 2.625rem;
               line-height: 3.25rem;
               letter-spacing: -0.4px;
+              @include breakpoint(sm-down) {
+                    font-size: 2.2rem;
+                    line-height: 3rem;
+                    margin-bottom: 0.4rem
+            }
             }
             p{
               margin: 0;
@@ -68,6 +79,10 @@ $plan-padding: 1.5rem;
               font-weight: 400;
               font-size: 1rem;
               line-height: 1.625rem;
+              @include breakpoint(sm-down) {
+                  font-size: 0.9rem;
+                  line-height: 1rem;
+            }
             }
         }
         .--active{
@@ -77,6 +92,7 @@ $plan-padding: 1.5rem;
     }
 }
 #pricing {
+    display: none;
     margin-top: 40px;
     @include breakpoint(sm) {
         margin-top: 70px;
@@ -95,6 +111,9 @@ $plan-padding: 1.5rem;
         }
     }
     .pricing-schedule {
+        @include breakpoint(sm-down) {
+            text-align: center;
+        }
         & > span {
             display: inline-block;
             -webkit-touch-callout: none;
@@ -347,4 +366,8 @@ $plan-padding: 1.5rem;
             }
         }
     }
+}
+
+.--show{
+    display: block !important;
 }
