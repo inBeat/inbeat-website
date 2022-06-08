@@ -1,8 +1,10 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
-<section class="container mobile-adjusted hero_cpm-calculator" id="hero">
-    <h1>{{- .title | markdownify -}}</h1>
-    <h4>{{- .subtitle | markdownify -}}</h4>
+<section class="container mobile-adjusted" id="hero">
+    <div class="hero_cpm-header">
+        <h1>{{- .title | markdownify -}}</h1>
+        <h4>{{- .subtitle | markdownify -}}</h4>
+    </div>
 </section>
 {{- end -}}
 {{- partial "site/whatwedo.html" . -}}
