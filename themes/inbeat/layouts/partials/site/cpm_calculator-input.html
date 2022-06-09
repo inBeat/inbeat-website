@@ -8,7 +8,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input v-model="totalCost" type="text">
+                <input @change="calculateCPM" v-model="totalCost" type="text">
             </div>
             <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCost)">
                 {{- partial "icons/copy-button.html" -}}
@@ -23,7 +23,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input v-model="impressions"  type="text">
+                <input @change="calculateCPM" v-model="impressions"  type="text">
             </div>
         </div>
     </div>
@@ -35,7 +35,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input v-model="cpm" type="text">
+                <input @change="calculateCPM" v-model="cpm" type="text">
             </div>
         </div>
     </div>
@@ -57,25 +57,31 @@
       el: '#cpm_calculator-section',
       data() {
         return {
-            cpm : 1000,
-            impressions: 0,
-            totalCost: 500,
+            cpm : null,
+            impressions: null,
+            totalCost: null,
         };
       },
         watch: {
             cpm: function(newValue) {
-                const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                Vue.nextTick(() => this.cpm = result);
+                if(newValue){
+                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    Vue.nextTick(() => this.cpm = result);
+                }
             },
             
             impressions: function(newValue) {
-                const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                Vue.nextTick(() => this.impressions = result);
+                if(newValue){
+                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    Vue.nextTick(() => this.impressions = result);
+                }
             },
-            
+
             totalCost: function(newValue) {
-                const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                Vue.nextTick(() => this.totalCost = result);
+                if(newValue){
+                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    Vue.nextTick(() => this.totalCost = result);
+                }
             }
         },
       methods:{
@@ -88,7 +94,21 @@
             if(value){
                 navigator.clipboard.writeText(value)
             }
-        }
+        },
+        calculateCPM(){
+            if(!this.cpm && !this.impressions || !this.impressions && !this.totalCost || !this.cpm && !this.totalCost){
+                return
+            }
+            if(this.totalCost && this.impressions && !this.cpm){
+                this.cpm = (parseFloat(parseFloat(this.totalCost.replace(/,/g, '')) / (parseFloat(this.impressions.replace(/,/g, ''))/1000))) + ''
+            }
+            if(this.totalCost && this.cpm && ! this.impressions){
+                this.impressions = (parseFloat(parseFloat(this.totalCost.replace(/,/g, '')) / (parseFloat(this.cpm.replace(/,/g, ''))))) + ''
+            }
+            if(this.impressions && this.cpm && ! this.totalCost){
+                this.totalCost = (parseFloat(parseFloat(this.impressions.replace(/,/g, '')) / 1000) * (parseFloat(this.cpm.replace(/,/g, '')))) + ''
+            }
+        }   
 
       },
       // To make sure there's no conflict with Hugo templating
