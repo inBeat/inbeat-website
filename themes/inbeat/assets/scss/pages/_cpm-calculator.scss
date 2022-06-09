@@ -192,19 +192,17 @@ $pink: #B85172;
         svg{
             margin-left: -1px;
             margin-top: -1px;
-            transition: all 0.5s ease-in-out;
+            transition: all 0.3s ease-in-out;
         }
         &:active{
            svg{
                opacity: 0.5;
+               transform: rotate(180deg);
            }
         }
         &:hover{
             box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
             border: 1px solid rgba(0, 0, 0, 0.5);
-            svg{
-                transform: rotate(360deg);
-            }
         }
     }
 }
