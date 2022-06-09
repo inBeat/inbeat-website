@@ -82,12 +82,19 @@ $pink: #B85172;
     border-radius: 1px;
     padding: 62px 63px 51px 63px;
     margin-bottom: 128px;
+    @include breakpoint(sm-down) {
+        padding: 24px;
+      } 
     .calculator_input-box{
         position: relative;
         padding: 32px;
         border: 1px solid #DCDCDC;
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
         border-radius: 1px;
+        @include breakpoint(sm-down) {
+            padding: 24px 29px;
+            margin-bottom: 8px;
+          } 
         .header{
             display: flex;
             align-items: center;
@@ -142,8 +149,8 @@ $pink: #B85172;
             background: #FFFFFF;
             border: 1px solid rgba(0, 0, 0, 0.1);
             border-radius: 8px;
-            display: grid;
-            place-items: center;
+            justify-content: center;
+            align-items: center;
             cursor: pointer;
             transition: all 0.1s ease-in-out;
             svg{
