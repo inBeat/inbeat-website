@@ -10,10 +10,50 @@
             Simple Mode
         </div>
         <div class="calculator-type">
-            Advanced 
+            Advanced  <span class="question-circle --gray_bg">
+                {{- partial "icons/question-mark.html" -}}
+            </span>
         </div>
     </div>
 </section>
+    <section class="container mobile-adjusted">
+        <div class="row" id="cpm_calculator-section">
+            <div class="col-xs-12 col-md-4">
+                <div class="calculator_input-box --active_input-box">
+                    <div class="header --green">
+                        Total Cost <span class="question-circle --green_bg">
+                            {{- partial "icons/question-mark.html" -}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <div class="calculator_input-box">
+                    <div class="header --yellow">
+                        Impressions <span class="question-circle --yellow_bg">
+                            {{- partial "icons/question-mark.html" -}}
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <div class="calculator_input-box ">
+                    <div class="header --pink">
+                        CPM <span class="question-circle --pink_bg">
+                            {{- partial "icons/question-mark.html" -}}
+                        </span>
+                    </div>
+                    <div>
+
+                        <input type="number">
+                    </div>
+                </div>
+            </div>
+            <span class="col-md-12 footer">
+                Use advanced mode to compare the costs of <br> multiple campaigns.
+            </span>
+        </div>
+    </section>
 {{- end -}}
 {{- partial "site/whatwedo.html" . -}}
 {{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
