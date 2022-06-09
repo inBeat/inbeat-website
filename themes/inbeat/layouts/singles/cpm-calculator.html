@@ -16,7 +16,7 @@
         </div>
     </div>
 </section>
-    <section class="container mobile-adjusted">
+    <section class="container mobile-adjusted" id="cpm__calculator">
         <div class="row" id="cpm_calculator-section">
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box --active_input-box">
@@ -24,6 +24,12 @@
                         Total Cost <span class="question-circle --green_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
+                    </div>
+                    <div class="input-wrapper">
+                        <input  type="number">
+                    </div>
+                    <div class="copy-button_wrapper">
+                        {{- partial "icons/copy-button.html" -}}
                     </div>
                 </div>
             </div>
@@ -34,18 +40,20 @@
                             {{- partial "icons/question-mark.html" -}}
                         </span>
                     </div>
+                    <div class="input-wrapper">
+                        <input  type="number">
+                    </div>
                 </div>
             </div>
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box ">
-                    <div class="header --pink">
+                    <div class="header --pink" title="CPM">
                         CPM <span class="question-circle --pink_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
                     </div>
-                    <div>
-
-                        <input type="number">
+                    <div class="input-wrapper">
+                        <input  type="number">
                     </div>
                 </div>
             </div>

@@ -94,8 +94,16 @@ $pink: #B85172;
             font-weight: 500;
             font-size: 16px;
             line-height: 29px;
+            width: max-content;
+            cursor: pointer;
+            &:hover{
+                .question-circle{
+                    opacity: 1;
+                }
+            }
         }
         input{
+         margin-top: 6px;
          font-weight: 500;
          font-size: 42px;
          line-height: 52px;
@@ -123,6 +131,28 @@ $pink: #B85172;
         /* Firefox */
         input[type=number] {
             -moz-appearance: textfield;
+        }
+        .copy-button_wrapper{
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 300px;
+            top: 14px;
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            display: grid;
+            place-items: center;
+            cursor: pointer;
+            &:hover{
+                border: 1px solid rgba(0, 0, 0, 0.5);
+                box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+            }
+            &:active{
+                svg{
+                    opacity: 0.5;
+                }
+            }
         }
     }
     .footer{
