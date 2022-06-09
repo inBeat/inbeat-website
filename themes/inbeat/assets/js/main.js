@@ -164,7 +164,7 @@ function testimonial() {
 
 function pricing() {
     //set toggle 
-    var toggle = document.getElementsByClassName('toggle-container')
+    var toggle = document.querySelectorAll('.toggle-container')
     if(toggle.length === 0){return}
     var currentActive = toggle[0];
     var creatorStudioActive = function (item) {
@@ -185,11 +185,6 @@ function pricing() {
         toggle[i].addEventListener('click', function (e) {
             e.preventDefault();
                 this.classList.contains('toggle_creator-studio') ? creatorStudioActive(this) : creatorStudioInactive(this)
-            // toggleAccordionState(this);
-            // if (this != currentActive) {
-            //     reset(currentActive);
-            //     currentActive = this;
-            // }
         }, true);
     }
     // Select pricing interval
