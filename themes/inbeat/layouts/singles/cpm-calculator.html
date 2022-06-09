@@ -16,55 +16,9 @@
         </div>
     </div>
 </section>
-    <section class="container mobile-adjusted" id="cpm__calculator">
-        <div class="row" id="cpm_calculator-section">
-            <div class="col-xs-12 col-md-4">
-                <div class="calculator_input-box --active_input-box">
-                    <div class="header --green">
-                        Total Cost <span class="question-circle --green_bg">
-                            {{- partial "icons/question-mark.html" -}}
-                        </span>
-                    </div>
-                    <div class="input-wrapper">
-                        <input  type="number">
-                    </div>
-                    <div class="copy-button_wrapper">
-                        {{- partial "icons/copy-button.html" -}}
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="calculator_input-box">
-                    <div class="header --yellow">
-                        Impressions <span class="question-circle --yellow_bg">
-                            {{- partial "icons/question-mark.html" -}}
-                        </span>
-                    </div>
-                    <div class="input-wrapper">
-                        <input  type="number">
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="calculator_input-box ">
-                    <div class="header --pink" title="CPM">
-                        CPM <span class="question-circle --pink_bg">
-                            {{- partial "icons/question-mark.html" -}}
-                        </span>
-                    </div>
-                    <div class="input-wrapper">
-                        <input  type="number">
-                    </div>
-                </div>
-            </div>
-            <span class="col-md-12 footer">
-                Use advanced mode to compare the costs of <br> multiple campaigns.
-            </span>
-            <div class="refresh-button_wrapper">
-                {{- partial "icons/refresh.html" -}}
-            </div>
-        </div>
-    </section>
+<section class="container mobile-adjusted">
+    {{- partial "site/cpm_calculator-input.html" . -}}
+</section>
 {{- end -}}
 {{- partial "site/whatwedo.html" . -}}
 {{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}

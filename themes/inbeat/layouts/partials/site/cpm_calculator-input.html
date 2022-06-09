@@ -1,0 +1,81 @@
+
+<div class="row" id="cpm_calculator-section">
+    <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box --active_input-box">
+            <div class="header --green">
+                Total Cost <span class="question-circle --green_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+            </div>
+            <div class="input-wrapper">
+                <input v-model="totalCost" type="number">
+            </div>
+            <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCost)">
+                {{- partial "icons/copy-button.html" -}}
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box">
+            <div class="header --yellow">
+                Impressions <span class="question-circle --yellow_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+            </div>
+            <div class="input-wrapper">
+                <input v-model="impressions"  type="number">
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box ">
+            <div class="header --pink" title="CPM">
+                CPM <span class="question-circle --pink_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+            </div>
+            <div class="input-wrapper">
+                <input v-model="cpm" type="number">
+            </div>
+        </div>
+    </div>
+    <span class="col-md-12 footer">
+        Use advanced mode to compare the costs of <br> multiple campaigns.
+    </span>
+    <div @click="refresh" class="refresh-button_wrapper">
+        {{- partial "icons/refresh.html" -}}
+    </div>
+</div>
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script>
+    var app = new Vue({
+      el: '#cpm_calculator-section',
+      data() {
+        return {
+            cpm : 1000,
+            impressions: 0,
+            totalCost: 500,
+        };
+      },
+      methods:{
+        refresh(){
+            this.cpm = null
+            this.impressions = null
+            this.totalCost = null
+        },
+        copyValue(value){
+            if(value){
+                navigator.clipboard.writeText(value)
+            }
+        }
+
+      },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>
