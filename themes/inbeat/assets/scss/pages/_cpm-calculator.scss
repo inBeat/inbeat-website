@@ -136,6 +136,9 @@ $pink: #B85172;
         }
         .--border{
            border: none;
+           &:focus{
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
         }
         input::-webkit-outer-spin-button,
         input::-webkit-inner-spin-button {

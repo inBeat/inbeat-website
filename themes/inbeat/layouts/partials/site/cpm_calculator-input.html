@@ -10,7 +10,7 @@
             <div class="input-wrapper">
                 <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000" :class="{'--border':totalCostValue}">
             </div>
-            <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCost)">
+            <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCostValue)">
                 {{- partial "icons/copy-button.html" -}}
             </div>
         </div>
@@ -23,7 +23,10 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" :class="{'--border':impressionsValue}">
+                <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" :class="{'--border':impressionsValue}" >
+            </div>
+            <div class="copy-button_wrapper hide-sm" @click="copyValue(impressionsValue)">
+                {{- partial "icons/copy-button.html" -}}
             </div>
         </div>
     </div>
@@ -36,6 +39,9 @@
             </div>
             <div class="input-wrapper">
                 <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :class="{'--border':cpmValue}">
+            </div>
+            <div class="copy-button_wrapper hide-sm" @click="copyValue(cpmValue)">
+                {{- partial "icons/copy-button.html" -}}
             </div>
         </div>
     </div>
@@ -62,11 +68,8 @@ The value of the third will appear
       data() {
         return {
             cpmValue : null,
-            // cpmText: '',
             impressionsValue: null,
-            // impressionsText: '',
             totalCostValue: null,
-            // totalCostText: '',
             lastUpdatedField: '',
         };
       },
@@ -106,16 +109,24 @@ The value of the third will appear
                 //
                 if(fieldName === 'cpm') {
                     // Not allowed
+                    if(!this.impressionsValue){
+                        this.calculateOtherField('impressions')
+                    }
+                    else if(!this.totalCostValue){
+                        this.calculateOtherField('totalCost')
+                    } else {
+                        this.calculateOtherField('totalCost')
+                    }
                 } else {
                     if(this.totalCostValue && this.impressionsValue){
                         // update CPM
                         this.calculateOtherField('cpm')
                     }
-                    if(this.totalCostValue && this.cpmValue && ! this.impressionsValue){ 
+                    if(this.totalCostValue && this.cpmValue && fieldName !== 'impressions'){ 
                         // update impressions
                         this.calculateOtherField('impressions')
                     }
-                    if(this.impressionsValue && this.cpmValue && ! this.totalCostValue){
+                    if(this.impressionsValue && this.cpmValue && fieldName !== 'totalCost'){
                         // update totalCost
                         this.calculateOtherField('totalCost')
                     }
