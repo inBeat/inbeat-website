@@ -67,6 +67,7 @@ The value of the third will appear
             // impressionsText: '',
             totalCostValue: null,
             // totalCostText: '',
+            lastUpdatedField: '',
         };
       },
       computed: {
@@ -97,18 +98,46 @@ The value of the third will appear
             if(!this.cpmValue && !this.impressionsValue || !this.impressionsValue && !this.totalCostValue || !this.cpmValue && !this.totalCostValue){
                 return // do not calculate anything
             }
-            if(this.totalCostValue && this.impressionsValue){
-                this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
+            if(this.lastUpdatedField){
+                // update lastUpdatedField
+                this.calculateOtherField(this.lastUpdatedField)
+            } else {
+                //
+                if(fieldName === 'cpm') {
+                    // Not allowed
+                } else {
+                    if(this.totalCostValue && this.impressionsValue){
+                        // update CPM
+                        this.calculateOtherField('cpm')
+                    }
+                    if(this.totalCostValue && this.cpmValue && ! this.impressionsValue){ 
+                        // update impressions
+                        this.calculateOtherField('impressions')
+                    }
+                    if(this.impressionsValue && this.cpmValue && ! this.totalCostValue){
+                        // update totalCost
+                        this.calculateOtherField('totalCost')
+                    }
+                }
             }
-            if(this.totalCostValue && this.cpmValue && ! this.impressionsValue){ 
-                this.impressions = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
+        },
+        calculateOtherField(fieldName) {
+            switch(fieldName){
+                case 'cpm': 
+                    this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
+                    break;
+                case 'impressions':
+                    this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
+                    break;
+                case 'totalCost':
+                    this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
+                    break;
             }
-            if(this.impressionsValue && this.cpmValue && ! this.totalCostValue){
-                this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
-            }
+            this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
+            this.lastUpdatedField = '';
         },
         focus(e){
             e.target.parentElement.parentElement.classList.add('--active_input-box')
