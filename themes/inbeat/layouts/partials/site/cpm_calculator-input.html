@@ -1,14 +1,14 @@
 
 <div class="row" id="cpm_calculator-section">
     <div class="col-xs-12 col-md-4">
-        <div class="calculator_input-box --active_input-box">
+        <div class="calculator_input-box">
             <div class="header --green">
                 Total Cost <span class="question-circle --green_bg">
                     {{- partial "icons/question-mark.html" -}}
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @change="calculateCPM" v-model="totalCost" type="text">
+                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="totalCost" type="text" placeholder="1,000" :class="{'--border':totalCost}">
             </div>
             <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCost)">
                 {{- partial "icons/copy-button.html" -}}
@@ -23,7 +23,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @change="calculateCPM" v-model="impressions"  type="text">
+                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="impressions"  type="text" placeholder="50,000" :class="{'--border':impressions}">
             </div>
         </div>
     </div>
@@ -35,11 +35,11 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @change="calculateCPM" v-model="cpm" type="text">
+                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="cpm" type="text" placeholder="20" :class="{'--border':cpm}">
             </div>
         </div>
     </div>
-    <span class="col-md-12 footer">
+    <span class="col-md-12 col-xs-12 footer">
         Use advanced mode to compare the costs of <br> multiple campaigns.
     </span>
     <div @click="refresh" class="refresh-button_wrapper">
@@ -108,7 +108,13 @@
             if(this.impressions && this.cpm && ! this.totalCost){
                 this.totalCost = (parseFloat(parseFloat(this.impressions.replace(/,/g, '')) / 1000) * (parseFloat(this.cpm.replace(/,/g, '')))) + ''
             }
-        }   
+        },  
+        blur(e){
+            e.target.parentElement.parentElement.classList.remove('--active_input-box')
+        },
+        focus(e){
+            e.target.parentElement.parentElement.classList.add('--active_input-box')
+        }
 
       },
       // To make sure there's no conflict with Hugo templating

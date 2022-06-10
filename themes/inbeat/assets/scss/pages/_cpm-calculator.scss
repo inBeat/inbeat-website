@@ -111,25 +111,31 @@ $pink: #B85172;
             }
         }
         input{
-         margin-top: 6px;
-         font-weight: 500;
-         font-size: 42px;
-         line-height: 52px;
-         letter-spacing: -0.4px;
-        color: #000000;
-        width: 100%;
-        border: none;
-        caret-color: #000000;
-        &::after{
+            margin-top: 6px;
+            font-weight: 500;
+            font-size: 42px;
+            line-height: 52px;
+            letter-spacing: -0.4px;
+            color: #000000;
+            width: 100%;
+            border: none;
+            caret-color: #000000;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            &::after{
                 position: absolute;
                 top: 0;
                 content: "$";
                 right: 5px;
+            }
+            &:focus{
+                outline: none;
+            }
+            &::placeholder{
+                color: rgba(0, 0, 0, 0.15);
+            }
         }
-        &:focus{
-            outline: none;
-            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-        }
+        .--border{
+           border: none;
         }
         input::-webkit-outer-spin-button,
         input::-webkit-inner-spin-button {
