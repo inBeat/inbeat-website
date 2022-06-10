@@ -72,20 +72,21 @@ The value of the third will appear
       },
       computed: {
         cpmText() {
-            return this.cpmValue ? this.cpmValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : '';
+            return this.cpmValue && this.cpmValue !== 'NaN' ? this.cpmValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.cpmValue = null;
         },
         impressionsText() {
-            return this.impressionsValue ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : '';
+            return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
         },
         totalCostText() {
-            return this.totalCostValue ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): '';
+            return this.totalCostValue && this.totalCostValue !== 'NaN' ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalCostValue = null;
         },
       },
       methods:{
         refresh(){
-            this.cpm = null
-            this.impressions = null
-            this.totalCost = null
+            this.cpmValue = null
+            this.impressionsValue = null
+            this.totalCostValue = null
+            this.lastUpdatedField = ''
         },
         copyValue(value){
             if(value){
@@ -124,7 +125,7 @@ The value of the third will appear
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'cpm': 
-                    this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
+                        this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
                     break;
                 case 'impressions':
                     this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
