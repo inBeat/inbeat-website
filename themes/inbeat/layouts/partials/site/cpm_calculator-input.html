@@ -8,7 +8,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="totalCost" type="text" placeholder="1,000" :class="{'--border':totalCost}">
+                <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000" :class="{'--border':totalCostValue}">
             </div>
             <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCost)">
                 {{- partial "icons/copy-button.html" -}}
@@ -23,7 +23,7 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="impressions"  type="text" placeholder="50,000" :class="{'--border':impressions}">
+                <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" :class="{'--border':impressionsValue}">
             </div>
         </div>
     </div>
@@ -35,11 +35,11 @@
                 </span>
             </div>
             <div class="input-wrapper">
-                <input @focus="focus" @blur="blur" @change="calculateCPM" v-model="cpm" type="text" placeholder="20" :class="{'--border':cpm}">
+                <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :class="{'--border':cpmValue}">
             </div>
         </div>
     </div>
-    <span v-if="cpm && impressions || impressions && totalCost || cpm && totalCost" class="col-md-12 col-xs-12 footer">
+    <span v-if="cpmValue && impressionsValue || impressionsValue && totalCostValue || cpmValue && totalCostValue" class="col-md-12 col-xs-12 footer">
         Use advanced mode to compare the costs of <br> multiple campaigns.
     </span>
     <span v-else class="col-md-12 col-xs-12 footer">
@@ -61,33 +61,25 @@ The value of the third will appear
       el: '#cpm_calculator-section',
       data() {
         return {
-            cpm : null,
-            impressions: null,
-            totalCost: null,
+            cpmValue : null,
+            // cpmText: '',
+            impressionsValue: null,
+            // impressionsText: '',
+            totalCostValue: null,
+            // totalCostText: '',
         };
       },
-        watch: {
-            cpm: function(newValue) {
-                if(newValue){
-                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                    Vue.nextTick(() => this.cpm = result);
-                }
-            },
-            
-            impressions: function(newValue) {
-                if(newValue){
-                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                    Vue.nextTick(() => this.impressions = result);
-                }
-            },
-
-            totalCost: function(newValue) {
-                if(newValue){
-                    const result = newValue.replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                    Vue.nextTick(() => this.totalCost = result);
-                }
-            }
+      computed: {
+        cpmText() {
+            return this.cpmValue ? this.cpmValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : '';
         },
+        impressionsText() {
+            return this.impressionsValue ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : '';
+        },
+        totalCostText() {
+            return this.totalCostValue ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): '';
+        },
+      },
       methods:{
         refresh(){
             this.cpm = null
@@ -99,18 +91,20 @@ The value of the third will appear
                 navigator.clipboard.writeText(value)
             }
         },
-        calculateCPM(){
-            if(!this.cpm && !this.impressions || !this.impressions && !this.totalCost || !this.cpm && !this.totalCost){
-                return
+        calculateCPM(e, fieldName){
+            let newValue = e.target.value.replace(/\D/g, "").replace(/,/g, '')
+            this[`${fieldName}Value`] = parseFloat(newValue);
+            if(!this.cpmValue && !this.impressionsValue || !this.impressionsValue && !this.totalCostValue || !this.cpmValue && !this.totalCostValue){
+                return // do not calculate anything
             }
-            if(this.totalCost && this.impressions && !this.cpm){
-                this.cpm = (parseFloat(parseFloat(this.totalCost.replace(/,/g, '')) / (parseFloat(this.impressions.replace(/,/g, ''))/1000))) + ''
+            if(this.totalCostValue && this.impressionsValue){
+                this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
             }
-            if(this.totalCost && this.cpm && ! this.impressions){
-                this.impressions = (parseFloat(parseFloat(this.totalCost.replace(/,/g, '')) / (parseFloat(this.cpm.replace(/,/g, ''))))) + ''
+            if(this.totalCostValue && this.cpmValue && ! this.impressionsValue){ 
+                this.impressions = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
             }
-            if(this.impressions && this.cpm && ! this.totalCost){
-                this.totalCost = (parseFloat(parseFloat(this.impressions.replace(/,/g, '')) / 1000) * (parseFloat(this.cpm.replace(/,/g, '')))) + ''
+            if(this.impressionsValue && this.cpmValue && ! this.totalCostValue){
+                this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
             }
         },  
         blur(e){
