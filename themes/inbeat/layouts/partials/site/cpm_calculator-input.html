@@ -39,8 +39,12 @@
             </div>
         </div>
     </div>
-    <span class="col-md-12 col-xs-12 footer">
+    <span v-if="cpm && impressions || impressions && totalCost || cpm && totalCost" class="col-md-12 col-xs-12 footer">
         Use advanced mode to compare the costs of <br> multiple campaigns.
+    </span>
+    <span v-else class="col-md-12 col-xs-12 footer">
+    <span>Fill in any 2 fields</span><br>
+The value of the third will appear
     </span>
     <div @click="refresh" class="refresh-button_wrapper">
         {{- partial "icons/refresh.html" -}}
