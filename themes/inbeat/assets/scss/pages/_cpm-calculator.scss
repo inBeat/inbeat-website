@@ -2,11 +2,15 @@ $gray: rgba(0, 0, 0, 0.5);
 $green: #13825D;
 $yellow: #B08147;
 $pink: #B85172;
-#hero{
+#hero_cmp{
+    margin-top: 128px;
+    @include breakpoint(sm-down) {
+        margin-top: 78px;
+      }
     .hero_cpm-header{
         padding-top: 128px;
         @include breakpoint(sm-down) {
-            padding-top: 82px;
+            padding-top: 32px;
           }
       h1{
         font-weight: 500;
@@ -18,7 +22,7 @@ $pink: #B85172;
         letter-spacing: -1.4px;
         @include breakpoint(sm-down) {
             font-size: 2.25rem;
-            line-height: 2.625;
+            line-height: 2.625rem;
             letter-spacing: -1px;
             margin-bottom: 1rem;
           }  
@@ -34,6 +38,7 @@ $pink: #B85172;
             font-size: 1rem;
             line-height: 1.625rem;
             margin-bottom: 2rem;
+            margin-top: 0;
           } 
       }  
     }
@@ -75,7 +80,7 @@ $pink: #B85172;
 #cpm_calculator-section{
     position: relative;
     margin-top: 33px;
-    margin-top: 50px;
+    // margin-top: 50px;
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
@@ -83,6 +88,7 @@ $pink: #B85172;
     padding: 62px 63px 51px 63px;
     margin-bottom: 128px;
     @include breakpoint(sm-down) {
+        margin-top: 1rem;
         padding: 24px;
       } 
     .calculator_input-box{
@@ -121,6 +127,11 @@ $pink: #B85172;
             border: none;
             caret-color: #000000;
             border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            @include breakpoint(sm-down) {
+                font-size: 26px;
+                line-height: 32px;
+                letter-spacing: -0.3px;
+              }
             &::after{
                 position: absolute;
                 top: 0;
@@ -187,6 +198,10 @@ $pink: #B85172;
             font-weight: 700;
             color: #141514;
         }
+        @include breakpoint(sm-down) {
+            margin-top: 24px;
+            margin-bottom: 33px;
+          }
     }
     .--active_input-box{
         border: 1px solid rgba(0, 0, 0, 0.3);
@@ -202,6 +217,10 @@ $pink: #B85172;
         display: grid;
         place-items: center;
         cursor: pointer;
+        @include breakpoint(sm-down) {
+            bottom: 17px;
+            right: 14px;
+          }
         svg{
             margin-left: -1px;
             margin-top: -1px;
