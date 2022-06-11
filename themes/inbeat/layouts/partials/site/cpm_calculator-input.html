@@ -122,11 +122,11 @@ The value of the third will appear
                         // update CPM
                         this.calculateOtherField('cpm')
                     }
-                    if(this.totalCostValue && this.cpmValue && fieldName !== 'impressions'){ 
+                    else if(this.totalCostValue && this.cpmValue && fieldName !== 'impressions'){ 
                         // update impressions
                         this.calculateOtherField('impressions')
                     }
-                    if(this.impressionsValue && this.cpmValue && fieldName !== 'totalCost'){
+                    else if(this.impressionsValue && this.cpmValue && fieldName !== 'totalCost'){
                         // update totalCost
                         this.calculateOtherField('totalCost')
                     }
@@ -136,16 +136,16 @@ The value of the third will appear
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'cpm': 
-                        this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
-                    break;
+                this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
+                break;
                 case 'impressions':
                     this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
                     break;
-                case 'totalCost':
-                    this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
-                    break;
-            }
-            this.lastUpdatedField = fieldName;
+                    case 'totalCost':
+                        this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
+                        break;
+                    }
+                    this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
