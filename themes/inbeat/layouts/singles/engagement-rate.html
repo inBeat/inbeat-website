@@ -413,6 +413,7 @@
                 document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
             async submit() {
+              if(this.loading == true) return;
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
