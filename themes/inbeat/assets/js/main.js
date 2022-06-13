@@ -434,6 +434,9 @@ function faq() {
 
 function banner(){
     var banner = document.getElementById('banner');
+    if(!banner) {
+        return;
+    }
     var text = banner.querySelector('#popup-trigger')
     var close = banner.querySelector('#close')
     var closeBtn = document.getElementById('close');
