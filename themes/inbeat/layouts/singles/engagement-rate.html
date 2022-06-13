@@ -253,27 +253,29 @@
                 this.average_comments = Math.round(sum / this.posts.length);
             },
           request(data, request, api){
-                    return new Promise(function (resolve, reject) {
-                        window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}, function (token) {
-                          const body = {
-                            ...JSON.parse(data),
-                            token,
-                          }
-
-                          fetch({
-                            method: request,
-                            url: api,
-                            headers: {
-                              "Content-Type": "application/json"
-                            },
-                            body: JSON.stringify(body),
-                          })
-                            .then((res) => res.json())
-                            .then((json) => resolve(json))
-                            .catch(reject)
-                        })
-                    });
-            },
+            return new Promise(function (resolve, reject) {
+              var xhr = new XMLHttpRequest();
+              xhr.open(request, api, true);
+              xhr.setRequestHeader('Content-Type', 'application/json');
+              xhr.onload = function () {
+                var status = xhr.status;
+                if (status == 200) {
+                  resolve(xhr.response);
+                } else {
+                  reject({
+                    status: this.status,
+                    statusText: xhr.statusText
+                  });
+                }
+              };
+              xhr.onerror = function () {
+                reject({
+                  status: this.status,
+                  statusText: xhr.statusText
+                });
+              };
+              xhr.send(data);
+            });            },
             getListID(tagName) {
                 switch (tagName) {
                     case 'Influencer':
@@ -464,7 +466,7 @@
                       }
                       request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
 
-                      if (!this.getCookie('erc-submit') && this.getFirstData === true) {
+                      if (!_this.getCookie('erc-submit') && _this.getFirstData === true) {
                         document.getElementById('banner').style.pointerEvents = 'none';
                         request.addEventListener('loadend', (() => {
                           setTimeout(function () {
