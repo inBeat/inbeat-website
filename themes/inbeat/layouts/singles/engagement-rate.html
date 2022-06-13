@@ -381,7 +381,7 @@
                         //https://graphql.inbeat.co/mailer-lite
                         await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
 
-                        if(_tis.selectedUserType === 'Influencer') {
+                        if(_this.selectedUserType === 'Influencer') {
                             _this.showInfluencerSignupForm(true);
                         } else {
                             _this.clearFormPopup(formElements);
