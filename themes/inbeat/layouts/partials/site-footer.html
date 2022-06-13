@@ -11,7 +11,11 @@
                             </li>
                             {{- range .Site.Data.footer.col1 -}}
                             <li>
-                                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                {{ if eq .anchor "Affiliate" }}
+                                    <a href="{{- .link -}}" title="{{- .anchor }}" target="_blank">{{- .anchor }}</a>
+                                {{ else }}
+                                    <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                {{- end -}}
                             </li>
                             {{- end -}}
                         </ul>

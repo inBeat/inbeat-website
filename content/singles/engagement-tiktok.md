@@ -9,10 +9,11 @@ titre: TikTok Engagement Rate Calculator
 subtitle: "Analyze TikTok influencers: follower count,<br>engagement rate, views, popular content and more."
 platform: tiktok
 whatwedo:
-  title: Forget requests limits, try our premium toolkit
-  text: You can unlock our Toolkit’s full potential with our Premium Toolkit. You can create & manage lists of influencers & more. 
-  video: influencer-statistics 
+  title: Creator Studio
+  text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+  newBadge: true
+  video: CreatorStudio_Snippet 
   cta:
-    link: https://app.inbeat.co/get-started
-    text: Get Started
+    link: https://www.inbeat.co/ugc-platform/
+    text: Learn More
 ---
