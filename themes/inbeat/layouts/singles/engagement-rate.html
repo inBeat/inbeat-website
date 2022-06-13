@@ -203,9 +203,10 @@
     var app = new Vue({
         el: '#engagement-rate',
         data() {
+            var prevSelectedUserType = window.localStorage.getItem('user-type');
             return {
                 engagementRateFormStep: 1,
-                selectedUserType: 'Brand',
+                selectedUserType: prevSelectedUserType ? prevSelectedUserType : 'Brand',
                 username: '',
                 user: null,
                 posts: [],
