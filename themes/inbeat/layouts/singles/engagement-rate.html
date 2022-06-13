@@ -362,7 +362,7 @@
                     this.selectedUserType = formElements[1].value
                     const email = formElements[0].value
                     const listId = _this.getListID(formElements[1].value)
-                    window.localStorage.setItem('user-type', type);
+                    window.localStorage.setItem('user-type', this.selectedUserType);
                     await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
                         const json = JSON.parse(e);
                         const continent = json.continent_code;
