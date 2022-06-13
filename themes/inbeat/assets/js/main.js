@@ -109,6 +109,9 @@ function scrollAnchors(e, respond) {
 }
 
 function testimonial() {
+    if(!window.jQuery) {
+        return;
+    }
         $('.slider').slick({
           slidesToShow: 6,
           slidesToScroll: 1,
