@@ -203,9 +203,10 @@
     var app = new Vue({
         el: '#engagement-rate',
         data() {
+            var prevSelectedUserType = window.localStorage.getItem('user-type');
             return {
                 engagementRateFormStep: 1,
-                selectedUserType: 'Brand',
+                selectedUserType: prevSelectedUserType ? prevSelectedUserType : 'Brand',
                 username: '',
                 user: null,
                 posts: [],
@@ -362,7 +363,7 @@
                     this.selectedUserType = formElements[1].value
                     const email = formElements[0].value
                     const listId = _this.getListID(formElements[1].value)
-                    window.localStorage.setItem('user-type', type);
+                    window.localStorage.setItem('user-type', this.selectedUserType);
                     await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
                         const json = JSON.parse(e);
                         const continent = json.continent_code;
@@ -380,7 +381,7 @@
                         //https://graphql.inbeat.co/mailer-lite
                         await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
 
-                        if(_tis.selectedUserType === 'Influencer') {
+                        if(_this.selectedUserType === 'Influencer') {
                             _this.showInfluencerSignupForm(true);
                         } else {
                             _this.clearFormPopup(formElements);
