@@ -1,7 +1,7 @@
 <section class="container mobile-adjusted">
     <div class="row" id="cpm_calculator-section-advance" style="display: none;">
         <div v-for="(campaign,i) in campaigns" :key="i" class="col-xs-12" style="padding: 0;margin-bottom: 32px;">
-            <input-row :campaign="campaign" @delete-row="deleteRow($event)" :refresh="isRefresh"></input-row>
+            <input-row :index="i" :campaign="campaign" @delete-row="deleteRow($event)" :refresh="isRefresh"></input-row>
         </div>
         <button @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
         <div class="refresh-button_wrapper" @click="refresh">
@@ -30,6 +30,9 @@
         props:{
             campaign:{
                 type: String
+            },
+            index:{
+                type: Number
             },
             refresh:{
                 type: Boolean
@@ -295,9 +298,18 @@
             this.campaigns.push(`Campaign ${this.ind++}`)
         },
         deleteRow(e){
-            this.campaigns = this.campaigns.filter(campaign =>{
-                campaign != e
-            })
+            this.campaigns =  JSON.parse(JSON.stringify(this.campaigns))
+            this.campaigns = removeItemFromArray(this.campaigns,e)
+            function removeItemFromArray(array, n) {
+                const newArray = [];
+                for ( let i = 0; i < array.length; i++) {
+                    if(array[i] !== n) {
+                      newArray.push(array[i]);
+                    }
+                }
+                return newArray;
+            }
+            console.log(this.campaigns)
         },
         refresh(){
             this.isRefresh = !this.isRefresh
