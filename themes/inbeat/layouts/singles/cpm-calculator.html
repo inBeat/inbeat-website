@@ -6,19 +6,19 @@
         <h4>{{- .subtitle | markdownify -}}</h4>
     </div>
     <div class="calculator-toggle">
-        <div class="calculator-type --active">
+        <div class="calculator-type --active" id="cpm_calculator-simple-toggle">
             Simple Mode
         </div>
-        <div class="calculator-type">
+        <div class="calculator-type" id="cpm_calculator-advance-toggle">
             Advanced  <span class="question-circle --gray_bg">
                 {{- partial "icons/question-mark.html" -}}
             </span>
+            <span class="--tooltip">Use advanced mode to compare <br> the costs of multiple campaigns.</span>
         </div>
     </div>
 </section>
-<section class="container mobile-adjusted">
-    {{- partial "site/cpm_calculator-input.html" . -}}
-</section>
+{{- partial "site/cpm_calculator-simple.html" . -}}
+{{- partial "site/cpm_calculator-advance.html" . -}}
 {{- end -}}
 {{- partial "site/whatwedo.html" . -}}
 {{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
