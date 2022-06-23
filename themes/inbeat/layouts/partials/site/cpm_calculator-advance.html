@@ -222,7 +222,7 @@
                 </li>        
             </ul>
         </div>
-        <p @click="deleteRow($event)">Delete</p>
+        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)">Delete</p>
     </div>
     <div class="row">
         <div class="col-xs-12 col-md-4">
