@@ -407,6 +407,25 @@ function faq() {
         }, true);
     }
 }
+function cpmCalaulator() {
+    var advance = document.getElementById('cpm_calculator-section-advance');
+    var simple = document.getElementById('cpm_calculator-section')
+    var simpleTab = document.getElementById('cpm_calculator-simple-toggle')
+    var advanceTab = document.getElementById('cpm_calculator-advance-toggle')
+    console.log(simpleTab)
+    simpleTab.addEventListener('click', function(e){
+        e.target.classList.add('--active')
+        advanceTab.classList.remove('--active')
+        simple.style.display = 'flex'
+        advance.style.display = 'none'
+    })
+    advanceTab.addEventListener('click', function(e){
+        e.target.classList.add('--active')
+        simpleTab.classList.remove('--active')
+        simple.style.display = 'none'
+        advance.style.display = 'flex'
+    })
+}
 
 function banner(){
     var banner = document.getElementById('banner');
@@ -490,7 +509,8 @@ function articleProgressBar() {
   topInfluencers();
   popup();
   faq();
+  cpmCalaulator();
   banner();
-  testimonial();
   articleProgressBar();
+  testimonial();
 })();
