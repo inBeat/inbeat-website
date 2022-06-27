@@ -55,8 +55,6 @@ $pink: #B85172;
             align-items: center;
             gap: 6px;
             padding: 0px 14px 3px;
-            width: 126px;
-            height: 29px;
             border: 1px solid rgba(0, 0, 0, 0.1);
             border-radius: 360px;
             font-weight: 400;
@@ -73,6 +71,7 @@ $pink: #B85172;
             }
         }
         .--active{
+            font-weight: 500;
             background: #EBEBEB;
         }
     }
