@@ -233,6 +233,7 @@ $pink: #B85172;
             }
             &::placeholder{
                 color: rgba(0, 0, 0, 0.15);
+                font-weight: 300;
             }
         }
         input::-webkit-outer-spin-button,
