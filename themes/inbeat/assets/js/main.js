@@ -109,6 +109,9 @@ function scrollAnchors(e, respond) {
 }
 
 function testimonial() {
+    if(!window.jQuery) {
+        return;
+    }
         $('.slider').slick({
           slidesToShow: 6,
           slidesToScroll: 1,
@@ -163,6 +166,30 @@ function testimonial() {
 }
 
 function pricing() {
+    //set toggle 
+    var toggle = document.querySelectorAll('.toggle-container')
+    if(toggle.length === 0){return}
+    var currentActive = toggle[0];
+    var creatorStudioActive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_database').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.add('--show')
+        document.querySelector('.pricing_database').classList.remove('--show')
+    };
+    var creatorStudioInactive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_creator-studio').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.remove('--show')
+        document.querySelector('.pricing_database').classList.add('--show')
+    };
+    creatorStudioInactive(currentActive);
+
+    for (i = 0; i < toggle.length; i++) {
+        toggle[i].addEventListener('click', function (e) {
+            e.preventDefault();
+                this.classList.contains('toggle_creator-studio') ? creatorStudioActive(this) : creatorStudioInactive(this)
+        }, true);
+    }
     // Select pricing interval
     var schedule = document.getElementById('pricing-row');
     if (schedule) {
@@ -429,6 +456,9 @@ function cpmCalaulator() {
 
 function banner(){
     var banner = document.getElementById('banner');
+    if(!banner) {
+        return;
+    }
     var text = banner.querySelector('#popup-trigger')
     var close = banner.querySelector('#close')
     var closeBtn = document.getElementById('close');

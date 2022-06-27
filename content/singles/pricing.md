@@ -83,4 +83,18 @@ included:
     description: Export the influencers you selected and contact them directly.
   - title: Unlimited Campaigns
     description: Organize your influencer marketing efforts in individual campaigns.
+Pricing:
+  title: Creator Studio Pricing
+  rate: 300
+  socialElement:
+  - title: Creator Network
+    description: Access our network of vetted 30,000+ creators
+  - title: Influencer matching
+    description: Select your influencer targeting and get match with the right creators without doing any outreach
+  - title: Content Library
+    description: Access all of your influencer-generated content in one single click.
+  - title: Dedicated campaign strategist
+    description: Get the help of a dedicated campaign strategist to help you create a successful campaign.
+  - title: Unlimited copyrights to the content
+    description: Re-use the content in ads & repurpose it in various channels. 
 ---
