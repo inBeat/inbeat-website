@@ -83,12 +83,8 @@
             }
         },
         setInputSize(e, fieldName){
-            if(e.value){
-                if(e.value && this[`${fieldName}Text`]){
-                    if(e.value.length >= 1){
-                        e.size = this[`${fieldName}Text`].length   
-                    }
-                } 
+            if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
+                    e.size = this[`${fieldName}Text`].length
             } else{
                  e.size = fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
             }
@@ -137,7 +133,7 @@
         cpmValue(){
             this.setInputSize(this.$refs.cpm,'cpm')
         },
-        totalCostText(){
+        totalCostValue(){
             this.setInputSize(this.$refs.totalCost,'totalCost')
         },
         refresh(){
