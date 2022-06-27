@@ -70,6 +70,19 @@ $pink: #B85172;
                 opacity: 0.3;
             }
         }
+        #cpm_calculator-advance-toggle{
+            position: relative;
+            .--tooltip{
+                width: max-content;
+                margin-left: 0;
+                left: auto;
+            }
+            &:hover{
+                .--tooltip{
+                    visibility: visible;
+                }
+            }
+        }
         .--active{
             font-weight: 500;
             background: #EBEBEB;
