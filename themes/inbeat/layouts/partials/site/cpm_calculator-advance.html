@@ -85,15 +85,12 @@
         setInputSize(e, fieldName){
             if(e.value){
                 if(e.value && this[`${fieldName}Text`]){
-                        if(e.value.length > 1){
-                            e.size = this[`${fieldName}Text`].length   
-                        } else{
-                            e.size = fieldName === 'totalCost' ? 3 :  fieldName === 'cpm' ? 1 : fieldName === 'impressions' ? 4 : 1
-                        }
+                    if(e.value.length >= 1){
+                        e.size = this[`${fieldName}Text`].length   
                     }
-                    else{
-                        e.size = fieldName === 'totalCost' ? 3 :  fieldName === 'cpm' ? 1 : fieldName === 'impressions' ? 4 : 1
-                }
+                } 
+            } else{
+                 e.size = fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
             }
         },
         calculateOtherField(fieldName) {
@@ -139,9 +136,6 @@
       watch: {
         cpmValue(){
             this.setInputSize(this.$refs.cpm,'cpm')
-        },
-        impressionsText(){
-            this.setInputSize(this.$refs.impressions,'impressions')
         },
         totalCostText(){
             this.setInputSize(this.$refs.totalCost,'totalCost')
@@ -234,7 +228,7 @@
                     <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                 </div>
                 <div class="input-wrapper" :class="{'--border':totalCostValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000" size="3" ref="totalCost">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000" size="5" ref="totalCost">
                     {{- partial "icons/doller.html" -}}
                 </div>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCostValue)">
@@ -252,8 +246,7 @@
                     <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
                 </div>
                 <div class="input-wrapper" :class="{'--border':impressionsValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" size="4" ref="impressions">
-                    {{- partial "icons/doller.html" -}}
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" size="6" ref="impressions">
                 </div>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue(impressionsValue)">
                     {{- partial "icons/copy-button.html" -}}
@@ -270,7 +263,7 @@
                         <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
                     </div>
                     <div class="input-wrapper" :class="{'--border':cpmValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" size="1" ref="cpm">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" size="2" ref="cpm">
                         {{- partial "icons/doller.html" -}}
                     </div>
                     <div class="copy-button_wrapper hide-sm" @click="copyValue(cpmValue)">
