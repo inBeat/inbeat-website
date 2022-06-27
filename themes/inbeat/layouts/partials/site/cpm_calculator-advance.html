@@ -83,11 +83,7 @@
             if(e.value){
                 if(e.value && this[`${fieldName}Text`]){
                         if(e.value.length > 1){
-                            if(this[`${fieldName}Text`].length >= 3){
-                                e.size = this[`${fieldName}Text`].length - 2   
-                            }else{
-                                e.size = this[`${fieldName}Text`].length
-                            }
+                            e.size = this[`${fieldName}Text`].length
                         } else{
                             e.size = fieldName === 'totalCost' ? 3 :  fieldName === 'cpm' ? 1 : fieldName === 'impressions' ? 4 : 1
                         }
