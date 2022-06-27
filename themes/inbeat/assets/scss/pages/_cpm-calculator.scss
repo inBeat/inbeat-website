@@ -54,7 +54,7 @@ $pink: #B85172;
             justify-content: center;
             align-items: center;
             gap: 6px;
-            padding: 0px 14px 0px;
+            padding: 0px 14px 3px;
             border: 1px solid rgba(0, 0, 0, 0.1);
             border-radius: 360px;
             font-weight: 400;
@@ -385,6 +385,10 @@ $pink: #B85172;
     border-color: transparent;
     cursor: pointer;
     margin-bottom: 55px;
+    border: 1px solid transparent;
+    &:hover{
+        border: 1px solid rgba(0, 0, 0, 0.15)
+    }   
 }
 .--tooltip{
     visibility: hidden;
