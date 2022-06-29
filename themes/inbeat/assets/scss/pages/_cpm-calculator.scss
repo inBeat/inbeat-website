@@ -42,52 +42,52 @@ $pink: #B85172;
           } 
       }  
     }
-    .calculator-toggle{
+}
+.calculator-toggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    .calculator-type{
+        cursor: pointer;
         display: flex;
-        align-items: center;
+        flex-direction: row;
         justify-content: center;
-        gap: 12px;
-        .calculator-type{
-            cursor: pointer;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            gap: 6px;
-            padding: 0px 14px 3px;
-            border: 1px solid rgba(0, 0, 0, 0.1);
-            border-radius: 360px;
-            font-weight: 400;
-            font-size: 16px;
-            line-height: 28px;
-            text-align: center;
-            transition: all 0.1s ease;
-            &:hover{
-                border: 1px solid rgba(0, 0, 0, 0.5);
-            }
-            &:active{
-                border: 1px solid #141514;
-                opacity: 0.3;
-            }
+        align-items: center;
+        gap: 6px;
+        padding: 0px 14px 3px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-radius: 360px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        transition: all 0.1s ease;
+        &:hover{
+            border: 1px solid rgba(0, 0, 0, 0.5);
         }
-        #cpm_calculator-advance-toggle{
-            position: relative;
-            .--tooltip{
-                width: max-content;
-                margin-left: 0;
-                left: auto;
-            }
-            &:hover{
-                .--tooltip{
-                    visibility: visible;
-                }
-            }
+        &:active{
+            border: 1px solid #141514;
+            opacity: 0.3;
         }
-        .--active{
+    }
+    .--active{
             // font-weight: 500;
             background: #EBEBEB;
             border: 1px solid transparent;
             text-shadow: 0px 0 0 currentColor;
+    }
+    #cpm_calculator-advance-toggle{
+        position: relative;
+        .--tooltip{
+            width: max-content;
+            margin-left: 0;
+            left: auto;
+        }
+        &:hover{
+            .--tooltip{
+                visibility: visible;
+            }
         }
     }
 }
@@ -111,7 +111,7 @@ $pink: #B85172;
         align-items: center;
         justify-content: space-between;
         margin-bottom: 8px;
-        p{
+        .delete-button{
             margin: 0;
             font-weight: 400;
             font-size: 16px;
@@ -125,7 +125,11 @@ $pink: #B85172;
         .dropdown{
             display: flex;
             align-items: center;
+            gap: 6px;
             a{
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;  
                 display: flex;
                 align-items: center;
             }
@@ -163,10 +167,19 @@ $pink: #B85172;
                     display: flex;
                     align-items: center;
                     gap: 6px;
+                    line-height: 0;
                     p{
+                        margin: 0;
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 22px; 
+                        color: #000000;
                         span{
                             opacity: 0.5;
                         }
+                    }
+                    &:hover{
+                        background-color: #F9F7F7;
                     }
                 }
             }
@@ -295,18 +308,16 @@ $pink: #B85172;
         }
     }
     .footer{
-        margin-top: 48px;
         text-align: center;
         font-weight: 400;
         font-size: 14px;
         line-height: 22px;
         color: rgba(0, 0, 0, 0.4);
-        span{
+        .footer-heading{
             font-weight: 700;
             color: #141514;
         }
         @include breakpoint(sm-down) {
-            margin-top: 24px;
             margin-bottom: 33px;
           }
     }
@@ -387,7 +398,6 @@ $pink: #B85172;
     opacity: 0.5;
 }
 .add-campaign_button{
-    margin-top: 1rem;
     background-color: #F9F7F7;
     padding-top: 21px;
     padding-bottom: 21px;
@@ -431,4 +441,14 @@ $pink: #B85172;
         border-style: solid;
         border-color: black transparent transparent transparent;
     }
+}
+.--advance{
+    padding: 0;
+    margin-bottom: 32px;
+}
+.cpm__input-row{
+    margin-bottom:48px;
+    @include breakpoint(sm-down) {
+        margin-bottom: 24px;
+      }
 }
