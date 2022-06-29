@@ -1,12 +1,25 @@
-<section class="container mobile-adjusted">
-    <div class="row" id="cpm_calculator-section-advance" style="display: none;">
-        <div v-for="(campaign,i) in campaigns" :key="i" class="col-xs-12" style="padding: 0;margin-bottom: 32px;">
-            <input-row :campaign="campaign" :refresh="isRefresh"></input-row>
+<section class="container mobile-adjusted" id="cpm__calculator">
+    <div>
+        <div class="calculator-toggle">
+            <div class="calculator-type" id="cpm_calculator-simple-toggle" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
+                Simple Mode
+            </div>
+            <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
+                Advanced  <span class="question-circle --gray_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+                <span class="--tooltip">Use advanced mode to compare <br> the costs of multiple campaigns.</span>
+            </div>
         </div>
-        <button @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
-        <div class="refresh-button_wrapper" @click="refresh">
-            {{- partial "icons/refresh.html" -}}
-            <span class="--tooltip">Clear & Start Over</span>
+        <div class="row" id="cpm_calculator-section">
+            <div v-for="(campaign,i) in campaigns" :key="campaign" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+                <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+            </div>
+            <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
+            <div class="refresh-button_wrapper" @click="refresh">
+                {{- partial "icons/refresh.html" -}}
+                <span class="--tooltip">Clear & Start Over</span>
+            </div>
         </div>
     </div>
 </section>
@@ -26,6 +39,8 @@
                 impressionsValue: null,
                 totalCostValue: null,
                 lastUpdatedField: '',
+                options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
+                selectedOption : {name:this.campaign,icon:'dot'},
             }
         },
         props:{
@@ -34,6 +49,9 @@
             },
             refresh:{
                 type: Boolean
+            },
+            tab:{
+                type: String
             }
         },
         methods:{
@@ -55,7 +73,6 @@
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
-                //
                 if(fieldName === 'cpm') {
                     // Not allowed
                     if(!this.impressionsValue){
@@ -111,12 +128,12 @@
             e.target.parentElement.parentElement.classList.add('--active_input-box')
         },
         deleteRow(e){
-            e.target.parentElement.parentElement.parentElement.remove()
+            this.$emit('delete-row',this.campaign)
         },
         openDropdown(e){
             this.$refs.dropdown.classList.add('active')
             window.addEventListener('click', (event)=>{
-                if (!this.$refs.dropdown.contains(event.target)){
+                if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                     this.closeDropdown()
                 }
             });
@@ -124,9 +141,11 @@
         closeDropdown(e){
             this.$refs.dropdown.classList.remove('active')
         },
-        selectOption(e){
-            var text = e.target.parentElement.innerHTML;
-            this.$refs.dropdown.children[0].innerHTML = text;
+        selectOption(option){
+            this.selectedOption = option
+        },
+        getImgUrl(pic) {
+            return '/icons/'+pic+'.svg'
         }
       },
       watch: {
@@ -157,10 +176,11 @@
 
         template:  `
         <div>
-    <div class="toolbox">
+    <div class="toolbox" v-if="tab === 'advance'" >
         <div class="dropdown-wrapper">
-            <div class="dropdown"  @click.prevent="openDropdown" ref="dropdown">
-                <a href="javascript:void(0)">
+            <div class="dropdown"  @click.prevent="openDropdown" ref="dropdown">     
+               <img :src="getImgUrl(selectedOption.icon)">
+                <a href="javascript:void(0)" v-html="selectedOption.name">
                     Campaign
                 </a>
                 <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -168,53 +188,15 @@
                 </svg>
             </div>
             <ul class="dropdown-list">
-                <li class="list-item">
-                        {{- partial "icons/dot.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Campaign
-                        </p>
-                </li>    
-                <li class="list-item">
-                        {{- partial "icons/facebook.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Facebook
-                        </p>
-                </li>        
-                <li class="list-item">
-                        {{- partial "icons/google.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Google
-                        </p>
-                </li>        
-                <li class="list-item">
-                        {{- partial "icons/tiktok.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            TikTok
-                        </p>
-                </li>        
-                <li class="list-item">
-                        {{- partial "icons/pinterest.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Pinterest
-                        </p>
-                </li>        
-                <li class="list-item">
-                        {{- partial "icons/snapchat.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Snapchat
-                        </p>
-                </li>        
-                <li class="list-item">
-                        {{- partial "icons/twitter.html" -}}
-                        <p class="list-title" @click="selectOption($event)">
-                            Twitter
-                        </p>
-                </li>        
+                <li class="list-item" v-for="option in options" @click="selectOption(option)">
+                    <img :src="getImgUrl(option.icon)">
+                    <p class="list-title"  v-html="option.name"></p>
+                </li>            
             </ul>
         </div>
-        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)">Delete</p>
+        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
     </div>
-    <div class="row">
+    <div class="row cpm__input-row">
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box ">
                 <div class="header --green">
@@ -269,15 +251,25 @@
                 </div>
                 </div>
             </div>
-</div>
+            <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
+                <span v-if="cpmValue && impressionsValue || impressionsValue && totalCostValue || cpmValue && totalCostValue">
+                    Use advanced mode to compare the costs of <br> multiple campaigns.
+                </span>
+                <span v-else >
+                <span class="footer-heading">Fill in any 2 fields</span><br>
+            The value of the third will appear
+                </span>
+            </div>
+            </div>
     `
     })
     var app = new Vue({
-      el: '#cpm_calculator-section-advance',
+      el: '#cpm__calculator',
       data: {
             campaigns: ['Campaign 1'],
             ind : 2,
-            isRefresh: false
+            isRefresh: false,
+            activeTab: 'simple'
         },
     methods:{
         addCampaign(){
@@ -285,7 +277,24 @@
         },
         refresh(){
             this.isRefresh = !this.isRefresh
-        }
+        },
+        switchTab(tab){
+            this.activeTab = tab
+            if(tab === 'simple'){
+                this.ind = 2
+                this.campaigns.splice(1)
+            }
+        },
+        deleteRow(e){
+            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            let newArr = []
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.campaigns[i] !== e ){
+                    newArr.push(this.campaigns[i])   
+                }
+            }
+            this.campaigns = [...newArr]
+        },
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
