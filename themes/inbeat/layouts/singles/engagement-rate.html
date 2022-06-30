@@ -276,7 +276,8 @@
                 });
               };
               xhr.send(data);
-            });            },
+            });           
+         },
             getListID(tagName) {
                 switch (tagName) {
                     case 'Influencer':
@@ -324,10 +325,10 @@
                 }
                 if(continent == 'NA' && (country == 'US' || country == 'CA')){
                     return 107989498
-                  }
-                  else{
+                }
+                else{
                     return 109535666
-                  }
+                }
             },
             errorHandle(error){
                 console.error(error.statusText);
