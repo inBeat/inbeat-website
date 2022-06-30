@@ -103,6 +103,9 @@
     }
 }
 #pricing{
+    &.--within-cs {
+        display: block !important;
+    }
     @include breakpoint(lg) {  
         margin-top: 128px;
     }
