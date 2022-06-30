@@ -8,7 +8,8 @@
     "generate": "node createMdFilesFromGhost.js",
     "prod": "npm run generate && gulp prod",
     "watch": "gulp watch",
-    "watch-article": "gulp watch-article"
+    "watch-article": "gulp watch-article",
+    "dev": "gulp dev && hugo serve",
   },
   "repository": {
     "type": "git",
