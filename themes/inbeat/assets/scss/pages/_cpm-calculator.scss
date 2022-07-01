@@ -3,9 +3,13 @@ $green: #13825D;
 $yellow: #B08147;
 $pink: #B85172;
 #hero_cmp{
-    margin-top: 128px;
+    margin-top: 84px;
     @include breakpoint(sm-down) {
         margin-top: 78px;
+    }
+    &.has-banner{
+        // Add the banner height size
+        margin-top: 128px;
     }
     .hero_cpm-header{
         padding-top: 128px;
