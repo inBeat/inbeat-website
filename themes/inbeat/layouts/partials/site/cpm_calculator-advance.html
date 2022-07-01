@@ -143,7 +143,6 @@
             return '/icons/'+pic+'.svg'
         },
         getInputSize(fieldName){
-            console.log('hello from get',fieldName)
             if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
                 return this[`${fieldName}Text`].length
             } else{
