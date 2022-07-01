@@ -194,7 +194,7 @@ $pink: #B85172;
         cursor: pointer;
         &:hover{
             .copy-button_wrapper{
-                display: flex !important;   
+                visibility: visible;   
             }
         }
         @include breakpoint(sm-down) {
@@ -273,6 +273,7 @@ $pink: #B85172;
             -moz-appearance: textfield;
         }
         .copy-button_wrapper{
+            visibility: hidden;
             position: absolute;
             width: 40px;
             height: 40px;
@@ -285,7 +286,7 @@ $pink: #B85172;
             align-items: center;
             cursor: pointer;
             transition: all 0.1s ease-in-out;
-            display: none !important;
+            display: flex !important;
             svg{
                 transition: all 0.1s ease-in-out;
             }
@@ -297,8 +298,26 @@ $pink: #B85172;
                 }
             }
             .--tooltip{
-                width: 123px;
+                width: max-content;
+                margin-left: -40px;
                 bottom: 150%;
+            }
+            .--sucess{
+                background: #D6EBE4;
+                color: black;
+                display: flex;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 16px;
+                align-items: center;
+                justify-content: center;
+                gap: 6px;
+                width: max-content;
+                margin-left: -25px;
+                &::after{
+                    border-color: #D6EBE4 transparent transparent transparent;
+                }
+
             }
             &:active{
                 svg{

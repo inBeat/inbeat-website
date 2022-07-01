@@ -13,7 +13,7 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+                    <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
             </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -41,6 +41,7 @@
                 lastUpdatedField: '',
                 options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
                 selectedOption : {name:this.campaign,icon:'dot'},
+                copied: false,
             }
         },
         props:{
@@ -55,7 +56,8 @@
             }
         },
         methods:{
-        copyValue(value){
+        copyValue(e,value){
+            this.copied = true
             if(value){
                 navigator.clipboard.writeText(value)
             }
@@ -99,13 +101,6 @@
                 }
             }
         },
-        setInputSize(e, fieldName){
-            if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
-                    e.size = this[`${fieldName}Text`].length
-            } else{
-                 e.size = fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
-            }
-        },
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'cpm': 
@@ -146,15 +141,17 @@
         },
         getImgUrl(pic) {
             return '/icons/'+pic+'.svg'
+        },
+        getInputSize(fieldName){
+            console.log('hello from get',fieldName)
+            if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
+                return this[`${fieldName}Text`].length
+            } else{
+                 return fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
+            }
         }
       },
       watch: {
-        cpmValue(){
-            this.setInputSize(this.$refs.cpm,'cpm')
-        },
-        totalCostValue(){
-            this.setInputSize(this.$refs.totalCost,'totalCost')
-        },
         refresh(){
             this.cpmValue = null
             this.impressionsValue = null
@@ -206,12 +203,15 @@
                     <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                 </div>
                 <div class="input-wrapper" :class="{'--border':totalCostValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000" size="5" ref="totalCost">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000"  ref="totalCost" :size="getInputSize('totalCost')">
                     {{- partial "icons/doller.html" -}}
                 </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue(totalCostValue)">
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
-                    <span class="--tooltip">Copy to clipboard</span>
+                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
                 </div>
             </div>
         </div>
@@ -226,9 +226,12 @@
                 <div class="input-wrapper" :class="{'--border':impressionsValue}">
                     <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
                 </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue(impressionsValue)">
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,impressionsValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
-                    <span class="--tooltip">Copy to clipboard</span>
+                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
                 </div>
             </div>
             </div>
@@ -241,12 +244,15 @@
                         <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
                     </div>
                     <div class="input-wrapper" :class="{'--border':cpmValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" size="2" ref="cpm">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :size="getInputSize('cpm')" ref="cpm">
                         {{- partial "icons/doller.html" -}}
                     </div>
-                    <div class="copy-button_wrapper hide-sm" @click="copyValue(cpmValue)">
+                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,cpmValue)" @mouseleave="copied = false">
                         {{- partial "icons/copy-button.html" -}}
-                        <span class="--tooltip">Copy to clipboard</span>
+                        <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
                     </div>
                 </div>
                 </div>
