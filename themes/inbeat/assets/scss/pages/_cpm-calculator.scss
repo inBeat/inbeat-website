@@ -6,7 +6,7 @@ $pink: #B85172;
     margin-top: 128px;
     @include breakpoint(sm-down) {
         margin-top: 78px;
-      }
+    }
     .hero_cpm-header{
         padding-top: 128px;
         @include breakpoint(sm-down) {
@@ -351,7 +351,10 @@ $pink: #B85172;
            }
         }
         .--tooltip{
-            width: 123px;
+            width: max-content;
+            @include breakpoint(md) {
+                margin-left: -41px;
+              }
         }
         &:hover{
             box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
