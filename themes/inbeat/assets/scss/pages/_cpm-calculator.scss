@@ -401,7 +401,7 @@ $pink: #B85172;
     opacity: 0.5;
 }
 .add-campaign_button{
-    background-color: #F9F7F7;
+    background-color: rgb(249, 247, 247);
     padding-top: 21px;
     padding-bottom: 21px;
     font-weight: 500;
@@ -412,9 +412,9 @@ $pink: #B85172;
     border-color: transparent;
     cursor: pointer;
     margin-bottom: 55px;
-    border: 1px solid transparent;
+    transition: all 0.3s ease;
     &:hover{
-        border: 1px solid rgba(0, 0, 0, 0.15)
+        background-color: rgba(249, 247, 247,0.6);
     }   
 }
 .--tooltip{
