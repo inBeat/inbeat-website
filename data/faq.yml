@@ -291,7 +291,7 @@ fake_follower_checker:
     answer: >-
       A big follower count means nothing if it consists of fake profiles, inactive accounts and ghost followers. Don't waste your time and money on fake influencers who charge big bucks without an engaged audience. Our audit tool brings social proof to your social media marketing.
 cpm_calculator:
-  - question: How does the influencer database work?
+  - question: How to calculate CPM?
     answer: >-
      The CPM (cost per mille) indicates the average cost for a thousand impressions in an advertising campaign. The formula to calculate the CPM is : <br>
      <b>CPM = (Total Cost / Total Impressions) x 1000</b>
@@ -302,14 +302,6 @@ cpm_calculator:
       location, competition, campaign goal, audience size, and so on. This means that what could be
       a great CPM for a company could be a bad one for another based on the environment both
       companies are competing.
-  - question: How to improve CPM?
-    answer: >-
-      <b>The best ways to improve CPM, for most platforms, are to improve:<br></b>
-       &#x25CF; Content quality<br>
-       &#x25CF; Content copywriting<br>
-       &#x25CF; CTR<br>
-       &#x25CF; Auction bid / Bid type<br>
-       &#x25CF; Audience targe<br>
   - question: How to improve CPM?
     answer: >-
       <b>The best ways to improve CPM, for most platforms, are to improve:<br></b>
