@@ -224,7 +224,7 @@
                     <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
                 </div>
                 <div class="input-wrapper" :class="{'--border':impressionsValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" size="6" ref="impressions">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
                 </div>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue(impressionsValue)">
                     {{- partial "icons/copy-button.html" -}}
