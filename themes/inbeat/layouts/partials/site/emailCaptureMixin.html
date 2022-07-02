@@ -181,9 +181,9 @@
                 win.focus();
             },
             openEmailCaptureForm() {
-                if (!_this.getCookie('erc-submit') && _this.getFirstData === true) {
+                if (!this.getCookie('erc-submit') && this.getFirstData === true) {
                     document.getElementById('banner').style.pointerEvents = 'none';
-                    request.addEventListener('loadend', (() => {
+                    this.request.addEventListener('loadend', (() => {
                         setTimeout(function () {
                             allPopup.find(x => x.id === 'formPopup').openPopup();
                         }, 3000);
