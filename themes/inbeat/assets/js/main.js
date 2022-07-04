@@ -444,6 +444,7 @@ function banner(){
     var close = banner.querySelector('#close')
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
+    var hero_cmp = document.getElementById('hero_cmp');
     var prevScrollpos = window.pageYOffset;
     window.onscroll = function() {
         var currentScrollPos = window.pageYOffset;
@@ -471,9 +472,15 @@ function banner(){
         if(hero !== null){
             hero.classList.remove('has-banner');
         }
+        if(hero_cmp !== null){
+            hero_cmp.classList.remove('has-banner');
+        }
     })
     if(hero !== null){
         hero.classList.add('has-banner');
+    }
+    if(hero_cmp !== null){
+        hero_cmp.classList.add('has-banner');
     }
 }
 
@@ -521,6 +528,6 @@ function articleProgressBar() {
   popup();
   faq();
   banner();
-  testimonial();
   articleProgressBar();
+  testimonial();
 })();

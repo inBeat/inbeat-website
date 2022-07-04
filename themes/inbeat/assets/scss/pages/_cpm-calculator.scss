@@ -1,0 +1,480 @@
+$gray: rgba(0, 0, 0, 0.5);
+$green: #13825D;
+$yellow: #B08147;
+$pink: #B85172;
+#hero_cmp{
+    margin-top: 84px;
+    @include breakpoint(sm-down) {
+        margin-top: 78px;
+    }
+    &.has-banner{
+        // Add the banner height size
+        margin-top: 128px;
+    }
+    .hero_cpm-header{
+        padding-top: 128px;
+        @include breakpoint(sm-down) {
+            padding-top: 32px;
+          }
+      h1{
+        font-weight: 500;
+        margin: 0;
+        margin-bottom: 24px;
+        font-size: 3.5rem;
+        line-height: 4rem;
+        text-align: center;
+        letter-spacing: -1.4px;
+        @include breakpoint(sm-down) {
+            font-size: 2.25rem;
+            line-height: 2.625rem;
+            letter-spacing: -1px;
+            margin-bottom: 1rem;
+          }  
+      }  
+      h4{
+        font-weight: 400;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        text-align: center;
+        margin-bottom: 4rem;
+        @include breakpoint(sm-down) {
+            font-weight: 400;
+            font-size: 1rem;
+            line-height: 1.625rem;
+            margin-bottom: 2rem;
+            margin-top: 0;
+          } 
+      }  
+    }
+}
+.calculator-toggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    .calculator-type{
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 6px;
+        padding: 0px 14px 3px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-radius: 360px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        transition: all 0.1s ease;
+        &:hover{
+            border: 1px solid rgba(0, 0, 0, 0.5);
+        }
+        &:active{
+            border: 1px solid #141514;
+            opacity: 0.3;
+        }
+    }
+    .--active{
+            // font-weight: 500;
+            background: #EBEBEB;
+            border: 1px solid transparent;
+            text-shadow: 0px 0 0 currentColor;
+    }
+    #cpm_calculator-advance-toggle{
+        position: relative;
+        .--tooltip{
+            width: max-content;
+            margin-left: 0;
+            left: auto;
+        }
+        &:hover{
+            .--tooltip{
+                visibility: visible;
+            }
+        }
+    }
+}
+#cpm_calculator-section, #cpm_calculator-section-advance{
+    position: relative;
+    margin-top: 33px;
+    // margin-top: 50px;
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+    border-radius: 1px;
+    padding: 62px 63px 51px 63px;
+    margin-bottom: 128px;
+    @include breakpoint(sm-down) {
+        margin-top: 1rem;
+        padding: 1.5rem 1rem 1.5rem 1rem;
+      }
+      .toolbox{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 8px;
+        .delete-button{
+            margin: 0;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 26px;
+            opacity: 0.5; 
+            cursor: pointer;
+            &:hover{
+                opacity: 1;
+            }
+        }
+        .dropdown{
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            a{
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;  
+                display: flex;
+                align-items: center;
+            }
+            &.active + .dropdown-list {
+                display: block;
+              }
+        }
+        .dropdown-wrapper{
+
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            a{
+                text-decoration: none;
+                gap: 10px;
+            }
+            .dropdown-icon{
+                margin-left: 8px;
+            }
+            .dropdown-list{
+                background: #FFFFFF;
+                border: 1px solid #DCDCDC;
+                box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.2);
+                border-radius: 8px;
+                list-style: none;
+                padding:0;
+                width: 226px;
+                position: absolute;
+                top: 18.36%;
+                z-index: 999;
+                display: none;
+                .list-item{
+                    padding: 8px 12px;
+                    display: flex;
+                    align-items: center;
+                    gap: 6px;
+                    line-height: 0;
+                    p{
+                        margin: 0;
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 22px; 
+                        color: #000000;
+                        span{
+                            opacity: 0.5;
+                        }
+                    }
+                    &:hover{
+                        background-color: #F9F7F7;
+                    }
+                }
+            }
+        }
+      }
+    .calculator_input-box{
+        position: relative;
+        padding: 32px;
+        border: 1px solid #DCDCDC;
+        box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+        border-radius: 1px;
+        cursor: pointer;
+        &:hover{
+            .copy-button_wrapper{
+                visibility: visible;   
+            }
+        }
+        @include breakpoint(sm-down) {
+            padding: 24px 29px;
+            margin-bottom: 8px;
+          } 
+        .header{
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 29px;
+            width: max-content;
+            cursor: pointer;
+            position: relative;
+            .--tooltip{
+                width: max-content;
+            }
+            &:hover{
+                .question-circle{
+                    opacity: 1;
+                }
+                .--tooltip{
+                    visibility: visible;
+                }
+            }
+        }
+        .input-wrapper{
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            width: 100%;
+            svg{
+                flex-shrink: 0;
+            }
+            &:focus-within {
+                border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            }
+        }
+        .--border{
+            border: none;
+         }
+        input{
+            margin-top: 6px;
+            font-weight: 500;
+            font-size: 42px;
+            line-height: 52px;
+            letter-spacing: -0.4px;
+            color: #000000;
+            // width: 100%;
+            overflow: hidden;
+            border: none;
+            caret-color: #000000;
+       
+            @include breakpoint(sm-down) {
+                font-size: 26px;
+                line-height: 32px;
+                letter-spacing: -0.3px;
+              }
+            &:focus{
+                outline: none;
+            }
+            &::placeholder{
+                color: rgba(0, 0, 0, 0.15);
+                font-weight: 300;
+            }
+        }
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }   
+        /* Firefox */
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+        .copy-button_wrapper{
+            visibility: hidden;
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            right: 12px;
+            top: 14px;
+            background: #FFFFFF;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.1s ease-in-out;
+            display: flex !important;
+            svg{
+                transition: all 0.1s ease-in-out;
+            }
+            &:hover{
+                border: 1px solid rgba(0, 0, 0, 0.5);
+                box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+                .--tooltip{
+                    visibility: visible;
+                }
+            }
+            .--tooltip{
+                width: max-content;
+                margin-left: -40px;
+                bottom: 150%;
+            }
+            .--sucess{
+                background: #D6EBE4;
+                color: black;
+                display: flex;
+                font-weight: 400;
+                font-size: 11px;
+                line-height: 16px;
+                align-items: center;
+                justify-content: center;
+                gap: 6px;
+                width: max-content;
+                margin-left: -25px;
+                &::after{
+                    border-color: #D6EBE4 transparent transparent transparent;
+                }
+
+            }
+            &:active{
+                svg{
+                    opacity: 0.5;
+                }
+            }
+        }
+    }
+    .footer{
+        text-align: center;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        color: rgba(0, 0, 0, 0.4);
+        .footer-heading{
+            font-weight: 700;
+            color: #141514;
+        }
+        @include breakpoint(sm-down) {
+            margin-bottom: 33px;
+          }
+    }
+    .--active_input-box{
+        border: 1px solid rgba(0, 0, 0, 0.3);
+    }
+    .refresh-button_wrapper{
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        bottom: 25px;
+        right: 24px;
+        border-radius: 50%;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        display: grid;
+        place-items: center;
+        cursor: pointer;
+        @include breakpoint(sm-down) {
+            bottom: 17px;
+            right: 14px;
+          }
+        svg{
+            margin-left: -1px;
+            margin-top: -1px;
+            transition: all 0.3s ease-in-out;
+        }
+        &:active{
+           svg{
+               opacity: 0.5;
+               transform: rotate(180deg);
+           }
+        }
+        .--tooltip{
+            width: max-content;
+            @include breakpoint(md) {
+                margin-left: -41px;
+              }
+        }
+        &:hover{
+            box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+            border: 1px solid rgba(0, 0, 0, 0.5);
+            .--tooltip{
+                visibility: visible;
+            }
+        }
+    }
+}
+.question-circle{
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.--green_bg{
+    background-color: $green;
+    opacity: 0.5;
+}
+.--green{
+    color: $green;
+}
+.--gray_bg{
+    height: 15px;
+    width: 15px;
+    background-color: $gray;
+}
+.--yellow{
+    color: $yellow;
+}
+.--yellow_bg{
+    background-color: $yellow;
+    opacity: 0.5;
+}
+.--pink{
+    color: $pink;
+}
+.--pink_bg{
+    background-color: $pink;
+    opacity: 0.5;
+}
+.add-campaign_button{
+    background-color: rgb(249, 247, 247);
+    padding-top: 21px;
+    padding-bottom: 21px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 1px;
+    border-color: transparent;
+    cursor: pointer;
+    margin-bottom: 55px;
+    transition: all 0.3s ease;
+    &:hover{
+        background-color: rgba(249, 247, 247,0.6);
+    }   
+}
+.--tooltip{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    padding: 16px;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    position: absolute;
+    z-index: 1;
+    bottom: 130%;
+    left: 0%;
+    margin-left: -60px;
+    &::after{
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: black transparent transparent transparent;
+    }
+}
+.--advance{
+    padding: 0;
+    margin-bottom: 32px;
+}
+.cpm__input-row{
+    margin-bottom:48px;
+    @include breakpoint(sm-down) {
+        margin-bottom: 24px;
+      }
+}
