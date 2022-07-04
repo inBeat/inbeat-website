@@ -343,7 +343,7 @@
                   }
                   request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
                   
-                  _this.openEmailCaptureForm();
+                  _this.openEmailCaptureForm(request);
                 })
               })
             },
