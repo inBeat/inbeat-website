@@ -230,17 +230,32 @@ $plan-padding: 1.5rem;
                 padding-bottom: 4.375rem;
                 @include breakpoint(sm) {
                     padding: 4.375rem;
+                    padding-bottom: 32px;
                 }
             }
             a.btn {
                 border: none !important;
                 margin-top: 0;
                 padding-bottom: 1.225rem;
+                &.btn-outline {
+                    border: 1px solid #000000 !important;
+                    font-weight: 400 !important;
+                    margin-top: 12px !important;
+                    span {
+                        margin-right: 8px;
+                    }
+                }
             }
         }
         h2 {
             font-weight: 400;
             margin-bottom: 0;
+        }
+        .cs-pricing__heading {
+            font-size: 42px;
+            line-height: 52px;
+            font-weight: 500;
+            margin-top: -16px;
         }
         .monthly-price, .yearly-price {
             font-weight: 500;
@@ -295,10 +310,9 @@ $plan-padding: 1.5rem;
                     opacity: 0.2;
                 }
                 font-size: 1rem;
-                margin-left: 5px;
                 position: relative;
-                margin-top: .75rem;
-                margin-bottom: 1rem;
+                margin-top: 30px;
+                margin-bottom: 24px;
                 svg.icon--check, svg.icon--close {
                     position: absolute;
                     left: -32px;
