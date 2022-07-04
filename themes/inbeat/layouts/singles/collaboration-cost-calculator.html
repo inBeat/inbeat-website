@@ -9,10 +9,13 @@
 {{- $username = "jasminmccarthyy" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
+<div id="collaboration-cost__wrap">
     <section class="container mobile-adjusted page-top" id="cost-calculator-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
+    {{ $content := partial "site/engagementRateForm.html" .}}
+    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section id="collaboration-cost-calculator" class="container mobile-adjusted">
         {{- if $maintenance -}}
             <p class="maintenance">Our calculator is down at the moment. Sorry about this! We are working to resolve this as fast as possible.</p>
@@ -205,10 +208,12 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
+{{- partial "site/emailCaptureMixin.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#collaboration-cost-calculator',
+        el: '#collaboration-cost__wrap',
+        mixins: [emailCaptureMixin],
         data() {
             return {
                 username: '',
@@ -281,6 +286,7 @@
                 this.updateFullPrice();
             },
             submit() {
+                // this.openEmailCaptureForm(); // only for local testing.
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
@@ -321,6 +327,8 @@
                     _this.costCalculator.influencerBadge = _this.getInfluencerBadge(_this.user.followers).type;
                     _this.updateFullPrice();
                     _this.error = null;
+                    _this.getFirstData = true;
+                    
                     setTimeout(() => {
                       document.getElementById("progress").style.width = 100 + "%";
                       setTimeout(() => {
@@ -334,6 +342,8 @@
                     _this.loading = false;
                   }
                   request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
+                  
+                  _this.openEmailCaptureForm();
                 })
               })
             },

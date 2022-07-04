@@ -1,0 +1,200 @@
+<script>
+    var emailCaptureMixin = {
+        data() {
+            var prevSelectedUserType = window.localStorage.getItem('user-type');
+            return {
+                engagementRateFormStep: 1,
+                selectedUserType: prevSelectedUserType ? prevSelectedUserType : 'Brand',
+                getFirstData: false,
+                errorform: null,
+                loadingform: false,
+            }
+        },
+        methods: {
+            validateEmail(email) {
+               var re = /\S+@\S+\.\S+/;
+               return re.test(email.value);
+            },
+            request(data, request, api){
+                return new Promise(function (resolve, reject) {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open(request, api, true);
+                    xhr.setRequestHeader('Content-Type', 'application/json');
+                    xhr.onload = function () {
+                        var status = xhr.status;
+                        if (status == 200) {
+                            resolve(xhr.response);
+                        } else {
+                            reject({
+                                status: this.status,
+                                statusText: xhr.statusText
+                            });
+                        }
+                    };
+                    xhr.onerror = function () {
+                        reject({
+                            status: this.status,
+                            statusText: xhr.statusText
+                        });
+                    };
+                    xhr.send(data);
+                });
+            },
+            getListID(tagName) {
+                switch (tagName) {
+                    case 'Influencer':
+                        return '1'
+                        break;
+                    case 'Brand':
+                        return '2'
+                        break;
+                    case 'Agency':
+                        return '3'
+                        break;
+                    case 'E-commerce':
+                        return '4'
+                        break;
+                    default:
+                        return 0;
+                }
+            },
+            getGroupId(type, continent, country){
+              if(type == 'Influencer'){
+                return 109535675
+              }
+              if(type == 'Brand' ||type == 'Agency' || type == 'E-commerce')
+                if(continent == 'EU'){
+                  return 107989498
+                }
+                if(continent == 'NA' && (country == 'US' || country == 'CA')){
+                    return 107989498
+                }
+                else{
+                    return 109535666
+                }
+            },
+            showInfluencerSignupForm(show) {
+                this.engagementRateFormStep = show ? 2 : 1;
+            },
+            closeFormPopup(){
+                allPopup.find(x => x.id === 'formPopup').closePopup();
+
+                setTimeout(() => {
+                    this.engagementRateFormStep = 1;
+                }, 2000);
+            },
+            clearFormPopup(formObject){
+                setCookie('erc-submit', true, 60);
+                // reset value
+                formObject[0].value = null;
+                formObject[1].value = 'default';
+                document.getElementById('banner').style.pointerEvents= 'all';
+                this.errorform = null;
+                this.loadingform = false;
+            },
+            errorHandle(error){
+                console.error(error.statusText);
+                this.errorform = 'There has been an error, please try again';
+                return;
+            },
+            async formSubmit() {
+                this.loadingform = true;
+                var error = this.errorform;
+                var _this = this;
+                var formElements = document.getElementById('form-popup').elements;
+                // Reset error on element change
+                formElements[1].addEventListener('change', function(e){
+                    formElements[1].classList.remove('input-error')
+                });
+               if (!this.validateEmail(formElements[0])) {
+                    formElements[0].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[0].classList.remove('input-error')
+                }
+                // Check dropdown field
+                if (formElements[1].value === 'default') {
+                    formElements[1].classList.add('input-error')
+                    this.loadingform = false;
+                    return;
+                } else {
+                    formElements[1].classList.remove('input-error')
+                }
+                try{
+                    //https://graphql.inbeat.co/ipdata
+                    this.selectedUserType = formElements[1].value
+                    const email = formElements[0].value
+                    const listId = _this.getListID(formElements[1].value)
+                    window.localStorage.setItem('user-type', this.selectedUserType);
+
+                    await _this.request(null, 'GET', 'https://graphql.inbeat.co/ipdata').then(async (e) =>{
+                        const json = JSON.parse(e);
+                        const continent = json.continent_code;
+                        const country = json.country_code;
+
+                        let group = await _this.getGroupId(_this.selectedUserType, continent, country);
+                        var data = JSON.stringify({
+                        'url': `/api/v2/groups/${group}/subscribers`,
+                        'email': email,
+                        'fields': {
+                            'category': _this.selectedUserType,
+                            'country': json.country_name
+                        }
+                        });
+                        //https://graphql.inbeat.co/mailer-lite
+                        await _this.request(data, 'POST', 'https://graphql.inbeat.co/mailer-lite')
+
+                        if(_this.selectedUserType === 'Influencer') {
+                            _this.showInfluencerSignupForm(true);
+                        } else {
+                            _this.clearFormPopup(formElements);
+                            _this.closeFormPopup();
+                        }
+                    });
+                }catch(error){
+                    this.errorHandle(error)
+                }
+                this.loadingform = false;
+            },
+            getCookie(name){
+                var nameEQ = name + '=';
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            },
+            setCookie(name){
+                var expires = '';
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = '; expires=' + date.toUTCString();
+                }
+                document.cookie = name + '=' + (value || '') + expires + '; path=/';
+            },
+            openInfluencerRegistration() {
+                var win = window.open('https://teaminbeat.typeform.com/to/sLHT8z3M/', '_blank');
+                win.focus();
+            },
+            openEmailCaptureForm() {
+                if (!this.getCookie('erc-submit') && this.getFirstData === true) {
+                    document.getElementById('banner').style.pointerEvents = 'none';
+                    this.request.addEventListener('loadend', (() => {
+                        setTimeout(function () {
+                            allPopup.find(x => x.id === 'formPopup').openPopup();
+                        }, 3000);
+                    }));
+                }
+
+                // for local testing only
+                // setTimeout(function () {
+                //     allPopup.find(x => x.id === 'formPopup').openPopup();
+                // }, 3000);
+            },
+        }
+    }
+</script>
