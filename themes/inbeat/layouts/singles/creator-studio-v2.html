@@ -1,0 +1,7 @@
+{{- define "main" -}}
+{{- partial "site/hero.html" . -}}
+{{- partial "site/features-industries.html" . -}}
+{{- partial "site/whatwedo-industries.html" . -}}
+{{- partial "site/testimonial-industries.html" . -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
+{{- end -}}
