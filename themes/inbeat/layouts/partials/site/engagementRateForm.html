@@ -1,24 +1,38 @@
 <form id="form-popup" onsubmit="return false">
   <img src="/images/embedpopup-baner.png" alt="">
-  <div class="text-element">
-    <h3>Unlock Calculator by entering E-mail</h3>
-    <p>We'll never share your email with anyone else.</p>
-  </div>
-  <p class="errorform">{ errorform }</p>
-  <div class="form-content">
-    <input name="email" placeholder="Email">
-    <div>
-      <select name="tag" class="form-control">
-        <option  value="default" selected>What represents you?</option>
-        <option  value="Influencer">Influencer</option>
-        <option  value="Brand">Brand</option>
-        <option  value="Agency">Agency</option>
-        <option  value="E-commerce">E-commerce</option>
-      </select>
+  <div v-if="engagementRateFormStep === 1">
+    <div class="text-element">
+      <h3>Unlock Calculator by entering E-mail</h3>
+      <p>We'll never share your email with anyone else.</p>
     </div>
-    <button type="submit" @click="formSubmit">
-        <div class="lds-ring" v-if="loadingform"><div></div><div></div><div></div><div></div></div>
-        <span v-else>Unlock Calculator</span>
-    </button>
+    <p class="errorform">{ errorform }</p>
+    <div class="form-content">
+      <input name="email" placeholder="Email">
+      <div>
+        <select name="tag" class="form-control">
+          <option  value="default" selected>What represents you?</option>
+          <option  value="Influencer">Influencer</option>
+          <option  value="Brand">Brand</option>
+          <option  value="Agency">Agency</option>
+          <option  value="E-commerce">E-commerce</option>
+        </select>
+      </div>
+      <button type="submit" @click="formSubmit" class="btn" style="margin-top: 32px;">
+          <div class="lds-ring" v-if="loadingform"><div></div><div></div><div></div><div></div></div>
+          <span v-else>Unlock Calculator</span>
+      </button>
+    </div>
+  </div>
+  <div v-else-if="engagementRateFormStep === 2">
+    <div class="text-element">
+      <h3>Signup as a Creator!</h3>
+      <p>Would you like to join our platform as a creator?</p>
+    </div>
+    <div style="max-width: 400px; margin: auto;">
+      <button class="btn btn-lg btn-crazy-hover" @click="openInfluencerRegistration" style="margin: 24px 0px 16px;">Sign up & Collaborate with brands</button>
+      <button class="btn btn-lg btn-outline" @click="closeFormPopup" style="margin: 0px 0px 66px; border: 1px solid black;border-color: black; background: none; color: black;">
+        No thanks, close this pop-up
+      </button>
+    </div>
   </div>
 </form>

@@ -9,7 +9,7 @@
 		{{ block "main" . }}
 		{{ end }}
         <div id="header-container">
-            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" "class" "popupTrigger" "show" .Params.banner.show) -}}
+            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeat-co/creator-studio-demo" "class" "popupTrigger" "show" .Params.banner.show) -}}
             <div class="container">
                 <div class="row middle-xs between-xs" id="header">
                     <div class="col-xs-6 col-sm-1 col-md-1">
@@ -18,7 +18,7 @@
                     <div class="col-xs-4 hide-sm">
                         <ul class="right">
                             <li class="cta">
-                                <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" class="btn btn-md" target="_blank">
+                                <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" class="btn btn-md" target="_blank">
                                     Request Access
                                 </a>
                             </li>
@@ -35,10 +35,10 @@
                <div class="col-lg-8 col-lg-offset-2">
                 <h1>{{- .title | markdownify -}}</h1>
                 <h4>{{- .subtitle | markdownify -}} </h4>
-                    <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" target="_blank" class="btn btn-lg btn-crazy-hover" title="Schedule a call" id="hero-cta">
+                    <a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank" class="btn btn-lg btn-crazy-hover" title="Schedule a call" id="hero-cta">
                         Schedule a call
                     </a>
-                    <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" target="_blank" class="btn btn-lg btn-white">
+                    <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" target="_blank" class="btn btn-lg btn-white">
                         Request Access
                     </a>
                 </div>
@@ -76,7 +76,7 @@
 </section>
 {{- end -}}
 </section>
-<section id="pricing">
+<section id="pricing" class="--within-cs">
     {{- with .Params.Pricing -}}
     <h2 class="studio-pricing__title">{{- .title -}}</h2>
     <div class="container">
@@ -84,36 +84,34 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 content-wrapper">
                     <div class="content">
-                        <p class="title">Starting at</p>
-                        <h2>
-                            {{- .rate -}} USD
+                        <h2 class="cs-pricing__heading">
+                            Schedule a demo
                         </h2>
-                            <a class='btn btn-md btn-crazy' href="https://calendly.com/inbeatapp/inbeat-demo?month=2021-09" target="_blank">
+                            <a class="btn btn-md btn-crazy" style="margin-top: 34px;" href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
                                 Book a demo
+                            </a>
+                            <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-md btn-outline popupTrigger" data-popup-id="creatorStudioVideoPopup">
+                                <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
                             </a>
                     </div>
                 </div>
             <div class="features col-xs-12 col-sm-6 col-md-7 col-lg-8 featured-business">
                 <p class="feature-title">What it includes</p>
-                <div class="row">
+                <div class="feature-list__wrap">
                     {{ $len := (len .socialElement) }}
                     {{ $div := (math.Floor (div $len 2.0)) }}
                     {{ $divToInt := (math.Ceil (div $len 2.0)) }}
-                    <div class="col-xs-12 col-sm-12 col-md-6">
-                        <div class="col-xs-12">
+                    <div>
                         {{ range first $divToInt .socialElement }}
                             <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
                             <p class="includes-description">{{- .description -}}</p>
                         {{- end -}}
-                        </div>
                     </div>
-                    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-5">
-                        <div class="col-xs-12">
+                    <div>
                         {{ range last $div .socialElement }}
                             <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
                             <p class="includes-description">{{- .description -}}</p>
                         {{- end -}}
-                        </div>
                     </div>
                 </div> 
             </div>
@@ -203,7 +201,7 @@
                     <h2>{{ .title }}</h2>
                     <p>{{ .text }}</p>
                     <div class="m-tb-80">
-                        <a href="https://calendly.com/inbeatapp/creator-studio-demo?month=2021-09" title="Request Access" class="btn btn-lg" target="_blank">
+                        <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" class="btn btn-lg" target="_blank">
                             Request Access
                         </a>
                     </div>
@@ -212,6 +210,18 @@
         </div>
     </section>
 {{ end }}
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.pricing "id" "pricing-faq") -}}
+{{ $content :=  `<div class="content-video" style="padding-top: 50px;">
+    <iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="btn-cta">
+    <a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
+        <button class="btn"><span>Book a Demo</span></button>
+    </a>
+</div>` }}
+{{ partial "site/popup.html" (dict "context" . "id" "creatorStudioVideoPopup" "content" $content "canClose" true  ) }} 
+
 
 {{ partial "footer/scripts.html" . }}
 </body>

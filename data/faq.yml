@@ -290,3 +290,33 @@ fake_follower_checker:
   - question: Why should I care about the Instagram audience score for influencer marketing?
     answer: >-
       A big follower count means nothing if it consists of fake profiles, inactive accounts and ghost followers. Don't waste your time and money on fake influencers who charge big bucks without an engaged audience. Our audit tool brings social proof to your social media marketing.
+cpm_calculator:
+  - question: How to calculate CPM?
+    answer: >-
+     The CPM (cost per mille) indicates the average cost for a thousand impressions in an advertising campaign. The formula to calculate the CPM is : <br>
+     <b>CPM = (Total Cost / Total Impressions) x 1000</b>
+  - question: What is a good or bad CPM?
+    answer: >-
+      There is no definite answer to determine what is a good or bad CPM. Most online advertising
+      platforms run through auction bids and algorithms greatly impacted by budget, industry, niche,
+      location, competition, campaign goal, audience size, and so on. This means that what could be
+      a great CPM for a company could be a bad one for another based on the environment both
+      companies are competing.
+  - question: How to improve CPM?
+    answer: >-
+      <b>The best ways to improve CPM, for most platforms, are to improve:<br></b>
+       &#x25CF; Content quality<br>
+       &#x25CF; Content copywriting<br>
+       &#x25CF; CTR<br>
+       &#x25CF; Auction bid / Bid type<br>
+       &#x25CF; Audience targe<br>
+  - question: What Factors Affect CPM?
+    answer: >-
+      <b>Three groups of factors can impact the CPM:<br></b>
+      &#x25CF; Environment factors: location, competition, audience size, industry...<br>
+      &#x25CF; Budget/Bidding factors: How much are you and your competitors willing to pay for the impressions.<br>
+      &#x25CF; Ad quality factors: How relevant is your ad, how performing is your creative, and how engaging is your ad. The most engaging your Ad is, the most the algorithm will push it for lower prices.<br>
+  - question: Why is calculating CPM important?
+    answer: >-
+      For marketers, calculating CPM and comparing CPM between campaigns is a good insight into 
+      ad quality, performance, and potential, as well as targeting relevancy.

@@ -82,7 +82,7 @@ requestAccess:
   title: Start creating High Quality UGC. 
   text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.
 Pricing:
-  title: Monthly Pricing
+  title: Pricing
   rate: 300
   socialElement:
   - title: Creator Network

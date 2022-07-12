@@ -109,18 +109,21 @@ function scrollAnchors(e, respond) {
 }
 
 function testimonial() {
-    $('.slider').slick({
-        slidesToShow: 6,
-        slidesToScroll: 1,
-        speed: 5000,
-        cssEase: 'linear',
-        autoplay: true,
-        autoplaySpeed: 0,
-        arrows: false,
-        dots: false,
-        pauseOnHover: false,
-        variableWidth: true,
-        responsive: [{
+    if(!window.jQuery) {
+        return;
+    }
+        $('.slider').slick({
+          slidesToShow: 6,
+          slidesToScroll: 1,
+          speed: 5000,
+          cssEase: 'linear',
+          autoplay: true,
+          autoplaySpeed: 0,
+          arrows: false,
+          dots: false,
+          pauseOnHover: false,
+          variableWidth: true,
+          responsive: [{
             breakpoint: 768,
             settings: {
                 slidesToShow: 3
@@ -166,6 +169,30 @@ function testimonial() {
 }
 
 function pricing() {
+    //set toggle 
+    var toggle = document.querySelectorAll('.toggle-container')
+    if(toggle.length === 0){return}
+    var currentActive = toggle[0];
+    var creatorStudioActive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_database').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.add('--show')
+        document.querySelector('.pricing_database').classList.remove('--show')
+    };
+    var creatorStudioInactive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_creator-studio').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.remove('--show')
+        document.querySelector('.pricing_database').classList.add('--show')
+    };
+    creatorStudioInactive(currentActive);
+
+    for (i = 0; i < toggle.length; i++) {
+        toggle[i].addEventListener('click', function (e) {
+            e.preventDefault();
+                this.classList.contains('toggle_creator-studio') ? creatorStudioActive(this) : creatorStudioInactive(this)
+        }, true);
+    }
     // Select pricing interval
     var schedule = document.getElementById('pricing-row');
     if (schedule) {
@@ -441,10 +468,14 @@ function industries() {
 }
 function banner(){
     var banner = document.getElementById('banner');
+    if(!banner) {
+        return;
+    }
     var text = banner.querySelector('#popup-trigger')
     var close = banner.querySelector('#close')
     var closeBtn = document.getElementById('close');
     var hero = document.getElementById('hero');
+    var hero_cmp = document.getElementById('hero_cmp');
     var prevScrollpos = window.pageYOffset;
     if(hero == null){
        hero = document.getElementById('hero-industries');
@@ -475,9 +506,15 @@ function banner(){
         if(hero !== null){
             hero.classList.remove('has-banner');
         }
+        if(hero_cmp !== null){
+            hero_cmp.classList.remove('has-banner');
+        }
     })
     if(hero !== null){
         hero.classList.add('has-banner');
+    }
+    if(hero_cmp !== null){
+        hero_cmp.classList.add('has-banner');
     }
 }
 
@@ -525,7 +562,7 @@ function articleProgressBar() {
   popup();
   faq();
   banner();
-  testimonial();
   articleProgressBar();
   industries();
+  testimonial();
 })();
