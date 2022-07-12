@@ -28,31 +28,31 @@ discoverInfluencer:
 features:
   - id: search-influencer
     class: popupTrigger
-    title: Find influencers that love your brand. 
-    image: /images/features-placeholder.png
+    title: Match with creators that already love your brand.
+    image: /images/feature-creator_studio-1.png
     text: >-
-     Only work with influencers that have a deep affinity with your brand to create collaborations that drive the highest engagement.
+     Get matched with Top Creators that fit the bill & that are already willing to collaborate with your brand.
     link:
-      text: Call to action
+      text: Watch the video
       link: 'features/discover'
     video: search-with-flexibility  
   - id: pick-influencer
     class: popupTrigger
-    title: A platform that does everything for you.
-    image: /images/features-placeholder.png
+    title: Content reviews have never been simpler
+    image: /images/feature-creator_studio-2.png
     text: >-
-     We pre-vet and onboard influencers so that you don’t have to. Scale your influencer marketing by removing discovery and outreach from your process. 
+     You can review all the content & request for changes, directly in the platform. 
     link:
-      text: Call to action
+      text: Pricing
       link: 'features/discover'
     video: pick-out-the-bestest
   - id: export-influencer
     class: popupTriggers
-    title: Understand your influencers’ performance
-    image: /images/features-placeholder.png
-    text:  Identify your top-performing influencers and unlock long-term collaborations.
+    title: Unlimited usage rights, with the inBeat license.
+    image: /images/feature-creator_studio-3.png
+    text:  Use all generated content in paid ads, on your social media, or however you please. The inBeat license covers it all.
     link:
-      text: Call to action
+      text: Get started
       link: 'features/export-contacts/'
       external: false
     video: export-for-outreach
