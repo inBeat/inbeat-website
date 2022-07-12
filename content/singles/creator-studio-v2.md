@@ -12,7 +12,7 @@ hero:
     inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale
   cta:
     text: >-
-      <span>Book a demo - It</span>
+      <span>Book a demo — it's free</span>
     link: https://calendly.com/inbeat-co/inbeat-co-demo
 features:
   - id: search-influencer

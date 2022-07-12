@@ -1,5 +1,22 @@
 {{- define "main" -}}
-{{- partial "site/hero.html" . -}}
+{{- with .Params.hero -}}
+<section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
+    <div class="container">
+        <div class="col-lg-8 col-lg-offset-2">
+         <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+         <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+         <div class="cta">
+            <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta">
+                {{- htmlUnescape .cta.text | markdownify -}}
+            </a>
+            <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
+                <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
+            </a>
+        </div>
+         </div>
+    </div>
+</section>
+{{- end -}}
 {{- partial "site/features-industries.html" . -}}
 {{- partial "site/whatwedo-industries.html" . -}}
 {{- partial "site/testimonial-industries.html" . -}}

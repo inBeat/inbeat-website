@@ -1,0 +1,71 @@
+#hero.hero_creator-studio-v2{
+    background-color: #F9F2F7;
+    padding-top: 8.50rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    @include breakpoint(sm) {
+        padding-top: 15.3125rem;
+        padding-bottom: 128px;
+    }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
+    .creator-studio-heading{
+        text-align: center;
+        letter-spacing: -1px;
+        color: #000000;
+        margin-bottom: 2rem;
+        @include breakpoint(sm) {
+          font-weight: 700;
+          font-size: 4.75rem;
+          line-height: 5rem;
+        }
+    }
+    .hero_creator-studio-sub_heading{
+        font-weight: 400;
+        text-align: center;
+        color: #141514;
+        width: 100%;
+        @include breakpoint(sm) {
+            margin: auto;
+            margin-bottom: 3rem;
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+        }
+    }
+    .cta {
+        a {
+            display: block;
+            margin: 0 auto 20px;
+            width: 100%;
+            @include breakpoint(31.25rem) {
+                width: 16.75rem;
+            }
+            @include breakpoint(sm) {
+                display: inline-block;
+                margin: 0;
+                &:first-child {
+                    margin-right: 20px;
+                }
+            }
+            &#hero-cta {
+                @include breakpoint(sm-down) {
+                    color: black;
+                    border: none;
+                    animation: crazy 2s infinite;
+                }
+            }
+            span {
+                font-weight: bold;
+            }
+        }
+        a:nth-child(2){
+            padding-left: 20px;
+            span{
+               padding-left: 20px;
+                padding-right: 20px;
+            }
+        }
+    }
+}
