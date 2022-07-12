@@ -69,3 +69,41 @@
         }
     }
 }
+#cs_discover-influencer{
+    margin-top: 137px;
+    margin-bottom: 96px;
+    .discover-influencer-heading{
+      margin: 0;
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 36px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #141514;
+      margin-bottom: 96px;
+    }
+    .video-carousel{
+        display: flex;
+        align-items: center;
+        // justify-content: center;
+        overflow-x: scroll;
+        gap: 30px;
+        margin-left: -2rem;
+        margin-right: -2rem;
+        -ms-overflow-style: none;  /* Internet Explorer 10+ */
+        scrollbar-width: none;  /* Firefox */
+        iframe{
+            border-radius: 8px;
+        }
+    }
+    .video-carousel::-webkit-scrollbar { 
+        display: none;  /* Safari and Chrome */
+    }
+    .video-carousel > *:first-child {
+		padding-left: 2rem;
+	  }
+	.video-carousel > *:last-child {
+		padding-right: 1.5rem;
+	  }
+
+}

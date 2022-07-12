@@ -1,0 +1,16 @@
+{{- with .Params.discoverInfluencer -}}
+<section id="cs_discover-influencer">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12">
+            <h4 class="discover-influencer-heading">{{- .title | markdownify -}}</h4>
+            <div class="video-carousel">
+                {{- range .videos -}}
+                <iframe height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
+                {{- end -}}
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+{{- end -}}

@@ -14,6 +14,17 @@ hero:
     text: >-
       <span>Book a demo — it's free</span>
     link: https://calendly.com/inbeat-co/inbeat-co-demo
+discoverInfluencer:
+    title: Some content from our Creators
+    videos:
+      - link: 727870972?h=55b99ceef5
+      - link: 727870878?h=cd72296c3f
+      - link: 727870879?h=638524da5e
+      - link: 727870769?h=5d3432b73c
+      - link: 727870423?h=7012714586
+      - link: 727870274?h=20a5dc261b
+      - link: 727870927?h=cd0ee8a876
+      - link: 727888136?h=8b52b23499
 features:
   - id: search-influencer
     class: popupTrigger
