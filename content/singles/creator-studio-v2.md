@@ -56,7 +56,7 @@ features:
 switchers:
     title: All of your content needs under one roof  
     video: UGCStudio_ContentTypesWidget
-    class:  switcher__creator-studio
+    id:  switcher__creator-studio
     tabs:
       - title: Product Showcase
         icon: play-icon

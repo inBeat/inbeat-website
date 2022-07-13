@@ -242,12 +242,12 @@
 $whatwedo-background: #232F28;
 $whatwedo-secondary: #141514;
 
-#what-we-do-industries {
+.switcher-section {
     background: $whatwedo-background;
     color: #FFFFFF;
     padding: 32px 20px 64px;
     text-align: center;
-    .cta-title{
+    .switcher-title{
         margin-top: 2rem;
         font-weight: 500;
         font-size: 2.25rem;
@@ -265,13 +265,13 @@ $whatwedo-secondary: #141514;
         line-height: 36px;
         letter-spacing: -0.4px;
     }
-    .left-sec{
+    .switcher-illustration-section{
         display: flex;
         @include breakpoint(md-down) {
             margin-bottom: 32px;
         }
     }
-    .list-seperator {
+    .switcher_accordian-seperator {
         width: 100%;
         height: 1px;
         background: rgba(255, 255, 255, 0.2);
@@ -279,7 +279,7 @@ $whatwedo-secondary: #141514;
             background: transparent;
         }
     }
-    .text-box{
+    .switcher_accordian-item{
         background: transparent;
         border-radius: 0px;
         padding: 20px 24px;
@@ -292,19 +292,13 @@ $whatwedo-secondary: #141514;
         &:hover{
             opacity: 0.5;
         }
-        p{
-            // display: none;
-            max-height: 0px;
-            overflow: hidden;
-            transition: max-height .3s ease-in-out;
-        }
         &.--active {
             background: rgba(255, 255, 255, 0.08);
             border-radius: 9px;
             border: none;
             opacity: 1 !important;
             // animation: toggle forwards 0.2s ease-in-out;
-            p {
+            .switcher_accordian-description {
                 // display: block;
                 max-height: 64px;
                 @include breakpoint(sm-down) {
@@ -317,7 +311,7 @@ $whatwedo-secondary: #141514;
         @include breakpoint(md) {
             padding: 32px;
         }
-        .heading{
+        .switcher_accordian-title{
             display: flex;
             align-items: center;
             gap: 16px;
@@ -327,7 +321,7 @@ $whatwedo-secondary: #141514;
             letter-spacing: -0.2px;
             color: #FFFFFF;
         }
-        p{
+        .switcher_accordian-description{
           font-weight: 400;
           font-size: 16px;
           line-height: 26px;
@@ -335,29 +329,31 @@ $whatwedo-secondary: #141514;
           margin: 0;
           margin-top: 4px;
           text-align: left !important;
-          transition: all .3s ease-in-out;
+          max-height: 0px;
+          overflow: hidden;
+          transition: max-height .3s ease-in-out;
         }
     }
     @include breakpoint(xs) {
         padding: 32px 20px 64px;
-        .cta-title{
+        .switcher-title{
             margin-top: 2rem;
             margin-bottom: 24px !important;
         }
     }
     @include breakpoint(sm) {
         padding: 128px 51px;
-        .cta-title{
+        .switcher-title{
             margin-bottom: 32px !important;
             margin-top: 0;
         }
     }
     @include breakpoint(md) {
-        .cta-title{
+        .switcher-title{
             text-align: left;
         }
     }
-    video,img {
+    .switcher_illustration-video, .switcher_illustration-image {
         width: 100%;
         margin-top: 20px;
         border-radius: 2px;
@@ -369,29 +365,17 @@ $whatwedo-secondary: #141514;
     .row{
         display: flex;
         align-items: flex-start;
+        justify-content: space-between;
         @include breakpoint(sm-down) {
             margin: 0;
         }
-        p{
+        .switcher_accordian-description{
             margin-bottom: 0rem !important;
             text-align: center;
             @include breakpoint(md) {
                 opacity: 0.75;
                 text-align: left;
             }  
-        }
-        .cta{
-            a{
-                border: none;
-                display: block;
-                width: 100%;
-                margin-top: 2rem;
-                @include breakpoint(md) {
-                    width: max-content;
-                    margin-top: 3rem;
-                }  
-            }
-            margin: 0rem 0px 0rem 0px !important;
         }
     }
 }
