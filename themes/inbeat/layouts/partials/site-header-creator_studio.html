@@ -1,0 +1,94 @@
+<div id="header-container">
+    {{- partial "site/banner.html" (dict "context" . "text" "See how it works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
+    <div class="container">
+        <div class="row middle-xs between-xs" id="header">
+            <div class="col-xs-6 col-sm-1 col-md-1">
+                <a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo" id="inbeat-animated-logo">
+                </a>
+            </div>
+            <div class="col-xs-7 hide-sm">
+                <ul>
+                    <li  class="has-submenu">
+                        <a href="javascript:void(0)" title="Resources">
+                            Resources
+                            <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1L5.4698 5L10 1" stroke="black"/>
+                            </svg>
+                        </a>    
+                        <ul class="submenu grey-bg">
+                            <li>
+                                <a href="{{- $.Site.BaseURL -}}free-toolkit" title="Free Toolkit">
+                                    <div class="icons">{{- partial "icons/menu-freetoolkit-icon.html" -}}</div>
+                                    <div>
+                                        <h4>Free Toolkit</h4>
+                                        <p>A series of tools for influencer marketing</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{- $.Site.BaseURL -}}articles" title="Articles">
+                                    <div class="icons">{{- partial "icons/menu-articles-icon.html" -}}</div>
+                                    <div>
+                                        <h4>Articles</h4>
+                                        <p>Read what’s new in influencer marketing</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li><a href="{{- $.Site.BaseURL -}}categories/podcasts" title="Podcast">
+                                    <div class="icons">{{- partial "icons/menu-podcast-icon.html" -}}</div>
+                                    <div>
+                                        <h4>The Pulse Podcast</h4>
+                                        <p>Listen to influencer marketing experts</p>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
+                    <li class="creator-studio"><a href="{{- $.Site.BaseURL -}}ugc-platform" title="Creator Studio">Creator Studio</a><span class="new-badge">NEW</span></li>
+                    <!-- <li><a href="https://teaminbeat.typeform.com/to/sLHT8z3M" target="_blank" title="Become a creator">Become a creator</a></li> -->
+                </ul>
+            </div>
+            <div class="col-xs-4 hide-sm">
+                <ul class="right">
+                    <li class="cta">
+                        <a href="https://calendly.com/inbeat-co/inbeat-co-demo" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">
+                            Book a demo
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-xs-6 hide-sm-up">
+                <button class="hamburger hamburger--squeeze" type="button" id="menu-icon">
+                    <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+{{$url := print "/articles/" .File.BaseFileName "/"}}
+    {{ if and (eq .Page.RelPermalink $url) }}
+        <div class="progress-bar--container">
+            <div class="progress-bar"></div>
+        </div>
+    {{ end }}
+</div>
+<div id="menu-overlay">
+    <ul>
+        <li><a href="{{- $.Site.BaseURL -}}" title="Home">Home</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}features/quicksearch" title="QuickSearch">QuickSearch</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}features/deepsearch" title="DeepSearch">DeepSearch</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}features/export-contacts" title="Contact Export">Contact Exports</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}micro-influencer-platform" title="Micro Influencer Platform">Micro Influencer Platform</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}articles" title="Blog">Blog</a></li>
+        <li><a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a demo">Book a demo</a></li>
+    </ul>
+    <div class="cta">
+        <a class="btn btn-gradient btn-md" href="https://app.inbeat.co/get-started" target="_blank">
+            <span>Try it now</span>
+        </a>
+        <a class="btn btn-md" href="https://app.inbeat.co"><span>Sign in</span></a>
+    </div>
+</div>

@@ -1,26 +1,38 @@
-{{- define "main" -}}
-{{- with .Params.hero -}}
-<section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
-    <div class="container">
-        <div class="col-lg-8 col-lg-offset-2">
-         <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
-         <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
-         <div class="cta">
-            <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta">
-                {{- htmlUnescape .cta.text | markdownify -}}
-            </a>
-            <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
-                <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
-            </a>
-        </div>
-         </div>
-    </div>
-</section>
-{{- end -}}
+<!DOCTYPE html>
+<html lang="{{- $.Lang -}}">
+	{{ partial "site-head.html" . }}
+	<body>
+		{{ `<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->` | safeHTML }}
+		{{ partial "header/gtm.html" . }}
+		{{ block "main" . }}
+		{{ end }}
+        {{ partial "site-header-creator_studio.html" . }}
+        {{- with .Params.hero -}}
+        <section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                 <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+                 <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+                 <div class="cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta">
+                        {{- htmlUnescape .cta.text | markdownify -}}
+                    </a>
+                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
+                        <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
+                    </a>
+                </div>
+                 </div>
+            </div>
+        </section>
+        {{- end -}}
 {{- partial "site/discover-influencer.html" . -}}
 {{- partial "site/testimonial-influencer.html" . -}}
 {{- partial "site/features-industries.html" . -}}
 {{- partial "site/whatwedo-industries.html" . -}}
-<!-- {{- partial "site/testimonial-industries.html" . -}} -->
-{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.home "id" "faq-influencer" "header" true) -}}
-{{- end -}}
+{{- partial "site/whatwedo.html" . -}}
+{{ partial "site-footer.html" . }}
+{{ partial "footer/scripts.html" . }}
+</body>
+</html>
