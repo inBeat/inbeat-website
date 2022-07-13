@@ -118,6 +118,15 @@ tabs:
     text: Influencer marketing doesn’t need to be complicated. With inBeat, everything is taken care of so you can focus on what matters. 
     tab: Analyze
     img: /images/step2.png
+clientlogos:
+  - logo: got-milk
+  - logo: moose
+  - logo: new-balance
+  - logo: nissan
+  - logo: loop
+  - logo: bedtime
+testimonials: 
+  secondrow: false
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

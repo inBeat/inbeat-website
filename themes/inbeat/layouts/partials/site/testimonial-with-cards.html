@@ -1,5 +1,5 @@
-{{- with $.Site.Data.testimonial -}}
-    <section class="container-fluid p-tb-80" id="testimonials-influencer"> 
+<section class="container-fluid p-tb-80" id="testimonials-influencer"> 
+        {{- with $.Site.Data.testimonial -}}
         <div class="container m-tb-40"> 
             <div class="row">
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
@@ -26,9 +26,14 @@
             </div>    
             </div>
         </div>
+        {{- end -}}
         {{- partial "site/clients.html" . -}}
+        {{- with .Params.testimonials -}}
+        {{- if .secondrow -}}
+        {{- partial "site/clientsrow.html" . -}}
+        {{- end -}}
+        {{- end -}}
 </section>
-{{- end -}}
 <script>
     function scrollTo(elem){
         console.log(elem)

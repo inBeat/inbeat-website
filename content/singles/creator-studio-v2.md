@@ -79,12 +79,8 @@ whatwedo:
     cta:
       link: https://calendly.com/inbeat-co/inbeat-co-demo
       text: Book a demo — it's free
-testmonial:
-    title: Join the e-commerce brands that are using inBeat
-    cta:
-      text: >-
-        <span>Book a demo — it's free</span>
-      link: https://calendly.com/inbeat-co/inbeat-co-demo
+testimonials: 
+  secondrow: true
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
