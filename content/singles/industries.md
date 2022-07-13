@@ -23,8 +23,7 @@ features:
      Only work with influencers that have a deep affinity with your brand to create collaborations that drive the highest engagement.
     link:
       text: Call to action
-      link: 'features/discover'
-    video: search-with-flexibility  
+      link: 'features/discover' 
   - id: pick-influencer
     class: popupTrigger
     title: A platform that does everything for you.
@@ -34,7 +33,6 @@ features:
     link:
       text: Call to action
       link: 'features/discover'
-    video: pick-out-the-bestest
   - id: export-influencer
     class: popupTriggers
     title: Understand your influencers’ performance
@@ -44,8 +42,7 @@ features:
       text: Call to action
       link: 'features/export-contacts/'
       external: false
-    video: export-for-outreach
-whatwedo:
+switchers:
     title: Craft all the content you need, at scale
     text: Use video to greatly increase conversions on paid ads. Ideal for TikTok, Reels, Shorts, etc.  
     image: /images/placeholder-whatwedo.png 

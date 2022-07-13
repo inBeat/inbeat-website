@@ -34,8 +34,7 @@ features:
      Get matched with Top Creators that fit the bill & that are already willing to collaborate with your brand.
     link:
       text: Watch the video
-      link: 'features/discover'
-    video: search-with-flexibility  
+      link: 'features/discover' 
   - id: pick-influencer
     class: popupTrigger
     title: Content reviews have never been simpler
@@ -45,7 +44,6 @@ features:
     link:
       text: Pricing
       link: 'features/discover'
-    video: pick-out-the-bestest
   - id: export-influencer
     class: popupTriggers
     title: Unlimited usage rights, with the inBeat license.
@@ -55,7 +53,6 @@ features:
       text: Get started
       link: 'features/export-contacts/'
       external: false
-    video: export-for-outreach
 switchers:
     title: All of your content needs under one roof  
     video: UGCStudio_ContentTypesWidget
@@ -76,6 +73,7 @@ switchers:
 whatwedo:
     title: Get started with inBeat UGC studio
     text: Start generating high quality creator content & empower your brand with a scalable solution.
+    id: what-we-do_creator-studio
     newBadge: false 
     video: CreatorStudio_Snippet 
     cta:
