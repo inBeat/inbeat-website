@@ -56,9 +56,10 @@ features:
       link: 'features/export-contacts/'
       external: false
     video: export-for-outreach
-whatwedo:
+switchers:
     title: All of your content needs under one roof  
-    image: /images/placeholder-whatwedo.png 
+    video: UGCStudio_ContentTypesWidget
+    class:  switcher__creator-studio
     tabs:
       - title: Product Showcase
         icon: play-icon
@@ -71,7 +72,15 @@ whatwedo:
         text: Build brand trust by creating human, candid & genuine content 
       - title: Lifestyle Shots
         icon: play-icon
-        text: Get high quality lifestyle shots to showcase your content in a real-world-use scenario to better target your audience.. 
+        text: Get high quality lifestyle shots to showcase your content in a real-world-use scenario to better target your audience..
+whatwedo:
+    title: Get started with inBeat UGC studio
+    text: Start generating high quality creator content & empower your brand with a scalable solution.
+    newBadge: false 
+    video: CreatorStudio_Snippet 
+    cta:
+      link: https://calendly.com/inbeat-co/inbeat-co-demo
+      text: Book a demo — it's free
 testmonial:
     title: Join the e-commerce brands that are using inBeat
     cta:
