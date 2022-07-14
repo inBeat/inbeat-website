@@ -500,12 +500,20 @@ $pink: #B85172;
             font-size: 2.8rem;
         }
     }
+    .tools-card-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 48px;
+        @include breakpoint(sm-down) {
+        margin-top: 0;
+        gap: 25px;
+        }
+    }
     .tools {
-        display: table;
         width: 100%;
         @include breakpoint(sm-down) {
-        margin-top: 25px;
-        }
+            margin-top: 24px;
+            }
         &:hover .inner{
             border: 1px solid rgba(0, 0, 0, 1);
             cursor: pointer;
@@ -514,6 +522,7 @@ $pink: #B85172;
             transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
             display: flex;
             border: 1px solid rgba(0, 0, 0, 0.20);
+            height: 100%;
             padding: 15px;
             flex-direction: row-reverse;
             @include breakpoint(sm-down) {
