@@ -1,6 +1,6 @@
-<section class="container-fluid p-tb-80" id="testimonials-influencer"> 
-        {{- with $.Site.Data.testimonial -}}
-        <div class="container m-tb-40"> 
+<section class="container-fluid testimonials-influencer" id="{{- .Params.testimonials.id -}}"> 
+    {{- with $.Site.Data.testimonial -}}
+        <div class="container"> 
             <div class="row">
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
                 <div class="navigator hide-md-up">
@@ -10,7 +10,7 @@
                 </div>
                 <div class="clients_card-container">
                 {{- range .client -}}
-                    <div class="col-md-4 col-sm-12 box m-tb-80 client-card" > 
+                    <div class="col-md-4 col-sm-12 box client-card" > 
                         <div class="inner-box">
                            <p style="font-size: 14px;">{{- .quote -}} </p> 
                            <div class="client">
@@ -27,17 +27,6 @@
             </div>
         </div>
         {{- end -}}
-        {{- partial "site/clients.html" . -}}
-        {{- with .Params.testimonials -}}
-        {{- if .secondrow -}}
-        {{- partial "site/clientsrow.html" . -}}
-        {{- end -}}
-        {{- end -}}
 </section>
-<script>
-    function scrollTo(elem){
-        console.log(elem)
-    }
-</script>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
