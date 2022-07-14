@@ -13,7 +13,7 @@ hero:
   cta:
     text: >-
       <span>Book a demo — it's free</span>
-    link: https://calendly.com/inbeat-co/inbeat-co-demo
+    link: https://calendly.com/inbeat-co/creator-studio-demo
 discoverInfluencer:
     title: Some content from our Creators
     videos:
@@ -76,7 +76,7 @@ whatwedo:
     newBadge: false 
     video: CreatorStudio_Snippet 
     cta:
-      link: https://calendly.com/inbeat-co/inbeat-co-demo
+      link: https://calendly.com/inbeat-co/creator-studio-demo
       text: Book a demo — it's free
 testimonials: 
   id: testimonials_creator-studio
