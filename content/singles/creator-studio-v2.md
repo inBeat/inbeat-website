@@ -80,7 +80,10 @@ whatwedo:
       link: https://calendly.com/inbeat-co/inbeat-co-demo
       text: Book a demo — it's free
 testimonials: 
+  id: testimonials_creator-studio
   secondrow: true
+clients:
+  id: clients_creator-studio
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
