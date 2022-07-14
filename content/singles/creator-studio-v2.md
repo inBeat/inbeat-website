@@ -36,16 +36,15 @@ features:
       text: Watch the video
       link: 'features/discover' 
   - id: pick-influencer
-    class: popupTrigger
     title: Content reviews have never been simpler
     image: /images/feature-creator_studio-2.png
     text: >-
      You can review all the content & request for changes, directly in the platform. 
     link:
       text: Pricing
-      link: 'features/discover'
+      link: 'pricing'
+      external: false
   - id: export-influencer
-    class: popupTriggers
     title: Unlimited usage rights, with the inBeat license.
     image: /images/feature-creator_studio-3.png
     text:  Use all generated content in paid ads, on your social media, or however you please. The inBeat license covers it all.
