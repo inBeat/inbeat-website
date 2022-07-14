@@ -17,6 +17,20 @@ whatwedo:
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
+    newBadge: true
+toolkits:
+    - title: CTR <br> Calculator
+      text: Calculate your Click-through-rate your ads & content across different channels.
+      icon: ctr-toolkit
+      url: engagement-rate-calculator-instagram
+    - title: CPA <br> Calculator
+      text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
+      icon: cpa-toolkit
+      url: collaboration-cost-calculator-instagram
+    - title: Bounce Rate <br>Calculator
+      text: Calculate the bounce rate for one or multiple websites or webpages.
+      icon: bounce-rate-free-toolkit
+      url: engagement-rate-calculator-tiktok
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

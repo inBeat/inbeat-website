@@ -478,3 +478,83 @@ $pink: #B85172;
         margin-bottom: 24px;
       }
 }
+.related-tools {
+    margin-top: 128px;
+    @include breakpoint(sm-down) {
+        margin-top: 64px;
+        margin-left: 1.25rem;
+        margin-right: 1.25rem;
+    }
+    .related-tools-title{
+        margin: 0;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 3.5rem;
+        line-height: 4rem;
+        letter-spacing: -1.4px;
+        color: #141514;
+        padding-bottom: 48px;
+        border-bottom: 1px solid #000000;
+        @include breakpoint(sm-down) {
+            padding-bottom: 25px;
+            font-size: 2.8rem;
+        }
+    }
+    .tools {
+        display: table;
+        width: 100%;
+        @include breakpoint(sm-down) {
+        margin-top: 25px;
+        }
+        &:hover .inner{
+            border: 1px solid rgba(0, 0, 0, 1);
+            cursor: pointer;
+        }
+        .inner {
+            transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+            display: flex;
+            border: 1px solid rgba(0, 0, 0, 0.20);
+            padding: 15px;
+            flex-direction: row-reverse;
+            @include breakpoint(sm-down) {
+                flex-direction: row;
+                padding: 10px 25px;
+                .icon{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-right: 25px;
+                }
+            }
+            .content{
+                padding: 50px 25px 25px 25px;
+                @include breakpoint(sm-down) {
+                    padding: 25px 0px 25px 0px;
+                }
+                .tool-description{
+                    display: inline-block;
+                    align-self: flex-end;
+                    font-size: 0.875rem;
+                    margin-bottom: 0;
+                    @include breakpoint(sm-down) {
+                          // display: none;
+                           font-size: .75rem;
+                           margin-top:5px;
+                           line-height: 1.25rem;
+                    }
+                }
+                .tool-name{
+                    font-weight: 500;
+                    font-size: 24px;
+                    line-height: 31px;
+                    letter-spacing: -0.3px;      
+                    color: #000000;
+                    margin: 0;
+                    @include breakpoint(sm-down) {
+                           font-size: 1.2rem;
+                    }
+                }
+            }
+        }
+    }
+}
