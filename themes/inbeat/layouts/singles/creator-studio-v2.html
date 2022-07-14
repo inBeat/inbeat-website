@@ -16,10 +16,10 @@
                  <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
                  <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
                  <div class="cta">
-                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta" target="_blank">
                         {{- htmlUnescape .cta.text | markdownify -}}
                     </a>
-                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
+                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="creatorStudioVideoPopup">
                         <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
                     </a>
                 </div>
@@ -34,6 +34,15 @@
 {{- partial "site/switchers-accordian.html" . -}}
 {{- partial "site/whatwedo-v2.html" . -}}
 {{ partial "site-footer.html" . }}
+{{ $content :=  `<div class="content-video" style="padding-top: 50px;">
+    <iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="btn-cta">
+    <a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
+        <button class="btn"><span>Book a Demo</span></button>
+    </a>
+</div>` }}
+{{ partial "site/popup.html" (dict "context" . "id" "creatorStudioVideoPopup" "content" $content "canClose" true  ) }} 
 {{ partial "footer/scripts.html" . }}
 </body>
 </html>
