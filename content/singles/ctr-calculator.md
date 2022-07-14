@@ -2,27 +2,27 @@
 title: inBeat
 description: >-
   Inbeat
-slug: cpm-calculator
-layout: cpm-calculator
-title: CPM Calculator
-subtitle: "CPM Calculator"
+slug: ctr-calculator
+layout: ctr-calculator
+title: CTR Calculator
+subtitle: "CTR Calculator"
 hero:
-  title: Free CPM Calculator
+  title: Click-Through Rate (CTR) Calculator
   subtitle: >-
-    Calculate your cost per thousand & compare across different channels or multiple campaigns 
+    Calculate your click through rate for your ads & content across different channels or multiple campaigns 
 whatwedo:
-    title: Creator Studio
-    text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
+    title: UCG Platform
+    text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
     video: influencer-statistics  
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
     newBadge: true
 toolkits:
-    - title: CTR <br> Calculator
-      text: Calculate your Click-through-rate your ads & content across different channels.
-      icon: ctr-toolkit
-      url: ctr-calculator
+    - title: CPM <br> Calculator
+      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
+      icon: cpm-toolkit
+      url: engagement-rate-calculator-instagram
     - title: CPA <br> Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
       icon: cpa-toolkit
