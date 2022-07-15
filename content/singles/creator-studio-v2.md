@@ -50,8 +50,8 @@ features:
     text:  Use all generated content in paid ads, on your social media, or however you please. The inBeat license covers it all.
     link:
       text: Get started
-      link: 'features/export-contacts/'
-      external: false
+      link: https://calendly.com/inbeat-co/creator-studio-demo
+      external: true
 switchers:
     title: All of your content needs under one roof  
     video: UGCStudio_ContentTypesWidget
