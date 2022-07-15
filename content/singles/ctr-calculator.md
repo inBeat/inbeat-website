@@ -22,7 +22,7 @@ toolkits:
     - title: CPM <br> Calculator
       text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
       icon: cpm-toolkit
-      url: engagement-rate-calculator-instagram
+      url: cpm-calculator
     - title: CPA <br> Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
       icon: cpa-toolkit
