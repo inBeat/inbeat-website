@@ -13,8 +13,10 @@ $pink: #B85172;
     }
     .hero_cpm-header{
         padding-top: 128px;
+        width: 48.9%;
         @include breakpoint(sm-down) {
             padding-top: 32px;
+            width: 100%;
           }
       h1{
         font-weight: 500;

@@ -1,9 +1,11 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
 <section class="container mobile-adjusted" id="hero_cmp">
-    <div class="hero_cpm-header">
-        <h1>{{- .title | markdownify -}}</h1>
-        <h4>{{- .subtitle | markdownify -}}</h4>
+    <div style="display: flex;justify-content: center;">
+        <div class="hero_cpm-header">
+            <h1>{{- .title | markdownify -}}</h1>
+            <h4>{{- .subtitle | markdownify -}}</h4>
+        </div>
     </div>
 </section>
 {{- partial "site/ctr_calculator.html" . -}}
