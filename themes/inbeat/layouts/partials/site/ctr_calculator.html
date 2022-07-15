@@ -68,7 +68,6 @@
             }
             let newValue = e.target.value.replace(/\D/g, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
-            console.log(fieldName,this.totalClickValue,this.ctrValue,this.impressionsValue,newValue)
             if(!this.ctrValue && !this.impressionsValue || !this.impressionsValue && !this.totalClickValue || !this.ctrValue && !this.totalClickValue){
                 return // do not calculate anything
             }
@@ -76,7 +75,7 @@
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
-                if(fieldName === 'cpm') {
+                if(fieldName === 'ctr') {
                     // Not allowed
                     if(!this.impressionsValue){
                         this.calculateOtherField('impressions')
@@ -89,7 +88,7 @@
                 } else {
                     if(this.totalClickValue && this.impressionsValue){
                         // update CPM
-                        this.calculateOtherField('cpm')
+                        this.calculateOtherField('ctr')
                     }
                     else if(this.totalClickValue && this.ctrValue && fieldName !== 'impressions'){ 
                         // update impressions
@@ -103,16 +102,17 @@
             }
         },
         calculateOtherField(fieldName) {
-            console.log(this.totalClickValue / this.impressionsValue, this.totalClickValue,this.impressionsValue)
+            console.log('calc')
             switch(fieldName){
-                case 'cpm': 
+                case 'ctr': 
                 this.ctrValue = ((this.totalClickValue / this.impressionsValue) * 100).toFixed(3);
                 break;
                 case 'impressions':
-                    this.impressionsValue = (this.totalClickValue / this.ctrValue).toFixed(0);
+                    this.impressionsValue = ((this.ctrValue / 100) * this.totalClickValue).toFixed(0);
                     break;
                 case 'totalClick':
-                    this.totalClickValue = (this.ctrValue * this.impressionsValue).toFixed(0);
+                    console.log('hello')
+                    this.totalClickValue = ((this.ctrValue / 100) * this.impressionsValue).toFixed(0);
                     break;
             }
                     this.lastUpdatedField = fieldName;
@@ -148,7 +148,7 @@
             if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
                 return this[`${fieldName}Text`].length
             } else{
-                 return fieldName === 'totalClick' ? 5 :  fieldName === 'cpm' ? 2 :  1
+                 return fieldName === 'totalClick' ? 5 :  fieldName === 'ctr' ? 2 :  1
             }
         }
       },
@@ -161,7 +161,7 @@
         }
       },
       computed: {
-        cpmText() {
+        ctrText() {
             return this.ctrValue && this.ctrValue !== 'NaN' ? this.ctrValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.ctrValue = null;
         },
         impressionsText() {
@@ -244,7 +244,7 @@
                         <span class="--tooltip">The CTR, or click-through rate,<br> is the amount of clicks your content generated <br> divided by the number of times it was shown.</span>
                     </div>
                     <div class="input-wrapper" :class="{'--border':ctrValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :size="getInputSize('cpm')" ref="cpm">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'ctr')" :value="ctrText" type="text" placeholder="20" :size="getInputSize('ctr')" ref="ctr">
                         {{- partial "icons/percentage.html" -}}
                     </div>
                     <div class="copy-button_wrapper hide-sm" @click="copyValue($event,ctrValue)" @mouseleave="copied = false">
