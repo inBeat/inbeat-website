@@ -4,7 +4,7 @@
     padding-bottom: 6rem;
     text-align: center;
     @include breakpoint(sm) {
-        padding-top: 15.3125rem;
+        padding-top: 13.3125rem;
         padding-bottom: 128px;
     }
     &.has-banner{
@@ -64,6 +64,7 @@
         a:nth-child(2){
             padding-left: 20px;
             background-color: transparent;
+            color: #000000;
             span{
                padding-left: 20px;
                 padding-right: 20px;
