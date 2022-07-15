@@ -1,6 +1,6 @@
 ---
 layout: creator-studio
-slug: ugc-platform
+slug: ugc-platform-old
 title: inBeat Creator Studio | User-Generated Content Platform
 description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer

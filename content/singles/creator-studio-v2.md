@@ -2,7 +2,7 @@
 title: inBeat
 description: >-
   Inbeat
-slug: creator-studio
+slug: ugc-platform
 layout: creator-studio-v2
 title: Creator Studio
 subtitle: "creator-studio"
