@@ -5,7 +5,7 @@
             <div class="col-xs-12 col-md-5 feature_description-col">
                 <h2 class="feature_description-title">{{- .title -}}</h2>
                 <p class="feature_description-text">{{- .text | markdownify -}}</p>
-                <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}" target="_blank">
+                <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ if .link.external }}{{- .link.link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link.link -}}{{ end }}" target="_blank">
                     {{- htmlUnescape .link.text -}}
                     <span class="right-arrow-icon">{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
                 </a>
