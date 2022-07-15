@@ -6,6 +6,7 @@
     {{ partial "head/metadata-prefetch.html" . }}
     {{ partial "head/metadata-schemaorg.html" . }}
     {{ partial "head/metadata-favicons.html" . }}
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     {{ partial "head/styles.html" . }}
     {{- if getenv "IS_PROD" -}}
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
