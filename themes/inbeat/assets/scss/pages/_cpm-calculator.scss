@@ -580,19 +580,22 @@ $pink: #B85172;
                 }
             }
             .content{
-                padding: 50px 0px 25px 23px;
+                padding: 46px 0px 25px 23px;
                 @include breakpoint(sm-down) {
                     padding: 25px 0px 25px 0px;
                 }
                 .tool-description{
                     display: inline-block;
                     align-self: flex-end;
-                    font-size: 0.875rem;
-                    margin-bottom: 0;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 24px;
+                    letter-spacing: -0.3px;
+                    color: #141514;
+                    margin: 0;
                     @include breakpoint(sm-down) {
                           // display: none;
                            font-size: .75rem;
-                           margin-top:5px;
                            line-height: 1.25rem;
                     }
                 }
@@ -603,8 +606,10 @@ $pink: #B85172;
                     letter-spacing: -0.3px;      
                     color: #000000;
                     margin: 0;
+                    margin-bottom: 22px;
                     @include breakpoint(sm-down) {
-                           font-size: 1.2rem;
+                        font-size: 1.2rem;
+                        margin-bottom: 15px;
                     }
                 }
             }
