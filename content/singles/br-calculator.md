@@ -19,15 +19,15 @@ whatwedo:
       text: Learn More
     newBadge: true
 toolkits:
-    - title: CTR <br> Calculator
+    - title: CTR Calculator
       text: Calculate your Click-through-rate your ads & content across different channels.
       icon: ctr-toolkit
       url: ctr-calculator
-    - title: CPA <br> Calculator
+    - title: CPA Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
       icon: cpa-toolkit
-      url: collaboration-cost-calculator-instagram
-    - title: CPM <br> Calculator
+      url: cpa-calculator
+    - title: CPM Calculator
       text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
       icon: cpm-toolkit
       url: cpm-calculator

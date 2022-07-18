@@ -607,9 +607,11 @@ $pink: #B85172;
                     color: #000000;
                     margin: 0;
                     margin-bottom: 22px;
+                    width: 46.6%;
                     @include breakpoint(sm-down) {
                         font-size: 1.2rem;
                         margin-bottom: 15px;
+                        width: 100%;
                     }
                 }
             }
