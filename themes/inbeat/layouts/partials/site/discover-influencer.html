@@ -7,11 +7,6 @@
             <div class="video-carousel" data-flickity='{ "wrapAround": true }'>
                 {{- range .videos -}}
                 <div class="video-wrapper">
-                    <!-- <div class="dummy" @click.stop> -->
-                    </div>
-                    <!-- <video class="whatwedo_video" autoplay muted loop playsinline style="height: 512px; width: 287px">
-                        <source src="/videos/CreatorStudio_Snippet.mp4" />
-                    </video>  -->
                     <iframe height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
                 </div>
                 {{- end -}}
