@@ -54,7 +54,6 @@
                 @include breakpoint(sm-down) {
                     color: black;
                     border: none;
-                    animation: crazy 2s infinite;
                 }
             }
             span {

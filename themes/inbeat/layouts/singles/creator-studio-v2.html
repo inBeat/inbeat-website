@@ -6,7 +6,7 @@
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/gtm.html" . }}
-        {{ $content :=  `<div class="content-video" style="padding-top: 50px;"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank"><button class="btn"><span>Try it now</span> — it's free</button></a></div>` }}
+        {{ $content :=  `<div class="content-video" style="padding-top: 50px;"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank"><button class="btn"><span>Book a demo</button></a></div>` }}
 		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
 		{{ block "main" . }}
 		{{ end }}
@@ -18,7 +18,7 @@
                  <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
                  <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
                  <div class="cta">
-                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" id="hero-cta" target="_blank">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" target="_blank">
                         {{- htmlUnescape .cta.text | markdownify -}}
                     </a>
                     <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg popupTrigger" data-popup-id="videoPopup">
