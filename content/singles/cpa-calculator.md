@@ -31,6 +31,9 @@ toolkits:
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-free-toolkit
       url: engagement-rate-calculator-tiktok
+viewAll: 
+    link: free-toolkit
+    text: View all
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
