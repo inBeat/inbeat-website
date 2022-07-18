@@ -176,7 +176,7 @@
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box ">
                 <div class="header --green">
-                    Website visits <span class="question-circle --green_bg">
+                    Website Visits <span class="question-circle --green_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
                     <span class="--tooltip">The total number of visitors on a page <br> over a set period of time</span>
@@ -253,14 +253,14 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-            campaigns: ['Campaign 1'],
+            campaigns: ['Website 1'],
             ind : 2,
             isRefresh: false,
             activeTab: 'simple'
         },
     methods:{
         addCampaign(){
-            this.campaigns.push(`Campaign ${this.ind++}`)
+            this.campaigns.push(`Website ${this.ind++}`)
         },
         refresh(){
             this.isRefresh = !this.isRefresh
