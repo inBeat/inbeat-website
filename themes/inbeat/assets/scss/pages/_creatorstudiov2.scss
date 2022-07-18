@@ -96,6 +96,16 @@
         .video-wrapper{
             margin-right: 30px;
             cursor: pointer;
+            .vp-player-ui-overlays{
+                pointer-events: all;
+            }
+            .dummy{
+                height: 512px;
+                width: 287px;
+                background: black;
+                opacity: 0.1;
+                position: absolute;
+            }
         }
         .flickity-page-dots{
             display: none;
@@ -119,4 +129,7 @@
 }
 #what-we-do_creator-studio{
     background-color: #F9F7F7;
+}
+.player .vp-player-ui-overlays{
+    pointer-events: all !important;
 }
