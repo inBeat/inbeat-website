@@ -160,6 +160,16 @@
         template:  `
         <div>
     <div class="toolbox" v-if="tab === 'advance'" >
+        <div class="dropdown-wrapper">
+            <div class="dropdown">
+                <img src="/icons/dot.svg">
+                <a href="javascript:void(0)" v-html="campaign">
+                </a>
+                <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1 0.5L6.5 5.5L12 0.5" stroke="white" stroke-opacity="0.25"/>
+                </svg>
+            </div>
+        </div>
         <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
     </div>
     <div class="row cpm__input-row">
