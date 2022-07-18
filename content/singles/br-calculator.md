@@ -2,10 +2,10 @@
 title: inBeat
 description: >-
   Inbeat
-slug: bonus-rate-calculator
+slug: bounce-rate-calculator
 layout: br-calculator
-title: Bonus rate Calculator
-subtitle: "Bonus Rate Calculator"
+title: Bounce Rate Calculator
+subtitle: "Bounce Rate Calculator"
 hero:
   title: Free Bounce Rate Calculator
   subtitle: >-
