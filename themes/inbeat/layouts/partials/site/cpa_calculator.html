@@ -35,9 +35,9 @@
     Vue.component('input-row', {
         data: function () {
             return {
-                ctrValue : null,
-                impressionsValue: null,
-                totalClickValue: null,
+                cpaValue : null,
+                conversionsValue: null,
+                totalCostValue: null,
                 lastUpdatedField: '',
                 options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
                 selectedOption : {name:this.campaign,icon:'dot'},
@@ -68,54 +68,52 @@
             }
             let newValue = e.target.value.replace(/\D/g, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
-            if(!this.ctrValue && !this.impressionsValue || !this.impressionsValue && !this.totalClickValue || !this.ctrValue && !this.totalClickValue){
+            if(!this.cpaValue && !this.conversionsValue || !this.conversionsValue && !this.totalCostValue || !this.cpaValue && !this.totalCostValue){
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
-                if(fieldName === 'ctr') {
+                if(fieldName === 'cpa') {
                     // Not allowed
-                    if(!this.impressionsValue){
-                        this.calculateOtherField('impressions')
+                    if(!this.conversionsValue){
+                        this.calculateOtherField('conversions')
                     }
-                    else if(!this.totalClickValue){
-                        this.calculateOtherField('totalClick')
+                    else if(!this.totalCostValue){
+                        this.calculateOtherField('totalCost')
                     } else {
-                        this.calculateOtherField('totalClick')
+                        this.calculateOtherField('totalCost')
                     }
                 } else {
-                    if(this.totalClickValue && this.impressionsValue){
+                    if(this.totalCostValue && this.conversionsValue){
                         // update CPM
-                        this.calculateOtherField('ctr')
+                        this.calculateOtherField('cpa')
                     }
-                    else if(this.totalClickValue && this.ctrValue && fieldName !== 'impressions'){ 
-                        // update impressions
-                        this.calculateOtherField('impressions')
+                    else if(this.totalCostValue && this.cpaValue && fieldName !== 'conversions'){ 
+                        // update conversions
+                        this.calculateOtherField('conversions')
                     }
-                    else if(this.impressionsValue && this.ctrValue && fieldName !== 'totalClick'){
-                        // update totalClick
-                        this.calculateOtherField('totalClick')
+                    else if(this.conversionsValue && this.cpaValue && fieldName !== 'totalCost'){
+                        // update totalCost
+                        this.calculateOtherField('totalCost')
                     }
                 }
             }
         },
         calculateOtherField(fieldName) {
-            console.log('calc')
             switch(fieldName){
-                case 'ctr': 
-                this.ctrValue = ((this.totalClickValue / this.impressionsValue) * 100).toFixed(3);
-                break;
-                case 'impressions':
-                    this.impressionsValue = ((this.ctrValue / 100) * this.totalClickValue).toFixed(0);
+                case 'cpa': 
+                    this.cpaValue = (this.totalCostValue / this.conversionsValue).toFixed(0);
                     break;
-                case 'totalClick':
-                    console.log('hello')
-                    this.totalClickValue = ((this.ctrValue / 100) * this.impressionsValue).toFixed(0);
+                case 'conversions':
+                    this.conversionsValue = (  this.totalCostValue / this.cpaValue).toFixed(0);
                     break;
-            }
-                    this.lastUpdatedField = fieldName;
+                case 'totalCost':
+                    this.totalCostValue = (this.conversionsValue  * this.cpaValue).toFixed(0);
+                    break;
+                }
+            this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
@@ -148,27 +146,27 @@
             if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
                 return this[`${fieldName}Text`].length
             } else{
-                 return fieldName === 'totalClick' ? 5 :  fieldName === 'ctr' ? 2 :  1
+                 return fieldName === 'totalCost' ? 5 :  fieldName === 'cpa' ? 2 :  1
             }
         }
       },
       watch: {
         refresh(){
-            this.ctrValue = null
-            this.impressionsValue = null
-            this.totalClickValue = null
+            this.cpaValue = null
+            this.conversionsValue = null
+            this.totalCostValue = null
             this.lastUpdatedField = ''
         }
       },
       computed: {
-        ctrText() {
-            return this.ctrValue && this.ctrValue !== 'NaN' ? this.ctrValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.ctrValue = null;
+        cpaText() {
+            return this.cpaValue && this.cpaValue !== 'NaN' ? this.cpaValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.cpaValue = null;
         },
-        impressionsText() {
-            return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
+        conversionsText() {
+            return this.conversionsValue && this.conversionsValue !== 'NaN'  ? this.conversionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.conversionsValue = null;
         },
-        totalClickText() {
-            return this.totalClickValue && this.totalClickValue !== 'NaN' ? this.totalClickValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalClickValue = null;
+        totalCostText() {
+            return this.totalCostValue && this.totalCostValue !== 'NaN' ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalCostValue = null;
         },
       },
 
@@ -198,15 +196,16 @@
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box ">
                 <div class="header --green">
-                    Clicks <span class="question-circle --green_bg">
+                    Total Cost <span class="question-circle --green_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
-                    <span class="--tooltip">Total clicks your ad or content generated over the <br> life of the campaign</span>
+                    <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                 </div>
-                <div class="input-wrapper" :class="{'--border':totalClickValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalClick')" :value="totalClickText" type="text" placeholder="1,000"  ref="totalClick">
+                <div class="input-wrapper" :class="{'--border':totalCostValue}">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000"  ref="totalCost" :size="getInputSize('totalCost')">
+                    {{- partial "icons/doller.html" -}}
                 </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalClickValue)" @mouseleave="copied = false">
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
                     <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                     <span v-else class="--tooltip --sucess">Copied 
@@ -218,15 +217,15 @@
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box">
                 <div class="header --yellow">
-                    Impressions <span class="question-circle --yellow_bg">
+                    Conversions <span class="question-circle --yellow_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
-                    <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
+                    <span class="--tooltip">Conversions are the number of actions / <br>aquisitions generated over a set period of time</span>
                 </div>
-                <div class="input-wrapper" :class="{'--border':impressionsValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
+                <div class="input-wrapper" :class="{'--border':conversionsValue}">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'conversions')" :value="conversionsText"  type="text" placeholder="50,000" ref="conversions">
                 </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,impressionsValue)" @mouseleave="copied = false">
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,conversionsValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
                     <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                     <span v-else class="--tooltip --sucess">Copied 
@@ -237,17 +236,17 @@
             </div>
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box">
-                    <div class="header --pink" title="CPM">
-                        CTR <span class="question-circle --pink_bg">
+                    <div class="header --pink" title="CPA">
+                        CPA <span class="question-circle --pink_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
-                        <span class="--tooltip">The CTR, or click-through rate,<br> is the amount of clicks your content generated <br> divided by the number of times it was shown.</span>
+                        <span class="--tooltip">CPA (Cost Per Action) is essentially how much <br> you are paying to aquire a unique paying <br> customer.</span>
                     </div>
-                    <div class="input-wrapper" :class="{'--border':ctrValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'ctr')" :value="ctrText" type="text" placeholder="20" :size="getInputSize('ctr')" ref="ctr">
-                        {{- partial "icons/percentage.html" -}}
+                    <div class="input-wrapper" :class="{'--border':cpaValue}">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpa')" :value="cpaText" type="text" placeholder="20" :size="getInputSize('cpa')" ref="cpa">
+                        {{- partial "icons/doller.html" -}}
                     </div>
-                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,ctrValue)" @mouseleave="copied = false">
+                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,cpaValue)" @mouseleave="copied = false">
                         {{- partial "icons/copy-button.html" -}}
                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                     <span v-else class="--tooltip --sucess">Copied 
@@ -258,11 +257,8 @@
                 </div>
             </div>
             <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
-                <span v-if="ctrValue && ctrValue > 100">
-                    <span class="footer-heading" style="color: #D0718F;">The CTR cannot be more than 100% </span><br> as this would mean more clicks than ad impressions.
-                </span>
-                <span v-else-if="ctrValue && impressionsValue || impressionsValue && totalClickValue || ctrValue && totalClickValue">
-                    Use advanced mode to compare the CTR of <br> multiple campaigns.
+                <span v-if="cpaValue && conversionsValue || conversionsValue && totalCostValue || cpaValue && totalCostValue">
+                    Use advanced mode to compare the costs of <br> multiple campaigns.
                 </span>
                 <span v-else >
                 <span class="footer-heading">Fill in any 2 fields</span><br>

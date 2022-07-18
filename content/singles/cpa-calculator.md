@@ -26,7 +26,7 @@ toolkits:
     - title: CTR <br> Calculator
       text:  Calculate your click through rate for your ads & content across different channels or multiple campaigns.
       icon: ctr-toolkit
-      url: collaboration-cost-calculator-instagram
+      url: ctr-calculator
     - title: Bounce Rate <br>Calculator
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-free-toolkit
