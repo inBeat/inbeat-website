@@ -73,7 +73,7 @@ whatwedo:
     title: Get started with inBeat UGC studio
     text: Start generating high quality creator content & empower your brand with a scalable solution.
     id: what-we-do_creator-studio
-    newBadge: false 
+    newBadge: true 
     video: CreatorStudio_Snippet 
     cta:
       link: https://calendly.com/inbeat-co/creator-studio-demo
