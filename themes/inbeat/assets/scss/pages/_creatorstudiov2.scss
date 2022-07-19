@@ -74,6 +74,10 @@
 #cs_discover-influencer{
     margin-top: 137px;
     margin-bottom: 96px;
+    @include breakpoint(sm-down) {
+        margin-top: 105px;
+        margin-bottom: 64px;
+    }
     .discover-influencer-heading{
       margin: 0;
       font-weight: 500;
@@ -83,6 +87,9 @@
       letter-spacing: -0.3px;
       color: #141514;
       margin-bottom: 96px;
+      @include breakpoint(sm-down) {
+        margin-bottom: 64px;
+    }
     }
     .video-carousel{
         margin-left: -2rem;
@@ -128,6 +135,7 @@
 }
 #what-we-do_creator-studio{
     background-color: #F9F7F7;
+    
 }
 .player .vp-player-ui-overlays{
     pointer-events: all !important;
