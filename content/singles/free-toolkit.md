@@ -33,19 +33,19 @@ toolkits:
       url: top-influencers/tiktok
     - title: CPM Calculator
       text: Calculate your cost per 1000 impressions across different channels or multiple campaigns.
-      icon: freetoolkit-tiktok-topinfluencers
+      icon: cpm-calculator
       url: cpm-calculator
     - title: CTR Calculator
       text: Calculate your Click-through-rate your ads & content across different channels.
-      icon: freetoolkit-tiktok-topinfluencers
+      icon: ctr-calculator
       url: ctr-calculator
     - title: CPA Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
-      icon: freetoolkit-tiktok-topinfluencers
+      icon: cpa-calculator
       url: cpa-calculator
     - title: Bounce Rate Calculator
       text: Calculate the bounce rate for one or multiple websites or webpages.
-      icon: freetoolkit-tiktok-topinfluencers
+      icon: bounce-rate-calculator
       url: bnounce-rate-calculator
 
 ---
