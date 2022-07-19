@@ -188,7 +188,7 @@
             transition: all 0.3s ease-in-out;
         }
         @include breakpoint(sm-down) {
-            padding-bottom: 32px;
+            padding-bottom: 24px;
             border-bottom: 1px solid rgba(0, 0, 0, 0.15);
             margin-bottom: 16px;
         }
