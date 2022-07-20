@@ -20,64 +20,80 @@
             }
         }
     }
-	.toolkits {
-		.toolkit {
-            display: table;
-
-            width: 100%;
-            margin-top: 25px;
-            &:hover .inner{
-                border: 1px solid rgba(0, 0, 0, 1);
-                cursor: pointer;
-            }
-			.inner {
-                transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
-                display: flex;
-				border: 1px solid rgba(0, 0, 0, 0.20);
-				padding: 15px;
-                flex-direction: row-reverse;
+    .tools-card-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 48px;
+        row-gap: 33px;
+        @include breakpoint(sm-down) {
+        margin-top: 0px;
+        gap: 25px;
+        }
+    }
+    .tools {
+        width: 100%;
+        &:hover .inner{
+            border: 1px solid rgba(0, 0, 0, 1);
+            cursor: pointer;
+        }
+        .inner {
+            transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+            display: flex;
+            border: 1px solid rgba(0, 0, 0, 0.20);
+            padding: 15px;
+            flex-direction: row-reverse;
+            min-height: 238px;
+            @include breakpoint(sm-down) {
+                flex-direction: row;
+                padding: 10px 25px;
+                min-height: 150px;
                 .icon{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-right: 25px;
+                }
+            }
+            .icon{
+                @include breakpoint(sm) {
                     position: absolute;
                 }
+            }
+            .content{
+                padding: 46px 0px 25px 23px;
                 @include breakpoint(sm-down) {
-                    flex-direction: row;
-                    padding: 10px 25px;
-                    .icon{
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        margin-right: 25px;
-                    }
+                    padding: 25px 0px 25px 0px;
                 }
-                .content{
-                    padding: 50px 25px 25px 25px;
+                .tool-description{
+                    display: inline-block;
+                    align-self: flex-end;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 24px;
+                    letter-spacing: -0.3px;
+                    color: #141514;
+                    margin: 0;
                     @include breakpoint(sm-down) {
-                        padding: 25px 0px 25px 0px;
-                    }
-                    p{
-                        display: inline-block;
-                        align-self: flex-end;
-                        font-size: 0.875rem;
-                        margin-bottom: 0;
-                        margin-top: 22px;
-                        @include breakpoint(sm-down) {
-                              // display: none;
-                               font-size: .75rem;
-                               margin-top:5px;
-                               line-height: 1.25rem;
-                        }
-                    }
-                    h4{
-                        line-height: 31px;
-                        margin: 0;
-                        font-size: 1.5rem;
-                        font-weight: 500;
-                        @include breakpoint(sm-down) {
-                               font-size: 1.2rem;
-                        }
+                          // display: none;
+                           font-size: .75rem;
+                           line-height: 1.25rem;
                     }
                 }
-			}
-		}
-	}
+                .tool-name{
+                    font-weight: 500;
+                    font-size: 24px;
+                    line-height: 31px;
+                    letter-spacing: -0.3px;      
+                    color: #000000;
+                    margin: 0;
+                    margin-bottom: 22px;
+                    @include breakpoint(sm-down) {
+                        font-size: 1.2rem;
+                        margin-bottom: 15px;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
 }

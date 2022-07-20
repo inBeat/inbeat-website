@@ -6,21 +6,21 @@
     </section>
     <section class="toolkits container">
         <div class="row">
-            {{- range .Params.toolkits -}}
-
-                    <div class="toolkit col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                        <a href="{{ $.Site.BaseURL }}{{ .url }}">
-                        <div class="inner">
-                            <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
-                            <div class="content">
-                                <h4>{{ .title }}</h4>
-                                <p> {{ .text }}</p>
+            <div class="tools-card-wrapper">
+                {{- range .Params.toolkits -}}
+                        <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_blank">
+                            <div class="inner">
+                                <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
+                                <div class="content">
+                                    <h4 class="tool-name">{{- .title | markdownify -}}</h4>
+                                    <p class="tool-description"> {{ .text }}</p>
+                                </div>
                             </div>
+                        </a>
                         </div>
-                    </a>
-                    </div>
-
-            {{- end -}}
+                {{- end -}}
+            </div>
         </div>
     </section>
 </div>
