@@ -46,7 +46,7 @@
             border: 1px solid rgba(0, 0, 0, 0.20);
             padding: 15px;
             flex-direction: row-reverse;
-            min-height: 238px;
+            // min-height: 238px;
             @include breakpoint(sm-down) {
                 flex-direction: row;
                 padding: 10px 25px;
@@ -64,7 +64,7 @@
                 }
             }
             .content{
-                padding: 46px 0px 25px 23px;
+                padding: 35px 0px 25px 23px;
                 @include breakpoint(sm-down) {
                     padding: 25px 0px 25px 0px;
                 }
