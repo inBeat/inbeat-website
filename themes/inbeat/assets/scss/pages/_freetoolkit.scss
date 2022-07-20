@@ -32,6 +32,10 @@
     }
     .tools {
         width: 100%;
+        @include breakpoint(sm) {
+            padding-right: 1.031rem;
+            padding-left: 1.031rem;
+        }
         &:hover .inner{
             border: 1px solid rgba(0, 0, 0, 1);
             cursor: pointer;
