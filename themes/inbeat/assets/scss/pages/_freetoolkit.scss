@@ -36,6 +36,9 @@
 				border: 1px solid rgba(0, 0, 0, 0.20);
 				padding: 15px;
                 flex-direction: row-reverse;
+                .icon{
+                    position: absolute;
+                }
                 @include breakpoint(sm-down) {
                     flex-direction: row;
                     padding: 10px 25px;
@@ -56,6 +59,7 @@
                         align-self: flex-end;
                         font-size: 0.875rem;
                         margin-bottom: 0;
+                        margin-top: 22px;
                         @include breakpoint(sm-down) {
                               // display: none;
                                font-size: .75rem;
