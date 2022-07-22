@@ -63,10 +63,11 @@
             }
         },
         calculateCPM(e, fieldName){
-            if((/[^0-9]/g).test(e.target.value)){
-                e.target.value = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+            let digitRegex = fieldName === 'ctr' ? /[^.0-9]/g : /[^0-9]/g
+            if((digitRegex).test(e.target.value)){
+                fieldName === 'ctr' ? e.target.value = e.target.value.replace(digitRegex, '').replace(/,/g, '') : e.target.value = e.target.value.replace(digitRegex, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
             }
-            let newValue = e.target.value.replace(/\D/g, "").replace(/,/g, '')
+            let newValue = e.target.value.replace(digitRegex, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
             if(!this.ctrValue && !this.impressionsValue || !this.impressionsValue && !this.totalClickValue || !this.ctrValue && !this.totalClickValue){
                 return // do not calculate anything
@@ -102,19 +103,18 @@
             }
         },
         calculateOtherField(fieldName) {
-            console.log('calc')
             switch(fieldName){
                 case 'ctr': 
-                this.ctrValue = ((this.totalClickValue / this.impressionsValue) * 100).toFixed(3);
+                this.ctrValue = (( this.impressionsValue / this.totalClickValue) * 100).toFixed(2);
                 break;
                 case 'impressions':
-                    this.impressionsValue = ((this.ctrValue / 100) * this.totalClickValue).toFixed(0);
+                    this.impressionsValue = ((this.totalClickValue/this.ctrValue) * 100 ).toFixed(0);
                     break;
                 case 'totalClick':
-                    this.totalClickValue = ((this.ctrValue / 100) * this.impressionsValue).toFixed(0);
+                    this.totalClickValue = ((this.impressionsValue /this.ctrValue) * 100).toFixed(0);
                     break;
             }
-                    this.lastUpdatedField = fieldName;
+            this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
@@ -147,7 +147,13 @@
       },
       computed: {
         ctrText() {
-            return this.ctrValue && this.ctrValue !== 'NaN' ? this.ctrValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.ctrValue = null;
+            if(this.ctrValue && this.ctrValue !== 'NaN'){
+                let replaceWith = this.ctrValue.toString().includes('.') ? '' : ','
+                return this.ctrValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
+            }
+            else{
+                return this.ctrValue = null
+            }
         },
         impressionsText() {
             return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
