@@ -392,4 +392,37 @@ cpa_calculator:
       &#x25CF; Create engaging content and visuals in your ads (UGC content, for example).<br>
       &#x25CF; Make your offer and USP clear and appealing.<br>
       &#x25CF; Work on your ad copy to engage your audience.<br> 
-      &#x25CF; WMake the conversion process on your landing page easy.<br> 
+      &#x25CF; Make the conversion process on your landing page easy.<br> 
+bounce_rate_calculator:
+  - question: What is the bounce rate?
+    answer: >-
+        The bounce rate refers to the percentage of a website's visitors that closes the website without
+        performing a single action or visiting any other page. It often is assimilated to traffic quality or
+        landing page quality. A high bounce rate usually means that your page doesn't answer what the
+        user was looking for, is not loading fast enough, has errors, or that the traffic you send to the
+        page (via ads or other) isn't quality traffic.
+  - question: How to calculate bounce rate?
+    answer: >-
+          The bounce rate is calculated by dividing your single-page sessions by the total sessions on
+          your website.<br>
+          <b>Bounce Rate = Total of Single Page Sessions / Total of Sessions</b>
+  - question: What's considered a healthy bounce rate?
+    answer: >-
+          A bounce rate is considered "good" when it is under 40 percent, "average" if it's between 41 and
+          55 percent, and "mediocre" if it's between 56 and 70 percent. Any bounce rate above 70 percent
+          indicates very low page quality or traffic quality and that your strategy must be revisited or your
+          page edited.
+  - question: How to improve my website's bounce rate?
+    answer: >-
+        <b>Many factors can help improve your page bounce rate, whether it comes from technical
+        improvement or content improvement.<br></b>
+        &#x25CF; Improve your site speed.<br>
+        &#x25CF; Improve your website's mobile responsiveness<br>
+        &#x25CF; Fix any bug your page has<br>
+        &#x25CF; Capture attention early on your page<br> 
+        &#x25CF; Answer your target audience request early on the page.<br> 
+        &#x25CF; Use appealing calls to action and buttons to make visitors want to visit other pages.<br> 
+  - question: What's the difference between bounce rate and exit rate?
+    answer: >-
+          Exit rate refers to the percentage of visitors that end their visit or a specific page. Bounce rate
+          refers to visitors that exit your page without visiting any other page.
