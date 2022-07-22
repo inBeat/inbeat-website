@@ -362,4 +362,34 @@ ctr_calculator:
       &#x25CF; Testing and optimizing audience targeting.<br>
       &#x25CF; Writing more engaging ad copy.<br>
       &#x25CF; Promoting compelling offers<br>
-      &#x25CF; - Creating engaging visuals and content<br> 
+      &#x25CF; Creating engaging visuals and content<br> 
+cpa_calculator:
+  - question: What Does CPA Mean?
+    answer: >-
+      In marketing and advertising, CPA refers to the cost per acquisition. How much does it cost in
+      ad spent to get a lead, a conversion, an app install, or any other conversion metric used in your
+      KPI.
+  - question: Why measuring CPA is important
+    answer: >-
+      Measuring your cost per acquisition is one of the ultimate metrics to determine if your paid
+      media strategy or campaign is profitable or not. Make sure that you are determining a target
+      CPA beforehand. The CPA is the pulse that helps you decide between doubling down or
+      shutting down a campaign, ad group or creative.
+  - question: How do you calculate a CPA
+    answer: >-
+        The cost per acquisition formula is very straightforward, it equals your total cost divided by your
+        total conversion (or acquisition) :<br>
+        <b>CPA = Total Cost / Total Acquisitions</b>
+  - question: What is a good CPA
+    answer: >-
+        A good CPA depends on the service/product you promote. If you are advertising a free mobile
+        app, your target CPA will be lower than if you are selling a car, for example. As a rule of thumb,
+        you should target a CPA that would give you a ROAS (return on ad spend) higher than 2.
+  - question: How to lower the CPA of your PPC campaign
+    answer: >-
+      <b>Many levers can help lower your cost per acquisition:<br></b>
+      &#x25CF; Identify your target persona and target it in audience settings (A/B test different personas).<br>
+      &#x25CF; Create engaging content and visuals in your ads (UGC content, for example).<br>
+      &#x25CF; Make your offer and USP clear and appealing.<br>
+      &#x25CF; Work on your ad copy to engage your audience.<br> 
+      &#x25CF; WMake the conversion process on your landing page easy.<br> 
