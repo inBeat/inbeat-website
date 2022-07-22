@@ -13,7 +13,7 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                    <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+                    <input-row :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
             </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -40,8 +40,8 @@
                 totalClickValue: null,
                 lastUpdatedField: '',
                 options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
-                selectedOption : {name:this.campaign,icon:'dot'},
                 copied: false,
+                selectedOption : this.platform.name.includes('Campaign') ? {name:this.campaign,icon:'dot'} : this.platform,
             }
         },
         props:{
@@ -53,6 +53,9 @@
             },
             tab:{
                 type: String
+            },
+            platform:{
+                type: Object
             }
         },
         methods:{
@@ -124,7 +127,7 @@
             e.target.parentElement.parentElement.classList.add('--active_input-box')
         },
         deleteRow(e){
-            this.$emit('delete-row',this.campaign)
+            this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
             this.$refs.dropdown.classList.add('active')
@@ -138,6 +141,7 @@
             this.$refs.dropdown.classList.remove('active')
         },
         selectOption(option){
+            this.$emit('select-option',{name: this.campaign, platform: option})
             this.selectedOption = option
         },
         getImgUrl(pic) {
@@ -184,7 +188,6 @@
             <div class="dropdown"  @click.prevent="openDropdown" ref="dropdown">     
                <img :src="getImgUrl(selectedOption.icon)">
                 <a href="javascript:void(0)" v-html="selectedOption.name">
-                    Campaign
                 </a>
                 <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M1 0.5L6.5 5.5L12 0.5" stroke="black" stroke-opacity="0.25"/>
@@ -280,14 +283,22 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-            campaigns: ['Campaign'],
+            campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'}}],
             ind : 1,
             isRefresh: false,
             activeTab: 'simple'
         },
     methods:{
         addCampaign(){
-            this.campaigns.push(`Campaign ${++this.ind}`)
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+        },
+        selectOption(e){
+            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.campaigns[i].name === e.name ){
+                    this.campaigns[i].platform = e.platform
+                }
+            }
         },
         refresh(){
             this.isRefresh = !this.isRefresh
@@ -300,15 +311,12 @@
             }
         },
         deleteRow(e){
-            console.log(e)
             this.ind = 0
             this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
-                console.log(this.campaigns[i] !== e )
-                if(this.campaigns[i] !== e ){
-                    console.log(this.campaigns[i])
-                    newArr.push(`Campaign ${++this.ind}`)   
+                if(this.campaigns[i].name !== e.name ){
+                    newArr.push({name:`Campaign ${++this.ind}`,platform:this.campaigns[i].platform })   
                 }
             }
             this.campaigns = [...newArr]
