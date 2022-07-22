@@ -26,11 +26,11 @@ toolkits:
     - title: CPA <br> Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
       icon: cpa-toolkit
-      url: collaboration-cost-calculator-instagram
+      url: cpa-calculator
     - title: Bounce Rate <br>Calculator
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-free-toolkit
-      url: engagement-rate-calculator-tiktok
+      url: bounce-rate-calculator
 viewAll: 
   link: free-toolkit
   text: View all
