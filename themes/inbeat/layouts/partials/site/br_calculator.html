@@ -12,10 +12,10 @@
             </div>
         </div>
         <div class="row" id="cpm_calculator-section">
-            <div v-for="(campaign,i) in campaigns" :key="campaign" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+            <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
                     <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
             </div>
-            <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
+            <button v-if="activeTab === 'advance'" @click="addCampaign"  class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
                 {{- partial "icons/refresh.html" -}}
                 <span class="--tooltip">Clear & Start Over</span>
@@ -260,13 +260,13 @@
       el: '#cpm__calculator',
       data: {
             campaigns: ['Website 1'],
-            ind : 2,
+            ind : 1,
             isRefresh: false,
             activeTab: 'simple'
         },
     methods:{
         addCampaign(){
-            this.campaigns.push(`Website ${this.ind++}`)
+            this.campaigns.push(`Website ${++this.ind}`)
         },
         refresh(){
             this.isRefresh = !this.isRefresh
@@ -279,11 +279,12 @@
             }
         },
         deleteRow(e){
+            this.ind = 0
             this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i] !== e ){
-                    newArr.push(this.campaigns[i])   
+                    newArr.push(`Website ${++this.ind}`)   
                 }
             }
             this.campaigns = [...newArr]
