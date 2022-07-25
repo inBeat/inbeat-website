@@ -66,7 +66,7 @@
             }
         },
         calculateCPM(e, fieldName){
-            let digitRegex = fieldName === 'cpa' ? /[^.0-9]/g : /[^0-9]/g
+            let digitRegex = fieldName === 'cpa' || fieldName === 'totalCost' ? /[^.0-9]/g : /[^0-9]/g
             if((digitRegex).test(e.target.value)){
                 e.target.value = e.target.value.replace(digitRegex, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
             }
@@ -114,7 +114,7 @@
                     this.conversionsValue = (  this.totalCostValue / this.cpaValue).toFixed(0);
                     break;
                 case 'totalCost':
-                    this.totalCostValue = (this.conversionsValue  * this.cpaValue).toFixed(0);
+                    this.totalCostValue = (this.conversionsValue  * this.cpaValue).toFixed(2);
                     break;
                 }
             this.lastUpdatedField = fieldName;
@@ -177,7 +177,13 @@
             return this.conversionsValue && this.conversionsValue !== 'NaN'  ? this.conversionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.conversionsValue = null;
         },
         totalCostText() {
-            return this.totalCostValue && this.totalCostValue !== 'NaN' ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalCostValue = null;
+            if(this.totalCostValue && this.totalCostValue !== 'NaN'){
+                let replaceWith = this.totalCostValue.toString().includes('.') ? '' : ','
+                return this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
+            }
+            else{
+                return this.totalCostValue = null
+            }
         },
       },
 
