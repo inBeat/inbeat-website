@@ -45,7 +45,11 @@
 		margin-left: -2rem;
 		margin-right: -1.5rem;
 		display: flex;
-		overflow-x: scroll;
+		@include breakpoint(sm-down) {
+			width: 100%;
+			display: block;
+		}
+		// overflow-x: scroll;
 		.client-card{
 			margin-top: 50px;
 			@include breakpoint(lg) {
@@ -56,26 +60,28 @@
 			margin: 0;
 			overflow-x: hidden !important;
 		}
+		.flickity-prev-next-button{
+			display: none !important;
+		}
+		.flickity-slider{
+			left: 20px !important;
+		}
+		.flickity-viewport{
+
+			margin-right: -3rem;
+		}
+		.flickity-page-dots{
+			bottom: unset;
+			top: 0;
+		}
 	}
-	.clients_card-container > *:first-child {
-		padding-left: 2rem;
-		@include breakpoint(md) {
-			padding-left: 0;
-		}
-	  }
-	.clients_card-container > *:last-child {
-		padding-right: 1.5rem;
-		@include breakpoint(md) {
-			padding-right: 0;
-		}
-	  }
 	.box {
 		@include breakpoint(md-down) {
 			margin: 0.625rem;
 		}
 		display: flex;
 		.inner-box {
-			width: calc(100vw - 160px);
+			width: 240px;
 			background-color: $white;
 			padding: 45px 32px;
 			@include breakpoint(sm) {

@@ -135,37 +135,6 @@ function testimonial() {
             }
         }]
     });
-    var dots = document.querySelectorAll('.testimonial_circle');
-    if(dots.length > 0){
-        dots[0].classList.add('active')
-        dots.forEach(function(dot,index){
-            dot.addEventListener('click', function (e) {
-                dots.forEach(function(i){
-                    if(i.classList.contains('active')){
-                        i.classList.remove('active');
-                    }  
-                })
-                dot.classList.add('active');
-                scroll(document.querySelectorAll('.client-card')[index])
-            })
-        });
-    }
-    var scroll = function (el) {
-        var elLeft = el.offsetLeft + el.offsetWidth;
-        var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
-        if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
-            el.parentNode.scrollBy({
-                left: el.offsetLeft + el.parentNode.offsetLeft,
-                behavior: 'smooth',
-              })
-        } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
-              el.parentNode.scrollTo({
-                top: 0,
-                left: el.offsetLeft - el.parentNode.offsetLeft,
-                behavior: 'smooth'
-              })
-        }
-      }
 }
 
 function pricing() {
