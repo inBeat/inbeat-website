@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-xs-12">
             <h4 class="discover-influencer-heading">{{- .title | markdownify -}}</h4>
-            <div class="video-carousel" data-flickity='{ "wrapAround": true }'>
+            <div class="video-carousel" data-flickity='{ "wrapAround": true, "prevNextButtons": false, "pageDots": false }'>
                 {{- range .videos -}}
                 <div class="video-wrapper">
                     <iframe id="{{- .link -}}" height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>

@@ -35,6 +35,8 @@
         var elem = document.querySelector('.clients_card-container');
         var fliktityEl = new Flickity( elem, {
             wrapAround: true,
+            // freeScroll: true,
+            prevNextButtons: false,
         });
     }
     if(window.matchMedia("(max-width: 700px)").matches){
