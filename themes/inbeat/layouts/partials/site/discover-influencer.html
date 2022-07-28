@@ -7,7 +7,8 @@
             <div class="video-carousel" data-flickity='{ "wrapAround": true }'>
                 {{- range .videos -}}
                 <div class="video-wrapper">
-                    <iframe height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
+                    <iframe id="{{- .link -}}" height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
+                    <div class="video-cover" onClick="toggleVideo(this)"></div>
                 </div>
                 {{- end -}}
             </div>
@@ -17,3 +18,26 @@
 </section>
 {{- end -}}
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script>
+    var players = {};
+    var currentPlayId = '';
+    function handleSlider() {
+        var videos = document.querySelectorAll('.video-wrapper iframe');
+        videos.forEach(function(video) {
+            players[video.id] = new Vimeo.Player(video);
+        });
+    }
+    function toggleVideo(e) {
+        var vid = e.previousElementSibling.id;
+        var player = players[vid];
+        if (currentPlayId === vid) {
+            player.pause();
+            currentPlayId = '';
+        } else {
+            player.play();
+            currentPlayId = vid;
+        }
+    }
+    handleSlider();
+</script>
