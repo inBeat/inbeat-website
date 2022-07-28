@@ -108,34 +108,34 @@ function scrollAnchors(e, respond) {
     }, 100);
 }
 
-function testimonial() {
-    if(!window.jQuery) {
-        return;
-    }
-        $('.slider').slick({
-          slidesToShow: 6,
-          slidesToScroll: 1,
-          speed: 5000,
-          cssEase: 'linear',
-          autoplay: true,
-          autoplaySpeed: 0,
-          arrows: false,
-          dots: false,
-          pauseOnHover: false,
-          variableWidth: true,
-          responsive: [{
-            breakpoint: 768,
-            settings: {
-                slidesToShow: 3
-            }
-            }, {
-            breakpoint: 520,
-            settings: {
-                slidesToShow: 3
-            }
-        }]
-    });
-}
+// function testimonial() {
+//     if(!window.jQuery) {
+//         return;
+//     }
+//         $('.slider').slick({
+//           slidesToShow: 6,
+//           slidesToScroll: 1,
+//           speed: 5000,
+//           cssEase: 'linear',
+//           autoplay: true,
+//           autoplaySpeed: 0,
+//           arrows: false,
+//           dots: false,
+//           pauseOnHover: false,
+//           variableWidth: true,
+//           responsive: [{
+//             breakpoint: 768,
+//             settings: {
+//                 slidesToShow: 3
+//             }
+//             }, {
+//             breakpoint: 520,
+//             settings: {
+//                 slidesToShow: 3
+//             }
+//         }]
+//     });
+// }
 
 function pricing() {
     //set toggle 
@@ -533,5 +533,5 @@ function articleProgressBar() {
   banner();
   articleProgressBar();
   industries();
-  testimonial();
+//   testimonial();
 })();
