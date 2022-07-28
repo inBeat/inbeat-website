@@ -1,6 +1,10 @@
 .testimonials-influencer {
 	background-color: $light_grey;
 	padding-top: 64px;
+	@include breakpoint(sm-down) {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
     @include breakpoint(lg) {
         padding-top: 110px;
     }
@@ -20,30 +24,9 @@
 			line-height: 2rem;
 		}
 	}
-	.navigator{
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		width: 100%;
-		gap: 12px;
-		margin-bottom: 22px;
-		padding-top: 6px;
-
-		.testimonial_circle{
-			width: 8px;
-			height: 8px;
-			border-radius: 50%;
-			border: 1px solid #C4C4C4;
-		}
-		.active{
-			border:none;
-			padding: 1px;
-			background-color: black;
-		}
-	}
 	.clients_card-container{
-		margin-left: -2rem;
-		margin-right: -1.5rem;
+		// margin-left: -2rem;
+		// margin-right: -1.5rem;
 		display: flex;
 		@include breakpoint(sm-down) {
 			width: 100%;
@@ -68,7 +51,7 @@
 		}
 		.flickity-viewport{
 
-			margin-right: -3rem;
+			// margin-right: -3rem;
 		}
 		.flickity-page-dots{
 			bottom: unset;
