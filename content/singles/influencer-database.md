@@ -10,13 +10,15 @@ subtitle: "creator-studio"
 banner:
   show: true
 hero:
+  badgeText : Paid Resource  
   title: TikTok & Instagram<br>Influencer Database
   subtitle: >-
     A search engine to find Micro-Nano influencers in seconds
+  image: /images/features-quicksearch.png
   cta:
     text: >-
-      <span>Get started — it's free</span>
-    link: https://app.inbeat.co/get-started
+      <span>Book a demo — it's free</span>
+    link: "https://calendly.com/inbeat-co/inbeat-co-demo"
 features:
   - id: search
     # class: popupTrigger
