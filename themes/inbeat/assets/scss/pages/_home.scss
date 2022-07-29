@@ -320,8 +320,7 @@
         margin-top: 3.75rem;
     }
 }
-#freetoolkit-sec {
-    background-color: $light_grey;
+.freetoolkit-sec {
     padding: 3rem 1.25rem;
     @include breakpoint(md) {
         padding-top: 7.93rem;
@@ -435,4 +434,11 @@
 			}
 		}
 	}
+}
+#influencer-database-tools{
+    background-color: $light_grey;
+    .inner{
+        background-color: white;
+        border-color: 1px solid transparent;
+    }
 }
