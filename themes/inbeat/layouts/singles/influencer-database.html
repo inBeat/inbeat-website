@@ -21,7 +21,7 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
+            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ if .link.external }}{{- .link.link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link.link -}}{{end}}" target="_blank">
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
