@@ -1,143 +1,41 @@
-{{- define "main" -}}
-{{- with .Params.hero -}}
-<section class="container mobile-adjusted" id="hero">
-    <h1>{{- .title | markdownify -}}</h1>
-    <h4>{{- .subtitle | markdownify -}}</h4>
-    <div class="cta">
-        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Get started" id="hero-cta">
-            {{- htmlUnescape .cta.text | markdownify -}}
-        </a>
-        <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
-            <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
-        </a>
-    </div>
-</section>
-{{- end -}}
-
-{{- partial "site/testimonial.html" . -}}
-{{- range .Params.features -}}
-<section class="container m-tb-80 home-features" id="{{- .id -}}">
-    <div class="row">
-        <div class="col-xs-12 col-md-4 left-col">
-            <h2>{{- .title -}}</h2>
-            <p>{{- .text | markdownify -}}</p>
-            <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
-                {{- htmlUnescape .link.text -}}
-            </a>
-            {{- with .question -}}
-            <div id="tooltip-element" class="is-relative">
-                <p>
-                    <a title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
-                    <span class="tooltip left">
-                        {{- .tooltip -}}
-                    </span>
-                </p>
-            </div>
-            {{- end -}}
-        </div>
-        <div class="col-xs-12 col-md-7 col-md-offset-1">
-            <div class="icon-ctn">
-                <video autoplay muted loop playsinline>
-                    <source src="/videos/{{- .video -}}.mp4" />
-                    <!-- <source src="../static/video/10s.webm" type='video/webm; codecs="vp8, vorbis"' />
-                    <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' /> -->
-                </video>
-            </div>
-            <a  class="learn-more hide-md-up {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
-                {{- htmlUnescape .link.text -}}
-            </a>
-            {{- with .question -}}
-            <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md-up">{{- .text -}}</a>
-            {{- end -}}
-        </div>
-    </div>
-</section>
-{{- end -}}
-
-
-
-<section class="container m-tb-160 mobile-adjusted" id="extras">
-    <div class="row large-gutter">
-        {{- range .Params.extras -}}
-        <div class="col-xs-12 col-lg-4 ">
-            <div class="icon-ctn" id="{{- .icon -}}"></div>
-            <h3>{{- .title -}}</h3>
-            <p>{{- .text -}}</p>
-        </div>
-        {{- end -}}
-    </div>
-</section>
-
-{{- partial "site/ugc-global.html" . -}}
-
-{{- with .Params.startnow -}}
-<section class="container m-tb-160 mobile-adjusted" id="start-now">
-    <div class="row large-gutter">
-        <div class="col-xs-12 col-md-4 col1">
-            <h2>{{- .title -}}</h2>
-            <h4>{{- .description -}}</h4>
-            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
-                <span>Try it now</span> &#8212 it's free
-            </a>
-            <p class="signin">
-                Already in the family?
-                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
-            </p>
-        </div>
-        <div class="col-xs-12 col-md-8 hide-md">
-            <div class="icon-ctn"></div>
-        </div>
-    </div>
-</section>
-{{- end -}}
-
-<section id="freetoolkit-sec">
-    <div class="toolkits container">
-        <a href="{{- $.Site.BaseURL -}}free-toolkit" title="Free Toolkit" class="toolkit-title">
-            <h3>Expore our free tools</h3>
-            <svg viewBox="0 0 32 32" style="width: 30px; height: 30px; margin-top: -20px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>
-            <!-- <svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M1 1L8 8L1 15" stroke="black"/>
-                </svg> -->
-                
-        </a>
-        <div class="row">
-            {{- range .Params.toolkits -}}
-                    <div class="toolkit col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                        <a href="{{ $.Site.BaseURL }}{{ .url }}">
-                        <div class="inner">
-                            <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
-                            <div class="content">
-                                <h4>{{ .title }}</h4>
-                                <p> {{ .text }}</p>
-                            </div>
-                        </div>
+<!DOCTYPE html>
+<html lang="{{- $.Lang -}}">
+	{{ partial "site-head.html" . }}
+	<body>
+		{{ `<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->` | safeHTML }}
+		{{ partial "header/gtm.html" . }}
+        {{ $content :=  `<div class="content-video" style="padding-top: 50px;"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank"><button class="btn"><span>Book a demo</button></a></div>` }}
+		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
+		{{ block "main" . }}
+		{{ end }}
+        {{ partial "site-header-creator_studio.html" . }}
+        {{- with .Params.hero -}}
+        <section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                 <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+                 <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+                 <div class="cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" target="_blank">
+                        {{- htmlUnescape .cta.text | markdownify -}}
                     </a>
-                    </div>
-    
-            {{- end -}}
-        </div>
-    </div>
-</section>
-
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
-
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.tiktok "id" "home-faq" "title" "TikTok influencer discovery" "header" true) -}}
-
-
-<!-- <section class="container-fluid p-tb-80 mobile-adjusted" id="cta-home">
-    <div class="row m-tb-160">
-        <div class="col-xs-12 col-md-12 align-center">
-            <h2>Get Started</h2>
-            <h4>Dive into your influencer campaign<br>today, with inBeat.</h4>
-            <div class="cta-button">
-                <a href="https://calendly.com/inbeat-co/inbeat-co-demo" title="Try it now" class="btn btn-gradient btn-lg" target="_blank">
-                    <span><strong>Book a demo</strong> </span> &#8212 it's free
-                </a>
+                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg popupTrigger" data-popup-id="videoPopup">
+                        <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
+                    </a>
+                </div>
+                 </div>
             </div>
-
-        </div>
-    </div>
-</section> -->
-
-{{- end -}}
+        </section>
+        {{- end -}}
+{{- partial "site/discover-influencer.html" . -}}
+{{- partial "site/testimonial-with-cards.html" . -}}
+{{- partial "site/clients-creator-studio.html" . -}}
+{{- partial "site/features-v2.html" . -}}
+{{- partial "site/switchers-accordian.html" . -}}
+{{- partial "site/whatwedo-v2.html" . -}}
+{{ partial "site-footer.html" . }}
+{{ partial "footer/scripts.html" . }}
+</body>
+</html>
