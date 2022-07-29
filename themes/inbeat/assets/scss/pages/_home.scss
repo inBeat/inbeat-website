@@ -265,6 +265,7 @@
     }
 }
 #freetoolkit-sec {
+    background-color: $light_grey;
     padding: 3rem 1.25rem;
     @include breakpoint(md) {
         padding-top: 7.93rem;
