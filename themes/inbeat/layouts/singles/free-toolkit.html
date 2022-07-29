@@ -1,7 +1,7 @@
 {{- define "main" -}}
 <div id="freetoolkit" class="mt-120">
     <section class="container mobile-adjusted page-top " id="freetoolkit-header">
-        <h1>{{- .Params.titre -}}</h1>
+        <h1>{{- .Params.title -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section class="toolkits container">
@@ -14,7 +14,7 @@
                                 <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
                                 <div class="content">
                                     <h4 class="tool-name">{{- .title | markdownify -}}</h4>
-                                    <p class="tool-description"> {{ .text }}</p>
+                                    <p class="tool-description"> {{- .text | markdownify -}}</p>
                                 </div>
                             </div>
                         </a>

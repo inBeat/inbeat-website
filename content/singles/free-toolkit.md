@@ -4,9 +4,13 @@ description: >-
   Everything you need to assist you in influencer marketing
 slug: free-toolkit
 layout: free-toolkit
-titre: Free toolkit
+title: The Toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
+    - title: Instagram & TikTok <br>influencer database
+      text: A search engine to find Micro-Nano influencers in seconds.<strong>*Paid resource</strong> 
+      icon: database
+      url: influencer-database
     - title: Instagram Engagement <br>  Rate Calculator
       text: Gain insights on influencers with our rapid Instagram engagement checker.
       icon: freetoolkit-ig-engagement
