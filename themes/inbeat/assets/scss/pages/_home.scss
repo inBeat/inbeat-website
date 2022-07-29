@@ -339,6 +339,7 @@
         font-size: 42px;
         line-height: 52px;
         letter-spacing: -0.4px; 
+        margin: 0;
         @include breakpoint(sm-down) {
             font-size: 30px;
             line-height:36px;
@@ -353,6 +354,8 @@
     }
 	.toolkits {
         .row{
+            row-gap: 33px;
+            margin-top: 48px;
          @include breakpoint(sm-down) {
                 overflow-x: auto;
                 display: grid;
@@ -360,13 +363,19 @@
                 grid-auto-rows: 1fr;
                 margin: -1.25rem;
                 padding: 0.75rem;
+                margin-top: 32px;
+                row-gap: 8px;
             }
         }
 		.toolkit {
-            display: table;
-
             width: 100%;
-            margin-top: 25px;
+            // margin-top: 25px;
+            padding-right: 1.031rem;
+            padding-left: 1.031rem;
+            @include breakpoint(sm-down) {
+                padding-right: 0.25rem;
+                padding-left: 0.25rem;
+            }
             &:hover .inner{
                 border: 1px solid rgba(0, 0, 0, 1);
                 cursor: pointer;
@@ -377,35 +386,49 @@
 				border: 1px solid rgba(0, 0, 0, 0.20);
 				padding: 15px;
                 flex-direction: row-reverse;
+                position: relative;
                 @include breakpoint(sm-down) {
-                    padding: 33px 16px 47px 27px;
+                    padding: 14px 14px 47px 27px;
                     height: auto;
-                    width: 60vw;
+                    width: 70vw;
                     min-height: 120px;
                 }
+                .icon{
+                        position: absolute;
+                }
                 .content{
-                    padding: 50px 25px 25px 25px;
+                    padding: 35px 0px 25px 23px;
                     @include breakpoint(sm-down) {
                         padding: 0px;
                     }
                     p{
                         display: inline-block;
                         align-self: flex-end;
-                        font-size: 0.875rem;
-                        margin-bottom: 0;
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 24px;
+                        letter-spacing: -0.3px;
+                        color: #141514;
+                        margin: 0;
                         @include breakpoint(sm-down) {
-                               font-size: .875rem;
-                               margin-top:5px;
-                               line-height: 1.5rem;
+                              // display: none;
+                               font-size: .75rem;
+                               line-height: 1.25rem;
                         }
                     }
                     h4{
-                        line-height: 31px;
-                        margin: 0;
-                        font-size: 1.5rem;
                         font-weight: 500;
+                        font-size: 24px;
+                        line-height: 31px;
+                        letter-spacing: -0.3px;      
+                        color: #000000;
+                        margin: 0;
+                        margin-bottom: 22px;
                         @include breakpoint(sm-down) {
-                               font-size: 1rem;
+                            font-size: 1.2rem;
+                            margin-bottom: 15px;
+                            margin-top: 25px;
+                            width: 100%;
                         }
                     }
                 }
