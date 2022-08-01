@@ -3,13 +3,15 @@ title: Plans & Pricing | inBeat
 description: Flexible plans for different needs. No contracts and no hidden fees.
 slug: pricing
 layout: pricing
+banner:
+  show: false
 teasertrial:
   title: Take it for a spin
   description: Get a feel for the platform with our Teaser Plan. No credit card required. No trial period.
   cta:
     text: >-
-      <span>Try it for free</span> &#8212 No credit card
-    link: https://app.inbeat.co/get-started
+      <span>Book a demo</span> &#8212 It's free
+    link: https://calendly.com/inbeatapp/inbeat-demo?month=2021-09
   features:
     - has: true
       text: <span>Free</span> Forever
@@ -81,4 +83,18 @@ included:
     description: Export the influencers you selected and contact them directly.
   - title: Unlimited Campaigns
     description: Organize your influencer marketing efforts in individual campaigns.
+Pricing:
+  title: Creator Studio Pricing
+  rate: 300
+  socialElement:
+  - title: Creator Network
+    description: Access our network of vetted 30,000+ creators
+  - title: Influencer matching
+    description: Select your influencer targeting and get match with the right creators without doing any outreach
+  - title: Content Library
+    description: Access all of your influencer-generated content in one single click.
+  - title: Dedicated campaign strategist
+    description: Get the help of a dedicated campaign strategist to help you create a successful campaign.
+  - title: Unlimited copyrights to the content
+    description: Re-use the content in ads & repurpose it in various channels. 
 ---

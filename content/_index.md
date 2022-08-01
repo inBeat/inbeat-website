@@ -3,13 +3,15 @@ title: inBeat Influencer Database | Search TikTok and Instagram Influencers
 description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer
   database. Use our tools to search, vet and track your influencer marketing campaigns.
+banner:
+  show: true
 hero:
   title: TikTok & Instagram<br>Influencer Database
   subtitle: >-
     A search engine to find Micro-Nano influencers in seconds
   cta:
     text: >-
-      <span>Try it now</span> &#8212 it's free
+      <span>Get started — it's free</span>
     link: https://app.inbeat.co/get-started
 features:
   - id: search
@@ -40,11 +42,12 @@ features:
       tooltip: Our platform features influencers to whom we have no relationship to. We are a database of automatically added creators not a talent agency. 
     video: pick-out-the-bestest
   - id: export
+    class: popupTrigger
     title: Export for outreach
     text: >-
       Once your list is ready, you can export all <span>contact information</span> in a click. 
     link:
-      text: Learn more &#8594;
+      text: Watch Video &#8594;
       link: 'features/export-contacts/'
       external: false
     question:
@@ -63,12 +66,38 @@ extras:
     text: Keepin' it simple. We offer transparent fluffless pricing.
     icon: affordable-pricing
 whatwedo:
-    title: Gain insight with influencer performance analytics & statistics
-    text: Use our built-in influencer analytics tool to know exactly who you’re working with. Analyse Influencer performance & their past collaborations.
-    video: influencer-statistics 
+    title: Creator Studio
+    text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+    newBadge: true 
+    video: CreatorStudio_Snippet 
     cta:
-      link: https://app.inbeat.co/get-started
-      text: Try it now — it's free
+      link: https://www.inbeat.co/ugc-platform/
+      text: Learn More
+toolkits:
+    - title: Instagram Engagement Calculator
+      text: Gain insights on influencers with our rapid Instagram engagement checker.
+      icon: freetoolkit-ig-engagement
+      url: engagement-rate-calculator-instagram
+    - title: Instagram Money Calculator
+      text: Evaluate the potential cost for different types of influencer collaborations.
+      icon: freetoolkit-ig-money
+      url: collaboration-cost-calculator-instagram
+    - title: TikTok Engagement Calculator
+      text: Gain insights on influencers with our rapid TikTok engagement checker.
+      icon: freetoolkit-tiktok-engagement
+      url: engagement-rate-calculator-tiktok
+    - title: Instagram Fake Follower Checker
+      text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
+      icon: freetoolkit-pulsepodcast
+      url: fake-follower-checker
+    - title: Top Instagram Influencers 2021
+      text: Find the top influencers in any niche, country & city with our Top Lists.
+      icon: freetoolkit-ig-topinfluencers
+      url: top-influencers/instagram
+    - title: Top TikTok Influencers 2021
+      text: Find the top influencers in any niche, country & city with our Top Lists.
+      icon: freetoolkit-tiktok-topinfluencers
+      url: top-influencers/tiktok
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

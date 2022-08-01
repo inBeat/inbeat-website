@@ -1,5 +1,5 @@
 <div id="header-container">
-    {{- partial "site/banner.html" (dict "context" . "text" "See how it inBeat works" "url" "javascript:void(0)" "class" "popupTrigger" ) -}}
+    {{- partial "site/banner.html" (dict "context" . "text" "See how it works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
     <div class="container">
         <div class="row middle-xs between-xs" id="header">
             <div class="col-xs-6 col-sm-1 col-md-1">
@@ -94,13 +94,15 @@
                           </div>
                       </div>
                     </li>
+                    <li class="creator-studio"><a href="{{- $.Site.BaseURL -}}ugc-platform" title="Creator Studio">Creator Studio</a><span class="new-badge">NEW</span></li>
+                    <!-- <li><a href="https://teaminbeat.typeform.com/to/sLHT8z3M" target="_blank" title="Become a creator">Become a creator</a></li> -->
                 </ul>
             </div>
             <div class="col-xs-4 hide-sm">
                 <ul class="right">
                     <li class="cta">
-                        <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy-hover no-border" target="_blank">
-                            Book a demo
+                        <a href="{{- $.Site.Data.settings.signupLink -}}" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">
+                            Sign up
                         </a>
                     </li>
                 </ul>

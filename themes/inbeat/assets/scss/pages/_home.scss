@@ -169,6 +169,25 @@
 }
 
 #what-we-do {
+    .new-badge{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        padding: 0px 12px 2px;
+        width: 70px;
+        height: 30px;
+        background: linear-gradient(180deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
+        border-radius: 360px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        color: #141514;
+        margin-bottom: 1rem;
+    }
     background: $light_grey;
     padding: 50px auto;
     @include breakpoint(xs) {
@@ -244,4 +263,96 @@
     .cta-button{
         margin-top: 3.75rem;
     }
+}
+#freetoolkit-sec {
+    padding: 3rem 1.25rem;
+    @include breakpoint(md) {
+        padding-top: 7.93rem;
+        padding-bottom: 8rem;
+    }
+    .toolkit-title{
+        @include breakpoint(sm-down) {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+           }
+        h3{
+        font-weight: 500;
+        font-size: 42px;
+        line-height: 52px;
+        letter-spacing: -0.4px; 
+        @include breakpoint(sm-down) {
+            font-size: 30px;
+            line-height:36px;
+           }
+        }
+        svg{
+            display: block;
+            @include breakpoint(md) {
+                display: none;
+               }
+        }
+    }
+	.toolkits {
+        .row{
+         @include breakpoint(sm-down) {
+                overflow-x: auto;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-auto-rows: 1fr;
+                margin: -1.25rem;
+                padding: 0.75rem;
+            }
+        }
+		.toolkit {
+            display: table;
+
+            width: 100%;
+            margin-top: 25px;
+            &:hover .inner{
+                border: 1px solid rgba(0, 0, 0, 1);
+                cursor: pointer;
+            }
+			.inner {
+                transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+                display: flex;
+				border: 1px solid rgba(0, 0, 0, 0.20);
+				padding: 15px;
+                flex-direction: row-reverse;
+                @include breakpoint(sm-down) {
+                    padding: 33px 16px 47px 27px;
+                    height: auto;
+                    width: 60vw;
+                    min-height: 120px;
+                }
+                .content{
+                    padding: 50px 25px 25px 25px;
+                    @include breakpoint(sm-down) {
+                        padding: 0px;
+                    }
+                    p{
+                        display: inline-block;
+                        align-self: flex-end;
+                        font-size: 0.875rem;
+                        margin-bottom: 0;
+                        @include breakpoint(sm-down) {
+                               font-size: .875rem;
+                               margin-top:5px;
+                               line-height: 1.5rem;
+                        }
+                    }
+                    h4{
+                        line-height: 31px;
+                        margin: 0;
+                        font-size: 1.5rem;
+                        font-weight: 500;
+                        @include breakpoint(sm-down) {
+                               font-size: 1rem;
+                        }
+                    }
+                }
+			}
+		}
+	}
 }

@@ -1,0 +1,52 @@
+{{- $title := .title | default "Fairly asked questions" -}}
+{{- $header := .header  -}}
+<section class="container m-tb-192 mobile-adjusted faq" id="{{ .id }}">
+    <div class="row large-gutter">
+        <div class="col-xs-12 col-md-12 faq-header">
+            <h2>{{- $title -}}</h2>
+        </div>
+        {{ $len := (len .faq) }}
+        {{ $div := (div $len 2.0) }}
+        {{ $divToInt := (math.Ceil (div $len 2.0)) }}
+        <div class="col-lg-6 col-sm-12 col-xs-12">
+            {{ range first $divToInt .faq }}
+            <div class="accordion-item">
+                {{- if $header -}}
+                <h3 class="question accordion-heading">{{- .question -}}
+                    <svg class="active-ico" width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07122 10L15.142 10V8L9.07122 8L9.07122 1.92883L7.07122 1.92883L7.07122 8L1 8L1 10L7.07122 10L7.07122 16.0709L9.07122 16.0709L9.07122 10Z" fill="black"/>
+                    </svg>
+                </h3>
+                {{- else -}}
+                <p class="question accordion-heading">{{- .question -}}
+                    <svg class="active-ico" width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07122 10L15.142 10V8L9.07122 8L9.07122 1.92883L7.07122 1.92883L7.07122 8L1 8L1 10L7.07122 10L7.07122 16.0709L9.07122 16.0709L9.07122 10Z" fill="black"/>
+                    </svg>
+                </p>
+                {{- end -}}
+                <p class="small accordion-content">{{- .answer | markdownify -}}</p>
+            </div>
+            {{- end -}}
+        </div>
+        <div class="col-lg-6 col-sm-12 col-xs-12">
+            {{ range last $div .faq }}
+            <div class="accordion-item">
+                {{- if $header -}}
+                <h3 class="question accordion-heading">{{- .question -}}
+                    <svg class="active-ico" width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07122 10L15.142 10V8L9.07122 8L9.07122 1.92883L7.07122 1.92883L7.07122 8L1 8L1 10L7.07122 10L7.07122 16.0709L9.07122 16.0709L9.07122 10Z" fill="black"/>
+                    </svg>
+                </h3>
+                {{- else -}}
+                <p class="question accordion-heading">{{- .question -}}
+                    <svg class="active-ico" width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07122 10L15.142 10V8L9.07122 8L9.07122 1.92883L7.07122 1.92883L7.07122 8L1 8L1 10L7.07122 10L7.07122 16.0709L9.07122 16.0709L9.07122 10Z" fill="black"/>
+                    </svg>
+                </p>
+                {{- end -}}
+                <p class="small accordion-content">{{- .answer | markdownify -}}</p>
+            </div>
+            {{- end -}}
+        </div>
+    </div>
+</section>

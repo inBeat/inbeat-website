@@ -163,7 +163,88 @@ function scrollAnchors(e, respond) {
     }, 100);
 }
 
+function testimonial() {
+    if(!window.jQuery) {
+        return;
+    }
+        $('.slider').slick({
+          slidesToShow: 6,
+          slidesToScroll: 1,
+          speed: 5000,
+          cssEase: 'linear',
+          autoplay: true,
+          autoplaySpeed: 0,
+          arrows: false,
+          dots: false,
+          pauseOnHover: false,
+          responsive: [{
+            breakpoint: 768,
+            settings: {
+              slidesToShow: 3
+            }
+          }, {
+            breakpoint: 520,
+            settings: {
+              slidesToShow: 3
+            }
+          }]
+        });
+    var dots = document.querySelectorAll('.testimonial_circle');
+    dots[0].classList.add('active')
+    dots.forEach(function(dot,index){
+        dot.addEventListener('click', function (e) {
+            dots.forEach(function(i){
+                if(i.classList.contains('active')){
+                    i.classList.remove('active');
+                }  
+            })
+            dot.classList.add('active');
+            scroll(document.querySelectorAll('.client-card')[index])
+        })
+    });
+    var scroll = function (el) {
+        var elLeft = el.offsetLeft + el.offsetWidth;
+        var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
+        if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
+            el.parentNode.scrollBy({
+                left: el.offsetLeft + el.parentNode.offsetLeft,
+                behavior: 'smooth',
+              })
+        } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
+              el.parentNode.scrollTo({
+                top: 0,
+                left: el.offsetLeft - el.parentNode.offsetLeft,
+                behavior: 'smooth'
+              })
+        }
+      }
+}
+
 function pricing() {
+    //set toggle 
+    var toggle = document.querySelectorAll('.toggle-container')
+    if(toggle.length === 0){return}
+    var currentActive = toggle[0];
+    var creatorStudioActive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_database').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.add('--show')
+        document.querySelector('.pricing_database').classList.remove('--show')
+    };
+    var creatorStudioInactive = function (item) {
+        item.classList.add('--active')
+        document.querySelector('.toggle_creator-studio').classList.remove('--active')
+        document.querySelector('.pricing_creator-studio').classList.remove('--show')
+        document.querySelector('.pricing_database').classList.add('--show')
+    };
+    creatorStudioInactive(currentActive);
+
+    for (i = 0; i < toggle.length; i++) {
+        toggle[i].addEventListener('click', function (e) {
+            e.preventDefault();
+                this.classList.contains('toggle_creator-studio') ? creatorStudioActive(this) : creatorStudioInactive(this)
+        }, true);
+    }
     // Select pricing interval
     var schedule = document.getElementById('pricing-row');
     if (schedule) {
@@ -384,7 +465,6 @@ function faq() {
     var acc = document.getElementsByClassName('accordion-heading');
     if(acc.length === 0){return}
     var currentActive = acc[0];
-
     var toggleAccordionState = function (accordion) {
         accordion.nextElementSibling.classList.toggle("active");
         accordion.lastElementChild.classList.toggle('open');
@@ -396,7 +476,7 @@ function faq() {
         accordion.classList.remove("new-padding");
     };
 
-    toggleAccordionState(currentActive);
+    // toggleAccordionState(currentActive);
 
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener('mousedown', function (e) {
@@ -412,21 +492,51 @@ function faq() {
 
 function banner(){
     var banner = document.getElementById('banner');
-    var closeBtn = document.getElementById('close');
-    var hero = document.getElementById('hero');
-    if (getCookie('banner-hide')) {
-        banner.classList.add("hide-banner");
-        if(hero == null){return}hero.classList.remove('has-banner');
+    if(!banner) {
         return;
     }
+    var text = banner.querySelector('#popup-trigger')
+    var close = banner.querySelector('#close')
+    var closeBtn = document.getElementById('close');
+    var hero = document.getElementById('hero');
+    var hero_cmp = document.getElementById('hero_cmp');
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            banner.style.height =  '28px';
+            text.classList.remove("hide");
+            close.style.top = '0';
+        } else {
+            banner.style.height = "0px"
+            text.classList.add("hide");
+            close.style.top = '-30px'
+        }
+        prevScrollpos = currentScrollPos;
+    }
+    // if (getCookie('banner-hide')) {
+    //     banner.classList.add("hide-banner");
+    //     if(hero == null){return}hero.classList.remove('has-banner');
+    //     return;
+    // }
     banner.classList.remove("hide-banner");
     closeBtn.addEventListener('click', function (e) {
         e.preventDefault();
         setCookie('banner-hide', true, 60);
         banner.remove();
-        if(hero == null){return}hero.classList.remove('has-banner');
+        if(hero !== null){
+            hero.classList.remove('has-banner');
+        }
+        if(hero_cmp !== null){
+            hero_cmp.classList.remove('has-banner');
+        }
     })
-    if(hero == null){return}hero.classList.add('has-banner');
+    if(hero !== null){
+        hero.classList.add('has-banner');
+    }
+    if(hero_cmp !== null){
+        hero_cmp.classList.add('has-banner');
+    }
 }
 
 function articleProgressBar() {
@@ -533,6 +643,7 @@ function dropdown() {
 
 (function () {
     scrollTo();
+    header();
     home();
     pricing();
     affiliate();
@@ -541,7 +652,7 @@ function dropdown() {
     faq();
     banner();
     articleProgressBar();
-    header();
+    testimonial();
     navigation();
     dropdown();
 })();

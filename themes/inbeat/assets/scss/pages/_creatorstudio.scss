@@ -1,7 +1,23 @@
 #creator-studio-hero{
     #hero{
+        h1{
+            @include breakpoint(lg) {
+                font-size: 3.75rem;
+                font-weight: 700;
+                line-height: 4.25rem;
+                letter-spacing: -1px;
+            } 
+        }
+        h4{
+            @include breakpoint(lg) {
+                font-weight: 400;
+                font-size: 1.125rem;
+                line-height: 1.175rem;
+                letter-spacing: 0.03em;
+            } 
+        }
         @include breakpoint(sm) {
-            padding-top: 26vh;
+            padding-top: 23vh;
         }
         padding-top: 20vh;
         padding-bottom: 0;
@@ -41,8 +57,13 @@
         width: 100%;
         position: relative;
         margin-top: -5.125rem;
-        img{
-            width: 100%;
+        iframe{
+            width: 1238px;
+            height: 689px;
+            @include breakpoint(sm-down) {
+                width: 100%;
+                height: 100%;
+            }
         }
     }
     #clients {
@@ -81,12 +102,113 @@
         }
     }
 }
+#pricing{
+    &.--within-cs {
+        display: block !important;
+    }
+    @include breakpoint(lg) {  
+        margin-top: 128px;
+    }
+    .studio-pricing__title{
+        text-align: center;
+        font-weight: 500;
+        margin-bottom: 0;
+        @include breakpoint(lg) {  
+            font-size: 3.5rem;
+            line-height: 4rem;
+            letter-spacing: -1.4px;
+        }
+    }
+    .container{
+        .plan{
+            padding: 34px 0 !important;
+        }
+        #business{
+            .row{
+                // @include breakpoint(lg) {
+                //    padding-right: 50px;
+                // } 
+                .content-wrapper{
+                    padding: 0;
+                    @include breakpoint(sm-down) {
+                        padding: 0px 53px;
+                        text-align: center;
+                    } 
+                }
+            }
+            margin-top: 54.5px;   
+            // @include breakpoint(lg) {
+            // }
+            .content{
+                p{
+                    font-weight: 400;
+                    font-size: 1.125rem;
+                    line-height: 1.75rem;
+                }
+                h2{
+                    font-size: 500;
+                    font-size: 3.5rem;
+                    line-height: 3.875rem;
+                    letter-spacing: -1.4px;
+                }
+                .btn{
+                    margin-top: 39px;
+                }
+            }
+            .featured-business{
+              padding: 0px 53px;
+                margin: 0;
+                .feature-title{
+                    font-weight: 400;
+                    font-size: 18px;
+                    line-height: 28px;
+                    color: #141514;
+                    opacity: 0.5;
+                }
+                .feature-list__wrap {
+                    display: flex;
+                    flex: 1 1 0;
+                    gap: 56px;
+                    @include breakpoint(md-down) {
+                        flex-wrap: wrap;
+                        gap: 0px;
+                    }
+                }
+                .includes-title{
+                    display: flex;
+                    align-items: center;
+                    p{
+                        display: block;
+                        margin: 0;
+                        margin-top: -1px;
+                        font-weight: 500;
+                        font-size: 18px;
+                        line-height: 28px;
+                        padding-left: 9px;
+                        // padding-left: 9px;
+                    }
+                }
+                .includes-description{
+                    display: block;
+                    margin: 0;
+                    // margin-top: -1px;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 22px;
+                    opacity: 0.7;
+                    margin-bottom: 32px;
+                }
+            }
+        }
+    }
+}
 #infos-block{
     margin-top: 2.5rem;
     @include breakpoint(md) {
         margin-top: 7.5rem;
     }
     .info-element{
+        box-sizing: border-box;
         margin-top: 2.5rem;
         margin-bottom: 2.5rem;
         padding: 3.125rem;

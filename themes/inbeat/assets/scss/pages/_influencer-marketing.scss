@@ -1,0 +1,361 @@
+#hero-influencer {
+    padding-top: 8.50rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    .hero-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
+    .hero-sub_title{
+            margin-bottom: 3rem;
+            font-size: 1.375rem;
+            @include breakpoint(sm-down) {
+            font-size: 1.125rem;
+            line-height: 1.75rem;
+            margin-top: 0;
+            }
+    }
+    .hero-title{
+        font-size: 2.75rem;
+        margin-bottom: 2rem;
+        @include breakpoint(sm-down) {
+            margin-bottom: 1.5rem;
+        }
+        @include breakpoint(lg) {
+            font-weight: 700;
+            line-height: 78px;
+           font-size: 4.75rem;
+        }
+    }
+    @include breakpoint(sm) {
+        padding-top: calc(50vh - 15.625rem);
+        padding-bottom: calc(50vh - 18rem);
+    }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
+
+    h4 {
+        width: 100%;
+        margin-bottom: 4rem;
+        @include breakpoint(sm) {
+            margin: auto;
+            margin-bottom: 5rem;
+        }
+    }
+    .cta {
+        a {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+            color: white;
+            @include breakpoint(31.25rem) {
+                width: 16.75rem;
+            }
+            @include breakpoint(sm) {
+                display: inline-block;
+                margin: 0;
+                &:first-child {
+                    margin-right: 20px;
+                }
+            }
+            &#hero-cta {
+                @include breakpoint(sm-down) {
+                    border: none;
+                }
+            }
+            span {
+                font-weight: bold;
+            }
+        }
+        a:nth-child(2){
+            padding-left: 20px;
+            span{
+               padding-left: 20px;
+                padding-right: 20px;
+            }
+        }
+    }
+}
+
+#clients-influencer {
+    .row {
+        margin: 0;
+    }
+    .icons {
+        @include breakpoint(md-down) {
+            flex-basis:33.33333%;
+            &:nth-child(3n + 2) {
+                text-align: center;
+            }
+            &:nth-child(3n) {
+                text-align: right;
+            }
+            svg {
+                margin-bottom: 1rem;
+            }
+        }
+        @include breakpoint(sm-down) {
+            svg {
+                max-width: 70%;
+                max-height: 2.5rem;
+            }
+        }
+    }
+    svg {
+        fill: $dark;
+    }
+}
+
+.home-features-influencer {
+    .row{
+      @include breakpoint(sm-down) {
+        margin: 0;
+      }
+    }
+    padding: 40px 32px 32px 32px;
+    box-sizing: border-box;
+    outline: none !important;
+    @include breakpoint(sm) {
+        padding: 58px 55px 0px 51px;
+    }
+    &#search-influencer {
+        background-color: #EDF9EB;
+    }
+    &#pick-influencer {
+        background-color: #EBF9F1;
+    }
+    &#export-influencer {
+        background-color: #EBF6F9;
+    }
+    .left-col {
+        position: relative;
+    }
+    p {
+        @include breakpoint(md) {
+            margin-bottom: 4rem;
+        }
+        @include breakpoint(sm-down) {
+            margin-bottom: 32px;
+        }
+        span {
+            font-weight: bold;
+        }
+    }
+    h2 {
+        @include breakpoint(md) {
+            margin-bottom: 2rem;
+        }
+        @include breakpoint(sm-down) {
+            font-size: 36px;
+            line-height: 42px;
+            font-weight: 400;
+            letter-spacing: -1px;
+        }
+    }
+    a.learn-more {
+        font-weight: 400;
+        display: block;
+        font-size: 1rem;
+        line-height: 1rem;
+        padding-bottom: 20px;
+        border-bottom: 1px solid $dark;
+        margin-bottom: 0;
+        @include breakpoint(md) {
+            margin-bottom: 4rem;
+        }
+    }
+    a.question {
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        color: $dark_sub;
+        text-decoration: underline;
+        @include breakpoint(md) {
+            position: absolute;
+            bottom: 0;
+            left: 0.5rem;
+        }
+    }
+    .icon-ctn {
+        position: relative;
+        width: 100%;
+        height: auto;
+        margin-bottom: 1.5rem;
+        @include breakpoint(md) {
+            padding-bottom: 64px;border-bottom:1px solid rgba(0, 0, 0, 0.15);margin-bottom: 0px;
+        }
+        img {
+            width: 100%    !important;
+            height: 100%   !important;
+        }
+    }
+    .use-cases{
+        display: none;
+        align-items: baseline;
+        justify-content: space-between;
+        @include breakpoint(md) {
+            display: flex;
+        }
+        .use-case{
+            width: 12rem;
+            padding: 44px 0px;
+            @include breakpoint(md) {
+                padding-bottom: 56px;
+            }
+            p{
+                margin: 0;
+                font-weight: 400;
+                line-height: 22px;
+                font-size: 14px;
+            }
+        }
+        .use_case-title{
+            display: flex;
+            align-items: center;
+            p{
+                display: block;
+                margin: 0;
+                margin-top: -1px;
+                font-weight: 500;
+                line-height: 26px;
+                font-size: 16px;
+                padding-left: 9px;
+            }
+        }
+    }
+}
+
+
+
+#extras {
+    .icon-ctn {
+        position: relative;
+        width: 4.6875rem;
+        height: 4.6875rem;
+    }
+    h3 {
+        margin-top: 20px;
+    }
+}
+
+#what-we-do-influencer {
+    background: $light_green;
+    padding: 32px 20px 64px;
+    text-align: center;
+    .cta-title{
+        margin-top: 2rem;
+        font-weight: 400;
+        font-size: 2.25rem;
+        line-height: 2.62rem;
+        letter-spacing: -1px;
+        @include breakpoint(md) {
+            font-weight: 500;
+            font-size: 3.5rem;
+            line-height: 4rem;
+            letter-spacing: -1.4px;
+        }
+    }
+    .whatwedo-btn{
+        &:hover{
+            opacity: 0.9;
+        }
+    }
+    @include breakpoint(xs) {
+        padding: 32px 20px 64px;
+        .cta-title{
+            margin-top: 2rem;
+            margin-bottom: 24px !important;
+        }
+    }
+    @include breakpoint(sm) {
+        padding: 128px 51px;
+        .cta-title{
+            margin-bottom: 32px !important;
+            margin-top: 0;
+        }
+    }
+    @include breakpoint(md) {
+        .cta-title{
+            text-align: left;
+        }
+    }
+    img {
+        width: 100%;
+        // margin-bottom: 32px;
+        border-radius: 5px;
+        @include breakpoint(md) {
+            width: 495px;
+            border-radius: 10px;
+        }
+    }
+    .row{
+        display: flex;
+        align-items: center;
+        @include breakpoint(sm-down) {
+            margin: 0;
+        }
+        p{
+            margin-bottom: 0rem !important;
+            text-align: center;
+            @include breakpoint(md) {
+                opacity: 0.75;
+                text-align: left;
+            }  
+        }
+        .cta{
+            a{
+                border: none;
+                display: block;
+                width: 100%;
+                margin-top: 2rem;
+                @include breakpoint(md) {
+                    width: max-content;
+                    margin-top: 3rem;
+                }  
+            }
+            margin: 0rem 0px 0rem 0px !important;
+        }
+    }
+}
+
+// cta-affiliate is from affiliate page, but same styling
+#start-now, #cta-affiliate {
+    .col1 {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    h4 {
+        margin-bottom: 3rem;
+        @include breakpoint(md) {
+            margin-bottom: 3.5rem;
+        }
+    }
+    p.signin {
+        margin-top: 2.5rem;
+        font-size: 0.6875rem;
+        a {
+            font-size: inherit;
+            text-decoration: underline;
+        }
+    }
+    .icon-ctn {
+        background: $yellow_sub;
+        width: 100%;
+        height: 100%;
+    }
+    .btn span {
+        font-weight: bold;
+    }
+}
+
+#cta-home{
+    border-top: 1px solid black;
+    &.no-border{
+        border-top:none !important;
+    }
+    .cta-button{
+        margin-top: 3.75rem;
+    }
+}

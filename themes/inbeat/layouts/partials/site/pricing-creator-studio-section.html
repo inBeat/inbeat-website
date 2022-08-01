@@ -1,0 +1,49 @@
+<section class="pricing_creator-studio" id="pricing">
+    {{- with .Params.Pricing -}}
+    <div class="col-xs-12 pricing-header">
+        <h1>{{- .title -}}</h1>
+        <p class="pricing-schedule">
+            <span id="monthly-schedule" style="font-weight: 700;">Billed Yearly</span>
+        </p>
+    </div>
+    <div class="container">
+        <div class="plan" id="business">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 content-wrapper">
+                    <div class="content">
+                        <h2 class="cs-pricing__heading">
+                            Schedule a demo
+                        </h2>
+                            <a class="btn btn-md btn-crazy" style="margin-top: 34px;" href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
+                                Book a demo
+                            </a>
+                            <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-md btn-outline popupTrigger" data-popup-id="creatorStudioVideoPopup">
+                                <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
+                            </a>
+                    </div>
+                </div>
+            <div class="features col-xs-12 col-sm-6 col-md-7 col-lg-8 featured-business">
+                <p class="feature-title">What it includes</p>
+                <div class="feature-list__wrap">
+                    {{ $len := (len .socialElement) }}
+                    {{ $div := (math.Floor (div $len 2.0)) }}
+                    {{ $divToInt := (math.Ceil (div $len 2.0)) }}
+                    <div>
+                        {{ range first $divToInt .socialElement }}
+                            <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
+                            <p class="includes-description">{{- .description -}}</p>
+                        {{- end -}}
+                    </div>
+                    <div>
+                        {{ range last $div .socialElement }}
+                            <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
+                            <p class="includes-description">{{- .description -}}</p>
+                        {{- end -}}
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+</div>
+{{- end -}}
+</section>

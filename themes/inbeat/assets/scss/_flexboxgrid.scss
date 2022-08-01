@@ -569,6 +569,12 @@
     max-width: 33.33333333%;
   }
 
+  .col-md-4_5 {
+    -ms-flex-preferred-size: 38%;
+    flex-basis: 38%;
+    max-width: 38%;
+  }
+
   .col-md-5 {
     -ms-flex-preferred-size: 41.66666667%;
     flex-basis: 41.66666667%;
@@ -730,7 +736,7 @@
 
 @media only screen and (min-width: 75em) {
   .container {
-    width: 76rem;
+    width: 76.8rem;
   }
 
   .col-lg,
