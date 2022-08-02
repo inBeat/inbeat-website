@@ -83,6 +83,8 @@ testimonials:
   secondrow: true
 clients:
   id: clients_creator-studio
+banner:
+  show: false
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

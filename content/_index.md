@@ -11,6 +11,8 @@ hero:
     text: >-
       <span>Book a demo — it's free</span>
     link: https://calendly.com/inbeat-co/creator-studio-demo
+banner:
+  show: true
 discoverInfluencer:
     title: Some content from our Creators
     videos:
