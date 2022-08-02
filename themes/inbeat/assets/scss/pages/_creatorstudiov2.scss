@@ -96,6 +96,8 @@
         margin-right: -2rem;
         -ms-overflow-style: none;  /* Internet Explorer 10+ */
         scrollbar-width: none;  /* Firefox */
+        max-height: 512px;
+        overflow-y: hidden;
         iframe{
             border-radius: 8px;
         }
