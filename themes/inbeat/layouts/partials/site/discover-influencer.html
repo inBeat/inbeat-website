@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-xs-12">
             <h4 class="discover-influencer-heading">{{- .title | markdownify -}}</h4>
-            <div class="video-carousel" data-flickity='{ "wrapAround": true, "prevNextButtons": false, "pageDots": false }'>
+            <div class="video-carousel">
                 {{- range .videos -}}
                 <div class="video-wrapper">
                     <iframe id="{{- .link -}}" height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
@@ -39,5 +39,34 @@
             currentPlayId = vid;
         }
     }
+    function handleVideoCarousel(){
+        var elem = document.querySelector('.video-carousel');
+        var fliktityEl = new Flickity( elem, {
+            wrapAround: true, prevNextButtons: false, pageDots: false 
+        });
+        function flickity_handle_wheel_event(e, flickity_instance, flickity_is_animating) {
+          if (!flickity_is_animating) {    
+            // pick the larger of the two delta magnitudes (x or y) to determine nav direction
+            var direction = (Math.abs(e.deltaX) > Math.abs(e.deltaY)) ? e.deltaX : e.deltaY;
+            if (direction > 0) {
+              flickity_instance.next();
+            } else {
+              flickity_instance.previous();
+            }
+          }
+        }
+        var fliktityEl_is_animating = false;
+        fliktityEl.on("settle", function(index) {
+          fliktityEl_is_animating = false;
+        });
+    
+        fliktityEl.on("select", function(index) {
+          fliktityEl_is_animating = true;
+        });
+        elem.onwheel = function(e) {
+          flickity_handle_wheel_event(e, fliktityEl, fliktityEl_is_animating);
+        }
+    }
+    handleVideoCarousel()
     handleSlider();
 </script>
