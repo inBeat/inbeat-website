@@ -1,8 +1,7 @@
 ---
 title: inBeat Creator Studio
 description: >-
-  Search and find TikTok and Instagram influencers in our spam-checked influencer
-  database. Use our tools to search, vet and track your influencer marketing campaigns.
+  The creator studio is a platform that allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content. 
 hero:
   title: UGC Content<br> Creation Platform
   subtitle: >-
