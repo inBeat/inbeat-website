@@ -69,10 +69,10 @@ switchers:
         icon: play-icon
         text: Get high quality lifestyle shots to showcase your content in a real-world-use scenario to better target your audience..
 whatwedo:
-    title: Get started with inBeat UGC studio
+    title: Get started with inBeat UGC Platform
     text: Start generating high quality creator content & empower your brand with a scalable solution.
     id: what-we-do_creator-studio
-    newBadge: true 
+    newBadge: false 
     video: CreatorStudio_Snippet 
     cta:
       link: https://calendly.com/inbeat-co/creator-studio-demo
