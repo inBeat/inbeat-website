@@ -42,13 +42,14 @@
     </div>
 </section> -->
 {{- end -}}
-{{- partial "site/pricing-toggle-section.html" . -}}
-{{- partial "site/pricing-database-section.html" . -}}
+<!-- {{- partial "site/pricing-toggle-section.html" . -}} -->
+<!-- {{- partial "site/pricing-database-section.html" . -}} -->
 {{- partial "site/pricing-creator-studio-section.html" . -}}
 
-{{- partial "site/testimonial.html" . -}}
+{{- partial "site/testimonial-with-cards.html" . -}}
+{{- partial "site/clients-creator-studio.html" . -}}
 
-<section class="container mobile-adjusted m-tb-160" id="included">
+<!-- <section class="container mobile-adjusted m-tb-160" id="included">
     <div class="row">
         <div class="col-xs-12 col-md-4">
             <div class="aside-content">
@@ -71,7 +72,7 @@
             {{- end -}}
         </div>
     </div>
-</section>
+</section> -->
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.pricing "id" "pricing-faq") -}}
 {{ $content :=  `<div class="content-video" style="padding-top: 50px;">
