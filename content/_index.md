@@ -4,7 +4,7 @@ description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer
   database. Use our tools to search, vet and track your influencer marketing campaigns.
 hero:
-  title: Create high quality UGC on demand
+  title: UGC Content<br> Creation Platform
   subtitle: >-
     inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale
   cta:
