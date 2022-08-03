@@ -1,14 +1,12 @@
 <footer>
     <div id="footer" class="container mobile-adjusted">
         <div class="row">
+            <div class="col-xs-12">  <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div></div>
             <div class="col-xs-12 col-sm-6 col-lg-6">
                 <div class="row">
                     <div class="col-xs-6 col-sm-6 col-lg-6">
-                        <div class="footer-logo small">{{- partial "icons/inbeat-logo-footer.html" -}}</div>
+                        <p class="small">Platform</p>
                         <ul>
-                            <li>
-                                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>
-                            </li>
                             {{- range .Site.Data.footer.col1 -}}
                             <li>
                                 {{ if eq .anchor "Affiliate" }}
@@ -54,39 +52,44 @@
                             </li>
                             <li><a href="mailto:david@inbeat.co" title="Send an e-mail">Send us a message</a></li>
                         </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-lg-6">
-                        <p class="small">Free Toolkit</p>
-                       <ul>
-                           {{- range .Site.Data.footer.col4 -}}
-                           <li>
-                               <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
-                           </li>
-                           {{- end -}}
-                       </ul>
-                    </div>
-                    <div class="col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-lg-5 col-lg-offset-1">
-                        <p class="small">Social</p>
-                        <ul>
-                            <li>
-                                <a href="https://www.instagram.com/inbeat.co/" title="Instagram" target="_blank">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg" title="Youtube"
-                                    target="_blank">
-                                    Youtube
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.linkedin.com/company/inbeat/" title="LinkedIn" target="_blank">
-                                    LinkedIn
-                                </a>
-                            </li>
-                        </ul>
+                        <div class="row">
+                            <!-- <div class="col-xs-6 col-sm-6 col-lg-6">
+                                <p class="small">Free Toolkit</p>
+                               <ul>
+                                   {{- range .Site.Data.footer.col4 -}}
+                                   <li>
+                                       <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                   </li>
+                                   {{- end -}}
+                               </ul>
+                            </div> -->
+                            <div class="col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-lg-5 col-lg-offset-1 footer-social-wrapper">
+                                <p class="small">Social</p>
+                                <ul>
+                                    <li>
+                                        <a href="https://www.instagram.com/inbeat.co/" title="Instagram" target="_blank">
+                                            Instagram
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg" title="Youtube"
+                                            target="_blank">
+                                            Youtube
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/inbeat/" title="LinkedIn" target="_blank">
+                                            LinkedIn
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/inbeat/" title="Facebook" target="_blank">
+                                            Facebook
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
