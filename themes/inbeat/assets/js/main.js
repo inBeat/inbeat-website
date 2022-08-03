@@ -43,21 +43,21 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
-    var icon = document.getElementById('inbeat-animated-logo');
+    // var icon = document.getElementById('inbeat-animated-logo');
     var mediaQuery = window.matchMedia('(min-width: 768px)');
     var isOpen = false;
     mediaQuery.addEventListener("change", function(e) {
         close();
     });
     
-  var anim = bodymovin.loadAnimation({
-      container: icon, // Required
-      path: '/animations/inbeat-animated-logo.json', // Required
-      renderer: 'svg', // Required
-      loop: false, // Optional
-      autoplay: false, // Optional
-      name: 'inbeat-animated-logo', // Name for future reference. Optional.
-  });
+//   var anim = bodymovin.loadAnimation({
+//       container: icon, // Required
+//       path: '/animations/inbeat-animated-logo.json', // Required
+//       renderer: 'svg', // Required
+//       loop: false, // Optional
+//       autoplay: false, // Optional
+//       name: 'inbeat-animated-logo', // Name for future reference. Optional.
+//   });
  
     if (menuBtn === null) return;
     var open = function () {
@@ -95,19 +95,19 @@ function header() {
         }
     });
 
-    icon.addEventListener('mouseenter', function (e) {
-        if (!isOpen) {
-            anim.setDirection(1);
-            anim.setSpeed(1);
-            anim.play();       
-        }
-    });
+    // icon.addEventListener('mouseenter', function (e) {
+    //     if (!isOpen) {
+    //         anim.setDirection(1);
+    //         anim.setSpeed(1);
+    //         anim.play();       
+    //     }
+    // });
     
-    icon.addEventListener('mouseleave', function (e) {
-        if (!isOpen) {
-            anim.stop();
-        }
-    });
+    // icon.addEventListener('mouseleave', function (e) {
+    //     if (!isOpen) {
+    //         anim.stop();
+    //     }
+    // });
 }
 
 function home() {
