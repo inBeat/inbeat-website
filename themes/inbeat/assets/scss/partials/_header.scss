@@ -44,7 +44,7 @@
       flex-direction: column;
       color: white;
       margin-left: auto;
-
+      z-index: 999;
       h2 {
         font-size: 14px;
         line-height: 18px;
@@ -204,14 +204,14 @@
 
           .inner {
             border-radius: 5px;
-            padding-bottom: 30px;
+            // padding-bottom: 30px;
             transition: all .2s ease;
 
             &:hover {
               cursor: pointer;
             }
 
-            padding: 14px 8px;
+            // padding: 14px 8px;
           }
 
           p {
@@ -287,9 +287,9 @@
       transition: all 0.12s;
     }
 
-    &:hover>div, &:hover>a {
-      opacity: 0.5;
-    }
+    // &:hover>div, &:hover>a {
+    //   opacity: 0.5;
+    // }
 
     &.cta {
 
@@ -317,8 +317,8 @@
           transform: translateY(-5px);
           transition: all .15s ease;
           cursor: default;
-          top: 80%;
-          box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+          // top: 80%;
+          // box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
           padding: 10px;
           width: 18.75rem;
           z-index: 5;
@@ -335,9 +335,10 @@
           display: flex;
           align-items: center; 
           width: 100%;
-          padding: 0;
-          padding-top: 1rem;
-          padding-bottom: 1rem;
+          // padding: 0;
+          // padding-top: 1rem;
+          // padding-bottom: 1rem;
+          padding: 10px 8px 12px;
           line-height: 0;
           border-radius: 5px;
           transition: all .05s ease;
@@ -351,6 +352,9 @@
               background: $contactexports;
           }
           &:hover:nth-child(4){
+              background: $creatorstudio;
+          }
+          &:hover:nth-child(5){
               background: $creatorstudio;
           }
           a {
