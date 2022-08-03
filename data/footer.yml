@@ -1,34 +1,50 @@
   col1:
+    - anchor: Book a demo
+      link: https://app.inbeat.co/get-started
     - anchor: Pricing
       link: pricing
-    - anchor: Affiliate
-      link: https://inbeat.firstpromoter.com/
-    - anchor: Micro Influencer Platform
-      link: micro-influencer-platform
+    - anchor: Sign in to the database
+      link: https://app.inbeat.co/get-started
   col2:
-    - anchor: Quick Search
-      link: features/quicksearch
-    - anchor: Deep Search
-      link: features/deepsearch
-    - anchor: Contact Export
-      link: features/export-contacts/
-    - anchor: Influencer Tracking
-      link: influencer-tracking-software
-  col3:
     - anchor: Articles
+      link: articles
+    - anchor: Growthnotes Newsletter
       link: articles
     - anchor: The Pulse Podcast
       link: categories/podcasts
-  col4:
+    - anchor: AdCollection
+      link: categories/podcasts
+    - anchor: The Toolkit
+      link: toolkit
+  col3:
+    - anchor: Instagram & TikTok influencer database
+      link: influencer-database
     - anchor: Instagram Engagement Rate Calculator
       link: engagement-rate-calculator-instagram
     - anchor: TikTok Engagement Rate Calculator
       link: engagement-rate-calculator-tiktok
     - anchor: Influencer Money Calculator
       link: collaboration-cost-calculator-instagram
-    - anchor: Instagram Fake Follower checker
-      link: fake-follower-checker
-    - anchor: Top Instagram Influencers
-      link: top-influencers/instagram
     - anchor: Top TikTok Influencers
       link: top-influencers/tiktok/
+    - anchor: Top Instagram Influencers
+      link: top-influencers/instagram
+    - anchor: CPM Calculator
+      link: cpm-calculator
+    - anchor: CTR Calculator
+      link: ctr-calculator
+    - anchor: CPA Calculator
+      link: cpa-calculator
+    - anchor: Bounce Rate Calculator
+      link: bounce-rate-calculator
+    - anchor: Instagram Fake Follower checker
+      link: fake-follower-checker
+  # col4:
+  #   - anchor: Quick Search
+  #     link: features/quicksearch
+  #   - anchor: Deep Search
+  #     link: features/deepsearch
+  #   - anchor: Contact Export
+  #     link: features/export-contacts/
+  #   - anchor: Influencer Tracking
+  #     link: influencer-tracking-software
