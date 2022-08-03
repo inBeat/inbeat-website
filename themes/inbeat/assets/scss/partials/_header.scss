@@ -10,6 +10,7 @@
   cursor: default;
   background: white;
   top: 78%;
+  right: 26.8%;
   z-index: 5;
 
   .no-right {
@@ -50,6 +51,7 @@
         line-height: 18px;
         font-weight: bold;
         letter-spacing: 0.005em;
+        margin: 0;
       }
 
       h1 {
@@ -58,7 +60,7 @@
         line-height: 30px;
         letter-spacing: -0.3px;
         max-width: 195px;
-        margin-top: 48px;
+        margin-top: 32px;
       }
 
       .btn {
@@ -151,6 +153,7 @@
         align-items: center;
         flex-direction: row;
         border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+        padding-top: 0;
 
         .tag {
           background-color: #F2F2F2;
