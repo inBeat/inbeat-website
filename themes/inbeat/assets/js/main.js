@@ -659,4 +659,5 @@ function dropdown() {
     testimonial();
     navigation();
     dropdown();
+    industries();
 })();
