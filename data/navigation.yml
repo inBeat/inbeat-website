@@ -65,10 +65,18 @@ resources:
         link: #
     pages:
       - name: Engagement rate calculator
+        link: '/engagement-rate-calculator-instagram/'
+        target: '_self'
       - name: Fake follower checker
+        link: 'fake-follower-checker/'
+        target: '_self'
       - name: Collaboration cost calculator
-      - name: TikTok influencer database*
-      - name: Instagram influencer database*
+        link: '/collaboration-cost-calculator-instagram/'
+        target: '_self'
+      - name: TikTok & Instagram influencer Database
+        link: '/influencer-database'
+        target: '_self'
+
 footer:
   toolkits:
     - name: Instagram Engagement Rate Calculator
