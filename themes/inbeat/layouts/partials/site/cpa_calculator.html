@@ -12,8 +12,8 @@
             </div>
         </div>
         <div class="row" id="cpm_calculator-section">
-            <div v-for="(campaign,i) in campaigns" :key="campaign" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                    <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+            <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+                <input-row :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
             </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -35,12 +35,12 @@
     Vue.component('input-row', {
         data: function () {
             return {
-                cpmValue : null,
-                impressionsValue: null,
+                cpaValue : null,
+                conversionsValue: null,
                 totalCostValue: null,
                 lastUpdatedField: '',
                 options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
-                selectedOption : {name:this.campaign,icon:'dot'},
+                selectedOption : this.platform.name.includes('Campaign') ? {name:this.campaign,icon:'dot'} : this.platform,
                 copied: false,
             }
         },
@@ -53,6 +53,9 @@
             },
             tab:{
                 type: String
+            },
+            platform:{
+                type: Object
             }
         },
         methods:{
@@ -63,22 +66,23 @@
             }
         },
         calculateCPM(e, fieldName){
-            if((/[^0-9]/g).test(e.target.value)){
-                e.target.value = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+            let digitRegex = fieldName === 'cpa' || fieldName === 'totalCost' ? /[^.0-9]/g : /[^0-9]/g
+            if((digitRegex).test(e.target.value)){
+                e.target.value = e.target.value.replace(digitRegex, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
             }
-            let newValue = e.target.value.replace(/\D/g, "").replace(/,/g, '')
+            let newValue = e.target.value.replace(digitRegex, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
-            if(!this.cpmValue && !this.impressionsValue || !this.impressionsValue && !this.totalCostValue || !this.cpmValue && !this.totalCostValue){
+            if(!this.cpaValue && !this.conversionsValue || !this.conversionsValue && !this.totalCostValue || !this.cpaValue && !this.totalCostValue){
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
-                if(fieldName === 'cpm') {
+                if(fieldName === 'cpa') {
                     // Not allowed
-                    if(!this.impressionsValue){
-                        this.calculateOtherField('impressions')
+                    if(!this.conversionsValue){
+                        this.calculateOtherField('conversions')
                     }
                     else if(!this.totalCostValue){
                         this.calculateOtherField('totalCost')
@@ -86,15 +90,15 @@
                         this.calculateOtherField('totalCost')
                     }
                 } else {
-                    if(this.totalCostValue && this.impressionsValue){
+                    if(this.totalCostValue && this.conversionsValue){
                         // update CPM
-                        this.calculateOtherField('cpm')
+                        this.calculateOtherField('cpa')
                     }
-                    else if(this.totalCostValue && this.cpmValue && fieldName !== 'impressions'){ 
-                        // update impressions
-                        this.calculateOtherField('impressions')
+                    else if(this.totalCostValue && this.cpaValue && fieldName !== 'conversions'){ 
+                        // update conversions
+                        this.calculateOtherField('conversions')
                     }
-                    else if(this.impressionsValue && this.cpmValue && fieldName !== 'totalCost'){
+                    else if(this.conversionsValue && this.cpaValue && fieldName !== 'totalCost'){
                         // update totalCost
                         this.calculateOtherField('totalCost')
                     }
@@ -103,17 +107,17 @@
         },
         calculateOtherField(fieldName) {
             switch(fieldName){
-                case 'cpm': 
-                this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(0);
-                break;
-                case 'impressions':
-                    this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
+                case 'cpa': 
+                    this.cpaValue = (this.totalCostValue / this.conversionsValue).toFixed(2);
                     break;
-                    case 'totalCost':
-                        this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
-                        break;
-                    }
-                    this.lastUpdatedField = fieldName;
+                case 'conversions':
+                    this.conversionsValue = (  this.totalCostValue / this.cpaValue).toFixed(0);
+                    break;
+                case 'totalCost':
+                    this.totalCostValue = (this.conversionsValue  * this.cpaValue).toFixed(2);
+                    break;
+                }
+            this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
@@ -123,7 +127,7 @@
             e.target.parentElement.parentElement.classList.add('--active_input-box')
         },
         deleteRow(e){
-            this.$emit('delete-row',this.campaign)
+            this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
             this.$refs.dropdown.classList.add('active')
@@ -137,6 +141,7 @@
             this.$refs.dropdown.classList.remove('active')
         },
         selectOption(option){
+            this.$emit('select-option',{name: this.campaign, platform: option})
             this.selectedOption = option
         },
         getImgUrl(pic) {
@@ -146,27 +151,39 @@
             if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
                 return this[`${fieldName}Text`].length
             } else{
-                 return fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
+                 return fieldName === 'totalCost' ? 5 :  fieldName === 'cpa' ? 2 :  1
             }
         }
       },
       watch: {
         refresh(){
-            this.cpmValue = null
-            this.impressionsValue = null
+            this.cpaValue = null
+            this.conversionsValue = null
             this.totalCostValue = null
             this.lastUpdatedField = ''
         }
       },
       computed: {
-        cpmText() {
-            return this.cpmValue && this.cpmValue !== 'NaN' ? this.cpmValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.cpmValue = null;
+        cpaText() {
+            if(this.cpaValue && this.cpaValue !== 'NaN'){
+                let replaceWith = this.cpaValue.toString().includes('.') ? '' : ','
+                return this.cpaValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
+            }
+            else{
+                return this.cpaValue = null
+            }
         },
-        impressionsText() {
-            return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
+        conversionsText() {
+            return this.conversionsValue && this.conversionsValue !== 'NaN'  ? this.conversionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.conversionsValue = null;
         },
         totalCostText() {
-            return this.totalCostValue && this.totalCostValue !== 'NaN' ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalCostValue = null;
+            if(this.totalCostValue && this.totalCostValue !== 'NaN'){
+                let replaceWith = this.totalCostValue.toString().includes('.') ? '' : ','
+                return this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
+            }
+            else{
+                return this.totalCostValue = null
+            }
         },
       },
 
@@ -217,15 +234,15 @@
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box">
                 <div class="header --yellow">
-                    Impressions <span class="question-circle --yellow_bg">
+                    Conversions <span class="question-circle --yellow_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
-                    <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
+                    <span class="--tooltip">Conversions are the number of actions / <br>aquisitions generated over a set period of time</span>
                 </div>
-                <div class="input-wrapper" :class="{'--border':impressionsValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
+                <div class="input-wrapper" :class="{'--border':conversionsValue}">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'conversions')" :value="conversionsText"  type="text" placeholder="50,000" ref="conversions">
                 </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,impressionsValue)" @mouseleave="copied = false">
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,conversionsValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
                     <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                     <span v-else class="--tooltip --sucess">Copied 
@@ -236,17 +253,17 @@
             </div>
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box">
-                    <div class="header --pink" title="CPM">
-                        CPM <span class="question-circle --pink_bg">
+                    <div class="header --pink" title="CPA">
+                        CPA <span class="question-circle --pink_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
-                        <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
+                        <span class="--tooltip">CPA (Cost Per Action) is essentially how much <br> you are paying to aquire a unique paying <br> customer.</span>
                     </div>
-                    <div class="input-wrapper" :class="{'--border':cpmValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :size="getInputSize('cpm')" ref="cpm">
+                    <div class="input-wrapper" :class="{'--border':cpaValue}">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpa')" :value="cpaText" type="text" placeholder="20" :size="getInputSize('cpa')" ref="cpa">
                         {{- partial "icons/doller.html" -}}
                     </div>
-                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,cpmValue)" @mouseleave="copied = false">
+                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,cpaValue)" @mouseleave="copied = false">
                         {{- partial "icons/copy-button.html" -}}
                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                     <span v-else class="--tooltip --sucess">Copied 
@@ -257,7 +274,7 @@
                 </div>
             </div>
             <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
-                <span v-if="cpmValue && impressionsValue || impressionsValue && totalCostValue || cpmValue && totalCostValue">
+                <span v-if="cpaValue && conversionsValue || conversionsValue && totalCostValue || cpaValue && totalCostValue">
                     Use advanced mode to compare the costs of <br> multiple campaigns.
                 </span>
                 <span v-else >
@@ -271,14 +288,22 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-            campaigns: ['Campaign 1'],
-            ind : 2,
+            campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'}}],
+            ind : 1,
             isRefresh: false,
             activeTab: 'simple'
         },
     methods:{
         addCampaign(){
-            this.campaigns.push(`Campaign ${this.ind++}`)
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+        },
+        selectOption(e){
+            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.campaigns[i].name === e.name ){
+                    this.campaigns[i].platform = e.platform
+                }
+            }
         },
         refresh(){
             this.isRefresh = !this.isRefresh
@@ -291,11 +316,12 @@
             }
         },
         deleteRow(e){
+            this.ind = 0
             this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
-                if(this.campaigns[i] !== e ){
-                    newArr.push(this.campaigns[i])   
+                if(this.campaigns[i].name !== e.name ){
+                    newArr.push({name:`Campaign ${++this.ind}`,platform:this.campaigns[i].platform })   
                 }
             }
             this.campaigns = [...newArr]

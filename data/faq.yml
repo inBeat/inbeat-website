@@ -381,3 +381,109 @@ cpm_calculator:
     answer: >-
       For marketers, calculating CPM and comparing CPM between campaigns is a good insight into 
       ad quality, performance, and potential, as well as targeting relevancy.
+ctr_calculator:
+  - question: What Does CTR Mean?
+    answer: >-
+      CTR means Click Through Rate; it is an indication of how engaging an ad is. The CTR<br>
+      measures the ratio of people clicking on an ad when exposed to it.
+  - question: What is the CTR formula?
+    answer: >-
+      The formula to measure the click-through rate is pretty simple; it goes as follows:<br>
+      <b>Total Clicks / Total Impressions</b><br>
+      For example, if you have an ad that generated 6 clicks for 100 impressions, your CTR is
+      6/100=0,06 (or 6%).
+  - question: Why is CTR important?
+    answer: >-
+      Analyzing the click-through rate is important.<br>
+      When comparing ads running under the same target audience, the CTR gives a good indication
+      of the ads that are performing better, more engaging, or catching the audience's attention more
+      than the other.
+      When comparing the same ad running under two different audience targeting, it indicates which
+      audience group is more engaged when exposed to the ad.
+      Using CTR is a good starting point when optimizing your social media advertising campaigns.
+      Higher CTR usually means a higher conversion rate. It's one of the key metrics to analyze for a
+      successful marketing strategy.
+  - question: What affects your CTR?
+    answer: >-
+      <b>Many factors can affect CTR performances. Amongst those many factors, we can identify:<br></b>
+      &#x25CF; Targeting: some audiences will be more reactive than others when they see your ad.
+              identifying the right persona is very important.<br>
+      &#x25CF; Copywriting: test different variations to ensure your ad copy is engaging and has the right call to action.<br>
+      &#x25CF; Creative: whether it's an image or video, your creative is probably the most important factor in ensuring your ad catches your audience's attention and converts.<br>
+      &#x25CF; Offer: A "too good to miss" offer will drastically improve your CTR.<br>
+  - question: What is a good click-through rate?
+    answer: >-
+        There is no universally good, bad, or average click-through rate. It will depend on the kind of
+        platform you are advertising on.<br> Google Search Ads tend to have higher CTR than other social
+        media;<br> for example, this is because search ads capture intent and are distributed to people
+        actively searching for your product or niche.<br>
+  - question: How to increase the click-through rate?
+    answer: >-
+      <b>Improving the click-through rate can be achieved with multiple levers:<br></b>
+      &#x25CF; Testing and optimizing audience targeting.<br>
+      &#x25CF; Writing more engaging ad copy.<br>
+      &#x25CF; Promoting compelling offers<br>
+      &#x25CF; Creating engaging visuals and content<br> 
+cpa_calculator:
+  - question: What Does CPA Mean?
+    answer: >-
+      In marketing and advertising, CPA refers to the cost per acquisition. How much does it cost in
+      ad spent to get a lead, a conversion, an app install, or any other conversion metric used in your
+      KPI.
+  - question: Why measuring CPA is important
+    answer: >-
+      Measuring your cost per acquisition is one of the ultimate metrics to determine if your paid
+      media strategy or campaign is profitable or not. Make sure that you are determining a target
+      CPA beforehand. The CPA is the pulse that helps you decide between doubling down or
+      shutting down a campaign, ad group or creative.
+  - question: How do you calculate a CPA
+    answer: >-
+        The cost per acquisition formula is very straightforward, it equals your total cost divided by your
+        total conversion (or acquisition) :<br>
+        <b>CPA = Total Cost / Total Acquisitions</b>
+  - question: What is a good CPA
+    answer: >-
+        A good CPA depends on the service/product you promote. If you are advertising a free mobile
+        app, your target CPA will be lower than if you are selling a car, for example. As a rule of thumb,
+        you should target a CPA that would give you a ROAS (return on ad spend) higher than 2.
+  - question: How to lower the CPA of your PPC campaign
+    answer: >-
+      <b>Many levers can help lower your cost per acquisition:<br></b>
+      &#x25CF; Identify your target persona and target it in audience settings (A/B test different personas).<br>
+      &#x25CF; Create engaging content and visuals in your ads (UGC content, for example).<br>
+      &#x25CF; Make your offer and USP clear and appealing.<br>
+      &#x25CF; Work on your ad copy to engage your audience.<br> 
+      &#x25CF; Make the conversion process on your landing page easy.<br> 
+bounce_rate_calculator:
+  - question: What is the bounce rate?
+    answer: >-
+        The bounce rate refers to the percentage of a website's visitors that closes the website without
+        performing a single action or visiting any other page. It often is assimilated to traffic quality or
+        landing page quality. A high bounce rate usually means that your page doesn't answer what the
+        user was looking for, is not loading fast enough, has errors, or that the traffic you send to the
+        page (via ads or other) isn't quality traffic.
+  - question: How to calculate bounce rate?
+    answer: >-
+          The bounce rate is calculated by dividing your single-page sessions by the total sessions on
+          your website.<br>
+          <b>Bounce Rate = Total of Single Page Sessions / Total of Sessions</b>
+  - question: What's considered a healthy bounce rate?
+    answer: >-
+          A bounce rate is considered "good" when it is under 40 percent, "average" if it's between 41 and
+          55 percent, and "mediocre" if it's between 56 and 70 percent. Any bounce rate above 70 percent
+          indicates very low page quality or traffic quality and that your strategy must be revisited or your
+          page edited.
+  - question: How to improve my website's bounce rate?
+    answer: >-
+        <b>Many factors can help improve your page bounce rate, whether it comes from technical
+        improvement or content improvement.<br></b>
+        &#x25CF; Improve your site speed.<br>
+        &#x25CF; Improve your website's mobile responsiveness<br>
+        &#x25CF; Fix any bug your page has<br>
+        &#x25CF; Capture attention early on your page<br> 
+        &#x25CF; Answer your target audience request early on the page.<br> 
+        &#x25CF; Use appealing calls to action and buttons to make visitors want to visit other pages.<br> 
+  - question: What's the difference between bounce rate and exit rate?
+    answer: >-
+          Exit rate refers to the percentage of visitors that end their visit or a specific page. Bounce rate
+          refers to visitors that exit your page without visiting any other page.

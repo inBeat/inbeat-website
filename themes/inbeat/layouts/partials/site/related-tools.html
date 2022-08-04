@@ -1,0 +1,29 @@
+
+    <section class="related-tools container">
+        <div class="related_tools-header">
+            <h2 class="related-tools-title">Related tools</h2>
+            {{- with .Params.viewAll -}}
+            <a class="view-all" href="{{ $.Site.BaseURL -}}{{- .link -}}" target="_blank">
+                {{- htmlUnescape .text -}}
+                <span class="right-arrow-icon">{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
+            </a>
+        </div>
+        {{- end -}}
+        <div class="row">
+            <div class="tools-card-wrapper">
+                {{- range .Params.toolkits -}}
+                        <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_blank">
+                            <div class="inner">
+                                <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
+                                <div class="content">
+                                    <h4 class="tool-name">{{- .title | markdownify -}}</h4>
+                                    <p class="tool-description"> {{ .text }}</p>
+                                </div>
+                            </div>
+                        </a>
+                        </div>
+                {{- end -}}
+            </div>
+        </div>
+    </section>
