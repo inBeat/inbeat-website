@@ -1,3 +1,6 @@
+.has-submenu {
+  position: relative;
+}
 .has-submenu:hover #navigation{
     display: block !important;
     opacity: 1 !important;
@@ -9,9 +12,10 @@
   position: absolute;
   cursor: default;
   background: white;
-  top: 78%;
-  right: 26.8%;
+  top: 100%;
+  left: -24px;
   z-index: 5;
+  width: max-content;
 
   .no-right {
     position: absolute;
@@ -81,33 +85,33 @@
       .grey {
         fill: #000000;
 
-        &:hover {
-          background: #F4F4F4;
-        }
+        // &:hover {
+        //   background: #F4F4F4;
+        // }
       }
 
       .pink {
         fill: #FFE9F0;
 
-        &:hover {
-          background: #FAF3F5;
-        }
+        // &:hover {
+        //   background: #FAF3F5;
+        // }
       }
 
       .green {
         fill: #D6EBE4;
 
-        &:hover {
-          background: #F2F8F6;
-        }
+        // &:hover {
+        //   background: #F2F8F6;
+        // }
       }
 
       .yellow {
         fill: #FAECDB;
 
-        &:hover {
-          background: #FAF8F5;
-        }
+        // &:hover {
+        //   background: #FAF8F5;
+        // }
       }
 
       h4,
@@ -370,6 +374,10 @@
               align-items: center; 
               line-height: .6875rem;
               padding: 0 1.25rem;
+              &.--no-flex {
+                display: block;
+                padding: 0 8px;
+              }
                   h4{
                       font-size: .875rem;
                       margin-bottom: -15px;

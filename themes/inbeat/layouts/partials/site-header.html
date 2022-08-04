@@ -23,12 +23,12 @@
                                   {{ $color := .color }}
                                   <div class="column {{ .class }}">
                                       <ul>
-                                          <li class="title">
+                                          <div class="title">
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                           <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                                           </svg>     
                                           <h4>{{ .title }}</h4>  {{ if .tag}} <span class="tag">{{ .tag }}</span>  {{ end }}
-                                          </li>
+                                        </div>
                                           <div class="pages">
                                               {{- range .pages -}}
                                                 <li class="page">
@@ -62,21 +62,21 @@
                                   {{ $color := .color }}
                                   <div class="col-sm-4 col-md-4 column {{ .class }}">
                                       <ul>
-                                          <li class="title">
+                                          <div class="title">
                                           <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                           <ellipse class={{ $color }} rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                                           </svg>     
                                           <h4>{{ .title }}</h4> {{ if .tag}} <span class="tag">{{ .tag }}</span>  {{ end }}
-                                          </li>
+                                        </div>
                                           <div class="pages">
                                               {{- range .pages -}}
                                                 <li class="page">
-                                                  <div class="inner {{ $color }}">
+                                                  <a href="{{ .link }}" target="{{ .target }}" class="inner {{ $color }} --no-flex">
                                                     <h4>{{ .name }}</h4>
                                                     {{ if .description }}
                                                         <p>{{ .description }}</p>
                                                     {{ end }}  
-                                                  </div>
+                                                  </a>
                                                 </li>
                                               {{- end -}}
                                            {{ if eq .hasMorePage true }} <div class="more-link">See all tools <span>→</span></div> {{ end }}
