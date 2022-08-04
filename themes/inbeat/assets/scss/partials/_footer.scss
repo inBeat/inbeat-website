@@ -10,11 +10,12 @@ footer {
       align-self: baseline;
     }
   }
-
   .footer-logo {
     margin-bottom: 3rem;
+    @include breakpoint(sm-down){
+      margin-bottom: 9px;
+    }
   }
-
   #footer {
     display: none;
   }
@@ -91,7 +92,11 @@ footer {
 
     .footer-items{
         .page{
+          margin-bottom: 0 !important;
           border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+          &:last-child{
+            border: none;
+          }
         }
     }
 
@@ -123,7 +128,9 @@ footer {
         }
 
         a {
-          padding: 12.5px 0;
+          // padding: 12.5px 0;
+          padding-top: 14px;
+          padding-bottom: 18px;
           color: white !important;
           text-decoration: none;
           font-weight: 300;
