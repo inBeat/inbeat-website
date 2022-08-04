@@ -35,7 +35,6 @@ solutions:
       - name: Nano Influencers
       - name: Micro Influencers
       - name: Macro Influencers
-
 resources:
   - color: grey
     title: Learn
@@ -71,10 +70,10 @@ footer:
     - name: Top Instagram Influencers
     - name: Top TikTok Influencers
   social:
-    - name: Facebook
     - name: Instagram
     - name: Youtube
     - name: Linkedin
+    - name: Facebook
   support:
     - name: Book a demo
     - name: Send us a message
