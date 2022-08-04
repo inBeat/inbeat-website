@@ -57,12 +57,12 @@ resources:
     hasMorePage: true
     announcement:
       color: 393045
-      title: Detailed campaign reports & analytics 
-      topText: Coming Soon!
+      title: An inspiration library for UGC Ads.
+      topText: Curated, sorted & free!
       cta:
-        text: Book a demo
+        text: Visit AdCollection
         color: FDE7E6
-        link: #
+        link: 'https://www.adcollection.co/'
     pages:
       - name: Engagement rate calculator
         link: '/engagement-rate-calculator-instagram/'
