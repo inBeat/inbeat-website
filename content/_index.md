@@ -1,7 +1,7 @@
 ---
-title: inBeat Creator Studio
+title: inBeat UGC Content Creation Platform
 description: >-
-  The creator studio is a platform that allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content. 
+  The UGC content creation platform allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content. 
 hero:
   title: UGC Content<br> Creation Platform
   subtitle: >-
