@@ -295,13 +295,17 @@
     // }
 
     &.cta {
-
+      display: flex;
       a {
         padding: 12px 48px !important;
         background-color: black;
         opacity: 1;
       }
-
+      .no-background {
+        background: none;
+        color: black;
+        border: none;
+    }
       line-height: 3rem;
     }
 
@@ -447,7 +451,7 @@
 
   ul {
     margin-top: 85px;
-    padding: 0px 30px;
+    padding: 0px 49px 0px 30px;
     list-style: none;
     width: 100%;
 
@@ -585,9 +589,11 @@
   }
 
   div.cta {
-    bottom: 10px;
-    left: 30px;
-    width: calc(100% - 60px);
+    // bottom: 10px;
+    // left: 30px;
+    // width: calc(100% - 60px);
+    width: 100%;
+    padding: 0px 49px 0px 30px;
     margin: auto;
     margin-top: auto;
     margin-bottom: 25px;
