@@ -126,9 +126,9 @@
         min-width: 265px;
         background: #FCFCFC;
 
-        h4 {
-          font-weight: bold;
-        }
+        // h4 {
+        //   font-weight: bold;
+        // }
       }
 
       ul {
@@ -147,6 +147,7 @@
         margin: 0;
         font-size: 14px;
         line-height: 18px;
+        font-weight: 400;
         vertical-align: middle;
         line-height: normal;
       }
@@ -219,7 +220,17 @@
             &:hover {
               cursor: pointer;
             }
-
+            .tag {
+              background-color: #F2F2F2;
+              font-size: 11px;
+              line-height: 16px;
+              border-radius: 20px;
+              padding: 2px 8px;
+              letter-spacing: 0.01em;
+              font-weight: normal;
+              margin-left: 8px;
+              line-height: normal;
+            }
             // padding: 14px 8px;
           }
 

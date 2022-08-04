@@ -76,6 +76,7 @@ resources:
       - name: TikTok & Instagram influencer Database
         link: '/influencer-database'
         target: '_self'
+        tag: 'Pro'
 
 footer:
   toolkits:
