@@ -39,8 +39,8 @@
             currentPlayId = vid;
         }
     }
+    var elem = document.querySelector('.video-carousel');
     function handleVideoCarousel(){
-        var elem = document.querySelector('.video-carousel');
         var fliktityEl = new Flickity( elem, {
             wrapAround: true, prevNextButtons: false, pageDots: false 
         });
@@ -67,6 +67,52 @@
           flickity_handle_wheel_event(e, fliktityEl, fliktityEl_is_animating);
         }
     }
+    var scrollBarWidth = window.innerWidth - document.body.clientWidth
+    elem.onmouseenter= function(e){
+      DomUtils.disableScroll()
+    }
+    elem.onmouseleave= function(e){
+      DomUtils.enableScroll()
+    }
+    class DomUtils {
+        // left: 37, up: 38, right: 39, down: 40,
+        // spacebar: 32, pageup: 33, pagedown: 34, end: 35, home: 36
+        static keys = { 37: 1, 38: 1, 39: 1, 40: 1 };
+        static preventDefault(e) {
+         e = e || window.event;
+         if (e.preventDefault) e.preventDefault();
+         e.returnValue = false;
+        }
+        static preventDefaultForScrollKeys(e) {
+         if (DomUtils.keys[e.keyCode]) {
+           DomUtils.preventDefault(e);
+           return false;
+         }
+        }
+
+        static disableScroll() {
+          document.addEventListener('wheel', DomUtils.preventDefault, {
+            passive: false,
+          }); 
+          document.addEventListener('keydown', DomUtils.preventDefaultForScrollKeys, {
+            passive: false,
+          });
+        }
+
+        static enableScroll() {
+          document.removeEventListener('wheel', DomUtils.preventDefault, {
+            passive: false,
+          }); 
+          document.removeEventListener(
+            'keydown',
+            DomUtils.preventDefaultForScrollKeys,
+            {
+              passive: false,
+            }
+          ); 
+        }
+    }
+    
     handleVideoCarousel()
     handleSlider();
 </script>
