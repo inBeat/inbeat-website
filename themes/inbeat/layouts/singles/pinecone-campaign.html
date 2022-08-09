@@ -1,7 +1,8 @@
 <div>Redirecting to Pinecone inBeat campaign...</div>
 <script>
   window.onload = function() {
-    var randomID = Math.floor(Math.random() * (999999 - 1 + 1) + 1)
-    location.href =  "https://join.pineconeresearch.com/#/signup/?CampaignId=2085&LANG=9&SID=111321&PSID="+randomID+"&campaign=inbeat";
+    var PSID = Math.floor(Math.random() * (999999 - 1 + 1) + 1)
+    var SID = Math.floor(Math.random() * (99999 - 1 + 1) + 1)
+    location.href =  "https://join.pineconeresearch.com/#/signup/?&LANG=9&PSID="+PSID+"&SID="+SID+"&CampaignId=2085";
   };
 </script>
