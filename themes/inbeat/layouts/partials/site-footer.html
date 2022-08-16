@@ -119,7 +119,8 @@
                             <ul>
                                 {{- range .Site.Data.footer.col2 -}}
                                 <li >
-                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}" target="_blank">
+                                   {{- .anchor }}</a>
                                 </li>
                                 {{- end -}}
                             </ul>
