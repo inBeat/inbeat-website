@@ -129,7 +129,7 @@
     <div class="container">
         <div class="row">
             <ul class="dropdown-wrapper">
-                <li ><a href="{{- $.Site.BaseURL -}}/Pricing" title="Pricing">Pricing</a> </li>
+                <li ><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a> </li>
                 <!-- <li class="dropdown-item">
                     <div class="dropdown">
                         <a>Solution </a>
@@ -165,7 +165,7 @@
                             <ellipse fill='black' rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
                             </svg>{{ .title }}</li>
                             {{- range .pages -}}
-                                <li> <a href="">{{ .name }}</a> <p>{{ .description }}</p></li>
+                                <li> <a href="{{- $.Site.BaseURL -}}{{- .link -}}">{{ .name }}</a> <p>{{ .description }}</p></li>
                             {{ end }}
                         </ul>
                         {{- end -}}
