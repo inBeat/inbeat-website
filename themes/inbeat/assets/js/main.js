@@ -603,46 +603,89 @@ function navigation(){
 }
 
 var dropdownItems = [];
-function dropdown() {
-    var id = ['menu-overlay', 'mobile-footer']
+// function dropdown() {
+//     var id = ['menu-overlay', 'mobile-footer']
  
-    var currentActive;
-    var dropdown = function (obj) {
-        this.menu = obj;
-        this.acc = this.menu.querySelectorAll('.dropdown-item');
-    } 
-    var open = function (elm) {
-        console.log('elm', elm);
-        var arrow = elm.querySelector('.arrow-ico');
-        arrow.classList.toggle('open');
-        elm.lastElementChild.classList.toggle("show");
-    };
-    var close = function (elm) {
-        var arrow = elm.querySelector('.arrow-ico');
-        arrow.classList.remove('open');
-        elm.lastElementChild.classList.remove("show");
-    };
+//     var currentActive;
+//     var dropdown = function (obj) {
+//         this.menu = obj;
+//         this.acc = this.menu.querySelectorAll('.dropdown-item');
+//     } 
+//     var open = function (elm) {
+//         var arrow = elm.querySelector('.arrow-ico');
+//         arrow.classList.toggle('open');
+//         elm.lastElementChild.classList.toggle("show");
+//         console.log('elm', elm.lastElementChild.children[0].children);
+//         for (var i = 0; i < elm.lastElementChild.children[0].children.length; i++) {
+//             elm.lastElementChild.children[0].children[i].addEventListener('click',function(e){
+//                 console.log(e)
+//               e.stopPropagation()
+//           })
+//         }
+        
+//     };
+//     var close = function (elm) {
+//         var arrow = elm.querySelector('.arrow-ico');
+//         arrow.classList.remove('open');
+//         elm.lastElementChild.classList.remove("show");
+//     };
 
-    for (var i = 0; i < id.length; i++) {
-      dropdownItems.push(new dropdown(document.getElementById(id[i])))
-    }
-    currentActive = dropdownItems[0].acc[0];
+//     for (var i = 0; i < id.length; i++) {
+//         console.log(id[i],'iddd')
+//       dropdownItems.push(new dropdown(document.getElementById(id[i])))
+//     }
+//     currentActive = dropdownItems[0].acc[0];
     
-  function handleDropdown(elm) {
-        open(elm);
-        if (elm != currentActive) {
-            close(currentActive);
-            currentActive  = elm;
+//   function handleDropdown(elm) {
+//     console.log(elm)
+//         open(elm);
+//         if (elm != currentActive) {
+//             close(currentActive);
+//             currentActive  = elm;
+//         }
+//     }
+//     // console.log(dropdownItems[1].acc[0] + 'dropdown items')
+//     for (var i = 0; i < dropdownItems.length; i++) {
+//         for (var j = 0; j < dropdownItems[i].acc.length; j++) {
+
+//             console.log(dropdownItems[i].acc[j])
+//             dropdownItems[i].acc[j].addEventListener('click', function (e) {
+//               e.stopPropagation();
+//               handleDropdown(this);
+//               e.preventDefault();
+//             }, true);
+//         }
+//     }  
+// }
+function dropdown(){
+        var activeEle = null
+        var triggers = document.querySelectorAll('.dropdown')
+        for (var i = 0; i < triggers.length; i++){
+            triggers[i].addEventListener('click', function(e){   
+                if(e.target.parentElement === activeEle){
+                    e.target.parentElement.nextElementSibling.classList.toggle('show')
+                    e.target.nextElementSibling.classList.toggle('open')
+                }else{
+                    activeEle = e.target.parentElement  
+                    for (var j = 0; j < triggers.length; j++) {
+                        if(triggers[j] != activeEle){
+                            console.log('hello from in condition')
+                            if(triggers[j].children[1].classList.contains('open')){
+                                console.log('hello from remove')
+                                triggers[j].children[1].classList.remove('open')
+                                triggers[j].nextElementSibling.classList.remove('show')
+                            }else{ 
+                                console.log('hello from add')
+                                e.target.parentElement.nextElementSibling.classList.add('show')
+                                e.target.nextElementSibling.classList.add('open')
+                            }
+                        }else{
+                            console.log('hoila')
+                        }
+                    }
+                }
+            })
         }
-    }
-    for (var i = 0; i < dropdownItems.length; i++) {
-        for (var j = 0; j < dropdownItems[i].acc.length; j++) {
-            dropdownItems[i].acc[j].addEventListener('mousedown', function (e) {
-              handleDropdown(this);
-              e.preventDefault();
-            }, true);
-        }
-    }  
 }
 
 (function () {
