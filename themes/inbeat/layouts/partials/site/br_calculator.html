@@ -13,7 +13,7 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                    <input-row :campaign="campaign" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+                    <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
             </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign"  class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -35,12 +35,10 @@
     Vue.component('input-row', {
         data: function () {
             return {
-                ctrValue : null,
-                impressionsValue: null,
-                totalClickValue: null,
+                ctrValue : this.values.ctr,
+                impressionsValue: this.values.impressions,
+                totalClickValue: this.values.totalClick,
                 lastUpdatedField: '',
-                options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
-                selectedOption : {name:this.campaign,icon:'dot'},
                 copied: false,
             }
         },
@@ -53,6 +51,16 @@
             },
             tab:{
                 type: String
+            },
+            values:{
+                type: Object,
+                default:function(){
+                    return {
+                        ctr:null,
+                        impressions:null,
+                        totalClick:null
+                    }
+                }
             }
         },
         methods:{
@@ -70,6 +78,7 @@
             let newValue = e.target.value.replace(digitRegex, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
             if(!this.ctrValue && !this.impressionsValue || !this.impressionsValue && !this.totalClickValue || !this.ctrValue && !this.totalClickValue){
+                this.updateValue()
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
@@ -106,12 +115,15 @@
             switch(fieldName){
                 case 'ctr': 
                 this.ctrValue = (( this.impressionsValue / this.totalClickValue) * 100).toFixed(2);
+                this.updateValue()
                 break;
                 case 'impressions':
                     this.impressionsValue = ((this.totalClickValue/this.ctrValue) * 100 ).toFixed(0);
+                    this.updateValue()
                     break;
                 case 'totalClick':
                     this.totalClickValue = ((this.impressionsValue /this.ctrValue) * 100).toFixed(0);
+                    this.updateValue()
                     break;
             }
             this.lastUpdatedField = fieldName;
@@ -135,6 +147,17 @@
             } else{
                  return fieldName === 'totalClick' ? 5 :  fieldName === 'ctr' ? 2 :  1
             }
+        },
+        updateValue(){
+            if(this.tab === 'advance'){
+                this.$emit('value-change',{
+                        name: this.campaign,
+                        ctr:this.ctrValue,
+                        totalClick: this.totalClickValue,
+                        impressions: this.impressionsValue
+                })
+            }
+            return
         }
       },
       watch: {
@@ -259,14 +282,32 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-            campaigns: ['Website 1'],
+        campaigns: [{name:'Website 1',values: {
+                        impressions:null,
+                        ctr:null,
+                        totalClick:null
+                    }}],
             ind : 1,
             isRefresh: false,
-            activeTab: 'simple'
+            activeTab: 'simple',
+            dummyCampains:[],
+        },
+        watch:{
+          campaigns:{
+            handler(val) {
+                this.dummyCampains = val
+            },
+            immediate: true
+          }
         },
     methods:{
         addCampaign(){
-            this.campaigns.push(`Website ${++this.ind}`)
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(JSON.stringify(this.campaigns[i].values) !== JSON.stringify(this.dummyCampains[i].values) || JSON.stringify(this.campaigns[i].platform) !== JSON.stringify(this.dummyCampains[i].platform)){
+                    this.campaigns[i].values = this.dummyCampains[i].values
+                }
+            }
+            this.campaigns.push({name:`Website ${++this.ind}`})
         },
         refresh(){
             this.isRefresh = !this.isRefresh
@@ -283,12 +324,21 @@
             this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
-                if(this.campaigns[i] !== e ){
-                    newArr.push(`Website ${++this.ind}`)   
+                if(this.campaigns[i].name !== e ){
+                    newArr.push({name:`Website ${++this.ind}`,values:this.dummyCampains[i].values })   
                 }
             }
             this.campaigns = [...newArr]
         },
+        valueChange(e){
+            this.dummyCampains = JSON.parse(JSON.stringify(this.campaigns))
+            const updatedValues = JSON.parse(JSON.stringify(e))
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.dummyCampains[i].name === updatedValues.name ){
+                    this.dummyCampains[i].values = updatedValues
+                }
+            }
+        }
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
