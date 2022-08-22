@@ -1,0 +1,13 @@
+{{- define "main" -}}
+{{- with .Params.hero -}}
+<section class="container mobile-adjusted" id="hero_cmp">
+    <div class="hero_cpm-header">
+        <h1>{{- .title | markdownify -}}</h1>
+        <h4>{{- .subtitle | markdownify -}}</h4>
+    </div>
+</section>
+{{- partial "site/instagram__mockup-generator.html" . -}}
+{{- end -}}
+{{- partial "site/whatwedo.html" . -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.cpm_calculator "id" "faq-influencer" "header" true) -}}
+{{- end -}}

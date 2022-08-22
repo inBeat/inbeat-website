@@ -1,0 +1,434 @@
+<section class="container mobile-adjusted" id="mockup_builder">
+    <div>
+        <div class="calculator-toggle">
+            <div class="calculator-type" id="cpm_calculator-simple-toggle" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
+                Minimial design 
+            </div>
+            <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
+                True design  <span class="question-circle --gray_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+                <span class="--tooltip">True Design</span>
+            </div>
+        </div>
+        <div class="mockup-controls">
+            <dropdown :options="mockformatOptions"></dropdown>
+            <dropdown :options="dimensionOption"></dropdown>
+        </div>
+        <div class="row" id="mockup__card-wrapper">
+            <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+                    <!-- <h4 class="mockup__title">Instagram mockup</h4>
+                    <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
+                    <div class="row mockup__preview-configuration-wrapper">
+                        
+                        <div class="mockup__configuration-section col-md-6">
+                            <div class="mockup__configuration-header-wrapper">
+                                <div>
+                                    <h4 class="mockup__title">Instagram mockup</h4>
+                                    <p class="mockup__description">Lorem ipsum dolor sit.</p>
+                                </div>
+                                <button class="clear-field-button mockup-btn">
+                                    Clear field
+                                </button>
+                            </div>
+                            <div class="profile__input-wrapper">
+                                <div class="input-wrapper">
+                                    <label for="account-name-input" class="label">
+                                        Account name
+                                    </label>
+                                        <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
+                                </div>
+                                <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"> </uploader>
+                            </div>
+                            <div class="mockup__configuration-dropzone-wrapper">
+                                Mockup Image
+                                <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
+                                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> </uploader>
+                                </div></uploader>
+                            </div>
+                            <div class="mockup__configuration-ad-action">
+                                <h4 class="mockup__title">
+                                    Call to Action
+                                </h4>
+                                <p class="mockup__description">
+                                    Encourage people to click with an explicit call to action button.
+                                </p>
+                                <dropdown :options="ctaOptions"></dropdown>
+                            </div>
+                            <div class="mockup__configuration-like-count">
+                                <h4 class="mockup__title">
+                                    Likes
+                                </h4>
+                                <p class="mockup__description">
+                                    Set the number of likes for your post. Numeric input only.
+                                </p>
+                                <input class="likes-count-input" type="number">
+                            </div>
+                            <div class="mockup__configuration-message-wrapper">
+                                <h4 class="mockup__title">
+                                    Message
+                                </h4>
+                                <p class="mockup__description">
+                                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
+                                </p>
+                                <textarea class="message-textarea"></textarea>
+                            </div>
+                        </div>
+                        <div class="mockup__preview-section col-md-6">
+                          <div id="instagram-mockup-preview" class="mockup-previwe-wrapper">
+                              <div class="preview-header">
+                                  <div class="preview-creadincials">
+                                      <div class="profile-picture-wrapper">
+                                          <img :src="dpSrc ? dpSrc : ''" alt="">
+                                      </div>
+                                      <div>
+                                          <h4 class="user-name mockup__title">{profileName}</h4>
+                                          <span class="mockup__description">Sponsored</span>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="preview-body">
+                                <img style="height: 100%;width: 100%;object-fit: cover;" :src="postSrc ? postSrc : ''" alt="">
+                              </div>
+                              <div class="preview-banner-cta">
+
+                              </div>
+                              <div class="preview-comments">
+
+                              </div>
+                              <div class="preview-footer">
+
+                              </div>
+                          </div>
+                          <div class="preview-cta">
+                              <button @click="downloadPng" class="mockup-download-btn mockup-btn">
+                                  Download(PNG)
+                              </button>
+                              <button @click="copyImage" class="mockup-copy-btn mockup-btn">
+                                  Copy to Clipboard
+                              </button>
+                              <button @click="shareImg" class="mockup-copy-btn mockup-btn">
+                                  Share
+                              </button>
+                          </div>
+                      </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    Vue.component('uploader', {
+        data: function () {
+            return {
+                isDragEnter: false,
+                hasSelection: false,
+                displayText: '',
+                value1: '',
+            }
+        },
+        props:{
+            tabindex: [String, Number],
+            drop: {
+              type: Boolean,
+              default: false,
+            },
+            rounded: {
+              type: Boolean,
+              default: false,
+            },
+            withButtonInput: {
+              type: Boolean,
+              default: false,
+            },
+            button: {
+              type: Boolean,
+              default: false,
+            },
+            icon: {
+              type: String,
+              default: 'light-icon-upload',
+            },
+            ButtonClass: {
+              type: String,
+              default: 'lv--success',
+            },
+            multiple: {
+              type: Boolean,
+              default: false,
+            },
+            isLoading: {
+              type: Boolean,
+              default: false,
+            },
+            // Same as native accept attribute
+            extensions: {
+              type: String,
+              default: '.jpg,.svg,.png',
+            },
+            // This value should be a positive number
+            maxFileSize: {
+              type: Number,
+              default: 4000,
+              validator: value => {
+                return value > 0;
+              },
+            },
+            height: {
+              type: String,
+              default: '2rem',
+            },
+            width: {
+              type: String,
+              default: '100%',
+            },
+            label: String,
+            validateFn: {
+              type: Function,
+              default: () => true,
+            },
+        },
+        methods: {
+            openPicker() {
+              this.$refs.LvFileInput.click();
+            },
+            handleFileChange(e) {
+              // This method will be called when the file gets uploaded
+              const files = e.target.files || e.dataTransfer.files;
+              if (files[0]) {
+                this.preprocessFiles(files);
+              }
+            },
+            handleDrop(e) {
+              this.isDragEnter = false;
+              this.preprocessFiles(e.dataTransfer.files);
+            },
+            checkFileExtensions(files) {
+              // get non-empty, unique extension items
+              const extList = [...new Set(this.extensions.toLowerCase().split(',').filter(Boolean))];
+              const list = Array.from(files);
+              // check if the selected files are in supported extensions
+              const invalidFileIndex = list.findIndex(file => {
+                const ext = `.${file.name.toLowerCase().split('.').pop()}`;
+                return extList.includes(ext);
+              });
+              // all exts are valid
+              return invalidFileIndex === -1;
+            },
+            checkFileSize(files) {
+              if (Number.isNaN(this.maxFileSize)) {
+                return true;
+              }
+              const list = Array.from(files);
+              // find invalid file size
+              const invalidFileIndex = list.findIndex(file => file.size > this.maxFileSize);
+              // all file size are valid
+              return invalidFileIndex === 0;
+            },
+            validate(files) {
+              // file selection
+              if (!this.multiple && files.length > 1) {
+                return 'MULTIFILES_ERROR';
+              }
+              // check File extension for normal upload its not necessary but for drop we have to check the extension
+              if (this.checkFileExtensions(files)) {
+                return 'EXTENSION_ERROR';
+              }
+              // file size
+              if (!this.checkFileSize(files)) {
+                return 'FILE_SIZE_ERROR';
+              }
+              // custom validation
+              return true;
+            },
+            preprocessFiles(files) {
+              const result = this.validate(files);
+              this.$emit('validated', result, files);
+              // validation
+              if (result === true) {
+                this.$emit('submit-image', files);
+              }
+              // clear selected files
+              this.$refs.LvFileInput.value = '';
+            },
+        },
+      computed: {
+        computedStyle() {
+          return {
+            height: this.height,
+            width: this.width,
+          };
+        },
+        placeholder() {
+          if (this.label) {
+            return this.label;
+          }
+          return this.multiple ? 'Choose files' : 'Choose a file';
+        },
+      },
+
+        template:  `
+        <label class="mockup__file-uploader" :class="{ 'mockup-drag-enter': isDragEnter }">
+    <template v-if="!drop">
+        <button class="upload_profile-picture-btn mockup-btn" @click="openPicker">
+            Upload Image
+        </button>
+    </template>
+    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="() => {}" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
+      <slot></slot>
+    </div>
+    <template v-else>
+      <slot></slot>
+    </template>
+    <input ref="LvFileInput" type="file" :accept="extensions" :tabindex="tabindex" :multiple="multiple" @change="handleFileChange($event)" />
+  </label>
+    `
+    })
+    Vue.component('dropdown', {
+        data: function () {
+            return {
+                selectedOption:this.options[0],
+                isOpenDropdown: false
+            }
+        },
+        props:{
+            options: {
+              type: Array,
+            },
+        },
+        methods: {
+        openDropdown(e){
+        this.isOpenDropdown = true
+          window.addEventListener('click', (event)=>{
+            if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
+                this.closeDropdown()
+            }
+          });
+        },
+        closeDropdown(e){
+            this.isOpenDropdown = false
+        },
+        selectOption(option){
+            this.selectedOption = option
+        },
+        },
+
+        template:  `
+        <div class="mockup_dropdown-wrapper">      
+            <div class="mockup-dropdown"  @click.prevent="openDropdown" ref="dropdown">     
+                    <a href="javascript:void(0)" v-html="selectedOption.name">
+                        Select CTA
+                    </a>
+                    <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1L5.4698 5L10 1" stroke="black"/>
+                    </svg>
+                </div>
+                <ul class="mockup-dropdown__dropdown-list" v-show="isOpenDropdown">
+                    <li class="list-item" v-for="option in options" @click="selectOption(option)">
+                        <p class="list-title"  v-html="option.name"></p>
+                    </li>            
+                </ul>
+            </div>
+        </div>
+    `
+    })
+    var app = new Vue({
+      el: '#mockup_builder',
+      data: {
+            ctaOptions: [{name:'none',code:'NA'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
+            mockformatOptions: [{name:'Mockup Format',code:'MF'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
+            dimensionOption: [{name:'Dimension',code:'Da'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
+            activeTab: 'simple',
+            profileName: 'john_doe',
+            dpSrc:null,
+            postSrc:null,
+
+        },
+    methods:{
+        switchTab(tab){
+            this.activeTab = tab
+            if(tab === 'simple'){
+                this.ind = 2
+                this.campaigns.splice(1)
+            }
+        },
+        uploadImage(files,location){
+            let src = URL.createObjectURL(event.target.files[0])
+            console.log()
+            location === 'header' ? this.dpSrc = src : this.postSrc= src
+        },
+        validation(e){
+            console.log(e)
+        },
+        downloadPng(){
+          var preview = document.getElementById('instagram-mockup-preview')
+          domtoimage.toPng(preview)
+    .then(function (dataUrl) {
+      console.log(dataUrl)
+        var link = document.createElement('a');
+        link.download = 'dummy-download.jpeg';
+        link.href = dataUrl;
+        link.click();
+    }).catch(function(e){
+      console.log(e)
+    })
+    //--------------------
+    // html2canvas(preview)
+    // .then(function(canvas){
+    //   var link = document.createElement('a');
+    //     link.download = 'dummy-download.jpeg';
+    //     link.href = canvas.toDataURL();
+    //     link.click();
+    // })
+    //----------------------
+
+  },
+  copyImage(){
+    var preview = document.getElementById('instagram-mockup-preview')
+    html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({'image/png': blob})])))
+  },
+  shareImg(){
+    var preview = document.getElementById('instagram-mockup-preview')
+            // iife here
+    ;(async function() {
+        if (!('share' in navigator)) {
+          return
+        }
+        const canvas = await html2canvas(preview)
+        canvas.toBlob(async (blob) => {
+          navigator.clipboard.write([new ClipboardItem({'image/png': blob})])
+          const files = [new File([blob], 'image.png', { type: blob.type })]
+          
+          const shareData = {
+            text: 'Some text',
+            title: 'Some title',
+            files,
+          }
+          if (navigator.canShare(shareData)) {
+            try {
+              await navigator.share(shareData)
+            } catch (err) {
+              if (err.name !== 'AbortError') {
+                console.error(err.name, err.message)
+              }
+            }
+          } else {
+            console.warn('Sharing not supported', shareData)
+          }
+        })
+      })()
+  }
+    },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>
