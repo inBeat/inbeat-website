@@ -27,7 +27,11 @@
         margin: 0;
       }
       .mockup__preview-configuration-wrapper{
+        gap: 64px;
         margin-top: 24px;
+        .col-md-6 {
+          flex: 1 1 0 !important;
+        }
         .mockup__configuration-section{
           .mockup__configuration-header-wrapper{
             display: flex;
@@ -253,9 +257,9 @@
     }
   }
 }
-.mockup__preview-section{
-  padding-left: 65px;
-}
+// .mockup__preview-section{
+//   padding-left: 65px;
+// }
 .mockup-previwe-wrapper{
   background-color: #ffffff;
   background: #ffffff;
@@ -307,22 +311,21 @@
 .preview-cta{
 display: flex;
 align-items: center;
-gap: 18px;
+gap: 16px;
 margin-top: 24px;
   .mockup-download-btn{
     flex: 1 1 auto;
-    padding: 17px 8px;
+    padding: 8px 12px;
     border: 1px solid transparent;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   .mockup-copy-btn{
-    padding: 6px 21px;
+    padding: 8px 12px;
     background-color: #FFFFFF;
     border: 1px solid #535562;
-    border-radius: 6px;
+    border-radius: 4px;
     color: #535562;
-    padding: 17px 8px;
   }
 }
