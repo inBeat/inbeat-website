@@ -371,24 +371,15 @@
         },
         downloadPng(){
           var preview = document.getElementById('instagram-mockup-preview')
-          domtoimage.toPng(preview)
-    .then(function (dataUrl) {
-      console.log(dataUrl)
-        var link = document.createElement('a');
-        link.download = 'dummy-download.jpeg';
-        link.href = dataUrl;
-        link.click();
-    }).catch(function(e){
-      console.log(e)
-    })
+
     //--------------------
-    // html2canvas(preview)
-    // .then(function(canvas){
-    //   var link = document.createElement('a');
-    //     link.download = 'dummy-download.jpeg';
-    //     link.href = canvas.toDataURL();
-    //     link.click();
-    // })
+    html2canvas(preview)
+    .then(function(canvas){
+      var link = document.createElement('a');
+        link.download = 'dummy-download.jpeg';
+        link.href = canvas.toDataURL();
+        link.click();
+    })
     //----------------------
 
   },
