@@ -1,21 +1,30 @@
   col1:
     - anchor: Book a demo
       link: https://app.inbeat.co/get-started
+      external: true
     - anchor: Pricing
       link: pricing
+      external: false
     - anchor: Sign in to the database
-      link: https://app.inbeat.co/get-started
+      link: https://app.inbeat.co/get-started#login
+      external: true
   col2:
     - anchor: Articles
       link: articles
+      target: '_self'
+      external: false
     - anchor: Growthnotes Newsletter
-      link: articles
+      link: 'https://www.growthnotes.news/'
+      external: true
     - anchor: The Pulse Podcast
       link: categories/podcasts
+      external: false
     - anchor: AdCollection
       link: categories/podcasts
+      external: false
     - anchor: The Toolkit
-      link: toolkit
+      link: free-toolkit
+      external: false
   col3:
     - anchor: Instagram & TikTok influencer database
       link: influencer-database

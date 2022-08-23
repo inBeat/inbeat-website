@@ -9,13 +9,9 @@
                         <ul>
                             {{- range .Site.Data.footer.col1 -}}
                             <li>
-                                {{ if eq .anchor "Affiliate" }}
-                                    <a href="{{- .link -}}" title="{{- .anchor }}" target="_blank">{{- .anchor }}</a>
-                                {{ else }}
-                                    <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                    <a href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
                                 {{- end -}}
                             </li>
-                            {{- end -}}
                         </ul>
                     </div>
                     <div class="col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-1">
@@ -23,7 +19,7 @@
                         <ul>
                             {{- range .Site.Data.footer.col2 -}}
                             <li>
-                                <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                <a target="{{ if .external }}_blank{{ else }}_self{{ end }}" href="{{ if .external }}{{- .link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link -}}{{ end }}" title="{{- .anchor }}">{{- .anchor }}</a>
                             </li>
                             {{- end -}}
                         </ul>
@@ -123,7 +119,8 @@
                             <ul>
                                 {{- range .Site.Data.footer.col2 -}}
                                 <li >
-                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                                    <a class="low-white" href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}" target="_blank">
+                                   {{- .anchor }}</a>
                                 </li>
                                 {{- end -}}
                             </ul>
