@@ -123,8 +123,8 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
-<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
     Vue.component('uploader', {
@@ -372,53 +372,52 @@
         },
         downloadPng(){
           var preview = document.getElementById('instagram-mockup-preview')
-
-    //--------------------
-    html2canvas(preview)
-    .then(function(canvas){
-      var link = document.createElement('a');
-        link.download = 'dummy-download.jpeg';
-        link.href = canvas.toDataURL();
-        link.click();
-    })
-    //----------------------
-
-  },
-  copyImage(){
-    var preview = document.getElementById('instagram-mockup-preview')
-    html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({'image/png': blob})])))
-  },
-  shareImg(){
-    var preview = document.getElementById('instagram-mockup-preview')
-            // iife here
-    ;(async function() {
-        if (!('share' in navigator)) {
-          return
-        }
-        const canvas = await html2canvas(preview)
-        canvas.toBlob(async (blob) => {
-          navigator.clipboard.write([new ClipboardItem({'image/png': blob})])
-          const files = [new File([blob], 'image.png', { type: blob.type })]
-          
-          const shareData = {
-            text: 'Some text',
-            title: 'Some title',
-            files,
-          }
-          if (navigator.canShare(shareData)) {
-            try {
-              await navigator.share(shareData)
-            } catch (err) {
-              if (err.name !== 'AbortError') {
-                console.error(err.name, err.message)
+          //--------------------
+          html2canvas(preview)
+          .then(function(canvas){
+            var link = document.createElement('a');
+              link.download = 'dummy-download.jpeg';
+              link.href = canvas.toDataURL();
+              link.click();
+          })
+          //----------------------
+        },
+        copyImage(){
+          var preview = document.getElementById('instagram-mockup-preview')
+          html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({'image/png': blob})])))
+        },
+        shareImg(){
+          var preview = document.getElementById('instagram-mockup-preview')
+                  // iife here
+          ;(async function() {
+              if (!('share' in navigator)) {
+                console.log('not supported by browser');
+                return
               }
-            }
-          } else {
-            console.warn('Sharing not supported', shareData)
-          }
-        })
-      })()
-  }
+              const canvas = await html2canvas(preview)
+              canvas.toBlob(async (blob) => {
+                navigator.clipboard.write([new ClipboardItem({'image/png': blob})])
+                const files = [new File([blob], 'image.png', { type: blob.type })]
+                
+                const shareData = {
+                  text: 'Some text',
+                  title: 'Some title',
+                  files,
+                }
+                if (navigator.canShare(shareData)) {
+                  try {
+                    await navigator.share(shareData)
+                  } catch (err) {
+                    if (err.name !== 'AbortError') {
+                      console.error(err.name, err.message)
+                    }
+                  }
+                } else {
+                  console.warn('Sharing not supported', shareData)
+                }
+              })
+            })()
+        }
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
