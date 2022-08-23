@@ -43,8 +43,8 @@
                             <div class="mockup__configuration-dropzone-wrapper">
                                 Mockup Image
                                 <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
-                                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> </uploader>
-                                </div></uploader>
+                                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> </uploader>
+                              </div></uploader>
                             </div>
                             <div class="mockup__configuration-ad-action">
                                 <h4 class="mockup__title">
@@ -93,9 +93,9 @@
                               <div class="preview-banner-cta">
 
                               </div>
-                              <div class="preview-comments">
+                              <!-- <div class="preview-comments">
 
-                              </div>
+                              </div> -->
                               <div class="preview-footer">
 
                               </div>
@@ -173,7 +173,7 @@
             // Same as native accept attribute
             extensions: {
               type: String,
-              default: '.jpg,.svg,.png',
+              default: '.jpg,.svg,.png,.jpeg',
             },
             // This value should be a positive number
             maxFileSize: {
@@ -349,9 +349,10 @@
             dimensionOption: [{name:'Dimension',code:'Da'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
             activeTab: 'simple',
             profileName: 'john_doe',
-            dpSrc:null,
-            postSrc:null,
-
+            // dpSrc:null,
+            // postSrc:null,
+            dpSrc:'https://cdn.pixabay.com/photo/2015/03/04/22/35/avatar-659652_960_720.png',
+            postSrc:'https://daluscapital.com/wp-content/uploads/2016/04/dummy-post-square-1-1.jpg',
         },
     methods:{
         switchTab(tab){
@@ -363,7 +364,7 @@
         },
         uploadImage(files,location){
             let src = URL.createObjectURL(event.target.files[0])
-            console.log()
+            console.log(files, location)
             location === 'header' ? this.dpSrc = src : this.postSrc= src
         },
         validation(e){

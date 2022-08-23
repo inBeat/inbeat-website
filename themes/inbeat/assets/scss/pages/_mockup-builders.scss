@@ -13,14 +13,13 @@
       }
       .mockup__title{
         font-weight: 700;
-        font-size: 24px;
-        line-height: 26px;
+        font-size: 20px;
+        line-height: 20px;
         letter-spacing: 0.3px;
         color: #535562;
         margin: 0;
       }
       .mockup__description{
-        font-weight: 500;
         font-size: 14px;
         line-height: 26px;
         letter-spacing: -0.3px;
@@ -264,7 +263,7 @@
 }
 .preview-header{
   border-bottom: 1px solid #535562;
-  padding: 37px 8px;
+  padding: 16px;
   .preview-creadincials{
     display: flex;
     align-items: flex-start;
@@ -292,7 +291,7 @@
   border-bottom: 1px solid #535562;
 }
 .preview-banner-cta{
-  padding: 25px 20px;
+  padding: 16px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
