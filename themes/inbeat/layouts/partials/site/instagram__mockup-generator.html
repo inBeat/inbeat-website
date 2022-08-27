@@ -1,49 +1,42 @@
 <section class="container mobile-adjusted" id="mockup_builder">
     <div>
-        <div class="calculator-toggle">
-            <div class="calculator-type" id="cpm_calculator-simple-toggle" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
-                Minimial design 
-            </div>
-            <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
-                True design  <span class="question-circle --gray_bg">
-                    {{- partial "icons/question-mark.html" -}}
-                </span>
-                <span class="--tooltip">True Design</span>
-            </div>
-        </div>
-        <div class="mockup-controls">
+        <!-- <div class="mockup-controls">
             <dropdown :options="mockformatOptions"></dropdown>
             <dropdown :options="dimensionOption"></dropdown>
-        </div>
+        </div> -->
         <div class="row" id="mockup__card-wrapper">
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
                     <!-- <h4 class="mockup__title">Instagram mockup</h4>
                     <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
                     <div class="row mockup__preview-configuration-wrapper">
                         
-                        <div class="mockup__configuration-section col-md-6">
+                        <div class="mockup__configuration-section col-md-7">
                             <div class="mockup__configuration-header-wrapper">
                                 <div>
-                                    <h4 class="mockup__title">Instagram mockup</h4>
-                                    <p class="mockup__description">Lorem ipsum dolor sit.</p>
+                                    <h4 class="mockup__configuration-title"> {{- partial "icons/insta-logo-black.html" -}}Instagram ads Mockup</h4>
+                                    <p class="mockup__configuration-description">Generate in real time an ad mockup </p>
                                 </div>
-                                <button class="clear-field-button mockup-btn">
-                                    Clear field
-                                </button>
+                                <div class="design-type clear-fields">
+                                  <span class="question-circle">
+                                    {{- partial "icons/cross.html" -}}
+                                  </span>
+                                  Clear All Fields
+                              </div>
                             </div>
                             <div class="profile__input-wrapper">
-                                <div class="input-wrapper">
-                                    <label for="account-name-input" class="label">
-                                        Account name
-                                    </label>
-                                        <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
-                                </div>
-                                <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"> </uploader>
+                              <span class="mockup__title">Profil information</span>
+                              <div class="uploader-wrapper">
+                                <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">{{- partial "icons/upload-img-logo.html" -}} </uploader>
+                                  <div class="input-wrapper">
+                                          <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
+                                  </div>
+                              </div>
                             </div>
                             <div class="mockup__configuration-dropzone-wrapper">
-                                Mockup Image
+                              <span class="mockup__title">Image thumbnail</span>
+                              <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
                                 <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
-                                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> </uploader>
+                                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)" :button="true"> </uploader>
                               </div></uploader>
                             </div>
                             <div class="mockup__configuration-ad-action">
@@ -53,7 +46,7 @@
                                 <p class="mockup__description">
                                     Encourage people to click with an explicit call to action button.
                                 </p>
-                                <dropdown :options="ctaOptions"></dropdown>
+                                <dropdown :options="ctaOptions" @option-select="optionSelect($event)"></dropdown>
                             </div>
                             <div class="mockup__configuration-like-count">
                                 <h4 class="mockup__title">
@@ -62,7 +55,7 @@
                                 <p class="mockup__description">
                                     Set the number of likes for your post. Numeric input only.
                                 </p>
-                                <input class="likes-count-input" type="number">
+                                <input class="likes-count-input" type="number" v-model="likes">
                             </div>
                             <div class="mockup__configuration-message-wrapper">
                                 <h4 class="mockup__title">
@@ -71,44 +64,87 @@
                                 <p class="mockup__description">
                                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
                                 </p>
-                                <textarea class="message-textarea"></textarea>
+                                <textarea class="message-textarea" v-model="caption"></textarea>
                             </div>
                         </div>
-                        <div class="mockup__preview-section col-md-6">
+                        <div class="mockup__preview-section col-md-5">
+                          <div class="preview-design-switch">
+                            <div class="design-type design__type-true" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
+                                True design 
+                                <span class="question-circle">
+                                  {{- partial "icons/question-mark-wh.html" -}}
+                                </span>
+                                <span class="--tooltip">True design</span>
+                            </div>
+                            <div class="design-type design__type-minimal" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
+                                Minimial 
+                            </div>
+                        </div>
                           <div id="instagram-mockup-preview" class="mockup-previwe-wrapper">
+                            <div class="preview-nav">
+                              {{- partial "icons/camera.html" -}}
+                              {{- partial "icons/instagram-title.html" -}}
+                              <div>
+                                {{- partial "icons/igtv.html" -}}
+                                {{- partial "icons/chat.html" -}}
+                              </div>
+                            </div>
                               <div class="preview-header">
                                   <div class="preview-creadincials">
-                                      <div class="profile-picture-wrapper">
-                                          <img :src="dpSrc ? dpSrc : ''" alt="">
+                                    <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
+                                      <div class="gradient-border">
+                                        <div class="profile-picture-wrapper">
+                                            <img :src="dpSrc ? dpSrc : ''" alt="">
+                                        </div>
                                       </div>
-                                      <div>
-                                          <h4 class="user-name mockup__title">{profileName}</h4>
-                                          <span class="mockup__description">Sponsored</span>
+                                    </uploader>
+                                      <div class="user-name-wrapper">
+                                          <h4 class="user-name">{profileName}</h4>
+                                          <span class="sponcered-text">Sponsored</span>
                                       </div>
                                   </div>
+                                  {{- partial "icons/more-option.html" -}}
                               </div>
                               <div class="preview-body">
-                                <img style="height: 100%;width: 100%;object-fit: cover;" :src="postSrc ? postSrc : ''" alt="">
+                                <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                                  <img class="preview-image-body" :src="postSrc ? postSrc : ''" alt="">
+                                </uploader>
                               </div>
                               <div class="preview-banner-cta">
-
+                                <span >{selectedPreviewCTA.name}</span>
+                                {{- partial "icons/right-chevron.html" -}}
                               </div>
-                              <!-- <div class="preview-comments">
-
-                              </div> -->
+                              <div class="preview-cta">
+                                <div class="like-share-comment">
+                                  {{- partial "icons/like.html" -}}
+                                  {{- partial "icons/comment-insta.html" -}}
+                                  {{- partial "icons/chat.html" -}}
+                                </div>
+                                <div></div>
+                                {{- partial "icons/save.html" -}}
+                              </div>
+                              <div class="preview-description">
+                                <div class="previwe-likes">
+                                  {likes} Likes
+                                </div>
+                                <div class="preview-caption">
+                                  {caption}
+                                </div>
+                              </div>
                               <div class="preview-footer">
-
+                                {{- partial "icons/home-insta.html" -}}
+                                {{- partial "icons/search.html" -}}
+                                {{- partial "icons/new-post.html" -}}
+                                {{- partial "icons/like.html" -}}
+                                {{- partial "icons/profile.html" -}}
                               </div>
                           </div>
-                          <div class="preview-cta">
+                          <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
-                                  Download(PNG)
+                                Download Mockup
                               </button>
-                              <button @click="copyImage" class="mockup-copy-btn mockup-btn">
-                                  Copy to Clipboard
-                              </button>
-                              <button @click="shareImg" class="mockup-copy-btn mockup-btn">
-                                  Share
+                              <button @click="copyImage" class="mockup-copy-btn">
+                                {{- partial "icons/copy-button.html" -}}
                               </button>
                           </div>
                       </div>
@@ -189,7 +225,7 @@
             },
             width: {
               type: String,
-              default: '100%',
+              default: '',
             },
             label: String,
             validateFn: {
@@ -278,7 +314,7 @@
 
         template:  `
         <label class="mockup__file-uploader" :class="{ 'mockup-drag-enter': isDragEnter }">
-    <template v-if="!drop">
+    <template v-if="!drop && button">
         <button class="upload_profile-picture-btn mockup-btn" @click="openPicker">
             Upload Image
         </button>
@@ -319,6 +355,8 @@
         },
         selectOption(option){
             this.selectedOption = option
+            this.$emit('option-select', this.selectedOption);
+            
         },
         },
 
@@ -344,15 +382,18 @@
     var app = new Vue({
       el: '#mockup_builder',
       data: {
-            ctaOptions: [{name:'none',code:'NA'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
+            ctaOptions: [{name:'Learn More',code:'LM'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Listen Now',code:'LN'}],
             mockformatOptions: [{name:'Mockup Format',code:'MF'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
             dimensionOption: [{name:'Dimension',code:'Da'},{name:'Book Now',code:'BN'},{name:'Install Now',code:'IN'},{name:'Learn More',code:'LM'},{name:'Listen Now',code:'LN'}],
             activeTab: 'simple',
             profileName: 'john_doe',
+            selectedPreviewCTA: {name:'Learn More',code:'LM'},
             // dpSrc:null,
             // postSrc:null,
             dpSrc:'/img/inbeat-logo.png',
             postSrc:'/img/dummy-post-square.jpeg',
+            likes: 15,
+            caption: 'username I’m an ad!!'
         },
     methods:{
         switchTab(tab){
@@ -381,10 +422,15 @@
               link.click();
           })
           //----------------------
+
         },
         copyImage(){
           var preview = document.getElementById('instagram-mockup-preview')
-          html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({'image/png': blob})])))
+          navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
+              if (result.state == "granted" || result.state == "prompt") {
+                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+              }
+          })
         },
         shareImg(){
           var preview = document.getElementById('instagram-mockup-preview')
@@ -417,6 +463,9 @@
                 }
               })
             })()
+        },
+        optionSelect(e){
+          this.selectedPreviewCTA = e
         }
     },
       // To make sure there's no conflict with Hugo templating

@@ -5,38 +5,57 @@
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
-    padding: 62px 63px 51px 63px;
+    padding: 55px;
     margin-bottom: 128px;
     @include breakpoint(sm-down) {
         margin-top: 1rem;
         padding: 1.5rem 1rem 1.5rem 1rem;
       }
       .mockup__title{
-        font-weight: 700;
-        font-size: 20px;
-        line-height: 20px;
-        letter-spacing: 0.3px;
-        color: #535562;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: -0.5px;
+        color: #000000;
         margin: 0;
       }
       .mockup__description{
-        font-size: 14px;
-        line-height: 26px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
         letter-spacing: -0.3px;
-        color: rgba(83, 85, 98, 0.6);
+        color: #BBBBBB;
         margin: 0;
+        display: block;
       }
       .mockup__preview-configuration-wrapper{
-        gap: 64px;
+        // gap: 64px;
         margin-top: 24px;
         .col-md-6 {
           flex: 1 1 0 !important;
         }
         .mockup__configuration-section{
+          padding-right: 3rem;
+          border-right: 1px solid rgba(0, 0, 0, 0.1);
           .mockup__configuration-header-wrapper{
             display: flex;
-            // align-items: center;
+            align-items: flex-end;
             justify-content: space-between;
+            .mockup__configuration-title{
+              font-weight: 500;
+              font-size: 30px;
+              line-height: 40px;
+              letter-spacing: -0.3px;
+              color: #141514;
+              margin: 0;
+            }
+            .mockup__configuration-description{
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 26px;
+              color: #BBBBBB;
+              margin: 0;
+            }
           }
         
         }
@@ -60,16 +79,17 @@
 }
 .mockup-btn{
   color: #FFFFFF;
-  background: #535562;
-  border-radius: 6px;
+  background: #000000;
+  border-radius: 4px;
   display: flex;
   align-items: center;
   padding: 6px 12px;
   gap: 10px;
   border: none;
   font-weight: 500;
-  font-size: 14px;
-  line-height: 26px;
+  font-size: 16px;
+  line-height: 38px;
+  letter-spacing: -0.596318px;
   height: fit-content;
   cursor: pointer;
 }
@@ -83,9 +103,13 @@
 }
 .profile__input-wrapper{
   display: flex;
-  align-items: flex-end;
-  gap: 8px;
-  margin-top: 36px;
+  flex-direction: column;
+  margin-top: 51px;
+  .uploader-wrapper{
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
 } 
 .mockup-input{
   border: 1px solid #666666;
@@ -112,6 +136,9 @@
   line-height: 26px;
   letter-spacing: 0.3px;
   color: #535562;
+  .mockup__description{
+    margin-bottom: 8px !important;
+  }
 }
 .mockup__file-uploader {
   cursor: pointer;
@@ -128,8 +155,8 @@
     cursor: pointer;
     padding: 0.25em;
 
-    border: 1px dashed #666666;
-    border-radius: 6px;
+    border: 1px dashed #BBBBBB;
+    border-radius: 4px;    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -257,75 +284,217 @@
     }
   }
 }
-// .mockup__preview-section{
-//   padding-left: 65px;
-// }
+.mockup__preview-section{
+  padding-left: 3rem;
+}
 .mockup-previwe-wrapper{
-  background-color: #ffffff;
-  background: #ffffff;
-  border: 1px solid #535562;
+  background: #FFFFFF;
+  border: 0.678644px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2.71458px 7.46508px rgba(0, 0, 0, 0.1);
+  border-radius: 2.2837px;
+}
+.preview-nav{
+  padding: 12px 16px 6px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #FAFAFA;
+  border-bottom:0.537486px solid #AFAFAF;;
+  div{
+    display: flex;
+    align-items: center;
+    gap: 21px;
+  }
 }
 .preview-header{
-  border-bottom: 1px solid #535562;
-  padding: 16px;
+  padding: 8px 16px 8px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   .preview-creadincials{
     display: flex;
-    align-items: flex-start;
-    gap: 10px;
+    align-items: center;
+    gap: 8px;
+  }
+  .gradient-border{
+    padding: 2px;
+    background: linear-gradient(210.07deg, #751BCF 7.72%, #DE0046 37.32%, #F8AF53 89.74%, #F8AF53 92.28%);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
   }
   .profile-picture-wrapper{
-    height: 39px;
-    width: 39px;
+    width: 100%;
+    height: 100%;
     border-radius: 50%;
-    border: 1px solid #535562;
     overflow: hidden;
+    background: #FFFFFF;
     img{
       width: 100%;
       height: 100%;
       object-fit: cover;
     }
   }
+  .user-name-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
   .user-name{
-    margin:  0;
+    margin: 0;
+    font-weight: 700;
+    font-size: 15.0496px;
+    line-height: 17px;
+    color: #262627;
+  }
+  .sponcered-text{
+    font-weight: 400;
+    font-size: 12.8943px;
+    line-height: 15px;
+    color: #262627;
+    margin: 0;
   }
 }
 .preview-body{
-  height: 526px;
+  height: 400px;
   width: 100%;
-  border-bottom: 1px solid #535562;
+  overflow: hidden;
 }
 .preview-banner-cta{
-  padding: 16px 20px;
+  padding: 12px 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #535562;
+  background: #5395E9;
+  font-weight: 700;
+  font-size: 15.0496px;
+  line-height: 17px;
+  color: #FFFFFF;
 }
 .preview-comments{
   height: 150px;
 }
 .preview-footer{
-  border-top: 1px solid #535562;
-  padding: 37px 23px;
+  border-top:0.537486px solid #AFAFAF;;
+  padding: 11px 23px;
+  display: flex;
+  align-items: center;
+  gap: 57px;
 }
-.preview-cta{
+.preview-download-wrapper{
 display: flex;
-align-items: center;
-gap: 16px;
+align-items: initial;
+gap: 10px;
 margin-top: 24px;
   .mockup-download-btn{
     flex: 1 1 auto;
-    padding: 8px 12px;
-    border: 1px solid transparent;
+    justify-content: center;
+    border: 1.43116px solid transparent;
+  }
+  .mockup-copy-btn{
+    padding: 15px 17px;
+    background-color: #FFFFFF;
+    border: 1.43116px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    color: #535562;
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
   }
-  .mockup-copy-btn{
-    padding: 8px 12px;
+}
+.preview-cta{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 15px;
+  .like-share-comment{
+    display: flex;
+    align-items: center;
+    gap: 19px;
+  }
+}
+.preview-description{
+  font-size: 15.0496px;
+  line-height: 17px;
+  color: #262627;
+  padding: 0 16px 19px 16px;
+  .previwe-likes{
+    font-weight: 700;
+  }
+  .preview-caption{
+    font-weight: 400;
+  }
+}
+.preview-design-switch{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.design-type{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 4px 12px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #000000;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 360px;
+  cursor: pointer;
+  .question-circle{
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
     background-color: #FFFFFF;
-    border: 1px solid #535562;
-    border-radius: 4px;
-    color: #535562;
+  }
+}
+.design__type-true{
+  background-color: #000000;
+  color: #FFFFFF;
+}
+.design-type.clear-fields{
+
+  .question-circle{
+    background-color:black;
+  }
+}
+.preview-image-body{
+  height: 400px;
+  width: 100%;
+}
+.mockup-platforms{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 46px;
+  .platform{
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.3px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+  .platform.instagram{
+    background-color: #FFE9F0;
+  }
+  .platform.facebook{
+    background-color: #CCF6FF;
+  }
+  .platform.tiktoc{
+    background-color: #E4E0FC;
   }
 }
