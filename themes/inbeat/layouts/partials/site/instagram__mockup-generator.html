@@ -9,63 +9,75 @@
                     <!-- <h4 class="mockup__title">Instagram mockup</h4>
                     <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
                     <div class="row mockup__preview-configuration-wrapper">
-                        
-                        <div class="mockup__configuration-section col-md-7">
-                            <div class="mockup__configuration-header-wrapper">
-                                <div>
+                        <div class="col-md-7 mockup__configuration-wrapper">
+
+                          <div class="mockup__configuration-section">
+                              <div class="mockup__configuration-header-wrapper">
+                                <h4 class="mockup__configuration-title">Instagram</h4>
+                                <!-- <div>
                                     <h4 class="mockup__configuration-title"> {{- partial "icons/insta-logo-black.html" -}}Instagram ads Mockup</h4>
-                                    <p class="mockup__configuration-description">Generate in real time an ad mockup </p>
-                                </div>
-                                <div class="design-type clear-fields">
-                                  <span class="question-circle">
-                                    {{- partial "icons/cross.html" -}}
-                                  </span>
-                                  Clear All Fields
+                                      <p class="mockup__configuration-description">Generate in real time an ad mockup </p>
+                                  </div> -->
+                                  <!-- <div class="design-type clear-fields">
+                                    <span class="question-circle">
+                                      {{- partial "icons/cross.html" -}}
+                                    </span>
+                                    Clear All Fields
+                                </div> -->
                               </div>
-                            </div>
-                            <div class="profile__input-wrapper">
-                              <span class="mockup__title">Profil information</span>
-                              <div class="uploader-wrapper">
-                                <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">{{- partial "icons/upload-img-logo.html" -}} </uploader>
-                                  <div class="input-wrapper">
-                                          <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
+                              <div class="ad-type">
+                                <span class="mockup__title">Ad Type & format</span>
+                                <div class="ad__type-wrapper">
+                                  <div class="ad-type__card" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                    <img :src="getImgUrl(adType.img)">
+                                        <div class="ad_type-title"><p>{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="actveAd === adType.id"></div></div></div>
                                   </div>
+                                </div>
                               </div>
-                            </div>
-                            <div class="mockup__configuration-dropzone-wrapper">
-                              <span class="mockup__title">Image thumbnail</span>
-                              <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
-                                <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
-                                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)" :button="true"> </uploader>
-                              </div></uploader>
-                            </div>
-                            <div class="mockup__configuration-ad-action">
-                                <h4 class="mockup__title">
-                                    Call to Action
-                                </h4>
-                                <p class="mockup__description">
-                                    Encourage people to click with an explicit call to action button.
-                                </p>
-                                <dropdown :options="ctaOptions" @option-select="optionSelect($event)"></dropdown>
-                            </div>
-                            <div class="mockup__configuration-like-count">
-                                <h4 class="mockup__title">
-                                    Likes
-                                </h4>
-                                <p class="mockup__description">
-                                    Set the number of likes for your post. Numeric input only.
-                                </p>
-                                <input class="likes-count-input" type="number" v-model="likes">
-                            </div>
-                            <div class="mockup__configuration-message-wrapper">
-                                <h4 class="mockup__title">
-                                    Message
-                                </h4>
-                                <p class="mockup__description">
-                                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
-                                </p>
-                                <textarea class="message-textarea" v-model="caption"></textarea>
-                            </div>
+                              <div class="profile__input-wrapper">
+                                <span class="mockup__title">Profil information</span>
+                                <div class="uploader-wrapper">
+                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">{{- partial "icons/upload-img-logo.html" -}} </uploader>
+                                    <div class="input-wrapper">
+                                            <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
+                                    </div>
+                                </div>
+                              </div>
+                              <div class="mockup__configuration-dropzone-wrapper">
+                                <span class="mockup__title">Image thumbnail</span>
+                                <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
+                                  <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
+                                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)" :button="true"> </uploader>
+                                </div></uploader>
+                              </div>
+                              <div class="mockup__configuration-ad-action">
+                                  <h4 class="mockup__title">
+                                      Call to Action
+                                  </h4>
+                                  <p class="mockup__description">
+                                      Encourage people to click with an explicit call to action button.
+                                  </p>
+                                  <dropdown :options="ctaOptions" @option-select="optionSelect($event)"></dropdown>
+                              </div>
+                              <div class="mockup__configuration-like-count">
+                                  <h4 class="mockup__title">
+                                      Likes
+                                  </h4>
+                                  <p class="mockup__description">
+                                      Set the number of likes for your post. Numeric input only.
+                                  </p>
+                                  <input class="likes-count-input" type="number" v-model="likes">
+                              </div>
+                              <div class="mockup__configuration-message-wrapper">
+                                  <h4 class="mockup__title">
+                                      Message
+                                  </h4>
+                                  <p class="mockup__description">
+                                      Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
+                                  </p>
+                                  <textarea class="message-textarea" v-model="caption"></textarea>
+                              </div>
+                          </div>
                         </div>
                         <div class="mockup__preview-section col-md-5">
                           <!-- <div class="preview-design-switch">
@@ -393,7 +405,19 @@
             dpSrc:'/img/inbeat-logo.png',
             postSrc:'/img/dummy-post-square.jpeg',
             likes: 15,
-            caption: 'username I’m an ad!!'
+            caption: 'username I’m an ad!!',
+            adTypes: [{
+              id:1,
+              type:'Square',
+              ratio:'1:1',
+              img:'1-1',
+            },{
+              id:2,
+              type:'Story',
+              ratio:'9:16',
+              img:'9-16'
+            }],
+            actveAd: 1,
         },
     methods:{
         switchTab(tab){
@@ -466,7 +490,13 @@
         },
         optionSelect(e){
           this.selectedPreviewCTA = e
-        }
+        },
+        getImgUrl(pic) {
+            return '/icons/'+pic+'.svg'
+        },
+        adTypeClick(adType){
+          this.actveAd =  adType.id
+        },
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],

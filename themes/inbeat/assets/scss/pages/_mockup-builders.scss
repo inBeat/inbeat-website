@@ -17,7 +17,7 @@
         font-size: 16px;
         line-height: 24px;
         letter-spacing: -0.5px;
-        color: #000000;
+        color: #262627;
         margin: 0;
       }
       .mockup__description{
@@ -516,4 +516,64 @@ margin-top: 24px;
   .platform.tiktoc{
     background-color: #E4E0FC;
   }
+}
+.mockup__configuration-wrapper{
+  padding-right: 2rem;
+  padding-top: 57px;
+  padding-bottom: 24px;
+}
+.ad__type-wrapper{
+  margin-top: 19px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid #d8d8d8;
+  .ad-type__card{
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+    border-radius: 1px;
+    // height: 153px;
+    // width: 153px;
+    cursor: pointer;
+    padding: 2px;
+    .ad_type-title{
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 13px 12px;
+      p{
+        font-size: 12px;
+        line-height: 13px;
+        color: #262627;
+        margin: 0;
+        cursor: pointer;
+      }
+      span{
+        margin: 0;
+        color: #C2C2C2;
+      }
+      .circle{
+        height: 12px;
+        width: 12px;
+        border-radius: 50%;
+        border: 1px solid #C2C2C2;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .circle-inner{
+          background-color: #000000;
+          height: 8px;
+          width: 8px;
+          border-radius: 50%;
+        }
+      }
+    }
+  }
+}
+.ad-type{
+  margin-top: 24px;
 }
