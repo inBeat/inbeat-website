@@ -1,11 +1,12 @@
 #mockup__card-wrapper{
+    // height: 829px;
+    overflow: hidden;
     position: relative;
     margin-top: 23px;
-    background: #FFFFFF;
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
-    padding: 55px;
+    padding: 0px 0px 0px 62px;
     margin-bottom: 128px;
     @include breakpoint(sm-down) {
         margin-top: 1rem;
@@ -30,13 +31,25 @@
       }
       .mockup__preview-configuration-wrapper{
         // gap: 64px;
-        margin-top: 24px;
+        // margin-top: 24px;
+     
         .col-md-6 {
           flex: 1 1 0 !important;
         }
         .mockup__configuration-section{
           padding-right: 3rem;
-          border-right: 1px solid rgba(0, 0, 0, 0.1);
+          // border-right: 1px solid rgba(0, 0, 0, 0.1);
+          height: 829px;
+          overflow-y: scroll;
+          &::-webkit-scrollbar {
+            width: 2px;
+          }
+          &::-webkit-scrollbar-track {
+            background: #888;
+          }
+          &::-webkit-scrollbar-thumb {
+            background: #505050;
+          }
           .mockup__configuration-header-wrapper{
             display: flex;
             align-items: flex-end;
@@ -286,12 +299,15 @@
 }
 .mockup__preview-section{
   padding-left: 3rem;
+  background: #F9F7F7;
+  border-radius: 1px;
+  padding: 48px 45px 24px 44px;
 }
 .mockup-previwe-wrapper{
   background: #FFFFFF;
-  border: 0.678644px solid rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 2.71458px 7.46508px rgba(0, 0, 0, 0.1);
-  border-radius: 2.2837px;
+  border: 0.988728px solid #E5E5E5;
+filter: drop-shadow(0px 2.48448px 6.83233px rgba(0, 0, 0, 0.1));
+border-radius: 3.95491px;
 }
 .preview-nav{
   padding: 12px 16px 6px 12px;
@@ -299,7 +315,8 @@
   align-items: center;
   justify-content: space-between;
   background: #FAFAFA;
-  border-bottom:0.537486px solid #AFAFAF;;
+  border-bottom:0.537486px solid #AFAFAF;
+  overflow: hidden;
   div{
     display: flex;
     align-items: center;
@@ -360,6 +377,8 @@
   height: 400px;
   width: 100%;
   overflow: hidden;
+  
+background: #F9F9F9;
 }
 .preview-banner-cta{
   padding: 12px 16px;
