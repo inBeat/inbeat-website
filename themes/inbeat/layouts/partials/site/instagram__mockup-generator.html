@@ -28,9 +28,9 @@
                               <div class="ad-type">
                                 <span class="mockup__title">Ad Type & format</span>
                                 <div class="ad__type-wrapper">
-                                  <div class="ad-type__card" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                  <div class="ad-type__card" :class="{'--active': actveAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
                                     <img :src="getImgUrl(adType.img)">
-                                        <div class="ad_type-title"><p>{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="actveAd === adType.id"></div></div></div>
+                                        <div class="ad_type-title "><p :class="{'--active': actveAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="actveAd === adType.id"></div></div></div>
                                   </div>
                                 </div>
                               </div>

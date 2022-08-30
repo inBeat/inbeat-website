@@ -532,22 +532,33 @@ margin-top: 24px;
   .ad-type__card{
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
-    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
     // height: 153px;
     // width: 153px;
     cursor: pointer;
     padding: 2px;
+    transition: all 0.3s ease-in-out;
+    &:hover{
+      border: 1px solid #000000;
+    }
+    &:active{
+      border: 1px solid #000000;
+      box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+    }
+    
     .ad_type-title{
 
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 13px 12px;
+      .--active{
+        color: #262627;
+      }
       p{
         font-size: 12px;
         line-height: 13px;
-        color: #262627;
+        color: #C2C2C2;
         margin: 0;
         cursor: pointer;
       }
@@ -572,6 +583,9 @@ margin-top: 24px;
         }
       }
     }
+  }
+  .ad-type__card.--active{
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
   }
 }
 .ad-type{
