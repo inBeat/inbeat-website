@@ -2,11 +2,9 @@
     // height: 829px;
     overflow: hidden;
     position: relative;
-    margin-top: 23px;
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
-    padding: 0px 0px 0px 62px;
     margin-bottom: 128px;
     @include breakpoint(sm-down) {
         margin-top: 1rem;
@@ -39,7 +37,7 @@
         .mockup__configuration-section{
           padding-right: 3rem;
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
-          height: 829px;
+          height: 780px;
           overflow-y: hidden;
           &:hover {
             overflow-y: overlay;
@@ -522,9 +520,7 @@ margin-top: 24px;
   }
 }
 .mockup__configuration-wrapper{
-  padding-right: 2rem;
-  padding-top: 57px;
-  padding-bottom: 24px;
+  padding: 44px 24px 44px 44px;
 }
 .ad__type-wrapper{
   margin-top: 19px;
