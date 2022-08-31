@@ -9,6 +9,7 @@
     @include breakpoint(sm-down) {
         margin-top: 1rem;
         padding: 1.5rem 1rem 1.5rem 1rem;
+
       }
       .mockup__title{
         font-weight: 500;
@@ -39,6 +40,11 @@
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
           height: 780px;
           overflow-y: hidden;
+          @include breakpoint(sm-down) {
+            padding-left: 0;
+            padding-right: 0;
+            height: auto;
+        }
           &:hover {
             overflow-y: overlay;
           }
@@ -304,6 +310,11 @@
   background: #F9F7F7;
   border-radius: 1px;
   padding: 44px;
+  @include breakpoint(sm-down) {
+    width: 100%;
+    padding: 0;
+    margin-top: 24px;
+}
 }
 .mockup-preview-wrapper{
   background: #FFFFFF;
@@ -525,6 +536,10 @@ margin-top: 24px;
 }
 .mockup__configuration-wrapper{
   padding: 44px 24px 44px 44px;
+  @include breakpoint(sm-down) {
+    width: 100%;
+    padding: 0px;
+}
 }
 .ad__type-wrapper{
   margin-top: 19px;
