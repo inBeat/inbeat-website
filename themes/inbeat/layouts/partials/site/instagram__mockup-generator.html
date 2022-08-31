@@ -46,8 +46,9 @@
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image thumbnail</span>
                                 <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
-                                  <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div>
-                                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)" :button="true"> </uploader>
+                                  <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
+                                    {{- partial "icons/upload-placeholder.html" -}}
+                                    <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
                                 </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">

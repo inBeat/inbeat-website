@@ -15,7 +15,7 @@
         font-size: 16px;
         line-height: 24px;
         letter-spacing: -0.5px;
-        color: #262627;
+        color: #000000;
         margin: 0;
       }
       .mockup__description{
@@ -590,4 +590,31 @@ margin-top: 24px;
 }
 .ad-type{
   margin-top: 24px;
+}
+.upload_placeholder-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  p{
+    margin: 0;
+    margin-top: 12px;
+    letter-spacing: -0.3px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    span{
+      font-weight: 700;
+    }
+  }
+  sub{
+    margin: 0;
+    letter-spacing: 0.01em;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+  }
 }
