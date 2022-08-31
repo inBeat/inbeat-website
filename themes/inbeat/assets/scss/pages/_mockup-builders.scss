@@ -622,3 +622,105 @@ margin-top: 24px;
     line-height: 16px;
   }
 }
+.mockup_preview-story{
+  background-color:  #141514;
+  position: relative;
+  // padding: 7px 10px;
+  padding-bottom: 7px;
+  .header-wrapper{
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    left: 10px;
+
+    z-index: 99;
+  }
+  .line{
+    height: 2px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.3);
+    &::after {
+      content: "";
+      height: 2px;
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      background: #FFFFFF;
+      transition: all;
+      z-index: 999;
+      animation: underline-animated 15s infinite;
+    }
+    @keyframes underline-animated {
+      0% {
+        right: 100%;
+      }
+      50% {
+        right: 0;
+        left: 0;
+      }
+      100% {
+        left: 0%;
+      }
+    }
+  }
+  .user-name{
+    color: #FFFFFF;
+  }
+  .sponcered-text{
+    color: #FFFFFF;
+  }
+  .preview-header{
+    padding: 8px 0px;
+  }
+  .story-options{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 21px;
+  }
+  .story__preview-footer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+    .cta-wrapper{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 50%;
+    }
+    .cta{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      span{
+        cursor: pointer;
+        font-weight: 500;
+        font-size: 11.8647px;
+        line-height: 12px;
+        text-align: center;
+        letter-spacing: -0.0673536px;    
+        color: #000000;
+        display: block;
+        padding: 14px 17px;
+        background-color: #FFFFFF;
+        border-radius: 67px;
+      }
+    }
+  }
+  .preview-body{
+    display: block;
+    position: relative;
+    padding-top: 56.25%;
+    height: 500px;
+    background-color:  #141514;
+    img{
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+    }
+  }
+}

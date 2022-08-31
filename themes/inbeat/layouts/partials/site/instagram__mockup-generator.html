@@ -93,7 +93,7 @@
                                 Minimial 
                             </div>
                         </div> -->
-                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="">
+                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 2">
                             <div class="preview-nav">
                               {{- partial "icons/camera.html" -}}
                               {{- partial "icons/instagram-title.html" -}}
@@ -151,6 +151,47 @@
                                 {{- partial "icons/like.html" -}}
                                 {{- partial "icons/profile.html" -}}
                               </div>
+                          </div>
+                          <div id="instagram-mockup-preview" v-else class="mockup_preview-story">
+                            <div class="header-wrapper">
+                              <div class="line">
+                              </div>
+                              <div class="preview-header">
+                                <div class="preview-creadincials">
+                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
+                                    <div class="gradient-border">
+                                      <div class="profile-picture-wrapper">
+                                          <img :src="dpSrc ? dpSrc : ''" alt="">
+                                      </div>
+                                    </div>
+                                  </uploader>
+                                    <div class="user-name-wrapper">
+                                        <h4 class="user-name">{profileName}</h4>
+                                        <span class="sponcered-text">Sponsored</span>
+                                    </div>
+                                </div>
+                                <div class="story-options">
+                                  {{- partial "icons/more.html" -}}
+                                  {{- partial "icons/cross-story.html" -}}
+                                </div>
+                            </div>
+                            </div>
+                          <div class="preview-body">
+                            <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                              <img class="preview-image-body" :src="postSrc ? postSrc : ''" alt="">
+                            </uploader>
+                          </div>
+                          <div class="story__preview-footer">
+                            <div class="cta-wrapper">
+                              <div class="cta">
+                                {{- partial "icons/up-chevron.html" -}}
+                                <span>
+                                  {selectedPreviewCTA.name}
+                                </span>
+                              </div>
+                              {{- partial "icons/dm-wh.html" -}}
+                            </div>
+                          </div>
                           </div>
                           <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
