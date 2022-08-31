@@ -28,9 +28,9 @@
                               <div class="ad-type">
                                 <span class="mockup__title">Ad Type & format</span>
                                 <div class="ad__type-wrapper">
-                                  <div class="ad-type__card" :class="{'--active': actveAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                  <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
                                     <img :src="getImgUrl(adType.img)">
-                                        <div class="ad_type-title "><p :class="{'--active': actveAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="actveAd === adType.id"></div></div></div>
+                                        <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
                                   </div>
                                 </div>
                               </div>
@@ -93,7 +93,7 @@
                                 Minimial 
                             </div>
                         </div> -->
-                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper">
+                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="">
                             <div class="preview-nav">
                               {{- partial "icons/camera.html" -}}
                               {{- partial "icons/instagram-title.html" -}}
@@ -418,7 +418,7 @@
               ratio:'9:16',
               img:'9-16'
             }],
-            actveAd: 1,
+            activeAd: 1,
         },
     methods:{
         switchTab(tab){
@@ -496,7 +496,7 @@
             return '/icons/'+pic+'.svg'
         },
         adTypeClick(adType){
-          this.actveAd =  adType.id
+          this.activeAd =  adType.id
         },
     },
       // To make sure there's no conflict with Hugo templating
