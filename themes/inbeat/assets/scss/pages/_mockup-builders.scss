@@ -119,7 +119,7 @@
 .profile__input-wrapper{
   display: flex;
   flex-direction: column;
-  margin-top: 51px;
+  margin-top: 32px;
   .uploader-wrapper{
     display: flex;
     gap: 8px;
@@ -127,9 +127,9 @@
   }
 } 
 .mockup-input{
-  border: 1px solid #666666;
-  padding: 12px 6px;
-  border-radius: 6px;
+  border: 1px solid #BBBBBB;
+  border-radius: 4px;
+  padding: 12px 14px;
   font-size: 16px;
   line-height: 26px;
   letter-spacing: 0.3px;
@@ -198,9 +198,9 @@
   align-items: center;
   justify-content: space-between;
   gap: 28px;
-  border: 1px solid #535562;
-  border-radius: 6px;
-  padding: 6px 20px;
+  border: 1px solid #BBBBBB;
+  border-radius: 4px;
+  padding: 12px 14px;
   cursor: pointer;
   width: 100%;
   position: relative;
@@ -235,7 +235,7 @@
       position: absolute;
       left: 0;
       right: 0;
-      top: 0;
+      top: 15%;
       z-index: 999;
       display: block;
       margin-top: 3rem;
@@ -271,9 +271,9 @@
   margin-top: 36px;
   .likes-count-input{
     margin-top: 12px;
-    border: 1px solid #666666;
-    padding: 12px 6px;
-    border-radius: 6px;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    padding: 12px 14px;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.3px;
@@ -287,9 +287,9 @@
   margin-top: 36px;
   .message-textarea{
     margin-top: 12px;
-    border: 1px solid #666666;
-    padding: 12px 6px;
-    border-radius: 6px;
+    border: 1px solid #BBBBBB;
+  border-radius: 4px;
+  padding: 12px 14px;
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.3px;
