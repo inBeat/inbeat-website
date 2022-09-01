@@ -242,9 +242,21 @@
       left: 0;
       right: 0;
       top: 15%;
-      z-index: 999;
+      z-index: 9;
       display: block;
       margin-top: 3rem;
+      max-height: 250px;
+      overflow-y: scroll;
+      &::-webkit-scrollbar {
+        width: 2px;
+      }
+      &::-webkit-scrollbar-track {
+        background-color: rgba(0, 0, 0, 0.05);
+        // background: #008080;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: #cacaca;
+      }
       .list-item{
           padding: 8px 12px;
           display: flex;
