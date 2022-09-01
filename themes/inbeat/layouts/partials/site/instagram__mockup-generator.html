@@ -76,7 +76,7 @@
                                   <p class="mockup__description">
                                       Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
                                   </p>
-                                  <textarea maxlength="125"  class="message-textarea" v-model="caption"></textarea>
+                                  <textarea @input="addCaption" maxlength="125"  class="message-textarea" v-model="caption"></textarea>
                               </div>
                           </div>
                         </div>
@@ -140,8 +140,8 @@
                                 <div class="previwe-likes">
                                   {likes} Likes
                                 </div>
-                                <div class="preview-caption">
-                                  {caption}
+                                <div class="preview-caption" id="preview-caption">
+                                 <span class="username" style="font-weight: 700;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -445,7 +445,8 @@
             dpSrc:'/img/inbeat-logo.png',
             postSrc:'/img/dummy-post-square.jpeg',
             likes: 15,
-            caption: 'username This is caption that will display on the final mockup. You can write anything.',
+            caption: 'This is caption that will display on the final mockup. You can write anything.',
+            displayCaptionValue: '',
             adTypes: [{
               id:1,
               type:'Square',
@@ -537,6 +538,21 @@
         adTypeClick(adType){
           this.activeAd =  adType.id
         },
+        addCaption(){
+          this.displayCaptionValue = this.caption
+            const words = this.caption.split(" ");
+            let sentence = ''
+            words.forEach((word,i) => {
+              if(word.startsWith('@') || word.startsWith('#')){
+                words[i]=`<span style="color:#5395E9;">${word}</span> `
+              }
+              sentence = sentence + ' ' + words[i]
+              this.displayCaptionValue = sentence
+            });
+        }
+    },
+    mounted(){
+      this.addCaption()
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],

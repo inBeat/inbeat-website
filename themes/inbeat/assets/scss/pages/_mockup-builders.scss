@@ -534,7 +534,11 @@ margin-top: 24px;
     font-weight: 700;
   }
   .preview-caption{
+    margin-top: 7px;
     font-weight: 400;
+    font-size: 13.8422px;
+    line-height: 17px;
+    color: #262626;
   }
 }
 .preview-design-switch{
@@ -584,7 +588,7 @@ margin-top: 24px;
   align-items: center;
   justify-content: center;
   gap: 16px;
-  margin-bottom: 46px;
+  margin-bottom: 48px;
   .platform{
     padding: 8px 12px;
     border-radius: 8px;
@@ -609,7 +613,7 @@ margin-top: 24px;
   }
 }
 .mockup__configuration-wrapper{
-  padding: 44px 24px 44px 44px;
+  padding: 48px 24px 44px 51px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
