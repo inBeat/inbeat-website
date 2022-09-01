@@ -422,7 +422,8 @@ border-radius: 3.95491px;
   padding: 11px 23px;
   display: flex;
   align-items: center;
-  gap: 57px;
+  justify-content: space-between;
+  // gap: 57px;
 }
 .preview-download-wrapper{
 display: flex;
