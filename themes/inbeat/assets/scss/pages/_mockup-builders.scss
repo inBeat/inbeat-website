@@ -306,16 +306,22 @@
   }
 }
 .mockup__preview-section{
-  padding-left: 3rem;
+  // padding-left: 3rem;
   background: #F9F7F7;
   border-radius: 1px;
-  padding: 44px;
+  padding: 23px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
     margin-top: 24px;
 }
 }
+#instagram-mockup-preview{
+  margin: 22px 46px 66px 46px;
+  @include breakpoint(sm-down) {
+  margin: 0px 0px 24px 0px;
+}
+} 
 .mockup-preview-wrapper{
   background: #FFFFFF;
   border: 0.988728px solid #E5E5E5;
@@ -647,9 +653,16 @@ margin-top: 24px;
     top: 7px;
     right: 10px;
     left: 10px;
-
     z-index: 99;
+    .preview-header{
+      .preview-creadincials{
+        .gradient-border{
+          background: transparent;
+        }
+      }
+    }
   }
+
   .line{
     height: 2px;
     width: 100%;
@@ -729,7 +742,7 @@ margin-top: 24px;
     display: block;
     position: relative;
     padding-top: 56.25%;
-    height: 500px;
+    height: 400px;
     background-color:  #141514;
     img{
       position: absolute;
