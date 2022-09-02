@@ -13,7 +13,7 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                <input-row :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
+                <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
         </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -35,9 +35,9 @@
     Vue.component('input-row', {
         data: function () {
             return {
-                cpmValue : null,
-                impressionsValue: null,
-                totalCostValue: null,
+                cpmValue : this.values.cpm,
+                impressionsValue: this.values.impressions,
+                totalCostValue: this.values.totalCost,
                 lastUpdatedField: '',
                 options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
                 selectedOption : this.platform.name.includes('Campaign') ? {name:this.campaign,icon:'dot'} : this.platform,
@@ -56,6 +56,16 @@
             },
             platform:{
                 type: Object
+            },
+            values:{
+                type: Object,
+                default:function(){
+                    return {
+                        cpm:null,
+                        impressions:null,
+                        totalCost:null
+                    }
+                }
             }
         },
         methods:{
@@ -73,6 +83,7 @@
             let newValue = e.target.value.replace(digitRegex, "").replace(/,/g, '')
             this[`${fieldName}Value`] = parseFloat(newValue);
             if(!this.cpmValue && !this.impressionsValue || !this.impressionsValue && !this.totalCostValue || !this.cpmValue && !this.totalCostValue){
+                this.updateValue()
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
@@ -108,16 +119,19 @@
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'cpm': 
-                this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(2);
-                break;
+                    this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(2);
+                    this.updateValue()
+                    break;
                 case 'impressions':
+                    this.updateValue()
                     this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
                     break;
-                    case 'totalCost':
-                        this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
-                        break;
-                    }
-                    this.lastUpdatedField = fieldName;
+                case 'totalCost':
+                    this.updateValue()
+                    this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
+                    break;
+                }
+                this.lastUpdatedField = fieldName;
         },  
         blur(e){
             e.target.parentElement.parentElement.classList.remove('--active_input-box')
@@ -141,7 +155,11 @@
             this.$refs.dropdown.classList.remove('active')
         },
         selectOption(option){
-            this.$emit('select-option',{name: this.campaign, platform: option})
+            this.$emit('select-option',{name: this.campaign, platform: option, values:{
+                        cpm:this.cpmValue,
+                        totalCost: this.totalCostValue,
+                        impressions: this.impressionsValue 
+            }})
             this.selectedOption = option
         },
         getImgUrl(pic) {
@@ -153,6 +171,17 @@
             } else{
                  return fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
             }
+        },
+        updateValue(){
+            if(this.tab === 'advance'){
+                this.$emit('value-change',{
+                        name: this.campaign,
+                        cpm:this.cpmValue,
+                        totalCost: this.totalCostValue,
+                        impressions: this.impressionsValue
+                })
+            }
+            return
         }
       },
       watch: {
@@ -282,20 +311,39 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-            campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'}}],
+            campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: {
+                        impressions:null,
+                        cpm:null,
+                        totalCost:null
+                    }}],
             ind : 1,
             isRefresh: false,
-            activeTab: 'simple'
+            activeTab: 'simple',
+            dummyCampains:[],
+        },
+        watch:{
+          campaigns:{
+            handler(val) {
+                this.dummyCampains = val
+            },
+            immediate: true
+          }
         },
     methods:{
         addCampaign(){
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(JSON.stringify(this.campaigns[i].values) !== JSON.stringify(this.dummyCampains[i].values) || JSON.stringify(this.campaigns[i].platform) !== JSON.stringify(this.dummyCampains[i].platform)){
+                    this.campaigns[i].values = this.dummyCampains[i].values
+                    this.campaigns[i].platform = this.dummyCampains[i].platform
+                }
+            }
             this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
         },
         selectOption(e){
-            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i].name === e.name ){
-                    this.campaigns[i].platform = e.platform
+                    this.dummyCampains[i].platform = e.platform
                 }
             }
         },
@@ -315,11 +363,20 @@
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i].name !== e.name ){
-                    newArr.push({name:`Campaign ${++this.ind}`,platform:this.campaigns[i].platform })   
+                    newArr.push({name:`Campaign ${++this.ind}`,platform:this.dummyCampains[i].platform,values:this.dummyCampains[i].values })   
                 }
             }
             this.campaigns = [...newArr]
         },
+        valueChange(e){
+            this.dummyCampains = JSON.parse(JSON.stringify(this.campaigns))
+            const updatedValues = JSON.parse(JSON.stringify(e))
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.dummyCampains[i].name === updatedValues.name ){
+                    this.dummyCampains[i].values = updatedValues
+                }
+            }
+        }
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
