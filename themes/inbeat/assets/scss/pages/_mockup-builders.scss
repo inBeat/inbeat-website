@@ -83,7 +83,7 @@
         .mockup__configuration-section{
           padding-right: 3rem;
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
-          height: 780px;
+          // height: 780px;
           overflow-y: hidden;
           @include breakpoint(sm-down) {
             padding-left: 0;
@@ -186,6 +186,8 @@
   letter-spacing: 0.3px;
   width: -webkit-fill-available;
   transition: all 0.5s ease;
+  color: #262626;
+  font-size: 0.952rem;
   &:focus{
     border-color: #000000;
     outline: none;
@@ -198,7 +200,7 @@
   padding: 12px 24px;
 }
 .mockup__configuration-dropzone-wrapper{
-  margin-top: 36px;
+  margin-top: 24px;
   font-weight: 600;
   font-size: 16px;
   line-height: 26px;
@@ -262,7 +264,7 @@
     border-color: #000000;
   }
   a{
-      font-weight: 500;
+      // font-weight: 500;
       font-size: 16px;
       line-height: 26px;  
       display: flex;
@@ -278,6 +280,8 @@
   a{
       text-decoration: none;
       gap: 10px;
+      color: #262626;
+      font-size: 0.952rem;
   }
   .dropdown-icon{
       margin-left: 8px;
@@ -319,7 +323,7 @@
               font-weight: 400;
               font-size: 14px;
               line-height: 22px; 
-              color: #000000;
+              color: #262626;
               span{
                   opacity: 0.5;
               }
@@ -331,13 +335,13 @@
   }
 }
 .mockup__configuration-ad-action{
-  margin-top: 36px;
+  margin-top: 24px;
 .mockup_dropdown-wrapper{
   margin-top: 12px;
 }
 }
 .mockup__configuration-like-count{
-  margin-top: 36px;
+  margin-top: 24px;
   .likes-count-input{
     margin-top: 12px;
     border: 1px solid #BBBBBB;
@@ -348,6 +352,8 @@
     letter-spacing: 0.3px;
     width: -webkit-fill-available;
     transition: all 0.5s ease;
+    color: #262626;
+    font-size: 0.952rem;
     &:focus{
       outline: none;
       border-color: #000000;
@@ -355,17 +361,19 @@
   }
 }
 .mockup__configuration-message-wrapper{
-  margin-top: 36px;
+  margin-top: 24px;
   .message-textarea{
     margin-top: 12px;
     border: 1px solid #BBBBBB;
-  border-radius: 4px;
-  padding: 12px 14px;
-    font-size: 16px;
+    border-radius: 4px;
+    padding: 12px 14px;
+    // font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.3px;
     width: -webkit-fill-available;
     transition: all 0.5s ease;
+    color: #262626;
+    font-size: 0.952rem;
     &:focus{
       border-color: #000000;
       outline: none;
@@ -377,6 +385,7 @@
   background: #F9F7F7;
   border-radius: 1px;
   padding: 23px;
+  height: -webkit-fill-available;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
@@ -462,12 +471,13 @@ border-radius: 3.95491px;
 .preview-body{
   overflow: hidden; 
   background: #F9F9F9;
+  height: 383px;
   img{
     display: block;
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
+    // max-width: 100%;
+    // max-height: 100%;
+    // width: auto;
+    // height: auto;
   }
 }
 .preview-banner-cta{
@@ -475,11 +485,11 @@ border-radius: 3.95491px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #5395E9;
-  font-weight: 700;
-  font-size: 15.0496px;
+  // background: #5395E9;
+  font-weight: 600;
+  font-size: 13.8422px;
   line-height: 17px;
-  color: #FFFFFF;
+  color: #262626;
 }
 .preview-comments{
   height: 150px;
@@ -539,6 +549,7 @@ margin-top: 24px;
     font-size: 13.8422px;
     line-height: 17px;
     color: #262626;
+    font-family: Inter, sans-serif;
   }
 }
 .preview-design-switch{
@@ -620,7 +631,7 @@ margin-top: 24px;
 }
 }
 .ad__type-wrapper{
-  margin-top: 19px;
+  margin-top: 16px;
   display: flex;
   align-items: center;
   gap: 16px;

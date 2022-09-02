@@ -11,7 +11,7 @@
                     <div class="row mockup__preview-configuration-wrapper">
                         <div class="col-md-7 mockup__configuration-wrapper">
 
-                          <div class="mockup__configuration-section">
+                          <div class="mockup__configuration-section" id="mockup-controls">
                               <div class="mockup__configuration-header-wrapper">
                                 <h4 class="mockup__configuration-title">Instagram</h4>
                                 <!-- <div>
@@ -44,7 +44,7 @@
                                 </div>
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
-                                <span class="mockup__title">Image thumbnail</span>
+                                <span class="mockup__title">Image</span>
                                 <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
                                   <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
@@ -80,7 +80,7 @@
                               </div>
                           </div>
                         </div>
-                        <div class="mockup__preview-section col-md-5">
+                        <div class="mockup__preview-section col-md-5" id="mockup-preview">
                           <!-- <div class="preview-design-switch">
                             <div class="design-type design__type-true" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
                                 True design 
@@ -94,14 +94,14 @@
                             </div>
                         </div> -->
                           <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1">
-                            <div class="preview-nav">
+                            <!-- <div class="preview-nav">
                               {{- partial "icons/camera.html" -}}
                               {{- partial "icons/instagram-title.html" -}}
                               <div>
                                 {{- partial "icons/igtv.html" -}}
                                 {{- partial "icons/chat.html" -}}
                               </div>
-                            </div>
+                            </div> -->
                               <div class="preview-header">
                                   <div class="preview-creadincials">
                                     <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
@@ -452,11 +452,13 @@
               type:'Square',
               ratio:'1:1',
               img:'1-1',
+              req: 91,
             },{
               id:2,
               type:'Story',
               ratio:'9:16',
-              img:'9-16'
+              img:'9-16',
+              req: 91 
             }],
             activeAd: 1,
         },
@@ -470,7 +472,7 @@
         },
         uploadImage(files,location){
             let src = URL.createObjectURL(event.target.files[0])
-            console.log(files, location)
+            // console.log(files, location)
             location === 'header' ? this.dpSrc = src : this.postSrc= src
         },
         validation(e){
@@ -537,6 +539,9 @@
         },
         adTypeClick(adType){
           this.activeAd =  adType.id
+          this.$nextTick(() => {
+            this.setHeight(adType.req)
+          })
         },
         addCaption(){
           this.displayCaptionValue = this.caption
@@ -549,11 +554,24 @@
               sentence = sentence + ' ' + words[i]
               this.displayCaptionValue = sentence
             });
+        },
+        setHeight(req){
+          document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
         }
     },
     mounted(){
       this.addCaption()
+      this.$nextTick(() => {
+          this.setHeight(91);
+      })
     },
+    computed: {
+        computedStyle() {
+          return {
+            // height: (document.getElementById('mockup-preview').clientHeight - 92) + 'px',
+          };
+        },
+      },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
