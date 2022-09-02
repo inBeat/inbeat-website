@@ -333,7 +333,7 @@
                     this.campaigns[i].platform = this.dummyCampains[i].platform
                 }
             }
-            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'},values: { impressions:null, ctr:null, totalCost:null}})
         },
         selectOption(e){
             for(let i = 0; i<=this.campaigns.length - 1;i++){
