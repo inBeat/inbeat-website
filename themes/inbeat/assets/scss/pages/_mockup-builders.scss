@@ -793,22 +793,17 @@ margin-top: 24px;
     gap: 21px;
   }
   .story__preview-footer{
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 10px;
+    position: relative;
     .cta-wrapper{
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      width: 58%;
-      padding-top: 8px;
+      position: absolute;
+      top: 50%;
+      right: 18px;
     }
     .cta{
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 8px;
+      gap: 9px;
       span{
         cursor: pointer;
         font-weight: 500;
