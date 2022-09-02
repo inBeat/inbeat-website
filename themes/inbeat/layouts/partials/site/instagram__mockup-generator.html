@@ -123,9 +123,11 @@
                                   <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt="">
                                 </uploader>
                               </div>
-                              <div class="preview-banner-cta">
-                                <span >{selectedPreviewCTA.name}</span>
-                                {{- partial "icons/right-chevron.html" -}}
+                              <div class="preview_banner-wrapper">
+                                <div class="preview-banner-cta">
+                                  <span >{selectedPreviewCTA.name}</span>
+                                  {{- partial "icons/right-chevron.html" -}}
+                                </div>
                               </div>
                               <div class="preview-cta">
                                 <div class="like-share-comment">

@@ -419,7 +419,7 @@ border-radius: 3.95491px;
   }
 }
 .preview-header{
-  padding: 8px 16px 8px 8px;
+  padding: 13px 28px 11px 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -480,8 +480,11 @@ border-radius: 3.95491px;
     // height: auto;
   }
 }
+.preview_banner-wrapper{
+  padding: 0px 15px;
+}
 .preview-banner-cta{
-  padding: 12px 16px;
+  padding: 13px 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -490,6 +493,7 @@ border-radius: 3.95491px;
   font-size: 13.8422px;
   line-height: 17px;
   color: #262626;
+  border-bottom: 0.494364px solid #DBDBDB;
 }
 .preview-comments{
   height: 150px;
@@ -528,7 +532,7 @@ margin-top: 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 11px 15px;
+  padding: 15px 15px;
   .like-share-comment{
     display: flex;
     align-items: center;
