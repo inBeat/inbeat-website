@@ -107,7 +107,7 @@
                                     <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
                                       <div class="gradient-border">
                                         <div class="profile-picture-wrapper">
-                                            <img :src="dpSrc ? dpSrc : ''" alt="">
+                                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                         </div>
                                       </div>
                                     </uploader>
@@ -120,7 +120,7 @@
                               </div>
                               <div class="preview-body">
                                 <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                                  <img class="preview-image-body" :src="postSrc ? postSrc : ''" alt="">
+                                  <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt="">
                                 </uploader>
                               </div>
                               <div class="preview-banner-cta">
@@ -161,7 +161,7 @@
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
                                     <div class="gradient-border">
                                       <div class="profile-picture-wrapper">
-                                          <img :src="dpSrc ? dpSrc : ''" alt="">
+                                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                       </div>
                                     </div>
                                   </uploader>
@@ -178,7 +178,7 @@
                             </div>
                           <div class="preview-body">
                             <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                              <img class="preview-image-body" :src="postSrc ? postSrc : ''" alt="">
+                              <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt="">
                             </uploader>
                           </div>
                           <div class="story__preview-footer">
@@ -442,8 +442,8 @@
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
             // dpSrc:null,
             // postSrc:null,
-            dpSrc:'/img/inbeat-logo.png',
-            postSrc:'/img/dummy-post-square.jpeg',
+            dpSrc:null,
+            postSrc:null,
             likes: 15,
             caption: 'This is caption that will display on the final mockup. You can write anything.',
             displayCaptionValue: '',
@@ -452,13 +452,13 @@
               type:'Square',
               ratio:'1:1',
               img:'1-1',
-              req: 91,
+              req: 92,
             },{
               id:2,
               type:'Story',
               ratio:'9:16',
               img:'9-16',
-              req: 91 
+              req: 92 
             }],
             activeAd: 1,
         },
@@ -562,7 +562,7 @@
     mounted(){
       this.addCaption()
       this.$nextTick(() => {
-          this.setHeight(91);
+          this.setHeight(92);
       })
     },
     computed: {
