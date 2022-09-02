@@ -140,7 +140,9 @@ $pink: #B85172;
                 align-items: center;
             }
             &.active + .dropdown-list {
-                display: block;
+                visibility: visible;
+                opacity: 1;
+                transform: translateY(3px);
               }
         }
         .dropdown-wrapper{
@@ -167,7 +169,10 @@ $pink: #B85172;
                 position: absolute;
                 top: 18.36%;
                 z-index: 999;
-                display: none;
+                visibility: hidden;
+                opacity: 0;
+                transform: translateY(-5px);
+                transition: all .15s ease;
                 .list-item{
                     padding: 8px 12px;
                     display: flex;
