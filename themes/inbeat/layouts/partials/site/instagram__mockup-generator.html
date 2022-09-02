@@ -143,7 +143,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
+                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span><span v-if="seeMoreVisible()">see more</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -199,8 +199,12 @@
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download Mockup
                               </button>
-                              <button @click="copyImage" class="mockup-copy-btn">
+                              <button @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
+                                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                                <span v-else class="--tooltip --sucess">Copied 
+                                    {{- partial "icons/check.html" -}}
+                                    </span>
                               </button>
                           </div>
                       </div>
@@ -463,6 +467,7 @@
               req: 72 
             }],
             activeAd: 1,
+            copied: false,
         },
     methods:{
         switchTab(tab){
@@ -498,6 +503,7 @@
           navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
               if (result.state == "granted" || result.state == "prompt") {
                 html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+                this.copied = true
               }
           })
         },
@@ -562,6 +568,10 @@
         },
         addLikes(e){
          this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+        },
+        seeMoreVisible(){
+          console.log(document.getElementById('preview-caption').clientHeight)
+          return document.getElementById('preview-caption').clientHeight > 34 ? true : false 
         }
     },
     mounted(){

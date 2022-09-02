@@ -522,6 +522,32 @@ margin-top: 24px;
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    position: relative;
+    .--tooltip{
+      z-index: 99;
+  }
+  .--sucess{
+    background: #D6EBE4;
+    color: black;
+    display: flex;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: max-content;
+    margin-left: -25px;
+    &::after{
+        border-color: #D6EBE4 transparent transparent transparent;
+    }
+
+}
+    &:hover{
+      .--tooltip{
+        visibility: visible;
+    }
+    }
   }
 }
 .preview-cta{
