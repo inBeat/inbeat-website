@@ -310,6 +310,16 @@
             this.campaigns.push({name:`Website ${++this.ind}`})
         },
         refresh(){
+            // for(let i = 0; i<=this.campaigns.length - 1;i++){
+            //     i.impressions=null,
+            //             i.ctr=null,
+            //             i.totalClick=null
+            // }
+            this.campaigns =  [{name:'Website 1',values: {
+                        impressions:null,
+                        ctr:null,
+                        totalClick:null
+                    }}]
             this.isRefresh = !this.isRefresh
         },
         switchTab(tab){
