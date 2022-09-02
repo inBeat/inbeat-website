@@ -525,6 +525,8 @@ margin-top: 24px;
     position: relative;
     .--tooltip{
       z-index: 99;
+      box-sizing: border-box;
+      margin-left: -50px;
   }
   .--sucess{
     background: #D6EBE4;
