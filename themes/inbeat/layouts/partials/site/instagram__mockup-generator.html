@@ -60,7 +60,7 @@
                                   </p>
                                   <dropdown :options="ctaOptions" @option-select="optionSelect($event)"></dropdown>
                               </div>
-                              <div class="mockup__configuration-like-count">
+                              <div class="mockup__configuration-like-count" v-if="activeAd === 1">
                                   <h4 class="mockup__title">
                                       Likes
                                   </h4>
@@ -69,7 +69,7 @@
                                   </p>
                                   <input @input="addLikes" class="likes-count-input" type="number" value="15">
                               </div>
-                              <div class="mockup__configuration-message-wrapper">
+                              <div class="mockup__configuration-message-wrapper" v-if="activeAd === 1">
                                   <h4 class="mockup__title">
                                       Message
                                   </h4>
@@ -143,7 +143,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span><span v-if="seeMoreVisible()">see more</span>
+                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -569,10 +569,10 @@
         addLikes(e){
          this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
         },
-        seeMoreVisible(){
-          console.log(document.getElementById('preview-caption').clientHeight)
-          return document.getElementById('preview-caption').clientHeight > 34 ? true : false 
-        }
+        // seeMoreVisible(){
+        //   console.log(document.getElementById('preview-caption').clientHeight)
+        //   return document.getElementById('preview-caption').clientHeight > 34 ? true : false 
+        // }
     },
     mounted(){
       this.addCaption()
