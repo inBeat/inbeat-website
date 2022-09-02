@@ -37,7 +37,7 @@
                               <div class="profile__input-wrapper">
                                 <span class="mockup__title">Profil information</span>
                                 <div class="uploader-wrapper">
-                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">{{- partial "icons/upload-img-logo.html" -}} </uploader>
+                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper">{{- partial "icons/upload-img-logo.html" -}} </span> </uploader>
                                     <div class="input-wrapper">
                                             <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
                                     </div>

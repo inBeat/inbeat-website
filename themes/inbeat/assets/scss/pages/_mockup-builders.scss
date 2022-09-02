@@ -175,6 +175,20 @@
     display: flex;
     gap: 8px;
     margin-top: 8px;
+    .upload-image-wrapper{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: #F9F7F7;
+      border: 1px solid #CBCBCB;
+      transition: all 0.3s ease;
+      &:hover{
+        border-color: #000000;
+      }
+    }
   }
 } 
 .mockup-input{
@@ -224,12 +238,16 @@
   .file--upload__draggable {
     cursor: pointer;
     padding: 0.25em;
-
     border: 1px dashed #BBBBBB;
     border-radius: 4px;    
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: all 0.3s ease;
+    &:hover{
+      background-color:#F9F7F7;
+      border-color: #000000;
+    }
   }
 
   &.mockup-drag-enter {
