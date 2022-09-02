@@ -50,7 +50,7 @@
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
-    margin-bottom: 128px;
+    margin-bottom: 96px;
     @include breakpoint(sm-down) {
         margin-top: 1rem;
         padding: 1.5rem 1rem 1.5rem 1rem;
@@ -187,7 +187,7 @@
   width: -webkit-fill-available;
   transition: all 0.5s ease;
   color: #262626;
-  font-size: 0.952rem;
+  font-size: 0.875rem;
   &:focus{
     border-color: #000000;
     outline: none;
@@ -281,7 +281,7 @@
       text-decoration: none;
       gap: 10px;
       color: #262626;
-      font-size: 0.952rem;
+      font-size: 0.875rem;
   }
   .dropdown-icon{
       margin-left: 8px;
@@ -353,7 +353,7 @@
     width: -webkit-fill-available;
     transition: all 0.5s ease;
     color: #262626;
-    font-size: 0.952rem;
+    font-size: 0.875rem;
     &:focus{
       outline: none;
       border-color: #000000;
@@ -373,7 +373,7 @@
     width: -webkit-fill-available;
     transition: all 0.5s ease;
     color: #262626;
-    font-size: 0.952rem;
+    font-size: 0.875rem;
     &:focus{
       border-color: #000000;
       outline: none;
@@ -393,7 +393,7 @@
 }
 }
 #instagram-mockup-preview{
-  margin: 25px 33px 48px 48px;
+  margin: 24px 32px 48px 24px;
   @include breakpoint(sm-down) {
   margin: 0px 0px 24px 0px;
 }
@@ -401,8 +401,8 @@
 .mockup-preview-wrapper{
   background: #FFFFFF;
   border: 0.988728px solid #E5E5E5;
-filter: drop-shadow(0px 2.48448px 6.83233px rgba(0, 0, 0, 0.1));
-border-radius: 3.95491px;
+  filter: drop-shadow(0px 2.48448px 6.83233px rgba(0, 0, 0, 0.1));
+  border-radius: 3.95491px;
 }
 .preview-nav{
   padding: 12px 16px 6px 12px;
@@ -428,19 +428,14 @@ border-radius: 3.95491px;
     align-items: center;
     gap: 8px;
   }
-  .gradient-border{
-    padding: 2px;
-    background: linear-gradient(210.07deg, #751BCF 7.72%, #DE0046 37.32%, #F8AF53 89.74%, #F8AF53 92.28%);
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-  }
+
   .profile-picture-wrapper{
-    width: 100%;
-    height: 100%;
+    height: 33.33px;
+    width: 33.33px;
     border-radius: 50%;
     overflow: hidden;
-    background: #FFFFFF;
+    background: #F9F9F9;
+    border: 0.988728px solid #E1E1E1;
     img{
       width: 100%;
       height: 100%;
@@ -472,6 +467,7 @@ border-radius: 3.95491px;
   overflow: hidden; 
   background: #F9F9F9;
   height: 383px;
+  cursor: pointer;
   img{
     display: block;
     // max-width: 100%;
@@ -509,7 +505,7 @@ border-radius: 3.95491px;
 .preview-download-wrapper{
 display: flex;
 align-items: initial;
-gap: 10px;
+gap: 16px;
 margin-top: 24px;
   .mockup-download-btn{
     flex: 1 1 auto;
@@ -607,30 +603,31 @@ margin-top: 24px;
   gap: 16px;
   margin-bottom: 48px;
   .platform{
-    padding: 8px 12px;
-    border-radius: 8px;
+    padding: 10px 18px;
+    border-radius: 360px;
     font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 20px;
     letter-spacing: -0.3px;
     color: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
+    cursor: pointer;
   }
   .platform.instagram{
-    background-color: #FFE9F0;
+    background-color: #FFE5EE;
   }
   .platform.facebook{
-    background-color: #CCF6FF;
+    background-color: #E1F6FB;
   }
   .platform.tiktoc{
-    background-color: #E4E0FC;
+    background-color: #DDD8F6;
   }
 }
 .mockup__configuration-wrapper{
-  padding: 48px 24px 44px 51px;
+  padding: 48px 48px 24px 51px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;

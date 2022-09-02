@@ -143,7 +143,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 700;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
+                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -161,11 +161,11 @@
                               <div class="preview-header">
                                 <div class="preview-creadincials">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
-                                    <div class="gradient-border">
+                                    <!-- <div class="gradient-border"> -->
                                       <div class="profile-picture-wrapper">
                                           <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                       </div>
-                                    </div>
+                                    <!-- </div> -->
                                   </uploader>
                                     <div class="user-name-wrapper">
                                         <h4 class="user-name">{profileName}</h4>
@@ -454,13 +454,13 @@
               type:'Square',
               ratio:'1:1',
               img:'1-1',
-              req: 92,
+              req: 72,
             },{
               id:2,
               type:'Story',
               ratio:'9:16',
               img:'9-16',
-              req: 92 
+              req: 72 
             }],
             activeAd: 1,
         },
@@ -567,7 +567,7 @@
     mounted(){
       this.addCaption()
       this.$nextTick(() => {
-          this.setHeight(92);
+          this.setHeight(72);
       })
     },
     computed: {
