@@ -443,6 +443,7 @@ $pink: #B85172;
     }   
 }
 .--tooltip{
+    pointer-events: none;
     opacity: 0;
     width: 120px;
     background-color: black;
@@ -630,5 +631,15 @@ $pink: #B85172;
                 }
             }
         }
+    }
+}
+.cpa-header{
+    .--tooltip{
+        left: -100%;
+    }
+}
+.total-cost-header{
+    .--tooltip{
+        left: 50%;
     }
 }
