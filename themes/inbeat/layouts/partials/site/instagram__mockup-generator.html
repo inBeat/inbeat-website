@@ -67,7 +67,7 @@
                                   <p class="mockup__description">
                                       Set the number of likes for your post. Numeric input only.
                                   </p>
-                                  <input class="likes-count-input" type="number" v-model="likes">
+                                  <input @input="addLikes" class="likes-count-input" type="number" value="15">
                               </div>
                               <div class="mockup__configuration-message-wrapper">
                                   <h4 class="mockup__title">
@@ -559,6 +559,9 @@
         },
         setHeight(req){
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
+        },
+        addLikes(e){
+         this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
         }
     },
     mounted(){
