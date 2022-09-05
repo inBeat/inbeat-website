@@ -39,7 +39,7 @@
                                 <div class="uploader-wrapper">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper">{{- partial "icons/upload-img-logo.html" -}} </span> </uploader>
                                     <div class="input-wrapper">
-                                            <input v-model="profileName" type="text" id="account-name-input" class="mockup-input"/>
+                                            <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input" class="mockup-input" placeholder="user name"/>
                                     </div>
                                 </div>
                               </div>
@@ -58,7 +58,7 @@
                                   <p class="mockup__description">
                                       Encourage people to click with an explicit call to action button.
                                   </p>
-                                  <dropdown :options="ctaOptions" @option-select="optionSelect($event)"></dropdown>
+                                  <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA" @option-select="optionSelect($event)"></dropdown>
                               </div>
                               <div class="mockup__configuration-like-count" v-if="activeAd === 1">
                                   <h4 class="mockup__title">
@@ -67,7 +67,7 @@
                                   <p class="mockup__description">
                                       Set the number of likes for your post. Numeric input only.
                                   </p>
-                                  <input @input="addLikes" class="likes-count-input" type="number" value="15">
+                                  <input @input="addLikes" class="likes-count-input" type="number" placeholder="15">
                               </div>
                               <div class="mockup__configuration-message-wrapper" v-if="activeAd === 1">
                                   <h4 class="mockup__title">
@@ -76,7 +76,7 @@
                                   <p class="mockup__description">
                                       Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
                                   </p>
-                                  <textarea @input="addCaption" maxlength="125"  class="message-textarea" v-model="caption"></textarea>
+                                  <textarea @input="addCaption" maxlength="125"  class="message-textarea" v-model="caption" placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                               </div>
                           </div>
                         </div>
@@ -112,7 +112,7 @@
                                       </div>
                                     </uploader>
                                       <div class="user-name-wrapper">
-                                          <h4 class="user-name">{profileName}</h4>
+                                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                           <span class="sponcered-text">Sponsored</span>
                                       </div>
                                   </div>
@@ -143,7 +143,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 600;">{profileName}</span><span v-html="displayCaptionValue">This is caption</span>
+                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span v-html="displayCaptionValue"></span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -168,7 +168,7 @@
                                     <!-- </div> -->
                                   </uploader>
                                     <div class="user-name-wrapper">
-                                        <h4 class="user-name">{profileName}</h4>
+                                        <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                         <span class="sponcered-text">Sponsored</span>
                                     </div>
                                 </div>
@@ -392,7 +392,7 @@
     Vue.component('dropdown', {
         data: function () {
             return {
-                selectedOption:this.options[4],
+                selectedOption:this.optionselected,
                 isOpenDropdown: false
             }
         },
@@ -400,6 +400,14 @@
             options: {
               type: Array,
             },
+            optionselected:{
+              type: Object
+            }
+        },
+        watch:{
+          optionselected(value){
+            this.selectedOption = value
+          }
         },
         methods: {
         openDropdown(e){
@@ -444,14 +452,14 @@
       data: {
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
             activeTab: 'simple',
-            profileName: 'john_doe',
+            profileName: '',
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
             // dpSrc:null,
             // postSrc:null,
             dpSrc:null,
             postSrc:null,
             likes: 15,
-            caption: 'This is caption that will display on the final mockup. You can write anything.',
+            caption: '',
             displayCaptionValue: '',
             adTypes: [{
               id:1,
@@ -546,6 +554,7 @@
             return '/icons/'+pic+'.svg'
         },
         adTypeClick(adType){
+          this.clearFields()
           this.activeAd =  adType.id
           this.$nextTick(() => {
             this.setHeight(adType.req)
@@ -572,12 +581,25 @@
         // seeMoreVisible(){
         //   console.log(document.getElementById('preview-caption').clientHeight)
         //   return document.getElementById('preview-caption').clientHeight > 34 ? true : false 
-        // }
+        // },
+        onKeyDown(){
+          if (event.code === 'Space') event.preventDefault()
+        },
+        clearFields(){
+          this.dpSrc = null,
+          this.postSrc = null,
+          this.caption='',
+          this.likes=null,
+          this.profileName = '',
+          this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
+          console.log(this.selectedPreviewCTA)
+        }
     },
     mounted(){
       this.addCaption()
       this.$nextTick(() => {
           this.setHeight(72);
+          this.displayCaptionValue= 'This is caption that will display on the final mockup. You can write anything.'
       })
     },
     computed: {
