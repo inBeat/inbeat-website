@@ -4,12 +4,24 @@
             <dropdown :options="mockformatOptions"></dropdown>
             <dropdown :options="dimensionOption"></dropdown>
         </div> -->
+        <div class="preview-design-switch hide-md-up">
+          <div class="design-type" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
+              Controls
+              <!-- <span class="question-circle">
+                {{- partial "icons/question-mark-wh.html" -}}
+              </span>
+              <span class="--tooltip">Edit mockup Controls</span> -->
+          </div>
+          <div class="design-type" :class="{'--active_tab': activeTab === 'preview'}" @click="switchTab('preview')">
+              Preview 
+          </div>
+      </div>
         <div class="row" id="mockup__card-wrapper">
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
                     <!-- <h4 class="mockup__title">Instagram mockup</h4>
                     <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
                     <div class="row mockup__preview-configuration-wrapper">
-                        <div class="col-md-7 mockup__configuration-wrapper">
+                        <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"  class="col-md-7 mockup__configuration-wrapper">
 
                           <div class="mockup__configuration-section" id="mockup-controls">
                               <div class="mockup__configuration-header-wrapper">
@@ -27,17 +39,19 @@
                               </div>
                               <div class="ad-type">
                                 <span class="mockup__title">Ad Type & format</span>
-                                <div class="ad__type-wrapper">
-                                  <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
-                                    <img :src="getImgUrl(adType.img)">
-                                        <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
+                                <div>
+                                  <div class="ad__type-wrapper">
+                                    <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                      <img :src="getImgUrl(adType.img)">
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
+                                    </div>
                                   </div>
                                 </div>
                               </div>
                               <div class="profile__input-wrapper">
                                 <span class="mockup__title">Profil information</span>
                                 <div class="uploader-wrapper">
-                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper">{{- partial "icons/upload-img-logo.html" -}} </span> </uploader>
+                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper"><span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span><img v-else :src="dpSrc ? dpSrc : ''" alt=""> </span> </uploader>
                                     <div class="input-wrapper">
                                             <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input" class="mockup-input" placeholder="user name"/>
                                     </div>
@@ -80,19 +94,8 @@
                               </div>
                           </div>
                         </div>
-                        <div class="mockup__preview-section col-md-5" id="mockup-preview">
-                          <!-- <div class="preview-design-switch">
-                            <div class="design-type design__type-true" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
-                                True design 
-                                <span class="question-circle">
-                                  {{- partial "icons/question-mark-wh.html" -}}
-                                </span>
-                                <span class="--tooltip">True design</span>
-                            </div>
-                            <div class="design-type design__type-minimal" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
-                                Minimial 
-                            </div>
-                        </div> -->
+                        <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section col-md-5" id="mockup-preview">
+                       
                           <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1">
                             <!-- <div class="preview-nav">
                               {{- partial "icons/camera.html" -}}
@@ -143,7 +146,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span v-html="displayCaptionValue"></span>
+                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -451,7 +454,7 @@
       el: '#mockup_builder',
       data: {
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
-            activeTab: 'simple',
+            activeTab: 'controls',
             profileName: '',
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
             // dpSrc:null,
@@ -476,14 +479,12 @@
             }],
             activeAd: 1,
             copied: false,
+            windowWidth: 0,
+            // displayBoth: true,
         },
     methods:{
         switchTab(tab){
             this.activeTab = tab
-            if(tab === 'simple'){
-                this.ind = 2
-                this.campaigns.splice(1)
-            }
         },
         uploadImage(files,location){
             let src = URL.createObjectURL(event.target.files[0])
@@ -595,7 +596,12 @@
           console.log(this.selectedPreviewCTA)
         }
     },
+    beforeMount() {
+    this.windowWidth = window.innerWidth;
+  },
     mounted(){
+      let isMobile = this.windowWidth <= 525 ? true : false;
+      isMobile ? this.activeTab = 'controls'  : this.activeTab = 'both'
       this.addCaption()
       this.$nextTick(() => {
           this.setHeight(72);
