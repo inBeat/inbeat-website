@@ -92,15 +92,15 @@
           padding-right: 3rem;
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
           // height: 780px;
-          overflow-y: hidden;
+          // overflow-y: hidden;
+          overflow-y: overlay;
           @include breakpoint(sm-down) {
             padding-left: 0;
             padding-right: 0;
             height: auto;
         }
-          &:hover {
-            overflow-y: overlay;
-          }
+          // &:hover {
+          // }
           &::-webkit-scrollbar {
             width: 2px;
           }
@@ -402,7 +402,7 @@
     border-radius: 4px;
     padding: 12px 14px;
     // font-size: 16px;
-    line-height: 26px;
+    line-height: 22px;
     letter-spacing: 0.3px;
     width: -webkit-fill-available;
     transition: all 0.5s ease;
@@ -614,7 +614,10 @@ margin-top: 24px;
     color: #262626;
     font-family: Inter, sans-serif;
     height: 34px;
-    // overflow: hidden;
+    // height: auto;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s ease-in-out;
   }
 }
 .preview-design-switch{
@@ -903,9 +906,18 @@ margin-top: 24px;
     }
   }
 }
-.caption-text{
-  // display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;  
+// .caption-text{
+//   display: -webkit-box;
+//   -webkit-line-clamp: 2;
+//   -webkit-box-orient: vertical;
+//   overflow: hidden;  
+// }
+.see-more{
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  display: block;
+  background: white;
+  cursor: pointer;
+  font-weight: 600;
 }

@@ -59,7 +59,7 @@
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image</span>
-                                <span class="mockup__description">Recommended image size: 1080 x 1080 pixels.</span>
+                                <span class="mockup__description">Recommended image size: <span v-if="activeAd === 1">1080 x 1080 </span><span v-else>1080 x 1920</span>pixels.</span>
                                   <uploader height="139px" :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
                                     <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
@@ -145,8 +145,8 @@
                                 <div class="previwe-likes">
                                   {likes} Likes
                                 </div>
-                                <div class="preview-caption" id="preview-caption">
-                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span>
+                                <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
+                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="caption.length >= 79" class="see-more" @click="seeMoreExpand">...See More</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -515,7 +515,23 @@
                 this.copied = true
               }
           })
-          this.copyElementToClipboard('instagram-mockup-preview')
+          // ---------------------
+          // this.copyElementToClipboard('instagram-mockup-preview')
+          // -------------------------
+          // var div = document.createElement('div');
+          // html2canvas(preview).then(canvas => {
+          //   let img = document.createElement('img');
+          //   img.src = canvas.toDataURL()    
+          //   var div = document.createElement('div');
+          //   div.contentEditable = true;
+          //   div.appendChild(img);
+          //   console.log(div)
+          //   document.body.appendChild(div);
+          //   this.SelectText(div);
+          //   document.execCommand('Copy');
+          //   document.body.removeChild(div);
+          // }
+          // )
         },
         copyElementToClipboard(element) {
             window.getSelection().removeAllRanges();
@@ -524,6 +540,20 @@
             window.getSelection().addRange(range);
             document.execCommand('copy');
             window.getSelection().removeAllRanges();
+        },
+        SelectText(element) {
+          var doc = document;
+          if (doc.body.createTextRange) {
+              var range = document.body.createTextRange();
+              range.moveToElementText(element);
+              range.select();
+          } else if (window.getSelection) {
+              var selection = window.getSelection();
+              var range = document.createRange();
+              range.selectNodeContents(element);
+              selection.removeAllRanges();
+              selection.addRange(range);
+          }
         },
         shareImg(){
           var preview = document.getElementById('instagram-mockup-preview')
@@ -603,6 +633,19 @@
           this.profileName = '',
           this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
           console.log(this.selectedPreviewCTA)
+        },
+        seeMoreExpand(){
+          let ele = document.getElementById('preview-caption')
+          let height = ele.offsetHeight
+          if(height<51){
+            // ele.getElementsByClassName('see-more')[0].innerText = '...See Less'
+            ele.getElementsByClassName('see-more')[0].innerText = ''
+            ele.style.height = '51px'
+          }
+          // if(height>34){
+          //   ele.getElementsByClassName('see-more')[0].innerText = '...See More'
+          //   ele.style.height = '34px'
+          // }
         }
     },
     beforeMount() {

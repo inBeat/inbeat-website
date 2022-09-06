@@ -2,12 +2,12 @@
 title: inBeat
 description: >-
   Inbeat
-slug: instagram-mockup
+slug: instagram-ad-mockup
 layout: instagram-mockup
-title: Instagram Mockup
+title: Instagram Ad Mockup
 subtitle: "Instagram mockup"
 hero:
-  title: Free Instagram Ad Mockup
+  title: Instagram Ad Mockup Generator
   subtitle: >-
     Preview your ad campaign before they go live with inbeat instagram mockup builder. 
 whatwedo:
