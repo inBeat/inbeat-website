@@ -4,23 +4,24 @@
             <dropdown :options="mockformatOptions"></dropdown>
             <dropdown :options="dimensionOption"></dropdown>
         </div> -->
-        <div class="preview-design-switch hide-md-up">
-          <div class="design-type" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
-              Controls
-              <!-- <span class="question-circle">
-                {{- partial "icons/question-mark-wh.html" -}}
-              </span>
-              <span class="--tooltip">Edit mockup Controls</span> -->
-          </div>
-          <div class="design-type" :class="{'--active_tab': activeTab === 'preview'}" @click="switchTab('preview')">
-              Preview 
-          </div>
-      </div>
+    
         <div class="row" id="mockup__card-wrapper">
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                    <!-- <h4 class="mockup__title">Instagram mockup</h4>
-                    <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
-                    <div class="row mockup__preview-configuration-wrapper">
+              <!-- <h4 class="mockup__title">Instagram mockup</h4>
+                <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
+                <div class="row mockup__preview-configuration-wrapper">
+                      <div class="preview-design-switch hide-md-up col-xs-12">
+                        <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
+                            Controls
+                            <!-- <span class="question-circle">
+                              {{- partial "icons/question-mark-wh.html" -}}
+                            </span>
+                            <span class="--tooltip">Edit mockup Controls</span> -->
+                        </div>
+                        <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'preview'}" @click="switchTab('preview')">
+                            Preview 
+                        </div>
+                    </div>
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"  class="col-md-7 mockup__configuration-wrapper">
 
                           <div class="mockup__configuration-section" id="mockup-controls">
