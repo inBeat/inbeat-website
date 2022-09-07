@@ -101,7 +101,7 @@
                                   <p class="mockup__description">
                                       Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
                                   </p>
-                                  <textarea @input="addCaption" maxlength="125"  class="message-textarea" v-model="caption" placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                                  <textarea @input="addCaption" maxlength="2200"  class="message-textarea" v-model="caption" placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                               </div>
                           </div>
                         </div>
@@ -158,7 +158,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
-                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="caption.length >= 79" class="see-more" @click="seeMoreExpand">...See More</span>
+                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="caption.length >= 98" class="see-more" @click="seeMoreExpand">...See More</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -708,11 +708,12 @@
         },
         seeMoreExpand(){
           let ele = document.getElementById('preview-caption')
+          let text = document.getElementsByClassName('caption-text')[0]
           let height = ele.offsetHeight
           if(height<51){
             // ele.getElementsByClassName('see-more')[0].innerText = '...See Less'
             ele.getElementsByClassName('see-more')[0].innerText = ''
-            ele.style.height = '51px'
+            ele.style.height = text.offsetHeight+'px'
           }
           // if(height>34){
           //   ele.getElementsByClassName('see-more')[0].innerText = '...See More'
