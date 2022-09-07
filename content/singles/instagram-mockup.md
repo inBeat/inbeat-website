@@ -7,7 +7,7 @@ layout: instagram-mockup
 title: Instagram Ad Mockup
 subtitle: "Instagram mockup"
 hero:
-  title: Instagram Ad Mockup Generator
+  title: Instagram Ad Mockup <br> Generator
   subtitle: >-
     Preview your ad campaign before they go live with inbeat instagram mockup builder. 
 whatwedo:
