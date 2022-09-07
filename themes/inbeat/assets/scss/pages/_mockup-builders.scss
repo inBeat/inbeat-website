@@ -5,12 +5,15 @@
   // }
   &.has-banner{
       // Add the banner height size
+      // margin-top: 128px;
       margin-top: 128px;
   }
   .hero_mockup-header{
-      padding-top: 128px;
+    // padding-top: 128px;
+      padding-top: 176px;
       @include breakpoint(sm-down) {
-          padding-top: 32px;
+          // padding-top: 32px;
+          padding-top: 90px;
         }
     h1{
       font-weight: 500;
