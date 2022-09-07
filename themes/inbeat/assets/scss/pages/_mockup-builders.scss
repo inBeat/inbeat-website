@@ -426,6 +426,7 @@
   border-radius: 1px;
   padding: 24px;
   height: -webkit-fill-available;
+  font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
