@@ -12,7 +12,7 @@
                 <div class="row mockup__preview-configuration-wrapper">
                       <div class="preview-design-switch hide-md-up col-xs-12">
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
-                            Controls
+                            Configuration 
                             <!-- <span class="question-circle">
                               {{- partial "icons/question-mark-wh.html" -}}
                             </span>
@@ -39,7 +39,17 @@
                                 </div> -->
                               </div>
                               <div class="ad-type">
-                                <span class="mockup__title">Ad Type & format</span>
+                                <div class="ad-type-header">
+                                  <span class="mockup__title">Ad Type & format</span>
+                                  <div class="hide-md-up">
+                                    <span @click="scroll('Left')">
+                                      {{- partial "icons/left-arrow.html" -}}
+                                    </span>
+                                    <span @click="scroll('Right')">
+                                      {{- partial "icons/right-arrow.html" -}}
+                                    </span>
+                                  </div>
+                                </div>
                                 <div>
                                   <div class="ad__type-wrapper">
                                     <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
@@ -50,7 +60,7 @@
                                 </div>
                               </div>
                               <div class="profile__input-wrapper">
-                                <span class="mockup__title">Profil information</span>
+                                <span class="mockup__title">Profile information</span>
                                 <div class="uploader-wrapper">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper"><span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span><img v-else :src="dpSrc ? dpSrc : ''" alt=""> </span> </uploader>
                                     <div class="input-wrapper">
@@ -112,6 +122,7 @@
                                       <div class="gradient-border">
                                         <div class="profile-picture-wrapper">
                                             <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                            
                                         </div>
                                       </div>
                                     </uploader>
@@ -126,6 +137,7 @@
                                 <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                                   <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt="">
                                 </uploader>
+                                  <!-- <slider :slides="postSrc"></slider> -->
                               </div>
                               <div class="preview_banner-wrapper">
                                 <div class="preview-banner-cta">
@@ -184,6 +196,7 @@
                             </div>
                           <div class="preview-body">
                             <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                              <!-- <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[0] : ''" alt=""> -->
                               <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt="">
                             </uploader>
                           </div>
@@ -215,6 +228,7 @@
                     </div>
             </div>
         </div>
+       
     </div>
 </section>
 
@@ -451,6 +465,57 @@
         </div>
     `
     })
+    Vue.component('slider', {
+        data: function () {
+            return {
+              current: 0,
+              direction: 1,
+              transitionName: "fade",
+              show: false,
+            }
+        },
+        props:{
+          slides: {
+              type: Array,
+            },
+            optionselected:{
+              type: Object
+            }
+        },
+        methods: {
+          slide(dir) {
+            this.direction = dir;
+            dir === 1 ? (this.transitionName = "slide-next") : (this.transitionName = "slide-prev");
+            var len = this.slides.length;
+            this.current = (this.current + dir % len + len) % len;
+            console.log(this.current)
+          },
+          dragSlide(e){
+            console.log(e)
+            console.log('hello')
+          }
+        },
+        mounted() {
+          this.show = true;
+        },
+
+        template:  `
+              <div id="slider" @drag="dragSlide">
+          <transition-group tag="div" :name="transitionName" class="slides-group">
+            <div v-if="show" :key="current" class="slide"" >
+              <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
+            </div>
+          </transition-group>
+          <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
+            &#10094;
+          </div>
+          <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
+           &#10095
+          </div>
+        </div>
+    `
+    })
+
     var app = new Vue({
       el: '#mockup_builder',
       data: {
@@ -491,6 +556,12 @@
             let src = URL.createObjectURL(event.target.files[0])
             // console.log(files, location)
             location === 'header' ? this.dpSrc = src : this.postSrc= src
+            // if(location === 'header'){
+            //   this.dpSrc = src
+            // }else{
+            //     this.postSrc.push(src)
+            //     console.log(this.postSrc)
+            // }
         },
         validation(e){
             console.log(e)
@@ -501,7 +572,7 @@
           html2canvas(preview)
           .then(function(canvas){
             var link = document.createElement('a');
-              link.download = 'dummy-download.jpeg';
+              link.download = 'post-mockup.jpeg';
               link.href = canvas.toDataURL();
               link.click();
           })
@@ -628,6 +699,7 @@
         },
         clearFields(){
           this.dpSrc = null,
+          // this.postSrc = [],
           this.postSrc = null,
           this.caption='',
           this.likes=null,
@@ -647,6 +719,17 @@
           //   ele.getElementsByClassName('see-more')[0].innerText = '...See More'
           //   ele.style.height = '34px'
           // }
+        },
+        scroll(dir){
+         const  container = document.getElementsByClassName('ad__type-wrapper')[0]
+         scrollAmount = 0;
+         let slideTimer = setInterval(function(){
+                    dir==='Right'? container.scrollLeft += 30 : container.scrollLeft -= 30;
+                    scrollAmount += 155;
+                    if(scrollAmount >= 100){
+                        window.clearInterval(slideTimer);
+                    }
+                }, 25);      
         }
     },
     beforeMount() {
