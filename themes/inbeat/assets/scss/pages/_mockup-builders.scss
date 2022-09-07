@@ -221,6 +221,7 @@
   line-height: 24px;
   letter-spacing: --0.3px;
   width: -webkit-fill-available;
+  width: -moz-available;
   transition: all 0.5s ease;
   color: #262626;
   &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -403,6 +404,7 @@
     line-height: 24px;
     letter-spacing: -0.3px;
     width: -webkit-fill-available;
+    width: -moz-available;
     transition: all 0.5s ease;
     color: #262626;
     &:focus{
@@ -433,6 +435,7 @@
     line-height: 24px;
     letter-spacing: -0.3px;
     width: -webkit-fill-available;
+    width: -moz-available;
     transition: all 0.5s ease;
     color: #262626;
     font-size: 0.875rem;
@@ -461,6 +464,7 @@
   border-radius: 1px;
   padding: 24px;
   height: -webkit-fill-available;
+  width: -moz-available;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
