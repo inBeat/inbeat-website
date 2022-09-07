@@ -20,6 +20,7 @@
       line-height: 4rem;
       text-align: center;
       letter-spacing: -1.4px;
+      color: #141514;
       @include breakpoint(sm-down) {
           font-size: 2.25rem;
           line-height: 2.625rem;
@@ -64,15 +65,15 @@
         font-size: 16px;
         line-height: 24px;
         letter-spacing: -0.5px;
-        color: #000000;
+        color: #262627;
         margin: 0;
       }
       .mockup__description{
         font-weight: 400;
-        font-size: 12px;
-        line-height: 24px;
-        letter-spacing: -0.3px;
-        color: #BBBBBB;
+        font-size: 11px;
+        line-height: 16px;
+        letter-spacing: 0.01em;
+        color: rgba(0, 0, 0, 0.4);
         margin: 0;
         display: block;
       }
@@ -215,13 +216,24 @@
   border: 1px solid #BBBBBB;
   border-radius: 4px;
   padding: 12px 14px;
-  font-size: 16px;
-  line-height: 26px;
-  letter-spacing: 0.3px;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: --0.3px;
   width: -webkit-fill-available;
   transition: all 0.5s ease;
   color: #262626;
-  font-size: 0.875rem;
+  &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #C4C4C4;
+  }
+  
+  &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #C4C4C4;
+  }
+  
+  &::-ms-input-placeholder { /* Microsoft Edge */
+    color: #C4C4C4;
+  }
   &:focus{
     border-color: #000000;
     outline: none;
@@ -238,7 +250,7 @@
   font-weight: 600;
   font-size: 16px;
   line-height: 26px;
-  letter-spacing: 0.3px;
+  letter-spacing: --0.3px;
   color: #535562;
   .mockup__description{
     margin-bottom: 8px !important;
@@ -302,9 +314,10 @@
     border-color: #000000;
   }
   a{
-      // font-weight: 500;
-      font-size: 16px;
-      line-height: 26px;  
+      font-size: 0.875rem;
+      font-weight: 400;
+      line-height: 24px;
+      letter-spacing: -0.3px; 
       display: flex;
       align-items: center;
   }
@@ -385,16 +398,27 @@
     border: 1px solid #BBBBBB;
     border-radius: 4px;
     padding: 12px 14px;
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.3px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.3px;
     width: -webkit-fill-available;
     transition: all 0.5s ease;
     color: #262626;
-    font-size: 0.875rem;
     &:focus{
       outline: none;
       border-color: #000000;
+    }
+    &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: #C4C4C4;
+    }
+    
+    &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+      color: #C4C4C4;
+    }
+    
+    &::-ms-input-placeholder { /* Microsoft Edge */
+      color: #C4C4C4;
     }
   }
 }
@@ -406,8 +430,8 @@
     border-radius: 4px;
     padding: 12px 14px;
     // font-size: 16px;
-    line-height: 22px;
-    letter-spacing: 0.3px;
+    line-height: 24px;
+    letter-spacing: -0.3px;
     width: -webkit-fill-available;
     transition: all 0.5s ease;
     color: #262626;
@@ -756,11 +780,10 @@ margin-top: 24px;
     }
     
     .ad_type-title{
-
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 13px 12px;
+      padding: 13px 12px 14px 10px;
       .--active{
         color: #262627;
       }
@@ -770,9 +793,11 @@ margin-top: 24px;
         color: #C2C2C2;
         margin: 0;
         cursor: pointer;
+        font-weight: 700;
       }
       span{
         margin: 0;
+        font-weight: 500;
         color: #C2C2C2;
       }
       .circle{
