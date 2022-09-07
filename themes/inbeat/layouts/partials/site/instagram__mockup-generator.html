@@ -16,7 +16,7 @@
                             <!-- <span class="question-circle">
                               {{- partial "icons/question-mark-wh.html" -}}
                             </span>
-                            <span class="--tooltip">Edit mockup Controls</span> -->
+                            <span class="--tooltip-copy">Edit mockup Controls</span> -->
                         </div>
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'preview'}" @click="switchTab('preview')">
                             Preview 
@@ -217,8 +217,8 @@
                               </button>
                               <button @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
-                                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                                <span v-else class="--tooltip --sucess">Copied 
+                                <span v-if="!copied" class="--tooltip-copy">Copy png</span>
+                                <span v-else class="--tooltip-copy --sucess">Copied 
                                     {{- partial "icons/check.html" -}}
                                     </span>
                               </button>
