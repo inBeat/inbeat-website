@@ -118,13 +118,13 @@
                             </div> -->
                               <div class="preview-header">
                                   <div class="preview-creadincials">
-                                    <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
+                                    <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
                                       <div class="gradient-border">
                                         <div class="profile-picture-wrapper">
                                             <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                         </div>
                                       </div>
-                                    </uploader>
+                                    <!-- </uploader> -->
                                       <div class="user-name-wrapper">
                                           <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                           <span class="sponcered-text">Sponsored</span>
@@ -133,9 +133,9 @@
                                   {{- partial "icons/more-option.html" -}}
                               </div>
                               <div class="preview-body">
-                                <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                                <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                   <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt="">
-                                </uploader>
+                                <!-- </uploader> -->
                                   <!-- <slider :slides="postSrc"></slider> -->
                               </div>
                               <div class="preview_banner-wrapper">
@@ -175,13 +175,13 @@
                               </div>
                               <div class="preview-header">
                                 <div class="preview-creadincials">
-                                  <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                              
+                                  <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
                                     <!-- <div class="gradient-border"> -->
                                       <div class="profile-picture-wrapper">
                                           <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                       </div>
                                     <!-- </div> -->
-                                  </uploader>
+                                  <!-- </uploader> -->
                                     <div class="user-name-wrapper">
                                         <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                         <span class="sponcered-text">Sponsored</span>
@@ -194,10 +194,10 @@
                             </div>
                             </div>
                           <div class="preview-body">
-                            <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                            <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                               <!-- <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[0] : ''" alt=""> -->
                               <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt="">
-                            </uploader>
+                            <!-- </uploader> -->
                           </div>
                           <div class="story__preview-footer">
                             <div class="cta">
