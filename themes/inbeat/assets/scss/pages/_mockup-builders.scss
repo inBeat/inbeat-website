@@ -99,6 +99,7 @@
           // height: 780px;
           // overflow-y: hidden;
           overflow-y: overlay;
+          overflow-y: scroll;
           @include breakpoint(sm-down) {
             padding-left: 0;
             padding-right: 0;
@@ -467,7 +468,8 @@
   border-radius: 1px;
   padding: 24px;
   height: -webkit-fill-available;
-  width: -moz-available;
+  // height: -moz-available;
+  height: 100%;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
