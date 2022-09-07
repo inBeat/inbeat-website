@@ -442,6 +442,17 @@
       border-color: #000000;
       outline: none;
     }
+    &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+      color: #C4C4C4;
+    }
+    
+    &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+      color: #C4C4C4;
+    }
+    
+    &::-ms-input-placeholder { /* Microsoft Edge */
+      color: #C4C4C4;
+    }
   }
 }
 .mockup__preview-section{
