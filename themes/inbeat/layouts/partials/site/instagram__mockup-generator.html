@@ -80,7 +80,7 @@
                                 <div class="uploader-wrapper">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper"><span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span><img v-else :src="dpSrc ? dpSrc : ''" alt=""> </span> </uploader>
                                     <div class="input-wrapper">
-                                            <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input" class="mockup-input" placeholder="username"/>
+                                            <input v-model="profileName" @keyDown="onKeyDown" type="text" id="account-name-input" class="mockup-input" placeholder="username" maxlength="20"/>
                                     </div>
                                 </div>
                               </div>
