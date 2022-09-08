@@ -151,7 +151,7 @@
                               <div v-if="activeAd !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                                 <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                   <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
-                                  <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[0]" alt="">
+                                  <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                                 <!-- </uploader> -->
                                   <!-- <slider :slides="postSrc"></slider> -->
                               </div>
@@ -220,7 +220,7 @@
                             </div>
                           <div class="preview-body">
                             <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                              <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[0] : ''" alt="">
+                              <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                               <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
                             <!-- </uploader> -->
                           </div>
