@@ -896,7 +896,7 @@ margin-top: 24px;
   }
 }
 .mockup_preview-story{
-  background-color:  #141514;
+  // background-color:  #141514;
   position: relative;
   // padding: 7px 10px;
   padding-bottom: 7px;
@@ -959,7 +959,11 @@ margin-top: 24px;
     gap: 21px;
   }
   .story__preview-footer{
-    position: relative;
+    position: absolute;
+    bottom: 13px;
+    right: 0;
+    left: 0;
+    // position: relative;
     .cta-wrapper{
       position: absolute;
       top: 50%;
