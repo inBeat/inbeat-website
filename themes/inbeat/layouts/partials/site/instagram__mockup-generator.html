@@ -58,7 +58,7 @@
                                     </div>
                                     <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[1].id}"  @click="adTypeClick(adTypes[1])">
                                       <img src="/icons/3-2.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape<span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape <span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
                                     </div>
                                     <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[2].id}"  @click="adTypeClick(adTypes[2])">
                                       <img src="/icons/9-16.svg">
@@ -66,7 +66,7 @@
                                     </div>
                                     <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[3].id}"  @click="adTypeClick(adTypes[3])">
                                       <img src="/icons/carousel.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Curosel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Carousel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
                                     </div>
                                     <!-- <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
                                       <img :src="getImgUrl(adType.img)">
