@@ -183,7 +183,7 @@
                                   {likes} Likes
                                 </div>
                                 <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
-                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="caption.length >= 98" class="see-more" @click="seeMoreExpand">...See More</span>
+                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span>
                                 </div>
                               </div>
                               <!-- <div class="preview-footer">
@@ -596,6 +596,7 @@
             copied: false,
             windowWidth: 0,
             // displayBoth: true,
+            showSeeMore: false
         },
     methods:{
         switchTab(tab){
@@ -721,6 +722,7 @@
           })
         },
         addCaption(){
+          document.getElementsByClassName('caption-text')[0].offsetHeight > 34 ? this.showSeeMore = true : this.showSeeMore = false
           this.displayCaptionValue = this.caption
             const words = this.caption.split(" ");
             let sentence = ''
