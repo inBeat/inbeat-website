@@ -467,6 +467,7 @@
   background: #F9F7F7;
   border-radius: 1px;
   padding: 24px;
+  padding-bottom: 32px;
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
@@ -565,10 +566,10 @@
   }
 }
 .preview_banner-wrapper{
-  padding: 0px 21.85px 0px 15.27px;
+  padding: 0px 23px 0px 16px;
 }
 .preview-banner-cta{
-  padding: 13px 0px;
+  padding: 11px 0px 15px 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -605,7 +606,6 @@ margin-top: 24px;
   .mockup-copy-btn{
     padding: 15px 17px;
     background-color: #FFFFFF;
-    border: 1.43116px solid rgba(0, 0, 0, 0.1);
     border-radius: 4px;
     color: #535562;
     display: flex;
@@ -613,7 +613,8 @@ margin-top: 24px;
     justify-content: center;
     cursor: pointer;
     position: relative;
-    border: 1px solid transparent;
+    // border: 1px solid transparent;
+    border: 2px solid rgba(0, 0, 0, 0.1);
     transition: all 0.1s ease-in-out;
     .--tooltip-copy{
       z-index: 99;
@@ -621,7 +622,7 @@ margin-top: 24px;
       // margin-left: -50px;
   }
   &:hover{
-    border: 1px solid rgba(0, 0, 0, 0.5);
+    border: 2px solid rgba(0, 0, 0, 0.5);
     .--tooltip-copy{
       opacity: 1;
   }
@@ -649,7 +650,8 @@ margin-top: 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 15.69px 21.85px 15.05px 21.81px;
+  padding: 16px 23px 16px 16px;
+  position: relative;
   .like-share-comment{
     display: flex;
     align-items: center;
@@ -660,7 +662,7 @@ margin-top: 24px;
   font-size: 15.0496px;
   line-height: 17px;
   color: #262627;
-  padding: 0 24.97px 15.69px 15.28px;
+  padding: 0 23px 16px 16px;
   .previwe-likes{
     font-weight: 600;
     font-size: 13.6125px;
@@ -668,7 +670,7 @@ margin-top: 24px;
     color: #000000;
   }
   .preview-caption{
-    margin-top: 6.77px;
+    margin-top: 7px;
     font-weight: 400;
     font-size: 13.6125px;
     line-height: 17px;
@@ -702,7 +704,7 @@ margin-top: 24px;
   align-items: center;
   justify-content: center;
   gap: 6px;
-  padding: 4px 12px;
+  padding: 8px 12px;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -767,7 +769,7 @@ margin-top: 24px;
   }
 }
 .mockup__configuration-wrapper{
-  padding: 48px 48px 24px 51px;
+  padding: 48px 48px 32px 51px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
@@ -775,20 +777,32 @@ margin-top: 24px;
 }
 .ad__type-wrapper{
   margin-top: 16px;
-  display: flex;
-  align-items: center;
-  gap: 16px;
+  // display: flex;
+  // align-items: center;
+  // gap: 16px;
+  overflow: hidden;
+  max-height: 192px;
   padding-bottom: 32px;
   border-bottom: 1px solid #d8d8d8;
-  @include breakpoint(sm-down){
-    overflow-x: scroll;
-  }
+  // overflow-x: scroll;
+  // &::-webkit-scrollbar {
+  //   height: 1px;
+  // }
+  // &::-webkit-scrollbar-track {
+  //   background-color: #d8d8d8;
+  //   // background: #008080;
+  // }
+  // &::-webkit-scrollbar-thumb {
+  //   background: #cacaca;
+  // }
   .ad-type__card{
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     border-radius: 1px;
+    width: fit-content;
     // height: 153px;
     // width: 153px;
+    // margin-right: 1rem;
     cursor: pointer;
     padding: 2px;
     transition: all 0.3s ease-in-out;
@@ -1002,6 +1016,11 @@ margin-top: 24px;
   width: 100%;
   height: 100%;
   position: relative;
+  &:hover{
+    .btn{
+      opacity: 1;
+    }
+  }
   /* FADE IN */
 .fade-enter-active {
   transition: opacity 1s;
@@ -1051,6 +1070,7 @@ margin-top: 24px;
   z-index: 10;
   cursor: pointer;
   // border: 3px solid #fff;
+  opacity: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1110,5 +1130,62 @@ margin-top: 24px;
       border-width: 5px;
       border-style: solid;
       border-color: black transparent transparent transparent;
+  }
+}
+.slide-ad-type{
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.flickity-prev-next-button.previous{
+  right: 20px !important;
+}
+.flickity-prev-next-button.next{
+  right: 0px !important;
+}
+.ad__type-wrapper.flickity-enabled{
+  .flickity-prev-next-button.previous{
+    left: unset;
+    right: 20px !important;
+  }
+  .flickity-button {
+    top: -25px !important;
+    height: 25px;
+    width: 25px;
+    background: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    svg{
+      position: relative;
+      left: unset;
+      top: unset;
+      height: 100%;
+      width: 100%;
+    }
+    &:hover{
+      background: #EBEBEB;
+    }
+    &:active{
+      background: #BCBCBC;
+    }
+  }
+}
+.carousel-pagination{
+  display: flex;
+  align-items: center;
+  // justify-content: center;
+  position: absolute;
+  left: 50%;
+  gap: 4px;
+  .carousel-dot{
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background-color: #DADADA;
+  }
+  .active{
+    background-color: #3698EF;
   }
 }

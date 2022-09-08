@@ -12,7 +12,7 @@
                 <div class="row mockup__preview-configuration-wrapper">
                       <div class="preview-design-switch hide-md-up col-xs-12">
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
-                            Configuration 
+                          Ad Content 
                             <!-- <span class="question-circle">
                               {{- partial "icons/question-mark-wh.html" -}}
                             </span>
@@ -41,21 +41,37 @@
                               <div class="ad-type">
                                 <div class="ad-type-header">
                                   <span class="mockup__title">Ad Type & format</span>
-                                  <div class="hide-md-up">
+                                  <!-- <div class="hide-md-up">
                                     <span @click="scroll('Left')">
                                       {{- partial "icons/left-arrow.html" -}}
                                     </span>
                                     <span @click="scroll('Right')">
                                       {{- partial "icons/right-arrow.html" -}}
                                     </span>
-                                  </div>
+                                  </div> -->
                                 </div>
                                 <div>
-                                  <div class="ad__type-wrapper">
-                                    <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                  <div class="ad__type-wrapper" id="ad-type-wrapper" ref="adType">
+                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[0].id}"  @click="adTypeClick(adTypes[0])">
+                                      <img src="/icons/1-1.svg">
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[0].id}">Square <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[0].id"></div></div></div>
+                                    </div>
+                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[1].id}"  @click="adTypeClick(adTypes[1])">
+                                      <img src="/icons/3-2.svg">
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape<span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
+                                    </div>
+                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[2].id}"  @click="adTypeClick(adTypes[2])">
+                                      <img src="/icons/9-16.svg">
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[2].id}">Story <span>(9-16)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[2].id"></div></div></div>
+                                    </div>
+                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[3].id}"  @click="adTypeClick(adTypes[3])">
+                                      <img src="/icons/carousel.svg">
+                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Curosel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
+                                    </div>
+                                    <!-- <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
                                       <img :src="getImgUrl(adType.img)">
                                           <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
-                                    </div>
+                                    </div> -->
                                   </div>
                                 </div>
                               </div>
@@ -85,7 +101,7 @@
                                   </p>
                                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA" @option-select="optionSelect($event)"></dropdown>
                               </div>
-                              <div class="mockup__configuration-like-count" v-if="activeAd === 1">
+                              <div class="mockup__configuration-like-count" v-if="activeAd !== 3">
                                   <h4 class="mockup__title">
                                       Likes
                                   </h4>
@@ -94,7 +110,7 @@
                                   </p>
                                   <input @input="addLikes" class="likes-count-input" type="number" placeholder="15">
                               </div>
-                              <div class="mockup__configuration-message-wrapper" v-if="activeAd === 1">
+                              <div class="mockup__configuration-message-wrapper" v-if="activeAd !== 3">
                                   <h4 class="mockup__title">
                                       Message
                                   </h4>
@@ -107,7 +123,7 @@
                         </div>
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section col-md-5" id="mockup-preview">
                        
-                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1">
+                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1 || activeAd === 2 || activeAd === 4">
                             <!-- <div class="preview-nav">
                               {{- partial "icons/camera.html" -}}
                               {{- partial "icons/instagram-title.html" -}}
@@ -132,9 +148,17 @@
                                   </div>
                                   {{- partial "icons/more-option.html" -}}
                               </div>
-                              <div class="preview-body">
+                              <div v-if="activeAd !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                                 <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                                  <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt="">
+                                  <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
+                                  <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[0]" alt="">
+                                <!-- </uploader> -->
+                                  <!-- <slider :slides="postSrc"></slider> -->
+                              </div>
+                              <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
+                                <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
+                                  <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
+                                   <slider :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 <!-- </uploader> -->
                                   <!-- <slider :slides="postSrc"></slider> -->
                               </div>
@@ -150,7 +174,7 @@
                                   {{- partial "icons/comment-insta.html" -}}
                                   {{- partial "icons/chat.html" -}}
                                 </div>
-                                <div></div>
+                                <div v-if="activeAd === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
                                 {{- partial "icons/save.html" -}}
                               </div>
                               <div class="preview-description">
@@ -169,7 +193,7 @@
                                 {{- partial "icons/profile.html" -}}
                               </div> -->
                           </div>
-                          <div id="instagram-mockup-preview" v-else class="mockup_preview-story">
+                          <div id="instagram-mockup-preview" v-if="activeAd === 3" class="mockup_preview-story">
                             <div class="header-wrapper">
                               <div class="line">
                               </div>
@@ -195,8 +219,8 @@
                             </div>
                           <div class="preview-body">
                             <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                              <!-- <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[0] : ''" alt=""> -->
-                              <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt="">
+                              <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[0] : ''" alt="">
+                              <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
                             <!-- </uploader> -->
                           </div>
                           <div class="story__preview-footer">
@@ -239,6 +263,7 @@
 <!-- <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script> -->
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -311,10 +336,12 @@
             },
         },
         methods: {
-            openPicker() {
+            openPicker(e) {
+              e.preventDefault()
               this.$refs.LvFileInput.click();
             },
             handleFileChange(e) {
+              e.preventDefault()
               // This method will be called when the file gets uploaded
               const files = e.target.files || e.dataTransfer.files;
               if (files[0]) {
@@ -473,6 +500,11 @@
               show: false,
             }
         },
+        watch:{
+          current(val){
+            this.$emit('current-post', val);
+          }
+        },
         props:{
           slides: {
               type: Array,
@@ -525,23 +557,40 @@
             // dpSrc:null,
             // postSrc:null,
             dpSrc:null,
-            postSrc:null,
+            postSrc:[],
             likes: 15,
             caption: '',
             displayCaptionValue: '',
+            activePost: 0,
             adTypes: [{
               id:1,
               type:'Square',
               ratio:'1:1',
               img:'1-1',
-              req: 72,
-            },{
+              req: 80,
+            },
+            {
               id:2,
+              type:'Landscape',
+              ratio:'3:2',
+              img:'3-2'   ,
+              req: 80,
+            },
+            {
+              id:3,
               type:'Story',
               ratio:'9:16',
               img:'9-16',
-              req: 72 
-            }],
+              req: 80 
+            },
+            {
+              id:4,
+              type:'Carousel',
+              ratio:'1:1',
+              img:'carousel',
+              req: 80 
+            }
+          ],
             activeAd: 1,
             copied: false,
             windowWidth: 0,
@@ -554,13 +603,12 @@
         uploadImage(files,location){
             let src = URL.createObjectURL(files[0])
             // console.log(files, location)
-            location === 'header' ? this.dpSrc = src : this.postSrc= src
-            // if(location === 'header'){
-            //   this.dpSrc = src
-            // }else{
-            //     this.postSrc.push(src)
-            //     console.log(this.postSrc)
-            // }
+            // location === 'header' ? this.dpSrc = src : this.postSrc= src
+            if(location === 'header'){
+              this.dpSrc = src
+            }else{
+                this.postSrc.push(src)
+            }
         },
         validation(e){
             console.log(e)
@@ -698,8 +746,8 @@
         },
         clearFields(){
           this.dpSrc = null,
-          // this.postSrc = [],
-          this.postSrc = null,
+          this.postSrc = [],
+          // this.postSrc = null,
           this.caption='',
           this.likes=null,
           this.profileName = '',
@@ -730,6 +778,19 @@
                         window.clearInterval(slideTimer);
                     }
                 }, 25);      
+        },
+        // initilizeFlickity(){
+        //   ele = document.getElementById('ad-type-wrapper')
+        //   let flkty = new Flickity( ele, {
+        //       freeScroll: 'left',
+        //       contain: true,
+        //       prevNextButtons: true,
+        //       pageDots: false
+        //   })
+        //   // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
+        // } 
+        updateCurrentPost(val){
+          this.activePost = val
         }
     },
     beforeMount() {
@@ -739,19 +800,38 @@
       let isMobile = this.windowWidth <= 525 ? true : false;
       isMobile ? this.activeTab = 'controls'  : this.activeTab = 'both'
       this.addCaption()
+        // this.initilizeFlickity()
+      // setTimeout(() => {
+      // }, 950);
       this.$nextTick(() => {
-          this.setHeight(72);
+          this.setHeight(80);
           this.displayCaptionValue= 'This is caption that will display on the final mockup. You can write anything.'
       })
     },
     computed: {
-        computedStyle() {
+      getComputedHeight() {
           return {
-            // height: (document.getElementById('mockup-preview').clientHeight - 92) + 'px',
+            height: this.activeAd === 1 ? '417px' : this.activeAd === 2 ? '276px':'417px',
           };
         },
       },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
+    </script>
+    <script>
+       function initilizeFlickity(){
+          ele = document.getElementById('ad-type-wrapper')
+          let flkty = new Flickity( ele, {
+              freeScroll: 'left',
+              contain: true,
+              prevNextButtons: true,
+              pageDots: false
+          })
+          // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
+          console.log('hello')
+        }
+        initilizeFlickity()
+        // setTimeout(() => {
+        // }, 1000);
     </script>
