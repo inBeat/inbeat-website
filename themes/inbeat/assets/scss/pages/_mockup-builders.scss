@@ -803,8 +803,9 @@ margin-top: 24px;
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     border-radius: 1px;
-    width: fit-content;
-    // height: 153px;
+    width: 155px;
+    height: 153px;
+    box-sizing: border-box;
     // width: 153px;
     // margin-right: 1rem;
     cursor: pointer;
@@ -822,7 +823,8 @@ margin-top: 24px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 13px 12px 14px 10px;
+      padding: 12px;
+      margin-top: -8px;
       .--active{
         color: #262627;
       }
