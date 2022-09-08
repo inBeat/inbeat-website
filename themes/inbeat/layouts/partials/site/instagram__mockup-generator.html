@@ -158,6 +158,7 @@
                               <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                 <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                   <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
+                                  <span class="carousel__post-count">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
                                    <slider :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 <!-- </uploader> -->
                                   <!-- <slider :slides="postSrc"></slider> -->
