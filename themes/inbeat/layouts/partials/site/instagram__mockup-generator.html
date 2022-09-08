@@ -238,11 +238,11 @@
                           </div>
                           <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
-                                Download Mockup
+                                Download PNG
                               </button>
                               <button @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
-                                <span v-if="!copied" class="--tooltip-copy">Copy png</span>
+                                <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                                 <span v-else class="--tooltip-copy --sucess">Copied 
                                     {{- partial "icons/check.html" -}}
                                     </span>
