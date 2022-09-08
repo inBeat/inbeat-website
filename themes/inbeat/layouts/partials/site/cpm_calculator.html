@@ -144,7 +144,7 @@
             this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
-            this.$refs.dropdown.classList.add('active')
+            this.$refs.dropdown.classList.toggle('active')
             window.addEventListener('click', (event)=>{
                 if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                     this.closeDropdown()
