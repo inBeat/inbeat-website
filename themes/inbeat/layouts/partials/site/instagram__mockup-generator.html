@@ -38,40 +38,44 @@
                                     Clear All Fields
                                 </div> -->
                               </div>
-                              <div class="ad-type">
-                                <div class="ad-type-header">
+                              <div class="mockup-type">
+                                <div class="mockup-type-header">
                                   <span class="mockup__title">Ad Type & format</span>
-                                  <!-- <div class="hide-md-up">
-                                    <span @click="scroll('Left')">
-                                      {{- partial "icons/left-arrow.html" -}}
-                                    </span>
-                                    <span @click="scroll('Right')">
-                                      {{- partial "icons/right-arrow.html" -}}
-                                    </span>
-                                  </div> -->
                                 </div>
                                 <div>
-                                  <div class="ad__type-wrapper" id="ad-type-wrapper" ref="adType">
-                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[0].id}"  @click="adTypeClick(adTypes[0])">
-                                      <img src="/icons/1-1.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[0].id}">Square <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[0].id"></div></div></div>
+                                  <div class="glide">
+                                    <div class="glide__track" data-glide-el="track">
+                                      <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType">
+                                        <!-- <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[0].id}"  @click="adTypeClick(adTypes[0])">
+                                          <img src="/icons/1-1.svg">
+                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[0].id}">Square <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[0].id"></div></div></div>
+                                        </div>
+                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[1].id}"  @click="adTypeClick(adTypes[1])">
+                                          <img src="/icons/3-2.svg">
+                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape <span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
+                                        </div>
+                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[2].id}"  @click="adTypeClick(adTypes[2])">
+                                          <img src="/icons/9-16.svg">
+                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[2].id}">Story <span>(9-16)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[2].id"></div></div></div>
+                                        </div>
+                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[3].id}"  @click="adTypeClick(adTypes[3])">
+                                          <img src="/icons/carousel.svg">
+                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Carousel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
+                                        </div> -->
+                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                          <img :src="getImgUrl(adType.img)">
+                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
+                                        </div>
+                                      </div>
                                     </div>
-                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[1].id}"  @click="adTypeClick(adTypes[1])">
-                                      <img src="/icons/3-2.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape <span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
+                                    <div class="glide-controls" data-glide-el="controls">
+                                      <span class="swiper-previous glide-control-btn" data-glide-dir="<">
+                                        {{- partial "icons/left-arrow.html" -}}
+                                      </span>
+                                      <span class="swiper-next glide-control-btn" data-glide-dir=">">
+                                        {{- partial "icons/right-arrow.html" -}}
+                                      </span>
                                     </div>
-                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[2].id}"  @click="adTypeClick(adTypes[2])">
-                                      <img src="/icons/9-16.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[2].id}">Story <span>(9-16)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[2].id"></div></div></div>
-                                    </div>
-                                    <div class="ad-type__card slide-ad-type" :class="{'--active': activeAd === adTypes[3].id}"  @click="adTypeClick(adTypes[3])">
-                                      <img src="/icons/carousel.svg">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Carousel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
-                                    </div>
-                                    <!-- <div class="ad-type__card" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
-                                      <img :src="getImgUrl(adType.img)">
-                                          <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
-                                    </div> -->
                                   </div>
                                 </div>
                               </div>
@@ -264,7 +268,9 @@
 <!-- <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script> -->
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<!-- <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.3.2/swiper-bundle.min.js" integrity="sha512-V1mUBtsuFY9SNr+ptlCQAlPkhsH0RGLcazvOCFt415od2Bf9/YkdjXxZCdhrP/TVYsPeAWuHa+KYLbjNbeEnWg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -772,7 +778,7 @@
           // }
         },
         scroll(dir){
-         const  container = document.getElementsByClassName('ad__type-wrapper')[0]
+         const  container = document.getElementsByClassName('insta__mockup-type-wrapper')[0]
          scrollAmount = 0;
          let slideTimer = setInterval(function(){
                     dir==='Right'? container.scrollLeft += 30 : container.scrollLeft -= 30;
@@ -783,7 +789,7 @@
                 }, 25);      
         },
         // initilizeFlickity(){
-        //   ele = document.getElementById('ad-type-wrapper')
+        //   ele = document.getElementById('mockup-type-wrapper')
         //   let flkty = new Flickity( ele, {
         //       freeScroll: 'left',
         //       contain: true,
@@ -792,6 +798,14 @@
         //   })
         //   // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
         // } 
+        // initilizeSwiper(){
+        //   var swiper = new Swiper(".mockup__swiper-wrapper", {
+        //     navigation: {
+        //     nextEl: ".swiper-next",
+        //     prevEl: ".swiper-previous",
+        // },
+        //   })
+        // },
         updateCurrentPost(val){
           this.activePost = val
         }
@@ -823,18 +837,53 @@
     });
     </script>
     <script>
-       function initilizeFlickity(){
-          ele = document.getElementById('ad-type-wrapper')
-          let flkty = new Flickity( ele, {
-              freeScroll: 'left',
-              contain: true,
-              prevNextButtons: true,
-              pageDots: false
-          })
-          // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
-          console.log('hello')
-        }
-        initilizeFlickity()
+      //  function initilizeFlickity(){
+      //     ele = document.getElementById('mockup-type-wrapper')
+      //     let flkty = new Flickity( ele, {
+      //         freeScroll: 'left',
+      //         contain: true,
+      //         prevNextButtons: true,
+      //         pageDots: false
+      //     })
+      //     // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
+      //     console.log('hello')
+      //   }
+      //   initilizeFlickity()
         // setTimeout(() => {
         // }, 1000);
+        // initilizeSwiper()
+        new Glide('.glide',{
+          type: 'slider',
+          perView: 3.5,
+          gap: 0,
+          breakpoints: {
+		        550: {
+		        	perView: 2.7
+		        },
+		        1200: {
+		        	perView: 2.84
+		        },
+		        1080: {
+		        	perView: 4
+		        },
+		        700: {
+		        	perView: 3.2
+		        },
+            450: {
+              perView: 2.03
+            },
+            400: {
+              perView: 1.9
+            },
+		        390: {
+		        	perView: 1.88
+		        },
+		        375: {
+		        	perView: 1.79
+		        },
+		        360: {
+		        	perView: 1.7
+		        },
+	        }
+        }).mount()
     </script>
