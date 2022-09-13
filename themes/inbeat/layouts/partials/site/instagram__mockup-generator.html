@@ -169,7 +169,7 @@
                                     {likes} Likes
                                   </div>
                                   <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
-                                   <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span>
+                                   <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text" v-html="seeMoreDisplayValue"></span>
                                   </div>
                                 </div>
                                 <!-- <div class="preview-footer">
@@ -219,7 +219,7 @@
                               </span>
                             </div>
                             <div class="cta-wrapper">
-                              {{- partial "icons/dm-wh.html" -}}
+                                {{- partial "icons/dm-wh.html" -}}
                             </div>
                           </div>
                           </div>
@@ -549,6 +549,8 @@
             likes: 15,
             caption: '',
             displayCaptionValue: '',
+            captionValue: '',
+            seeMoreDisplayValue: '',
             activePost: 0,
             adTypes: [{
               id:1,
@@ -603,6 +605,7 @@
             windowWidth: 0,
             // displayBoth: true,
             showSeeMore: false,
+            count :0
         },
     methods:{
         switchTab(tab){
@@ -737,17 +740,44 @@
           })
         },
         addCaption(){
-          document.getElementsByClassName('caption-text')[0].offsetHeight > 34 ? this.showSeeMore = true : this.showSeeMore = false
-          this.displayCaptionValue = this.caption
+          // if(this.count> 1){
+          //   this.showSeeMore = true
+          // }else{
+          //   this.showSeeMore = false
+          // }
+          // this.seeMoreDisplayValue ? this.showSeeMore = true : this.showSeeMore = false
+          // document.getElementsByClassName('caption-text')[0].offsetHeight > 34 ? this.showSeeMore = true : this.showSeeMore = false
+          
+          // this.displayCaptionValue = this.caption
+          if(this.seeMoreDisplayValue === ''){
+            this.count = 0 
+          }
+          if(this.caption.length < 78 && this.count !== 1){
+            if (this.showSeeMore){
+              this.showSeeMore = !this.showSeeMore
+            }
+          }
             const words = this.caption.split(" ");
-            let sentence = ''
+            let displaySentence = ''
+            let displaySentence2 = ''
             words.forEach((word,i) => {
               if(word.startsWith('@') || word.startsWith('#')){
                 words[i]=`<span style="color:#5395E9;">${word}</span> `
               }
-              sentence = sentence + ' ' + words[i]
-              this.displayCaptionValue = sentence
+              displaySentence = displaySentence + ' ' + words[i]
+              this.captionValue = displaySentence 
             });
+            if(this.caption.length < 72){
+              // this.count = 0
+              this.seeMoreDisplayValue= ''
+              this.displayCaptionValue = displaySentence
+            }else{
+              if(this.count === 0){
+                this.count = 1 
+                this.showSeeMore = true
+              }
+              this.seeMoreDisplayValue = displaySentence.slice(this.displayCaptionValue.length)
+            }
         },
         setHeight(req){
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
@@ -778,8 +808,10 @@
           let height = ele.offsetHeight
           if(height<51){
             // ele.getElementsByClassName('see-more')[0].innerText = '...See Less'
-            ele.getElementsByClassName('see-more')[0].innerText = ''
-            ele.style.height = text.offsetHeight+'px'
+            // ele.getElementsByClassName('see-more')[0].innerText = ''
+            ele.style.height = 'auto'
+            this.showSeeMore = false
+            // this.count = 0
           }
           // if(height>34){
           //   ele.getElementsByClassName('see-more')[0].innerText = '...See More'

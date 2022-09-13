@@ -95,14 +95,15 @@
           flex: 1 1 0 !important;
         }
         .mockup__configuration-section{
-          padding-right: 3rem;
+          padding: 48px 3rem 32px 0px;
+          // padding-right: 3rem;
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
           // height: 780px;
           // overflow-y: hidden;
           overflow-y: overlay;
           overflow-y: scroll;
           @include breakpoint(sm-down) {
-            padding-left: 0;
+            padding: 0;
             padding-right: 12px;
             height: 60vh;
             overflow: overlay;
@@ -837,7 +838,7 @@
   }
 }
 .mockup__configuration-wrapper{
-  padding: 48px 48px 32px 51px;
+  padding: 0px 0px 0px 51px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
@@ -856,7 +857,7 @@
     border: 1px solid #DCDCDC;
     border-radius: 1px;
     width: 155px;
-    height: 153px;
+    // height: 153px;
     box-sizing: border-box;
     cursor: pointer;
     padding: 2px;
@@ -1030,7 +1031,7 @@
     .cta-wrapper{
       position: absolute;
       top: 50%;
-      right: 18px;
+      right: 21px;
     }
     .cta{
       display: flex;
@@ -1332,6 +1333,7 @@
 #mockup-download-img{
   padding: 24px;
   margin-right: 8px;
+  background: #F9F7F7;
   @include breakpoint(sm-down) {
     padding: 16px 16px 16px 16px;
     margin: 0px -16px;
