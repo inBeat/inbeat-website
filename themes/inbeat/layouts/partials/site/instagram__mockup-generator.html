@@ -98,7 +98,7 @@
                                   <p class="mockup__description">
                                       Set the number of likes for your post. Numeric input only.
                                   </p>
-                                  <input @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" @input="addLikes" class="likes-count-input" type="number" placeholder="15">
                               </div>
                               <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
