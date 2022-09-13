@@ -526,10 +526,10 @@
             </div>
           </transition-group>
           <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
-            &#10094;
+            <span class="left-arrow"> &#10094; </span>
           </div>
-          <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
-           &#10095
+          <div v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
+            <span class="right-arrow"> &#10095;  </span>
           </div>
         </div>
     `

@@ -723,7 +723,7 @@
   .like-share-comment{
     display: flex;
     align-items: center;
-    gap: 19px;
+    gap: 16px;
   }
 }
 .preview-description{
@@ -851,18 +851,6 @@
   overflow: hidden;
   max-height: 192px;
   padding-bottom: 32px;
-  // border-bottom: 1px solid #d8d8d8;
-  // overflow-x: scroll;
-  // &::-webkit-scrollbar {
-  //   height: 1px;
-  // }
-  // &::-webkit-scrollbar-track {
-  //   background-color: #d8d8d8;
-  //   // background: #008080;
-  // }
-  // &::-webkit-scrollbar-thumb {
-  //   background: #cacaca;
-  // }
   .mockup-type__card{
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
@@ -870,8 +858,6 @@
     width: 155px;
     height: 153px;
     box-sizing: border-box;
-    // width: auto;
-    // margin-right: 1rem;
     cursor: pointer;
     padding: 2px;
     transition: $transition_default;
@@ -973,12 +959,12 @@
   // padding: 7px 10px;
   padding-bottom: 7px;
   filter: drop-shadow(0px 2.44326px 6.71896px rgba(0,0,0,0.1));
-  border-radius: 3.88929px;
+  border-radius: 4px;
   .header-wrapper{
     position: absolute;
-    top: 7px;
-    right: 10px;
-    left: 10px;
+    top: 10px;
+    right: 12px;
+    left: 12px;
     z-index: 99;
     .preview-header{
       .preview-creadincials{
@@ -1037,7 +1023,7 @@
   }
   .story__preview-footer{
     position: absolute;
-    bottom: 13px;
+    bottom: 16px;
     right: 0;
     left: 0;
     // position: relative;
@@ -1053,16 +1039,16 @@
       gap: 9px;
       span{
         cursor: pointer;
-        font-weight: 500;
+        font-weight: 400;
         font-size: 14px;
         line-height: 14px;
         letter-spacing: -0.08px;
         text-align: center; 
         color: #000000;
         display: block;
-        padding: 12px 12px;
+        padding: 16px 32px;
         background-color: #FFFFFF;
-        border-radius: 67px;
+        border-radius: 77px;
       }
     }
   }
@@ -1099,13 +1085,16 @@
 
 
 
-#slider {
+#post-body {
   width: 100%;
   height: 100%;
   position: relative;
   &:hover{
+    .carousel__post-count{
+      opacity: 0;
+    }
     .btn{
-      opacity: 1;
+     // opacity: 1;
     }
   }
   /* FADE IN */
@@ -1155,39 +1144,53 @@
 
 .btn {
   position: absolute;
-  top: calc(50% - 35px);
-  left: 1%;
+  width: 50%;
+  height: 100%;
+  left: 0;
+  top: 0;
   z-index: 10;
-  transition: transform 0.3s ease-in-out;
-  user-select: none;
-  opacity: 0;
-  cursor: pointer;
-  // border: 3px solid #fff;
-  height: 25px;
-  width: 25px;
-  background: transparent;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  align-items: center;
-  width: 70px;
-  height: 70px;
-  position: absolute;
-  top: calc(50% - 35px);
-  left: 1%;
   transition: $transition_default;
   user-select: none;
+  cursor: pointer;
+  transition: $transition_default;
+  user-select: none;
+  &.btn-prev:hover {
+    .left-arrow{
+      opacity: 1;
+    }
+  }
+  &.btn-next:hover {
+    .right-arrow{
+      opacity: 1;
+    }
+  }
+  span{
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    transition: $transition_default;
+  }
+  .left-arrow{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+    justify-content: start;
+    padding-left: 12.5%;
+    left: 0;
+  }
+  .right-arrow{
+    background: linear-gradient(270deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+    justify-content: end;
+    padding-right: 12.5%;
+    right: 0;
+  }
 }
-
 .btn-next {
   left: auto;
-  right: 1%;
+  right: 0;
 }
-
-// .btn:hover {
-//   transform: scale(1.1);
-// }
 }
 .mockup-type-header{
   display: flex;
@@ -1261,9 +1264,12 @@
 .carousel-pagination{
   display: flex;
   align-items: center;
-  // justify-content: center;
   position: absolute;
-  left: 50%;
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 100px;
   gap: 4px;
   .carousel-dot{
     height: 6px;
@@ -1272,24 +1278,28 @@
     background-color: #DADADA;
   }
   .active{
+    height: 6px !important;
+    width: 6px !important;
     background-color: #3698EF;
   }
 }
 .carousel__post-count{
-  font-weight: 500;
-  font-size: 11.8647px;
-  line-height: 12px;
+  transition: $transition_default;
+  font-weight: 400;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: -0.0673536px;
+  letter-spacing: -0.3 pxpx;
   color: #FFFFFF; 
   display: block;
-  padding: 10px 18px;
-  border-radius: 59px;
+  padding: 3px 5px;
+  border-radius: 66px;
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 15px;
+  right: 15px;
   z-index: 9;
-  background-color: rgba(0,0,0,25%);
+  width: 34px;
+  height: 24px;
+  background-color: rgba(0,0,0,0.25);
 }
 .glide-controls{
   position: absolute;
