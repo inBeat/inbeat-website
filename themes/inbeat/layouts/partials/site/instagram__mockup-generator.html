@@ -228,7 +228,7 @@
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download PNG
                               </button>
-                              <button @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                              <button v-if="!isFirefox" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                                 <span v-else class="--tooltip-copy --sucess">Copied 
@@ -538,6 +538,7 @@
     var app = new Vue({
       el: '#mockup_builder',
       data: {
+            isFirefox: navigator.userAgent.toLowerCase().indexOf('firefox') > -1,
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
             activeTab: 'controls',
             profileName: '',
