@@ -150,7 +150,6 @@
     margin-top: 62px;
     display: flex;
     gap: 22px;
-
     .control-dropdown-trigger{
         display: flex;
         align-items: center;
@@ -165,16 +164,14 @@
 .mockup-btn{
   color: #FFFFFF;
   background: #000000;
-  border-radius: 4px;
+  border-radius: 6px;
   display: flex;
   align-items: center;
-  padding: 6px 12px;
+  padding: 14px 12px;
   gap: 10px;
   border: none;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
-  line-height: 38px;
-  letter-spacing: -0.596318px;
   height: fit-content;
   cursor: pointer;
 }
@@ -610,12 +607,10 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  // background: #5395E9;
   font-weight: 600;
-  font-size: 13.8422px;
-  line-height: 17px;
+  font-size: 14px;
   color: #262626;
-  border-bottom: 0.494364px solid #DBDBDB;
+  border-bottom: 0.5px solid #DBDBDB;
   user-select: none;
 }
 .preview-comments{
@@ -623,46 +618,56 @@
   user-select: none;
 }
 .preview-footer{
-  border-top:0.537486px solid #AFAFAF;;
+  border-top:0.5px solid #AFAFAF;
   padding: 11px 23px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  // gap: 57px;
 }
 .preview-download-wrapper{
-display: flex;
-align-items: initial;
-gap: 16px;
-margin-top: 24px;
+  display: flex;
+  align-items: initial;
+  gap: 16px;
+  margin-top: 24px;
   .mockup-download-btn{
     flex: 1 1 auto;
     justify-content: center;
-    border: 1.43116px solid transparent;
+    transition: $transition_default;
+    &:hover{
+      background: rgba(0, 0, 0, 0.9);
+      box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
+    }
+    &:active{
+      background: rgba(46, 46, 46, 0.9);
+      box-shadow: none;
+    }
   }
   .mockup-copy-btn{
     padding: 15px 17px;
     background-color: #FFFFFF;
-    border-radius: 4px;
+    border-radius: 6px;
     color: #535562;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     position: relative;
-    // border: 1px solid transparent;
     border: 2px solid rgba(0, 0, 0, 0.1);
     transition: $transition_default;
     .--tooltip-copy{
       z-index: 99;
       box-sizing: border-box;
-      // margin-left: -50px;
   }
   &:hover{
-    border: 2px solid rgba(0, 0, 0, 0.5);
+    border: 2px solid black;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     .--tooltip-copy{
       opacity: 1;
   }
+  }
+  &:active{
+    background-color: #FEFDFD;
+    box-shadow: none;
   }
   .--sucess{
     background: #D6EBE4;
