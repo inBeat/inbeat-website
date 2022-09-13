@@ -95,14 +95,15 @@
           flex: 1 1 0 !important;
         }
         .mockup__configuration-section{
-          padding-right: 3rem;
+          padding: 48px 3rem 32px 0px;
+          // padding-right: 3rem;
           // border-right: 1px solid rgba(0, 0, 0, 0.1);
           // height: 780px;
           // overflow-y: hidden;
           overflow-y: overlay;
           overflow-y: scroll;
           @include breakpoint(sm-down) {
-            padding-left: 0;
+            padding: 0;
             padding-right: 12px;
             height: 60vh;
             overflow: overlay;
@@ -774,7 +775,7 @@ margin-top: 24px;
   }
 }
 .mockup__configuration-wrapper{
-  padding: 48px 48px 32px 51px;
+  padding: 0px 0px 0px 51px;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
