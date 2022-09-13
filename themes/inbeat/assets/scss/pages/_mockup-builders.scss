@@ -215,9 +215,6 @@
       &:hover{
         border-color: #000000;
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
-        svg{
-          transform: rotateZ(15deg);
-        }
       }
       &:active{
         background: rgba(244, 244, 244, 0.9);
@@ -289,10 +286,20 @@
     z-index: -1;
     width: 0.1px;
   }
-
+  @mixin image-box {
+    border-color: #000000;
+    background-color:rgba(244, 244, 244, 0.34);
+    border-color: #000000;
+      .upload_placeholder-wrapper{
+        svg{
+          width: 38px;
+          height: 33px;
+          transform: rotateZ(15deg);
+        }
+      }
+  }
   .file--upload__draggable {
     cursor: pointer;
-    // padding: 0.25em;
     border: 1px dashed #BBBBBB;
     border-radius: 4px;    
     display: flex;
@@ -301,12 +308,9 @@
     position: relative;
     transition: $transition_default;
     &:hover{
-      border-color: #000000;
+      @include image-box;
     }
     .upload_placeholder-wrapper{
-      span:hover{
-        opacity: 0.5;
-      }
       svg{
         transition: $transition_default;
       }
@@ -315,16 +319,7 @@
 
   &.mockup-drag-enter {
     .file--upload__draggable{
-      background-color:rgba(244, 244, 244, 0.34);
-      border-color: #000000;
-      padding: 10px 0;
-      .upload_placeholder-wrapper{
-        svg{
-          width: 38px;
-          height: 33px;
-          transform: rotateZ(15deg);
-        }
-      }
+      @include image-box;
     }
     // to prevent dragleave event triggered while user dragging over child items
     .file--upload__draggable::before {
@@ -682,6 +677,7 @@
   }
   &:active{
     background-color: #FEFDFD;
+    border: 2px solid rgba(0, 0, 0, 0.5);
     box-shadow: none;
   }
   .--sucess{
