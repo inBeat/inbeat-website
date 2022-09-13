@@ -46,11 +46,11 @@
                                   <div class="glide">
                                     <div class="glide__track" data-glide-el="track">
                                       <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType" >
-                                        <div style="width: auto !important;" class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                        <div style="width: auto !important;" class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd.id === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
                                           <div class="image-wrapper">
                                             <img :src="getImgUrl(adType.img)">
                                           </div>
-                                              <div class="insta-mockup-type-title"><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
+                                              <div class="insta-mockup-type-title"><p :class="{'--active': activeAd.id === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd.id === adType.id"></div></div></div>
                                         </div>
                                       </div>
                                     </div>
@@ -76,7 +76,7 @@
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image</span>
-                                <span class="mockup__description">Recommended image size: <span v-if="activeAd === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
+                                <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
                                   <uploader  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
                                     <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
@@ -91,7 +91,7 @@
                                   </p>
                                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA" @option-select="optionSelect($event)"></dropdown>
                               </div>
-                              <div class="mockup__configuration-like-count" v-if="activeAd !== 3">
+                              <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
                                       Likes
                                   </h4>
@@ -100,7 +100,7 @@
                                   </p>
                                   <input @input="addLikes" class="likes-count-input" type="number" placeholder="15">
                               </div>
-                              <div class="mockup__configuration-message-wrapper" v-if="activeAd !== 3">
+                              <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
                                       Message
                                   </h4>
@@ -113,7 +113,7 @@
                         </div>
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section col-md-5 col-sm-12" id="mockup-preview">
                           <div id="mockup-download-img">
-                            <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1 || activeAd === 2 || activeAd === 4 || activeAd === 5">
+                            <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                               <!-- <div class="preview-nav">
                                 {{- partial "icons/camera.html" -}}
                                 {{- partial "icons/instagram-title.html" -}}
@@ -138,14 +138,16 @@
                                     </div>
                                     {{- partial "icons/more-option.html" -}}
                                 </div>
-                                <div v-if="activeAd !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                                <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                                     <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
+                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
                                 </div>
                                 <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                   <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                     <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
                                     <span class="carousel__post-count" v-if="postSrc.length > 1">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
-                                     <slider :slides="postSrc" @current-post="updateCurrentPost"></slider>
+                                    <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                                     <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 </div>
                                 <div class="preview_banner-wrapper">
                                   <div class="preview-banner-cta">
@@ -159,7 +161,7 @@
                                     {{- partial "icons/comment-insta.html" -}}
                                     {{- partial "icons/chat.html" -}}
                                   </div>
-                                  <div v-if="activeAd === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
+                                  <div v-if="activeAd.id === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
                                   {{- partial "icons/save.html" -}}
                                 </div>
                                 <div class="preview-description">
@@ -178,7 +180,7 @@
                                   {{- partial "icons/profile.html" -}}
                                 </div> -->
                             </div>
-                          <div id="instagram-mockup-preview" v-if="activeAd === 3" class="mockup_preview-story">
+                          <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
                             <div class="header-wrapper">
                               <div class="line">
                               </div>
@@ -205,6 +207,7 @@
                           <div class="preview-body" id="story-body" :style="getComputedHeight">
                             <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                               <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                              <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
                               <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
                             <!-- </uploader> -->
                           </div>
@@ -553,6 +556,7 @@
               ratio:'1:1',
               img:'1-1',
               req: 80,
+              resolution: '1080 X 1080'
             },
             {
               id:5,
@@ -560,6 +564,7 @@
               ratio:'4:5',
               img:'portrait'   ,
               req: 80,
+              resolution: '1080 X 1350'
             },
             {
               id:2,
@@ -567,27 +572,37 @@
               ratio:'3:2',
               img:'3-2'   ,
               req: 80,
+              resolution: '1080 X 608'
             },
             {
               id:3,
               type:'Story',
               ratio:'9:16',
               img:'9-16',
-              req: 80 
+              req: 80 ,
+              resolution: '1080 X 1920'
             },
             {
               id:4,
               type:'Carousel',
               ratio:'1:1',
               img:'carousel',
-              req: 80 
+              req: 80 ,
+              resolution: '1080 X 1080'
             }
           ],
-            activeAd: 1,
+            activeAd: {
+              id:1,
+              type:'Square',
+              ratio:'1:1',
+              img:'1-1',
+              req: 80,
+              resolution: '1080 X 1080'
+            },
             copied: false,
             windowWidth: 0,
             // displayBoth: true,
-            showSeeMore: false
+            showSeeMore: false,
         },
     methods:{
         switchTab(tab){
@@ -713,7 +728,7 @@
         },
         adTypeClick(adType){
           this.clearFields()
-          this.activeAd =  adType.id
+          this.activeAd =  adType
           this.$nextTick(() => {
             this.setHeight(adType.req)
           })
@@ -820,7 +835,7 @@
       getComputedHeight() {
         let  width= document.getElementById('mockup-download-img').offsetWidth - 50
         return {
-          height: this.activeAd === 1 || this.activeAd === 4 ? width + 'px' : this.activeAd === 2 ? ((2/3)* width) + 'px':this.activeAd === 5 ? ((5/4)* width) + 'px' :this.activeAd === 3 ? ((16/9)* width) + 'px':'417px',
+          height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
         };
         },
       },
