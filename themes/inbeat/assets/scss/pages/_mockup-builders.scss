@@ -204,7 +204,7 @@
       background: #F9F7F7;
       border: 1px solid #CBCBCB;
       overflow: hidden;
-      transition: all 0.3s ease;
+      transition: $transition_default;
       span{
         display: flex;
       }
@@ -223,13 +223,13 @@
   border-radius: 4px;
   padding: 12px 14px;
   font-size: 0.875rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 24px;
-  letter-spacing: --0.3px;
   width: -webkit-fill-available;
   width: -moz-available;
-  transition: all 0.5s ease;
+  transition: $transition_default;
   color: #262626;
+  cursor: pointer;
   &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #C4C4C4;
   }
@@ -241,8 +241,12 @@
   &::-ms-input-placeholder { /* Microsoft Edge */
     color: #C4C4C4;
   }
+  &:hover{
+    border-color: #787878;
+    outline: none;
+  }
   &:focus{
-    border-color: #000000;
+    border-color: black;
     outline: none;
   }
 }
@@ -282,16 +286,33 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease;
+    transition: $transition_default;
     &:hover{
-      // background-color:#F9F7F7;
       border-color: #000000;
+    }
+    .upload_placeholder-wrapper{
+      span:hover{
+        opacity: 0.5;
+      }
+      svg{
+        transition: $transition_default;
+      }
     }
   }
 
   &.mockup-drag-enter {
-    background-color: rgba(177, 176, 176, 0.486);
-
+    .file--upload__draggable{
+      background-color:rgba(244, 244, 244, 0.34);
+      border-color: #000000;
+      padding: 10px 0;
+      .upload_placeholder-wrapper{
+        svg{
+          width: 38px;
+          height: 33px;
+          transform: rotateZ(15deg);
+        }
+      }
+    }
     // to prevent dragleave event triggered while user dragging over child items
     .file--upload__draggable::before {
       content: '';
@@ -316,7 +337,11 @@
   cursor: pointer;
   width: 100%;
   position: relative;
-  transition: all 0.5s ease;
+  transition: $transition_default;
+  &:hover{
+    border-color: #787878;
+    outline: none;
+  }
   &:focus{
     border-color: #000000;
   }
@@ -330,7 +355,6 @@
   }
 }
 .mockup_dropdown-wrapper{
-
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -371,24 +395,26 @@
         background: #cacaca;
       }
       .list-item{
-          padding: 8px 12px;
-          display: flex;
-          align-items: center;
-          gap: 6px;
-          line-height: 0;
-          p{
-              margin: 0;
-              font-weight: 400;
-              font-size: 14px;
-              line-height: 22px; 
-              color: #262626;
-              span{
-                  opacity: 0.5;
-              }
-          }
-          &:hover{
-              background-color: #F9F7F7;
-          }
+        border-radius: 4px;
+        margin: 8px;
+        padding: 8px 12px;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        line-height: 0;
+        p{
+            margin: 0;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 22px; 
+            color: #262626;
+            span{
+                opacity: 0.5;
+            }
+        }
+        &:hover{
+            background-color: #F9F7F7;
+        }
       }
   }
 }
@@ -411,8 +437,12 @@
     letter-spacing: -0.3px;
     width: -webkit-fill-available;
     width: -moz-available;
-    transition: all 0.5s ease;
+    transition: $transition_default;
     color: #262626;
+    &:hover{
+      border-color: #787878;
+      outline: none;
+    }
     &:focus{
       outline: none;
       border-color: #000000;
@@ -437,16 +467,19 @@
     border: 1px solid #BBBBBB;
     border-radius: 4px;
     padding: 12px 14px;
-    // font-size: 16px;
     line-height: 24px;
-    letter-spacing: -0.3px;
     width: -webkit-fill-available;
     width: -moz-available;
-    transition: all 0.5s ease;
+    transition: $transition_default;
     color: #262626;
+    font-weight: 300;
     font-size: 0.875rem;
     resize: none;
     height: 90px;
+    &:hover{
+      border-color: #787878;
+      outline: none;
+    }
     &:focus{
       border-color: #000000;
       outline: none;
@@ -619,7 +652,7 @@ margin-top: 24px;
     position: relative;
     // border: 1px solid transparent;
     border: 2px solid rgba(0, 0, 0, 0.1);
-    transition: all 0.1s ease-in-out;
+    transition: $transition_default;
     .--tooltip-copy{
       z-index: 99;
       box-sizing: border-box;
@@ -685,7 +718,7 @@ margin-top: 24px;
     // height: auto;
     overflow: hidden;
     position: relative;
-    transition: all 0.3s ease-in-out;
+    transition: $transition_default;
   }
 }
 .preview-design-switch{
@@ -810,7 +843,7 @@ margin-top: 24px;
     // margin-right: 1rem;
     cursor: pointer;
     padding: 2px;
-    transition: all 0.3s ease-in-out;
+    transition: $transition_default;
     &:hover{
       border: 1px solid #000000;
     }
@@ -1033,7 +1066,7 @@ margin-top: 24px;
   }
   /* FADE IN */
 .fade-enter-active {
-  transition: opacity 1s;
+  transition: $transition_default;
 }
 .fade-enter {
   opacity: 0;
@@ -1042,7 +1075,7 @@ margin-top: 24px;
 /* GO TO NEXT SLIDE */
 .slide-next-enter-active,
 .slide-next-leave-active {
-  transition: transform 0.5s ease-in-out;
+  transition: $transition_default;
 }
 .slide-next-enter {
   transform: translate(100%);
@@ -1054,7 +1087,7 @@ margin-top: 24px;
 /* GO TO PREVIOUS SLIDE */
 .slide-prev-enter-active,
 .slide-prev-leave-active {
-  transition: transform 0.5s ease-in-out;
+  transition: $transition_default;
 }
 .slide-prev-enter {
   transform: translate(-100%);
@@ -1089,7 +1122,7 @@ margin-top: 24px;
   position: absolute;
   top: calc(50% - 35px);
   left: 1%;
-  transition: transform 0.3s ease-in-out;
+  transition: $transition_default;
   user-select: none;
 }
 
@@ -1130,7 +1163,7 @@ margin-top: 24px;
   bottom: 130%;
   // left: 0%;
   // margin-left: -60px;
-  transition: all 0.3s ease;
+  transition: $transition_default;
   &::after{
       content: "";
       position: absolute;
@@ -1209,6 +1242,9 @@ margin-top: 24px;
   right: 0;
   top: -30px;
   display: flex;
+  span{
+    transition: $transition_default;
+  }
 }
 .glide{
   border-bottom: 1px solid #d8d8d8;
