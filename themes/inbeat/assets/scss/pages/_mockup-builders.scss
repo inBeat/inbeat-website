@@ -283,6 +283,7 @@
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease;
+    position: relative;
     &:hover{
       // background-color:#F9F7F7;
       border-color: #000000;
@@ -290,8 +291,9 @@
   }
 
   &.mockup-drag-enter {
-    background-color: rgba(177, 176, 176, 0.486);
-
+    
+    // background-color: rgba(177, 176, 176, 0.486);
+    background: red;
     // to prevent dragleave event triggered while user dragging over child items
     .file--upload__draggable::before {
       content: '';
@@ -299,6 +301,7 @@
       top: 0;
       bottom: 0;
       width: 100%;
+      background-color: red;
       height: 100%;
       z-index: 9999999;
     }
@@ -484,7 +487,7 @@
 }
 }
 #instagram-mockup-preview{
-  margin: 24px 32px 48px 24px;
+
   @include breakpoint(sm-down) {
   margin: 0px 0px 24px 0px;
 }
@@ -806,10 +809,11 @@ margin-top: 24px;
     width: 155px;
     height: 153px;
     box-sizing: border-box;
-    // width: 153px;
+    // width: auto;
     // margin-right: 1rem;
     cursor: pointer;
     padding: 2px;
+    overflow: hidden;
     transition: all 0.3s ease-in-out;
     &:hover{
       border: 1px solid #000000;
@@ -818,8 +822,16 @@ margin-top: 24px;
       border: 1px solid #000000;
       box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     }
-    
-    .ad_type-title{
+    .image-wrapper{
+      width: 100%;
+      height: 110px;
+      img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    .insta-mockup-type-title{
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -900,6 +912,8 @@ margin-top: 24px;
   position: relative;
   // padding: 7px 10px;
   padding-bottom: 7px;
+  filter: drop-shadow(0px 2.44326px 6.71896px rgba(0,0,0,0.1));
+  border-radius: 3.88929px;
   .header-wrapper{
     position: absolute;
     top: 7px;
@@ -913,6 +927,9 @@ margin-top: 24px;
         }
       }
     }
+  }
+  .preview-body{
+    border-radius: 3.88929px;
   }
 
   .line{
@@ -977,10 +994,10 @@ margin-top: 24px;
       span{
         cursor: pointer;
         font-weight: 500;
-        font-size: 11.8647px;
-        line-height: 12px;
-        text-align: center;
-        letter-spacing: -0.0673536px;    
+        font-size: 14px;
+        line-height: 14px;
+        letter-spacing: -0.08px;
+        text-align: center; 
         color: #000000;
         display: block;
         padding: 12px 12px;
@@ -992,13 +1009,13 @@ margin-top: 24px;
   .preview-body{
     display: block;
     position: relative;
-    padding-top: 56.25%;
+    // padding-top: 56.25%;
     height: 400px;
     background-color:  #141514;
     img{
-      position: absolute;
-      top: 0;
-      left: 0;
+      // position: absolute;
+      // top: 0;
+      // left: 0;
       height: 100%;
       width: 100%;
     }
@@ -1077,20 +1094,29 @@ margin-top: 24px;
 }
 
 .btn {
-  z-index: 10;
-  cursor: pointer;
-  // border: 3px solid #fff;
-  opacity: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 70px;
-  height: 70px;
   position: absolute;
   top: calc(50% - 35px);
   left: 1%;
+  z-index: 10;
   transition: transform 0.3s ease-in-out;
   user-select: none;
+  opacity: 0;
+  cursor: pointer;
+  // border: 3px solid #fff;
+  height: 25px;
+  width: 25px;
+  background: transparent;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover{
+    background: #EBEBEB;
+  }
+  &:active{
+    background: #BCBCBC;
+  }
+  cursor: pointer;
 }
 
 .btn-next {
@@ -1203,6 +1229,7 @@ margin-top: 24px;
   top: 10px;
   right: 10px;
   z-index: 9;
+  opacity: 25%;
 }
 .glide-controls{
   position: absolute;
@@ -1228,4 +1255,8 @@ margin-top: 24px;
     background: #BCBCBC;
   }
   cursor: pointer;
+}
+#mockup-download-img{
+  padding: 24px;
+  margin-right: 8px;
 }

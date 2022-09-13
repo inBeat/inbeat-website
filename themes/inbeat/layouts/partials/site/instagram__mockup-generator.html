@@ -45,26 +45,12 @@
                                 <div>
                                   <div class="glide">
                                     <div class="glide__track" data-glide-el="track">
-                                      <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType">
-                                        <!-- <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[0].id}"  @click="adTypeClick(adTypes[0])">
-                                          <img src="/icons/1-1.svg">
-                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[0].id}">Square <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[0].id"></div></div></div>
-                                        </div>
-                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[1].id}"  @click="adTypeClick(adTypes[1])">
-                                          <img src="/icons/3-2.svg">
-                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[1].id}">Landscape <span>(3:2)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[1].id"></div></div></div>
-                                        </div>
-                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[2].id}"  @click="adTypeClick(adTypes[2])">
-                                          <img src="/icons/9-16.svg">
-                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[2].id}">Story <span>(9-16)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[2].id"></div></div></div>
-                                        </div>
-                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adTypes[3].id}"  @click="adTypeClick(adTypes[3])">
-                                          <img src="/icons/carousel.svg">
-                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adTypes[3].id}">Carousel <span>(1:1)</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adTypes[3].id"></div></div></div>
-                                        </div> -->
-                                        <div class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
-                                          <img :src="getImgUrl(adType.img)">
-                                              <div class="ad_type-title "><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
+                                      <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType" >
+                                        <div style="width: auto !important;" class="mockup-type__card slide-mockup-type" :class="{'--active': activeAd === adType.id}" v-for="adType in adTypes" :key="adType.id" @click="adTypeClick(adType)">
+                                          <div class="image-wrapper">
+                                            <img :src="getImgUrl(adType.img)">
+                                          </div>
+                                              <div class="insta-mockup-type-title"><p :class="{'--active': activeAd === adType.id}">{adType.type} <span>({adType.ratio})</span></p> <div class="circle"><div class="circle-inner" v-if="activeAd === adType.id"></div></div></div>
                                         </div>
                                       </div>
                                     </div>
@@ -126,78 +112,72 @@
                           </div>
                         </div>
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section col-md-5" id="mockup-preview">
-                       
-                          <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1 || activeAd === 2 || activeAd === 4">
-                            <!-- <div class="preview-nav">
-                              {{- partial "icons/camera.html" -}}
-                              {{- partial "icons/instagram-title.html" -}}
-                              <div>
-                                {{- partial "icons/igtv.html" -}}
-                                {{- partial "icons/chat.html" -}}
-                              </div>
-                            </div> -->
-                              <div class="preview-header">
-                                  <div class="preview-creadincials">
-                                    <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
-                                      <div class="gradient-border">
-                                        <div class="profile-picture-wrapper">
-                                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                                        </div>
-                                      </div>
-                                    <!-- </uploader> -->
-                                      <div class="user-name-wrapper">
-                                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                                          <span class="sponcered-text">Sponsored</span>
-                                      </div>
-                                  </div>
-                                  {{- partial "icons/more-option.html" -}}
-                              </div>
-                              <div v-if="activeAd !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
-                                <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                                  <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
-                                  <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                                <!-- </uploader> -->
-                                  <!-- <slider :slides="postSrc"></slider> -->
-                              </div>
-                              <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
-                                <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                                  <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
-                                  <span class="carousel__post-count">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
-                                   <slider :slides="postSrc" @current-post="updateCurrentPost"></slider>
-                                <!-- </uploader> -->
-                                  <!-- <slider :slides="postSrc"></slider> -->
-                              </div>
-                              <div class="preview_banner-wrapper">
-                                <div class="preview-banner-cta">
-                                  <span >{selectedPreviewCTA.name}</span>
-                                  {{- partial "icons/right-chevron.html" -}}
-                                </div>
-                              </div>
-                              <div class="preview-cta">
-                                <div class="like-share-comment">
-                                  {{- partial "icons/like.html" -}}
-                                  {{- partial "icons/comment-insta.html" -}}
+                          <div id="mockup-download-img">
+                            <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd === 1 || activeAd === 2 || activeAd === 4 || activeAd === 5">
+                              <!-- <div class="preview-nav">
+                                {{- partial "icons/camera.html" -}}
+                                {{- partial "icons/instagram-title.html" -}}
+                                <div>
+                                  {{- partial "icons/igtv.html" -}}
                                   {{- partial "icons/chat.html" -}}
                                 </div>
-                                <div v-if="activeAd === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
-                                {{- partial "icons/save.html" -}}
-                              </div>
-                              <div class="preview-description">
-                                <div class="previwe-likes">
-                                  {likes} Likes
-                                </div>
-                                <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
-                                 <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span>
-                                </div>
-                              </div>
-                              <!-- <div class="preview-footer">
-                                {{- partial "icons/home-insta.html" -}}
-                                {{- partial "icons/search.html" -}}
-                                {{- partial "icons/new-post.html" -}}
-                                {{- partial "icons/like.html" -}}
-                                {{- partial "icons/profile.html" -}}
                               </div> -->
-                          </div>
+                                <div class="preview-header">
+                                    <div class="preview-creadincials">
+                                      <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
+                                        <div class="gradient-border">
+                                          <div class="profile-picture-wrapper">
+                                              <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                                          </div>
+                                        </div>
+                                      <!-- </uploader> -->
+                                        <div class="user-name-wrapper">
+                                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                                            <span class="sponcered-text">Sponsored</span>
+                                        </div>
+                                    </div>
+                                    {{- partial "icons/more-option.html" -}}
+                                </div>
+                                <div v-if="activeAd !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                                    <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
+                                </div>
+                                <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
+                                  <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
+                                    <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
+                                    <span class="carousel__post-count" v-if="postSrc.length > 1">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
+                                     <slider :slides="postSrc" @current-post="updateCurrentPost"></slider>
+                                </div>
+                                <div class="preview_banner-wrapper">
+                                  <div class="preview-banner-cta">
+                                    <span >{selectedPreviewCTA.name}</span>
+                                    {{- partial "icons/right-chevron.html" -}}
+                                  </div>
+                                </div>
+                                <div class="preview-cta">
+                                  <div class="like-share-comment">
+                                    {{- partial "icons/like.html" -}}
+                                    {{- partial "icons/comment-insta.html" -}}
+                                    {{- partial "icons/chat.html" -}}
+                                  </div>
+                                  <div v-if="activeAd === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
+                                  {{- partial "icons/save.html" -}}
+                                </div>
+                                <div class="preview-description">
+                                  <div class="previwe-likes">
+                                    {likes} Likes
+                                  </div>
+                                  <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
+                                   <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span>
+                                  </div>
+                                </div>
+                                <!-- <div class="preview-footer">
+                                  {{- partial "icons/home-insta.html" -}}
+                                  {{- partial "icons/search.html" -}}
+                                  {{- partial "icons/new-post.html" -}}
+                                  {{- partial "icons/like.html" -}}
+                                  {{- partial "icons/profile.html" -}}
+                                </div> -->
+                            </div>
                           <div id="instagram-mockup-preview" v-if="activeAd === 3" class="mockup_preview-story">
                             <div class="header-wrapper">
                               <div class="line">
@@ -222,7 +202,7 @@
                                 </div>
                             </div>
                             </div>
-                          <div class="preview-body">
+                          <div class="preview-body" id="story-body" :style="getComputedHeight">
                             <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                               <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                               <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
@@ -240,6 +220,7 @@
                             </div>
                           </div>
                           </div>
+                        </div>
                           <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download PNG
@@ -265,12 +246,9 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
-<!-- <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js" integrity="sha512-01CJ9/g7e8cUmY0DFTMcUw/ikS799FHiOA0eyHsUWfOetgbx/t6oV4otQ5zXKQyIrQGTHSmRVPIgrgLcZi/WMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!-- <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.3.2/swiper-bundle.min.js" integrity="sha512-V1mUBtsuFY9SNr+ptlCQAlPkhsH0RGLcazvOCFt415od2Bf9/YkdjXxZCdhrP/TVYsPeAWuHa+KYLbjNbeEnWg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js" integrity="sha512-j+F4W//4Pu39at5I8HC8q2l1BNz4OF3ju39HyWeqKQagW6ww3ZF9gFcu8rzUbyTDY7gEo/vqqzGte0UPpo65QQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -430,7 +408,7 @@
             Upload Image
         </button>
     </template>
-    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="() => {}" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
+    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="() => {isDragEnter = true}" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
       <slot></slot>
     </div>
     <template v-else>
@@ -577,6 +555,13 @@
               req: 80,
             },
             {
+              id:5,
+              type:'Portrait',
+              ratio:'4:5',
+              img:'portrait'   ,
+              req: 80,
+            },
+            {
               id:2,
               type:'Landscape',
               ratio:'3:2',
@@ -622,7 +607,7 @@
             console.log(e)
         },
         downloadPng(){
-          var preview = document.getElementById('instagram-mockup-preview')
+          var preview = document.getElementById('mockup-download-img')
           //--------------------
           html2canvas(preview)
           .then(function(canvas){
@@ -635,13 +620,19 @@
 
         },
         copyImage(){
-          var preview = document.getElementById('instagram-mockup-preview')
-          navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-              if (result.state == "granted" || result.state == "prompt") {
-                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                this.copied = true
-              }
-          })
+          var preview = document.getElementById('mockup-download-img')
+          var isFirefox = typeof InstallTrigger !== 'undefined';
+          if(navigator.userAgent.indexOf("Firefox") != -1 ){
+            console.log(navigator.clipboard)
+            html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.setImageData(blob, blob.type)))
+          }else{
+            navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
+                if (result.state == "granted" || result.state == "prompt") {
+                    html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+                  this.copied = true
+                }
+            })
+          }
           // ---------------------
           // this.copyElementToClipboard('instagram-mockup-preview')
           // -------------------------
@@ -827,9 +818,10 @@
     },
     computed: {
       getComputedHeight() {
-          return {
-            height: this.activeAd === 1 ? '417px' : this.activeAd === 2 ? '276px':'417px',
-          };
+        let  width= document.getElementById('mockup-download-img').offsetWidth - 50
+        return {
+          height: this.activeAd === 1 || this.activeAd === 4 ? width + 'px' : this.activeAd === 2 ? ((2/3)* width) + 'px':this.activeAd === 5 ? ((5/4)* width) + 'px' :this.activeAd === 3 ? ((16/9)* width) + 'px':'417px',
+        };
         },
       },
       // To make sure there's no conflict with Hugo templating
@@ -854,7 +846,7 @@
         // initilizeSwiper()
         new Glide('.glide',{
           type: 'slider',
-          perView: 3.5,
+          perView: 3.48,
           gap: 0,
           breakpoints: {
 		        550: {
@@ -886,4 +878,10 @@
 		        },
 	        }
         }).mount()
+  //       var slider = tns({
+  //   container: '#mockup-type-wrapper',
+  //   items: 3,
+  //   slideBy: 'page',
+  //   autoplay: false
+  // });
     </script>
