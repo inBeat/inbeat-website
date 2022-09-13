@@ -1259,6 +1259,7 @@ margin-top: 24px;
 #mockup-download-img{
   padding: 24px;
   margin-right: 8px;
+  background: #F9F7F7;
   @include breakpoint(sm-down) {
     padding: 16px 16px 16px 16px;
     margin: 0px -16px;
