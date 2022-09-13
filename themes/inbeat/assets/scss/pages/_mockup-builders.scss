@@ -293,7 +293,7 @@
   &.mockup-drag-enter {
     
     // background-color: rgba(177, 176, 176, 0.486);
-    background: red;
+    // background: red;
     // to prevent dragleave event triggered while user dragging over child items
     .file--upload__draggable::before {
       content: '';
@@ -301,7 +301,7 @@
       top: 0;
       bottom: 0;
       width: 100%;
-      background-color: red;
+      // background-color: red;
       height: 100%;
       z-index: 9999999;
     }
@@ -1026,10 +1026,10 @@ margin-top: 24px;
 //   overflow: hidden;  
 // }
 .see-more{
-  position: absolute;
-  right: 0;
-  bottom: 0px;
-  display: block;
+  // position: absolute;
+  // right: 0;
+  // bottom: 0px;
+  // display: inline-block;
   background: white;
   cursor: pointer;
   font-weight: 600;
