@@ -291,9 +291,15 @@
     background-color:rgba(244, 244, 244, 0.34);
     border-color: #000000;
       .upload_placeholder-wrapper{
+        p{
+          margin-top: 11px;
+        }
         svg{
-          width: 38px;
-          height: 33px;
+          width: 35px;
+          height: 30px;
+          path{
+          fill:#BEBEBE;
+          }
           transform: rotateZ(15deg);
         }
       }
@@ -301,6 +307,7 @@
   .file--upload__draggable {
     cursor: pointer;
     border: 1px dashed #BBBBBB;
+    height: 190px !important;
     border-radius: 4px;    
     display: flex;
     align-items: center;
@@ -311,7 +318,14 @@
       @include image-box;
     }
     .upload_placeholder-wrapper{
+      transition: $transition_default;
+      p{
+        transition: $transition_default;
+      }
       svg{
+        path{
+         transition: $transition_default;
+        }
         transition: $transition_default;
       }
     }
@@ -328,7 +342,6 @@
       top: 0;
       bottom: 0;
       width: 100%;
-      // background-color: red;
       height: 100%;
       z-index: 9999999;
     }
@@ -938,7 +951,7 @@
     color: #000000;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 20px;
     span{
       font-weight: 700;
     }
