@@ -476,6 +476,7 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
+  width: 100%;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
@@ -486,12 +487,7 @@
     margin-top: 24px;
 }
 }
-#instagram-mockup-preview{
 
-  @include breakpoint(sm-down) {
-  margin: 0px 0px 24px 0px;
-}
-} 
 .mockup-preview-wrapper{
   background: #FFFFFF;
   border: 0.972321px solid #E5E5E5;
@@ -1259,4 +1255,9 @@ margin-top: 24px;
 #mockup-download-img{
   padding: 24px;
   margin-right: 8px;
+  @include breakpoint(sm-down) {
+    padding: 16px 16px 16px 16px;
+    margin: 0px -16px;
+
+  }
 }
