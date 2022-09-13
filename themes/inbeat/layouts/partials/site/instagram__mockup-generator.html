@@ -77,7 +77,7 @@
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image</span>
                                 <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
-                                  <uploader  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
+                                  <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
                                     <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
                                 </div></uploader>
@@ -507,11 +507,11 @@
             dir === 1 ? (this.transitionName = "slide-next") : (this.transitionName = "slide-prev");
             var len = this.slides.length;
             this.current = (this.current + dir % len + len) % len;
-            console.log(this.current)
+            // console.log(this.current)
           },
           dragSlide(e){
-            console.log(e)
-            console.log('hello')
+            // console.log(e)
+            // console.log('hello')
           }
         },
         mounted() {
@@ -608,8 +608,10 @@
         switchTab(tab){
             this.activeTab = tab
         },
-        uploadImage(files,location){
-            let src = URL.createObjectURL(files[0])
+        uploadImage(fileset,location){
+          const files = Array.from(fileset)
+          files.forEach(file => {
+            let src = URL.createObjectURL(file)
             // console.log(files, location)
             // location === 'header' ? this.dpSrc = src : this.postSrc= src
             if(location === 'header'){
@@ -617,6 +619,7 @@
             }else{
                 this.postSrc.push(src)
             }
+          })
         },
         validation(e){
             console.log(e)
