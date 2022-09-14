@@ -79,7 +79,7 @@
                                 <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
                                   <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
-                                    <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
+                                    <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
                                 </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">
@@ -98,7 +98,7 @@
                                   <p class="mockup__description">
                                       Set the number of likes for your post. Numeric input only.
                                   </p>
-                                  <input @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                                  <input @input="addLikes" @keydown="checkIfNumber" class="likes-count-input" type="number" placeholder="15">
                               </div>
                               <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
@@ -786,7 +786,12 @@
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
         },
         addLikes(e){
+          console.log('input ')
          this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+        },
+        checkIfNumber(event) {
+        const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+        return !event.key.match(regex) && event.preventDefault();
         },
         // seeMoreVisible(){
         //   console.log(document.getElementById('preview-caption').clientHeight)
