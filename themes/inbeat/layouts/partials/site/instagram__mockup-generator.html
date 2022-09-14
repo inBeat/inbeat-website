@@ -228,7 +228,7 @@
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download PNG
                               </button>
-                              <button @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                              <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                                 <span v-else class="--tooltip-copy --sucess">Copied 
@@ -605,7 +605,8 @@
             windowWidth: 0,
             // displayBoth: true,
             showSeeMore: false,
-            count :0
+            count :0,
+            canCopy:true
         },
     methods:{
         switchTab(tab){
@@ -849,6 +850,12 @@
         // },
         updateCurrentPost(val){
           this.activePost = val
+        },
+        checkBrowserCompatibility(){
+          var isFirefox = typeof InstallTrigger !== 'undefined';
+          if(isFirefox){
+            this.canCopy = false
+          }
         }
     },
     beforeMount() {
@@ -858,6 +865,7 @@
       let isMobile = this.windowWidth <= 525 ? true : false;
       isMobile ? this.activeTab = 'controls'  : this.activeTab = 'both'
       this.addCaption()
+      this.checkBrowserCompatibility()
         // this.initilizeFlickity()
       // setTimeout(() => {
       // }, 950);
@@ -869,6 +877,7 @@
     computed: {
       getComputedHeight() {
         let  width= document.getElementById('mockup-download-img').offsetWidth - 50
+        console.log(width)
         return {
           height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
         };
