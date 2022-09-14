@@ -145,7 +145,7 @@
                                 <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                   <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                     <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
-                                    <span class="carousel__post-count" v-if="postSrc.length > 1">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
+                                    <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
                                     <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
                                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 </div>
@@ -161,7 +161,7 @@
                                     {{- partial "icons/comment-insta.html" -}}
                                     {{- partial "icons/chat.html" -}}
                                   </div>
-                                  <div v-if="activeAd.id === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
+                                  <div v-if="activeAd.id === 4" class="carousel-pagination"><span v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
                                   {{- partial "icons/save.html" -}}
                                 </div>
                                 <div class="preview-description">
