@@ -759,7 +759,7 @@
           if(this.seeMoreDisplayValue === ''){
             this.count = 0 
           }
-          if(this.caption.length < 78 && this.count !== 1){
+          if(this.caption.length < 94 && this.count !== 1){
             if (this.showSeeMore){
               this.showSeeMore = !this.showSeeMore
             }
@@ -774,7 +774,7 @@
               displaySentence = displaySentence + ' ' + words[i]
               this.captionValue = displaySentence 
             });
-            if(this.caption.length < 72){
+            if(this.caption.length < 94){
               // this.count = 0
               this.seeMoreDisplayValue= ''
               this.displayCaptionValue = displaySentence
