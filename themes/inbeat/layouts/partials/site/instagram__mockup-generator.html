@@ -734,11 +734,13 @@
             return '/icons/'+pic+'.svg'
         },
         adTypeClick(adType){
-          this.clearFields()
-          this.activeAd =  adType
-          this.$nextTick(() => {
-            this.setHeight(adType.req)
-          })
+          if(this.activeAd.id !== adType.id){
+            this.clearFields()
+            this.activeAd =  adType
+            this.$nextTick(() => {
+              this.setHeight(adType.req)
+            })
+          }
         },
         addCaption(){
           // if(this.count> 1){
