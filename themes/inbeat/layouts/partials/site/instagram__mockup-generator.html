@@ -228,7 +228,7 @@
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download PNG
                               </button>
-                              <button v-if="!isFirefox" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                              <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                                 <span v-else class="--tooltip-copy --sucess">Copied 
@@ -538,7 +538,6 @@
     var app = new Vue({
       el: '#mockup_builder',
       data: {
-            isFirefox: navigator.userAgent.toLowerCase().indexOf('firefox') > -1,
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
             activeTab: 'controls',
             profileName: '',
@@ -647,16 +646,14 @@
         },
         copyImage(){
           var preview = document.getElementById('mockup-download-img')
-          var isFirefox = typeof InstallTrigger !== 'undefined';
           if(navigator.userAgent.indexOf("Firefox") != -1 ){
-            console.log(navigator.clipboard)
             html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.setImageData(blob, blob.type)))
           }else{
             navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-                if (result.state == "granted" || result.state == "prompt") {
-                    html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                  this.copied = true
-                }
+            if (result.state == "granted" || result.state == "prompt") {
+              html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+              this.copied = true
+            }
             })
           }
           // ---------------------
