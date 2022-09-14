@@ -9,7 +9,7 @@
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
               <!-- <h4 class="mockup__title">Instagram mockup</h4>
                 <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
-                <div class="row mockup__preview-configuration-wrapper">
+                <div class="row mockup__preview-configuration-wrapper" :class="{'--gray-bg' : activeTab === 'preview'}">
                       <div class="preview-design-switch hide-md-up col-xs-12">
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
                           Ad Content 
@@ -881,7 +881,7 @@
     this.windowWidth = window.innerWidth;
   },
     mounted(){
-      let isMobile = this.windowWidth <= 525 ? true : false;
+      let isMobile = this.windowWidth <= 1024 ? true : false;
       isMobile ? this.activeTab = 'controls'  : this.activeTab = 'both'
       this.addCaption()
       this.checkBrowserCompatibility()

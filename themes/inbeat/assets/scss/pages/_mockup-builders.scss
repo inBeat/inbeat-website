@@ -83,13 +83,14 @@
       .mockup__preview-configuration-wrapper{
         // gap: 64px;
         // margin-top: 24px;
-        @include breakpoint(sm-down) {
+        @include breakpoint(md-down) {
           border: 1px solid #DCDCDC;
           box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
           border-radius: 1px;
           padding: 24px 16px;
           padding-right: 4px;
           position: relative;
+          // background: #F9F7F7;
         }
         .col-md-6 {
           flex: 1 1 0 !important;
@@ -485,7 +486,7 @@
     padding: 0;
     padding-right: 12px;
     margin-top: 0px;
-    background: #FFFFFF;
+    background: #F9F7F7;
     margin-top: 24px;
 }
 }
@@ -1265,10 +1266,10 @@ margin-top: 24px;
   padding: 24px;
   margin-right: 8px;
   background: #F9F7F7;
-  @include breakpoint(sm-down) {
+  @include breakpoint(md-down) {
     padding: 16px 16px 16px 16px;
     margin: 0px -16px;
-
+    // margin-top: 22px;
   }
 }
 .placeholder-info{
@@ -1291,4 +1292,7 @@ margin-top: 24px;
     color: #C2C2C2;
     letter-spacing: 0;
   }
+}
+.--gray-bg{
+  background: #F9F7F7;
 }
