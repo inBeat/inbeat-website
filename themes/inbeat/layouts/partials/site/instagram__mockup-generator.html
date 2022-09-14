@@ -611,6 +611,9 @@
     methods:{
         switchTab(tab){
             this.activeTab = tab
+            this.$nextTick(() => {
+              if(this.activeTab === 'preview') this.setPreviewRatio()
+            })
         },
         uploadImage(fileset,location){
           const files = Array.from(fileset)
@@ -735,6 +738,7 @@
         },
         adTypeClick(adType){
           if(this.activeAd.id !== adType.id){
+            // this.setAdRatio()
             this.clearFields()
             this.activeAd =  adType
             this.$nextTick(() => {
@@ -786,7 +790,6 @@
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
         },
         addLikes(e){
-          console.log('input ')
          this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
         },
         checkIfNumber(event) {
@@ -863,6 +866,15 @@
           if(isFirefox){
             this.canCopy = false
           }
+        },
+        setPreviewRatio(){
+          let el = document.getElementById('mockup-download-img')
+          let  width= el.offsetWidth - 50
+          let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
+          let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
+          if(target){
+            target.style.height = height
+          }
         }
     },
     beforeMount() {
@@ -884,7 +896,6 @@
     computed: {
       getComputedHeight() {
         let  width= document.getElementById('mockup-download-img').offsetWidth - 50
-        console.log(width)
         return {
           height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
         };
