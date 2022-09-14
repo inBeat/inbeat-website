@@ -9,7 +9,7 @@
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
               <!-- <h4 class="mockup__title">Instagram mockup</h4>
                 <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
-                <div class="row mockup__preview-configuration-wrapper">
+                <div class="row mockup__preview-configuration-wrapper" :class="{'--gray-bg' : activeTab === 'preview'}">
                       <div class="preview-design-switch hide-md-up col-xs-12">
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
                           Ad Content 
@@ -79,7 +79,7 @@
                                 <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
                                   <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                     {{- partial "icons/upload-placeholder.html" -}}
-                                    <p><span>Click to upload</span> or drag-and-drop</br> <sub>Supports only .png or .jpg</sub></p>
+                                    <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
                                 </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">
@@ -145,7 +145,7 @@
                                 <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                   <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                     <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
-                                    <span class="carousel__post-count" v-if="postSrc.length > 1">{postSrc.length > 1 ? activePost+1:activePost}/{postSrc.length}</span>
+                                    <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
                                     <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
                                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 </div>
@@ -161,7 +161,7 @@
                                     {{- partial "icons/comment-insta.html" -}}
                                     {{- partial "icons/chat.html" -}}
                                   </div>
-                                  <div v-if="activeAd.id === 4 && postSrc.length > 1" class="carousel-pagination"><span v-for="(dot,i) in postSrc" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
+                                  <div v-if="activeAd.id === 4" class="carousel-pagination"><span v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
                                   {{- partial "icons/save.html" -}}
                                 </div>
                                 <div class="preview-description">
@@ -606,11 +606,15 @@
             windowWidth: 0,
             // displayBoth: true,
             showSeeMore: false,
-            count :0
+            count :0,
+            canCopy:true
         },
     methods:{
         switchTab(tab){
             this.activeTab = tab
+            this.$nextTick(() => {
+              if(this.activeTab === 'preview') this.setPreviewRatio()
+            })
         },
         uploadImage(fileset,location){
           const files = Array.from(fileset)
@@ -734,11 +738,14 @@
             return '/icons/'+pic+'.svg'
         },
         adTypeClick(adType){
-          this.clearFields()
-          this.activeAd =  adType
-          this.$nextTick(() => {
-            this.setHeight(adType.req)
-          })
+          if(this.activeAd.id !== adType.id){
+            // this.setAdRatio()
+            this.clearFields()
+            this.activeAd =  adType
+            this.$nextTick(() => {
+              this.setHeight(adType.req)
+            })
+          }
         },
         addCaption(){
           // if(this.count> 1){
@@ -753,7 +760,7 @@
           if(this.seeMoreDisplayValue === ''){
             this.count = 0 
           }
-          if(this.caption.length < 78 && this.count !== 1){
+          if(this.caption.length < 94 && this.count !== 1){
             if (this.showSeeMore){
               this.showSeeMore = !this.showSeeMore
             }
@@ -768,7 +775,7 @@
               displaySentence = displaySentence + ' ' + words[i]
               this.captionValue = displaySentence 
             });
-            if(this.caption.length < 72){
+            if(this.caption.length < 94){
               // this.count = 0
               this.seeMoreDisplayValue= ''
               this.displayCaptionValue = displaySentence
@@ -785,6 +792,10 @@
         },
         addLikes(e){
          this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+        },
+        checkIfNumber(event) {
+        const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+        return !event.key.match(regex) && event.preventDefault();
         },
         // seeMoreVisible(){
         //   console.log(document.getElementById('preview-caption').clientHeight)
@@ -850,15 +861,31 @@
         // },
         updateCurrentPost(val){
           this.activePost = val
+        },
+        checkBrowserCompatibility(){
+          var isFirefox = typeof InstallTrigger !== 'undefined';
+          if(isFirefox){
+            this.canCopy = false
+          }
+        },
+        setPreviewRatio(){
+          let el = document.getElementById('mockup-download-img')
+          let  width= el.offsetWidth - 50
+          let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
+          let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
+          if(target){
+            target.style.height = height
+          }
         }
     },
     beforeMount() {
     this.windowWidth = window.innerWidth;
   },
     mounted(){
-      let isMobile = this.windowWidth <= 525 ? true : false;
+      let isMobile = this.windowWidth <= 1024 ? true : false;
       isMobile ? this.activeTab = 'controls'  : this.activeTab = 'both'
       this.addCaption()
+      this.checkBrowserCompatibility()
         // this.initilizeFlickity()
       // setTimeout(() => {
       // }, 950);
