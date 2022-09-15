@@ -22,7 +22,7 @@
                             Preview 
                         </div>
                     </div>
-                        <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"  class="col-md-7 col-sm-12 mockup__configuration-wrapper">
+                        <div v-show="activeTab === 'both' ?  true : activeTab === 'controls'"  class="mockup__configuration-wrapper col-sm-down-12">
 
                           <div class="mockup__configuration-section" id="mockup-controls">
                               <div class="mockup__configuration-header-wrapper">
@@ -111,7 +111,7 @@
                               </div>
                           </div>
                         </div>
-                        <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section col-md-5 col-sm-12" id="mockup-preview">
+                        <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section" id="mockup-preview">
                           <div id="mockup-download-img">
                             <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                               <!-- <div class="preview-nav">
