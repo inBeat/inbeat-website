@@ -87,8 +87,8 @@
           border: 1px solid #DCDCDC;
           box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
           border-radius: 1px;
-          padding: 24px 16px;
-          padding-right: 4px;
+          padding: 24px 4px;
+          // padding-right: 4px;
           position: relative;
           // background: #F9F7F7;
         }
@@ -104,12 +104,15 @@
           overflow-y: overlay;
           overflow-y: scroll;
           @include breakpoint(sm-down) {
-            padding: 0;
-            padding-right: 12px;
+            padding: 0px 16px;
+            // padding-right: 12px;
             height: 60vh;
             overflow: overlay;
             position: relative;
             margin-top: 24px;
+        }
+          @include breakpoint(md-down) {
+            margin-left: 2px;
         }
           // &:hover {
           // }
@@ -316,6 +319,7 @@
     justify-content: center;
     position: relative;
     transition: $transition_default;
+    z-index: 3;
     &:hover{
       @include image-box;
     }
@@ -526,6 +530,7 @@
 .mockup__preview-section{
   // padding-left: 3rem;
   // visibility: hidden;
+  width: 475px;
   background: #F9F7F7;
   border-radius: 1px;
   padding: 24px;
@@ -533,17 +538,21 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
-  width: 100%;
+  // width: 100%;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
-    padding-right: 12px;
+    // padding-right: 12px;
     margin-top: 0px;
     background: #F9F7F7;
     margin-top: 24px;
   }
 }
+  @include breakpoint(md-down) {
+    width: 100%;
+}
+
 
 .mockup-preview-wrapper{
   background: #FFFFFF;
@@ -842,9 +851,14 @@
 }
 .mockup__configuration-wrapper{
   padding: 0px 0px 0px 51px;
+  width: calc(100% - 574px);
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
+}
+  @include breakpoint(md-down) {
+    flex-basis: 100%;
+    max-width: 100%;
 }
 }
 .insta__mockup-type-wrapper{
@@ -855,6 +869,7 @@
   overflow: hidden;
   max-height: 192px;
   padding-bottom: 32px;
+  padding-right: 10px;
   .mockup-type__card{
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
@@ -897,6 +912,9 @@
         cursor: pointer;
         font-weight: 500;
         letter-spacing: 0.3px;
+        @include breakpoint(md-down){
+          font-size: 11px;
+        }
       }
       span{
         margin: 0;
@@ -936,6 +954,7 @@
   flex-direction: column;
   text-align: center;
   margin: 48px 0px;
+  z-index: 2;
   p{
     margin: 0;
     margin-top: 12px;
@@ -1311,8 +1330,14 @@
   background: #F9F7F7;
   @include breakpoint(md-down) {
     padding: 16px 16px 16px 16px;
-    margin: 0px -16px;
+    // margin: 0px -16px;
+    width: 419px;
+    margin: 0 auto;
     // margin-top: 22px;
+  }
+  @include breakpoint(sm-down) {
+    padding: 16px 0px;
+    width: 355px;
   }
 }
 .placeholder-info{
