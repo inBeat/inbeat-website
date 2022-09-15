@@ -77,10 +77,10 @@
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image</span>
                                 <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
-                                  <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
-                                    {{- partial "icons/upload-placeholder.html" -}}
-                                    <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
-                                </div></uploader>
+                                <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
+                                  {{- partial "icons/upload-placeholder.html" -}}
+                                  <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
+                              </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">
                                   <h4 class="mockup__title">
@@ -168,7 +168,7 @@
                                   <div class="previwe-likes">
                                     {likes} Likes
                                   </div>
-                                  <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 79 ? '34px !important':'34px'}">
+                                  <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 106 ? '34px !important':'34px'}">
                                    <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text" v-html="seeMoreDisplayValue"></span>
                                   </div>
                                 </div>
@@ -251,6 +251,8 @@
 {{- end -}}
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://unpkg.com/dropzone@6.0.0-beta.1/dist/dropzone-min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/uppy/3.0.1/uppy.min.js" integrity="sha512-nNNGynVPU4k+mRYdwbjY/hj3F/i7uNMOhamm+lMcBVcob5v2mz+xkcIValiA3EPwvMxbFgFwS0QdTVN5jyH1IA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js" integrity="sha512-j+F4W//4Pu39at5I8HC8q2l1BNz4OF3ju39HyWeqKQagW6ww3ZF9gFcu8rzUbyTDY7gEo/vqqzGte0UPpo65QQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script>
     Vue.component('uploader', {
@@ -332,6 +334,10 @@
               e.preventDefault()
               // This method will be called when the file gets uploaded
               const files = e.target.files || e.dataTransfer.files;
+              if(this.multiple && files.length > 10){
+                alert('You can only upload maximum 10 files')
+                return
+              }
               if (files[0]) {
                 this.preprocessFiles(files);
               }
@@ -411,7 +417,7 @@
             Upload Image
         </button>
     </template>
-    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="() => {isDragEnter = true}" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
+    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="isDragEnter = true" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
       <slot></slot>
     </div>
     <template v-else>
@@ -622,7 +628,11 @@
             if(location === 'header'){
               this.dpSrc = src
             }else{
+              if(this.postSrc.length < 10){
                 this.postSrc.push(src)
+              }else{
+                alert('you can only selet 10 images')
+              }
             }
           })
         },
@@ -745,26 +755,39 @@
           }
         },
         addCaption(){
-          // if(this.count> 1){
-          //   this.showSeeMore = true
-          // }else{
-          //   this.showSeeMore = false
-          // }
-          // this.seeMoreDisplayValue ? this.showSeeMore = true : this.showSeeMore = false
-          // document.getElementsByClassName('caption-text')[0].offsetHeight > 34 ? this.showSeeMore = true : this.showSeeMore = false
-          
-          // this.displayCaptionValue = this.caption
           if(this.seeMoreDisplayValue === ''){
             this.count = 0 
           }
-          if(this.caption.length < 94 && this.count !== 1){
+          if(this.caption.length < 103 && this.count !== 1){
             if (this.showSeeMore){
               this.showSeeMore = !this.showSeeMore
+              document.getElementById('preview-caption').style.height = '34px' 
             }
+          }
+          if(this.caption.length > 95){
+            let firstHalf= this.caption.slice(0,95)
+            let secondHalf =this.caption.slice(95)
+            let firstHalfWords = firstHalf.split(" ");
+            let secondHalfWords = firstHalf.split(" ");
+            let displaySentence = ''
+            let displaySentence2 = ''
+            firstHalfWords.forEach((word,i) => {
+              if(word.startsWith('@') || word.startsWith('#')){
+                firstHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
+              }
+              displaySentence = displaySentence + ' ' + firstHalfWords[i]
+            });
+            secondHalfWords.forEach((word,i) => {
+              if(word.startsWith('@') || word.startsWith('#')){
+                secondHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
+              }
+              displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
+            });
+            this.displayCaptionValue = displaySentence
+            this.seeMoreDisplayValue = displaySentence2
           }
             const words = this.caption.split(" ");
             let displaySentence = ''
-            let displaySentence2 = ''
             words.forEach((word,i) => {
               if(word.startsWith('@') || word.startsWith('#')){
                 words[i]=`<span style="color:#5395E9;">${word}</span> `
@@ -772,8 +795,7 @@
               displaySentence = displaySentence + ' ' + words[i]
               this.captionValue = displaySentence 
             });
-            if(this.caption.length < 94){
-              // this.count = 0
+            if(this.caption.length < 95){
               this.seeMoreDisplayValue= ''
               this.displayCaptionValue = displaySentence
             }else{
@@ -813,7 +835,7 @@
         },
         seeMoreExpand(){
           let ele = document.getElementById('preview-caption')
-          let text = document.getElementsByClassName('caption-text')[0]
+          // let text = document.getElementsByClassName('caption-text')[0]
           let height = ele.offsetHeight
           if(height<51){
             // ele.getElementsByClassName('see-more')[0].innerText = '...See Less'
@@ -884,6 +906,26 @@
     },
     mounted(){
       this.setActiveTab()
+  //     let uppy = new Uppy.Uppy({
+  //   debug: true,
+  //   autoProceed: true,
+  //   // locale: Uppy.locales.ru_RU
+  //   restrictions: {
+  //   maxNumberOfFiles: 10,
+  //   allowedFileTypes:['image/*','.jpg','.png'],
+  // },
+  // });
+  // uppy.use(Uppy.DragDrop, {
+  //   target: '#drop-area',
+  //   // We are using the ru_RU locale pack (set above in Uppy class options),
+  //   // but you can also override specific strings like so:
+  //   locale: {
+  //     strings: {
+  //         dropHereOr: 'Click to upload or %{browse}',
+  //         browse: 'drag-and-drop'
+  //     }
+  //   }
+  // });
       this.$nextTick(() => {
         this.setHeight(80);
           this.displayCaptionValue= 'This is caption that will display on the final mockup. You can write anything.'
@@ -903,6 +945,12 @@
         };
         },
       },
+      // watch:{
+      //   showSeeMore(value){
+      //     let ele  = document.getElementById('preview-caption')
+      //       value ? ele.style.height = 'auto' : ele.style.height = '34px' 
+      //     }
+      //   },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
@@ -966,6 +1014,7 @@
 		        },
 	        }
         }).mount()
+        // let myDropzone = new Dropzone("div#drop-area", { url: "/file/post"})
   //       var slider = tns({
   //   container: '#mockup-type-wrapper',
   //   items: 3,
