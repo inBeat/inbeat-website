@@ -66,7 +66,7 @@
                                 </div>
                               </div>
                               <div class="profile__input-wrapper">
-                                <span class="mockup__title">Profile information</span>
+                                <span class="mockup__title">Profile picture and username</span>
                                 <div class="uploader-wrapper">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper"><span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span><img v-else :src="dpSrc ? dpSrc : ''" alt=""> </span> </uploader>
                                     <div class="input-wrapper">
@@ -75,11 +75,15 @@
                                 </div>
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
-                                <span class="mockup__title">Image</span>
-                                <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
+                                <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title" v-else>Image</span>
+                                <span class="mockup__description">Recommended image size: {activeAd.resolution} pixels.</span>
+
+                                  
                                 <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                   {{- partial "icons/upload-placeholder.html" -}}
-                                  <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
+                                  <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div>
+                                  <span ref="messageError" class="image-error-text"></span>
+</p>
                               </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">
@@ -102,7 +106,7 @@
                               </div>
                               <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
-                                      Message
+                                      Caption
                                   </h4>
                                   <p class="mockup__description">
                                       Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
@@ -140,13 +144,13 @@
                                 </div>
                                 <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                                     <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
+                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended<span></span>
                                 </div>
                                 <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                   <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                                     <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
                                     <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
-                                    <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                                    <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended</span></span>
                                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                 </div>
                                 <div class="preview_banner-wrapper">
@@ -207,7 +211,7 @@
                           <div class="preview-body" id="story-body" :style="getComputedHeight">
                             <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                               <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                              <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                              <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended</span></span>
                               <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
                             <!-- </uploader> -->
                           </div>
@@ -335,7 +339,7 @@
               // This method will be called when the file gets uploaded
               const files = e.target.files || e.dataTransfer.files;
               if(this.multiple && files.length > 10){
-                alert('You can only upload maximum 10 files')
+                this.$refs.messageError.innerHTML = 'You can only upload maximum 10 files';
                 return
               }
               if (files[0]) {
@@ -369,16 +373,20 @@
               return invalidFileIndex === 0;
             },
             validate(files) {
+              const err = document.querySelector('.image-error-text');
               // file selection
               if (!this.multiple && files.length > 1) {
+                err.innerHTML = 'You can only upload one file';
                 return 'MULTIFILES_ERROR';
               }
               // check File extension for normal upload its not necessary but for drop we have to check the extension
               if (this.checkFileExtensions(files)) {
+                err.innerHTML = 'You can only upload .png or .jpg files';
                 return 'EXTENSION_ERROR';
               }
               // file size
               if (!this.checkFileSize(files)) {
+                err.innerHTML = 'File size is too large';
                 return 'FILE_SIZE_ERROR';
               }
               // custom validation
@@ -564,7 +572,7 @@
               ratio:'1:1',
               img:'1-1',
               req: 80,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             },
             {
               id:5,
@@ -572,15 +580,15 @@
               ratio:'4:5',
               img:'portrait'   ,
               req: 80,
-              resolution: '1080 X 1350'
+              resolution: '1080x1350'
             },
             {
               id:2,
-              type:'Landscape',
-              ratio:'3:2',
+              type:'Video',
+              ratio:'16:9',
               img:'3-2'   ,
               req: 80,
-              resolution: '1080 X 608'
+              resolution: '1920x1080'
             },
             {
               id:3,
@@ -588,7 +596,7 @@
               ratio:'9:16',
               img:'9-16',
               req: 80 ,
-              resolution: '1080 X 1920'
+              resolution: '1080x1920'
             },
             {
               id:4,
@@ -596,7 +604,7 @@
               ratio:'1:1',
               img:'carousel',
               req: 80 ,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             }
           ],
             activeAd: {
@@ -605,7 +613,7 @@
               ratio:'1:1',
               img:'1-1',
               req: 80,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             },
             copied: false,
             showSeeMore: false,
@@ -622,7 +630,7 @@
         uploadImage(fileset,location){
           const files = Array.from(fileset)
           if(this.postSrc.length >= 10){
-            alert('you can only selet 10 images');
+            this.$refs.messageError.innerHTML = 'You can only selet 10 images';
             return
           }
           files.forEach(file => {

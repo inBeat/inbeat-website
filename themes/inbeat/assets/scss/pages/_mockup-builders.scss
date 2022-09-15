@@ -117,14 +117,14 @@
           // &:hover {
           // }
           &::-webkit-scrollbar {
-            width: 2px;
+            width: 3px;
           }
           &::-webkit-scrollbar-track {
-            background-color: rgba(0, 0, 0, 0.05);
+            background-color: rgba(0, 0, 0, 0.1);
             // background: #008080;
           }
           &::-webkit-scrollbar-thumb {
-            background: #cacaca;
+            background: rgba(0, 0, 0, 0.4);
           }
           .mockup__configuration-header-wrapper{
             display: flex;
@@ -874,8 +874,6 @@
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     border-radius: 1px;
-    //width: 146px !important;
-    //height: 146px !important;
     box-sizing: border-box;
     cursor: pointer;
     padding: 2px;
@@ -975,6 +973,13 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
+  }
+  .image-error-text{
+    color: #ff2a2a;
+    font-size: 12px;
+    font-weight: 300;
+    position: absolute;
+    bottom: 30px;
   }
 }
 .mockup_preview-story{
@@ -1356,7 +1361,7 @@
     display: block;
     font-weight: 300;
     font-size: 14px;
-    line-height: 22px;
+    line-height: 24px;
     color: #C2C2C2;
     letter-spacing: 0.3px;
   }
