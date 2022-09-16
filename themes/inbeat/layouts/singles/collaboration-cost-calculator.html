@@ -299,6 +299,7 @@
                 this.loading = true;
                 var _this = this;
               window.grecaptcha.ready(() => {
+                document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                 window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
                   var request = new XMLHttpRequest();
                   request.open('POST', '{{ $endpointUrl | safeJS }}', true);
@@ -317,7 +318,7 @@
                       _this.loading = false;
                       return
                     }
-                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
+                    document.getElementById("progress").style.width = 100 + "%";
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
@@ -330,11 +331,8 @@
                     _this.getFirstData = true;
                     
                     setTimeout(() => {
-                      document.getElementById("progress").style.width = 100 + "%";
-                      setTimeout(() => {
                         _this.loading = false;
-                      }, 1000);
-                    }, 2000);
+                    }, 500);
                   };
                   request.onerror = function () {
                     console.log(request.response);
