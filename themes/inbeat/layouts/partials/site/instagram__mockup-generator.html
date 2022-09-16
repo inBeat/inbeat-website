@@ -640,12 +640,12 @@
             console.log(e)
         },
         downloadPng(){
-          var preview = document.getElementById('mockup-download-img')
+          var preview = document.getElementById('instagram-mockup-preview')
           //--------------------
           html2canvas(preview)
           .then(function(canvas){
             var link = document.createElement('a');
-              link.download = 'post-mockup.jpeg';
+              link.download = 'post-mockup.png';
               link.href = canvas.toDataURL();
               link.click();
           })
@@ -653,7 +653,7 @@
 
         },
         copyImage(){
-          var preview = document.getElementById('mockup-download-img')
+          var preview = document.getElementById('instagram-mockup-preview')
           var isFirefox = typeof InstallTrigger !== 'undefined';
           if(navigator.userAgent.indexOf("Firefox") != -1 ){
             console.log(navigator.clipboard)
