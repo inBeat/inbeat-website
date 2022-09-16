@@ -1282,15 +1282,12 @@ margin-top: 24px;
 }
 .preview-wrapper-mobile{
   @include breakpoint(md-down) {
-    // padding: 16px 0px 16px 0px;
-    // margin: 0px -16px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    // margin: 0 auto;
-    // margin-top: 22px;
   }
+
 }
 #mockup-download-img{
   padding: 24px;
@@ -1299,6 +1296,10 @@ margin-top: 24px;
   @include breakpoint(md-down) {
     padding: 16px 0px 16px 0px;
     margin-right: 0;
+  }
+  @include breakpoint(sm-down) {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 .placeholder-info{

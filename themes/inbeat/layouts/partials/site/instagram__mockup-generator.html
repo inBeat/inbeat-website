@@ -716,7 +716,7 @@
         },
         setPreviewRatio(){
           let el = document.getElementById('mockup-download-img')
-          let  width= el.offsetWidth - 3
+          let  width= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
           let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
           let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
           if(target){
