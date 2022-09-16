@@ -46,6 +46,6 @@ toolkits:
     - title: Bounce Rate <br> Calculator
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-calculator
-      url: bnounce-rate-calculator
+      url: bounce-rate-calculator
 
 ---
