@@ -10,7 +10,7 @@ https://www.inbeat.co/articles/ugc-marketing-an-ultimate-guide-to-leverage-user-
 https://www.inbeat.co/articles/ultimate-guide-to-tiktok-influencer-marketing/ https://www.inbeat.co/articles/tiktok-influencer-marketing/ 301!
 https://www.inbeat.co/articles/brand-ambassador-programs-a-complete-guide-2021 https://www.inbeat.co/articles/brand-ambassador-programs 301!
 https://www.inbeat.co/articles/creating-a-brand-ambassador-program https://www.inbeat.co/articles/brand-ambassador-programs 301!
-/blog/* https://inbeat-blog.ghost.io/:splat 200
+/blog/* https://inbeat-blog.ghost.io/blog/:splat 200
 /content/* https://inbeat-blog.ghost.io/content/:splat 200
 /assets/* https://inbeat-blog.ghost.io/assets/:splat 200
 /public/* https://inbeat-blog.ghost.io/public/:splat 200
