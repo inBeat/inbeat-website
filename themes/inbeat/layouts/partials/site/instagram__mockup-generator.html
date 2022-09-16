@@ -478,7 +478,7 @@
             postSrc:[],
             likes: 15,
             caption: '',
-            displayCaptionValue: '',
+            displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
             captionValue: '',
             seeMoreDisplayValue: '',
             activePost: 0,
@@ -573,18 +573,12 @@
         },
         copyImage(){
           var preview = document.getElementById('instagram-mockup-preview')
-          var isFirefox = typeof InstallTrigger !== 'undefined';
-          if(navigator.userAgent.indexOf("Firefox") != -1 ){
-            console.log(navigator.clipboard)
-            html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.setImageData(blob, blob.type)))
-          }else{
             navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
                 if (result.state == "granted" || result.state == "prompt") {
                     html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
                   this.copied = true
                 }
             })
-          }
         },
         optionSelect(e){
           this.selectedPreviewCTA = e
@@ -714,13 +708,11 @@
       this.setActiveTab()
       this.$nextTick(() => {
         this.setHeight(80);
-          this.displayCaptionValue= 'This is caption that will display on the final mockup. You can write anything.'
       })
       window.addEventListener('resize',(event) =>{
         this.setActiveTab()
         this.setHeight(80);
       }, true)
-      // this.addCaption()
       this.checkBrowserCompatibility()
     },
     computed: {
