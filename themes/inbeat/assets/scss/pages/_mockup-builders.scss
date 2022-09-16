@@ -477,8 +477,6 @@
   }
 }
 .mockup__preview-section{
-  // padding-left: 3rem;
-  // visibility: hidden;
   width: 475px;
   background: #F9F7F7;
   border-radius: 1px;
@@ -487,18 +485,17 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
-  // width: 100%;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
-    // padding-right: 12px;
     margin-top: 0px;
     background: #F9F7F7;
     margin-top: 24px;
 }
   @include breakpoint(md-down) {
     width: 100%;
+    padding-bottom: 24px;
 }
 }
 
@@ -1298,7 +1295,7 @@ margin-top: 24px;
   @include breakpoint(md-down) {
     padding: 16px 0px 16px 0px;
     margin-right: 0;
-    width: 450px;
+    width: 420px;
   }
   @include breakpoint(sm-down) {
     padding-left: 1rem;
