@@ -47,5 +47,9 @@ toolkits:
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-calculator
       url: bounce-rate-calculator
+    - title:  Instagram Ad Mockup <br> Generator 
+      text: Calculate your click through rate for your ads & content across different channels or multiple campaigns 
+      icon: instagram-ad-mockup
+      url: instagram-ad-mockup
 
 ---
