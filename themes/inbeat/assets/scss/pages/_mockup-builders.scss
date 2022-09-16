@@ -1298,6 +1298,7 @@ margin-top: 24px;
   @include breakpoint(md-down) {
     padding: 16px 0px 16px 0px;
     margin-right: 0;
+    width: 450px;
   }
   @include breakpoint(sm-down) {
     padding-left: 1rem;
