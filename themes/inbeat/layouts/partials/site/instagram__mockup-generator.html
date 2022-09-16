@@ -91,92 +91,94 @@
                           </div>
                         </div>
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section" id="mockup-preview">
-                          <div id="mockup-download-img">
-                            <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
-                                <div class="preview-header">
-                                    <div class="preview-creadincials">
-                                        <div class="gradient-border">
-                                          <div class="profile-picture-wrapper">
-                                              <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                          <div class="preview-wrapper-mobile">
+                            <div id="mockup-download-img">
+                              <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
+                                  <div class="preview-header">
+                                      <div class="preview-creadincials">
+                                          <div class="gradient-border">
+                                            <div class="profile-picture-wrapper">
+                                                <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                                            </div>
                                           </div>
-                                        </div>
-                                        <div class="user-name-wrapper">
-                                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                                            <span class="sponcered-text">Sponsored</span>
-                                        </div>
-                                    </div>
-                                    {{- partial "icons/more-option.html" -}}
-                                </div>
-                                <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
-                                    <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
-                                </div>
-                                <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
-                                    <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
-                                    <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
-                                     <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
-                                </div>
-                                <div class="preview_banner-wrapper">
-                                  <div class="preview-banner-cta">
-                                    <span >{selectedPreviewCTA.name}</span>
-                                    {{- partial "icons/right-chevron.html" -}}
-                                  </div>
-                                </div>
-                                <div class="preview-cta">
-                                  <div class="like-share-comment">
-                                    {{- partial "icons/like.html" -}}
-                                    {{- partial "icons/comment-insta.html" -}}
-                                    {{- partial "icons/chat.html" -}}
-                                  </div>
-                                  <div v-if="activeAd.id === 4" class="carousel-pagination"><span v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
-                                  {{- partial "icons/save.html" -}}
-                                </div>
-                                <div class="preview-description">
-                                  <div class="previwe-likes">
-                                    {likes} Likes
-                                  </div>
-                                  <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 106 ? '34px !important':'34px'}">
-                                   <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text" v-html="seeMoreDisplayValue"></span>
-                                  </div>
-                                </div>
-                            </div>
-                          <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
-                            <div class="header-wrapper">
-                              <div class="line">
-                              </div>
-                              <div class="preview-header">
-                                <div class="preview-creadincials">
-                                      <div class="profile-picture-wrapper">
-                                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                                          <div class="user-name-wrapper">
+                                              <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                                              <span class="sponcered-text">Sponsored</span>
+                                          </div>
                                       </div>
-                                    <div class="user-name-wrapper">
-                                        <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                                        <span class="sponcered-text">Sponsored</span>
+                                      {{- partial "icons/more-option.html" -}}
+                                  </div>
+                                  <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                                      <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
+                                      <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
+                                  </div>
+                                  <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
+                                      <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
+                                      <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                                       <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
+                                  </div>
+                                  <div class="preview_banner-wrapper">
+                                    <div class="preview-banner-cta">
+                                      <span >{selectedPreviewCTA.name}</span>
+                                      {{- partial "icons/right-chevron.html" -}}
                                     </div>
+                                  </div>
+                                  <div class="preview-cta">
+                                    <div class="like-share-comment">
+                                      {{- partial "icons/like.html" -}}
+                                      {{- partial "icons/comment-insta.html" -}}
+                                      {{- partial "icons/chat.html" -}}
+                                    </div>
+                                    <div v-if="activeAd.id === 4" class="carousel-pagination"><span v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot" :class="{active: activePost === i}"></span></div>
+                                    {{- partial "icons/save.html" -}}
+                                  </div>
+                                  <div class="preview-description">
+                                    <div class="previwe-likes">
+                                      {likes} Likes
+                                    </div>
+                                    <div class="preview-caption" id="preview-caption" :style="{height: caption.length < 106 ? '34px !important':'34px'}">
+                                     <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text" v-html="seeMoreDisplayValue"></span>
+                                    </div>
+                                  </div>
+                              </div>
+                            <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
+                              <div class="header-wrapper">
+                                <div class="line">
                                 </div>
-                                <div class="story-options">
-                                  {{- partial "icons/more.html" -}}
-                                  {{- partial "icons/cross-story.html" -}}
-                                </div>
+                                <div class="preview-header">
+                                  <div class="preview-creadincials">
+                                        <div class="profile-picture-wrapper">
+                                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                                        </div>
+                                      <div class="user-name-wrapper">
+                                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                                          <span class="sponcered-text">Sponsored</span>
+                                      </div>
+                                  </div>
+                                  <div class="story-options">
+                                    {{- partial "icons/more.html" -}}
+                                    {{- partial "icons/cross-story.html" -}}
+                                  </div>
+                              </div>
+                              </div>
+                            <div class="preview-body" id="story-body" :style="getComputedHeight">
+                                <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                                <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                            </div>
+                            <div class="story__preview-footer">
+                              <div class="cta">
+                                {{- partial "icons/up-chevron.html" -}}
+                                <span>
+                                  {selectedPreviewCTA.name}
+                                </span>
+                              </div>
+                              <div class="cta-wrapper">
+                                  {{- partial "icons/dm-wh.html" -}}
+                              </div>
                             </div>
                             </div>
-                          <div class="preview-body" id="story-body" :style="getComputedHeight">
-                              <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                              <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
                           </div>
-                          <div class="story__preview-footer">
-                            <div class="cta">
-                              {{- partial "icons/up-chevron.html" -}}
-                              <span>
-                                {selectedPreviewCTA.name}
-                              </span>
-                            </div>
-                            <div class="cta-wrapper">
-                                {{- partial "icons/dm-wh.html" -}}
-                            </div>
                           </div>
-                          </div>
-                        </div>
                           <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
                                 Download PNG
@@ -714,7 +716,7 @@
         },
         setPreviewRatio(){
           let el = document.getElementById('mockup-download-img')
-          let  width= el.offsetWidth - 50
+          let  width= el.offsetWidth - 3
           let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
           let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
           if(target){
