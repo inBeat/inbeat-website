@@ -174,6 +174,18 @@ engagement:
       answer: >- 
         Far too often, companies doing influencer marketing only focus on vanity metrics when evaluating influencers (followers, likes, impressions). 
         Vanity metrics matter but they don't tell the whole story. If the target audience is engaged towards the influencer you are collaborating with (either posts or Instagram stories) your company will have more chance of building a successful campaign.
+    - question: What is Instagram’s influencers average engagement rate?
+      answer: >-
+        Instagram’s influencer have an average engagement rate of 2.39% <br><br>
+        TikTok’s infleuncers average engagement can be presented into different tiers: <br>
+        - Nano-influencer (1,000 to 10,000 followers): 3.86%  <br>
+        - Micro-influencers (10,000 to 50,000 followers): 2.39%  <br>
+        - Mid-tier influencers (50,000 to 500,000 followers): 1.87%  <br>
+        - Macro-influencers (500,000 to 1,000,000 followers): 1.36% <br>
+        - Celebrities (1,000,000+ followers): 1.21% 
+    - question: How to get engagement on Instagram?
+      answer: >-
+        Instagram engagement is measured by likes, comments, and shares on any given post. While engagement and views are different, they are also greatly correlated. The more engagement a video gets, the more the algorythm will push it to get more impressions.
   tiktok:
     - question: How do You Calculate a TikTok Account's Engagement Rate?
       answer: >-
@@ -195,6 +207,19 @@ engagement:
         engagement rate on TikTok to gauge the trust the audience has in the influencer. Now, it isn’t the only thing you
         should analyze. TikTok influencers can purchase fake comments and likes, which can bias this metric. Although there
         are tools to calculate the fake follower count, a judgment call will almost always outperform these tools.
+    - question: What is TikTok’s influencers average engagement rate?
+      answer: >-
+        TikTok has a great edge over Instagram and YouTube when it comes to engagement. The average engagement rate on TikTok is approximately 18%. A massive difference compared to Instgram’s 3.9% and YouTube’s 1.6%.
+        <br><br>
+        TikTok’s infleuncers average engagement can be presented into different tiers: <br>
+        - Nano-influencer (1,000 to 10,000 followers): 20.64% <br>
+        - Micro-influencers (10,000 to 50,000 followers): 17.81% <br>
+        - Mid-tier influencers (50,000 to 500,000 followers): 15.49% <br>
+        - Macro-influencers (500,000 to 1,000,000 followers): 17.21% <br>
+        - Celebrities (1,000,000+ followers): 17.55% 
+    - question: How to get engagement on TikTok?
+      answer: >-
+        TikTok engagement is measured by likes, comments, and shares on any given post. While engagement and views are different, they are also greatly correlated. The more engagement a video gets, the more the algorythm will push it to get more impressions.
 micro_influencers_platform:
   faq1:
     - question: What is a micro-influencer?
@@ -290,6 +315,12 @@ fake_follower_checker:
   - question: Why should I care about the Instagram audience score for influencer marketing?
     answer: >-
       A big follower count means nothing if it consists of fake profiles, inactive accounts and ghost followers. Don't waste your time and money on fake influencers who charge big bucks without an engaged audience. Our audit tool brings social proof to your social media marketing.
+  - question: How to Spot Fake Followers on Instagram?
+    answer: >-
+      There are many ways you can tell if someone has fake followers. The straightforward approach is to go and check each suspect's fake follower profile. Most of the bots acting as fake followers have very few posts and/or activity on their page. Also, many bots don't have a profile picture on their account or are using a photo taken on Google image. Using Google image reverse search will reveal a potential red flag.
+  - question: How can you tell if someone has fake followers?
+    answer: >-
+      The best way to find out if someone has bought their audience and has fake followers is to use a fake follower audit tool such as ours. It's a great way to find out instantly the follower quality score of an influencer's audience. This credibility score gives you a good idea of whether the account is followed by real persons or bots.
 cpm_calculator:
   - question: How to calculate CPM?
     answer: >-
