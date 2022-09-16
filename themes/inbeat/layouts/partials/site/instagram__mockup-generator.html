@@ -1,22 +1,11 @@
 <section class="container mobile-adjusted" id="mockup_builder">
     <div>
-        <!-- <div class="mockup-controls">
-            <dropdown :options="mockformatOptions"></dropdown>
-            <dropdown :options="dimensionOption"></dropdown>
-        </div> -->
-    
         <div class="row" id="mockup__card-wrapper">
             <div  :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-              <!-- <h4 class="mockup__title">Instagram mockup</h4>
-                <p class="mockup__description">Lorem ipsum dolor sit.</p> -->
                 <div class="row mockup__preview-configuration-wrapper" :class="{'--gray-bg' : activeTab === 'preview'}">
                       <div class="preview-design-switch hide-md-up col-xs-12">
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'controls'}" @click="switchTab('controls')">
                           Ad Content 
-                            <!-- <span class="question-circle">
-                              {{- partial "icons/question-mark-wh.html" -}}
-                            </span>
-                            <span class="--tooltip-copy">Edit mockup Controls</span> -->
                         </div>
                         <div class="design-type col-xs-6" :class="{'--active_tab': activeTab === 'preview'}" @click="switchTab('preview')">
                             Preview 
@@ -27,16 +16,6 @@
                           <div class="mockup__configuration-section" id="mockup-controls">
                               <div class="mockup__configuration-header-wrapper">
                                 <h4 class="mockup__configuration-title">Instagram</h4>
-                                <!-- <div>
-                                    <h4 class="mockup__configuration-title"> {{- partial "icons/insta-logo-black.html" -}}Instagram ads Mockup</h4>
-                                      <p class="mockup__configuration-description">Generate in real time an ad mockup </p>
-                                  </div> -->
-                                  <!-- <div class="design-type clear-fields">
-                                    <span class="question-circle">
-                                      {{- partial "icons/cross.html" -}}
-                                    </span>
-                                    Clear All Fields
-                                </div> -->
                               </div>
                               <div class="mockup-type">
                                 <div class="mockup-type-header">
@@ -114,23 +93,13 @@
                         <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'"  class="mockup__preview-section" id="mockup-preview">
                           <div id="mockup-download-img">
                             <div id="instagram-mockup-preview" class="mockup-preview-wrapper" v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
-                              <!-- <div class="preview-nav">
-                                {{- partial "icons/camera.html" -}}
-                                {{- partial "icons/instagram-title.html" -}}
-                                <div>
-                                  {{- partial "icons/igtv.html" -}}
-                                  {{- partial "icons/chat.html" -}}
-                                </div>
-                              </div> -->
                                 <div class="preview-header">
-                                    <div class="preview-creadincials">
-                                      <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
+                                    <div class="preview-creadincials">                              -->
                                         <div class="gradient-border">
                                           <div class="profile-picture-wrapper">
                                               <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                           </div>
                                         </div>
-                                      <!-- </uploader> -->
                                         <div class="user-name-wrapper">
                                             <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                             <span class="sponcered-text">Sponsored</span>
@@ -143,8 +112,6 @@
                                     <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
                                 </div>
                                 <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
-                                  <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                                    <!-- <img v-if="postSrc" class="preview-image-body" :src="postSrc" alt=""> -->
                                     <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
                                     <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
                                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
@@ -172,13 +139,6 @@
                                    <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username '}</span><span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore" class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text" v-html="seeMoreDisplayValue"></span>
                                   </div>
                                 </div>
-                                <!-- <div class="preview-footer">
-                                  {{- partial "icons/home-insta.html" -}}
-                                  {{- partial "icons/search.html" -}}
-                                  {{- partial "icons/new-post.html" -}}
-                                  {{- partial "icons/like.html" -}}
-                                  {{- partial "icons/profile.html" -}}
-                                </div> -->
                             </div>
                           <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
                             <div class="header-wrapper">
@@ -186,13 +146,9 @@
                               </div>
                               <div class="preview-header">
                                 <div class="preview-creadincials">
-                                  <!-- <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">                               -->
-                                    <!-- <div class="gradient-border"> -->
                                       <div class="profile-picture-wrapper">
                                           <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                       </div>
-                                    <!-- </div> -->
-                                  <!-- </uploader> -->
                                     <div class="user-name-wrapper">
                                         <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                         <span class="sponcered-text">Sponsored</span>
@@ -205,11 +161,8 @@
                             </div>
                             </div>
                           <div class="preview-body" id="story-body" :style="getComputedHeight">
-                            <!-- <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
                               <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                               <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
-                              <!-- <img class="preview-image-body" v-if="postSrc" :src="postSrc ? postSrc : ''" alt=""> -->
-                            <!-- </uploader> -->
                           </div>
                           <div class="story__preview-footer">
                             <div class="cta">
@@ -240,7 +193,6 @@
                     </div>
             </div>
         </div>
-       
     </div>
 </section>
 
@@ -251,9 +203,6 @@
 {{- end -}}
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<!-- <script src="https://unpkg.com/dropzone@6.0.0-beta.1/dist/dropzone-min.js"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/uppy/3.0.1/uppy.min.js" integrity="sha512-nNNGynVPU4k+mRYdwbjY/hj3F/i7uNMOhamm+lMcBVcob5v2mz+xkcIValiA3EPwvMxbFgFwS0QdTVN5jyH1IA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js" integrity="sha512-j+F4W//4Pu39at5I8HC8q2l1BNz4OF3ju39HyWeqKQagW6ww3ZF9gFcu8rzUbyTDY7gEo/vqqzGte0UPpo65QQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -270,31 +219,11 @@
               type: Boolean,
               default: false,
             },
-            rounded: {
-              type: Boolean,
-              default: false,
-            },
-            withButtonInput: {
-              type: Boolean,
-              default: false,
-            },
             button: {
               type: Boolean,
               default: false,
             },
-            icon: {
-              type: String,
-              default: 'light-icon-upload',
-            },
-            ButtonClass: {
-              type: String,
-              default: 'lv--success',
-            },
             multiple: {
-              type: Boolean,
-              default: false,
-            },
-            isLoading: {
               type: Boolean,
               default: false,
             },
@@ -328,7 +257,7 @@
         methods: {
             openPicker(e) {
               e.preventDefault()
-              this.$refs.LvFileInput.click();
+              this.$refs.fileInput.click();
             },
             handleFileChange(e) {
               e.preventDefault()
@@ -392,7 +321,7 @@
                 this.$emit('submit-image', files);
               }
               // clear selected files
-              this.$refs.LvFileInput.value = '';
+              this.$refs.fileInput.value = '';
             },
         },
       computed: {
@@ -412,19 +341,19 @@
 
         template:  `
         <label class="mockup__file-uploader" :class="{ 'mockup-drag-enter': isDragEnter }">
-    <template v-if="!drop && button">
-        <button class="upload_profile-picture-btn mockup-btn" @click="openPicker">
-            Upload Image
-        </button>
-    </template>
-    <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="isDragEnter = true" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
-      <slot></slot>
-    </div>
-    <template v-else>
-      <slot></slot>
-    </template>
-    <input ref="LvFileInput" type="file" :accept="extensions" :tabindex="tabindex" :multiple="multiple" @change="handleFileChange($event)" />
-  </label>
+            <template v-if="!drop && button">
+                <button class="upload_profile-picture-btn mockup-btn" @click="openPicker">
+                  Upload Image
+                </button>
+            </template>
+            <div v-else-if="drop" class="file--upload__draggable" ref="LvDroppable" @dragenter.prevent="isDragEnter = true" @dragover.prevent="isDragEnter = true" @dragleave.prevent="isDragEnter = false" @drop.prevent="handleDrop" :style="computedStyle">
+                  <slot></slot>
+            </div>
+            <template v-else>
+                  <slot></slot>
+            </template>
+            <input ref="fileInput" type="file" :accept="extensions" :tabindex="tabindex" :multiple="multiple" @change="handleFileChange($event)" />
+        </label>
     `
     })
     Vue.component('dropdown', {
@@ -501,11 +430,11 @@
         },
         props:{
           slides: {
-              type: Array,
-            },
-            optionselected:{
-              type: Object
-            }
+            type: Array,
+          },
+          optionselected:{
+            type: Object
+          }
         },
         methods: {
           slide(dir) {
@@ -513,31 +442,26 @@
             dir === 1 ? (this.transitionName = "slide-next") : (this.transitionName = "slide-prev");
             var len = this.slides.length;
             this.current = (this.current + dir % len + len) % len;
-            // console.log(this.current)
           },
-          dragSlide(e){
-            // console.log(e)
-            // console.log('hello')
-          }
         },
         mounted() {
           this.show = true;
         },
 
         template:  `
-              <div id="slider" @drag="dragSlide">
-          <transition-group tag="div" :name="transitionName" class="slides-group">
-            <div v-if="show" :key="current" class="slide"" >
-              <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
+          <div id="slider" @drag="dragSlide">
+            <transition-group tag="div" :name="transitionName" class="slides-group">
+              <div v-if="show" :key="current" class="slide"" >
+                <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
+              </div>
+            </transition-group>
+            <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
+                &#10094;
             </div>
-          </transition-group>
-          <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
-            &#10094;
+            <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
+                &#10095
+            </div>
           </div>
-          <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
-           &#10095
-          </div>
-        </div>
     `
     })
 
@@ -548,8 +472,6 @@
             activeTab: 'controls',
             profileName: '',
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
-            // dpSrc:null,
-            // postSrc:null,
             dpSrc:null,
             postSrc:[],
             likes: 15,
@@ -614,17 +536,15 @@
         },
     methods:{
         switchTab(tab){
-            this.activeTab = tab
-            this.$nextTick(() => {
-              if(this.activeTab === 'preview') this.setPreviewRatio()
-            })
+          this.activeTab = tab
+          this.$nextTick(() => {
+            if(this.activeTab === 'preview') this.setPreviewRatio()
+          })
         },
         uploadImage(fileset,location){
           const files = Array.from(fileset)
           files.forEach(file => {
             let src = URL.createObjectURL(file)
-            // console.log(files, location)
-            // location === 'header' ? this.dpSrc = src : this.postSrc= src
             if(location === 'header'){
               this.dpSrc = src
             }else{
@@ -641,7 +561,6 @@
         },
         downloadPng(){
           var preview = document.getElementById('instagram-mockup-preview')
-          //--------------------
           html2canvas(preview)
           .then(function(canvas){
             var link = document.createElement('a');
@@ -649,8 +568,6 @@
               link.href = canvas.toDataURL();
               link.click();
           })
-          //----------------------
-
         },
         copyImage(){
           var preview = document.getElementById('instagram-mockup-preview')
@@ -666,23 +583,6 @@
                 }
             })
           }
-          // ---------------------
-          // this.copyElementToClipboard('instagram-mockup-preview')
-          // -------------------------
-          // var div = document.createElement('div');
-          // html2canvas(preview).then(canvas => {
-          //   let img = document.createElement('img');
-          //   img.src = canvas.toDataURL()    
-          //   var div = document.createElement('div');
-          //   div.contentEditable = true;
-          //   div.appendChild(img);
-          //   console.log(div)
-          //   document.body.appendChild(div);
-          //   this.SelectText(div);
-          //   document.execCommand('Copy');
-          //   document.body.removeChild(div);
-          // }
-          // )
         },
         copyElementToClipboard(element) {
             window.getSelection().removeAllRanges();
@@ -706,38 +606,6 @@
               selection.addRange(range);
           }
         },
-        shareImg(){
-          var preview = document.getElementById('instagram-mockup-preview')
-                  // iife here
-          ;(async function() {
-              if (!('share' in navigator)) {
-                console.log('not supported by browser');
-                return
-              }
-              const canvas = await html2canvas(preview)
-              canvas.toBlob(async (blob) => {
-                navigator.clipboard.write([new ClipboardItem({'image/png': blob})])
-                const files = [new File([blob], 'image.png', { type: blob.type })]
-                
-                const shareData = {
-                  text: 'Some text',
-                  title: 'Some title',
-                  files,
-                }
-                if (navigator.canShare(shareData)) {
-                  try {
-                    await navigator.share(shareData)
-                  } catch (err) {
-                    if (err.name !== 'AbortError') {
-                      console.error(err.name, err.message)
-                    }
-                  }
-                } else {
-                  console.warn('Sharing not supported', shareData)
-                }
-              })
-            })()
-        },
         optionSelect(e){
           this.selectedPreviewCTA = e
         },
@@ -746,7 +614,6 @@
         },
         adTypeClick(adType){
           if(this.activeAd.id !== adType.id){
-            // this.setAdRatio()
             this.clearFields()
             this.activeAd =  adType
             this.$nextTick(() => {
@@ -816,17 +683,12 @@
         const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
         return !event.key.match(regex) && event.preventDefault();
         },
-        // seeMoreVisible(){
-        //   console.log(document.getElementById('preview-caption').clientHeight)
-        //   return document.getElementById('preview-caption').clientHeight > 34 ? true : false 
-        // },
         onKeyDown(){
           if (event.code === 'Space') event.preventDefault()
         },
         clearFields(){
           this.dpSrc = null,
           this.postSrc = [],
-          // this.postSrc = null,
           this.caption='',
           this.likes=null,
           this.profileName = '',
@@ -835,49 +697,12 @@
         },
         seeMoreExpand(){
           let ele = document.getElementById('preview-caption')
-          // let text = document.getElementsByClassName('caption-text')[0]
           let height = ele.offsetHeight
           if(height<51){
-            // ele.getElementsByClassName('see-more')[0].innerText = '...See Less'
-            // ele.getElementsByClassName('see-more')[0].innerText = ''
             ele.style.height = 'auto'
             this.showSeeMore = false
-            // this.count = 0
           }
-          // if(height>34){
-          //   ele.getElementsByClassName('see-more')[0].innerText = '...See More'
-          //   ele.style.height = '34px'
-          // }
         },
-        scroll(dir){
-         const  container = document.getElementsByClassName('insta__mockup-type-wrapper')[0]
-         scrollAmount = 0;
-         let slideTimer = setInterval(function(){
-                    dir==='Right'? container.scrollLeft += 30 : container.scrollLeft -= 30;
-                    scrollAmount += 155;
-                    if(scrollAmount >= 100){
-                        window.clearInterval(slideTimer);
-                    }
-                }, 25);      
-        },
-        // initilizeFlickity(){
-        //   ele = document.getElementById('mockup-type-wrapper')
-        //   let flkty = new Flickity( ele, {
-        //       freeScroll: 'left',
-        //       contain: true,
-        //       prevNextButtons: true,
-        //       pageDots: false
-        //   })
-        //   // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
-        // } 
-        // initilizeSwiper(){
-        //   var swiper = new Swiper(".mockup__swiper-wrapper", {
-        //     navigation: {
-        //     nextEl: ".swiper-next",
-        //     prevEl: ".swiper-previous",
-        // },
-        //   })
-        // },
         updateCurrentPost(val){
           this.activePost = val
         },
@@ -906,26 +731,6 @@
     },
     mounted(){
       this.setActiveTab()
-  //     let uppy = new Uppy.Uppy({
-  //   debug: true,
-  //   autoProceed: true,
-  //   // locale: Uppy.locales.ru_RU
-  //   restrictions: {
-  //   maxNumberOfFiles: 10,
-  //   allowedFileTypes:['image/*','.jpg','.png'],
-  // },
-  // });
-  // uppy.use(Uppy.DragDrop, {
-  //   target: '#drop-area',
-  //   // We are using the ru_RU locale pack (set above in Uppy class options),
-  //   // but you can also override specific strings like so:
-  //   locale: {
-  //     strings: {
-  //         dropHereOr: 'Click to upload or %{browse}',
-  //         browse: 'drag-and-drop'
-  //     }
-  //   }
-  // });
       this.$nextTick(() => {
         this.setHeight(80);
           this.displayCaptionValue= 'This is caption that will display on the final mockup. You can write anything.'
@@ -945,32 +750,10 @@
         };
         },
       },
-      // watch:{
-      //   showSeeMore(value){
-      //     let ele  = document.getElementById('preview-caption')
-      //       value ? ele.style.height = 'auto' : ele.style.height = '34px' 
-      //     }
-      //   },
-      // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
     </script>
     <script>
-      //  function initilizeFlickity(){
-      //     ele = document.getElementById('mockup-type-wrapper')
-      //     let flkty = new Flickity( ele, {
-      //         freeScroll: 'left',
-      //         contain: true,
-      //         prevNextButtons: true,
-      //         pageDots: false
-      //     })
-      //     // data-flickity='{ "contain": true, "freeScroll": true, "prevNextButtons": true, "pageDots": false }'
-      //     console.log('hello')
-      //   }
-      //   initilizeFlickity()
-        // setTimeout(() => {
-        // }, 1000);
-        // initilizeSwiper()
         new Glide('.glide',{
           type: 'slider',
           perView: 3.48,
@@ -1014,11 +797,4 @@
 		        },
 	        }
         }).mount()
-        // let myDropzone = new Dropzone("div#drop-area", { url: "/file/post"})
-  //       var slider = tns({
-  //   container: '#mockup-type-wrapper',
-  //   items: 3,
-  //   slideBy: 'page',
-  //   autoplay: false
-  // });
     </script>
