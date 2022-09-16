@@ -586,28 +586,6 @@
             })
           }
         },
-        copyElementToClipboard(element) {
-            window.getSelection().removeAllRanges();
-            let range = document.createRange();
-            range.selectNode(typeof element === 'string' ? document.getElementById(element) : element);
-            window.getSelection().addRange(range);
-            document.execCommand('copy');
-            window.getSelection().removeAllRanges();
-        },
-        SelectText(element) {
-          var doc = document;
-          if (doc.body.createTextRange) {
-              var range = document.body.createTextRange();
-              range.moveToElementText(element);
-              range.select();
-          } else if (window.getSelection) {
-              var selection = window.getSelection();
-              var range = document.createRange();
-              range.selectNodeContents(element);
-              selection.removeAllRanges();
-              selection.addRange(range);
-          }
-        },
         optionSelect(e){
           this.selectedPreviewCTA = e
         },
@@ -633,9 +611,10 @@
               document.getElementById('preview-caption').style.height = '34px' 
             }
           }
-          if(this.caption.length > 95){
-            let firstHalf= this.caption.slice(0,95)
-            let secondHalf =this.caption.slice(95)
+          let charLimit = window.innerWidth <= 765 ? 78 : 95
+          if(this.caption.length > charLimit){
+            let firstHalf= this.caption.slice(0,charLimit)
+            let secondHalf =this.caption.slice(charLimit)
             let firstHalfWords = firstHalf.split(" ");
             let secondHalfWords = firstHalf.split(" ");
             let displaySentence = ''
@@ -741,7 +720,7 @@
         this.setActiveTab()
         this.setHeight(80);
       }, true)
-      this.addCaption()
+      // this.addCaption()
       this.checkBrowserCompatibility()
     },
     computed: {
