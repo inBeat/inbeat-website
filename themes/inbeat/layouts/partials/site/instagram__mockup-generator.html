@@ -55,7 +55,7 @@
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
                                 <span class="mockup__title">Image</span>
-                                <span class="mockup__description">Recommended image size: <span v-if="activeAd.id === 1">1080 x 1080 </span><span v-else>1080 x 1920 </span>pixels.</span>
+                                <span class="mockup__description">Recommended image size: <span >{activeAd.resolution}</span>pixels.</span>
                                 <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                   {{- partial "icons/upload-placeholder.html" -}}
                                   <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
