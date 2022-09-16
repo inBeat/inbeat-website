@@ -103,6 +103,8 @@
           // overflow-y: hidden;
           overflow-y: overlay;
           overflow-y: scroll;
+          scrollbar-color: #E1E1E1 rgba(0, 0, 0, 0.05);
+          scrollbar-width: thin;
           @include breakpoint(sm-down) {
             padding: 0px 16px;
             // padding-right: 12px;
@@ -120,11 +122,14 @@
             width: 3px;
           }
           &::-webkit-scrollbar-track {
-            background-color: rgba(0, 0, 0, 0.1);
+            background-color: rgba(0, 0, 0, 0.05);
             // background: #008080;
           }
           &::-webkit-scrollbar-thumb {
-            background: rgba(0, 0, 0, 0.4);
+            // background: #cacaca;
+            background: #e4e4e4;
+            // background: rgba(0, 0, 0, 0.1);
+            // background-color: red;
           }
           .mockup__configuration-header-wrapper{
             display: flex;
@@ -528,8 +533,6 @@
   }
 }
 .mockup__preview-section{
-  // padding-left: 3rem;
-  // visibility: hidden;
   width: 475px;
   background: #F9F7F7;
   border-radius: 1px;
@@ -538,12 +541,10 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
-  // width: 100%;
   font-family: Inter, sans-serif;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
-    // padding-right: 12px;
     margin-top: 0px;
     background: #F9F7F7;
     margin-top: 24px;
@@ -551,6 +552,7 @@
 }
   @include breakpoint(md-down) {
     width: 100%;
+    padding-bottom: 24px;
 }
 
 
@@ -1329,25 +1331,30 @@
   }
   cursor: pointer;
 }
+.preview-wrapper-mobile{
+  @include breakpoint(md-down) {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+}
 #mockup-download-img{
   padding: 24px;
   margin-right: 8px;
   background: #F9F7F7;
   @include breakpoint(md-down) {
-    padding: 16px 16px 16px 16px;
-    // margin: 0px -16px;
-    width: 419px;
-    margin: 0 auto;
-    // margin-top: 22px;
+    padding: 16px 0px 16px 0px;
+    margin-right: 0;
+    width: 420px;
   }
   @include breakpoint(sm-down) {
-    padding: 16px 0px;
-    width: 355px;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 .placeholder-info{
-  // position: absolute;
-  // top: 50%;
   width: 100%;
   margin: 0px auto;
   text-align: center;
