@@ -9,10 +9,13 @@
 {{- $username = "watchaswewander" -}}
 {{- end -}}
 {{- $maintenance := isset .Params "maintenance" -}}
+<div id="ffc-calculator__wrap">
     <section class="container mobile-adjusted page-top" id="ffc-header">
         <h1>{{- .Params.titre -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
+    {{ $content := partial "site/engagementRateForm.html" .}}
+    {{ partial "site/popup.html" (dict "context" . "id" "formPopup" "content" $content "canClose" false "class" "auto-wh"  ) }}
     <section id="ffc-calculator" class="container mobile-adjusted">
 
         {{- if $maintenance -}}
@@ -214,9 +217,10 @@
             </div>
         </div>
 
-    </transition>
-</section>
-{{- partial "site/whatwedo.html" . -}}
+        </transition>
+    </section>
+</div>
+{{- partial "site/ugc-global.html" . -}}
 
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
@@ -229,10 +233,12 @@
 {{- end -}}
 <script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
 <script src="https://www.google.com/recaptcha/api.js?render={{ getenv "GOOGLE_RECAPTCHA_KEY" }}"></script>
+{{- partial "site/emailCaptureMixin.html" -}}
 <script>
     var notCharRegex = /[^\w\d.-]/g;
     var app = new Vue({
-        el: '#ffc-calculator',
+        el: '#ffc-calculator__wrap',
+        mixins: [emailCaptureMixin],
         data() {
             return {
                 username: '',
@@ -240,7 +246,6 @@
                 posts: [],
                 datasetLikes: [],
                 datasetComments: [],
-                getFirstData: false,
                 audienceScore: 0,
                 audienceScoreTag: '',
                 audienceScoreClass: '',
@@ -270,9 +275,7 @@
                     horizontalLinesNumber: 5
                 },
                 error: null,
-                errorform: null,
                 loading: false,
-                loadingform: false,
                 quotaReached: false,
                 initialSearch: true,
             };
@@ -307,87 +310,6 @@
                 this.GaugeCircle.x = start.x
                 this.GaugeCircle.y = start.y
                 return d;
-            },
-            validateEmail(email) {
-               var re = /\S+@\S+\.\S+/;
-               return re.test(email.value);
-            },
-            request(data, request, api){
-                    return new Promise(function (resolve, reject) {
-                        var xhr = new XMLHttpRequest();
-                        xhr.open(request, api, true);
-                        xhr.setRequestHeader('Content-Type', 'application/json');
-                        xhr.onload = function () {
-                            var status = xhr.status;
-                            if (status == 200) {
-                                resolve(xhr.response);
-                            } else {
-                                reject({
-                                  status: this.status,
-                                  statusText: xhr.statusText
-                                });
-                            }
-                        };
-                        xhr.onerror = function () {
-                          reject({
-                            status: this.status,
-                            statusText: xhr.statusText
-                          });
-                        };
-                        xhr.send(data);
-                    });
-            },
-            getListID(tagName) {
-                switch (tagName) {
-                    case 'Influencer':
-                        return '1'
-                        break;
-                    case 'Brand':
-                        return '2'
-                        break;
-                    case 'Agency':
-                        return '3'
-                        break;
-                    case 'E-commerce':
-                        return '4'
-                        break;
-                    default:
-                        return 0;
-                }
-            },
-            getGroupId(type, continent, country){
-              if(type == 'Influencer'){
-                return 109535675
-              }
-              if(type == 'Brand' ||type == 'Agency' || type == 'E-commerce')
-                if(continent == 'EU'){
-                  return 107989498
-                }
-                if(continent == 'NA' && (country == 'US' || country == 'CA')){
-                    return 107989498
-                  }
-                  else{
-                    return 109535666
-                  }
-            },
-            getCookie(name){
-                var nameEQ = name + '=';
-                var ca = document.cookie.split(';');
-                for (var i = 0; i < ca.length; i++) {
-                    var c = ca[i];
-                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-                }
-                return null;
-            },
-            setCookie(name){
-                var expires = '';
-                if (days) {
-                    var date = new Date();
-                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                    expires = '; expires=' + date.toUTCString();
-                }
-                document.cookie = name + '=' + (value || '') + expires + '; path=/';
             },
             setTargetMetric(target){
                 const percent = (value, target) => (value * 100) / target;
@@ -449,6 +371,7 @@
                         return {'likes_follower': 0.035, 'comments_likes': 0.01, 'type': 'mega-influencer'};
             },
             async submit() {
+                // this.openEmailCaptureForm(); // only for local testing.
                 var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
@@ -461,11 +384,11 @@
                 this.loading = true;
                 var _this = this;
               window.grecaptcha.ready(() => {
+                document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                 window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
                   var request = new XMLHttpRequest();
                   request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                   request.setRequestHeader('Content-Type', 'application/json');
-
                   request.onload = function () {
                     if (!request.status || request.status !== 200) {
                       if (request.status === 429) {
@@ -479,18 +402,19 @@
                       _this.loading = false;
                       return
                     }
-                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
+                    document.getElementById("progress").style.width = 100 + "%";
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
+                    if(Math.abs(_this.user.comments_per_likes) > 1){
+                        _this.user.comments_per_likes = Math.abs(_this.user.comments_per_likes) / 100;
+                    }
+                    _this.user.comments_per_likes = _this.clamp(_this.user.comments_per_likes, 0, 1);
                     _this.posts = res.posts;
                     _this.labels.xLabels = res.posts.map((_, i) => i + 1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
-
-                    setTimeout(() => {
-                      document.getElementById("progress").style.width = 100 + "%";
                       setTimeout(() => {
                         _this.loading = false;
                         _this.setTargetMetric();
@@ -499,8 +423,7 @@
                         _this.audienceScoreTag = _this.userScore().tag
                         _this.audienceScoreClass = _this.userScore().tagClass
                         _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10, 0, 100, 0, 180));
-                      }, 1000);
-                    }, 2000);
+                      }, 500);
                   };
                   request.onerror = function () {
                     console.log(request.response);
@@ -508,6 +431,7 @@
                     _this.loading = false;
                   }
                   request.send(JSON.stringify({platform: '{{ .Params.platform | safeJS }}', username, token}));
+                  _this.openEmailCaptureForm(request);
                 })
               })
             },

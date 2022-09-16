@@ -181,7 +181,7 @@
                 }
             }
             .label {
-                font-size: 12px;
+                font-size: 8px;
             }
         }
         .posts {
@@ -286,4 +286,8 @@
 .slide-fade-leave-to {
     transform: translateX(10px);
     opacity: 0;
+}
+
+.calc-cta-btn {
+    letter-spacing: 0 !important;
 }

@@ -49,7 +49,7 @@ ul, ol, li {
 .align-right {
     text-align: right;
 }
-a.btn {
+a.btn, button.btn {
     background-color: $dark;
     background: $dark;
     border: 0.125rem solid $dark;
