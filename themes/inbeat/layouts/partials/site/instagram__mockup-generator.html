@@ -140,13 +140,13 @@
                   <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                     <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommmended<span></span>
+                        recommended<span></span>
                   </div>
                   <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                     <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
                       ?postSrc.length:2}</span>
                     <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommmended</span></span>
+                        recommended</span></span>
                     <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                   </div>
                   <div class="preview_banner-wrapper">
@@ -203,7 +203,7 @@
                     <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommmended</span></span>
+                        recommended</span></span>
                   </div>
                   <div class="story__preview-footer">
                     <div class="cta">
