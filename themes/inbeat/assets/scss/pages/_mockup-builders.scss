@@ -103,6 +103,8 @@
           // overflow-y: hidden;
           overflow-y: overlay;
           overflow-y: scroll;
+          scrollbar-color: #E1E1E1 rgba(0, 0, 0, 0.05);
+          scrollbar-width: thin;
           @include breakpoint(sm-down) {
             padding: 0px 16px;
             // padding-right: 12px;
