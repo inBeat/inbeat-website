@@ -1,0 +1,347 @@
+<section class="container mobile-adjusted" id="cpm__calculator">
+    <div>
+        <div class="calculator-toggle">
+            <div class="calculator-type" id="cpm_calculator-simple-toggle" :class="{'--active': activeTab === 'simple'}" @click="switchTab('simple')">
+                Simple Mode
+            </div>
+            <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
+                Advanced  <span class="question-circle --gray_bg">
+                    {{- partial "icons/question-mark.html" -}}
+                </span>
+                <span class="--tooltip">Use advanced mode to compare <br> the costs of multiple campaigns.</span>
+            </div>
+        </div>
+        <div class="row" id="cpm_calculator-section">
+            <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
+                    <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
+            </div>
+            <button v-if="activeTab === 'advance'" @click="addCampaign"  class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
+            <div class="refresh-button_wrapper" @click="refresh">
+                {{- partial "icons/refresh.html" -}}
+                <span class="--tooltip">Clear & Start Over</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script src="./inputs.vue.js"></script>
+<script>
+    Vue.component('input-row', {
+        data: function () {
+            return {
+                ctrValue : this.values.ctr,
+                impressionsValue: this.values.impressions,
+                totalClickValue: this.values.totalClick,
+                lastUpdatedField: '',
+                copied: false,
+            }
+        },
+        props:{
+            campaign:{
+                type: String
+            },
+            refresh:{
+                type: Boolean
+            },
+            tab:{
+                type: String
+            },
+            values:{
+                type: Object,
+                default:function(){
+                    return {
+                        ctr:null,
+                        impressions:null,
+                        totalClick:null
+                    }
+                }
+            }
+        },
+        methods:{
+        copyValue(e,value){
+            this.copied = true
+            if(value){
+                navigator.clipboard.writeText(value)
+            }
+        },
+        calculateCPM(e, fieldName){
+            let digitRegex = fieldName === 'ctr' ? /[^.0-9]/g : /[^0-9]/g
+            if((digitRegex).test(e.target.value)){
+                fieldName === 'ctr' ? e.target.value = e.target.value.replace(digitRegex, '').replace(/,/g, '') : e.target.value = e.target.value.replace(digitRegex, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+            }
+            let newValue = e.target.value.replace(digitRegex, "").replace(/,/g, '')
+            this[`${fieldName}Value`] = parseFloat(newValue);
+            if(!this.ctrValue && !this.impressionsValue || !this.impressionsValue && !this.totalClickValue || !this.ctrValue && !this.totalClickValue){
+                this.updateValue()
+                return // do not calculate anything
+            }
+            if(this.lastUpdatedField){
+                // update lastUpdatedField
+                this.calculateOtherField(this.lastUpdatedField)
+            } else {
+                if(fieldName === 'ctr') {
+                    // Not allowed
+                    if(!this.impressionsValue){
+                        this.calculateOtherField('impressions')
+                    }
+                    else if(!this.totalClickValue){
+                        this.calculateOtherField('totalClick')
+                    } else {
+                        this.calculateOtherField('totalClick')
+                    }
+                } else {
+                    if(this.totalClickValue && this.impressionsValue){
+                        // update CPM
+                        this.calculateOtherField('ctr')
+                    }
+                    else if(this.totalClickValue && this.ctrValue && fieldName !== 'impressions'){ 
+                        // update impressions
+                        this.calculateOtherField('impressions')
+                    }
+                    else if(this.impressionsValue && this.ctrValue && fieldName !== 'totalClick'){
+                        // update totalClick
+                        this.calculateOtherField('totalClick')
+                    }
+                }
+            }
+        },
+        calculateOtherField(fieldName) {
+            switch(fieldName){
+                case 'ctr': 
+                this.ctrValue = (( this.impressionsValue / this.totalClickValue) * 100).toFixed(2);
+                this.updateValue()
+                break;
+                case 'impressions':
+                    this.impressionsValue = ((this.totalClickValue/this.ctrValue) * 100 ).toFixed(0);
+                    this.updateValue()
+                    break;
+                case 'totalClick':
+                    this.totalClickValue = ((this.impressionsValue /this.ctrValue) * 100).toFixed(0);
+                    this.updateValue()
+                    break;
+            }
+            this.lastUpdatedField = fieldName;
+        },  
+        blur(e){
+            e.target.parentElement.parentElement.classList.remove('--active_input-box')
+            this.lastUpdatedField = '';
+        },
+        focus(e){
+            e.target.parentElement.parentElement.classList.add('--active_input-box')
+        },
+        deleteRow(e){
+            this.$emit('delete-row',this.campaign)
+        },
+        getImgUrl(pic) {
+            return '/icons/'+pic+'.svg'
+        },
+        getInputSize(fieldName){
+            if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
+                return this[`${fieldName}Text`].length
+            } else{
+                 return fieldName === 'totalClick' ? 5 :  fieldName === 'ctr' ? 2 :  1
+            }
+        },
+        updateValue(){
+            if(this.tab === 'advance'){
+                this.$emit('value-change',{
+                        name: this.campaign,
+                        ctr:this.ctrValue,
+                        totalClick: this.totalClickValue,
+                        impressions: this.impressionsValue
+                })
+            }
+            return
+        }
+      },
+      watch: {
+        refresh(){
+            this.ctrValue = null
+            this.impressionsValue = null
+            this.totalClickValue = null
+            this.lastUpdatedField = ''
+        }
+      },
+      computed: {
+        ctrText() {
+            if(this.ctrValue && this.ctrValue !== 'NaN'){
+                let replaceWith = this.ctrValue.toString().includes('.') ? '' : ','
+                return this.ctrValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
+            }
+            else{
+                return this.ctrValue = null
+            }
+        },
+        impressionsText() {
+            return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
+        },
+        totalClickText() {
+            return this.totalClickValue && this.totalClickValue !== 'NaN' ? this.totalClickValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalClickValue = null;
+        },
+      },
+
+        template:  `
+        <div>
+    <div class="toolbox" v-if="tab === 'advance'" >
+        <div class="dropdown-wrapper">
+            <div class="dropdown">
+                <img src="/icons/dot.svg">
+                <a href="javascript:void(0)" v-html="campaign">
+                </a>
+                <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1 0.5L6.5 5.5L12 0.5" stroke="white" stroke-opacity="0.25"/>
+                </svg>
+            </div>
+        </div>
+        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
+    </div>
+    <div class="row cpm__input-row">
+        <div class="col-xs-12 col-md-4">
+            <div class="calculator_input-box ">
+                <div class="header --green">
+                    Website Visits <span class="question-circle --green_bg">
+                        {{- partial "icons/question-mark.html" -}}
+                    </span>
+                    <span class="--tooltip">The total number of visitors on a page <br> over a set period of time</span>
+                </div>
+                <div class="input-wrapper" :class="{'--border':totalClickValue}">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalClick')" :value="totalClickText" type="text" placeholder="1,000"  ref="totalClick">
+                </div>
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalClickValue)" @mouseleave="copied = false">
+                    {{- partial "icons/copy-button.html" -}}
+                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-4">
+            <div class="calculator_input-box">
+                <div class="header --yellow">
+                    One-page Visits <span class="question-circle --yellow_bg">
+                        {{- partial "icons/question-mark.html" -}}
+                    </span>
+                    <span class="--tooltip">The number of visitors that only visited a single page<br> across the same period of time.</span>
+                </div>
+                <div class="input-wrapper" :class="{'--border':impressionsValue}">
+                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
+                </div>
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,impressionsValue)" @mouseleave="copied = false">
+                    {{- partial "icons/copy-button.html" -}}
+                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
+                </div>
+            </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <div class="calculator_input-box">
+                    <div class="header --pink" title="CPM">
+                        Bounce Rate <span class="question-circle --pink_bg">
+                            {{- partial "icons/question-mark.html" -}}
+                        </span>
+                        <span class="--tooltip">The bounce rate is the percentage of users who <br> leave immediately after landing on your website <br> or webpage.</span>
+                    </div>
+                    <div class="input-wrapper" :class="{'--border':ctrValue}">
+                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'ctr')" :value="ctrText" type="text" placeholder="20" :size="getInputSize('ctr')" ref="ctr">
+                        {{- partial "icons/percentage.html" -}}
+                    </div>
+                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,ctrValue)" @mouseleave="copied = false">
+                        {{- partial "icons/copy-button.html" -}}
+                        <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                    <span v-else class="--tooltip --sucess">Copied 
+                        {{- partial "icons/check.html" -}}
+                        </span>
+                    </div>
+                </div>
+                </div>
+            </div>
+            <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
+                <span v-if="ctrValue && ctrValue > 100">
+                    <span class="footer-heading" style="color: #D0718F;">The Bounce rate cannot be more than 100% </span><br> as this would mean more one-page visits than website visits.
+                </span>
+                <span v-else-if="ctrValue && impressionsValue || impressionsValue && totalClickValue || ctrValue && totalClickValue">
+                    Use advanced mode to compare the bounce rate of <br> multiple campaigns.
+                </span>
+                <span v-else >
+                <span class="footer-heading">Fill in any 2 fields</span><br>
+            The value of the third will appear
+                </span>
+            </div>
+            </div>
+    `
+    })
+    var app = new Vue({
+      el: '#cpm__calculator',
+      data: {
+        campaigns: [{name:'Website 1',values: {
+                        impressions:null,
+                        ctr:null,
+                        totalClick:null
+                    }}],
+            ind : 1,
+            isRefresh: false,
+            activeTab: 'simple',
+            dummyCampains:[],
+        },
+        watch:{
+          campaigns:{
+            handler(val) {
+                this.dummyCampains = val
+            },
+            immediate: true
+          }
+        },
+    methods:{
+        addCampaign(){
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(JSON.stringify(this.campaigns[i].values) !== JSON.stringify(this.dummyCampains[i].values) || JSON.stringify(this.campaigns[i].platform) !== JSON.stringify(this.dummyCampains[i].platform)){
+                    this.campaigns[i].values = this.dummyCampains[i].values
+                }
+            }
+            this.campaigns.push({name:`Website ${++this.ind}`,values: { impressions:null, ctr:null, totalClick:null }})
+        },
+        refresh(){
+            this.campaigns =  [{name:'Website 1',values: { impressions:null, ctr:null, totalClick:null }}]
+            this.isRefresh = !this.isRefresh
+        },
+        switchTab(tab){
+            this.activeTab = tab
+            if(tab === 'simple'){
+                this.ind = 2
+                this.campaigns.splice(1)
+            }
+        },
+        deleteRow(e){
+            this.ind = 0
+            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            let newArr = []
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.campaigns[i].name !== e ){
+                    newArr.push({name:`Website ${++this.ind}`,values:this.dummyCampains[i].values })   
+                }
+            }
+            this.campaigns = [...newArr]
+        },
+        valueChange(e){
+            this.dummyCampains = JSON.parse(JSON.stringify(this.campaigns))
+            const updatedValues = JSON.parse(JSON.stringify(e))
+            for(let i = 0; i<=this.campaigns.length - 1;i++){
+                if(this.dummyCampains[i].name === updatedValues.name ){
+                    this.dummyCampains[i].values = updatedValues
+                }
+            }
+        }
+    },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>
