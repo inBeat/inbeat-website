@@ -2,14 +2,14 @@
 title: inBeat
 description: >-
   Inbeat
-slug: cpm-calculator
-layout: cpm-calculator
-title: CPM Calculator
-subtitle: "CPM Calculator"
+slug: bounce-rate-calculator
+layout: br-calculator
+title: Bounce Rate Calculator
+subtitle: "Bounce Rate Calculator"
 hero:
-  title: Free CPM Calculator
+  title: Free Bounce Rate Calculator
   subtitle: >-
-    Calculate your cost per thousand & compare across different channels or multiple campaigns 
+    This tool helps you calculate the bounce rate for one or multiple websites or webpages to measure performance
 whatwedo:
     title: Creator Studio
     text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
@@ -19,18 +19,18 @@ whatwedo:
       text: Learn More
     newBadge: true
 toolkits:
-    - title: CTR <br> Calculator
+    - title: CTR Calculator
       text: Calculate your Click-through-rate your ads & content across different channels.
       icon: ctr-toolkit
       url: ctr-calculator
-    - title: CPA <br> Calculator
+    - title: CPA Calculator
       text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
       icon: cpa-toolkit
       url: cpa-calculator
-    - title: Bounce Rate <br>Calculator
-      text: Calculate the bounce rate for one or multiple websites or webpages.
-      icon: bounce-rate-free-toolkit
-      url: bounce-rate-calculator
+    - title: CPM Calculator
+      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
+      icon: cpm-toolkit
+      url: cpm-calculator
 viewAll: 
   link: free-toolkit
   text: View all

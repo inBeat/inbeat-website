@@ -1,10 +1,14 @@
-{{- define "main" -}}
-<div id="freetoolkit" class="mt-120">
-    <section class="container mobile-adjusted page-top " id="freetoolkit-header">
-        <h1>{{- .Params.titre -}}</h1>
-        <p>{{- .Params.subtitle | markdownify -}}</p>
-    </section>
-    <section class="toolkits container">
+
+    <section class="related-tools container">
+        <div class="related_tools-header">
+            <h2 class="related-tools-title">Related tools</h2>
+            {{- with .Params.viewAll -}}
+            <a class="view-all" href="{{ $.Site.BaseURL -}}{{- .link -}}" target="_blank">
+                {{- htmlUnescape .text -}}
+                <span class="right-arrow-icon">{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
+            </a>
+        </div>
+        {{- end -}}
         <div class="row">
             <div class="tools-card-wrapper">
                 {{- range .Params.toolkits -}}
@@ -23,8 +27,3 @@
             </div>
         </div>
     </section>
-</div>
-
-{{- partial "site/ugc-global.html" . -}}
-<!-- {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}} -->
-{{- end -}}
