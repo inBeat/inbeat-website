@@ -33,7 +33,7 @@
                                         </div>
                                       </div>
                                     </div>
-                                    <div class="glide-controls" data-glide-el="controls">
+                                    <div  class="glide-controls" data-glide-el="controls">
                                       <span class="swiper-previous glide-control-btn" data-glide-dir="<">
                                         {{- partial "icons/left-arrow.html" -}}
                                       </span>
@@ -45,7 +45,7 @@
                                 </div>
                               </div>
                               <div class="profile__input-wrapper">
-                                <span class="mockup__title">Profile information</span>
+                                <span class="mockup__title">Profile picture and username</span>
                                 <div class="uploader-wrapper">
                                   <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)"><span class="upload-image-wrapper"><span v-if="!dpSrc">{{- partial "icons/upload-img-logo.html" -}}</span><img v-else :src="dpSrc ? dpSrc : ''" alt=""> </span> </uploader>
                                     <div class="input-wrapper">
@@ -54,11 +54,13 @@
                                 </div>
                               </div>
                               <div class="mockup__configuration-dropzone-wrapper">
-                                <span class="mockup__title">Image</span>
+                                <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title" v-else>Image</span>
                                 <span class="mockup__description">Recommended image size: <span >{activeAd.resolution}</span>pixels.</span>
                                 <uploader :multiple="activeAd.id === 4 ? true : false"  :drop="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> <div class="upload_placeholder-wrapper">
                                   {{- partial "icons/upload-placeholder.html" -}}
-                                  <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div></p>
+                                  <p><span>Click to upload</span> or drag-and-drop</br> <div class="sub-droparea-text">Supports only .png or .jpg</div>
+                                  <span ref="messageError" class="image-error-text"></span>
+</p>
                               </div></uploader>
                               </div>
                               <div class="mockup__configuration-ad-action">
@@ -77,11 +79,11 @@
                                   <p class="mockup__description">
                                       Set the number of likes for your post. Numeric input only.
                                   </p>
-                                  <input @input="addLikes" @keydown="checkIfNumber" class="likes-count-input" type="number" placeholder="15">
+                                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" @input="addLikes" class="likes-count-input" type="number" placeholder="15">
                               </div>
                               <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                                   <h4 class="mockup__title">
-                                      Message
+                                      Caption
                                   </h4>
                                   <p class="mockup__description">
                                       Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters or less.
@@ -110,11 +112,11 @@
                                   </div>
                                   <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                                       <img v-if="postSrc[0]"  class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                                      <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}<span></span>
+                                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended<span></span>
                                   </div>
                                   <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
                                       <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2 ?postSrc.length:2}</span>
-                                      <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                                      <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended</span></span>
                                        <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                                   </div>
                                   <div class="preview_banner-wrapper">
@@ -163,7 +165,7 @@
                               </div>
                             <div class="preview-body" id="story-body" :style="getComputedHeight">
                                 <img class="preview-image-body" v-if="postSrc[0]" :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                                <span v-else class="placeholder-info">{activeAd.ratio} <span>Recommended resolution: {activeAd.resolution}</span></span>
+                                <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px recommmended</span></span>
                             </div>
                             <div class="story__preview-footer">
                               <div class="cta">
@@ -176,8 +178,8 @@
                                   {{- partial "icons/dm-wh.html" -}}
                               </div>
                             </div>
-                            </div>
-                          </div>
+                            <!-- </div> -->
+                          <!-- </div> -->
                           </div>
                           <div class="preview-download-wrapper">
                               <button @click="downloadPng" class="mockup-download-btn mockup-btn">
@@ -266,7 +268,7 @@
               // This method will be called when the file gets uploaded
               const files = e.target.files || e.dataTransfer.files;
               if(this.multiple && files.length > 10){
-                alert('You can only upload maximum 10 files')
+                this.$refs.messageError.innerHTML = 'You can only upload maximum 10 files';
                 return
               }
               if (files[0]) {
@@ -300,16 +302,20 @@
               return invalidFileIndex === 0;
             },
             validate(files) {
+              const err = document.querySelector('.image-error-text');
               // file selection
               if (!this.multiple && files.length > 1) {
+                err.innerHTML = 'You can only upload one file';
                 return 'MULTIFILES_ERROR';
               }
               // check File extension for normal upload its not necessary but for drop we have to check the extension
               if (this.checkFileExtensions(files)) {
+                err.innerHTML = 'You can only upload .png or .jpg files';
                 return 'EXTENSION_ERROR';
               }
               // file size
               if (!this.checkFileSize(files)) {
+                err.innerHTML = 'File size is too large';
                 return 'FILE_SIZE_ERROR';
               }
               // custom validation
@@ -458,10 +464,10 @@
               </div>
             </transition-group>
             <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
-                &#10094;
+              <span class="left-arrow"> &#10094; </span>
             </div>
             <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
-                &#10095
+              <span class="right-arrow"> &#10095;  </span>
             </div>
           </div>
     `
@@ -488,7 +494,7 @@
               ratio:'1:1',
               img:'1-1',
               req: 80,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             },
             {
               id:5,
@@ -496,15 +502,15 @@
               ratio:'4:5',
               img:'portrait'   ,
               req: 80,
-              resolution: '1080 X 1350'
+              resolution: '1080x1350'
             },
             {
               id:2,
-              type:'Landscape',
-              ratio:'3:2',
+              type:'Video',
+              ratio:'16:9',
               img:'3-2'   ,
               req: 80,
-              resolution: '1080 X 608'
+              resolution: '1920x1080'
             },
             {
               id:3,
@@ -512,7 +518,7 @@
               ratio:'9:16',
               img:'9-16',
               req: 80 ,
-              resolution: '1080 X 1920'
+              resolution: '1080x1920'
             },
             {
               id:4,
@@ -520,7 +526,7 @@
               ratio:'1:1',
               img:'carousel',
               req: 80 ,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             }
           ],
             activeAd: {
@@ -529,7 +535,7 @@
               ratio:'1:1',
               img:'1-1',
               req: 80,
-              resolution: '1080 X 1080'
+              resolution: '1080x1080'
             },
             copied: false,
             showSeeMore: false,
@@ -545,16 +551,16 @@
         },
         uploadImage(fileset,location){
           const files = Array.from(fileset)
+          if(this.postSrc.length >= 10){
+            this.$refs.messageError.innerHTML = 'You can only selet 10 images';
+            return
+          }
           files.forEach(file => {
             let src = URL.createObjectURL(file)
             if(location === 'header'){
               this.dpSrc = src
             }else{
-              if(this.postSrc.length < 10){
-                this.postSrc.push(src)
-              }else{
-                alert('you can only selet 10 images')
-              }
+              this.postSrc.push(src)
             }
           })
         },
@@ -574,10 +580,10 @@
         copyImage(){
           var preview = document.getElementById('instagram-mockup-preview')
             navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-                if (result.state == "granted" || result.state == "prompt") {
-                    html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                  this.copied = true
-                }
+            if (result.state == "granted" || result.state == "prompt") {
+              html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+              this.copied = true
+            }
             })
         },
         optionSelect(e){
@@ -727,47 +733,38 @@
     });
     </script>
     <script>
-        new Glide('.glide',{
+        const glide = new Glide('.glide',{
           type: 'slider',
-          perView: 3.48,
+          perView: 4,
+          focus: "center",
+          rewind: false,
+          bound: true,
           gap: 0,
           breakpoints: {
-            1200: {
-              perView: 2.84
+		        1200: {
+		        	perView: 4
 		        },
 		        1080: {
-              perView: 4
+		        	perView: 3
 		        },
+            1198: {
+              perView: 3
+            },
+            768: {
+              perView: 3
+            },
 		        700: {
-              perView: 3.2
+		        	perView: 3
 		        },
-            550: {
-              perView: 2.7
+            600: {
+              perView: 2
             },
-            500: {
-              perView: 2.4
-            },
-            470: {
-              perView: 2.1
-            },
-            450: {
-              perView: 2.03
+            576: {
+              perView: 2
             },
             400: {
-              perView: 1.9
+              perView: 1
             },
-		        390: {
-		        	perView: 1.88
-		        },
-		        375: {
-		        	perView: 1.79
-		        },
-		        360: {
-		        	perView: 1.7
-		        },
-		        340: {
-		        	perView: 1.5
-		        },
 	        }
         }).mount()
     </script>
