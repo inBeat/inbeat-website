@@ -122,13 +122,14 @@
             width: 3px;
           }
           &::-webkit-scrollbar-track {
-            background-color: rgba(0, 0, 0, 0.1);
+            background-color: rgba(0, 0, 0, 0.05);
             // background: #008080;
           }
           &::-webkit-scrollbar-thumb {
             // background: #cacaca;
-            background: #E1E1E1;
-            // background: rgba(0, 0, 0, 0.4);
+            background: #e4e4e4;
+            // background: rgba(0, 0, 0, 0.1);
+            // background-color: red;
           }
           .mockup__configuration-header-wrapper{
             display: flex;
