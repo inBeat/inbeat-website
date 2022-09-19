@@ -498,7 +498,7 @@
         },
 
         template:  `
-          <div id="slider" @drag="dragSlide">
+          <div id="slider">
             <transition-group tag="div" :name="transitionName" class="slides-group">
               <div v-if="show" :key="current" class="slide"" >
                 <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
