@@ -990,6 +990,12 @@
     position: relative;
     height: 400px;
     background-color:  #141514;
+    .story-overlay{
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 10%, rgba(0, 0, 0, 0.05) 18%, rgba(0, 0, 0, 0)25%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 72%, rgba(0, 0, 0, 0.05) 80%, rgba(0, 0, 0, 0.2) 90%, rgba(0, 0, 0, 0.5) 100%);
+    }
     img{
       height: 100%;
       width: 100%;

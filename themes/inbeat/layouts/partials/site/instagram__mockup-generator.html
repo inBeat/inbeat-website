@@ -203,6 +203,7 @@
                     </div>
                   </div>
                   <div class="preview-body" id="story-body" :style="getComputedHeight">
+                    <div class="story-overlay"></div>
                     <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
