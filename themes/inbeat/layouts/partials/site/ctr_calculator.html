@@ -144,7 +144,7 @@
             this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
-            this.$refs.dropdown.classList.add('active')
+            this.$refs.dropdown.classList.toggle('active')
             window.addEventListener('click', (event)=>{
                 if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                     this.closeDropdown()
@@ -230,7 +230,7 @@
     <div class="row cpm__input-row">
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box ">
-                <div class="header --green">
+                <div class="header --green cpa-header">
                     Clicks <span class="question-circle --green_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
@@ -270,7 +270,7 @@
             </div>
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box">
-                    <div class="header --pink" title="CPM">
+                    <div class="header --pink cpa-header" title="CPM">
                         CTR <span class="question-circle --pink_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
@@ -333,10 +333,9 @@
                     this.campaigns[i].platform = this.dummyCampains[i].platform
                 }
             }
-            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'},values: { impressions:null, ctr:null, totalCost:null}})
         },
         selectOption(e){
-            // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i].name === e.name ){
                     this.dummyCampains[i].platform = e.platform
@@ -344,6 +343,7 @@
             }
         },
         refresh(){
+            this.campaigns = [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: { impressions:null, ctr:null, totalCost:null}}]
             this.isRefresh = !this.isRefresh
         },
         switchTab(tab){
@@ -355,7 +355,7 @@
         },
         deleteRow(e){
             this.ind = 0
-            this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
+            // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             let newArr = []
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i].name !== e.name ){

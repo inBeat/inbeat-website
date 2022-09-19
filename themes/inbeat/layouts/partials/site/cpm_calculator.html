@@ -144,7 +144,7 @@
             this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
-            this.$refs.dropdown.classList.add('active')
+            this.$refs.dropdown.classList.toggle('active')
             window.addEventListener('click', (event)=>{
                 if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                     this.closeDropdown()
@@ -337,7 +337,8 @@
                     this.campaigns[i].platform = this.dummyCampains[i].platform
                 }
             }
-            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'},values: { impressions:null, cpm:null, totalCost:null}})
+            console.log(this.campaigns)
         },
         selectOption(e){
             // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
@@ -348,6 +349,7 @@
             }
         },
         refresh(){
+            this.campaigns = [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: { impressions:null, cpm:null, totalCost:null }}]
             this.isRefresh = !this.isRefresh
         },
         switchTab(tab){

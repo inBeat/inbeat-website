@@ -92,7 +92,7 @@ $pink: #B85172;
         }
         &:hover{
             .--tooltip{
-                visibility: visible;
+                opacity: 1;
             }
         }
     }
@@ -140,7 +140,9 @@ $pink: #B85172;
                 align-items: center;
             }
             &.active + .dropdown-list {
-                display: block;
+                visibility: visible;
+                opacity: 1;
+                transform: translateY(3px);
               }
         }
         .dropdown-wrapper{
@@ -157,6 +159,7 @@ $pink: #B85172;
                 margin-left: 8px;
             }
             .dropdown-list{
+                overflow: hidden;
                 background: #FFFFFF;
                 border: 1px solid #DCDCDC;
                 box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.2);
@@ -167,7 +170,10 @@ $pink: #B85172;
                 position: absolute;
                 top: 18.36%;
                 z-index: 999;
-                display: none;
+                visibility: hidden;
+                opacity: 0;
+                transform: translateY(-5px);
+                transition: all .15s ease;
                 .list-item{
                     padding: 8px 12px;
                     display: flex;
@@ -225,7 +231,7 @@ $pink: #B85172;
                     opacity: 1;
                 }
                 .--tooltip{
-                    visibility: visible;
+                    opacity: 1;
                 }
             }
         }
@@ -300,7 +306,7 @@ $pink: #B85172;
                 border: 1px solid rgba(0, 0, 0, 0.5);
                 box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
                 .--tooltip{
-                    visibility: visible;
+                    opacity: 1;
                 }
             }
             .--tooltip{
@@ -385,7 +391,7 @@ $pink: #B85172;
             box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.15);
             border: 1px solid rgba(0, 0, 0, 0.5);
             .--tooltip{
-                visibility: visible;
+                opacity: 1;
             }
         }
     }
@@ -443,7 +449,8 @@ $pink: #B85172;
     }   
 }
 .--tooltip{
-    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
     width: 120px;
     background-color: black;
     color: #fff;
@@ -459,6 +466,7 @@ $pink: #B85172;
     bottom: 130%;
     left: 0%;
     margin-left: -60px;
+    transition: all 0.3s ease;
     &::after{
         content: "";
         position: absolute;
@@ -629,5 +637,15 @@ $pink: #B85172;
                 }
             }
         }
+    }
+}
+.cpa-header{
+    .--tooltip{
+        left: -100%;
+    }
+}
+.total-cost-header{
+    .--tooltip{
+        left: 50%;
     }
 }

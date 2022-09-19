@@ -13,8 +13,8 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                <input-row @value-change="valueChange($event)" :campaign="campaign.name" :platform="campaign.platform" :values="campaign.values" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
-            </div>
+                <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
+        </div>
             <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
             <div class="refresh-button_wrapper" @click="refresh">
                 {{- partial "icons/refresh.html" -}}
@@ -144,7 +144,7 @@
             this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
         },
         openDropdown(e){
-            this.$refs.dropdown.classList.add('active')
+            this.$refs.dropdown.classList.toggle('active')
             window.addEventListener('click', (event)=>{
                 if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                     this.closeDropdown()
@@ -237,7 +237,7 @@
     <div class="row cpm__input-row">
         <div class="col-xs-12 col-md-4">
             <div class="calculator_input-box ">
-                <div class="header --green">
+                <div class="header --green total-cost-header">
                     Total Cost <span class="question-circle --green_bg">
                         {{- partial "icons/question-mark.html" -}}
                     </span>
@@ -278,7 +278,7 @@
             </div>
             <div class="col-xs-12 col-md-4">
                 <div class="calculator_input-box">
-                    <div class="header --pink" title="CPA">
+                    <div class="header --pink cpa-header" title="CPA">
                         CPA <span class="question-circle --pink_bg">
                             {{- partial "icons/question-mark.html" -}}
                         </span>
@@ -313,11 +313,7 @@
     var app = new Vue({
       el: '#cpm__calculator',
       data: {
-        campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: {
-                        impressions:null,
-                        cpa:null,
-                        totalCost:null
-                    }}],
+        campaigns: [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: {totalCost:null,cpa:null,conversions:null}}],
             ind : 1,
             isRefresh: false,
             activeTab: 'simple'
@@ -338,17 +334,17 @@
                     this.campaigns[i].platform = this.dummyCampains[i].platform
                 }
             }
-            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'}})
+            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'},values: {totalCost:null,cpa:null,conversions:null}})
         },
         selectOption(e){
-            // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
             for(let i = 0; i<=this.campaigns.length - 1;i++){
                 if(this.campaigns[i].name === e.name ){
-                    this.campaigns[i].platform = e.platform
+                    this.dummyCampains[i].platform = e.platform
                 }
             }
         },
         refresh(){
+            this.campaigns = [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: {totalCost:null,cpa:null,conversions:null}}] 
             this.isRefresh = !this.isRefresh
         },
         switchTab(tab){

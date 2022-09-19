@@ -307,9 +307,10 @@
                     this.campaigns[i].values = this.dummyCampains[i].values
                 }
             }
-            this.campaigns.push({name:`Website ${++this.ind}`})
+            this.campaigns.push({name:`Website ${++this.ind}`,values: { impressions:null, ctr:null, totalClick:null }})
         },
         refresh(){
+            this.campaigns =  [{name:'Website 1',values: { impressions:null, ctr:null, totalClick:null }}]
             this.isRefresh = !this.isRefresh
         },
         switchTab(tab){
