@@ -36,7 +36,7 @@
         <div class="row">
             {{- range .Params.toolkits.tools -}}
                         <div class="toolkit col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_blank">
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_self">
                             <div class="inner">
                                 <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
                                 <div class="content">
