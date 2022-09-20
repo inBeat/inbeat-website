@@ -110,6 +110,7 @@ function scrollAnchors(e, respond) {
 
 function testimonial() {
     if(!window.jQuery) {
+        console.log('hello')
         return;
     }
         $('.slider').slick({
@@ -122,47 +123,19 @@ function testimonial() {
           arrows: false,
           dots: false,
           pauseOnHover: false,
+          variableWidth: true,
           responsive: [{
             breakpoint: 768,
             settings: {
-              slidesToShow: 3
+                slidesToShow: 3
             }
-          }, {
+            }, {
             breakpoint: 520,
             settings: {
-              slidesToShow: 3
+                slidesToShow: 3
             }
-          }]
-        });
-    var dots = document.querySelectorAll('.testimonial_circle');
-    dots[0].classList.add('active')
-    dots.forEach(function(dot,index){
-        dot.addEventListener('click', function (e) {
-            dots.forEach(function(i){
-                if(i.classList.contains('active')){
-                    i.classList.remove('active');
-                }  
-            })
-            dot.classList.add('active');
-            scroll(document.querySelectorAll('.client-card')[index])
-        })
+        }]
     });
-    var scroll = function (el) {
-        var elLeft = el.offsetLeft + el.offsetWidth;
-        var elParentLeft = el.parentNode.offsetLeft + el.parentNode.offsetWidth;
-        if (elLeft >= elParentLeft + el.parentNode.scrollLeft) {
-            el.parentNode.scrollBy({
-                left: el.offsetLeft + el.parentNode.offsetLeft,
-                behavior: 'smooth',
-              })
-        } else if (elLeft <= el.parentNode.offsetLeft + el.parentNode.scrollLeft) {
-              el.parentNode.scrollTo({
-                top: 0,
-                left: el.offsetLeft - el.parentNode.offsetLeft,
-                behavior: 'smooth'
-              })
-        }
-      }
 }
 
 function pricing() {
