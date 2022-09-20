@@ -439,7 +439,7 @@ function faq() {
 }
 
 function industries() {
-    var acc = document.getElementsByClassName('text-box');
+    var acc = document.getElementsByClassName('switcher_accordian-item');
     if(acc.length === 0){return}
     var currentActive = acc[0];
     var toggleAccordionState = function (accordion) {
