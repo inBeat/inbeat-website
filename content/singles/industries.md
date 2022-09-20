@@ -68,6 +68,8 @@ testmonial:
       text: >-
         <span>Book a demo — it's free</span>
       link: https://calendly.com/inbeat-co/inbeat-co-demo
+clients:
+    id: industries-clients
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.
