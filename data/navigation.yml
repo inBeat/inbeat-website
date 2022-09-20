@@ -47,10 +47,10 @@ resources:
         description: Insights for the modern marketer
         link: 'https://www.growthnotes.news/'
         target: '_blank'
-      - name: The Pulse Podcast
-        description: Listen to influencer marketing experts
-        link: '/categories/podcasts/'
-        target: '_self'
+      # - name: The Pulse Podcast
+      #   description: Listen to influencer marketing experts
+      #   link: '/categories/podcasts/'
+      #   target: '_self'
   - color: grey
     title: The Toolkit
     tag: Free

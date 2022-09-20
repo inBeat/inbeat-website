@@ -16,9 +16,9 @@
     - anchor: Growthnotes Newsletter
       link: 'https://www.growthnotes.news/'
       external: true
-    - anchor: The Pulse Podcast
-      link: categories/podcasts
-      external: false
+    # - anchor: The Pulse Podcast
+    #   link: categories/podcasts
+    #   external: false
     - anchor: AdCollection
       link: categories/podcasts
       external: false
