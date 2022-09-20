@@ -149,6 +149,12 @@
 	  .slick-track{
 		  display: flex;
 		  align-items: center;
+		  @include breakpoint(sm) {
+			gap: 2rem;
+		}
+		  @include breakpoint(md) {
+			gap: unset;
+		}
 	  }	
   }
 }
