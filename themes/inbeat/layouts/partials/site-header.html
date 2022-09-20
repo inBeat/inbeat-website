@@ -86,7 +86,7 @@
                                   {{ with .announcement }} <div style="background-color:#{{ .color }}" class="col-sm-4 col-md-4 column announcement">
                                       <h2>{{ .topText }}</h2>
                                       <h1>{{ .title }}</h1>
-                                      <a href="https://app.inbeat.co/get-started"  style="background-color:#{{ .cta.color }}" title="Sign up" class="btn btn-lg" target="_blank" >
+                                      <a href="{{ .cta.link }}"  style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank" >
                                           {{ .cta.text }}
                                       </a>
                                   </div> {{ end }} 

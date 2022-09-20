@@ -62,6 +62,7 @@ resources:
       cta:
         text: Visit AdCollection
         color: FDE7E6
+        title: Visit AdCollection
         link: 'https://www.adcollection.co/'
     pages:
       - name: Engagement rate calculator
