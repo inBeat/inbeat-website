@@ -65,6 +65,11 @@
 			}
 			.content-video{
 				padding: 0 15px;
+				height: 280px;
+				@include breakpoint(sm) {
+					height: 560px;
+				}
+
 				@include breakpoint(sm) {
 					padding:0 50px
 				}
