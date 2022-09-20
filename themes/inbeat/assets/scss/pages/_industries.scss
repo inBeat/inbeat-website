@@ -242,9 +242,9 @@
             height: auto   !important;
             object-fit: cover;
             max-height: 500px;
-            max-width: 563px;
-            // @include breakpoint(sm-down) {
-            // }
+            @include breakpoint(md-down) {
+                max-width: unset;
+            }
         }
     }
 }
