@@ -4,7 +4,7 @@ description: >-
   Everything you need to assist you in influencer marketing
 slug: free-toolkit
 layout: free-toolkit
-titre: Free toolkit
+title: The Toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
     - title: Instagram Engagement <br>  Rate Calculator
