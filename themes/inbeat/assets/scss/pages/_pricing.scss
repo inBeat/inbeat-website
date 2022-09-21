@@ -37,7 +37,6 @@
         }
     }
 }
-
 $plan-padding: 1.5rem;
 #pricing_toggle{
     padding-top: 84px;
@@ -103,13 +102,16 @@ $plan-padding: 1.5rem;
     }
 }
 #pricing {
-    display: none;
+    // display: none;
     margin-top: 40px;
+    padding-top: 3.8rem;
     @include breakpoint(sm) {
         margin-top: 70px;
+        padding-top: 60px;
     }
     @include breakpoint(md) {
         margin-top: 160px;
+        padding-top: 96px;
     }
     .pricing-header {
         text-align: left;
@@ -392,7 +394,6 @@ $plan-padding: 1.5rem;
         }
     }
 }
-
 .--show{
     display: block !important;
 }
