@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Norway In 2021
+title: Top 10 Beauty Instagram Influencers In Norway In 2022
 description: >-
-  Find top beauty Instagram influencers in Norway in 2021. Most popular hashtags: #norway #nature #reklame.
+  Find top beauty Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #reklame.
 platform: Instagram
 hits: 268
 text_top: Identify the most popular Instagram profiles on inBeat.

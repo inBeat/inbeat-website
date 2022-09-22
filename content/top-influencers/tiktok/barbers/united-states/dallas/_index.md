@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Dallas In 2021
+title: Top 10 Barbers TikTok Influencers In Dallas In 2022
 description: >-
-  Find top barbers TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #dallas #duet.
+  Find top barbers TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #dallas #duet.
 platform: TikTok
 hits: 4
 text_top: Discover the best TikTok accounts on inBeat.

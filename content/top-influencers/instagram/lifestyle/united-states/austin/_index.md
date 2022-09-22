@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Austin In 2021
+title: Top 10 Lifestyle Instagram Influencers In Austin In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Austin in 2021. Most popular hashtags: #texas #personaltrainer #travel.
+  Find top lifestyle Instagram influencers in Austin in 2022. Most popular hashtags: #texas #personaltrainer #travel.
 platform: Instagram
 hits: 200
 text_top: Analyze the top-rated Instagram influencers on inBeat.

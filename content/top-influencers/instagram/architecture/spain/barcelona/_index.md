@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Barcelona In 2021
+title: Top 10 Architecture Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top architecture Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #architecture #visitbarcelona #ig.
+  Find top architecture Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #architecture #visitbarcelona #ig.
 platform: Instagram
 hits: 77
 text_top: Identify the top-rated Instagram profiles on inBeat.

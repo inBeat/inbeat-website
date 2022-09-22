@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In 2021
+title: Top 10 Dog Owners Instagram Influencers In 2022
 description: >-
-  Find top dog owners Instagram influencers in 2021. Most popular hashtags: #homedecor #pocketofmyhome #scandihome.
+  Find top dog owners Instagram influencers in 2022. Most popular hashtags: #homedecor #pocketofmyhome #scandihome.
 platform: Instagram
 hits: 300
 text_top: Discover the best Instagram accounts on inBeat.

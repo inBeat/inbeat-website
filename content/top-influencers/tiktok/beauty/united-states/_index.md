@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United States In 2021
+title: Top 10 Beauty TikTok Influencers In United States In 2022
 description: >-
-  Find top beauty TikTok influencers in United States in 2021. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top beauty TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
 hits: 8911
 text_top: See the best TikTok profiles on inBeat.

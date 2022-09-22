@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Brazil In 2021
+title: Top 10 Crossfit Instagram Influencers In Brazil In 2022
 description: >-
-  Find top crossfit Instagram influencers in Brazil in 2021. Most popular hashtags: #crossfit #quarentena #beach #tbt.
+  Find top crossfit Instagram influencers in Brazil in 2022. Most popular hashtags: #crossfit #quarentena #beach #tbt.
 platform: Instagram
 hits: 496
 text_top: Identify the best Instagram profiles on inBeat.

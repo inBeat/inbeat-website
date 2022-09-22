@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Medellín In 2021
+title: Top 10 Nutrition Instagram Influencers In Medellín In 2022
 description: >-
-  Find top nutrition Instagram influencers in Medellín in 2021. Most popular hashtags: #fitness #medellin #colombia #nutricion.
+  Find top nutrition Instagram influencers in Medellín in 2022. Most popular hashtags: #fitness #medellin #colombia #nutricion.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Germany In 2021
+title: Top 10 Boxers TikTok Influencers In Germany In 2022
 description: >-
-  Find top boxers TikTok influencers in Germany in 2021. Most popular hashtags: #foryou #viral #boxer #brawlstars.
+  Find top boxers TikTok influencers in Germany in 2022. Most popular hashtags: #foryou #viral #boxer #brawlstars.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok accounts on inBeat.

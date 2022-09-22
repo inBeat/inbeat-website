@@ -1,7 +1,7 @@
 ---
-title: Top 10 Racing TikTok Influencers In 2021
+title: Top 10 Racing TikTok Influencers In 2022
 description: >-
-  Find top racing TikTok influencers in 2021. Most popular hashtags: #fyp #greenscreen #foryou #duet.
+  Find top racing TikTok influencers in 2022. Most popular hashtags: #fyp #greenscreen #foryou #duet.
 platform: TikTok
 hits: 1850
 text_top: Discover the top-rated TikTok accounts on inBeat.

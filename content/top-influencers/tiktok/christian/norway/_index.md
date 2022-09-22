@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Norway In 2021
+title: Top 10 Christian TikTok Influencers In Norway In 2022
 description: >-
-  Find top christian TikTok influencers in Norway in 2021. Most popular hashtags: #fyp #foryou #duet #magic.
+  Find top christian TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #foryou #duet #magic.
 platform: TikTok
 hits: 8
 text_top: Discover the top-rated TikTok accounts on inBeat.

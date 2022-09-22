@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Switzerland In 2021
+title: Top 10 Christian TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top christian TikTok influencers in Switzerland in 2021. Most popular hashtags: #foryou #fyp #viral #football.
+  Find top christian TikTok influencers in Switzerland in 2022. Most popular hashtags: #foryou #fyp #viral #football.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Spain In 2021
+title: Top 10 Nutrition TikTok Influencers In Spain In 2022
 description: >-
-  Find top nutrition TikTok influencers in Spain in 2021. Most popular hashtags: #nutricion #dieta #salud #perderpeso.
+  Find top nutrition TikTok influencers in Spain in 2022. Most popular hashtags: #nutricion #dieta #salud #perderpeso.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok profiles on inBeat.

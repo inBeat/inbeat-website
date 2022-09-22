@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Madrid In 2021
+title: Top 10 Health Instagram Influencers In Madrid In 2022
 description: >-
-  Find top health Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #picoftheday #health #summer.
+  Find top health Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #picoftheday #health #summer.
 platform: Instagram
 hits: 87
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       TANIA RODRÍGUEZ
     bio: >-
-      Miss Gold Madrid 2021 Rumbo a @missgoldspain 💫
+      Miss Gold Madrid 2022 Rumbo a @missgoldspain 💫
     location: "Spain"
     followers: 10477
     engagement: 522

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In New York In 2021
+title: Top 10 Stylists Instagram Influencers In New York In 2022
 description: >-
-  Find top stylists Instagram influencers in New York in 2021. Most popular hashtags: #newyork #stylist #losangeles.
+  Find top stylists Instagram influencers in New York in 2022. Most popular hashtags: #newyork #stylist #losangeles.
 platform: Instagram
 hits: 236
 text_top: Analyze the top-rated Instagram profiles on inBeat.

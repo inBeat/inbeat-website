@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Argentina In 2021
+title: Top 10 Photographers TikTok Influencers In Argentina In 2022
 description: >-
-  Find top photographers TikTok influencers in Argentina in 2021. Most popular hashtags: #fyp #parati #photographer #foryou.
+  Find top photographers TikTok influencers in Argentina in 2022. Most popular hashtags: #fyp #parati #photographer #foryou.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok accounts on inBeat.

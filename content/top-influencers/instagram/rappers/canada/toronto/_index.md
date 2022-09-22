@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Toronto In 2021
+title: Top 10 Rappers Instagram Influencers In Toronto In 2022
 description: >-
-  Find top rappers Instagram influencers in Toronto in 2021. Most popular hashtags: #hiphop #rapper #music #rap.
+  Find top rappers Instagram influencers in Toronto in 2022. Most popular hashtags: #hiphop #rapper #music #rap.
 platform: Instagram
 hits: 9
 text_top: Analyze the most popular Instagram influencers on inBeat.

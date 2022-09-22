@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Sydney In 2021
+title: Top 10 Gardening Instagram Influencers In Sydney In 2022
 description: >-
-  Find top gardening Instagram influencers in Sydney in 2021. Most popular hashtags: #gardening #australia #garden #sydney.
+  Find top gardening Instagram influencers in Sydney in 2022. Most popular hashtags: #gardening #australia #garden #sydney.
 platform: Instagram
 hits: 9
 text_top: Analyze the best Instagram profiles on inBeat.

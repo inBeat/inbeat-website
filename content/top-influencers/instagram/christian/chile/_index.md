@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Chile In 2021
+title: Top 10 Christian Instagram Influencers In Chile In 2022
 description: >-
-  Find top christian Instagram influencers in Chile in 2021. Most popular hashtags: #tbt #chile #love #nature.
+  Find top christian Instagram influencers in Chile in 2022. Most popular hashtags: #tbt #chile #love #nature.
 platform: Instagram
 hits: 48
 text_top: Identify the most popular Instagram profiles on inBeat.

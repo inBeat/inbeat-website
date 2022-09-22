@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In France In 2021
+title: Top 10 Cosmetics Instagram Influencers In France In 2022
 description: >-
-  Find top cosmetics Instagram influencers in France in 2021. Most popular hashtags: #cosmetics #giveaway #love.
+  Find top cosmetics Instagram influencers in France in 2022. Most popular hashtags: #cosmetics #giveaway #love.
 platform: Instagram
 hits: 314
 text_top: Identify the top-rated Instagram profiles on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       𝗟𝗔𝗗𝗬 𝗚𝗔𝗚𝗔 𝗙𝗔𝗡𝗣𝗔𝗚𝗘
     bio: >-
-      ⚔️ New Album | Chromatica | Out Now 💄 Cosmetics | Haus Laboratories | Available Now 🔮 Concert | Chromatica Ball Tour | Summer 2021
+      ⚔️ New Album | Chromatica | Out Now 💄 Cosmetics | Haus Laboratories | Available Now 🔮 Concert | Chromatica Ball Tour | Summer 2022
     location: "France"
     followers: 32803
     engagement: 256

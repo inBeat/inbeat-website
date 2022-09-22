@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Germany In 2021
+title: Top 10 Bodybuilding TikTok Influencers In Germany In 2022
 description: >-
-  Find top bodybuilding TikTok influencers in Germany in 2021. Most popular hashtags: #bodybuilding #foryou #fitness #training.
+  Find top bodybuilding TikTok influencers in Germany in 2022. Most popular hashtags: #bodybuilding #foryou #fitness #training.
 platform: TikTok
 hits: 17
 text_top: Analyze the top-rated TikTok profiles on inBeat.

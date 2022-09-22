@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In South Korea In 2021
+title: Top 10 Hypebeast Instagram Influencers In South Korea In 2022
 description: >-
-  Find top hypebeast Instagram influencers in South Korea in 2021. Most popular hashtags: #hypebeast #instafashion #ootd #streetfashion.
+  Find top hypebeast Instagram influencers in South Korea in 2022. Most popular hashtags: #hypebeast #instafashion #ootd #streetfashion.
 platform: Instagram
 hits: 11
 text_top: Analyze the top-rated Instagram accounts on inBeat.

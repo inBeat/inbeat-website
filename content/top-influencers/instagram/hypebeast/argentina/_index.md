@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Argentina In 2021
+title: Top 10 Hypebeast Instagram Influencers In Argentina In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Argentina in 2021. Most popular hashtags: #hypebeast #buenosaires #photography #ig.
+  Find top hypebeast Instagram influencers in Argentina in 2022. Most popular hashtags: #hypebeast #buenosaires #photography #ig.
 platform: Instagram
 hits: 11
 text_top: Discover the top-rated Instagram influencers on inBeat.

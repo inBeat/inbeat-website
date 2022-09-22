@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Canada In 2021
+title: Top 10 Vegan TikTok Influencers In Canada In 2022
 description: >-
-  Find top vegan TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
+  Find top vegan TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
 platform: TikTok
 hits: 128
 text_top: Identify the top-rated TikTok accounts on inBeat.

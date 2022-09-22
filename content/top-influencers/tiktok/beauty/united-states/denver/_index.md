@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Denver In 2021
+title: Top 10 Beauty TikTok Influencers In Denver In 2022
 description: >-
-  Find top beauty TikTok influencers in Denver in 2021. Most popular hashtags: #fyp #beauty #foryou #viral.
+  Find top beauty TikTok influencers in Denver in 2022. Most popular hashtags: #fyp #beauty #foryou #viral.
 platform: TikTok
 hits: 8
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Izmir In 2021
+title: Top 10 Models Instagram Influencers In Izmir In 2022
 description: >-
-  Find top models Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #model #istanbul #photo.
+  Find top models Instagram influencers in Izmir in 2022. Most popular hashtags: #izmir #model #istanbul #photo.
 platform: Instagram
 hits: 59
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Italy In 2021
+title: Top 10 Djs Instagram Influencers In Italy In 2022
 description: >-
-  Find top djs Instagram influencers in Italy in 2021. Most popular hashtags: #dj #italy #music.
+  Find top djs Instagram influencers in Italy in 2022. Most popular hashtags: #dj #italy #music.
 platform: Instagram
 hits: 123
 text_top: Discover the best Instagram accounts on inBeat.

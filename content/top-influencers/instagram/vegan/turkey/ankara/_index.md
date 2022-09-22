@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Ankara In 2021
+title: Top 10 Vegan Instagram Influencers In Ankara In 2022
 description: >-
-  Find top vegan Instagram influencers in Ankara in 2021. Most popular hashtags: #ankara #vegan #istanbul #sa.
+  Find top vegan Instagram influencers in Ankara in 2022. Most popular hashtags: #ankara #vegan #istanbul #sa.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram profiles on inBeat.

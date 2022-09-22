@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Las Vegas In 2021
+title: Top 10 Gaming TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top gaming TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #gaming #foryou #lasvegas.
+  Find top gaming TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #gaming #foryou #lasvegas.
 platform: TikTok
 hits: 10
 text_top: Discover the best TikTok influencers on inBeat.

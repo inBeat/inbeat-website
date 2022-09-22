@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In France In 2021
+title: Top 10 Beauty TikTok Influencers In France In 2022
 description: >-
-  Find top beauty TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #makeup #love.
+  Find top beauty TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #makeup #love.
 platform: TikTok
 hits: 266
 text_top: Analyze the most popular TikTok profiles on inBeat.

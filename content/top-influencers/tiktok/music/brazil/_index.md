@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Brazil In 2021
+title: Top 10 Music TikTok Influencers In Brazil In 2022
 description: >-
-  Find top music TikTok influencers in Brazil in 2021. Most popular hashtags: #foryou #foryoupage #dueto #comedia.
+  Find top music TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #foryoupage #dueto #comedia.
 platform: TikTok
 hits: 846
 text_top: Identify the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In India In 2021
+title: Top 10 Guitar TikTok Influencers In India In 2022
 description: >-
-  Find top guitar TikTok influencers in India in 2021. Most popular hashtags: #foryou #guitar #fyp #edutok.
+  Find top guitar TikTok influencers in India in 2022. Most popular hashtags: #foryou #guitar #fyp #edutok.
 platform: TikTok
 hits: 66
 text_top: See the top-rated TikTok influencers on inBeat.

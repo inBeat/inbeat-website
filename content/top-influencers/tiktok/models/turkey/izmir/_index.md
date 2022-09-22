@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Izmir In 2021
+title: Top 10 Models TikTok Influencers In Izmir In 2022
 description: >-
-  Find top models TikTok influencers in Izmir in 2021. Most popular hashtags: #ke #tiktok #opposelfie #izmir.
+  Find top models TikTok influencers in Izmir in 2022. Most popular hashtags: #ke #tiktok #opposelfie #izmir.
 platform: TikTok
 hits: 4
 text_top: Analyze the most popular TikTok influencers on inBeat.

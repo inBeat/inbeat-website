@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Turkey In 2021
+title: Top 10 Athletes Instagram Influencers In Turkey In 2022
 description: >-
-  Find top athletes Instagram influencers in Turkey in 2021. Most popular hashtags: #evdekal #mustafakemalatat #corona.
+  Find top athletes Instagram influencers in Turkey in 2022. Most popular hashtags: #evdekal #mustafakemalatat #corona.
 platform: Instagram
 hits: 57
 text_top: Analyze the best Instagram profiles on inBeat.

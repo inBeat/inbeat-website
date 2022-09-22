@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Health Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top health Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #yoga #mydubai #healthyfood #dubai.
+  Find top health Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #yoga #mydubai #healthyfood #dubai.
 platform: Instagram
 hits: 150
 text_top: See the best Instagram accounts on inBeat.

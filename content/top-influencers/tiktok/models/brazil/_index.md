@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Brazil In 2021
+title: Top 10 Models TikTok Influencers In Brazil In 2022
 description: >-
-  Find top models TikTok influencers in Brazil in 2021. Most popular hashtags: #foryou #fyp #fy #foryoupage.
+  Find top models TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #fyp #fy #foryoupage.
 platform: TikTok
 hits: 144
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Brazil In 2021
+title: Top 10 Lifestyle TikTok Influencers In Brazil In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Brazil in 2021. Most popular hashtags: #foryou #foryoupage #fyp #trend.
+  Find top lifestyle TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #foryoupage #fyp #trend.
 platform: TikTok
 hits: 67
 text_top: Discover the best TikTok accounts on inBeat.

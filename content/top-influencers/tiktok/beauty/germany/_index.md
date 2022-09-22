@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Germany In 2021
+title: Top 10 Beauty TikTok Influencers In Germany In 2022
 description: >-
-  Find top beauty TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #duett #eswirdbunt #viral.
+  Find top beauty TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #duett #eswirdbunt #viral.
 platform: TikTok
 hits: 330
 text_top: See the top-rated TikTok accounts on inBeat.

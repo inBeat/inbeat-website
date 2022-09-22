@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Poland In 2021
+title: Top 10 Gymnasts Instagram Influencers In Poland In 2022
 description: >-
-  Find top gymnasts Instagram influencers in Poland in 2021. Most popular hashtags: #gymnastics #flexibility #poledance #split.
+  Find top gymnasts Instagram influencers in Poland in 2022. Most popular hashtags: #gymnastics #flexibility #poledance #split.
 platform: Instagram
 hits: 51
 text_top: Discover the top-rated Instagram accounts on inBeat.

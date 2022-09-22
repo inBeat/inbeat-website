@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Japan In 2021
+title: Top 10 Illustrators Instagram Influencers In Japan In 2022
 description: >-
-  Find top illustrators Instagram influencers in Japan in 2021. Most popular hashtags: #halloween #illustration #stayhome.
+  Find top illustrators Instagram influencers in Japan in 2022. Most popular hashtags: #halloween #illustration #stayhome.
 platform: Instagram
 hits: 133
 text_top: Discover the most popular Instagram accounts on inBeat.

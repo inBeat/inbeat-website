@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Denver In 2021
+title: Top 10 Models Instagram Influencers In Denver In 2022
 description: >-
-  Find top models Instagram influencers in Denver in 2021. Most popular hashtags: #model #love #colorado #denver.
+  Find top models Instagram influencers in Denver in 2022. Most popular hashtags: #model #love #colorado #denver.
 platform: Instagram
 hits: 84
 text_top: Identify the most popular Instagram accounts on inBeat.

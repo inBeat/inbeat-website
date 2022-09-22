@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In 2021
+title: Top 10 Gaming TikTok Influencers In 2022
 description: >-
-  Find top gaming TikTok influencers in 2021. Most popular hashtags: #gaming #fyp #duet #gamer.
+  Find top gaming TikTok influencers in 2022. Most popular hashtags: #gaming #fyp #duet #gamer.
 platform: TikTok
 hits: 8622
 text_top: Identify the most popular TikTok influencers on inBeat.

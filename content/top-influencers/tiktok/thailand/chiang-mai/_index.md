@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Chiang Mai In 2021
+title: Top 10 TikTok Influencers In Chiang Mai In 2022
 description: >-
-  Find top TikTok influencers in Chiang Mai in 2021. Most popular hashtags: #chiangmai #thailand #foryou #fyp.
+  Find top TikTok influencers in Chiang Mai in 2022. Most popular hashtags: #chiangmai #thailand #foryou #fyp.
 platform: TikTok
 hits: 20
 text_top: Identify the most popular TikTok accounts on inBeat.

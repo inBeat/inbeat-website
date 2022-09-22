@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Portugal In 2021
+title: Top 10 Photographers Instagram Influencers In Portugal In 2022
 description: >-
-  Find top photographers Instagram influencers in Portugal in 2021. Most popular hashtags: #portugal #amar #unlimitedportugal.
+  Find top photographers Instagram influencers in Portugal in 2022. Most popular hashtags: #portugal #amar #unlimitedportugal.
 platform: Instagram
 hits: 116
 text_top: See the top-rated Instagram accounts on inBeat.

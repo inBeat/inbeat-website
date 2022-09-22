@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Canada In 2021
+title: Top 10 Gaming TikTok Influencers In Canada In 2022
 description: >-
-  Find top gaming TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
+  Find top gaming TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
 hits: 607
 text_top: Analyze the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In 2021
+title: Top 10 Skincare Instagram Influencers In 2022
 description: >-
-  Find top skincare Instagram influencers in 2021. Most popular hashtags: #skincare #skincareroutine #fashionblogger.
+  Find top skincare Instagram influencers in 2022. Most popular hashtags: #skincare #skincareroutine #fashionblogger.
 platform: Instagram
 hits: 13288
 text_top: Analyze the top-rated Instagram influencers on inBeat.

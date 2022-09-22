@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2021
+title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Tokyo in 2021. Most popular hashtags: #pr #stayhome #fashion #cosmetics.
+  Find top cosmetics Instagram influencers in Tokyo in 2022. Most popular hashtags: #pr #stayhome #fashion #cosmetics.
 platform: Instagram
 hits: 62
 text_top: Identify the most popular Instagram accounts on inBeat.

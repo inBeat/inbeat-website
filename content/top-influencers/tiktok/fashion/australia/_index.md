@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Australia In 2021
+title: Top 10 Fashion TikTok Influencers In Australia In 2022
 description: >-
-  Find top fashion TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #fashion #duet.
+  Find top fashion TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #fashion #duet.
 platform: TikTok
 hits: 382
 text_top: Analyze the top-rated TikTok profiles on inBeat.

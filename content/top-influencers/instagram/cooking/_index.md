@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In 2021
+title: Top 10 Cooking Instagram Influencers In 2022
 description: >-
-  Find top cooking Instagram influencers in 2021. Most popular hashtags: #ootd #hunting #food.
+  Find top cooking Instagram influencers in 2022. Most popular hashtags: #ootd #hunting #food.
 platform: Instagram
 hits: 7182
 text_top: Identify the top-rated Instagram accounts on inBeat.

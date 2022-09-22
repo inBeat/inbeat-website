@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Philadelphia In 2021
+title: Top 10 Health TikTok Influencers In Philadelphia In 2022
 description: >-
-  Find top health TikTok influencers in Philadelphia in 2021. Most popular hashtags: #fyp #foryou #foryoupage #philadelphia.
+  Find top health TikTok influencers in Philadelphia in 2022. Most popular hashtags: #fyp #foryou #foryoupage #philadelphia.
 platform: TikTok
 hits: 6
 text_top: See the best TikTok profiles on inBeat.

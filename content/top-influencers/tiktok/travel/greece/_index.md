@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Greece In 2021
+title: Top 10 Travel TikTok Influencers In Greece In 2022
 description: >-
-  Find top travel TikTok influencers in Greece in 2021. Most popular hashtags: #travel #greece #foryou #fyp.
+  Find top travel TikTok influencers in Greece in 2022. Most popular hashtags: #travel #greece #foryou #fyp.
 platform: TikTok
 hits: 12
 text_top: Discover the most popular TikTok influencers on inBeat.

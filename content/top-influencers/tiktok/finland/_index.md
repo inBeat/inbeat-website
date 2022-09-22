@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Finland In 2021
+title: Top 10 TikTok Influencers In Finland In 2022
 description: >-
-  Find top TikTok influencers in Finland in 2021. Most popular hashtags: #foryou #foryoupage #fry.
+  Find top TikTok influencers in Finland in 2022. Most popular hashtags: #foryou #foryoupage #fry.
 platform: TikTok
 hits: 319
 text_top: See the best TikTok influencers on inBeat.

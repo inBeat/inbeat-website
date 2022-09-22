@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Austria In 2021
+title: Top 10 Food Instagram Influencers In Austria In 2022
 description: >-
-  Find top food Instagram influencers in Austria in 2021. Most popular hashtags: #austria #vienna #fitnessmotivation #fitness.
+  Find top food Instagram influencers in Austria in 2022. Most popular hashtags: #austria #vienna #fitnessmotivation #fitness.
 platform: Instagram
 hits: 165
 text_top: Discover the best Instagram influencers on inBeat.

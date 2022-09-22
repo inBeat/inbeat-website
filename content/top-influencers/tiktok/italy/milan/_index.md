@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Milan In 2021
+title: Top 10 TikTok Influencers In Milan In 2022
 description: >-
-  Find top TikTok influencers in Milan in 2021. Most popular hashtags: #perte #duetto #italy #foryou.
+  Find top TikTok influencers in Milan in 2022. Most popular hashtags: #perte #duetto #italy #foryou.
 platform: TikTok
 hits: 273
 text_top: Analyze the best TikTok profiles on inBeat.
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
   - username: "_samuelecaldera_"
     fullname: >-
       🌪️

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Canada In 2021
+title: Top 10 Models TikTok Influencers In Canada In 2022
 description: >-
-  Find top models TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top models TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 207
 text_top: Analyze the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Argentina In 2021
+title: Top 10 Comedians TikTok Influencers In Argentina In 2022
 description: >-
-  Find top comedians TikTok influencers in Argentina in 2021. Most popular hashtags: #comedia #parati #humor #cuarentena.
+  Find top comedians TikTok influencers in Argentina in 2022. Most popular hashtags: #comedia #parati #humor #cuarentena.
 platform: TikTok
 hits: 314
 text_top: See the best TikTok influencers on inBeat.

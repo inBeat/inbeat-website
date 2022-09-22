@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In New York In 2021
+title: Top 10 Beauty Instagram Influencers In New York In 2022
 description: >-
-  Find top beauty Instagram influencers in New York in 2021. Most popular hashtags: #beauty #newyork #fashion #nature.
+  Find top beauty Instagram influencers in New York in 2022. Most popular hashtags: #beauty #newyork #fashion #nature.
 platform: Instagram
 hits: 804
 text_top: Discover the best Instagram profiles on inBeat.

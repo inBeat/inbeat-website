@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Russia In 2021
+title: Top 10 Cooking TikTok Influencers In Russia In 2022
 description: >-
-  Find top cooking TikTok influencers in Russia in 2021. Most popular hashtags: #cooking #food #foryou #recommendations.
+  Find top cooking TikTok influencers in Russia in 2022. Most popular hashtags: #cooking #food #foryou #recommendations.
 platform: TikTok
 hits: 21
 text_top: Identify the best TikTok profiles on inBeat.

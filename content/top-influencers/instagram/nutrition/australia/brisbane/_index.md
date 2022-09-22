@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Brisbane In 2021
+title: Top 10 Nutrition Instagram Influencers In Brisbane In 2022
 description: >-
-  Find top nutrition Instagram influencers in Brisbane in 2021. Most popular hashtags: #nutrition #brisbane #instagood #health.
+  Find top nutrition Instagram influencers in Brisbane in 2022. Most popular hashtags: #nutrition #brisbane #instagood #health.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram accounts on inBeat.

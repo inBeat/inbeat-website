@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Poland In 2021
+title: Top 10 Boxers Instagram Influencers In Poland In 2022
 description: >-
-  Find top boxers Instagram influencers in Poland in 2021. Most popular hashtags: #boxerdog #dogstagram #boxerworld.
+  Find top boxers Instagram influencers in Poland in 2022. Most popular hashtags: #boxerdog #dogstagram #boxerworld.
 platform: Instagram
 hits: 9
 text_top: Discover the most popular Instagram accounts on inBeat.

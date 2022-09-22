@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Madrid In 2021
+title: Top 10 Models TikTok Influencers In Madrid In 2022
 description: >-
-  Find top models TikTok influencers in Madrid in 2021. Most popular hashtags: #viral #fyp #parati #madrid.
+  Find top models TikTok influencers in Madrid in 2022. Most popular hashtags: #viral #fyp #parati #madrid.
 platform: TikTok
 hits: 14
 text_top: Discover the best TikTok accounts on inBeat.

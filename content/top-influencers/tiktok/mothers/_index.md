@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In 2021
+title: Top 10 Mothers TikTok Influencers In 2022
 description: >-
-  Find top mothers TikTok influencers in 2021. Most popular hashtags: #fyp #duet #funny #haikyuu.
+  Find top mothers TikTok influencers in 2022. Most popular hashtags: #fyp #duet #funny #haikyuu.
 platform: TikTok
 hits: 5332
 text_top: Identify the top-rated TikTok profiles on inBeat.

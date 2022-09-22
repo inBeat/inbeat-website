@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Turkey In 2021
+title: Top 10 Gardening Instagram Influencers In Turkey In 2022
 description: >-
-  Find top gardening Instagram influencers in Turkey in 2021. Most popular hashtags: #gardening #garden #instagood #flowers.
+  Find top gardening Instagram influencers in Turkey in 2022. Most popular hashtags: #gardening #garden #instagood #flowers.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram profiles on inBeat.

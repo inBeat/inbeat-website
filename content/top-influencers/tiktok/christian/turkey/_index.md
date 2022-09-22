@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Turkey In 2021
+title: Top 10 Christian TikTok Influencers In Turkey In 2022
 description: >-
-  Find top christian TikTok influencers in Turkey in 2021. Most popular hashtags: #ke #cristiano #foryou #foryoupage.
+  Find top christian TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #cristiano #foryou #foryoupage.
 platform: TikTok
 hits: 11
 text_top: See the best TikTok influencers on inBeat.

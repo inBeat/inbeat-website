@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In San Francisco In 2021
+title: Top 10 Models TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top models TikTok influencers in San Francisco in 2021. Most popular hashtags: #fyp #sanfrancisco #foryou #viral.
+  Find top models TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #sanfrancisco #foryou #viral.
 platform: TikTok
 hits: 10
 text_top: See the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In United Kingdom In 2021
+title: Top 10 Pole Dancers Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top pole dancers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #poledance #poledancer #flexibility #dance.
+  Find top pole dancers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #poledance #poledancer #flexibility #dance.
 platform: Instagram
 hits: 17
 text_top: See the top-rated Instagram influencers on inBeat.

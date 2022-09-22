@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Chiang Mai In 2021
+title: Top 10 Travel Instagram Influencers In Chiang Mai In 2022
 description: >-
-  Find top travel Instagram influencers in Chiang Mai in 2021. Most popular hashtags: #thailand #travel #bangkok #travelphotography.
+  Find top travel Instagram influencers in Chiang Mai in 2022. Most popular hashtags: #thailand #travel #bangkok #travelphotography.
 platform: Instagram
 hits: 8
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Seattle In 2021
+title: Top 10 Food Instagram Influencers In Seattle In 2022
 description: >-
-  Find top food Instagram influencers in Seattle in 2021. Most popular hashtags: #seattlefood #seattlefoodie #foodie.
+  Find top food Instagram influencers in Seattle in 2022. Most popular hashtags: #seattlefood #seattlefoodie #foodie.
 platform: Instagram
 hits: 92
 text_top: See the best Instagram influencers on inBeat.

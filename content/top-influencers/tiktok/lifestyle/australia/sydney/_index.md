@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Sydney In 2021
+title: Top 10 Lifestyle TikTok Influencers In Sydney In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Sydney in 2021. Most popular hashtags: #fyp #foryou #foryoupage #sydney.
+  Find top lifestyle TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #foryoupage #sydney.
 platform: TikTok
 hits: 4
 text_top: Identify the most popular TikTok influencers on inBeat.

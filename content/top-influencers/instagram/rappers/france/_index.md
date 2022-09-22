@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In France In 2021
+title: Top 10 Rappers Instagram Influencers In France In 2022
 description: >-
-  Find top rappers Instagram influencers in France in 2021. Most popular hashtags: #blink #lisa #blackpink.
+  Find top rappers Instagram influencers in France in 2022. Most popular hashtags: #blink #lisa #blackpink.
 platform: Instagram
 hits: 79
 text_top: Identify the top-rated Instagram profiles on inBeat.

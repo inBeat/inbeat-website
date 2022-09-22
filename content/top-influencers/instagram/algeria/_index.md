@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Algeria In 2021
+title: Top 10 Instagram Influencers In Algeria In 2022
 description: >-
-  Find top Instagram influencers in Algeria in 2021. Most popular hashtags: #algeria #algerie #oran.
+  Find top Instagram influencers in Algeria in 2022. Most popular hashtags: #algeria #algerie #oran.
 platform: Instagram
 hits: 39
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2021
+title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #aesthetic #zurich.
+  Find top lifestyle Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #aesthetic #zurich.
 platform: Instagram
 hits: 233
 text_top: Discover the best Instagram accounts on inBeat.

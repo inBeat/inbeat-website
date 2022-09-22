@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Lisbon In 2021
+title: Top 10 Instagram Influencers In Lisbon In 2022
 description: >-
-  Find top Instagram influencers in Lisbon in 2021. Most popular hashtags: #fashion #travel #outfitoftheday #love.
+  Find top Instagram influencers in Lisbon in 2022. Most popular hashtags: #fashion #travel #outfitoftheday #love.
 platform: Instagram
 hits: 410
 text_top: Discover the most popular Instagram accounts on inBeat.

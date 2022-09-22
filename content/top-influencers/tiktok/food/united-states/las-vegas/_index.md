@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Las Vegas In 2021
+title: Top 10 Food TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top food TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #lasvegas #food #foryou.
+  Find top food TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #lasvegas #food #foryou.
 platform: TikTok
 hits: 67
 text_top: See the best TikTok accounts on inBeat.

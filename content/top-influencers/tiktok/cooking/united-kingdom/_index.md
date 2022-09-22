@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United Kingdom In 2021
+title: Top 10 Cooking TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top cooking TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #foryoupage #foryou #food.
+  Find top cooking TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryoupage #foryou #food.
 platform: TikTok
 hits: 299
 text_top: Discover the best TikTok influencers on inBeat.

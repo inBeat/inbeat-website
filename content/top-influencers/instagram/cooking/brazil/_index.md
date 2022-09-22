@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Brazil In 2021
+title: Top 10 Cooking Instagram Influencers In Brazil In 2022
 description: >-
-  Find top cooking Instagram influencers in Brazil in 2021. Most popular hashtags: #food #receita #receitas.
+  Find top cooking Instagram influencers in Brazil in 2022. Most popular hashtags: #food #receita #receitas.
 platform: Instagram
 hits: 381
 text_top: Discover the top-rated Instagram accounts on inBeat.

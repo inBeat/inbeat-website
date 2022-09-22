@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Osaka In 2021
+title: Top 10 Fashion Instagram Influencers In Osaka In 2022
 description: >-
-  Find top fashion Instagram influencers in Osaka in 2021. Most popular hashtags: #fashion #ootd #code #osaka.
+  Find top fashion Instagram influencers in Osaka in 2022. Most popular hashtags: #fashion #ootd #code #osaka.
 platform: Instagram
 hits: 96
 text_top: Identify the top-rated Instagram influencers on inBeat.

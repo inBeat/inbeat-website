@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In India In 2021
+title: Top 10 Fashion Instagram Influencers In India In 2022
 description: >-
-  Find top fashion Instagram influencers in India in 2021. Most popular hashtags: #model #fashionstyle #instagood.
+  Find top fashion Instagram influencers in India in 2022. Most popular hashtags: #model #fashionstyle #instagood.
 platform: Instagram
 hits: 5908
 text_top: See the best Instagram influencers on inBeat.

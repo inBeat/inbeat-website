@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Manchester In 2021
+title: Top 10 Lifestyle Instagram Influencers In Manchester In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Manchester in 2021. Most popular hashtags: #lifestyle #fashion #manchester #instagood.
+  Find top lifestyle Instagram influencers in Manchester in 2022. Most popular hashtags: #lifestyle #fashion #manchester #instagood.
 platform: Instagram
 hits: 55
 text_top: Discover the most popular Instagram profiles on inBeat.

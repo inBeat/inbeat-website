@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Tokyo In 2021
+title: Top 10 Nutrition Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top nutrition Instagram influencers in Tokyo in 2021. Most popular hashtags: #tokyo #fitness #japan.
+  Find top nutrition Instagram influencers in Tokyo in 2022. Most popular hashtags: #tokyo #fitness #japan.
 platform: Instagram
 hits: 5
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Los Angeles In 2021
+title: Top 10 Gaming Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top gaming Instagram influencers in Los Angeles in 2021. Most popular hashtags: #gaming #losangeles #stayhome.
+  Find top gaming Instagram influencers in Los Angeles in 2022. Most popular hashtags: #gaming #losangeles #stayhome.
 platform: Instagram
 hits: 60
 text_top: Analyze the best Instagram influencers on inBeat.

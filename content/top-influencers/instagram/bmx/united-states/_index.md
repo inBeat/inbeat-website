@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In United States In 2021
+title: Top 10 Bmx Instagram Influencers In United States In 2022
 description: >-
-  Find top bmx Instagram influencers in United States in 2021. Most popular hashtags: #bmx #bikes #bikelife #bmxlife.
+  Find top bmx Instagram influencers in United States in 2022. Most popular hashtags: #bmx #bikes #bikelife #bmxlife.
 platform: Instagram
 hits: 545
 text_top: Discover the top-rated Instagram influencers on inBeat.

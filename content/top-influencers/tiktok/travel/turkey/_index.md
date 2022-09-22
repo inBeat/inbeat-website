@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Turkey In 2021
+title: Top 10 Travel TikTok Influencers In Turkey In 2022
 description: >-
-  Find top travel TikTok influencers in Turkey in 2021. Most popular hashtags: #travel #seyahat #turkey #ke.
+  Find top travel TikTok influencers in Turkey in 2022. Most popular hashtags: #travel #seyahat #turkey #ke.
 platform: TikTok
 hits: 50
 text_top: Identify the top-rated TikTok accounts on inBeat.

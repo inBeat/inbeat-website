@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Spain In 2021
+title: Top 10 Djs Instagram Influencers In Spain In 2022
 description: >-
-  Find top djs Instagram influencers in Spain in 2021. Most popular hashtags: #housemusic #djlife #dj.
+  Find top djs Instagram influencers in Spain in 2022. Most popular hashtags: #housemusic #djlife #dj.
 platform: Instagram
 hits: 83
 text_top: Analyze the top-rated Instagram influencers on inBeat.

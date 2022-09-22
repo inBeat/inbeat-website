@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Germany In 2021
+title: Top 10 Vegan TikTok Influencers In Germany In 2022
 description: >-
-  Find top vegan TikTok influencers in Germany in 2021. Most popular hashtags: #vegan #foryou #fyp #foryoupage.
+  Find top vegan TikTok influencers in Germany in 2022. Most popular hashtags: #vegan #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 72
 text_top: Identify the most popular TikTok accounts on inBeat.

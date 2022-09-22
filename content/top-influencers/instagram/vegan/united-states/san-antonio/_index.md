@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Antonio In 2021
+title: Top 10 Vegan Instagram Influencers In San Antonio In 2022
 description: >-
-  Find top vegan Instagram influencers in San Antonio in 2021. Most popular hashtags: #happy #sanantonio #travel.
+  Find top vegan Instagram influencers in San Antonio in 2022. Most popular hashtags: #happy #sanantonio #travel.
 platform: Instagram
 hits: 5
 text_top: Analyze the most popular Instagram accounts on inBeat.

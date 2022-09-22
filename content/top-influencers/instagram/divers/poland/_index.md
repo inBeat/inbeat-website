@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Poland In 2021
+title: Top 10 Divers Instagram Influencers In Poland In 2022
 description: >-
-  Find top divers Instagram influencers in Poland in 2021. Most popular hashtags: #love #diver #polska #model.
+  Find top divers Instagram influencers in Poland in 2022. Most popular hashtags: #love #diver #polska #model.
 platform: Instagram
 hits: 20
 text_top: Discover the most popular Instagram profiles on inBeat.

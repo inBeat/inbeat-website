@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United States In 2021
+title: Top 10 Nutrition Instagram Influencers In United States In 2022
 description: >-
-  Find top nutrition Instagram influencers in United States in 2021. Most popular hashtags: #fitnessmotivation #fitness #girlswholift.
+  Find top nutrition Instagram influencers in United States in 2022. Most popular hashtags: #fitnessmotivation #fitness #girlswholift.
 platform: Instagram
 hits: 2001
 text_top: Discover the top-rated Instagram accounts on inBeat.

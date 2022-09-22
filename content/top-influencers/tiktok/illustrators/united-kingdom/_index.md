@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In United Kingdom In 2021
+title: Top 10 Illustrators TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top illustrators TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #illustrator #foryoupage #foryou.
+  Find top illustrators TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #illustrator #foryoupage #foryou.
 platform: TikTok
 hits: 13
 text_top: Identify the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Russia In 2021
+title: Top 10 Wellness Instagram Influencers In Russia In 2022
 description: >-
-  Find top wellness Instagram influencers in Russia in 2021. Most popular hashtags: #wellness #love #bodybuilding.
+  Find top wellness Instagram influencers in Russia in 2022. Most popular hashtags: #wellness #love #bodybuilding.
 platform: Instagram
 hits: 62
 text_top: Analyze the most popular Instagram influencers on inBeat.

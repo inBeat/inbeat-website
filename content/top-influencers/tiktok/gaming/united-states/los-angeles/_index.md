@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Los Angeles In 2021
+title: Top 10 Gaming TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top gaming TikTok influencers in Los Angeles in 2021. Most popular hashtags: #gaming #fyp #losangeles #california.
+  Find top gaming TikTok influencers in Los Angeles in 2022. Most popular hashtags: #gaming #fyp #losangeles #california.
 platform: TikTok
 hits: 14
 text_top: See the best TikTok influencers on inBeat.

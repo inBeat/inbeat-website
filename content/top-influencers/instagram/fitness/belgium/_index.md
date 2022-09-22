@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Belgium In 2021
+title: Top 10 Fitness Instagram Influencers In Belgium In 2022
 description: >-
-  Find top fitness Instagram influencers in Belgium in 2021. Most popular hashtags: #fitness #outfitoftheday #motivation.
+  Find top fitness Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #outfitoftheday #motivation.
 platform: Instagram
 hits: 72
 text_top: Analyze the best Instagram influencers on inBeat.

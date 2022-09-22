@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In San Francisco In 2021
+title: Top 10 Food TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top food TikTok influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #food #foodie #fyp.
+  Find top food TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #food #foodie #fyp.
 platform: TikTok
 hits: 37
 text_top: Identify the most popular TikTok influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Mario
     bio: >-
-      Daily Vlog Eating hella vegan food ⬇️SS2021 Merch Available! ⬇️
+      Daily Vlog Eating hella vegan food ⬇️SS2022 Merch Available! ⬇️
     location: "United States"
     followers: 31200
     engagement: 983

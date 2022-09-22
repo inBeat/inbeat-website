@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Las Vegas In 2021
+title: Top 10 Rappers TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top rappers TikTok influencers in Las Vegas in 2021. Most popular hashtags: #foryou #fyp #foryoupage #viral.
+  Find top rappers TikTok influencers in Las Vegas in 2022. Most popular hashtags: #foryou #fyp #foryoupage #viral.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok accounts on inBeat.

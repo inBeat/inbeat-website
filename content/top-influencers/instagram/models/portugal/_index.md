@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Portugal In 2021
+title: Top 10 Models Instagram Influencers In Portugal In 2022
 description: >-
-  Find top models Instagram influencers in Portugal in 2021. Most popular hashtags: #ootd #happy #smile.
+  Find top models Instagram influencers in Portugal in 2022. Most popular hashtags: #ootd #happy #smile.
 platform: Instagram
 hits: 99
 text_top: Discover the top-rated Instagram profiles on inBeat.

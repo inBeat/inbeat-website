@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Lisbon In 2021
+title: Top 10 Lifestyle Instagram Influencers In Lisbon In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Lisbon in 2021. Most popular hashtags: #ootd #outfitoftheday #lifestyle #outfitinspiration.
+  Find top lifestyle Instagram influencers in Lisbon in 2022. Most popular hashtags: #ootd #outfitoftheday #lifestyle #outfitinspiration.
 platform: Instagram
 hits: 73
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Malaysia In 2021
+title: Top 10 Dancers Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top dancers Instagram influencers in Malaysia in 2021. Most popular hashtags: #tiktok #dancer #throwback #malaysia.
+  Find top dancers Instagram influencers in Malaysia in 2022. Most popular hashtags: #tiktok #dancer #throwback #malaysia.
 platform: Instagram
 hits: 17
 text_top: Identify the most popular Instagram accounts on inBeat.

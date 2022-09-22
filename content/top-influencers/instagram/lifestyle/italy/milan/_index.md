@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Milan In 2021
+title: Top 10 Lifestyle Instagram Influencers In Milan In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Milan in 2021. Most popular hashtags: #lifestyle #milano #style #me.
+  Find top lifestyle Instagram influencers in Milan in 2022. Most popular hashtags: #lifestyle #milano #style #me.
 platform: Instagram
 hits: 317
 text_top: Identify the top-rated Instagram accounts on inBeat.

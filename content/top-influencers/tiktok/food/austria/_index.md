@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Austria In 2021
+title: Top 10 Food TikTok Influencers In Austria In 2022
 description: >-
-  Find top food TikTok influencers in Austria in 2021. Most popular hashtags: #food #foryou #fyp #vienna.
+  Find top food TikTok influencers in Austria in 2022. Most popular hashtags: #food #foryou #fyp #vienna.
 platform: TikTok
 hits: 44
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Sydney In 2021
+title: Top 10 Beauty TikTok Influencers In Sydney In 2022
 description: >-
-  Find top beauty TikTok influencers in Sydney in 2021. Most popular hashtags: #foryoupage #fyp #beauty #sydney.
+  Find top beauty TikTok influencers in Sydney in 2022. Most popular hashtags: #foryoupage #fyp #beauty #sydney.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok accounts on inBeat.

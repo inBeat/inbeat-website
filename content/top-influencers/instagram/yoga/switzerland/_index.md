@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Switzerland In 2021
+title: Top 10 Yoga Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top yoga Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #myswitzerland #yogateacher #nature.
+  Find top yoga Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #myswitzerland #yogateacher #nature.
 platform: Instagram
 hits: 77
 text_top: Discover the most popular Instagram profiles on inBeat.

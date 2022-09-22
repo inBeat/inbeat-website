@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Norway In 2021
+title: Top 10 Instagram Influencers In Norway In 2022
 description: >-
-  Find top Instagram influencers in Norway in 2021. Most popular hashtags: #fashion #style #streetwear.
+  Find top Instagram influencers in Norway in 2022. Most popular hashtags: #fashion #style #streetwear.
 platform: Instagram
 hits: 2229
 text_top: See the best Instagram accounts on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       Diyana Letensei🕊
     bio: >-
-      18, Verdal @petter_barstad❤️ @herskerinnen2021
+      18, Verdal @petter_barstad❤️ @herskerinnen2022
     location: "Norway"
     followers: 2353
     engagement: 2565

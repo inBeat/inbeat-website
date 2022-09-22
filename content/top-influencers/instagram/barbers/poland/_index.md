@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Poland In 2021
+title: Top 10 Barbers Instagram Influencers In Poland In 2022
 description: >-
-  Find top barbers Instagram influencers in Poland in 2021. Most popular hashtags: #barber #happy #black #polska.
+  Find top barbers Instagram influencers in Poland in 2022. Most popular hashtags: #barber #happy #black #polska.
 platform: Instagram
 hits: 34
 text_top: See the top-rated Instagram profiles on inBeat.

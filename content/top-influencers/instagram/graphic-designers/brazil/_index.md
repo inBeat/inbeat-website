@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Brazil In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Brazil In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Brazil in 2021. Most popular hashtags: #realismo #art #photoshop.
+  Find top graphic-designers Instagram influencers in Brazil in 2022. Most popular hashtags: #realismo #art #photoshop.
 platform: Instagram
 hits: 37
 text_top: Discover the top-rated Instagram accounts on inBeat.

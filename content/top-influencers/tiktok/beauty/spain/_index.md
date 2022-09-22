@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Spain In 2021
+title: Top 10 Beauty TikTok Influencers In Spain In 2022
 description: >-
-  Find top beauty TikTok influencers in Spain in 2021. Most popular hashtags: #beauty #fyp #viral #makeupartist.
+  Find top beauty TikTok influencers in Spain in 2022. Most popular hashtags: #beauty #fyp #viral #makeupartist.
 platform: TikTok
 hits: 78
 text_top: Discover the best TikTok influencers on inBeat.

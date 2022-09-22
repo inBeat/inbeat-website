@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Russia In 2021
+title: Top 10 Cooking Instagram Influencers In Russia In 2022
 description: >-
-  Find top cooking Instagram influencers in Russia in 2021. Most popular hashtags: #foodstagram #manicure #sourdoughchallah.
+  Find top cooking Instagram influencers in Russia in 2022. Most popular hashtags: #foodstagram #manicure #sourdoughchallah.
 platform: Instagram
 hits: 114
 text_top: Analyze the best Instagram profiles on inBeat.

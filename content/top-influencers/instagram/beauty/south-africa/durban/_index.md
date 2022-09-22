@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Durban In 2021
+title: Top 10 Beauty Instagram Influencers In Durban In 2022
 description: >-
-  Find top beauty Instagram influencers in Durban in 2021. Most popular hashtags: #beauty #southafrica #durban #lifestyle.
+  Find top beauty Instagram influencers in Durban in 2022. Most popular hashtags: #beauty #southafrica #durban #lifestyle.
 platform: Instagram
 hits: 16
 text_top: Analyze the top-rated Instagram profiles on inBeat.

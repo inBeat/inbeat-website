@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Spain In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Spain In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Spain in 2021. Most popular hashtags: #summer #nature #travelphotography #spain.
+  Find top graphic-designers Instagram influencers in Spain in 2022. Most popular hashtags: #summer #nature #travelphotography #spain.
 platform: Instagram
 hits: 35
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Morocco In 2021
+title: Top 10 TikTok Influencers In Morocco In 2022
 description: >-
-  Find top TikTok influencers in Morocco in 2021. Most popular hashtags: #fyp #foryou #bts #blink.
+  Find top TikTok influencers in Morocco in 2022. Most popular hashtags: #fyp #foryou #bts #blink.
 platform: TikTok
 hits: 428
 text_top: Analyze the top-rated TikTok accounts on inBeat.

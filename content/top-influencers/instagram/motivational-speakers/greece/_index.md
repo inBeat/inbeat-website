@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Greece In 2021
+title: Top 10 Motivational Speakers Instagram Influencers In Greece In 2022
 description: >-
-  Find top motivational speakers Instagram influencers in Greece in 2021. Most popular hashtags: #motivation #fitness #greece #photography.
+  Find top motivational speakers Instagram influencers in Greece in 2022. Most popular hashtags: #motivation #fitness #greece #photography.
 platform: Instagram
 hits: 11
 text_top: Identify the most popular Instagram influencers on inBeat.

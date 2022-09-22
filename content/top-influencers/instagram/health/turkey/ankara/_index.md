@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Ankara In 2021
+title: Top 10 Health Instagram Influencers In Ankara In 2022
 description: >-
-  Find top health Instagram influencers in Ankara in 2021. Most popular hashtags: #ankara #instagram #istanbul #health.
+  Find top health Instagram influencers in Ankara in 2022. Most popular hashtags: #ankara #instagram #istanbul #health.
 platform: Instagram
 hits: 16
 text_top: Discover the best Instagram influencers on inBeat.

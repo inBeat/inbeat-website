@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Berlin In 2021
+title: Top 10 Lifestyle Instagram Influencers In Berlin In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #lifestyle #happy #love.
+  Find top lifestyle Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #lifestyle #happy #love.
 platform: Instagram
 hits: 585
 text_top: Analyze the top-rated Instagram influencers on inBeat.

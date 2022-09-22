@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Russia In 2021
+title: Top 10 Models TikTok Influencers In Russia In 2022
 description: >-
-  Find top models TikTok influencers in Russia in 2021. Most popular hashtags: #model #modeling #fyp.
+  Find top models TikTok influencers in Russia in 2022. Most popular hashtags: #model #modeling #fyp.
 platform: TikTok
 hits: 31
 text_top: Identify the best TikTok accounts on inBeat.

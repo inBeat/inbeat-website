@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Japan In 2021
+title: Top 10 Chefs Instagram Influencers In Japan In 2022
 description: >-
-  Find top chefs Instagram influencers in Japan in 2021. Most popular hashtags: #japan #tokyo #sushi.
+  Find top chefs Instagram influencers in Japan in 2022. Most popular hashtags: #japan #tokyo #sushi.
 platform: Instagram
 hits: 39
 text_top: Discover the best Instagram accounts on inBeat.

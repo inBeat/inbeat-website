@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Ireland In 2021
+title: Top 10 Health TikTok Influencers In Ireland In 2022
 description: >-
-  Find top health TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #ireland #irish #foodie.
+  Find top health TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #ireland #irish #foodie.
 platform: TikTok
 hits: 29
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Malaysia In 2021
+title: Top 10 Food TikTok Influencers In Malaysia In 2022
 description: >-
-  Find top food TikTok influencers in Malaysia in 2021. Most popular hashtags: #food #tiktokfood #foodie #dessert.
+  Find top food TikTok influencers in Malaysia in 2022. Most popular hashtags: #food #tiktokfood #foodie #dessert.
 platform: TikTok
 hits: 28
 text_top: Identify the most popular TikTok accounts on inBeat.

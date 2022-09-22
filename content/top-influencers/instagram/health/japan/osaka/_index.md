@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Osaka In 2021
+title: Top 10 Health Instagram Influencers In Osaka In 2022
 description: >-
-  Find top health Instagram influencers in Osaka in 2021. Most popular hashtags: #fashion #beauty #osaka.
+  Find top health Instagram influencers in Osaka in 2022. Most popular hashtags: #fashion #beauty #osaka.
 platform: Instagram
 hits: 6
 text_top: Discover the most popular Instagram profiles on inBeat.

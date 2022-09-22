@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In San Diego In 2021
+title: Top 10 Food TikTok Influencers In San Diego In 2022
 description: >-
-  Find top food TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #food #sandiego #foryou.
+  Find top food TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #food #sandiego #foryou.
 platform: TikTok
 hits: 52
 text_top: Identify the top-rated TikTok influencers on inBeat.

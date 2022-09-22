@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United States In 2021
+title: Top 10 Yoga Instagram Influencers In United States In 2022
 description: >-
-  Find top yoga Instagram influencers in United States in 2021. Most popular hashtags: #yoga #yogaeveryday #yogavideo.
+  Find top yoga Instagram influencers in United States in 2022. Most popular hashtags: #yoga #yogaeveryday #yogavideo.
 platform: Instagram
 hits: 2778
 text_top: Analyze the best Instagram profiles on inBeat.

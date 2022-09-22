@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Ankara In 2021
+title: Top 10 TikTok Influencers In Ankara In 2022
 description: >-
-  Find top TikTok influencers in Ankara in 2021. Most popular hashtags: #ankara #ke #opposelfie #kesfet.
+  Find top TikTok influencers in Ankara in 2022. Most popular hashtags: #ankara #ke #opposelfie #kesfet.
 platform: TikTok
 hits: 332
 text_top: Analyze the most popular TikTok profiles on inBeat.

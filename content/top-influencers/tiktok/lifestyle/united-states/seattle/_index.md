@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Seattle In 2021
+title: Top 10 Lifestyle TikTok Influencers In Seattle In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Seattle in 2021. Most popular hashtags: #seattle #fyp #lifestyle #greenscreen.
+  Find top lifestyle TikTok influencers in Seattle in 2022. Most popular hashtags: #seattle #fyp #lifestyle #greenscreen.
 platform: TikTok
 hits: 15
 text_top: Identify the top-rated TikTok influencers on inBeat.

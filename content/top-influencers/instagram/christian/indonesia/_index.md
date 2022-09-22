@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Indonesia In 2021
+title: Top 10 Christian Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top christian Instagram influencers in Indonesia in 2021. Most popular hashtags: #dirumahaja #tiktok #africageographic.
+  Find top christian Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #tiktok #africageographic.
 platform: Instagram
 hits: 154
 text_top: Discover the best Instagram profiles on inBeat.
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.084052
     id: ck5qeiv2b0ph90i115lq1vpx7
     verified: true
-    hashtags: "#mommyandme, #tokyo2021, #teamadidas, #chichimama"
+    hashtags: "#mommyandme, #tokyo2022, #teamadidas, #chichimama"
   - username: "chindymariad"
     fullname: >-
       𝘾𝙝𝙞𝙣𝙙𝙮𝙢𝙖𝙧𝙞𝙖𝙙💙

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Belgium In 2021
+title: Top 10 Makeup Instagram Influencers In Belgium In 2022
 description: >-
-  Find top makeup Instagram influencers in Belgium in 2021. Most popular hashtags: #makeup #beauty #photography #portrait.
+  Find top makeup Instagram influencers in Belgium in 2022. Most popular hashtags: #makeup #beauty #photography #portrait.
 platform: Instagram
 hits: 96
 text_top: Analyze the top-rated Instagram influencers on inBeat.

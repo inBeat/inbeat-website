@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Austria In 2021
+title: Top 10 Gaming Instagram Influencers In Austria In 2022
 description: >-
-  Find top gaming Instagram influencers in Austria in 2021. Most popular hashtags: #gaming #austria #vienna #gamer.
+  Find top gaming Instagram influencers in Austria in 2022. Most popular hashtags: #gaming #austria #vienna #gamer.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram influencers on inBeat.

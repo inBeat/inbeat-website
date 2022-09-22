@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Colombia In 2021
+title: Top 10 Skincare Instagram Influencers In Colombia In 2022
 description: >-
-  Find top skincare Instagram influencers in Colombia in 2021. Most popular hashtags: #skincare #skin #makeup #skincareroutine.
+  Find top skincare Instagram influencers in Colombia in 2022. Most popular hashtags: #skincare #skin #makeup #skincareroutine.
 platform: Instagram
 hits: 45
 text_top: Discover the most popular Instagram influencers on inBeat.

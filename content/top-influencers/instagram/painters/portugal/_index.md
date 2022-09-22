@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Portugal In 2021
+title: Top 10 Painters Instagram Influencers In Portugal In 2022
 description: >-
-  Find top painters Instagram influencers in Portugal in 2021. Most popular hashtags: #artist #winsorandnewton #summer #emergingartist.
+  Find top painters Instagram influencers in Portugal in 2022. Most popular hashtags: #artist #winsorandnewton #summer #emergingartist.
 platform: Instagram
 hits: 17
 text_top: Discover the best Instagram profiles on inBeat.
@@ -59,7 +59,7 @@ profiles:
     fullname: >-
       joao almeida
     bio: >-
-      Portugal Available worldwide 🌍 ✖️loud like love ✖️now booking 2021 . 2022
+      Portugal Available worldwide 🌍 ✖️loud like love ✖️now booking 2022 . 2022
     location: "Portugal"
     followers: 18750
     engagement: 500

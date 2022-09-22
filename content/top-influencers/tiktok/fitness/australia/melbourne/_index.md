@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Melbourne In 2021
+title: Top 10 Fitness TikTok Influencers In Melbourne In 2022
 description: >-
-  Find top fitness TikTok influencers in Melbourne in 2021. Most popular hashtags: #fyp #melbourne #fitness #foryoupage.
+  Find top fitness TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #melbourne #fitness #foryoupage.
 platform: TikTok
 hits: 21
 text_top: Analyze the most popular TikTok profiles on inBeat.

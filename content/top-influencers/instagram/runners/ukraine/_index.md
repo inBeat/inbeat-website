@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Ukraine In 2021
+title: Top 10 Runners Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top runners Instagram influencers in Ukraine in 2021. Most popular hashtags: #training #motivation #nature #sportgirl.
+  Find top runners Instagram influencers in Ukraine in 2022. Most popular hashtags: #training #motivation #nature #sportgirl.
 platform: Instagram
 hits: 11
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Montreal In 2021
+title: Top 10 Gaming TikTok Influencers In Montreal In 2022
 description: >-
-  Find top gaming TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #montreal #gaming #quebec.
+  Find top gaming TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #montreal #gaming #quebec.
 platform: TikTok
 hits: 5
 text_top: Identify the best TikTok profiles on inBeat.

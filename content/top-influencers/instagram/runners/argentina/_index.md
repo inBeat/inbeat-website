@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Argentina In 2021
+title: Top 10 Runners Instagram Influencers In Argentina In 2022
 description: >-
-  Find top runners Instagram influencers in Argentina in 2021. Most popular hashtags: #running #run #runningcommunity.
+  Find top runners Instagram influencers in Argentina in 2022. Most popular hashtags: #running #run #runningcommunity.
 platform: Instagram
 hits: 41
 text_top: Identify the most popular Instagram influencers on inBeat.

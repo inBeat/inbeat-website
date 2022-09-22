@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Tokyo In 2021
+title: Top 10 Bloggers Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top bloggers Instagram influencers in Tokyo in 2021. Most popular hashtags: #tokyo #japan #stayhome #pr.
+  Find top bloggers Instagram influencers in Tokyo in 2022. Most popular hashtags: #tokyo #japan #stayhome #pr.
 platform: Instagram
 hits: 14
 text_top: See the top-rated Instagram profiles on inBeat.

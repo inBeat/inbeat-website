@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Hungary In 2021
+title: Top 10 Instagram Influencers In Hungary In 2022
 description: >-
-  Find top Instagram influencers in Hungary in 2021. Most popular hashtags: #budapest #ootd #balaton #autumn.
+  Find top Instagram influencers in Hungary in 2022. Most popular hashtags: #budapest #ootd #balaton #autumn.
 platform: Instagram
 hits: 31
 text_top: Identify the best Instagram profiles on inBeat.

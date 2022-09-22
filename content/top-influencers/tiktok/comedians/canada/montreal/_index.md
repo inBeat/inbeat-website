@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Montreal In 2021
+title: Top 10 Comedians TikTok Influencers In Montreal In 2022
 description: >-
-  Find top comedians TikTok influencers in Montreal in 2021. Most popular hashtags: #canada #comedy #funny #fyp.
+  Find top comedians TikTok influencers in Montreal in 2022. Most popular hashtags: #canada #comedy #funny #fyp.
 platform: TikTok
 hits: 4
 text_top: Analyze the best TikTok profiles on inBeat.

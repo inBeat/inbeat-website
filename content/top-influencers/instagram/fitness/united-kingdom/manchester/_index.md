@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Manchester In 2021
+title: Top 10 Fitness Instagram Influencers In Manchester In 2022
 description: >-
-  Find top fitness Instagram influencers in Manchester in 2021. Most popular hashtags: #fashion #fitness #motivation #manchester.
+  Find top fitness Instagram influencers in Manchester in 2022. Most popular hashtags: #fashion #fitness #motivation #manchester.
 platform: Instagram
 hits: 54
 text_top: Discover the top-rated Instagram accounts on inBeat.
