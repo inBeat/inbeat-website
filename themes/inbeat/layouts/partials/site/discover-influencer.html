@@ -32,11 +32,19 @@
         var vid = e.previousElementSibling.id;
         var player = players[vid];
         if (currentPlayId === vid) {
-            player.pause();
-            currentPlayId = '';
+          player.pause();
+          currentPlayId = '';
         } else {
-            player.play();
-            currentPlayId = vid;
+          try {
+            for (const vid in players) {
+              players[vid].pause(); // pause all other videos
+            }
+            // players[currentPlayId].pause();
+          } catch(err) {
+            console.warn('Failed to pause other videos');
+          }
+          player.play();
+          currentPlayId = vid;
         }
     }
     var elem = document.querySelector('.video-carousel');
