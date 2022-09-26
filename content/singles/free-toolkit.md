@@ -50,6 +50,5 @@ toolkits:
     - title:  Instagram Ad Mockup <br> Generator 
       text: Calculate your click through rate for your ads & content across different channels or multiple campaigns 
       icon: instagram-ad-mockup
-      url: instagram-ad-mockup
-
+      url: ad-mockup-generator/instagram
 ---

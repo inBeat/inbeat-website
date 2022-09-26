@@ -2,7 +2,7 @@
 title: inBeat
 description: >-
   Inbeat
-slug: instagram-ad-mockup
+slug: ad-mockup-generator/instagram
 layout: instagram-mockup
 title: Instagram Ad Mockup
 subtitle: "Instagram mockup"
