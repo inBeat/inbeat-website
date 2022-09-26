@@ -1,0 +1,35 @@
+{{- define "main" -}}
+{{- with .Params -}}
+<section class="container mobile-adjusted" id="mockup-hero">
+    <div class="hero_mockup-header">
+        <h1>{{- .hero.title | markdownify -}}</h1>
+        <h4>{{- .hero.subtitle | markdownify -}}</h4>
+        {{- partial "site/ad-mockup-generator/navigation.html" . -}}
+    </div>
+</section>
+
+{{ if (eq .name "instagram")}}
+  {{- partial "site/ad-mockup-generator/instagram.html" . -}}
+{{ end }}
+{{ if (eq .name "facebook")}}
+  {{- partial "site/ad-mockup-generator/facebook.html" . -}}
+{{ end }}
+{{ if (eq .name "tiktok")}}
+  {{- partial "site/ad-mockup-generator/tiktok.html" . -}}
+{{ end }}
+{{ if (eq .name "snapchat")}}
+  {{- partial "site/ad-mockup-generator/snapchat.html" . -}}
+{{ end }}
+{{ if (eq .name "linkedin")}}
+  {{- partial "site/ad-mockup-generator/linkedin.html" . -}}
+{{ end }}
+{{ if (eq .name "twitter")}}
+  {{- partial "site/ad-mockup-generator/twitter.html" . -}}
+{{ end }}
+
+{{- end -}}
+
+{{- partial "site/whatwedo.html" . -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.instagram__mockup "id" "faq-influencer" "header" true) -}}
+
+{{- end -}}

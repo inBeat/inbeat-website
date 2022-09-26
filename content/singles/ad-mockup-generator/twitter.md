@@ -2,14 +2,15 @@
 title: inBeat
 description: >-
   Inbeat
-slug: ad-mockup-generator/instagram
-layout: instagram-mockup
-title: Instagram Ad Mockup
-subtitle: "Instagram mockup"
+slug: ad-mockup-generator/twitter
+name: twitter
+layout: ad-mockup-generator
+title: Twitter Ad Mockup
+subtitle: "Twitter mockup"
 hero:
-  title: Instagram Ad Mockup <br> Generator
+  title: Twitter Ad Mockup <br> Generator
   subtitle: >-
-    Preview your ad campaign before they go live with inbeat instagram mockup builder. 
+    Generate, preview & download Twitter ads! All fields are fully customizable, and download everything for free.
 whatwedo:
     title: Creator Studio
     text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
@@ -17,9 +18,4 @@ whatwedo:
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
-# startnow:
-#   title: Get crackin'
-#   description: Start your influencer campaign today, with inBeat.
----
-
 ---
