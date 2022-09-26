@@ -1,6 +1,6 @@
 <section class="container-fluid testimonials-influencer" id="{{- .Params.testimonials.id -}}"> 
     {{- with $.Site.Data.testimonial -}}
-        <div class="container"> 
+        <div class="container testimonial-container"> 
             <div>
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
                 <!-- <div class="navigator hide-md-up">
@@ -36,7 +36,6 @@
     function initilezeFlickity(){
         var elem = document.querySelectorAll('.clients_card-container');
         elem.forEach(function(element){
-            console.log(elem)
             var fliktityEl = new Flickity( element, {
                 wrapAround: true,
                 // freeScroll: true,
@@ -44,7 +43,12 @@
             });
         });
     }
-    if(window.matchMedia("(max-width: 700px)").matches){
+    window.addEventListener('resize',(event) =>{
+        if(window.innerWidth <= 1024){
+            initilezeFlickity()
+        }
+    }, true)
+    if(window.matchMedia("(max-width: 1024px)").matches){
         initilezeFlickity()
     }
 </script>
