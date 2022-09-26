@@ -140,6 +140,12 @@
                       </div>
                       {{- partial "icons/more-option.html" -}}
                     </div>
+                    <div class="preview-caption facebook-caption" id="preview-caption"
+                    :style="{height: caption.length < 106 ? '40px !important':'40px'}">
+                      <span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore"
+                      class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
+                      v-html="seeMoreDisplayValue"></span>
+                  </div>
                     <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
                       <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                       <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
@@ -152,33 +158,39 @@
                           recommended</span></span>
                       <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                     </div>
-                    <div class="preview_banner-wrapper">
-                      <div class="preview-banner-cta">
-                        <span>{selectedPreviewCTA.name}</span>
-                        {{- partial "icons/right-chevron.html" -}}
+                    <div class="facebook__cta-wrapper">
+                      <div class="facebook__headline-website">
+                        <span class="facebook__cta-website">WEBSITENAME.COM</span>
+                        <span class="facebook__cta-headline">Headline copy here</span>
                       </div>
+                        <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
                     </div>
-                    <div class="preview-cta">
-                      <div class="like-share-comment">
-                        {{- partial "icons/like.html" -}}
-                        {{- partial "icons/comment-insta.html" -}}
-                        {{- partial "icons/chat.html" -}}
+                      <div class="facebook__like-comment-section">
+                        <div class="facebook_react-sec-wrapper">
+                          <div class="facebook__react-emoticon">
+                            {{- partial "icons/facebook-like.html" -}}
+                            {{- partial "icons/facebook-love.html" -}}
+                          </div>
+                          <div class="react-sec">
+                            Joe Soap and {likes} others
+                          </div>
+                        </div>
+                        <div class="comment_share-sec">
+                          1 comment 1 share
+                        </div>
                       </div>
-                      <div v-if="activeAd.id === 4" class="carousel-pagination"><span
-                          v-for="(dot,i) in postSrc.length >=2 ?postSrc : [1,2]" :key="dot" class="carousel-dot"
-                          :class="{active: activePost === i}"></span></div>
-                      {{- partial "icons/save.html" -}}
-                    </div>
-                    <div class="preview-description">
-                      <div class="previwe-likes">
-                        {likes} Likes
+                    <div class="facebook__like-comment-cta">
+                      <div class="wrapper">
+                        {{- partial "icons/like-icon-facebook.html" -}}
+                        <span>Like</span>
                       </div>
-                      <div class="preview-caption" id="preview-caption"
-                        :style="{height: caption.length < 106 ? '34px !important':'34px'}">
-                        <span class="username" style="font-weight: 600;">{profileName ? profileName : 'username'}</span>
-                          <span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore"
-                          class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
-                          v-html="seeMoreDisplayValue"></span>
+                      <div class="wrapper">
+                        {{- partial "icons/comment-facebook.html" -}}
+                        <span>Comment</span>
+                      </div>
+                      <div class="wrapper">
+                        {{- partial "icons/share-facebook.html" -}}
+                        <span>Share</span>
                       </div>
                     </div>
                   </div>

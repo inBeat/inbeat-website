@@ -10,3 +10,94 @@
         background-color: #616770;
     }
 }
+.facebook-caption{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #050505;
+    // margin-top: 5px;
+    padding: 5px 14px 12px 14px;
+}
+.facebook__cta-wrapper{
+    padding: 12px 14px;
+    background: #F2F3F5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    .facebook__headline-website{
+        .facebook__cta-website{
+            display: block;
+            color: #606770;
+            font-weight: 400;
+            font-size: 13px;
+            line-height: 18px;
+        }
+        .facebook__cta-headline{
+            display: block;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 22px;
+            letter-spacing: 0.005em;
+            color: #050505;
+            margin-top: 3px;
+        }
+    }
+    .facebook-cta-button{
+        background: #E4E6EB;
+        border-radius: 5px;
+        color: #050505;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 16px;
+        padding: 12px;
+    }
+}
+.facebook__like-comment-section{
+    padding: 12px 0px;
+    margin: 0px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #DADDE1;
+    .facebook_react-sec-wrapper{
+        display: flex;
+        gap: 9px;
+        align-items: center;
+        justify-content: center;
+        .facebook__react-emoticon{
+            display: flex;
+            svg:not(:first-child){
+                margin-left: -6px;
+            }
+        }
+        .react-sec{
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 17px;
+            color: #66676B;
+        }
+    }
+    .comment_share-sec{
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 17px;
+        text-align: right;
+        color: #66676B;
+    }
+}
+.facebook__like-comment-cta{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 55px;
+    .wrapper{
+        display: flex;
+        gap: 6px;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        color: #66676B;
+    }
+}
