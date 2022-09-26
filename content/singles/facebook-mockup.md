@@ -4,8 +4,8 @@ description: >-
   Inbeat
 slug: facebook-ad-mockup
 layout: facebook-mockup
-title: Instagram Ad Mockup
-subtitle: "Instagram mockup"
+title: Facebook Ad Mockup
+subtitle: "Fnstagram mockup"
 hero:
   title: Facebook Ad Mockup <br> Generator
   subtitle: >-

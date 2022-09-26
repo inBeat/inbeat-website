@@ -1,0 +1,12 @@
+.facebook-sponcered-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 3px;
+    .facebook-sponcered-dot{
+        height: 2px;
+        width: 2px;
+        border-radius: 50%;
+        background-color: #616770;
+    }
+}

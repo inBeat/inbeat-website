@@ -134,8 +134,8 @@
                           </div>
                         </div>
                         <div class="user-name-wrapper">
-                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                          <span class="sponcered-text">Sponsored</span>
+                          <h4 class="user-name">{profileName ? profileName : 'Page Name'}</h4>
+                          <div class="sponcered-text facebook-sponcered-text">Sponsored <span class="facebook-sponcered-dot"></span>{{- partial "icons/facebook-earth.html" -}}</div>
                         </div>
                       </div>
                       {{- partial "icons/more-option.html" -}}
@@ -182,7 +182,7 @@
                       </div>
                     </div>
                   </div>
-                  <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
+                  <!-- <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
                     <div class="header-wrapper">
                       <div class="line">
                       </div>
@@ -219,7 +219,7 @@
                         {{- partial "icons/dm-wh.html" -}}
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
               <div class="preview-download-wrapper">
@@ -537,14 +537,14 @@
                 req: 80,
                 resolution: '1080x1080'
               },
-              {
-                id:5,
-                type:'Portrait',
-                ratio:'4:5',
-                img:'portrait'   ,
-                req: 80,
-                resolution: '1080x1350'
-              },
+            //   {
+            //     id:5,
+            //     type:'Portrait',
+            //     ratio:'4:5',
+            //     img:'portrait'   ,
+            //     req: 80,
+            //     resolution: '1080x1350'
+            //   },
               {
                 id:2,
                 type:'Video',
@@ -553,14 +553,14 @@
                 req: 80,
                 resolution: '1920x1080'
               },
-              {
-                id:3,
-                type:'Story',
-                ratio:'9:16',
-                img:'9-16',
-                req: 80 ,
-                resolution: '1080x1920'
-              },
+            //   {
+            //     id:3,
+            //     type:'Story',
+            //     ratio:'9:16',
+            //     img:'9-16',
+            //     req: 80 ,
+            //     resolution: '1080x1920'
+            //   },
               {
                 id:4,
                 type:'Carousel',
