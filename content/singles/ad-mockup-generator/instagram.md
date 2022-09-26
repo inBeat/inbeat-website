@@ -10,7 +10,7 @@ subtitle: "Instagram mockup"
 hero:
   title: Instagram Ad Mockup <br> Generator
   subtitle: >-
-    Preview your ad campaign before they go live with inbeat instagram mockup builder. 
+    Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
 whatwedo:
     title: Creator Studio
     text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
