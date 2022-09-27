@@ -1,348 +1,153 @@
-#creator-studio-hero{
-    #hero{
-        h1{
-            @include breakpoint(lg) {
-                font-size: 3.75rem;
-                font-weight: 700;
-                line-height: 4.25rem;
-                letter-spacing: -1px;
-            } 
-        }
-        h4{
-            @include breakpoint(lg) {
-                font-weight: 400;
-                font-size: 1.125rem;
-                line-height: 1.175rem;
-                letter-spacing: 0.03em;
-            } 
-        }
+#hero.hero_creator-studio-v2{
+    background-color: #F9F2F7;
+    padding-top: 8.50rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    @include breakpoint(sm) {
+        padding-top: 13.3125rem;
+        padding-bottom: 128px;
+    }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
+    .creator-studio-heading{
+        text-align: center;
+        letter-spacing: -1px;
+        color: #000000;
+        font-size: 44px;
+        line-height: 46px;
+        margin-bottom: 24px;
         @include breakpoint(sm) {
-            padding-top: 23vh;
-        }
-        padding-top: 20vh;
-        padding-bottom: 0;
-        margin: 0;
-        a{
-            @include breakpoint(sm-down) {
-                display: block;
-                width: 100%;
-                margin-bottom: 20px;
-            }
-        }
-        #hero-cta{
-            @include breakpoint(xs) {
-                margin-right: 20px;
-            }
+          font-weight: 700;
+          margin-bottom: 2rem;
+          font-size: 4.75rem;
+          line-height: 5rem;
         }
     }
-    .features-list{
-        display: block;
-        margin: 4rem 0 6rem 0;
-        @include breakpoint(sm) {
-            margin: 6.25rem 0;
-            display: inline-flex;
+    .hero_creator-studio-sub_heading{
+        margin: auto;
+        font-weight: 400;
+        text-align: center;
+        color: #141514;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+    .cta {
+        a {
+            display: block;
+            margin: 0 auto 20px;
+            width: 100%;
+            @include breakpoint(31.25rem) {
+                width: 16.75rem;
+            }
+            @include breakpoint(sm) {
+                display: inline-block;
+                margin: 0;
+                &:first-child {
+                    margin-right: 20px;
+                }
+            }
+            &#hero-cta {
+                @include breakpoint(sm-down) {
+                    color: black;
+                    border: none;
+                }
+            }
+            span {
+                font-weight: bold;
+            }
         }
-        .feature{
-           margin: 0 1.25rem;
-            .icon--check{
-                padding-right: .3125rem;
+        a:nth-child(2){
+            padding-left: 20px;
+            background-color: transparent;
+            color: #000000;
+            span{
+               padding-left: 20px;
+                padding-right: 20px;
             }
         }
     }
 }
-#video-how-it-works{
-    background-color: $light_grey;
-    .align-center{
-        border-radius: 10px;
-        width: 100%;
-        position: relative;
-        margin-top: -5.125rem;
+#cs_discover-influencer{
+    margin-top: 137px;
+    margin-bottom: 96px;
+    @include breakpoint(sm-down) {
+        margin-top: 105px;
+        margin-bottom: 64px;
+    }
+    .discover-influencer-heading{
+      margin: 0;
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 36px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #141514;
+      margin-bottom: 96px;
+      @include breakpoint(sm-down) {
+        margin-bottom: 64px;
+    }
+    }
+    .video-carousel{
+        margin-left: -2rem;
+        margin-right: -2rem;
+        -ms-overflow-style: none;  /* Internet Explorer 10+ */
+        scrollbar-width: none;  /* Firefox */
+        max-height: 512px;
+        overflow-y: hidden;
         iframe{
-            width: 1238px;
-            height: 689px;
-            @include breakpoint(sm-down) {
+            border-radius: 8px;
+        }
+        .video-wrapper{
+            margin-right: 30px;
+            cursor: pointer;
+            .vp-player-ui-overlays{
+                pointer-events: all;
+            }
+            .dummy{
+                height: 512px;
+                width: 287px;
+                background: black;
+                opacity: 0.1;
+                position: absolute;
+            }
+            .video-cover {
+                position: absolute;
+                top: 0;
+                left: 0;
                 width: 100%;
                 height: 100%;
+                background-color: rgba(0,0,0,0);
+                z-index: 1;
             }
         }
-    }
-    #clients {
-        padding: 2.25rem 0 3rem 0;
-        @include breakpoint(md) {
-            padding-bottom: 6.25rem;
-        }
-        .row {
-            margin: 0;
-        }
-        @include breakpoint(md-down) {
-            max-width: 34rem;
-        }
-        .icons {
-            @include breakpoint(md-down) {
-                flex-basis:33.33333%;
-                &:nth-child(3n + 2) {
-                    text-align: center;
-                }
-                &:nth-child(3n) {
-                    text-align: right;
-                }
-                svg {
-                    margin-bottom: 1rem;
-                }
-            }
-            @include breakpoint(sm-down) {
-                svg {
-                    max-width: 70%;
-                    max-height: 2.5rem;
-                }
-            }
-        }
-        svg {
-            fill: $dark;
+        .flickity-page-dots{
+            display: none;
         }
     }
-}
-#pricing{
-    &.--within-cs {
-        display: block !important;
+    .video-carousel::-webkit-scrollbar { 
+        display: none;  /* Safari and Chrome */
     }
-    @include breakpoint(lg) {  
-        margin-top: 128px;
-    }
-    .studio-pricing__title{
-        text-align: center;
-        font-weight: 500;
-        margin-bottom: 0;
-        @include breakpoint(lg) {  
-            font-size: 3.5rem;
-            line-height: 4rem;
-            letter-spacing: -1.4px;
-        }
-    }
-    .container{
-        .plan{
-            padding: 34px 0 !important;
-        }
-        #business{
-            .row{
-                // @include breakpoint(lg) {
-                //    padding-right: 50px;
-                // } 
-                .content-wrapper{
-                    padding: 0;
-                    @include breakpoint(sm-down) {
-                        padding: 0px 53px;
-                        text-align: center;
-                    } 
-                }
-            }
-            margin-top: 54.5px;   
-            // @include breakpoint(lg) {
-            // }
-            .content{
-                p{
-                    font-weight: 400;
-                    font-size: 1.125rem;
-                    line-height: 1.75rem;
-                }
-                h2{
-                    font-size: 500;
-                    font-size: 3.5rem;
-                    line-height: 3.875rem;
-                    letter-spacing: -1.4px;
-                }
-                .btn{
-                    margin-top: 39px;
-                }
-            }
-            .featured-business{
-              padding: 0px 53px;
-                margin: 0;
-                .feature-title{
-                    font-weight: 400;
-                    font-size: 18px;
-                    line-height: 28px;
-                    color: #141514;
-                    opacity: 0.5;
-                }
-                .feature-list__wrap {
-                    display: flex;
-                    flex: 1 1 0;
-                    gap: 56px;
-                    @include breakpoint(md-down) {
-                        flex-wrap: wrap;
-                        gap: 0px;
-                    }
-                }
-                .includes-title{
-                    display: flex;
-                    align-items: center;
-                    p{
-                        display: block;
-                        margin: 0;
-                        margin-top: -1px;
-                        font-weight: 500;
-                        font-size: 18px;
-                        line-height: 28px;
-                        padding-left: 9px;
-                        // padding-left: 9px;
-                    }
-                }
-                .includes-description{
-                    display: block;
-                    margin: 0;
-                    // margin-top: -1px;
-                    font-weight: 400;
-                    font-size: 14px;
-                    line-height: 22px;
-                    opacity: 0.7;
-                    margin-bottom: 32px;
-                }
-            }
-        }
-    }
-}
-#infos-block{
-    margin-top: 2.5rem;
-    @include breakpoint(md) {
-        margin-top: 7.5rem;
-    }
-    .info-element{
-        box-sizing: border-box;
-        margin-top: 2.5rem;
-        margin-bottom: 2.5rem;
-        padding: 3.125rem;
-        @include breakpoint(md) {
-            margin-top: 7.5rem;
-            margin-bottom: 2.5rem;
-        }
-        .aside-video{
-            video, img{
-                float:left;
-                width: 100%;
-            }
-        }
-        h2{
-            font-weight: 500;
-        }
-        &.red-sub{
-            background-color: $yellow_sub;
-        }
-        &.yellow-sub{
-            background-color: $green_sub;
-        }
-        &.green-sub{
-            background-color: $red_sub;
-        }
-        .subblock-wrapper{
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            .subblock-content{
-                .subblock{
-                    background-color: white;
-                    padding: 1.5625rem;
-                }
-                p.subtitle , p.subtext{
-                    padding: 0;
-                    margin: 0;
-                }
-                p.subtitle{
-                    font-weight: 600;
-                }
-                p.subtext{
-                    margin-top: 1.25rem;
-                    color: $dark;
-                    opacity: 0.75;
-                }
-            }
-        }
-    }
-}
-#sub-tags{
-    margin-top: 7.85rem;
-    margin-bottom: 1.5rem;
-    padding: 0 40px;
-    @include breakpoint(sm) {
-        margin: 14rem auto;
-    }
-    .tag{
-        text-align: center;
-        padding: 0 .9375rem;
-        @include breakpoint(sm-down) {
-            margin-bottom: 50px;
-        }
-        h4{
-            font-weight: bold;
-        }
-        p{
-            opacity: .5;
-        }
-    }
-}
-#social-content {
-    padding-top: 2.5rem;
-    h2, p {
-        text-align: center;
-    }
-    background: $light_grey;
-    .features-row{
-        margin-top: 2.5rem;
-        .feature{
-            .inner{
-                margin-top: 1.5625rem;
-                padding: 25px;
-                text-align: center;
-                background-color: white;
-                border-radius: 1px;
-                h4{
-                    font-weight: bold;
-                    margin-bottom: 0;
-                }
-                img{
-                    border-radius: .625rem;
-                }
-            }
-        }
-    }
-}
-#how-it-works{
-    margin: 2rem auto;
-    padding: 40px;
-    @include breakpoint(sm) {
-        margin-top: 8.75rem;
-        margin-bottom: 13.75rem;
-    }
-    h4{
-        font-weight: bold;
-    }
-    .sub-title{
-        font-weight: 500;
-    }
-    .text{
-        line-height: 22px;
-        font-size: .875rem;
-        opacity: .5;
-    }
-}
+    .video-carousel > *:first-child {
+		padding-left: 2rem;
+	  }
+	.video-carousel > *:last-child {
+		padding-right: 1.5rem;
+	  }
 
-#request-access{
-    background-color: $light_grey;
-    padding: 4.5rem 2.5rem;
-    border-bottom: 6.75rem solid $dark;
-    @include breakpoint(sm) {
-        padding: 7.8125rem;
-    }
-    img{
-        border-radius: .625rem;
-        width: 100%;
-        @include breakpoint(sm-down) {
-            margin-bottom: 40px;
-        }
-    }
-    .container{
-        .row{
-            align-items: center;
-        }
-    }
+}
+#switcher__creator-studio{
+    background: #28161C;
+    padding-top: 155px;
+    padding-bottom: 155px;
+}
+#what-we-do_creator-studio{
+    background-color: #F9F7F7;
+
+}
+.player .vp-player-ui-overlays{
+    pointer-events: all !important;
 }
