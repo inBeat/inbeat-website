@@ -1,11 +1,11 @@
 ---
-title: inBeat UGC Content Creation Platfor
+title: inBeat UGC Content Creation Platform
 description: >-
   The UGC content creation platform allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content.
 slug: ugc-platform
 layout: creator-studio
-title: Creator Studio
-subtitle: "creator-studio"
+title: inBeat UGC Content Creation Platform
+subtitle: "The UGC content creation platform allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content"
 hero:
   title: UGC Content<br> Creation Platform
   subtitle: >-
