@@ -6,223 +6,36 @@
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/gtm.html" . }}
+        {{ $content :=  `<div class="content-video" style="padding-top: 50px;"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank"><button class="btn"><span>Book a demo</button></a></div>` }}
+		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
 		{{ block "main" . }}
 		{{ end }}
-        <div id="header-container">
-            {{- partial "site/banner.html" (dict "context" . "text" "Request Access" "url" "https://calendly.com/inbeat-co/creator-studio-demo" "class" "popupTrigger" "show" .Params.banner.show) -}}
+        {{ partial "site-header-creator_studio.html" . }}
+        {{- with .Params.hero -}}
+        <section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
             <div class="container">
-                <div class="row middle-xs between-xs" id="header">
-                    <div class="col-xs-6 col-sm-1 col-md-1">
-                            {{- partial "icons/creativestudio-logo.html" -}}
-                    </div>
-                    <div class="col-xs-4 hide-sm">
-                        <ul class="right">
-                            <li class="cta">
-                                <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" class="btn btn-md" target="_blank">
-                                    Request Access
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-<section>
-    <div class="container" id="creator-studio-hero">
-        <div class="row">
-           {{- with .Params.hero -}}
-           <section class="container mobile-adjusted" id="hero">
-               <div class="col-lg-8 col-lg-offset-2">
-                <h1>{{- .title | markdownify -}}</h1>
-                <h4>{{- .subtitle | markdownify -}} </h4>
-                    <a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank" class="btn btn-lg btn-crazy-hover" title="Schedule a call" id="hero-cta">
-                        Schedule a call
+                <div class="col-lg-8 col-lg-offset-2">
+                 <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+                 <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+                 <div class="cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" target="_blank">
+                        {{- htmlUnescape .cta.text | markdownify -}}
                     </a>
-                    <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" target="_blank" class="btn btn-lg btn-white">
-                        Request Access
+                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg popupTrigger" data-popup-id="videoPopup">
+                        <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
                     </a>
                 </div>
-                <div class="col-xs-12 features-list">
-                    {{- range .features -}}
-                    <p class="feature">
-                        {{- partial "icons/check.html" -}}
-                        {{- .text | markdownify -}}
-                    </p>
-                    {{- end -}}
-                </div>
-           </section>
-          
-        </div>
-    </div>
-</section>
-<section class="container-fluid" id="video-how-it-works"> 
-    <div class="container m-tb-80"> 
-        <div class="row">
-            <div class="col-xs-12 col-md-12 align-center">
-                <iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-            </div>    
-        </div>
-    </div>
-    <p style="text-align: center;">{{- .clientsSubTitle | markdownify -}}</p>
-<section class="container mobile-adjusted" id="clients">
-    <div class="row between-xs middle-xs">
-        <div class="icons">{{- partial "icons/got-milk.html" -}}</div>
-        <div class="icons">{{- partial "icons/new-balance.html" -}}</div>
-        <div class="icons">{{- partial "icons/mogo.html" -}}</div>
-        <div class="icons">{{- partial "icons/7eleven.html" -}}</div>
-        <div class="icons">{{- partial "icons/nordstorm.html" -}}</div>
-        <div class="icons">{{- partial "icons/soylent.html" -}}</div>
-    </div>
-</section>
-{{- end -}}
-</section>
-<section id="pricing" class="--within-cs">
-    {{- with .Params.Pricing -}}
-    <h2 class="studio-pricing__title">{{- .title -}}</h2>
-    <div class="container">
-        <div class="plan" id="business">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 content-wrapper">
-                    <div class="content">
-                        <h2 class="cs-pricing__heading">
-                            Schedule a demo
-                        </h2>
-                            <a class="btn btn-md btn-crazy" style="margin-top: 34px;" href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
-                                Book a demo
-                            </a>
-                            <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-md btn-outline popupTrigger" data-popup-id="creatorStudioVideoPopup">
-                                <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
-                            </a>
-                    </div>
-                </div>
-            <div class="features col-xs-12 col-sm-6 col-md-7 col-lg-8 featured-business">
-                <p class="feature-title">What it includes</p>
-                <div class="feature-list__wrap">
-                    {{ $len := (len .socialElement) }}
-                    {{ $div := (math.Floor (div $len 2.0)) }}
-                    {{ $divToInt := (math.Ceil (div $len 2.0)) }}
-                    <div>
-                        {{ range first $divToInt .socialElement }}
-                            <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
-                            <p class="includes-description">{{- .description -}}</p>
-                        {{- end -}}
-                    </div>
-                    <div>
-                        {{ range last $div .socialElement }}
-                            <div class="includes-title">{{- partial "icons/check.html" -}} <p>{{- .title -}}</p></div>
-                            <p class="includes-description">{{- .description -}}</p>
-                        {{- end -}}
-                    </div>
-                </div> 
+                 </div>
             </div>
-        </div>
-    </div>
-</div>
-{{- end -}}
-</section>
-<section  id="infos-block">
-    {{- range .Params.infosBlock -}}
-    <div class="container info-element {{ .palette }}">
-        <div class="row">
-            <div class="col-lg-5 col-md-6 subblock-wrapper">
-                <h2>{{ .title | markdownify }}</h2>
-                <div class="subblock-content">
-                    {{- range .subinfos -}}
-                        <div class="subblock">
-                            <p class="subtitle">{{- .title -}}</p>
-                            <p class="subtext">{{- .text -}}</p>
-                        </div>
-                     {{- end -}}
-                </div>
-            </div>
-            <div class="col-lg-6 col-lg-offset-1 col-md-6 aside-video">
-                <img src="{{- .asideImage -}}" alt="{{- .asideImage -}}">
-            </div>
-        </div>
-    </div>
-    {{ end }}
-</section>
-<section id="sub-tags" class="container">
-    <div class="row">
-        {{ range .Params.subTags }}
-            <div class="col-lg-3 col-sm-3 col-xs-12 tag">
-               <div>{{- partial (printf "icons/%s.html" .icon) -}}</div> 
-                <h4> {{ .title }} </h4>
-                <p class="small"> {{ .text }} </p>
-            </div>  
-        {{ end }}
-    </div>
-</section>
-{{ with .Params.socialContent }}
-    <section id="social-content" class="container-fluid">
-        <div class="container p-tb-80">
-            <div class="row">
-                <div class="col-lg-6 col-lg-offset-3">
-                    <h2> {{ .title }}</h2>
-                    <p>{{ .text }}</p>
-                </div>
-                <div class="col-lg-12 row features-row">
-                {{ range .socialElement }}
-                    <div class="col-lg-3 col-sm-6 col-xs-12 feature">
-                        <div class="inner">
-                            <img src="{{ .img }}" alt="{{ .img }}">
-                            <h4> {{ .title }} </h4>
-                        </div>
-                    </div>  
-                {{ end }}
-                </div>
-            </div>
-        </div>
-    </section>
-{{ end }}
-{{ with .Params.howitworks }}
-    <section id="how-it-works" class="container">
-        <div class="row">
-            <div class="col-lg-12 col-xs-12">
-               <h4>{{ .title }}</h4> 
-            </div>
-            {{ range .content }}
-                <div class="col-lg-3  col-md-6 col-xs-12" >
-                    <p class="small sub-title">{{ .title }}</p>
-                    <p class="text">{{ .text }}</p>
-                </div>
-            {{ end }}
-        </div>
-    </section>
-{{ end }}
-{{ with .Params.requestAccess }}
-    <section id="request-access" class="container-fluid">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-5 col-xs-12">
-                    <img src="{{ .img }}" alt="{{ .img }}">
-                </div>
-                <div class="col-sm-5 col-sm-offset-1 col-xs-12">
-                    <h2>{{ .title }}</h2>
-                    <p>{{ .text }}</p>
-                    <div class="m-tb-80">
-                        <a href="https://calendly.com/inbeat-co/creator-studio-demo" title="Request Access" class="btn btn-lg" target="_blank">
-                            Request Access
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-{{ end }}
-
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.pricing "id" "pricing-faq") -}}
-{{ $content :=  `<div class="content-video" style="padding-top: 50px;">
-    <iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="btn-cta">
-    <a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank">
-        <button class="btn"><span>Book a Demo</span></button>
-    </a>
-</div>` }}
-{{ partial "site/popup.html" (dict "context" . "id" "creatorStudioVideoPopup" "content" $content "canClose" true  ) }} 
-
-
+        </section>
+        {{- end -}}
+{{- partial "site/discover-influencer.html" . -}}
+{{- partial "site/testimonial-with-cards.html" . -}}
+{{- partial "site/clients-creator-studio.html" . -}}
+{{- partial "site/features-v2.html" . -}}
+{{- partial "site/switchers-accordian.html" . -}}
+{{- partial "site/whatwedo-v2.html" . -}}
+{{ partial "site-footer.html" . }}
 {{ partial "footer/scripts.html" . }}
 </body>
 </html>

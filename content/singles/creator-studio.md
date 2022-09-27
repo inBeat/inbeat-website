@@ -1,99 +1,118 @@
 ---
-layout: creator-studio
-slug: ugc-platform
-title: inBeat Creator Studio | User-Generated Content Platform
+title: inBeat UGC Content Creation Platfor
 description: >-
-  Search and find TikTok and Instagram influencers in our spam-checked influencer
-  database. Use our tools to search, vet and track your influencer marketing campaigns.
+  The UGC content creation platform allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content.
+slug: ugc-platform
+layout: creator-studio
+title: Creator Studio
+subtitle: "creator-studio"
 hero:
-  title: Collaborate with the best micro-influencers, without doing all the work.
-  img: /images/cs-hero.png
+  title: UGC Content<br> Creation Platform
   subtitle: >-
-    Save hundreds of hours. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you.
-  features:
-  - text: Unlimited Usage Rights
-  - text: Top 1% of creators
-  - text: Simple Platform
-  clientsSubTitle: 2,000+ online brands trust inBeat
-video: deep-search
-infosBlock:
-  - title: Work with the top <br> 1% of creators.
-    palette: red-sub
-    asideImage: /images/cs-top1.png
-    subinfos:  
-    - title: Resonate
-      text: Create content that resonates with your audience. Work with creators that understand branding.
-    - title: Engage
-      text: Our exclusive creators have a pulse on social media and a deep understanding of attention.
-  - title: Empower your <br> marketing teams
-    palette: yellow-sub
-    asideImage: /images/cs-empower.png
-    subinfos:  
-    - title: On-Brand Content
-      text: Provide a seamless stream of high-quality content that resonates with your end audience at scale.
-    - title: Unlimited Usage Rights
-      text: Use the content however you please. All the content you generate is yours.
-  - title: On-demand <br> content creation
-    palette: green-sub
-    asideImage: /images/cs-ondemand.png
-    subinfos:  
-    - title: Work with the top 1%
-      text: We’ve identified the best creators from over 25,000 micro-creators to help you get the best content.
-    - title: Scale without breaking
-      text: Extend your creative team without the hassle of discovering, recruiting, and onboarding.
-subTags:
-  - title: Brand
-    text: Generate authentic content that perfectly aligns with your brand image & identity. 
-    icon: brand
-  - title: Paid
-    text: Scale your ad spend across different social channels through an ongoing stream of User-Generated Content that converts.
-    icon: paid
-  - title: E-mail
-    text: Engage with your different audience segments by delivering relatable content with a narrative that resonates.
-    icon: email
-  - title: E-commerce
-    text: Create a user-centric e-commerce experience with content created for the user at the center stage.
-    icon: ecommerce
-socialContent:
-  title: All of your content needs under one roof
-  text: Deploy a new content campaign in minutes, not days. inBeat Platform empowers you to create high-quality social content seamlessly.
-  socialElement:
-  - title: Unboxing Videos
-    img: /images/unboxing.png
-  - title: Testimonials
-    img: /images/testimonials.png
-  - title: Product Demos
-    img: /images/productdemo.png
-  - title: Lifestyle Shots
-    img: /images/lifestyleshot.png
-howitworks:
-  title: How it works →
-  content:
-  - title: Creative brief →
-    text: We identify KPIs together, build a moodboard and create a campaign persona. 
-  - title: Product Shipment →
-    text: We assist you in shipping the product to the selected creators to start content creation. 
-  - title: Content Creation →
-    text: Our creators capture the content & we edit the final product in-house
-  - title: Recieve Content →
-    text: We provide a downloadable content library for you to use the assets in your marketing. 
-requestAccess:
-  img: /images/highqualityugc.png
-  title: Start creating High Quality UGC. 
-  text: Work with diverse top creators that have the pulse on social media. & create content to grow your brand.
-Pricing:
-  title: Pricing
-  rate: 300
-  socialElement:
-  - title: Creator Network
-    description: Access our network of vetted 30,000+ creators
-  - title: Influencer matching
-    description: Select your influencer targeting and get match with the right creators without doing any outreach
-  - title: Content Library
-    description: Access all of your influencer-generated content in one single click.
-  - title: Dedicated campaign strategist
-    description: Get the help of a dedicated campaign strategist to help you create a successful campaign.
-  - title: Unlimited copyrights to the content
-    description: Re-use the content in ads & repurpose it in various channels. 
+    inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale
+  cta:
+    text: >-
+      <span>Book a demo — it's free</span>
+    link: https://calendly.com/inbeat-co/creator-studio-demo
+discoverInfluencer:
+    title: Some content from our Creators
+    videos:
+      - link: 727870972?h=55b99ceef5
+      - link: 727870878?h=cd72296c3f
+      - link: 727870879?h=638524da5e
+      - link: 727870769?h=5d3432b73c
+      - link: 727870423?h=7012714586
+      - link: 727870274?h=20a5dc261b
+      - link: 727870927?h=cd0ee8a876
+      - link: 727888136?h=8b52b23499
+features:
+  - id: search-influencer
+    class: popupTrigger
+    title: Match with creators that already love your brand.
+    image: /images/feature-creator_studio-1.png
+    text: >-
+     Get matched with Top Creators that fit the bill & that are already willing to collaborate with your brand.
+    link:
+      text: Watch the video
+      link: 'features/discover' 
+  - id: pick-influencer
+    title: Content reviews have never been simpler
+    image: /images/feature-creator_studio-2.png
+    text: >-
+     You can review all the content & request for changes, directly in the platform. 
+    link:
+      text: Pricing
+      link: 'pricing'
+      external: false
+  - id: export-influencer
+    title: Unlimited usage rights, with the inBeat license.
+    image: /images/feature-creator_studio-3.png
+    text:  Use all generated content in paid ads, on your social media, or however you please. The inBeat license covers it all.
+    link:
+      text: Get started
+      link: https://calendly.com/inbeat-co/creator-studio-demo
+      external: true
+switchers:
+    title: All of your content needs under one roof  
+    video: UGCStudio_ContentTypesWidget
+    id:  switcher__creator-studio
+    tabs:
+      - title: Product Showcase
+        icon: play-icon
+        text: Create engaging, human vertical video content to promote your product or app & use it in paid media.
+      - title: Unboxing Videos
+        icon: play-icon
+        text: Showcase your unboxing experience with dynamic video content, designed to be native to your platform of choice.  
+      - title: Testimonials
+        icon: play-icon
+        text: Build brand trust by creating human, candid & genuine content 
+      - title: Lifestyle Shots
+        icon: play-icon
+        text: Get high quality lifestyle shots to showcase your content in a real-world-use scenario to better target your audience..
+whatwedo:
+    title: Get started with inBeat UGC Platform
+    text: Start generating high quality creator content & empower your brand with a scalable solution.
+    id: what-we-do_creator-studio
+    newBadge: false 
+    video: CreatorStudio_Snippet 
+    cta:
+      link: https://calendly.com/inbeat-co/creator-studio-demo
+      text: Book a demo — it's free
+testimonials: 
+  id: testimonials_creator-studio
+  secondrow: true
+clients:
+  id: clients_creator-studio
+toolkits:
+  id: 'home-tools'
+  tools:
+    - title: Instagram Engagement <br>  Rate Calculator
+      text: Gain insights on influencers with our rapid Instagram engagement checker.
+      icon: freetoolkit-ig-engagement
+      url: engagement-rate-calculator-instagram
+    - title: Instagram Money <br> Calculator
+      text: Evaluate the potential cost for different types of influencer collaborations.
+      icon: freetoolkit-ig-money
+      url: collaboration-cost-calculator-instagram
+    - title: TikTok Engagement <br> Rate Calculator
+      text: Gain insights on influencers with our rapid TikTok engagement checker.
+      icon: freetoolkit-tiktok-engagement
+      url: engagement-rate-calculator-tiktok
+    - title: Instagram Fake <br> Follower Checker
+      text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
+      icon: freetoolkit-pulsepodcast
+      url: fake-follower-checker
+    - title: Top Instagram <br> Influencers 2021
+      text: Find the top influencers in any niche, country & city with our Top Lists.
+      icon: freetoolkit-ig-topinfluencers
+      url: top-influencers/instagram
+    - title: Top TikTok <br> Influencers 2021
+      text: Find the top influencers in any niche, country & city with our Top Lists.
+      icon: freetoolkit-tiktok-topinfluencers
+      url: top-influencers/tiktok
+# startnow:
+#   title: Get crackin'
+#   description: Start your influencer campaign today, with inBeat.
 ---
 
+---
