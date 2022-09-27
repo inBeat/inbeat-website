@@ -1,0 +1,29 @@
+{{- define "main" -}}
+{{- with .Params.hero -}}
+<section class="container mobile-adjusted" id="mockup-hero">
+    <div class="hero_mockup-header">
+        <!-- <div class="mockup-platforms">
+            <div class="platform instagram">
+                <svg width="12" height="12" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="0.46875" y="0.5" width="21" height="21" rx="5" fill="black"/>
+                    <circle cx="11.0262" cy="10.9461" r="4.68243" fill="#FFE9F0"/>
+                    <circle cx="17.1439" cy="5.54231" r="1.44075" fill="#FFE9F0"/>
+                    </svg>                    
+                     <span>Instagram</span>
+            </div>
+            <div class="platform facebook">
+                {{- partial "icons/facebook-black.html" -}}   <span>Facebook</span>
+            </div>
+            <div class="platform tiktoc">
+                {{- partial "icons/tiktoc-black.html" -}}  <span>TikTok</span>
+            </div>
+        </div> -->
+        <h1>{{- .title | markdownify -}}</h1>
+        <h4>{{- .subtitle | markdownify -}}</h4>
+    </div>
+</section>
+{{- partial "site/facebook__mockup-generator.html" . -}}
+{{- end -}}
+{{- partial "site/whatwedo.html" . -}}
+{{- partial "site/faq-influencer.html" (dict "context" . "faq" .Site.Data.faq.instagram__mockup "id" "faq-influencer" "header" true) -}}
+{{- end -}}
