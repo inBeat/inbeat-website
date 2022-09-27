@@ -1,15 +1,20 @@
 .testimonials-influencer {
 	background-color: $light_grey;
 	padding-top: 64px;
-	@include breakpoint(sm-down) {
+	@include breakpoint(md-down) {
 		padding-left: 0 !important;
 		padding-right: 0 !important;
 	}
     @include breakpoint(lg) {
         padding-top: 110px;
     }
+	.testimonial-container{
+		@include breakpoint(md-down) {
+			width: auto;
+		}
+	}
 	.m-tb-40{
-		@include breakpoint(sm-down) {
+		@include breakpoint(md-down) {
 			margin-top: 14px;
 			margin-bottom: 64px;
 		}
@@ -19,7 +24,7 @@
 		}
 	}
 	h3{
-		@include breakpoint(sm-down) {
+		@include breakpoint(md-down) {
 			font-size: 1.625rem;
 			line-height: 2rem;
 		}
@@ -28,13 +33,14 @@
 		// margin-left: -2rem;
 		// margin-right: -1.5rem;
 		display: flex;
-		@include breakpoint(sm-down) {
+		@include breakpoint(md-down) {
 			width: 100%;
 			display: block;
 		}
 		// overflow-x: scroll;
 		.client-card{
 			margin-top: 50px;
+			// height: 100%;
 			@include breakpoint(lg) {
 				margin-top: 80px;
 			}
@@ -42,6 +48,16 @@
 		@include breakpoint(md) {
 			margin: 0;
 			overflow-x: hidden !important;
+		}
+		// .flickity-prev-next-button{
+		// 	display: none !important;
+		// }
+		// .flickity-slider{
+		// 	left: 20px !important;
+		// }
+		.flickity-viewport{
+
+			// margin-right: -3rem;
 		}
 		.flickity-page-dots{
 			bottom: unset;
@@ -77,10 +93,18 @@
 					.job {
 						opacity: 0.7;
 						color: $dark_sub;
+						br{
+							display: none;
+						}
+						@include breakpoint(sm-down){
+							br{
+								display: inline;
+							}
+						}
 					}
 				}
 			}
-
+	
 		}
 	}
 	.icon-group{

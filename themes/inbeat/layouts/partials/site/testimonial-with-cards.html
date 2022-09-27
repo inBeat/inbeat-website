@@ -1,6 +1,6 @@
 <section class="container-fluid testimonials-influencer" id="{{- .Params.testimonials.id -}}"> 
     {{- with $.Site.Data.testimonial -}}
-        <div class="container"> 
+        <div class="container testimonial-container"> 
             <div>
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
                 <!-- <div class="navigator hide-md-up">
@@ -33,18 +33,23 @@
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
+       var fliktityEl;
     function initilezeFlickity(){
         var elem = document.querySelectorAll('.clients_card-container');
         elem.forEach(function(element){
-            console.log(elem)
-            var fliktityEl = new Flickity( element, {
+            fliktityEl = new Flickity( element, {
                 wrapAround: true,
                 // freeScroll: true,
                 prevNextButtons: false,
             });
         });
     }
-    if(window.matchMedia("(max-width: 700px)").matches){
+    window.addEventListener('resize',(event) =>{
+        if(window.innerWidth <= 1024){
+            initilezeFlickity()
+        }
+    }, true)
+    if(window.matchMedia("(max-width: 1024px)").matches){
         initilezeFlickity()
     }
 </script>
