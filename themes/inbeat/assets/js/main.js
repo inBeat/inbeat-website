@@ -408,6 +408,34 @@ function faq() {
     }
 }
 
+function industries() {
+    var acc = document.getElementsByClassName('switcher_accordian-item');
+    if(acc.length === 0){return}
+    var currentActive = acc[0];
+    var toggleAccordionState = function (accordion) {
+        accordion.classList.add("--active");
+        accordion.nextElementSibling.classList.add("--hidden");
+        accordion.previousElementSibling.classList.add("--hidden");
+    };
+    var reset = function (accordion) {
+        accordion.classList.remove("--active");
+        accordion.nextElementSibling.classList.remove("--hidden");
+        accordion.previousElementSibling.classList.remove("--hidden");
+    };
+
+    toggleAccordionState(currentActive);
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener('mousedown', function (e) {
+            e.preventDefault();
+            if (this != currentActive) {
+                reset(currentActive);
+                currentActive = this;
+            }
+            toggleAccordionState(this);
+        }, true);
+    }
+}
 function banner(){
     var banner = document.getElementById('banner');
     if(!banner) {
@@ -419,6 +447,9 @@ function banner(){
     var hero = document.getElementById('hero');
     var hero_cmp = document.getElementById('hero_cmp');
     var prevScrollpos = window.pageYOffset;
+    if(hero == null){
+       hero = document.getElementById('hero-industries');
+    }
     window.onscroll = function() {
         var currentScrollPos = window.pageYOffset;
         if (prevScrollpos > currentScrollPos) {
@@ -502,5 +533,6 @@ function articleProgressBar() {
   faq();
   banner();
   articleProgressBar();
+  industries();
   testimonial();
 })();

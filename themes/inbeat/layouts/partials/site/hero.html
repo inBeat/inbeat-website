@@ -1,0 +1,10 @@
+{{- with .Params.hero -}}
+<section class="container-fluid mobile-adjusted" id="hero-industries">
+    <div class="container">
+        <div class="row">
+            <h1 class="industries__title">{{- .title | markdownify -}}</h1>
+            <h4 class="industries__subtitle">{{- .subtitle | markdownify -}}</h4>
+        </div>
+    </div>
+</section>
+{{- end -}}

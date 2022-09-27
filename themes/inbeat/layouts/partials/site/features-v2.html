@@ -1,0 +1,45 @@
+<section class="m-tb-145">
+    {{- range .Params.features -}}
+    <div class="container m-b-96 home-features-v2" id="{{- .id -}}">
+        <div class="row">
+            <div class="col-xs-12 col-md-5 feature_description-col">
+                <h2 class="feature_description-title">{{- .title -}}</h2>
+                <p class="feature_description-text">{{- .text | markdownify -}}</p>
+                <a data-popup-id="videoPopup" class="learn-more hide-md {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ if .link.external }}{{- .link.link -}}{{ else }}{{ $.Site.BaseURL -}}{{- .link.link -}}{{ end }}" target="_blank">
+                    {{- htmlUnescape .link.text -}}
+                    <span class="right-arrow-icon">{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
+                </a>
+                {{- with .question -}}
+                <div id="tooltip-element" class="is-relative">
+                    <p>
+                        <a title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
+                        <span class="tooltip left">
+                            {{- .tooltip -}}
+                        </span>
+                    </p>
+                </div>
+                {{- end -}}
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <div class="feature-illustration">
+                    {{ if isset . "video" }}
+                    <video class="feature-illustration-video" autoplay muted loop playsinline style="height:100% !important ;">
+                        <source src="/videos/{{- .video -}}.mp4" />
+                    </video>
+                    {{end}}
+                    {{ if isset . "image" }}
+                    <img class="feature-illustration-img" src="{{- .image -}}" alt=""> 
+                    {{end}}
+                </div>
+                <a  class="learn-more hide-md-up d-flex {{ if isset . "class" }}{{- .class -}}{{end}}" href="{{ $.Site.BaseURL -}}{{- .link.link -}}">
+                    {{- htmlUnescape .link.text -}}
+                    <span>{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
+                </a>
+                {{- with .question -}}
+                <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md-up">{{- .text -}}</a>
+                {{- end -}}
+            </div>    
+        </div>
+    </div>
+   {{- end -}}
+</section>
