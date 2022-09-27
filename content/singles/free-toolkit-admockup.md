@@ -1,14 +1,14 @@
 ---
 title: Ad Mockup Generators | inBeat
 description: >-
-  Everything you need to assist you in influencer marketing
+  Everything you need to generate your own ad mockups
 slug: ad-mockup-generator
 layout: free-toolkit-admockup
 titre: Ad Mockup Generators
-subtitle: "Everything you need to assist you in influencer marketing"
+subtitle: "Everything you need to generate your own ad mockups"
 toolkits:
     - title:  Instagram Ad Mockup <br> Generator 
-      text: Calculate your click through rate for your ads & content across different channels or multiple campaigns 
+      text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
       icon: instagram-ad-mockup
       url: ad-mockup-generator/instagram
     - title:  Facebook Ad Mockup <br> Generator 

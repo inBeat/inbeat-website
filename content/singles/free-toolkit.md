@@ -48,7 +48,7 @@ toolkits:
       icon: bounce-rate-calculator
       url: bounce-rate-calculator
     - title:  Instagram Ad Mockup <br> Generator 
-      text: Calculate your click through rate for your ads & content across different channels or multiple campaigns 
+      text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
       icon: instagram-ad-mockup
       url: ad-mockup-generator/instagram
     - title:  Facebook Ad Mockup <br> Generator 
