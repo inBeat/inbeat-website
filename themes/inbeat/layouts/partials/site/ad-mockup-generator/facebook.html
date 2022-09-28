@@ -87,16 +87,28 @@
                     </div>
                   </uploader>
                 </div>
-                <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
-                      Likes
+                      Website Name
                     </h4>
                     <p class="mockup__description">
-                      Set the number of likes for your post. Numeric input only.
+                      set website name for post.
                     </p>
                     <div class="input-wrapper">
                         <input v-model="websiteName"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="username" maxlength="20" />
+                          class="mockup-input" placeholder="Facebook.com" maxlength="20" />
+                      </div>
+                  </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                    <h4 class="mockup__title">
+                     Headline Copy
+                    </h4>
+                    <p class="mockup__description">
+                      set headline copy for post.
+                    </p>
+                    <div class="input-wrapper">
+                        <input v-model="headlineCopy"  type="text" id="account-name-input"
+                          class="mockup-input" placeholder="Facebook.com" maxlength="20" />
                       </div>
                   </div>
                 <div class="mockup__configuration-ad-action">
@@ -118,6 +130,26 @@
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
+                  <h4 class="mockup__title">
+                    Comments
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of comments for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" placeholder="1" v-model="commentCount">
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
+                  <h4 class="mockup__title">
+                    Share
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of Share for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" placeholder="1" v-model="shareCount">
                 </div>
                 <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                   <h4 class="mockup__title">
@@ -163,39 +195,19 @@
                       <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                           recommended<span></span>
                     </div>
-                    <div v-else  class="ib__facebook-carousel-wrapper" :style="getComputedHeight">
-                      <!-- <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
-                        ?postSrc.length:2}</span> -->
-                     
-                      <!-- <slider :slides="postSrc" @current-post="updateCurrentPost"></slider> -->
+                    <div v-else  class="ib__facebook-carousel-wrapper">
                       <div class="ib-facebook-carousel">
-                        <div  class="ib_facebook-slide">
-                          <div class="post-wrapper">       
-                            <img v-if="postSrc[0] && postSrc[current]" class="preview-image-body" :src="postSrc[current]" alt="">
+                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="post" class="ib_facebook-slide" id="facebook__carousel-slide">
+                          <div class="post-wrapper"  :style="getComputedHeight">       
+                            <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
                                     recommended</span></span>
                             </div>
                             <div class="facebook__carousel-cta">
                               <div class="facebook__cta-wrapper">
                             <div class="facebook__headline-website">
-                              <span class="facebook__cta-website">WEBSITENAME.COM</span>
-                              <span class="facebook__cta-headline">Headline copy here</span>
-                            </div>
-                              <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
-                          </div>
-                              </div>
-                        </div>
-                        <div  class="ib_facebook-slide">
-                          <div class="post-wrapper">       
-                            <img v-if="postSrc[0] && postSrc[current]" class="preview-image-body" :src="postSrc[current]" alt="">
-                                <span v-else class="placeholder-info">1:1<span>1080x1080px
-                                    recommended</span></span>
-                            </div>
-                            <div class="facebook__carousel-cta">
-                              <div class="facebook__cta-wrapper">
-                            <div class="facebook__headline-website">
-                              <span class="facebook__cta-website">WEBSITENAME.COM</span>
-                              <span class="facebook__cta-headline">Headline copy here</span>
+                              <span class="facebook__cta-website">{websiteName}</span>
+                              <span class="facebook__cta-headline">{headlineCopy}</span>
                             </div>
                               <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
                           </div>
@@ -211,8 +223,8 @@
                     </div>
                     <div class="facebook__cta-wrapper" v-if="activeAd.id !== 4">
                       <div class="facebook__headline-website">
-                        <span class="facebook__cta-website">WEBSITENAME.COM</span>
-                        <span class="facebook__cta-headline">Headline copy here</span>
+                        <span class="facebook__cta-website">{websiteName}</span>
+                        <span class="facebook__cta-headline">{headlineCopy}</span>
                       </div>
                         <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
                     </div>
@@ -227,7 +239,7 @@
                           </div>
                         </div>
                         <div class="comment_share-sec">
-                          1 comment 1 share
+                          {commentCount} comment {shareCount} share
                         </div>
                       </div>
                     <div class="facebook__like-comment-cta">
@@ -526,80 +538,20 @@
           </div>
       `
       })
-      Vue.component('slider', {
-          data: function () {
-              return {
-                current: 0,
-                direction: 1,
-                transitionName: "fade",
-                show: false,
-              }
-          },
-          watch:{
-            current(val){
-              this.$emit('current-post', val);
-            }
-          },
-          props:{
-            slides: {
-              type: Array,
-            },
-            optionselected:{
-              type: Object
-            }
-          },
-          methods: {
-            slide(dir) {
-              this.direction = dir;
-              dir === 1 ? (this.transitionName = "slide-next") : (this.transitionName = "slide-prev");
-              var len = this.slides.length;
-              this.current = (this.current + dir % len + len) % len;
-            },
-          },
-          mounted() {
-            this.show = true;
-          },
-  
-          template:  `
-            <div id="slider">
-            
-                <div v-if="show" :key="current" class="slide ib_facebook-slide">
-                  <div class="post-wrapper">       
-                    <img v-if="slides[0] && slides[current]" class="preview-image-body" :src="slides[current]" alt="">
-                        <span v-else class="placeholder-info">1:1<span>1080x1080px
-                            recommended</span></span>
-                    </div>
-                    <div class="facebook__carousel-cta">
-                      <div class="facebook__cta-wrapper">
-                    <div class="facebook__headline-website">
-                      <span class="facebook__cta-website">WEBSITENAME.COM</span>
-                      <span class="facebook__cta-headline">Headline copy here</span>
-                    </div>
-                      <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
-                  </div>
-                      </div>
-                </div>
-              <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
-                <span class="left-arrow"> &#10094; </span>
-              </div>
-              <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
-                <span class="right-arrow"> &#10095;  </span>
-              </div>
-            </div>
-      `
-      })
-  
       var app = new Vue({
         el: '#mockup_builder',
         data: {
               ctaOptions: [{name:'Download',code:'DW'},{name:'Learn more',code:'LN'},{name:'Apply now',code:'AN'},{name:'Shop now',code:'SN'},{name:'Watch more',code:'WM'},{name:'Subscribe',code:'SB'},{name:'Find Yout Groups',code:'FYG'},{name:'Try in Camera',code:'TIC'},{name:'Sign up',code:'SU'},{name:'Book now',code:'BN'},{name:'Call now',code:'CN'},{name:'Contact us',code:'CU'},{name:'Listen Now',code:'LN'},{name:'Get showtimes',code:'GST'},{name:'Order now',code:'ORDE'},{name:'Get directions',code:'GDRE'},{name:'See menu',code:'CME'},{name:'Get quote',code:'GQUO'},{name:'Send message',code:'SEM'},{name:'Send WhatsApp message',code:'SENWMSG'},{name:'Request time',code:'RQT'},{name:'Dial code',code:'DIC'}],
               activeTab: 'controls',
               profileName: '',
-              websiteName: '',
+              websiteName: 'WEBSITENAME.COM',
+              headlineCopy: 'Headline copy here',
               selectedPreviewCTA: {name:'Shop now',code:'SN'},
               dpSrc:null,
               postSrc:[],
               likes: 15,
+              commentCount: 1,
+              shareCount: 1,
               caption: '',
               displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
               captionValue: '',
@@ -788,9 +740,12 @@
             this.dpSrc = null,
             this.postSrc = [],
             this.caption='',
-            this.likes=null,
+            this.likes= 15,
+            this.commentCount= 1,
+            this.shareCount= 1,
             this.profileName = '',
-            this.websiteName = '',
+            this.websiteName = 'WEBSITENAME.COM',
+            this.headlineCopy = 'Headline copy here',
             this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
             this.activePost = 0
           },
@@ -855,7 +810,8 @@
       },
       computed: {
         getComputedHeight() {
-          let  width= document.getElementById('mockup-download-img').offsetWidth - 50
+          let  ele= document.getElementById(this.activeAd.id === 4 ?'facebook__carousel-slide':'mockup-download-img')
+          let width = ele ? this.activeAd.id === 4 ? ele.offsetWidth : ele.offsetWidth - 50 : 300
           return {
             height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
           };
