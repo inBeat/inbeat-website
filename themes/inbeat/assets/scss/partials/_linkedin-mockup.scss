@@ -117,7 +117,7 @@
         color: #707070;
     }
 }
-.ib_facebook-slide{
+.ib_linkedin-slide{
     // display: flex;
     flex-direction: column;
     border: 1px solid #E5E5E5;
@@ -144,28 +144,28 @@
         align-items: center;
         background-color: #F9F9F9;;
     }
-    .facebook__carousel-cta{
+    .linkedin__carousel-cta{
         width: 100%;
         border-top: 1px solid #E5E5E5;
-        .facebook__cta-wrapper{
-            background-color: #ffffff;
-            // width: 100% !important;
-            // flex-wrap: wrap;
+        .slide-text{
+            padding: 13px 15px;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 25px;
+            letter-spacing: 0.01em;
+            color: #000000;
+            display: block;
         }
     }
-    .placeholder-info{
-        // position: absolute;
-        // top: 30%;
-    }
 }
-.ib-facebook-carousel{
+.ib-linkedin-carousel{
     height: 100%;
     width: 100%;
     display: flex;
     overflow-x: scroll;
     overflow-y: hidden;
     gap: 10px;
-    padding-bottom: 2px;
+    padding-bottom: 12px;
     scrollbar-width: none;
     position: relative;
     &::-webkit-scrollbar {
@@ -173,7 +173,7 @@
       }
 
 }
-.ib__facebook-carousel-wrapper{
+.ib__linkedin-carousel-wrapper{
     background: transparent;
     position: relative;
     &:hover{
@@ -199,10 +199,10 @@
         transition: all 0.3s ease-in-out;
       }
       .btn-next{
-        right: 14px;
+        right: 12px;
       }
       .btn-prev{
-        left: 14px;
+        left: 12px;
     }
 }
 .ib__mockup-input-wrapper{
