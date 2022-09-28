@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In India In 2021
+title: Top 10 Architecture TikTok Influencers In India In 2022
 description: >-
-  Find top architecture TikTok influencers in India in 2021. Most popular hashtags: #architecture #foryou #tiktok #foryoupage.
+  Find top architecture TikTok influencers in India in 2022. Most popular hashtags: #architecture #foryou #tiktok #foryoupage.
 platform: TikTok
 hits: 9
 text_top: Identify the best TikTok influencers on inBeat.

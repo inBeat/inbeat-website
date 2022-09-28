@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Australia In 2021
+title: Top 10 Boxers Instagram Influencers In Australia In 2022
 description: >-
-  Find top boxers Instagram influencers in Australia in 2021. Most popular hashtags: #boxing #boxer #c60.
+  Find top boxers Instagram influencers in Australia in 2022. Most popular hashtags: #boxing #boxer #c60.
 platform: Instagram
 hits: 35
 text_top: Discover the most popular Instagram accounts on inBeat.

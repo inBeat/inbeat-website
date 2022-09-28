@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Canada In 2021
+title: Top 10 Beauty Instagram Influencers In Canada In 2022
 description: >-
-  Find top beauty Instagram influencers in Canada in 2021. Most popular hashtags: #makeup #fashion #mua.
+  Find top beauty Instagram influencers in Canada in 2022. Most popular hashtags: #makeup #fashion #mua.
 platform: Instagram
 hits: 1680
 text_top: See the best Instagram accounts on inBeat.

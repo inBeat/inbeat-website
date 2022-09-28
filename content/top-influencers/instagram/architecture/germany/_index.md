@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Germany In 2021
+title: Top 10 Architecture Instagram Influencers In Germany In 2022
 description: >-
-  Find top architecture Instagram influencers in Germany in 2021. Most popular hashtags: #berlin #gramslayers #germany.
+  Find top architecture Instagram influencers in Germany in 2022. Most popular hashtags: #berlin #gramslayers #germany.
 platform: Instagram
 hits: 646
 text_top: Identify the most popular Instagram influencers on inBeat.

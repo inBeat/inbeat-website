@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Greece In 2021
+title: Top 10 Fitness TikTok Influencers In Greece In 2022
 description: >-
-  Find top fitness TikTok influencers in Greece in 2021. Most popular hashtags: #fitness #fyp #tiktok #foryou.
+  Find top fitness TikTok influencers in Greece in 2022. Most popular hashtags: #fitness #fyp #tiktok #foryou.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Australia In 2021
+title: Top 10 Home Decor Instagram Influencers In Australia In 2022
 description: >-
-  Find top home decor Instagram influencers in Australia in 2021. Most popular hashtags: #homedecor #interiordesign #design #interior.
+  Find top home decor Instagram influencers in Australia in 2022. Most popular hashtags: #homedecor #interiordesign #design #interior.
 platform: Instagram
 hits: 107
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Norway In 2021
+title: Top 10 Gardening Instagram Influencers In Norway In 2022
 description: >-
-  Find top gardening Instagram influencers in Norway in 2021. Most popular hashtags: #gardeninspiration #garden #gardendesign #interiordesign.
+  Find top gardening Instagram influencers in Norway in 2022. Most popular hashtags: #gardeninspiration #garden #gardendesign #interiordesign.
 platform: Instagram
 hits: 21
 text_top: Discover the most popular Instagram profiles on inBeat.

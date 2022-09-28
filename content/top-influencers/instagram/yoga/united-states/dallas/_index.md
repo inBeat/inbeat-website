@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Dallas In 2021
+title: Top 10 Yoga Instagram Influencers In Dallas In 2022
 description: >-
-  Find top yoga Instagram influencers in Dallas in 2021. Most popular hashtags: #yoga #dallas #workout #fitness.
+  Find top yoga Instagram influencers in Dallas in 2022. Most popular hashtags: #yoga #dallas #workout #fitness.
 platform: Instagram
 hits: 36
 text_top: Analyze the most popular Instagram influencers on inBeat.

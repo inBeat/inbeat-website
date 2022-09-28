@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Croatia In 2021
+title: Top 10 TikTok Influencers In Croatia In 2022
 description: >-
-  Find top TikTok influencers in Croatia in 2021. Most popular hashtags: #fyp #foryoupage #foryou.
+  Find top TikTok influencers in Croatia in 2022. Most popular hashtags: #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 149
 text_top: Discover the most popular TikTok profiles on inBeat.

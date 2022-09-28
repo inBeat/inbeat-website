@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Portugal In 2021
+title: Top 10 Comedians Instagram Influencers In Portugal In 2022
 description: >-
-  Find top comedians Instagram influencers in Portugal in 2021. Most popular hashtags: #comedia #portugal #tiktok.
+  Find top comedians Instagram influencers in Portugal in 2022. Most popular hashtags: #comedia #portugal #tiktok.
 platform: Instagram
 hits: 8
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Seattle In 2021
+title: Top 10 Nutrition TikTok Influencers In Seattle In 2022
 description: >-
-  Find top nutrition TikTok influencers in Seattle in 2021. Most popular hashtags: #fyp #foryou #duet #love.
+  Find top nutrition TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #foryou #duet #love.
 platform: TikTok
 hits: 4
 text_top: Identify the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In United States In 2021
+title: Top 10 Boxers TikTok Influencers In United States In 2022
 description: >-
-  Find top boxers TikTok influencers in United States in 2021. Most popular hashtags: #fyp #foryou #duet #doitbold.
+  Find top boxers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #duet #doitbold.
 platform: TikTok
 hits: 233
 text_top: Identify the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In United States In 2021
+title: Top 10 Gaming TikTok Influencers In United States In 2022
 description: >-
-  Find top gaming TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #greenscreen #gamer.
+  Find top gaming TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #greenscreen #gamer.
 platform: TikTok
 hits: 6058
 text_top: Discover the top-rated TikTok profiles on inBeat.

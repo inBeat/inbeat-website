@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Christian Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top christian Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #uae #mydubai #dubailife.
+  Find top christian Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #uae #mydubai #dubailife.
 platform: Instagram
 hits: 15
 text_top: Discover the best Instagram profiles on inBeat.

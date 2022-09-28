@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Toronto In 2021
+title: Top 10 Christian Instagram Influencers In Toronto In 2022
 description: >-
-  Find top christian Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #minimalism #ad.
+  Find top christian Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #minimalism #ad.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram influencers on inBeat.

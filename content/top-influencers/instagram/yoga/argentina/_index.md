@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Argentina In 2021
+title: Top 10 Yoga Instagram Influencers In Argentina In 2022
 description: >-
-  Find top yoga Instagram influencers in Argentina in 2021. Most popular hashtags: #yoga #familia #naturaleza.
+  Find top yoga Instagram influencers in Argentina in 2022. Most popular hashtags: #yoga #familia #naturaleza.
 platform: Instagram
 hits: 75
 text_top: See the best Instagram influencers on inBeat.

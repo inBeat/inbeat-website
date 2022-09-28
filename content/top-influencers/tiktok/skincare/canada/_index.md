@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Canada In 2021
+title: Top 10 Skincare TikTok Influencers In Canada In 2022
 description: >-
-  Find top skincare TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #foryou #skincare #skincareroutine.
+  Find top skincare TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #skincare #skincareroutine.
 platform: TikTok
 hits: 336
 text_top: Analyze the most popular TikTok influencers on inBeat.

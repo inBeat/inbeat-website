@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Dallas In 2021
+title: Top 10 Fitness TikTok Influencers In Dallas In 2022
 description: >-
-  Find top fitness TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #duet #dallas #foryou.
+  Find top fitness TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #duet #dallas #foryou.
 platform: TikTok
 hits: 32
 text_top: Analyze the best TikTok profiles on inBeat.

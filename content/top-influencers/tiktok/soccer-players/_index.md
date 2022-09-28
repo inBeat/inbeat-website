@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players TikTok Influencers In 2021
+title: Top 10 Soccer-Players TikTok Influencers In 2022
 description: >-
-  Find top soccer-players TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #soccer #greenscreen.
+  Find top soccer-players TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #soccer #greenscreen.
 platform: TikTok
 hits: 106
 text_top: Identify the most popular TikTok accounts on inBeat.

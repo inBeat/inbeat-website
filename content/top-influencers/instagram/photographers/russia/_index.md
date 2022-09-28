@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Russia In 2021
+title: Top 10 Photographers Instagram Influencers In Russia In 2022
 description: >-
-  Find top photographers Instagram influencers in Russia in 2021. Most popular hashtags: #portrait #moscow #fashionphotography.
+  Find top photographers Instagram influencers in Russia in 2022. Most popular hashtags: #portrait #moscow #fashionphotography.
 platform: Instagram
 hits: 968
 text_top: Discover the top-rated Instagram profiles on inBeat.

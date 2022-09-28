@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In New Delhi In 2021
+title: Top 10 Food Instagram Influencers In New Delhi In 2022
 description: >-
-  Find top food Instagram influencers in New Delhi in 2021. Most popular hashtags: #delhi #food #homemade #delhidiaries.
+  Find top food Instagram influencers in New Delhi in 2022. Most popular hashtags: #delhi #food #homemade #delhidiaries.
 platform: Instagram
 hits: 111
 text_top: Identify the top-rated Instagram influencers on inBeat.

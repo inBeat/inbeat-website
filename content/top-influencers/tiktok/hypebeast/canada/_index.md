@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Canada In 2021
+title: Top 10 Hypebeast TikTok Influencers In Canada In 2022
 description: >-
-  Find top hypebeast TikTok influencers in Canada in 2021. Most popular hashtags: #hypebeast #sneakers #fyp #nike.
+  Find top hypebeast TikTok influencers in Canada in 2022. Most popular hashtags: #hypebeast #sneakers #fyp #nike.
 platform: TikTok
 hits: 35
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In India In 2021
+title: Top 10 Photographers Instagram Influencers In India In 2022
 description: >-
-  Find top photographers Instagram influencers in India in 2021. Most popular hashtags: #instagram #photooftheday #instagood.
+  Find top photographers Instagram influencers in India in 2022. Most popular hashtags: #instagram #photooftheday #instagood.
 platform: Instagram
 hits: 3406
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In United States In 2021
+title: Top 10 Yoga TikTok Influencers In United States In 2022
 description: >-
-  Find top yoga TikTok influencers in United States in 2021. Most popular hashtags: #fyp #yoga #duet #foryou.
+  Find top yoga TikTok influencers in United States in 2022. Most popular hashtags: #fyp #yoga #duet #foryou.
 platform: TikTok
 hits: 957
 text_top: Discover the best TikTok influencers on inBeat.

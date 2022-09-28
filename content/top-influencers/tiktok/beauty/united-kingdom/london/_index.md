@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In London In 2021
+title: Top 10 Beauty TikTok Influencers In London In 2022
 description: >-
-  Find top beauty TikTok influencers in London in 2021. Most popular hashtags: #fyp #london #beauty #uk.
+  Find top beauty TikTok influencers in London in 2022. Most popular hashtags: #fyp #london #beauty #uk.
 platform: TikTok
 hits: 48
 text_top: Identify the best TikTok accounts on inBeat.

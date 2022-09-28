@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Norway In 2021
+title: Top 10 Cinema Instagram Influencers In Norway In 2022
 description: >-
-  Find top cinema Instagram influencers in Norway in 2021. Most popular hashtags: #norway #nature #oslo.
+  Find top cinema Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #oslo.
 platform: Instagram
 hits: 15
 text_top: Discover the top-rated Instagram influencers on inBeat.

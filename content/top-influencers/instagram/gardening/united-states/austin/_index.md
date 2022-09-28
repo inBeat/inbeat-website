@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Austin In 2021
+title: Top 10 Gardening Instagram Influencers In Austin In 2022
 description: >-
-  Find top gardening Instagram influencers in Austin in 2021. Most popular hashtags: #gardening #love #outdoors #garden.
+  Find top gardening Instagram influencers in Austin in 2022. Most popular hashtags: #gardening #love #outdoors #garden.
 platform: Instagram
 hits: 7
 text_top: See the best Instagram profiles on inBeat.

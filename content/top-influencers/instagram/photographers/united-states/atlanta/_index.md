@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Atlanta In 2021
+title: Top 10 Photographers Instagram Influencers In Atlanta In 2022
 description: >-
-  Find top photographers Instagram influencers in Atlanta in 2021. Most popular hashtags: #atlanta #photographer #atlantaphotographer.
+  Find top photographers Instagram influencers in Atlanta in 2022. Most popular hashtags: #atlanta #photographer #atlantaphotographer.
 platform: Instagram
 hits: 220
 text_top: Analyze the best Instagram influencers on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Jamie Sapp
     bio: >-
-      •Creating art with babies ❤️ •Newborn & Child photographer •Atlanta, Ga • Click Pro CURRENTLY BOOKING Newborns OCT 2020 - MAR 2021
+      •Creating art with babies ❤️ •Newborn & Child photographer •Atlanta, Ga • Click Pro CURRENTLY BOOKING Newborns OCT 2020 - MAR 2022
     location: "United States"
     followers: 27787
     engagement: 179

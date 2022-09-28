@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Berlin In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Berlin In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Berlin in 2021. Most popular hashtags: #graphicdesign #graphicdesigner #art.
+  Find top graphic-designers Instagram influencers in Berlin in 2022. Most popular hashtags: #graphicdesign #graphicdesigner #art.
 platform: Instagram
 hits: 6
 text_top: See the most popular Instagram accounts on inBeat.

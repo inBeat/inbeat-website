@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Singapore In 2021
+title: Top 10 Fitness Instagram Influencers In Singapore In 2022
 description: >-
-  Find top fitness Instagram influencers in Singapore in 2021. Most popular hashtags: #sgunited #stayhome #circuitbreaker.
+  Find top fitness Instagram influencers in Singapore in 2022. Most popular hashtags: #sgunited #stayhome #circuitbreaker.
 platform: Instagram
 hits: 34
 text_top: See the most popular Instagram profiles on inBeat.

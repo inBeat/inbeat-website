@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Spain In 2021
+title: Top 10 Bodybuilding Instagram Influencers In Spain In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in Spain in 2021. Most popular hashtags: #bodybuilding #gym #fitness #workout.
+  Find top bodybuilding Instagram influencers in Spain in 2022. Most popular hashtags: #bodybuilding #gym #fitness #workout.
 platform: Instagram
 hits: 120
 text_top: Discover the most popular Instagram profiles on inBeat.

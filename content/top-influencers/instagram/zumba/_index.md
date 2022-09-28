@@ -1,7 +1,7 @@
 ---
-title: Top 10 Zumba Instagram Influencers In 2021
+title: Top 10 Zumba Instagram Influencers In 2022
 description: >-
-  Find top zumba Instagram influencers in 2021. Most popular hashtags: #zumba #zumbafitness #woman #fitness.
+  Find top zumba Instagram influencers in 2022. Most popular hashtags: #zumba #zumbafitness #woman #fitness.
 platform: Instagram
 hits: 555
 text_top: Analyze the top-rated Instagram influencers on inBeat.

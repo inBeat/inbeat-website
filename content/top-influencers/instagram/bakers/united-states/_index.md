@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In United States In 2021
+title: Top 10 Bakers Instagram Influencers In United States In 2022
 description: >-
-  Find top bakers Instagram influencers in United States in 2021. Most popular hashtags: #tbt #blacklivesmatter #love.
+  Find top bakers Instagram influencers in United States in 2022. Most popular hashtags: #tbt #blacklivesmatter #love.
 platform: Instagram
 hits: 3666
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In United States In 2021
+title: Top 10 Mma Fighters Instagram Influencers In United States In 2022
 description: >-
-  Find top mma fighters Instagram influencers in United States in 2021. Most popular hashtags: #mma #ufc #jiujitsu.
+  Find top mma fighters Instagram influencers in United States in 2022. Most popular hashtags: #mma #ufc #jiujitsu.
 platform: Instagram
 hits: 62
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Rome In 2021
+title: Top 10 Beauty TikTok Influencers In Rome In 2022
 description: >-
-  Find top beauty TikTok influencers in Rome in 2021. Most popular hashtags: #perte #fyp #comedy #funny.
+  Find top beauty TikTok influencers in Rome in 2022. Most popular hashtags: #perte #fyp #comedy #funny.
 platform: TikTok
 hits: 4
 text_top: See the most popular TikTok profiles on inBeat.

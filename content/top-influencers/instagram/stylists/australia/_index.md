@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Australia In 2021
+title: Top 10 Stylists Instagram Influencers In Australia In 2022
 description: >-
-  Find top stylists Instagram influencers in Australia in 2021. Most popular hashtags: #love #mensfashion #style.
+  Find top stylists Instagram influencers in Australia in 2022. Most popular hashtags: #love #mensfashion #style.
 platform: Instagram
 hits: 214
 text_top: Identify the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In New York In 2021
+title: Top 10 Barbers Instagram Influencers In New York In 2022
 description: >-
-  Find top barbers Instagram influencers in New York in 2021. Most popular hashtags: #barber #barbershop #barbershopconnect #newyorkbarber.
+  Find top barbers Instagram influencers in New York in 2022. Most popular hashtags: #barber #barbershop #barbershopconnect #newyorkbarber.
 platform: Instagram
 hits: 68
 text_top: See the top-rated Instagram influencers on inBeat.

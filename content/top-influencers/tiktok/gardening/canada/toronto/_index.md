@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Toronto In 2021
+title: Top 10 Gardening TikTok Influencers In Toronto In 2022
 description: >-
-  Find top gardening TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #gardening #foryou #toronto.
+  Find top gardening TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #gardening #foryou #toronto.
 platform: TikTok
 hits: 4
 text_top: See the top-rated TikTok profiles on inBeat.

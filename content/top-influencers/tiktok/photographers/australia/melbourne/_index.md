@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Melbourne In 2021
+title: Top 10 Photographers TikTok Influencers In Melbourne In 2022
 description: >-
-  Find top photographers TikTok influencers in Melbourne in 2021. Most popular hashtags: #fyp #melbourne #photographer #foryou.
+  Find top photographers TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #melbourne #photographer #foryou.
 platform: TikTok
 hits: 10
 text_top: See the top-rated TikTok accounts on inBeat.

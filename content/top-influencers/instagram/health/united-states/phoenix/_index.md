@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Phoenix In 2021
+title: Top 10 Health Instagram Influencers In Phoenix In 2022
 description: >-
-  Find top health Instagram influencers in Phoenix in 2021. Most popular hashtags: #health #workout #fitspo #fitness.
+  Find top health Instagram influencers in Phoenix in 2022. Most popular hashtags: #health #workout #fitspo #fitness.
 platform: Instagram
 hits: 57
 text_top: Discover the best Instagram influencers on inBeat.

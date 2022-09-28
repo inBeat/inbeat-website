@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In 2021
+title: Top 10 Divers TikTok Influencers In 2022
 description: >-
-  Find top divers TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #dueto #tiktok.
+  Find top divers TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #dueto #tiktok.
 platform: TikTok
 hits: 1847
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Chicago In 2021
+title: Top 10 Comedians Instagram Influencers In Chicago In 2022
 description: >-
-  Find top comedians Instagram influencers in Chicago in 2021. Most popular hashtags: #quarantine #chicago #comedy.
+  Find top comedians Instagram influencers in Chicago in 2022. Most popular hashtags: #quarantine #chicago #comedy.
 platform: Instagram
 hits: 28
 text_top: Identify the most popular Instagram influencers on inBeat.

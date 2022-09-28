@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In London In 2021
+title: Top 10 TikTok Influencers In London In 2022
 description: >-
-  Find top TikTok influencers in London in 2021. Most popular hashtags: #fyp #duet #foryou #london.
+  Find top TikTok influencers in London in 2022. Most popular hashtags: #fyp #duet #foryou #london.
 platform: TikTok
 hits: 1100
 text_top: Identify the best TikTok influencers on inBeat.

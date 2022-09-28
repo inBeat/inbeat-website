@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Brazil In 2021
+title: Top 10 Comedians TikTok Influencers In Brazil In 2022
 description: >-
-  Find top comedians TikTok influencers in Brazil in 2021. Most popular hashtags: #comedia #humor #fy #fusioninfluencers.
+  Find top comedians TikTok influencers in Brazil in 2022. Most popular hashtags: #comedia #humor #fy #fusioninfluencers.
 platform: TikTok
 hits: 1415
 text_top: Analyze the top-rated TikTok accounts on inBeat.

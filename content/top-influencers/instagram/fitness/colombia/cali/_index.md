@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Cali In 2021
+title: Top 10 Fitness Instagram Influencers In Cali In 2022
 description: >-
-  Find top fitness Instagram influencers in Cali in 2021. Most popular hashtags: #colombia #cali #fitness #zumba.
+  Find top fitness Instagram influencers in Cali in 2022. Most popular hashtags: #colombia #cali #fitness #zumba.
 platform: Instagram
 hits: 49
 text_top: Identify the most popular Instagram accounts on inBeat.

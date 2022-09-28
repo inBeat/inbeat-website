@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Melbourne In 2021
+title: Top 10 Instagram Influencers In Melbourne In 2022
 description: >-
-  Find top Instagram influencers in Melbourne in 2021. Most popular hashtags: #dubai #kathmanduvalley #amazingnepal.
+  Find top Instagram influencers in Melbourne in 2022. Most popular hashtags: #dubai #kathmanduvalley #amazingnepal.
 platform: Instagram
 hits: 1504
 text_top: Discover the most popular Instagram profiles on inBeat.

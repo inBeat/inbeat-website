@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Germany In 2021
+title: Top 10 Motivational Speakers Instagram Influencers In Germany In 2022
 description: >-
-  Find top motivational speakers Instagram influencers in Germany in 2021. Most popular hashtags: #motivation #love #happy #inspiration.
+  Find top motivational speakers Instagram influencers in Germany in 2022. Most popular hashtags: #motivation #love #happy #inspiration.
 platform: Instagram
 hits: 76
 text_top: Discover the best Instagram profiles on inBeat.

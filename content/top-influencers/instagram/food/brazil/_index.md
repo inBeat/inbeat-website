@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Brazil In 2021
+title: Top 10 Food Instagram Influencers In Brazil In 2022
 description: >-
-  Find top food Instagram influencers in Brazil in 2021. Most popular hashtags: #fotografia #quarentena #tbt.
+  Find top food Instagram influencers in Brazil in 2022. Most popular hashtags: #fotografia #quarentena #tbt.
 platform: Instagram
 hits: 1025
 text_top: Discover the top-rated Instagram profiles on inBeat.

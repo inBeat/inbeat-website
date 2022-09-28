@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Austria In 2021
+title: Top 10 Cooking TikTok Influencers In Austria In 2022
 description: >-
-  Find top cooking TikTok influencers in Austria in 2021. Most popular hashtags: #cooking #foryou #fyp #viral.
+  Find top cooking TikTok influencers in Austria in 2022. Most popular hashtags: #cooking #foryou #fyp #viral.
 platform: TikTok
 hits: 19
 text_top: Analyze the most popular TikTok accounts on inBeat.

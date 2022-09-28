@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Indonesia In 2021
+title: Top 10 Health TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top health TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #duet #foryou #samasamabelajar.
+  Find top health TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #duet #foryou #samasamabelajar.
 platform: TikTok
 hits: 31
 text_top: Analyze the most popular TikTok influencers on inBeat.

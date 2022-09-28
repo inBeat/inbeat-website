@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Miami In 2021
+title: Top 10 Food Instagram Influencers In Miami In 2022
 description: >-
-  Find top food Instagram influencers in Miami in 2021. Most popular hashtags: #miami #food #miamibeach #fitness.
+  Find top food Instagram influencers in Miami in 2022. Most popular hashtags: #miami #food #miamibeach #fitness.
 platform: Instagram
 hits: 206
 text_top: See the top-rated Instagram profiles on inBeat.

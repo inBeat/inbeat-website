@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Brazil In 2021
+title: Top 10 Painters TikTok Influencers In Brazil In 2022
 description: >-
-  Find top painters TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #foryou #foryoupage #fy.
+  Find top painters TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
 hits: 47
 text_top: Identify the best TikTok profiles on inBeat.

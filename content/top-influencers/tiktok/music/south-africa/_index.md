@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In South Africa In 2021
+title: Top 10 Music TikTok Influencers In South Africa In 2022
 description: >-
-  Find top music TikTok influencers in South Africa in 2021. Most popular hashtags: #comedy #duet #fyp #music.
+  Find top music TikTok influencers in South Africa in 2022. Most popular hashtags: #comedy #duet #fyp #music.
 platform: TikTok
 hits: 54
 text_top: Identify the most popular TikTok profiles on inBeat.

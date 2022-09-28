@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Ukraine In 2021
+title: Top 10 Barbers Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top barbers Instagram influencers in Ukraine in 2021. Most popular hashtags: #barbershop #kyiv #ukraine #barber.
+  Find top barbers Instagram influencers in Ukraine in 2022. Most popular hashtags: #barbershop #kyiv #ukraine #barber.
 platform: Instagram
 hits: 26
 text_top: Discover the top-rated Instagram influencers on inBeat.

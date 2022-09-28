@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Australia In 2021
+title: Top 10 Models Instagram Influencers In Australia In 2022
 description: >-
-  Find top models Instagram influencers in Australia in 2021. Most popular hashtags: #modeling #modelling #australia.
+  Find top models Instagram influencers in Australia in 2022. Most popular hashtags: #modeling #modelling #australia.
 platform: Instagram
 hits: 730
 text_top: See the best Instagram profiles on inBeat.

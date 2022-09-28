@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Singapore In 2021
+title: Top 10 Home Decor Instagram Influencers In Singapore In 2022
 description: >-
-  Find top home decor Instagram influencers in Singapore in 2021. Most popular hashtags: #stayhome #homedecor #cute #plants.
+  Find top home decor Instagram influencers in Singapore in 2022. Most popular hashtags: #stayhome #homedecor #cute #plants.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram influencers on inBeat.

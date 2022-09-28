@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Denver In 2021
+title: Top 10 Vegan Instagram Influencers In Denver In 2022
 description: >-
-  Find top vegan Instagram influencers in Denver in 2021. Most popular hashtags: #vegan #colorado #sponsored.
+  Find top vegan Instagram influencers in Denver in 2022. Most popular hashtags: #vegan #colorado #sponsored.
 platform: Instagram
 hits: 15
 text_top: Analyze the best Instagram influencers on inBeat.

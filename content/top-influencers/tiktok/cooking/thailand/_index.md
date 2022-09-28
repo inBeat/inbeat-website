@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Thailand In 2021
+title: Top 10 Cooking TikTok Influencers In Thailand In 2022
 description: >-
-  Find top cooking TikTok influencers in Thailand in 2021. Most popular hashtags: #fyp #cooking #foryou #foryoupage.
+  Find top cooking TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #cooking #foryou #foryoupage.
 platform: TikTok
 hits: 15
 text_top: See the top-rated TikTok profiles on inBeat.

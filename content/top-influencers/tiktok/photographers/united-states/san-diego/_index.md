@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In San Diego In 2021
+title: Top 10 Photographers TikTok Influencers In San Diego In 2022
 description: >-
-  Find top photographers TikTok influencers in San Diego in 2021. Most popular hashtags: #sandiego #fyp #photographer #foryoupage.
+  Find top photographers TikTok influencers in San Diego in 2022. Most popular hashtags: #sandiego #fyp #photographer #foryoupage.
 platform: TikTok
 hits: 19
 text_top: Identify the top-rated TikTok accounts on inBeat.

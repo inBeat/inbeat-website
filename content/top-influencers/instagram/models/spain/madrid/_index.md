@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Madrid In 2021
+title: Top 10 Models Instagram Influencers In Madrid In 2022
 description: >-
-  Find top models Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #model #friends.
+  Find top models Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #model #friends.
 platform: Instagram
 hits: 288
 text_top: Discover the top-rated Instagram influencers on inBeat.

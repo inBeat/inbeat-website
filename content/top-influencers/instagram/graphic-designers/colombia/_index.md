@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Colombia In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Colombia In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Colombia in 2021. Most popular hashtags: #illustration #procreate #graphicdesign #design.
+  Find top graphic-designers Instagram influencers in Colombia in 2022. Most popular hashtags: #illustration #procreate #graphicdesign #design.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Canada In 2021
+title: Top 10 Gardening Instagram Influencers In Canada In 2022
 description: >-
-  Find top gardening Instagram influencers in Canada in 2021. Most popular hashtags: #gardening #flowers #garden #gardenlife.
+  Find top gardening Instagram influencers in Canada in 2022. Most popular hashtags: #gardening #flowers #garden #gardenlife.
 platform: Instagram
 hits: 79
 text_top: Discover the most popular Instagram accounts on inBeat.

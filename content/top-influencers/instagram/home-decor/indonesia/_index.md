@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Indonesia In 2021
+title: Top 10 Home Decor Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top home decor Instagram influencers in Indonesia in 2021. Most popular hashtags: #homedecor #rumahminimalis #homedecorloversid #homesweethome.
+  Find top home decor Instagram influencers in Indonesia in 2022. Most popular hashtags: #homedecor #rumahminimalis #homedecorloversid #homesweethome.
 platform: Instagram
 hits: 104
 text_top: See the best Instagram influencers on inBeat.

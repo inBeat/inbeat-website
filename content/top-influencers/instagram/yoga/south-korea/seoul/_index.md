@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Seoul In 2021
+title: Top 10 Yoga Instagram Influencers In Seoul In 2022
 description: >-
-  Find top yoga Instagram influencers in Seoul in 2021. Most popular hashtags: #ootd #yoga #flowers.
+  Find top yoga Instagram influencers in Seoul in 2022. Most popular hashtags: #ootd #yoga #flowers.
 platform: Instagram
 hits: 5
 text_top: Identify the most popular Instagram profiles on inBeat.

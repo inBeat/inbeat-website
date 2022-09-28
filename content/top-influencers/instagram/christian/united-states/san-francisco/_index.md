@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In San Francisco In 2021
+title: Top 10 Christian Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top christian Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #love #influencer #photography.
+  Find top christian Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #love #influencer #photography.
 platform: Instagram
 hits: 8
 text_top: See the best Instagram profiles on inBeat.

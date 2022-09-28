@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2021
+title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Birmingham in 2021. Most popular hashtags: #lifestyle #fashionblogger #fashion #style.
+  Find top lifestyle Instagram influencers in Birmingham in 2022. Most popular hashtags: #lifestyle #fashionblogger #fashion #style.
 platform: Instagram
 hits: 23
 text_top: Identify the best Instagram accounts on inBeat.

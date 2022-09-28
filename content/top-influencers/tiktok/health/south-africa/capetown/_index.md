@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Capetown In 2021
+title: Top 10 Health TikTok Influencers In Capetown In 2022
 description: >-
-  Find top health TikTok influencers in Capetown in 2021. Most popular hashtags: #fyp #viral #tiktoksouthafrica #foryou.
+  Find top health TikTok influencers in Capetown in 2022. Most popular hashtags: #fyp #viral #tiktoksouthafrica #foryou.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok influencers on inBeat.

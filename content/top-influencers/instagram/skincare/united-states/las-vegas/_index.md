@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Las Vegas In 2021
+title: Top 10 Skincare Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top skincare Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #skincare #halloween #fashionmodel.
+  Find top skincare Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #skincare #halloween #fashionmodel.
 platform: Instagram
 hits: 48
 text_top: Analyze the best Instagram accounts on inBeat.

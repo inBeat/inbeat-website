@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Switzerland In 2021
+title: Top 10 Barbers Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top barbers Instagram influencers in Switzerland in 2021. Most popular hashtags: #barber #switzerland #love #schweiz.
+  Find top barbers Instagram influencers in Switzerland in 2022. Most popular hashtags: #barber #switzerland #love #schweiz.
 platform: Instagram
 hits: 11
 text_top: Discover the top-rated Instagram accounts on inBeat.

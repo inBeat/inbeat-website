@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Toronto In 2021
+title: Top 10 Bloggers Instagram Influencers In Toronto In 2022
 description: >-
-  Find top bloggers Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #blogger #canada #explore.
+  Find top bloggers Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #blogger #canada #explore.
 platform: Instagram
 hits: 129
 text_top: See the best Instagram profiles on inBeat.

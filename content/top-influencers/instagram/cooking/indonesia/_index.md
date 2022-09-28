@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Indonesia In 2021
+title: Top 10 Cooking Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top cooking Instagram influencers in Indonesia in 2021. Most popular hashtags: #masaksimple #foodstagram #foods #kuetradisional.
+  Find top cooking Instagram influencers in Indonesia in 2022. Most popular hashtags: #masaksimple #foodstagram #foods #kuetradisional.
 platform: Instagram
 hits: 363
 text_top: Analyze the most popular Instagram profiles on inBeat.

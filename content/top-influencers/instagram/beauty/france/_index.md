@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In France In 2021
+title: Top 10 Beauty Instagram Influencers In France In 2022
 description: >-
-  Find top beauty Instagram influencers in France in 2021. Most popular hashtags: #concours #fashion #beauty.
+  Find top beauty Instagram influencers in France in 2022. Most popular hashtags: #concours #fashion #beauty.
 platform: Instagram
 hits: 3566
 text_top: See the best Instagram influencers on inBeat.

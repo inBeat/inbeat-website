@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Portugal In 2021
+title: Top 10 Bloggers Instagram Influencers In Portugal In 2022
 description: >-
-  Find top bloggers Instagram influencers in Portugal in 2021. Most popular hashtags: #portugal #ootd #fashion #outfit.
+  Find top bloggers Instagram influencers in Portugal in 2022. Most popular hashtags: #portugal #ootd #fashion #outfit.
 platform: Instagram
 hits: 99
 text_top: Analyze the top-rated Instagram influencers on inBeat.

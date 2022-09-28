@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players TikTok Influencers In United States In 2021
+title: Top 10 Soccer-Players TikTok Influencers In United States In 2022
 description: >-
-  Find top soccer-players TikTok influencers in United States in 2021. Most popular hashtags: #soccerplayer #soccer #soccergirl #fyp.
+  Find top soccer-players TikTok influencers in United States in 2022. Most popular hashtags: #soccerplayer #soccer #soccergirl #fyp.
 platform: TikTok
 hits: 59
 text_top: Analyze the best TikTok profiles on inBeat.

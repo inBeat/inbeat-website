@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In New York In 2021
+title: Top 10 Cosmetics TikTok Influencers In New York In 2022
 description: >-
-  Find top cosmetics TikTok influencers in New York in 2021. Most popular hashtags: #makeup #fyp #viral #foryou.
+  Find top cosmetics TikTok influencers in New York in 2022. Most popular hashtags: #makeup #fyp #viral #foryou.
 platform: TikTok
 hits: 7
 text_top: See the most popular TikTok profiles on inBeat.

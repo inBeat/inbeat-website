@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Los Angeles In 2021
+title: Top 10 Beauty TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top beauty TikTok influencers in Los Angeles in 2021. Most popular hashtags: #beauty #fyp #losangeles #hair.
+  Find top beauty TikTok influencers in Los Angeles in 2022. Most popular hashtags: #beauty #fyp #losangeles #hair.
 platform: TikTok
 hits: 49
 text_top: Identify the best TikTok profiles on inBeat.

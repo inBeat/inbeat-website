@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Canada In 2021
+title: Top 10 Lingerie Instagram Influencers In Canada In 2022
 description: >-
-  Find top lingerie Instagram influencers in Canada in 2021. Most popular hashtags: #lingerie #model #photoshoot #blackandwhite.
+  Find top lingerie Instagram influencers in Canada in 2022. Most popular hashtags: #lingerie #model #photoshoot #blackandwhite.
 platform: Instagram
 hits: 54
 text_top: See the top-rated Instagram accounts on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       𝐈𝐧𝐤𝐞𝐝 𝐁𝐚𝐫𝐛𝐢𝐞
     bio: >-
-      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2021 Booking: anngael.lusignan7@hotmail.com
+      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2022 Booking: anngael.lusignan7@hotmail.com
     location: "Canada"
     followers: 66680
     engagement: 174

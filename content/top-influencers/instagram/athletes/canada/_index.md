@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Canada In 2021
+title: Top 10 Athletes Instagram Influencers In Canada In 2022
 description: >-
-  Find top athletes Instagram influencers in Canada in 2021. Most popular hashtags: #hometeam #ootd #montreal.
+  Find top athletes Instagram influencers in Canada in 2022. Most popular hashtags: #hometeam #ootd #montreal.
 platform: Instagram
 hits: 249
 text_top: Analyze the top-rated Instagram influencers on inBeat.

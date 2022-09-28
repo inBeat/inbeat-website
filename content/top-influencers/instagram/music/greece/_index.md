@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Greece In 2021
+title: Top 10 Music Instagram Influencers In Greece In 2022
 description: >-
-  Find top music Instagram influencers in Greece in 2021. Most popular hashtags: #love #music #summer.
+  Find top music Instagram influencers in Greece in 2022. Most popular hashtags: #love #music #summer.
 platform: Instagram
 hits: 217
 text_top: Analyze the most popular Instagram accounts on inBeat.

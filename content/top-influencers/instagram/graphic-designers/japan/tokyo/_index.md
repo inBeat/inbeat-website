@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Tokyo In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Tokyo in 2021. Most popular hashtags: #graphicdesign #tokyo #artwork #japan.
+  Find top graphic-designers Instagram influencers in Tokyo in 2022. Most popular hashtags: #graphicdesign #tokyo #artwork #japan.
 platform: Instagram
 hits: 10
 text_top: See the most popular Instagram profiles on inBeat.

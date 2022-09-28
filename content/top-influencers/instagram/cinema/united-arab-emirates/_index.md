@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Cinema Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top cinema Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #photography #uae #cinematography.
+  Find top cinema Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #photography #uae #cinematography.
 platform: Instagram
 hits: 26
 text_top: Analyze the best Instagram influencers on inBeat.

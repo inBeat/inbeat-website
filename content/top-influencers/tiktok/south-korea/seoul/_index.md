@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Seoul In 2021
+title: Top 10 TikTok Influencers In Seoul In 2022
 description: >-
-  Find top TikTok influencers in Seoul in 2021. Most popular hashtags: #seoul #korea #kpop #bts.
+  Find top TikTok influencers in Seoul in 2022. Most popular hashtags: #seoul #korea #kpop #bts.
 platform: TikTok
 hits: 37
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In United States In 2021
+title: Top 10 Gaming Instagram Influencers In United States In 2022
 description: >-
-  Find top gaming Instagram influencers in United States in 2021. Most popular hashtags: #cosplay #tiktok #twitch.
+  Find top gaming Instagram influencers in United States in 2022. Most popular hashtags: #cosplay #tiktok #twitch.
 platform: Instagram
 hits: 1680
 text_top: Identify the best Instagram accounts on inBeat.

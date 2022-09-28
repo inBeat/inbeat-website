@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Toronto In 2021
+title: Top 10 Travel Instagram Influencers In Toronto In 2022
 description: >-
-  Find top travel Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #travel #torontofashion #blogto.
+  Find top travel Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #travel #torontofashion #blogto.
 platform: Instagram
 hits: 280
 text_top: Identify the most popular Instagram profiles on inBeat.

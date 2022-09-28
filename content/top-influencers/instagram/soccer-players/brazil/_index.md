@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Brazil In 2021
+title: Top 10 Soccer-Players Instagram Influencers In Brazil In 2022
 description: >-
-  Find top soccer-players Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #repost #davidasilva.
+  Find top soccer-players Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #repost #davidasilva.
 platform: Instagram
 hits: 27
 text_top: Discover the top-rated Instagram influencers on inBeat.

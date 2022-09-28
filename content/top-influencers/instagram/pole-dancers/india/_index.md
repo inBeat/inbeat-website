@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In India In 2021
+title: Top 10 Pole Dancers Instagram Influencers In India In 2022
 description: >-
-  Find top pole dancers Instagram influencers in India in 2021. Most popular hashtags: #dance #dancer #poledance #choreography.
+  Find top pole dancers Instagram influencers in India in 2022. Most popular hashtags: #dance #dancer #poledance #choreography.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram influencers on inBeat.

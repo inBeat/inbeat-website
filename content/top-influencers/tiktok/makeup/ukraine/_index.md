@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Ukraine In 2021
+title: Top 10 Makeup TikTok Influencers In Ukraine In 2022
 description: >-
-  Find top makeup TikTok influencers in Ukraine in 2021. Most popular hashtags: #makeup #hairstyle #halloween2020.
+  Find top makeup TikTok influencers in Ukraine in 2022. Most popular hashtags: #makeup #hairstyle #halloween2020.
 platform: TikTok
 hits: 21
 text_top: Discover the best TikTok influencers on inBeat.

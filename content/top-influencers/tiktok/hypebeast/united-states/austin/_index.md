@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Austin In 2021
+title: Top 10 Hypebeast TikTok Influencers In Austin In 2022
 description: >-
-  Find top hypebeast TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #hypebeast #foryou #streetwear.
+  Find top hypebeast TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #hypebeast #foryou #streetwear.
 platform: TikTok
 hits: 6
 text_top: See the most popular TikTok profiles on inBeat.

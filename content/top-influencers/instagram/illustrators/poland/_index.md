@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Poland In 2021
+title: Top 10 Illustrators Instagram Influencers In Poland In 2022
 description: >-
-  Find top illustrators Instagram influencers in Poland in 2021. Most popular hashtags: #illustration #digitalart #procreate #digitalillustration.
+  Find top illustrators Instagram influencers in Poland in 2022. Most popular hashtags: #illustration #digitalart #procreate #digitalillustration.
 platform: Instagram
 hits: 49
 text_top: Analyze the top-rated Instagram profiles on inBeat.

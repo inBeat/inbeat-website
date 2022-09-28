@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Spain In 2021
+title: Top 10 Cyclists Instagram Influencers In Spain In 2022
 description: >-
-  Find top cyclists Instagram influencers in Spain in 2021. Most popular hashtags: #cycling #lavuelta20 #tirrenoadriatico.
+  Find top cyclists Instagram influencers in Spain in 2022. Most popular hashtags: #cycling #lavuelta20 #tirrenoadriatico.
 platform: Instagram
 hits: 41
 text_top: Identify the most popular Instagram accounts on inBeat.

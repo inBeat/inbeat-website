@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Konya In 2021
+title: Top 10 Models Instagram Influencers In Konya In 2022
 description: >-
-  Find top models Instagram influencers in Konya in 2021. Most popular hashtags: #model #konya #istanbul #turkey.
+  Find top models Instagram influencers in Konya in 2022. Most popular hashtags: #model #konya #istanbul #turkey.
 platform: Instagram
 hits: 12
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Norway In 2021
+title: Top 10 Gaming TikTok Influencers In Norway In 2022
 description: >-
-  Find top gaming TikTok influencers in Norway in 2021. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
+  Find top gaming TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #gaming #foryou #foryoupage.
 platform: TikTok
 hits: 12
 text_top: Analyze the best TikTok influencers on inBeat.

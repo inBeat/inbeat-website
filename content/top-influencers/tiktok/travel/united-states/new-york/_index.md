@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In New York In 2021
+title: Top 10 Travel TikTok Influencers In New York In 2022
 description: >-
-  Find top travel TikTok influencers in New York in 2021. Most popular hashtags: #fyp #newyork #nyc #travel.
+  Find top travel TikTok influencers in New York in 2022. Most popular hashtags: #fyp #newyork #nyc #travel.
 platform: TikTok
 hits: 223
 text_top: See the most popular TikTok influencers on inBeat.

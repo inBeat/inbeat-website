@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Madrid In 2021
+title: Top 10 Fitness TikTok Influencers In Madrid In 2022
 description: >-
-  Find top fitness TikTok influencers in Madrid in 2021. Most popular hashtags: #viral #madrid #fitness #parati.
+  Find top fitness TikTok influencers in Madrid in 2022. Most popular hashtags: #viral #madrid #fitness #parati.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In South Africa In 2021
+title: Top 10 Instagram Influencers In South Africa In 2022
 description: >-
-  Find top Instagram influencers in South Africa in 2021. Most popular hashtags: #model #capetown #modellife.
+  Find top Instagram influencers in South Africa in 2022. Most popular hashtags: #model #capetown #modellife.
 platform: Instagram
 hits: 1719
 text_top: See the top-rated Instagram influencers on inBeat.

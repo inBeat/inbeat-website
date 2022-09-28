@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Cali In 2021
+title: Top 10 Food Instagram Influencers In Cali In 2022
 description: >-
-  Find top food Instagram influencers in Cali in 2021. Most popular hashtags: #cali #colombia #food #love.
+  Find top food Instagram influencers in Cali in 2022. Most popular hashtags: #cali #colombia #food #love.
 platform: Instagram
 hits: 12
 text_top: Discover the best Instagram profiles on inBeat.

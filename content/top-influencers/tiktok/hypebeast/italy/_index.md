@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Italy In 2021
+title: Top 10 Hypebeast TikTok Influencers In Italy In 2022
 description: >-
-  Find top hypebeast TikTok influencers in Italy in 2021. Most popular hashtags: #perte #hypebeast #foryou #hype.
+  Find top hypebeast TikTok influencers in Italy in 2022. Most popular hashtags: #perte #hypebeast #foryou #hype.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok profiles on inBeat.

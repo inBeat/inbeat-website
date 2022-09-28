@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Brazil In 2021
+title: Top 10 Hypebeast Instagram Influencers In Brazil In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Brazil in 2021. Most popular hashtags: #hypebeast #hype #nike #jordan.
+  Find top hypebeast Instagram influencers in Brazil in 2022. Most popular hashtags: #hypebeast #hype #nike #jordan.
 platform: Instagram
 hits: 33
 text_top: Identify the most popular Instagram influencers on inBeat.

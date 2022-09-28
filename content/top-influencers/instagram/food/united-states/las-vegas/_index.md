@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Las Vegas In 2021
+title: Top 10 Food Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top food Instagram influencers in Las Vegas in 2021. Most popular hashtags: #food #lasvegas #foodphotography #instafood.
+  Find top food Instagram influencers in Las Vegas in 2022. Most popular hashtags: #food #lasvegas #foodphotography #instafood.
 platform: Instagram
 hits: 107
 text_top: Analyze the most popular Instagram accounts on inBeat.

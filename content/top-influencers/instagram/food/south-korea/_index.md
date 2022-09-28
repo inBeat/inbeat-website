@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In South Korea In 2021
+title: Top 10 Food Instagram Influencers In South Korea In 2022
 description: >-
-  Find top food Instagram influencers in South Korea in 2021. Most popular hashtags: #foodie #foodstagram #dessert.
+  Find top food Instagram influencers in South Korea in 2022. Most popular hashtags: #foodie #foodstagram #dessert.
 platform: Instagram
 hits: 158
 text_top: See the most popular Instagram accounts on inBeat.

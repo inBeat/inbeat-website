@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In United Kingdom In 2021
+title: Top 10 Golfers Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top golfers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #golf #golflife #golfer #golfswing.
+  Find top golfers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #golf #golflife #golfer #golfswing.
 platform: Instagram
 hits: 50
 text_top: Identify the most popular Instagram influencers on inBeat.

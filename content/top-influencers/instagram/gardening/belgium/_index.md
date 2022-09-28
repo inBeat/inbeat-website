@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Belgium In 2021
+title: Top 10 Gardening Instagram Influencers In Belgium In 2022
 description: >-
-  Find top gardening Instagram influencers in Belgium in 2021. Most popular hashtags: #gardening #interiordesign #homedecor #garden.
+  Find top gardening Instagram influencers in Belgium in 2022. Most popular hashtags: #gardening #interiordesign #homedecor #garden.
 platform: Instagram
 hits: 8
 text_top: Analyze the most popular Instagram profiles on inBeat.

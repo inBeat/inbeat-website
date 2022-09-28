@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cricket Players TikTok Influencers In 2021
+title: Top 10 Cricket Players TikTok Influencers In 2022
 description: >-
-  Find top cricket players TikTok influencers in 2021. Most popular hashtags: #tiktok #fyp #trending #foryoupage.
+  Find top cricket players TikTok influencers in 2022. Most popular hashtags: #tiktok #fyp #trending #foryoupage.
 platform: TikTok
 hits: 24
 text_top: See the most popular TikTok accounts on inBeat.

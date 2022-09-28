@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Malaysia In 2021
+title: Top 10 Travel Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top travel Instagram influencers in Malaysia in 2021. Most popular hashtags: #holiday #sudiomoments #style #fashion.
+  Find top travel Instagram influencers in Malaysia in 2022. Most popular hashtags: #holiday #sudiomoments #style #fashion.
 platform: Instagram
 hits: 197
 text_top: Discover the most popular Instagram accounts on inBeat.

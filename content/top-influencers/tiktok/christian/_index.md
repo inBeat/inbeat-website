@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In 2021
+title: Top 10 Christian TikTok Influencers In 2022
 description: >-
-  Find top christian TikTok influencers in 2021. Most popular hashtags: #duet #fyp #foryou #funny.
+  Find top christian TikTok influencers in 2022. Most popular hashtags: #duet #fyp #foryou #funny.
 platform: TikTok
 hits: 4102
 text_top: Discover the most popular TikTok influencers on inBeat.

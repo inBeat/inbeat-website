@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In United Kingdom In 2021
+title: Top 10 Rappers Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top rappers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #queen #supportlocal #xxiimusic.
+  Find top rappers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #queen #supportlocal #xxiimusic.
 platform: Instagram
 hits: 102
 text_top: Discover the best Instagram influencers on inBeat.

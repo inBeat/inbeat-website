@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Milan In 2021
+title: Top 10 Skincare Instagram Influencers In Milan In 2022
 description: >-
-  Find top skincare Instagram influencers in Milan in 2021. Most popular hashtags: #skincare #beauty #makeup #milan.
+  Find top skincare Instagram influencers in Milan in 2022. Most popular hashtags: #skincare #beauty #makeup #milan.
 platform: Instagram
 hits: 132
 text_top: Discover the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In India In 2021
+title: Top 10 Lingerie Instagram Influencers In India In 2022
 description: >-
-  Find top lingerie Instagram influencers in India in 2021. Most popular hashtags: #portrait #fashion #model #lingerie.
+  Find top lingerie Instagram influencers in India in 2022. Most popular hashtags: #portrait #fashion #model #lingerie.
 platform: Instagram
 hits: 58
 text_top: Discover the best Instagram influencers on inBeat.

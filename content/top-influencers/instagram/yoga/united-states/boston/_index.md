@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Boston In 2021
+title: Top 10 Yoga Instagram Influencers In Boston In 2022
 description: >-
-  Find top yoga Instagram influencers in Boston in 2021. Most popular hashtags: #boston #fitness #yoga #bostonfitness.
+  Find top yoga Instagram influencers in Boston in 2022. Most popular hashtags: #boston #fitness #yoga #bostonfitness.
 platform: Instagram
 hits: 27
 text_top: Identify the best Instagram accounts on inBeat.

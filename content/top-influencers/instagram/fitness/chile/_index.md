@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Chile In 2021
+title: Top 10 Fitness Instagram Influencers In Chile In 2022
 description: >-
-  Find top fitness Instagram influencers in Chile in 2021. Most popular hashtags: #fitness #love #chile.
+  Find top fitness Instagram influencers in Chile in 2022. Most popular hashtags: #fitness #love #chile.
 platform: Instagram
 hits: 114
 text_top: See the top-rated Instagram accounts on inBeat.

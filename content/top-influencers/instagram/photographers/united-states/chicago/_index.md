@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Chicago In 2021
+title: Top 10 Photographers Instagram Influencers In Chicago In 2022
 description: >-
-  Find top photographers Instagram influencers in Chicago in 2021. Most popular hashtags: #chicago #artofchi #portraitpage.
+  Find top photographers Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #artofchi #portraitpage.
 platform: Instagram
 hits: 198
 text_top: See the most popular Instagram profiles on inBeat.

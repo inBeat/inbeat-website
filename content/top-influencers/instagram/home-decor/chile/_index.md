@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Chile In 2021
+title: Top 10 Home Decor Instagram Influencers In Chile In 2022
 description: >-
-  Find top home decor Instagram influencers in Chile in 2021. Most popular hashtags: #homedecor #love #chile #decor.
+  Find top home decor Instagram influencers in Chile in 2022. Most popular hashtags: #homedecor #love #chile #decor.
 platform: Instagram
 hits: 15
 text_top: See the most popular Instagram influencers on inBeat.

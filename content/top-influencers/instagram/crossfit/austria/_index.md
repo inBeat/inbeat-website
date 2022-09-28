@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Austria In 2021
+title: Top 10 Crossfit Instagram Influencers In Austria In 2022
 description: >-
-  Find top crossfit Instagram influencers in Austria in 2021. Most popular hashtags: #austria #crossfit #fitness #summer.
+  Find top crossfit Instagram influencers in Austria in 2022. Most popular hashtags: #austria #crossfit #fitness #summer.
 platform: Instagram
 hits: 11
 text_top: See the best Instagram profiles on inBeat.

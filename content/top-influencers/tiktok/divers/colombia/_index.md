@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Colombia In 2021
+title: Top 10 Divers TikTok Influencers In Colombia In 2022
 description: >-
-  Find top divers TikTok influencers in Colombia in 2021. Most popular hashtags: #fyp #colombia #foryou #viral.
+  Find top divers TikTok influencers in Colombia in 2022. Most popular hashtags: #fyp #colombia #foryou #viral.
 platform: TikTok
 hits: 39
 text_top: Analyze the best TikTok accounts on inBeat.

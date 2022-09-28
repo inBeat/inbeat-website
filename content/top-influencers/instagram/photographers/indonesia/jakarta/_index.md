@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Jakarta In 2021
+title: Top 10 Photographers Instagram Influencers In Jakarta In 2022
 description: >-
-  Find top photographers Instagram influencers in Jakarta in 2021. Most popular hashtags: #dirumahaja #jakarta #photography #photographer.
+  Find top photographers Instagram influencers in Jakarta in 2022. Most popular hashtags: #dirumahaja #jakarta #photography #photographer.
 platform: Instagram
 hits: 85
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Mumbai In 2021
+title: Top 10 Models Instagram Influencers In Mumbai In 2022
 description: >-
-  Find top models Instagram influencers in Mumbai in 2021. Most popular hashtags: #model #instagood #mumbai #love.
+  Find top models Instagram influencers in Mumbai in 2022. Most popular hashtags: #model #instagood #mumbai #love.
 platform: Instagram
 hits: 1125
 text_top: Analyze the most popular Instagram influencers on inBeat.

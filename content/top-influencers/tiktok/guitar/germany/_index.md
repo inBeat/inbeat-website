@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Germany In 2021
+title: Top 10 Guitar TikTok Influencers In Germany In 2022
 description: >-
-  Find top guitar TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #guitar #foryou #fy.
+  Find top guitar TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #guitar #foryou #fy.
 platform: TikTok
 hits: 25
 text_top: Identify the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Indonesia In 2021
+title: Top 10 Gaming Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top gaming Instagram influencers in Indonesia in 2021. Most popular hashtags: #naisaalifiayuriza #nayofficial #thenay.
+  Find top gaming Instagram influencers in Indonesia in 2022. Most popular hashtags: #naisaalifiayuriza #nayofficial #thenay.
 platform: Instagram
 hits: 292
 text_top: Discover the most popular Instagram accounts on inBeat.

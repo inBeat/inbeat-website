@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In France In 2021
+title: Top 10 Architecture Instagram Influencers In France In 2022
 description: >-
-  Find top architecture Instagram influencers in France in 2021. Most popular hashtags: #art #bnw #portrait #photography.
+  Find top architecture Instagram influencers in France in 2022. Most popular hashtags: #art #bnw #portrait #photography.
 platform: Instagram
 hits: 696
 text_top: Discover the most popular Instagram accounts on inBeat.

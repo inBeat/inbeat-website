@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Ukraine In 2021
+title: Top 10 Models Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top models Instagram influencers in Ukraine in 2021. Most popular hashtags: #love #mood #happy.
+  Find top models Instagram influencers in Ukraine in 2022. Most popular hashtags: #love #mood #happy.
 platform: Instagram
 hits: 320
 text_top: Identify the best Instagram influencers on inBeat.

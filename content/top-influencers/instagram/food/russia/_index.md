@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Russia In 2021
+title: Top 10 Food Instagram Influencers In Russia In 2022
 description: >-
-  Find top food Instagram influencers in Russia in 2021. Most popular hashtags: #glamboxrussia #barcelonacity #permgirls.
+  Find top food Instagram influencers in Russia in 2022. Most popular hashtags: #glamboxrussia #barcelonacity #permgirls.
 platform: Instagram
 hits: 608
 text_top: Analyze the top-rated Instagram accounts on inBeat.

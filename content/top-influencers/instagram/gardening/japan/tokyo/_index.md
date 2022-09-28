@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Tokyo In 2021
+title: Top 10 Gardening Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top gardening Instagram influencers in Tokyo in 2021. Most popular hashtags: #gardening #garden #mygarden #gardenlife.
+  Find top gardening Instagram influencers in Tokyo in 2022. Most popular hashtags: #gardening #garden #mygarden #gardenlife.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.

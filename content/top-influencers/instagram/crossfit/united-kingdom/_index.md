@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United Kingdom In 2021
+title: Top 10 Crossfit Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top crossfit Instagram influencers in United Kingdom in 2021. Most popular hashtags: #crossfit #fitness #workout #love.
+  Find top crossfit Instagram influencers in United Kingdom in 2022. Most popular hashtags: #crossfit #fitness #workout #love.
 platform: Instagram
 hits: 106
 text_top: Discover the best Instagram profiles on inBeat.
@@ -59,7 +59,7 @@ profiles:
     fullname: >-
       'Teysty' Tey Lynn-Jones
     bio: >-
-      🔹Professional Boxer #TTT 🥊 🔹Essex/LDN 🔹Met Police👮🏼‍♂️ #ThinBlueLine ⚫️🔵⚫️ 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2021 👀 🔹MTK FIGHTER👊🏼
+      🔹Professional Boxer #TTT 🥊 🔹Essex/LDN 🔹Met Police👮🏼‍♂️ #ThinBlueLine ⚫️🔵⚫️ 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2022 👀 🔹MTK FIGHTER👊🏼
     location: "United Kingdom"
     followers: 10156
     engagement: 408

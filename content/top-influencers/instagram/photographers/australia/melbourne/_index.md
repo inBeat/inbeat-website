@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Melbourne In 2021
+title: Top 10 Photographers Instagram Influencers In Melbourne In 2022
 description: >-
-  Find top photographers Instagram influencers in Melbourne in 2021. Most popular hashtags: #earth #seeaustralia #canonaustralia.
+  Find top photographers Instagram influencers in Melbourne in 2022. Most popular hashtags: #earth #seeaustralia #canonaustralia.
 platform: Instagram
 hits: 111
 text_top: See the top-rated Instagram accounts on inBeat.

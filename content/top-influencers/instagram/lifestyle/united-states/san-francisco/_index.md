@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In San Francisco In 2021
+title: Top 10 Lifestyle Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top lifestyle Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #bayarea #revolveme #sanfranciscolife.
+  Find top lifestyle Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #bayarea #revolveme #sanfranciscolife.
 platform: Instagram
 hits: 126
 text_top: See the most popular Instagram profiles on inBeat.

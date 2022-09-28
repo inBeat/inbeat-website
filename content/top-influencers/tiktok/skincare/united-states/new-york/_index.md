@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In New York In 2021
+title: Top 10 Skincare TikTok Influencers In New York In 2022
 description: >-
-  Find top skincare TikTok influencers in New York in 2021. Most popular hashtags: #fyp #skincare #foryou #newyork.
+  Find top skincare TikTok influencers in New York in 2022. Most popular hashtags: #fyp #skincare #foryou #newyork.
 platform: TikTok
 hits: 62
 text_top: Analyze the most popular TikTok influencers on inBeat.

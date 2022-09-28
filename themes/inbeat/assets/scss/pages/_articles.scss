@@ -72,16 +72,18 @@
             line-height: 1rem;
             background-color: #e3e3e3;
         }
-        &.influencer-marketing {
-            .category {
-                background-color: $red_sub;
-            }
-        }
-        &.micro-influencer-marketing,
-        &.guides,
-        &.ambassador-marketing {
+        &.influencer-marketing,&.podcasts {
             .category {
                 background-color: $green_sub;
+            }
+        }
+        &.ambassador-marketing,
+        &.micro-influencer-marketing,
+        &.guides,
+        &.cpg,
+        &.tiktoc {
+            .category {
+                background-color: $red_sub;
             }
         }
         &.ugc,
@@ -92,8 +94,8 @@
         }
         &.podcasts {
             .category {
-                background-color: $dark;
-                color: white;
+                background-color: $green_sub;
+                // color: white;
             }
         }
     }
@@ -142,16 +144,18 @@
             }
         }
     }
-    &.influencer-marketing {
-        .post {
-            background-color: $red_sub;
-        }
-    }
-    &.micro-influencer-marketing,
-    &.guides,
-    &.ambassador-marketing {
+    &.influencer-marketing, &.podcasts {
         .post {
             background-color: $green_sub;
+        }
+    }
+    &.ambassador-marketing,
+    &.micro-influencer-marketing,
+    &.guides,
+    &.cpg,
+    &.tiktoc {
+        .post {
+            background-color: $red_sub;
         }
     }
     &.ugc,

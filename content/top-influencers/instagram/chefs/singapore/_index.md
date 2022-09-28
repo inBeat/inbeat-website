@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Singapore In 2021
+title: Top 10 Chefs Instagram Influencers In Singapore In 2022
 description: >-
-  Find top chefs Instagram influencers in Singapore in 2021. Most popular hashtags: #singapore #stayhome #instafood #love.
+  Find top chefs Instagram influencers in Singapore in 2022. Most popular hashtags: #singapore #stayhome #instafood #love.
 platform: Instagram
 hits: 11
 text_top: Analyze the most popular Instagram influencers on inBeat.

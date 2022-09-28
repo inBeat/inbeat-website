@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Izmir In 2021
+title: Top 10 Fitness TikTok Influencers In Izmir In 2022
 description: >-
-  Find top fitness TikTok influencers in Izmir in 2021. Most popular hashtags: #ke #izmir #fitness #kesfet.
+  Find top fitness TikTok influencers in Izmir in 2022. Most popular hashtags: #ke #izmir #fitness #kesfet.
 platform: TikTok
 hits: 7
 text_top: Identify the best TikTok influencers on inBeat.

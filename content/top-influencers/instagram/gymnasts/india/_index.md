@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In India In 2021
+title: Top 10 Gymnasts Instagram Influencers In India In 2022
 description: >-
-  Find top gymnasts Instagram influencers in India in 2021. Most popular hashtags: #gymnastics #love #fitness #mumbai.
+  Find top gymnasts Instagram influencers in India in 2022. Most popular hashtags: #gymnastics #love #fitness #mumbai.
 platform: Instagram
 hits: 107
 text_top: Analyze the most popular Instagram accounts on inBeat.

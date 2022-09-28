@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In United Kingdom In 2021
+title: Top 10 Gymnasts TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top gymnasts TikTok influencers in United Kingdom in 2021. Most popular hashtags: #gymnastics #fyp #foryou #foryoupage.
+  Find top gymnasts TikTok influencers in United Kingdom in 2022. Most popular hashtags: #gymnastics #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 90
 text_top: See the top-rated TikTok influencers on inBeat.
