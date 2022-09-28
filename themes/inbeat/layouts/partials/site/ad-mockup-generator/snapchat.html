@@ -101,7 +101,7 @@
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
               id="mockup-preview">
-              <div class="preview-wrapper-mobile">
+              <div v-if="activeAd.id === 1" class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
                   <div id="instagram-mockup-preview" class="mockup_preview-story snapchat-mockup-preview">
                     <div class="header-wrapper" id="snapchat-header">
@@ -139,6 +139,45 @@
                       </div>
                     </div>
                   </div>
+                </div>
+              </div>
+              <div v-else class="preview-wrapper-mobile">
+                <div id="mockup-download-img">
+                    <div id="instagram-mockup-preview" class="ib_snapchat-mockup-preview" :style="getComputedHeight">
+                        <div class="snapchat-mockup-header">
+                            <div class="preview-creadincials">
+                                <div class="profile-picture-wrapper">
+                                  <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                                </div>
+                                <div class="user-name-wrapper">
+                                  <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                                  <span class="sponcered-text">Sponsored</span>
+                                </div>
+                              </div>
+                              <div class="story-options">
+                                {{- partial "icons/snapchat-more-icon.html" -}}
+                              </div>
+                        </div>
+                        <div class="ib_snapchat-mockup-body">
+                            <img class="preview-image-body" v-if="postSrc[0]"
+                            :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                          <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                              recommended</span></span>
+                        </div>
+                        <div class="ib_snapchat-mockup-footer">
+                            <div>
+                            </div>
+                            <div class="cta">
+                                {{- partial "icons/up-chevron.html" -}}
+                                <span>
+                                  {selectedPreviewCTA.name}
+                                </span>
+                            </div>
+                            <div class="cta-wrapper snapchat-cta">
+                                Ad
+                            </div>
+                        </div>
+                    </div>
                 </div>
               </div>
               <div class="preview-download-wrapper">
