@@ -45,6 +45,10 @@ toolkits:
       text: Create a one to one Facebook Ad mockup complete with all possible fields and call-to-actions.  
       icon: facebook-ad-mockup
       url: ad-mockup-generator/facebook
+    - title:  TikTok Ad Mockup <br> Generator 
+      text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
+      icon: tiktok-ad-mockup
+      url: ad-mockup-generator/tiktok
     - title: Twitter Ad Mockup <br> Generator 
       text: Generate, preview & download Twitter ads! All fields are fully customizable, and download everything for free.
       icon: twitter-ad-mockup
@@ -57,10 +61,7 @@ toolkits:
       text: Preview & build Linkedin ads before they go live! inBeat’s ad mockup generator offers all formats available for paid ads. 
       icon: linkedin-ad-mockup
       url: ad-mockup-generator/linkedin
-    - title:  TikTok Ad Mockup <br> Generator 
-      text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
-      icon: tiktok-ad-mockup
-      url: ad-mockup-generator/tiktok
+
   - PaidMarketingInfluencer:
     subtitle: Paid Marketing Calculators
     tools:

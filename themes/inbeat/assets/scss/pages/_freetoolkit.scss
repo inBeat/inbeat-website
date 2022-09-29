@@ -2,10 +2,12 @@
     padding-bottom: 12.5rem;
     .toolkits{
       .section{
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
         margin-bottom: 3rem;
         @include breakpoint(sm-down) {
-            padding-right: 1.031rem;
-            padding-left: 1.031rem;
+          padding-right: 1.031rem;
+          padding-left: 1.031rem;
         }
         h3 {
           width: 100%;
@@ -20,29 +22,29 @@
       }
     }
     #freetoolkit-header{
-        padding-top: 6.25rem;
-        padding-bottom: 6.25rem;
-        text-align: center;
-    @include breakpoint(sm-down) {
-        padding-top: 3rem;
-        padding-bottom: 3rem;
-    }
-        h1 {
-            @include breakpoint(sm) {
-                font-size: 5rem;
-                line-height: 4.6rem;
-            }
+      padding-top: 6.25rem;
+      padding-bottom: 6.25rem;
+      text-align: center;
+      @include breakpoint(sm-down) {
+          padding-top: 3rem;
+          padding-bottom: 3rem;
+      }
+      h1 {
+        @include breakpoint(sm) {
+            font-size: 5rem;
+            line-height: 4.6rem;
         }
+      }
     }
     .tools-card-wrapper{
-        display: flex;
-        flex-wrap: wrap;
-        margin-top: 24px;
-        row-gap: 33px;
-        @include breakpoint(sm-down) {
-        margin-top: 0px;
-        gap: 25px;
-        }
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 24px;
+      row-gap: 16px;
+      @include breakpoint(sm-down) {
+      margin-top: 0px;
+      gap: 25px;
+      }
     }
     .tools {
         width: 100%;
@@ -85,6 +87,7 @@
                     font-size: 14px;
                     line-height: 24px;
                     letter-spacing: -0.3px;
+                    padding-right: 50px;
                     color: #141514;
                     margin: 0;
                     @include breakpoint(sm-down) {
