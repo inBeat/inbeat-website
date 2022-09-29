@@ -7,6 +7,9 @@ layout: free-toolkit
 titre: Free toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
+  - influencerMarketingTools:
+    subtitle: Influencer Marketing Tools
+    tools:
     - title: Instagram Engagement <br>  Rate Calculator
       text: Gain insights on influencers with our rapid Instagram engagement checker.
       icon: freetoolkit-ig-engagement
@@ -31,22 +34,9 @@ toolkits:
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
-    - title: CPM <br> Calculator
-      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns.
-      icon: cpm-calculator
-      url: cpm-calculator
-    - title: CTR <br> Calculator
-      text: Calculate your Click-through-rate your ads & content across different channels.
-      icon: ctr-calculator
-      url: ctr-calculator
-    - title: CPA <br> Calculator
-      text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
-      icon: cpa-calculator
-      url: cpa-calculator
-    - title: Bounce Rate <br> Calculator
-      text: Calculate the bounce rate for one or multiple websites or webpages.
-      icon: bounce-rate-calculator
-      url: bounce-rate-calculator
+  - AdMockupGenerators:
+    subtitle: Ad mockup generators
+    tools:
     - title:  Instagram Ad Mockup <br> Generator 
       text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
       icon: instagram-ad-mockup
@@ -71,4 +61,24 @@ toolkits:
       text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
       icon: tiktok-ad-mockup
       url: ad-mockup-generator/tiktok
+  - PaidMarketingInfluencer:
+    subtitle: Paid Marketing Calculators
+    tools:
+    - title: CPM <br> Calculator
+      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns.
+      icon: cpm-calculator
+      url: cpm-calculator
+    - title: CTR <br> Calculator
+      text: Calculate your Click-through-rate your ads & content across different channels.
+      icon: ctr-calculator
+      url: ctr-calculator
+    - title: CPA <br> Calculator
+      text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
+      icon: cpa-calculator
+      url: cpa-calculator
+    - title: Bounce Rate <br> Calculator
+      text: Calculate the bounce rate for one or multiple websites or webpages.
+      icon: bounce-rate-calculator
+      url: bounce-rate-calculator
+  
 ---

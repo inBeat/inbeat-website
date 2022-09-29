@@ -1,10 +1,24 @@
 #freetoolkit {
     padding-bottom: 12.5rem;
-    @include breakpoint(sm-down) {
-        padding-left: 1.25rem;
-        padding-right: 1.25rem;
+    .toolkits{
+      .section{
+        margin-bottom: 3rem;
+        @include breakpoint(sm-down) {
+            padding-right: 1.031rem;
+            padding-left: 1.031rem;
+        }
+        h3 {
+          width: 100%;
+          font-weight: 400;
+          padding-bottom: 1rem;
+          border-bottom: 1px solid #CCCCCC;
+          font-size: 14px ;
+          color: #141514;
+          line-height: 22px;
+          margin-bottom: 0px;
+        }
+      }
     }
-    
     #freetoolkit-header{
         padding-top: 6.25rem;
         padding-bottom: 6.25rem;
@@ -23,7 +37,7 @@
     .tools-card-wrapper{
         display: flex;
         flex-wrap: wrap;
-        margin-top: 48px;
+        margin-top: 24px;
         row-gap: 33px;
         @include breakpoint(sm-down) {
         margin-top: 0px;
@@ -32,10 +46,6 @@
     }
     .tools {
         width: 100%;
-        @include breakpoint(sm) {
-            padding-right: 1.031rem;
-            padding-left: 1.031rem;
-        }
         &:hover .inner{
             border: 1px solid rgba(0, 0, 0, 1);
             cursor: pointer;
