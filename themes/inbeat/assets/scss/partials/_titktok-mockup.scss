@@ -1,0 +1,213 @@
+.ib_tiktok-mockup-wrapper{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 1.56%, rgba(0, 0, 0, 0.2) 10.23%, rgba(0, 0, 0, 0.05) 17.81%, rgba(0, 0, 0, 0) 24.94%, rgba(0, 0, 0, 0) 50.52%, rgba(0, 0, 0, 0) 72.91%, rgba(0, 0, 0, 0.05) 81.37%, rgba(0, 0, 0, 0.2) 89.84%, rgba(0, 0, 0, 0.5) 100%), #4A4A4A;
+    border: 1px solid #E5E5E5;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    .tiktok_mockup-header{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding-top: 18px;
+        gap: 25px;
+        position: absolute;
+        top: 0;
+        user-select: none;
+        .tiktok_following{
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 20px;
+            letter-spacing: -0.25px;
+            color: #FFFFFF;
+            opacity: 0.6;
+        }
+        .tiktok_for-you{
+            font-weight: 700;
+            font-size: 15px;
+            line-height: 20px;
+            letter-spacing: -0.25px;
+            color: #FFFFFF;
+            position: relative;
+            .line{
+                position: absolute;
+                display: block;
+                background: #FFFFFF;
+                bottom: -0.6rem;
+                height: 3px;
+                border-radius: 1px;
+                width: 50%;
+                left: 25%;
+            }
+        }
+    }
+}
+.ib__tiktok-cta-wrapper{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 32px;
+    position: absolute;
+    width: 100%;
+    bottom: 14px;
+    .tiktok-details-section{
+        color: #FFFFFF;
+        padding-left: 14px;
+        user-select: none;
+        flex: 1;
+        .tiktok_brand-name{
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 23px;
+            letter-spacing: 0.254679px;
+        }
+        .tiktok_songname-caption{
+            margin-top: 6px;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 21px;
+            letter-spacing: 0.305615px;
+        }
+        .sponcered-text-wrapper{
+            margin-top: 6px;
+            font-weight: 500;
+            font-size: 8px;
+            line-height: 0px;
+            padding: 0px 5px;
+            height: 15px;
+            background: #6D6B6D;
+            border-radius: 2px;
+            letter-spacing: 0.254679px;
+            width: max-content;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .song-name{
+            margin-top: 6px;
+            span{
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 21px;
+                letter-spacing: 0.203743px;
+                margin-left: 10px;
+            }
+        }
+        .tiktok__cta-btn{
+            margin-top: 6px;
+            height: 33px;
+            background: #000000;
+            border-radius: 2px;
+            font-weight: 600;
+            font-size: 12px;
+            line-height: 15px;
+            letter-spacing: 0.28953px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+            &.tiktok_cta-type-mockup-btn{
+                margin-top: 0;
+                background: #D99144;
+                border-radius: 0px 0px 2px 2px;
+            }
+        } 
+        .tiktok_cta-type-mockup-wrapper{     
+            .tiktok_cta-type-mockup{
+                margin-top: 10px;
+                padding: 6px 10px 6px 6px;
+                background: rgba(30, 30, 30, 0.87);
+                backdrop-filter: blur(2.54129px);
+                border-radius: 1.6942px 1.6942px 0px 0px;
+                display: flex;
+                gap: 10px;
+                position: relative;
+                .tiktok-box{
+                    height: 80px;
+                    width: 80px;
+                    background: rgba(255, 255, 255, 0.2);
+                    border-radius: 1.6942px;
+                    flex-shrink: 0;
+                }
+                .tiktok-cta-description{
+                    display: flex;
+                    align-items: baseline;
+                    width: 100%;
+                    justify-content: space-between;
+                    color: #ffffff;
+                    .heading{
+                        display: block;
+                        font-weight: 600;
+                        font-size: 13px;
+                        line-height: 16px;
+                    }
+                    .sub-text{
+                        display: block;
+                        font-weight: 500;
+                        font-size: 11px;
+                        line-height: 13px;
+                        letter-spacing: 0.02em;
+                    }
+                }
+    
+            }
+        }  
+    }
+        .tiktok-action-center-wrapper{
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+            padding-right: 14px;
+            .tiktok_action-center{
+                .tiktok__profile-picture{
+                    background: #8F8F8F;
+                    border: 1px solid #FFFFFF;
+                    width: 48px;
+                    height: 48px;
+                    border-radius: 50%;
+                    overflow: hidden;
+                    img{
+                        height: 100%;
+                        width: 100%;
+                        object-fit: cover;
+                    }
+                }
+                .tiktok__action-wrapper{
+                    font-weight: 700;
+                    font-size: 12px;
+                    line-height: 20px;
+                    text-align: center;
+                    color: #FFFFFF;
+                    margin-top: 22px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    &.tiktok-action-like{
+                        margin-top: 34px;
+                    }
+                    }
+
+            }
+            .tiktok_music-disk-wrapper{
+                width: 47px;
+                height: 47px;
+                border-radius: 50%;
+                background: conic-gradient(from 179.98deg at 50% 50%, #181818 0deg, #363635 48.69deg, #181818 96.07deg, #292929 148.04deg, #363635 176.25deg, #151515 269.98deg, #2E2E2E 322.05deg, #181818 360deg);
+                transform: matrix(1, 0, 0, 1, 0, 0);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .tiktok-music-disk{
+                    width: 28px;
+                    height: 28px;
+                    background: #F9F9F9;
+                    opacity: 0.9;
+                    transform: matrix(1, 0, 0, 1, 0, 0);
+                    border-radius: 50%;
+                }
+            }
+        }
+}
