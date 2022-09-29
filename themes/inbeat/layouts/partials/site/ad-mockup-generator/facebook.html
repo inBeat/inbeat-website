@@ -197,7 +197,7 @@
                     </div>
                     <div v-else  class="ib__facebook-carousel-wrapper">
                       <div class="ib-facebook-carousel">
-                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="post" class="ib_facebook-slide" id="facebook__carousel-slide">
+                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_facebook-slide" id="facebook__carousel-slide">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
@@ -214,7 +214,7 @@
                               </div>
                         </div>
                       </div>
-                      <div  class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
+                      <div v-if="left"   class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
                         <span class="left-arrow"> &#10094; </span>
                       </div>
                       <div class="btn btn-next" aria-label="Next slide" @click="slideNext">
@@ -552,6 +552,7 @@
               likes: 15,
               commentCount: 1,
               shareCount: 1,
+              left: 0,
               caption: '',
               displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
               captionValue: '',
@@ -630,6 +631,13 @@
                 this.dpSrc = src
               }else{
                 this.postSrc.push(src)
+                if(this.activeAd.id === 4){
+                  if( this.postSrc.length === 1){
+                    this.postSrc[1] = this.postSrc[0] 
+                  }else if (this.postSrc[0] === this.postSrc[1]){
+                    this.postSrc.splice(1, 1)
+                  }
+                }
               }
             })
           },
@@ -784,15 +792,17 @@
           },
           slideNext(){
             let ele = document.getElementsByClassName('ib-facebook-carousel')[0]
+            this.left += 320
             ele.scrollTo({
-              left: 320,
+              left: this.left,
               behavior: 'smooth',
             })
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('ib-facebook-carousel')[0]
+            this.left -= 320
             ele.scrollTo({
-              left: -320,
+              left: this.left,
               behavior: 'smooth',
             })
           },
