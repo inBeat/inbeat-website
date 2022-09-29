@@ -168,7 +168,7 @@
                             </div>
                           </div>
                           <div class="tiktok__cta-btn" :class="{'tiktok_cta-type-mockup-btn' : activeAd.id === 4}">
-                            learn more {{- partial "icons/tiktok-right-chevron.html" -}}
+                            {selectedPreviewCTA.name} {{- partial "icons/tiktok-right-chevron.html" -}}
                           </div>
                         </div>
                         <div class="tiktok-action-center-wrapper">
@@ -494,10 +494,10 @@
       var app = new Vue({
         el: '#mockup_builder',
         data: {
-              ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
+              ctaOptions: [{name:'Learn more',code:'LM'},{name:'Download',code:'DW'},{name:'Shop now',code:'SN'},{name:'Sign up',code:'SU'},{name:'Contact us',code:'CU'},{name:'Apply now',code:'AN'},{name:'Book now',code:'BN'},{name:'Play game',code:'PG'},{name:'Watch now',code:'WN'},{name:'Read more',code:'RM'},{name:'View now',code:'VN'},{name:'Get quote',code:'GQ'},{name:'Order now',code:'ON'},{name:'Install now',code:'IN'},{name:'Get showtimes',code:'GST'},{name:'Listen now',code:'LN'},{name:'Interested',code:'IN'},{name:'Subscribe',code:'SUB'},{name:'Get tickets now',code:'GTN'},{name:'Experience now',code:'EXN'},{name:'Pre-order now',code:'PON'},{name:'Visit store',code:'VST'}],
               activeTab: 'controls',
               profileName: '',
-              selectedPreviewCTA: {name:'Learn More',code:'LM'},
+              selectedPreviewCTA: {name:'Learn more',code:'LM'},
               dpSrc:null,
               postSrc:[],
               likes: 15,
@@ -525,7 +525,7 @@
               },
             ],
               activeAd: {
-                id:4,
+                id:3,
                 type:'Story',
                 ratio:'9:16',
                 img:'9-16',
@@ -670,7 +670,7 @@
             this.caption='',
             this.likes=null,
             this.profileName = '',
-            this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
+            this.selectedPreviewCTA= {name:'Learn more',code:'LM'}
             this.activePost = 0
           },
           seeMoreExpand(){
