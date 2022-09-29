@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Brazil In 2021
+title: Top 10 Guitar TikTok Influencers In Brazil In 2022
 description: >-
-  Find top guitar TikTok influencers in Brazil in 2021. Most popular hashtags: #guitar #fyp #foryou #fy.
+  Find top guitar TikTok influencers in Brazil in 2022. Most popular hashtags: #guitar #fyp #foryou #fy.
 platform: TikTok
 hits: 35
 text_top: Discover the best TikTok profiles on inBeat.

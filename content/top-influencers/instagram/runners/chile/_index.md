@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Chile In 2021
+title: Top 10 Runners Instagram Influencers In Chile In 2022
 description: >-
-  Find top runners Instagram influencers in Chile in 2021. Most popular hashtags: #chile #runner #instagood.
+  Find top runners Instagram influencers in Chile in 2022. Most popular hashtags: #chile #runner #instagood.
 platform: Instagram
 hits: 10
 text_top: Discover the best Instagram accounts on inBeat.

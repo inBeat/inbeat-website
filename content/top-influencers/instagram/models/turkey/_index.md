@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Turkey In 2021
+title: Top 10 Models Instagram Influencers In Turkey In 2022
 description: >-
-  Find top models Instagram influencers in Turkey in 2021. Most popular hashtags: #throwback #vanlife #yolhikayeleri.
+  Find top models Instagram influencers in Turkey in 2022. Most popular hashtags: #throwback #vanlife #yolhikayeleri.
 platform: Instagram
 hits: 524
 text_top: Discover the best Instagram accounts on inBeat.

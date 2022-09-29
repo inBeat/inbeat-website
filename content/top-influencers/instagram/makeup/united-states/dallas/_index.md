@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Dallas In 2021
+title: Top 10 Makeup Instagram Influencers In Dallas In 2022
 description: >-
-  Find top makeup Instagram influencers in Dallas in 2021. Most popular hashtags: #makeup #dallas #makeuplooks #dallasmua.
+  Find top makeup Instagram influencers in Dallas in 2022. Most popular hashtags: #makeup #dallas #makeuplooks #dallasmua.
 platform: Instagram
 hits: 151
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Austria In 2021
+title: Top 10 Gymnasts Instagram Influencers In Austria In 2022
 description: >-
-  Find top gymnasts Instagram influencers in Austria in 2021. Most popular hashtags: #gymnastics #fitness #austria #workout.
+  Find top gymnasts Instagram influencers in Austria in 2022. Most popular hashtags: #gymnastics #fitness #austria #workout.
 platform: Instagram
 hits: 12
 text_top: See the most popular Instagram profiles on inBeat.

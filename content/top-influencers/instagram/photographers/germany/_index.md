@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Germany In 2021
+title: Top 10 Photographers Instagram Influencers In Germany In 2022
 description: >-
-  Find top photographers Instagram influencers in Germany in 2021. Most popular hashtags: #love #travel #ig.
+  Find top photographers Instagram influencers in Germany in 2022. Most popular hashtags: #love #travel #ig.
 platform: Instagram
 hits: 1502
 text_top: Discover the top-rated Instagram influencers on inBeat.

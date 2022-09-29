@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Australia In 2021
+title: Top 10 Makeup Instagram Influencers In Australia In 2022
 description: >-
-  Find top makeup Instagram influencers in Australia in 2021. Most popular hashtags: #makeup #fashion #love.
+  Find top makeup Instagram influencers in Australia in 2022. Most popular hashtags: #makeup #fashion #love.
 platform: Instagram
 hits: 755
 text_top: Discover the top-rated Instagram influencers on inBeat.

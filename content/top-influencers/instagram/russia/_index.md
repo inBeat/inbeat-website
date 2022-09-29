@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Russia In 2021
+title: Top 10 Instagram Influencers In Russia In 2022
 description: >-
-  Find top Instagram influencers in Russia in 2021. Most popular hashtags: #cosplayfun #disneyprincesscosplay #cosplaylife.
+  Find top Instagram influencers in Russia in 2022. Most popular hashtags: #cosplayfun #disneyprincesscosplay #cosplaylife.
 platform: Instagram
 hits: 30383
 text_top: Analyze the top-rated Instagram influencers on inBeat.
@@ -98,7 +98,7 @@ profiles:
       🌹🌸Самая Счастливая🌸🌺🌹 Хочу обнять весь Мир!
     location: "Russia"
     followers: 5392
-    engagement: 2021
+    engagement: 2022
     commentsToLikes: 0.124221
     id: ck8tclethzthq0j781e4dvpuw
     verified: false

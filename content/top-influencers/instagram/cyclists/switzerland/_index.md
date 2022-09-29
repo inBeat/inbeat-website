@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Switzerland In 2021
+title: Top 10 Cyclists Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top cyclists Instagram influencers in Switzerland in 2021. Most popular hashtags: #cyclinglife #cycling #cyclingphotos.
+  Find top cyclists Instagram influencers in Switzerland in 2022. Most popular hashtags: #cyclinglife #cycling #cyclingphotos.
 platform: Instagram
 hits: 14
 text_top: Identify the most popular Instagram influencers on inBeat.

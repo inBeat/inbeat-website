@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Los Angeles In 2021
+title: Top 10 Hypebeast Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Los Angeles in 2021. Most popular hashtags: #hypebeast #losangeles #california #hypebae.
+  Find top hypebeast Instagram influencers in Los Angeles in 2022. Most popular hashtags: #hypebeast #losangeles #california #hypebae.
 platform: Instagram
 hits: 112
 text_top: See the top-rated Instagram accounts on inBeat.

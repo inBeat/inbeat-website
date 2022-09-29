@@ -1,7 +1,7 @@
 ---
-title: Top 10 Camping TikTok Influencers In 2021
+title: Top 10 Camping TikTok Influencers In 2022
 description: >-
-  Find top camping TikTok influencers in 2021. Most popular hashtags: #fyp #camping #foryoupage #foryou.
+  Find top camping TikTok influencers in 2022. Most popular hashtags: #fyp #camping #foryoupage #foryou.
 platform: TikTok
 hits: 999
 text_top: Discover the best TikTok influencers on inBeat.

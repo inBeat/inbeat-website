@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In France In 2021
+title: Top 10 Mothers Instagram Influencers In France In 2022
 description: >-
-  Find top mothers Instagram influencers in France in 2021. Most popular hashtags: #momlife #ootd #viedemaman.
+  Find top mothers Instagram influencers in France in 2022. Most popular hashtags: #momlife #ootd #viedemaman.
 platform: Instagram
 hits: 632
 text_top: See the top-rated Instagram accounts on inBeat.

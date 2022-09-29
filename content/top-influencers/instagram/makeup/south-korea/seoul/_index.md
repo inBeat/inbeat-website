@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Seoul In 2021
+title: Top 10 Makeup Instagram Influencers In Seoul In 2022
 description: >-
-  Find top makeup Instagram influencers in Seoul in 2021. Most popular hashtags: #makeup #korea #seoul #model.
+  Find top makeup Instagram influencers in Seoul in 2022. Most popular hashtags: #makeup #korea #seoul #model.
 platform: Instagram
 hits: 24
 text_top: See the best Instagram accounts on inBeat.

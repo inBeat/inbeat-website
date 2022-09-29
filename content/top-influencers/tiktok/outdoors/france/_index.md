@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In France In 2021
+title: Top 10 Outdoors TikTok Influencers In France In 2022
 description: >-
-  Find top outdoors TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #nature #montagne.
+  Find top outdoors TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #nature #montagne.
 platform: TikTok
 hits: 10
 text_top: Identify the top-rated TikTok profiles on inBeat.

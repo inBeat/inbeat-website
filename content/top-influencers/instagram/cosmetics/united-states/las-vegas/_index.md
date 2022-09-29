@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Las Vegas In 2021
+title: Top 10 Cosmetics Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #cosmetics #skincare #beauty.
+  Find top cosmetics Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #cosmetics #skincare #beauty.
 platform: Instagram
 hits: 22
 text_top: See the top-rated Instagram accounts on inBeat.

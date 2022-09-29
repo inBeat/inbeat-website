@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Brazil In 2021
+title: Top 10 Makeup Instagram Influencers In Brazil In 2022
 description: >-
-  Find top makeup Instagram influencers in Brazil in 2021. Most popular hashtags: #makeup #challenge #makeuptutorial #challengemakeup.
+  Find top makeup Instagram influencers in Brazil in 2022. Most popular hashtags: #makeup #challenge #makeuptutorial #challengemakeup.
 platform: Instagram
 hits: 5765
 text_top: Identify the best Instagram influencers on inBeat.

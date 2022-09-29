@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Ukraine In 2021
+title: Top 10 Illustrators Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top illustrators Instagram influencers in Ukraine in 2021. Most popular hashtags: #illustration #illustrator #characterdesign #drawing.
+  Find top illustrators Instagram influencers in Ukraine in 2022. Most popular hashtags: #illustration #illustrator #characterdesign #drawing.
 platform: Instagram
 hits: 23
 text_top: Identify the most popular Instagram influencers on inBeat.

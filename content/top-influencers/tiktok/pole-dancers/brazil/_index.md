@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In Brazil In 2021
+title: Top 10 Pole Dancers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top pole dancers TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #poledancing #poledance #foryou.
+  Find top pole dancers TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #poledancing #poledance #foryou.
 platform: TikTok
 hits: 8
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Phoenix In 2021
+title: Top 10 Fitness TikTok Influencers In Phoenix In 2022
 description: >-
-  Find top fitness TikTok influencers in Phoenix in 2021. Most popular hashtags: #fitness #phoenix #arizona #fyp.
+  Find top fitness TikTok influencers in Phoenix in 2022. Most popular hashtags: #fitness #phoenix #arizona #fyp.
 platform: TikTok
 hits: 16
 text_top: See the most popular TikTok influencers on inBeat.

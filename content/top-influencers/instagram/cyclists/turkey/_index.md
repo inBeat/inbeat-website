@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Turkey In 2021
+title: Top 10 Cyclists Instagram Influencers In Turkey In 2022
 description: >-
-  Find top cyclists Instagram influencers in Turkey in 2021. Most popular hashtags: #bisiklet #istanbul #cycling #cyclinglife.
+  Find top cyclists Instagram influencers in Turkey in 2022. Most popular hashtags: #bisiklet #istanbul #cycling #cyclinglife.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram accounts on inBeat.

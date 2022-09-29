@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In San Francisco In 2021
+title: Top 10 Beauty Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top beauty Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #beauty #love #photography.
+  Find top beauty Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #beauty #love #photography.
 platform: Instagram
 hits: 112
 text_top: Identify the most popular Instagram accounts on inBeat.

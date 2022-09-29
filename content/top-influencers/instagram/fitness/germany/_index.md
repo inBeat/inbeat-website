@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Germany In 2021
+title: Top 10 Fitness Instagram Influencers In Germany In 2022
 description: >-
-  Find top fitness Instagram influencers in Germany in 2021. Most popular hashtags: #fitness #style #fitnessmotivation.
+  Find top fitness Instagram influencers in Germany in 2022. Most popular hashtags: #fitness #style #fitnessmotivation.
 platform: Instagram
 hits: 2466
 text_top: Identify the most popular Instagram profiles on inBeat.

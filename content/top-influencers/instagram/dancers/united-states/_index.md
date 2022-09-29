@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United States In 2021
+title: Top 10 Dancers Instagram Influencers In United States In 2022
 description: >-
-  Find top dancers Instagram influencers in United States in 2021. Most popular hashtags: #dance #miami #dancer.
+  Find top dancers Instagram influencers in United States in 2022. Most popular hashtags: #dance #miami #dancer.
 platform: Instagram
 hits: 4259
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In India In 2021
+title: Top 10 Music Instagram Influencers In India In 2022
 description: >-
-  Find top music Instagram influencers in India in 2021. Most popular hashtags: #instagood #bikelife #instapic #instamood.
+  Find top music Instagram influencers in India in 2022. Most popular hashtags: #instagood #bikelife #instapic #instamood.
 platform: Instagram
 hits: 2934
 text_top: Discover the most popular Instagram accounts on inBeat.

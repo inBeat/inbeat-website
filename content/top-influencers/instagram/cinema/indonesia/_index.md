@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Indonesia In 2021
+title: Top 10 Cinema Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top cinema Instagram influencers in Indonesia in 2021. Most popular hashtags: #indonesia #photography #womeninframe #womenesia.
+  Find top cinema Instagram influencers in Indonesia in 2022. Most popular hashtags: #indonesia #photography #womeninframe #womenesia.
 platform: Instagram
 hits: 737
 text_top: See the top-rated Instagram influencers on inBeat.

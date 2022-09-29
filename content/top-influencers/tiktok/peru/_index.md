@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Peru In 2021
+title: Top 10 TikTok Influencers In Peru In 2022
 description: >-
-  Find top TikTok influencers in Peru in 2021. Most popular hashtags: #parati #fyp #comedia #peru.
+  Find top TikTok influencers in Peru in 2022. Most popular hashtags: #parati #fyp #comedia #peru.
 platform: TikTok
 hits: 955
 text_top: See the most popular TikTok influencers on inBeat.

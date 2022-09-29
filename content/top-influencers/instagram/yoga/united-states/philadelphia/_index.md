@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Philadelphia In 2021
+title: Top 10 Yoga Instagram Influencers In Philadelphia In 2022
 description: >-
-  Find top yoga Instagram influencers in Philadelphia in 2021. Most popular hashtags: #yoga #philadelphia #motivation #love.
+  Find top yoga Instagram influencers in Philadelphia in 2022. Most popular hashtags: #yoga #philadelphia #motivation #love.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram profiles on inBeat.

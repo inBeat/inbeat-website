@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Turkey In 2021
+title: Top 10 Guitar TikTok Influencers In Turkey In 2022
 description: >-
-  Find top guitar TikTok influencers in Turkey in 2021. Most popular hashtags: #ke #tiktok #gitar #comedy.
+  Find top guitar TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #tiktok #gitar #comedy.
 platform: TikTok
 hits: 12
 text_top: Analyze the top-rated TikTok influencers on inBeat.

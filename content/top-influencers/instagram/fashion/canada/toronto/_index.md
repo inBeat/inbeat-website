@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Toronto In 2021
+title: Top 10 Fashion Instagram Influencers In Toronto In 2022
 description: >-
-  Find top fashion Instagram influencers in Toronto in 2021. Most popular hashtags: #fashionblogger #makeuplooks #makeupartist #torontoblogger.
+  Find top fashion Instagram influencers in Toronto in 2022. Most popular hashtags: #fashionblogger #makeuplooks #makeupartist #torontoblogger.
 platform: Instagram
 hits: 302
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Poland In 2021
+title: Top 10 Home Decor Instagram Influencers In Poland In 2022
 description: >-
-  Find top home decor Instagram influencers in Poland in 2021. Most popular hashtags: #interiordesign #interior #kitchendesign #interiorinspiration.
+  Find top home decor Instagram influencers in Poland in 2022. Most popular hashtags: #interiordesign #interior #kitchendesign #interiorinspiration.
 platform: Instagram
 hits: 449
 text_top: Identify the top-rated Instagram accounts on inBeat.

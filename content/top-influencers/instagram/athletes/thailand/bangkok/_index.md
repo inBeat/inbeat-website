@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Bangkok In 2021
+title: Top 10 Athletes Instagram Influencers In Bangkok In 2022
 description: >-
-  Find top athletes Instagram influencers in Bangkok in 2021. Most popular hashtags: #fighter #thailand #boxing #hardwork.
+  Find top athletes Instagram influencers in Bangkok in 2022. Most popular hashtags: #fighter #thailand #boxing #hardwork.
 platform: Instagram
 hits: 6
 text_top: Discover the top-rated Instagram influencers on inBeat.

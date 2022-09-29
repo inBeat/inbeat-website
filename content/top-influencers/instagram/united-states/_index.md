@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In United States In 2021
+title: Top 10 Instagram Influencers In United States In 2022
 description: >-
-  Find top Instagram influencers in United States in 2021. Most popular hashtags: #petitefashion #petitestyle #whowhatwearing.
+  Find top Instagram influencers in United States in 2022. Most popular hashtags: #petitefashion #petitestyle #whowhatwearing.
 platform: Instagram
 hits: 205461
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In 2021
+title: Top 10 Lingerie Instagram Influencers In 2022
 description: >-
-  Find top lingerie Instagram influencers in 2021. Most popular hashtags: #makeup #love #model.
+  Find top lingerie Instagram influencers in 2022. Most popular hashtags: #makeup #love #model.
 platform: Instagram
 hits: 3402
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In 2021
+title: Top 10 Health TikTok Influencers In 2022
 description: >-
-  Find top health TikTok influencers in 2021. Most popular hashtags: #duet #fyp #greenscreen #stitch.
+  Find top health TikTok influencers in 2022. Most popular hashtags: #duet #fyp #greenscreen #stitch.
 platform: TikTok
 hits: 10787
 text_top: Analyze the most popular TikTok profiles on inBeat.

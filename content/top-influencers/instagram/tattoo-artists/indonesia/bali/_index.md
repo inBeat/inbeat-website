@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Bali In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Bali In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Bali in 2021. Most popular hashtags: #bali #tattoos #balilife.
+  Find top tattoo-artists Instagram influencers in Bali in 2022. Most popular hashtags: #bali #tattoos #balilife.
 platform: Instagram
 hits: 10
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In France In 2021
+title: Top 10 Travel TikTok Influencers In France In 2022
 description: >-
-  Find top travel TikTok influencers in France in 2021. Most popular hashtags: #foryou #pourtoi #fyp #foryoupage.
+  Find top travel TikTok influencers in France in 2022. Most popular hashtags: #foryou #pourtoi #fyp #foryoupage.
 platform: TikTok
 hits: 228
 text_top: See the most popular TikTok accounts on inBeat.

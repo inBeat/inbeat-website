@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Germany In 2021
+title: Top 10 Comedians Instagram Influencers In Germany In 2022
 description: >-
-  Find top comedians Instagram influencers in Germany in 2021. Most popular hashtags: #comedy #fr #foodporn.
+  Find top comedians Instagram influencers in Germany in 2022. Most popular hashtags: #comedy #fr #foodporn.
 platform: Instagram
 hits: 69
 text_top: See the best Instagram accounts on inBeat.

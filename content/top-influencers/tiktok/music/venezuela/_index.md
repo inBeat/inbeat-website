@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Venezuela In 2021
+title: Top 10 Music TikTok Influencers In Venezuela In 2022
 description: >-
-  Find top music TikTok influencers in Venezuela in 2021. Most popular hashtags: #viral #music #venezuela #parati.
+  Find top music TikTok influencers in Venezuela in 2022. Most popular hashtags: #viral #music #venezuela #parati.
 platform: TikTok
 hits: 29
 text_top: Identify the most popular TikTok influencers on inBeat.

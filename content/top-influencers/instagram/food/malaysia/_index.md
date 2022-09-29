@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Malaysia In 2021
+title: Top 10 Food Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top food Instagram influencers in Malaysia in 2021. Most popular hashtags: #ootd #amar #dametraveler.
+  Find top food Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #amar #dametraveler.
 platform: Instagram
 hits: 168
 text_top: Analyze the most popular Instagram influencers on inBeat.

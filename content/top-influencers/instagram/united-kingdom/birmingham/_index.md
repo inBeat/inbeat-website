@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Birmingham In 2021
+title: Top 10 Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top Instagram influencers in Birmingham in 2021. Most popular hashtags: #gifted #fitness #gymshark.
+  Find top Instagram influencers in Birmingham in 2022. Most popular hashtags: #gifted #fitness #gymshark.
 platform: Instagram
 hits: 329
 text_top: See the most popular Instagram accounts on inBeat.

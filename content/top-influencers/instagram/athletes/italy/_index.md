@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Italy In 2021
+title: Top 10 Athletes Instagram Influencers In Italy In 2022
 description: >-
-  Find top athletes Instagram influencers in Italy in 2021. Most popular hashtags: #fitness #motivation #fitnessmotivation.
+  Find top athletes Instagram influencers in Italy in 2022. Most popular hashtags: #fitness #motivation #fitnessmotivation.
 platform: Instagram
 hits: 276
 text_top: Analyze the top-rated Instagram influencers on inBeat.

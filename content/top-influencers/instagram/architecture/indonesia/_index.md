@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Indonesia In 2021
+title: Top 10 Architecture Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top architecture Instagram influencers in Indonesia in 2021. Most popular hashtags: #architecture #dirumahaja #art.
+  Find top architecture Instagram influencers in Indonesia in 2022. Most popular hashtags: #architecture #dirumahaja #art.
 platform: Instagram
 hits: 131
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Russia In 2021
+title: Top 10 Bmx Instagram Influencers In Russia In 2022
 description: >-
-  Find top bmx Instagram influencers in Russia in 2021. Most popular hashtags: #bmx #bmxlife #bmxrussia #bmxfamily.
+  Find top bmx Instagram influencers in Russia in 2022. Most popular hashtags: #bmx #bmxlife #bmxrussia #bmxfamily.
 platform: Instagram
 hits: 84
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Portugal In 2021
+title: Top 10 Fitness Instagram Influencers In Portugal In 2022
 description: >-
-  Find top fitness Instagram influencers in Portugal in 2021. Most popular hashtags: #ootd #travel #photooftheday.
+  Find top fitness Instagram influencers in Portugal in 2022. Most popular hashtags: #ootd #travel #photooftheday.
 platform: Instagram
 hits: 115
 text_top: Identify the best Instagram accounts on inBeat.

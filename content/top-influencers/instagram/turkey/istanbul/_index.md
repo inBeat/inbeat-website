@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Istanbul In 2021
+title: Top 10 Instagram Influencers In Istanbul In 2022
 description: >-
-  Find top Instagram influencers in Istanbul in 2021. Most popular hashtags: #istanbul #honda #fatih.
+  Find top Instagram influencers in Istanbul in 2022. Most popular hashtags: #istanbul #honda #fatih.
 platform: Instagram
 hits: 3865
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In 2021
+title: Top 10 Dog Owners TikTok Influencers In 2022
 description: >-
-  Find top dog owners TikTok influencers in 2021. Most popular hashtags: #fyp #dogsoftiktok #dogowner #dogs.
+  Find top dog owners TikTok influencers in 2022. Most popular hashtags: #fyp #dogsoftiktok #dogowner #dogs.
 platform: TikTok
 hits: 89
 text_top: Discover the top-rated TikTok accounts on inBeat.

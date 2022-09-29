@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Australia In 2021
+title: Top 10 Bloggers Instagram Influencers In Australia In 2022
 description: >-
-  Find top bloggers Instagram influencers in Australia in 2021. Most popular hashtags: #australia #style #wearetravelgirls.
+  Find top bloggers Instagram influencers in Australia in 2022. Most popular hashtags: #australia #style #wearetravelgirls.
 platform: Instagram
 hits: 235
 text_top: Discover the most popular Instagram influencers on inBeat.

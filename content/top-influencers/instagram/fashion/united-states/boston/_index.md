@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Boston In 2021
+title: Top 10 Fashion Instagram Influencers In Boston In 2022
 description: >-
-  Find top fashion Instagram influencers in Boston in 2021. Most popular hashtags: #boston #fashion #style #love.
+  Find top fashion Instagram influencers in Boston in 2022. Most popular hashtags: #boston #fashion #style #love.
 platform: Instagram
 hits: 173
 text_top: Discover the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Cali In 2021
+title: Top 10 Photographers Instagram Influencers In Cali In 2022
 description: >-
-  Find top photographers Instagram influencers in Cali in 2021. Most popular hashtags: #colombia #cali #photographer #photography.
+  Find top photographers Instagram influencers in Cali in 2022. Most popular hashtags: #colombia #cali #photographer #photography.
 platform: Instagram
 hits: 17
 text_top: See the most popular Instagram accounts on inBeat.

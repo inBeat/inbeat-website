@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In Australia In 2021
+title: Top 10 Wellness TikTok Influencers In Australia In 2022
 description: >-
-  Find top wellness TikTok influencers in Australia in 2021. Most popular hashtags: #foryou #wellness #fitness #foryoupage.
+  Find top wellness TikTok influencers in Australia in 2022. Most popular hashtags: #foryou #wellness #fitness #foryoupage.
 platform: TikTok
 hits: 13
 text_top: Analyze the best TikTok influencers on inBeat.

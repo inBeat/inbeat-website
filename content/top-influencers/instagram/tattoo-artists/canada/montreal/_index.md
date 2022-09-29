@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Montreal In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Montreal In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Montreal in 2021. Most popular hashtags: #montrealtattoo #tattooartist #tattoo #montreal.
+  Find top tattoo-artists Instagram influencers in Montreal in 2022. Most popular hashtags: #montrealtattoo #tattooartist #tattoo #montreal.
 platform: Instagram
 hits: 16
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Barcelona In 2021
+title: Top 10 Health TikTok Influencers In Barcelona In 2022
 description: >-
-  Find top health TikTok influencers in Barcelona in 2021. Most popular hashtags: #foryou #fyp #parati #love.
+  Find top health TikTok influencers in Barcelona in 2022. Most popular hashtags: #foryou #fyp #parati #love.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok accounts on inBeat.

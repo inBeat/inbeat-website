@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Berlin In 2021
+title: Top 10 Photographers Instagram Influencers In Berlin In 2022
 description: >-
-  Find top photographers Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #photography #35mm.
+  Find top photographers Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #photography #35mm.
 platform: Instagram
 hits: 334
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Osaka In 2021
+title: Top 10 Vegan Instagram Influencers In Osaka In 2022
 description: >-
-  Find top vegan Instagram influencers in Osaka in 2021. Most popular hashtags: #vegan #stayhome #pr.
+  Find top vegan Instagram influencers in Osaka in 2022. Most popular hashtags: #vegan #stayhome #pr.
 platform: Instagram
 hits: 4
 text_top: Analyze the best Instagram accounts on inBeat.

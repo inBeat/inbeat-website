@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Argentina In 2021
+title: Top 10 Vegan TikTok Influencers In Argentina In 2022
 description: >-
-  Find top vegan TikTok influencers in Argentina in 2021. Most popular hashtags: #vegan #parati #argentina #fyp.
+  Find top vegan TikTok influencers in Argentina in 2022. Most popular hashtags: #vegan #parati #argentina #fyp.
 platform: TikTok
 hits: 31
 text_top: See the most popular TikTok accounts on inBeat.

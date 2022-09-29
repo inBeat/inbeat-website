@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Turkey In 2021
+title: Top 10 Architecture Instagram Influencers In Turkey In 2022
 description: >-
-  Find top architecture Instagram influencers in Turkey in 2021. Most popular hashtags: #istanbul #architecture #fashion #outfitoftheday.
+  Find top architecture Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #architecture #fashion #outfitoftheday.
 platform: Instagram
 hits: 162
 text_top: See the top-rated Instagram influencers on inBeat.

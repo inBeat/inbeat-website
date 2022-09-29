@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Chicago In 2021
+title: Top 10 Architecture TikTok Influencers In Chicago In 2022
 description: >-
-  Find top architecture TikTok influencers in Chicago in 2021. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
+  Find top architecture TikTok influencers in Chicago in 2022. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In South Korea In 2021
+title: Top 10 Illustrators Instagram Influencers In South Korea In 2022
 description: >-
-  Find top illustrators Instagram influencers in South Korea in 2021. Most popular hashtags: #drawing #illust #artwork #painting.
+  Find top illustrators Instagram influencers in South Korea in 2022. Most popular hashtags: #drawing #illust #artwork #painting.
 platform: Instagram
 hits: 47
 text_top: See the top-rated Instagram profiles on inBeat.

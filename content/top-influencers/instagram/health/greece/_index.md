@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Greece In 2021
+title: Top 10 Health Instagram Influencers In Greece In 2022
 description: >-
-  Find top health Instagram influencers in Greece in 2021. Most popular hashtags: #makeitdelicious #stayhome #foodphotographyandstyling #foodartblog.
+  Find top health Instagram influencers in Greece in 2022. Most popular hashtags: #makeitdelicious #stayhome #foodphotographyandstyling #foodartblog.
 platform: Instagram
 hits: 188
 text_top: Analyze the most popular Instagram influencers on inBeat.

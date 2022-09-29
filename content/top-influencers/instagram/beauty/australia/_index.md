@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Australia In 2021
+title: Top 10 Beauty Instagram Influencers In Australia In 2022
 description: >-
-  Find top beauty Instagram influencers in Australia in 2021. Most popular hashtags: #sydney #sydneystyle #sydneylife.
+  Find top beauty Instagram influencers in Australia in 2022. Most popular hashtags: #sydney #sydneystyle #sydneylife.
 platform: Instagram
 hits: 1373
 text_top: Discover the most popular Instagram accounts on inBeat.

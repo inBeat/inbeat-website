@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Switzerland in 2021. Most popular hashtags: #tattooartist #tattoo #tattooart #inked.
+  Find top tattoo-artists Instagram influencers in Switzerland in 2022. Most popular hashtags: #tattooartist #tattoo #tattooart #inked.
 platform: Instagram
 hits: 29
 text_top: Discover the best Instagram influencers on inBeat.

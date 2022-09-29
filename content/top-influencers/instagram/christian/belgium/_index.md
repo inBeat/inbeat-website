@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Belgium In 2021
+title: Top 10 Christian Instagram Influencers In Belgium In 2022
 description: >-
-  Find top christian Instagram influencers in Belgium in 2021. Most popular hashtags: #photooftheday #love #motivation #fashion.
+  Find top christian Instagram influencers in Belgium in 2022. Most popular hashtags: #photooftheday #love #motivation #fashion.
 platform: Instagram
 hits: 13
 text_top: Analyze the best Instagram influencers on inBeat.

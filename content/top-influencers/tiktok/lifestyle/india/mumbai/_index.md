@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Mumbai In 2021
+title: Top 10 Lifestyle TikTok Influencers In Mumbai In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Mumbai in 2021. Most popular hashtags: #tiktok #tiktokindia #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in Mumbai in 2022. Most popular hashtags: #tiktok #tiktokindia #foryou #foryoupage.
 platform: TikTok
 hits: 13
 text_top: Discover the top-rated TikTok profiles on inBeat.

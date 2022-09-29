@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chicago In 2021
+title: Top 10 Athletes Instagram Influencers In Chicago In 2022
 description: >-
-  Find top athletes Instagram influencers in Chicago in 2021. Most popular hashtags: #dance #chicago #danceclass.
+  Find top athletes Instagram influencers in Chicago in 2022. Most popular hashtags: #dance #chicago #danceclass.
 platform: Instagram
 hits: 85
 text_top: Identify the best Instagram influencers on inBeat.

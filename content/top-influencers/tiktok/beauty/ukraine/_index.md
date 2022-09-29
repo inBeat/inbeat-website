@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ukraine In 2021
+title: Top 10 Beauty TikTok Influencers In Ukraine In 2022
 description: >-
-  Find top beauty TikTok influencers in Ukraine in 2021. Most popular hashtags: #beauty #foru #foryou #girl.
+  Find top beauty TikTok influencers in Ukraine in 2022. Most popular hashtags: #beauty #foru #foryou #girl.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok profiles on inBeat.

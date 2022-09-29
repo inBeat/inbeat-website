@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Houston In 2021
+title: Top 10 Fitness TikTok Influencers In Houston In 2022
 description: >-
-  Find top fitness TikTok influencers in Houston in 2021. Most popular hashtags: #fyp #foryoupage #houston #fitness.
+  Find top fitness TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #foryoupage #houston #fitness.
 platform: TikTok
 hits: 32
 text_top: Discover the top-rated TikTok profiles on inBeat.

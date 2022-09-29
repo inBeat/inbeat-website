@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In France In 2021
+title: Top 10 Cinema Instagram Influencers In France In 2022
 description: >-
-  Find top cinema Instagram influencers in France in 2021. Most popular hashtags: #portrait #concours #concoursinstagram.
+  Find top cinema Instagram influencers in France in 2022. Most popular hashtags: #portrait #concours #concoursinstagram.
 platform: Instagram
 hits: 496
 text_top: See the best Instagram accounts on inBeat.

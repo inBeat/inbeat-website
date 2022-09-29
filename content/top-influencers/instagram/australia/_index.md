@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Australia In 2021
+title: Top 10 Instagram Influencers In Australia In 2022
 description: >-
-  Find top Instagram influencers in Australia in 2021. Most popular hashtags: #sydney #modelling #newsouthwales.
+  Find top Instagram influencers in Australia in 2022. Most popular hashtags: #sydney #modelling #newsouthwales.
 platform: Instagram
 hits: 13390
 text_top: Analyze the best Instagram influencers on inBeat.

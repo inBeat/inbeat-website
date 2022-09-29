@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Chile In 2021
+title: Top 10 Music TikTok Influencers In Chile In 2022
 description: >-
-  Find top music TikTok influencers in Chile in 2021. Most popular hashtags: #parati #chile #fyp #greenscreen.
+  Find top music TikTok influencers in Chile in 2022. Most popular hashtags: #parati #chile #fyp #greenscreen.
 platform: TikTok
 hits: 66
 text_top: Discover the top-rated TikTok accounts on inBeat.

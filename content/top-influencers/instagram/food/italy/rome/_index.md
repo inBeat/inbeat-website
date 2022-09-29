@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Rome In 2021
+title: Top 10 Food Instagram Influencers In Rome In 2022
 description: >-
-  Find top food Instagram influencers in Rome in 2021. Most popular hashtags: #food #rome #roma #italy.
+  Find top food Instagram influencers in Rome in 2022. Most popular hashtags: #food #rome #roma #italy.
 platform: Instagram
 hits: 131
 text_top: See the top-rated Instagram profiles on inBeat.

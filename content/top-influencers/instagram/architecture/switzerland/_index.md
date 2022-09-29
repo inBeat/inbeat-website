@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Switzerland In 2021
+title: Top 10 Architecture Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top architecture Instagram influencers in Switzerland in 2021. Most popular hashtags: #architecture #switzerland #ig #earthfocus.
+  Find top architecture Instagram influencers in Switzerland in 2022. Most popular hashtags: #architecture #switzerland #ig #earthfocus.
 platform: Instagram
 hits: 91
 text_top: Identify the top-rated Instagram profiles on inBeat.

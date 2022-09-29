@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Switzerland In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Switzerland in 2021. Most popular hashtags: #graphicdesign #design #typography #typedesign.
+  Find top graphic-designers Instagram influencers in Switzerland in 2022. Most popular hashtags: #graphicdesign #design #typography #typedesign.
 platform: Instagram
 hits: 21
 text_top: Identify the top-rated Instagram accounts on inBeat.

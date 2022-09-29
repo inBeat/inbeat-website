@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In France In 2021
+title: Top 10 Djs Instagram Influencers In France In 2022
 description: >-
-  Find top djs Instagram influencers in France in 2021. Most popular hashtags: #dj #djset #music.
+  Find top djs Instagram influencers in France in 2022. Most popular hashtags: #dj #djset #music.
 platform: Instagram
 hits: 117
 text_top: Discover the best Instagram influencers on inBeat.

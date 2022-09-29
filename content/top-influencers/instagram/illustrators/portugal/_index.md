@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Portugal In 2021
+title: Top 10 Illustrators Instagram Influencers In Portugal In 2022
 description: >-
-  Find top illustrators Instagram influencers in Portugal in 2021. Most popular hashtags: #illustration #digitalart #drawing #art.
+  Find top illustrators Instagram influencers in Portugal in 2022. Most popular hashtags: #illustration #digitalart #drawing #art.
 platform: Instagram
 hits: 15
 text_top: Discover the top-rated Instagram profiles on inBeat.

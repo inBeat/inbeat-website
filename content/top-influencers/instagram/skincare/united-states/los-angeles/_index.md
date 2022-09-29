@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Los Angeles In 2021
+title: Top 10 Skincare Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top skincare Instagram influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #skincare #fashion.
+  Find top skincare Instagram influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #skincare #fashion.
 platform: Instagram
 hits: 185
 text_top: Identify the most popular Instagram profiles on inBeat.

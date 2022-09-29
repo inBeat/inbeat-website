@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United States In 2021
+title: Top 10 Skincare TikTok Influencers In United States In 2022
 description: >-
-  Find top skincare TikTok influencers in United States in 2021. Most popular hashtags: #skincare #fyp #aesthetic #grwm.
+  Find top skincare TikTok influencers in United States in 2022. Most popular hashtags: #skincare #fyp #aesthetic #grwm.
 platform: TikTok
 hits: 2682
 text_top: Analyze the top-rated TikTok profiles on inBeat.

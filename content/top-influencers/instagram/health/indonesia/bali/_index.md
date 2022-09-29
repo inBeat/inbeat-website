@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Bali In 2021
+title: Top 10 Health Instagram Influencers In Bali In 2022
 description: >-
-  Find top health Instagram influencers in Bali in 2021. Most popular hashtags: #bali #health #travel #love.
+  Find top health Instagram influencers in Bali in 2022. Most popular hashtags: #bali #health #travel #love.
 platform: Instagram
 hits: 75
 text_top: Analyze the best Instagram accounts on inBeat.

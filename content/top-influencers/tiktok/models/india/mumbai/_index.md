@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Mumbai In 2021
+title: Top 10 Models TikTok Influencers In Mumbai In 2022
 description: >-
-  Find top models TikTok influencers in Mumbai in 2021. Most popular hashtags: #tiktok #foryou #trending #duet.
+  Find top models TikTok influencers in Mumbai in 2022. Most popular hashtags: #tiktok #foryou #trending #duet.
 platform: TikTok
 hits: 45
 text_top: See the most popular TikTok influencers on inBeat.

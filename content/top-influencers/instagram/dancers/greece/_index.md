@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Greece In 2021
+title: Top 10 Dancers Instagram Influencers In Greece In 2022
 description: >-
-  Find top dancers Instagram influencers in Greece in 2021. Most popular hashtags: #greece #dance #stayhome #nature.
+  Find top dancers Instagram influencers in Greece in 2022. Most popular hashtags: #greece #dance #stayhome #nature.
 platform: Instagram
 hits: 56
 text_top: See the most popular Instagram influencers on inBeat.

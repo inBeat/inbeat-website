@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Norway In 2021
+title: Top 10 Health Instagram Influencers In Norway In 2022
 description: >-
-  Find top health Instagram influencers in Norway in 2021. Most popular hashtags: #norway #nature #ad.
+  Find top health Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #ad.
 platform: Instagram
 hits: 78
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Dallas In 2021
+title: Top 10 Rappers Instagram Influencers In Dallas In 2022
 description: >-
-  Find top rappers Instagram influencers in Dallas in 2021. Most popular hashtags: #dallas #hiphop #rapper #music.
+  Find top rappers Instagram influencers in Dallas in 2022. Most popular hashtags: #dallas #hiphop #rapper #music.
 platform: Instagram
 hits: 18
 text_top: Discover the top-rated Instagram profiles on inBeat.

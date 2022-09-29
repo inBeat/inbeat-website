@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Brisbane In 2021
+title: Top 10 Fitness Instagram Influencers In Brisbane In 2022
 description: >-
-  Find top fitness Instagram influencers in Brisbane in 2021. Most popular hashtags: #fitness #motivation #australia #goldcoast.
+  Find top fitness Instagram influencers in Brisbane in 2022. Most popular hashtags: #fitness #motivation #australia #goldcoast.
 platform: Instagram
 hits: 55
 text_top: See the best Instagram profiles on inBeat.

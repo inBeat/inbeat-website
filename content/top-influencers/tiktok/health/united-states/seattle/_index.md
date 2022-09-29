@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Seattle In 2021
+title: Top 10 Health TikTok Influencers In Seattle In 2022
 description: >-
-  Find top health TikTok influencers in Seattle in 2021. Most popular hashtags: #fyp #seattle #health #foryoupage.
+  Find top health TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #seattle #health #foryoupage.
 platform: TikTok
 hits: 14
 text_top: See the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In United States In 2021
+title: Top 10 Hypebeast TikTok Influencers In United States In 2022
 description: >-
-  Find top hypebeast TikTok influencers in United States in 2021. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
+  Find top hypebeast TikTok influencers in United States in 2022. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
 platform: TikTok
 hits: 241
 text_top: Identify the best TikTok profiles on inBeat.

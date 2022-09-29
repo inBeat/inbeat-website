@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Italy In 2021
+title: Top 10 Soccer-Players Instagram Influencers In Italy In 2022
 description: >-
-  Find top soccer-players Instagram influencers in Italy in 2021. Most popular hashtags: #soccer #soccerlife #football #soccerplayer.
+  Find top soccer-players Instagram influencers in Italy in 2022. Most popular hashtags: #soccer #soccerlife #football #soccerplayer.
 platform: Instagram
 hits: 29
 text_top: Discover the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Ireland In 2021
+title: Top 10 Fashion TikTok Influencers In Ireland In 2022
 description: >-
-  Find top fashion TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #fashion #foryoupage #viral.
+  Find top fashion TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #fashion #foryoupage #viral.
 platform: TikTok
 hits: 33
 text_top: Discover the most popular TikTok accounts on inBeat.

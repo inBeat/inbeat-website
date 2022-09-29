@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Italy In 2021
+title: Top 10 Cosmetics Instagram Influencers In Italy In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Italy in 2021. Most popular hashtags: #photography #nature #summer #fashion.
+  Find top cosmetics Instagram influencers in Italy in 2022. Most popular hashtags: #photography #nature #summer #fashion.
 platform: Instagram
 hits: 335
 text_top: Discover the best Instagram influencers on inBeat.

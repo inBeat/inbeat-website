@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Miami In 2021
+title: Top 10 Olympian Athletes Instagram Influencers In Miami In 2022
 description: >-
-  Find top olympian athletes Instagram influencers in Miami in 2021. Most popular hashtags: #athlete #fitness #ifbb #ifbbpro.
+  Find top olympian athletes Instagram influencers in Miami in 2022. Most popular hashtags: #athlete #fitness #ifbb #ifbbpro.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.038128
     id: ckap6t2mphawx0i78v6ubzbo8
     verified: true
-    hashtags: "#tkdtraining, #tokyo2021, #kwon, #workout"
+    hashtags: "#tkdtraining, #tokyo2022, #kwon, #workout"
   - username: "maiseu"
     fullname: >-
       Anton Antipov

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Medellín In 2021
+title: Top 10 Comedians TikTok Influencers In Medellín In 2022
 description: >-
-  Find top comedians TikTok influencers in Medellín in 2021. Most popular hashtags: #comedia #medellin #fyp #colombia.
+  Find top comedians TikTok influencers in Medellín in 2022. Most popular hashtags: #comedia #medellin #fyp #colombia.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok influencers on inBeat.

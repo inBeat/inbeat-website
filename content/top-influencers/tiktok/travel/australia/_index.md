@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Australia In 2021
+title: Top 10 Travel TikTok Influencers In Australia In 2022
 description: >-
-  Find top travel TikTok influencers in Australia in 2021. Most popular hashtags: #australia #travel #fyp #foryou.
+  Find top travel TikTok influencers in Australia in 2022. Most popular hashtags: #australia #travel #fyp #foryou.
 platform: TikTok
 hits: 304
 text_top: Identify the top-rated TikTok influencers on inBeat.

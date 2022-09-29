@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Hamburg In 2021
+title: Top 10 Nutrition Instagram Influencers In Hamburg In 2022
 description: >-
-  Find top nutrition Instagram influencers in Hamburg in 2021. Most popular hashtags: #hamburg #fitness #workout #motivation.
+  Find top nutrition Instagram influencers in Hamburg in 2022. Most popular hashtags: #hamburg #fitness #workout #motivation.
 platform: Instagram
 hits: 35
 text_top: See the top-rated Instagram influencers on inBeat.

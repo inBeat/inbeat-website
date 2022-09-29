@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In France In 2021
+title: Top 10 Christian Instagram Influencers In France In 2022
 description: >-
-  Find top christian Instagram influencers in France in 2021. Most popular hashtags: #france #photooftheday #paris.
+  Find top christian Instagram influencers in France in 2022. Most popular hashtags: #france #photooftheday #paris.
 platform: Instagram
 hits: 326
 text_top: Analyze the most popular Instagram profiles on inBeat.

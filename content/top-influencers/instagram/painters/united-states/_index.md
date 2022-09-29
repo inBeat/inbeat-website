@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In United States In 2021
+title: Top 10 Painters Instagram Influencers In United States In 2022
 description: >-
-  Find top painters Instagram influencers in United States in 2021. Most popular hashtags: #painting #contemporaryart #oilpainting.
+  Find top painters Instagram influencers in United States in 2022. Most popular hashtags: #painting #contemporaryart #oilpainting.
 platform: Instagram
 hits: 2693
 text_top: See the most popular Instagram influencers on inBeat.

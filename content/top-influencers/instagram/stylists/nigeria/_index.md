@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Nigeria In 2021
+title: Top 10 Stylists Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top stylists Instagram influencers in Nigeria in 2021. Most popular hashtags: #explore #endpolicebrutality #endsars.
+  Find top stylists Instagram influencers in Nigeria in 2022. Most popular hashtags: #explore #endpolicebrutality #endsars.
 platform: Instagram
 hits: 31
 text_top: Identify the top-rated Instagram profiles on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Callie the baker™️
     bio: >-
-      🍰Scratch Baker & Mini Dessert Stylist 👩🏽‍🍳Not Accepting Dessert Orders until 2021 🎉@calliethebaker_supplyco coming soon! 🎥 YouTube:
+      🍰Scratch Baker & Mini Dessert Stylist 👩🏽‍🍳Not Accepting Dessert Orders until 2022 🎉@calliethebaker_supplyco coming soon! 🎥 YouTube:
     location: "Nigeria"
     followers: 68080
     engagement: 498

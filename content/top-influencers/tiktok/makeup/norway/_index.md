@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Norway In 2021
+title: Top 10 Makeup TikTok Influencers In Norway In 2022
 description: >-
-  Find top makeup TikTok influencers in Norway in 2021. Most popular hashtags: #makeup #foryou #fyp #foryoupage.
+  Find top makeup TikTok influencers in Norway in 2022. Most popular hashtags: #makeup #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 28
 text_top: See the best TikTok influencers on inBeat.

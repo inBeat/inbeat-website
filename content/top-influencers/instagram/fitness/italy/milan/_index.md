@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Milan In 2021
+title: Top 10 Fitness Instagram Influencers In Milan In 2022
 description: >-
-  Find top fitness Instagram influencers in Milan in 2021. Most popular hashtags: #milano #fitness #love #sunday.
+  Find top fitness Instagram influencers in Milan in 2022. Most popular hashtags: #milano #fitness #love #sunday.
 platform: Instagram
 hits: 231
 text_top: See the most popular Instagram influencers on inBeat.

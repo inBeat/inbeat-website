@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Canada In 2021
+title: Top 10 Health TikTok Influencers In Canada In 2022
 description: >-
-  Find top health TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #duet #canada #foryoupage.
+  Find top health TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #duet #canada #foryoupage.
 platform: TikTok
 hits: 615
 text_top: Identify the best TikTok profiles on inBeat.

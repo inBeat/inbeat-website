@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In London In 2021
+title: Top 10 Lifestyle Instagram Influencers In London In 2022
 description: >-
-  Find top lifestyle Instagram influencers in London in 2021. Most popular hashtags: #ad #autumnvibes #reelsinstagram.
+  Find top lifestyle Instagram influencers in London in 2022. Most popular hashtags: #ad #autumnvibes #reelsinstagram.
 platform: Instagram
 hits: 602
 text_top: Discover the best Instagram accounts on inBeat.

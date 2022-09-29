@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Greece In 2021
+title: Top 10 Bakers Instagram Influencers In Greece In 2022
 description: >-
-  Find top bakers Instagram influencers in Greece in 2021. Most popular hashtags: #greece #summer #summervibes #urban.
+  Find top bakers Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #summervibes #urban.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram influencers on inBeat.

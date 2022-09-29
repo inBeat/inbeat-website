@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Kyoto In 2021
+title: Top 10 Fashion Instagram Influencers In Kyoto In 2022
 description: >-
-  Find top fashion Instagram influencers in Kyoto in 2021. Most popular hashtags: #fashion #kyoto #japan #cafe.
+  Find top fashion Instagram influencers in Kyoto in 2022. Most popular hashtags: #fashion #kyoto #japan #cafe.
 platform: Instagram
 hits: 56
 text_top: Analyze the top-rated Instagram accounts on inBeat.

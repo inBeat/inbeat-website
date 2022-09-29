@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Canada In 2021
+title: Top 10 Lifestyle TikTok Influencers In Canada In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #fy #foryoupage #canada.
+  Find top lifestyle TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #fy #foryoupage #canada.
 platform: TikTok
 hits: 87
 text_top: See the most popular TikTok accounts on inBeat.

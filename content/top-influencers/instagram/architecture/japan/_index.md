@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Japan In 2021
+title: Top 10 Architecture Instagram Influencers In Japan In 2022
 description: >-
-  Find top architecture Instagram influencers in Japan in 2021. Most popular hashtags: #architecture #sky #japan #archi.
+  Find top architecture Instagram influencers in Japan in 2022. Most popular hashtags: #architecture #sky #japan #archi.
 platform: Instagram
 hits: 56
 text_top: Identify the most popular Instagram accounts on inBeat.

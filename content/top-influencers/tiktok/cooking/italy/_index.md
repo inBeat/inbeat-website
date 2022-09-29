@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Italy In 2021
+title: Top 10 Cooking TikTok Influencers In Italy In 2022
 description: >-
-  Find top cooking TikTok influencers in Italy in 2021. Most popular hashtags: #cooking #perte #food #viral.
+  Find top cooking TikTok influencers in Italy in 2022. Most popular hashtags: #cooking #perte #food #viral.
 platform: TikTok
 hits: 69
 text_top: See the most popular TikTok accounts on inBeat.

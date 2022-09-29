@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Indonesia In 2021
+title: Top 10 Lifestyle Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Indonesia in 2021. Most popular hashtags: #baliliving #donasi #sedekah.
+  Find top lifestyle Instagram influencers in Indonesia in 2022. Most popular hashtags: #baliliving #donasi #sedekah.
 platform: Instagram
 hits: 631
 text_top: Discover the best Instagram influencers on inBeat.

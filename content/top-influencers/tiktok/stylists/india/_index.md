@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In India In 2021
+title: Top 10 Stylists TikTok Influencers In India In 2022
 description: >-
-  Find top stylists TikTok influencers in India in 2021. Most popular hashtags: #foryou #tiktokindia #tiktok #fyp.
+  Find top stylists TikTok influencers in India in 2022. Most popular hashtags: #foryou #tiktokindia #tiktok #fyp.
 platform: TikTok
 hits: 114
 text_top: Discover the best TikTok accounts on inBeat.

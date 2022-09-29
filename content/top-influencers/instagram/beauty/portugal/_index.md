@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Portugal In 2021
+title: Top 10 Beauty Instagram Influencers In Portugal In 2022
 description: >-
-  Find top beauty Instagram influencers in Portugal in 2021. Most popular hashtags: #pub #beauty #portugal #fashion.
+  Find top beauty Instagram influencers in Portugal in 2022. Most popular hashtags: #pub #beauty #portugal #fashion.
 platform: Instagram
 hits: 245
 text_top: Analyze the most popular Instagram accounts on inBeat.

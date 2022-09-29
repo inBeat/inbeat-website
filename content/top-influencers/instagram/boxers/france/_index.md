@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In France In 2021
+title: Top 10 Boxers Instagram Influencers In France In 2022
 description: >-
-  Find top boxers Instagram influencers in France in 2021. Most popular hashtags: #boxing #boxeo #fight.
+  Find top boxers Instagram influencers in France in 2022. Most popular hashtags: #boxing #boxeo #fight.
 platform: Instagram
 hits: 55
 text_top: See the best Instagram accounts on inBeat.

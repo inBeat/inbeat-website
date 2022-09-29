@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In United States In 2021
+title: Top 10 Nail Artists Instagram Influencers In United States In 2022
 description: >-
-  Find top nail artists Instagram influencers in United States in 2021. Most popular hashtags: #nailart #nails #nudenails.
+  Find top nail artists Instagram influencers in United States in 2022. Most popular hashtags: #nailart #nails #nudenails.
 platform: Instagram
 hits: 376
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Argentina In 2021
+title: Top 10 Guitar Instagram Influencers In Argentina In 2022
 description: >-
-  Find top guitar Instagram influencers in Argentina in 2021. Most popular hashtags: #guitarra #guitar #music #stratocaster.
+  Find top guitar Instagram influencers in Argentina in 2022. Most popular hashtags: #guitarra #guitar #music #stratocaster.
 platform: Instagram
 hits: 139
 text_top: See the best Instagram profiles on inBeat.

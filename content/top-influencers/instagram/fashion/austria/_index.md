@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Austria In 2021
+title: Top 10 Fashion Instagram Influencers In Austria In 2022
 description: >-
-  Find top fashion Instagram influencers in Austria in 2021. Most popular hashtags: #vienna #ootd #fashion #streetstyle.
+  Find top fashion Instagram influencers in Austria in 2022. Most popular hashtags: #vienna #ootd #fashion #streetstyle.
 platform: Instagram
 hits: 324
 text_top: Discover the best Instagram profiles on inBeat.

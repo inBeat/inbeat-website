@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Denver In 2021
+title: Top 10 Fitness Instagram Influencers In Denver In 2022
 description: >-
-  Find top fitness Instagram influencers in Denver in 2021. Most popular hashtags: #fitness #denver #colorado #fitnessmotivation.
+  Find top fitness Instagram influencers in Denver in 2022. Most popular hashtags: #fitness #denver #colorado #fitnessmotivation.
 platform: Instagram
 hits: 99
 text_top: Discover the top-rated Instagram accounts on inBeat.

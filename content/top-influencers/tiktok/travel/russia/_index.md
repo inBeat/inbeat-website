@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Russia In 2021
+title: Top 10 Travel TikTok Influencers In Russia In 2022
 description: >-
-  Find top travel TikTok influencers in Russia in 2021. Most popular hashtags: #city #summer #tiktoktravel.
+  Find top travel TikTok influencers in Russia in 2022. Most popular hashtags: #city #summer #tiktoktravel.
 platform: TikTok
 hits: 62
 text_top: Analyze the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Montreal In 2021
+title: Top 10 Vegan TikTok Influencers In Montreal In 2022
 description: >-
-  Find top vegan TikTok influencers in Montreal in 2021. Most popular hashtags: #vegan #fyp #foryoupage #quebec.
+  Find top vegan TikTok influencers in Montreal in 2022. Most popular hashtags: #vegan #fyp #foryoupage #quebec.
 platform: TikTok
 hits: 7
 text_top: Identify the top-rated TikTok accounts on inBeat.

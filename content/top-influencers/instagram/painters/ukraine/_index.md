@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Ukraine In 2021
+title: Top 10 Painters Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top painters Instagram influencers in Ukraine in 2021. Most popular hashtags: #instagood #art #painting #painter.
+  Find top painters Instagram influencers in Ukraine in 2022. Most popular hashtags: #instagood #art #painting #painter.
 platform: Instagram
 hits: 32
 text_top: Discover the best Instagram influencers on inBeat.

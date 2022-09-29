@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Japan In 2021
+title: Top 10 Makeup Instagram Influencers In Japan In 2022
 description: >-
-  Find top makeup Instagram influencers in Japan in 2021. Most popular hashtags: #grunge #alternativefashion #kawaii.
+  Find top makeup Instagram influencers in Japan in 2022. Most popular hashtags: #grunge #alternativefashion #kawaii.
 platform: Instagram
 hits: 390
 text_top: Identify the top-rated Instagram profiles on inBeat.

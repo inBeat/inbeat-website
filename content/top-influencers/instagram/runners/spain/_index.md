@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Spain In 2021
+title: Top 10 Runners Instagram Influencers In Spain In 2022
 description: >-
-  Find top runners Instagram influencers in Spain in 2021. Most popular hashtags: #running #correr #run.
+  Find top runners Instagram influencers in Spain in 2022. Most popular hashtags: #running #correr #run.
 platform: Instagram
 hits: 139
 text_top: See the most popular Instagram profiles on inBeat.

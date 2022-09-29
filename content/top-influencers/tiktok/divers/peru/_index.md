@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Peru In 2021
+title: Top 10 Divers TikTok Influencers In Peru In 2022
 description: >-
-  Find top divers TikTok influencers in Peru in 2021. Most popular hashtags: #parati #peru #humor #fyp.
+  Find top divers TikTok influencers in Peru in 2022. Most popular hashtags: #parati #peru #humor #fyp.
 platform: TikTok
 hits: 33
 text_top: See the most popular TikTok accounts on inBeat.

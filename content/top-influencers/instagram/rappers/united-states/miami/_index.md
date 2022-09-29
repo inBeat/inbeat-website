@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Miami In 2021
+title: Top 10 Rappers Instagram Influencers In Miami In 2022
 description: >-
-  Find top rappers Instagram influencers in Miami in 2021. Most popular hashtags: #miami #music #rapper #love.
+  Find top rappers Instagram influencers in Miami in 2022. Most popular hashtags: #miami #music #rapper #love.
 platform: Instagram
 hits: 52
 text_top: Identify the top-rated Instagram accounts on inBeat.
