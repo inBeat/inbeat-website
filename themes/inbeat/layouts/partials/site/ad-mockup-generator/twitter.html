@@ -76,7 +76,7 @@
                     v-else>Image</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
-                  <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
+                  <uploader :multiple="activeAd.id === 3 ? true : false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
@@ -128,7 +128,7 @@
                         <div class="twitter-profile-picture">
 
                         </div>
-                        <div class="twitter__post-section">
+                        <div :class="['twitter__post-section',{'carousel-adjestument' : activeAd.id=== 3}]">
                             <div class="twitter__post-header-section">
                                 <div class="head">
                                     <div class="profile-credencials">
@@ -142,20 +142,28 @@
                                     Everyone loves giving away company swag Lorem ipsum lore
                                 </div>
                             </div>
-                            <div class="twitter__post-body-section" id="twitter__post-body-section">
-                                <div class="twitter-post" id="twitter-post" :style="getComputedHeight">
-                                  <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
-                                  <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                                      recommended<span></span>
-                                </div>
-                                <div class="twitter-post-description">
-                                    <div class="link">
-                                      canadacomputers.com
-                                    </div>
-                                    <div class="text">
-                                      Find it at Canada Computers
-                                    </div>
-                                </div>
+                            <div :class="{'twitter__carousel-wrapper' : activeAd.id=== 3}">
+                              <div v-for="post in activeAd.id=== 3  ? postSrc[0] ?  postSrc : [1,2] : [1]"  :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
+                                  <div class="twitter-post" id="twitter-post" :style="getComputedHeight">
+                                    <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">
+                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                                        recommended<span></span>
+                                  </div>
+                                  <div class="twitter-post-description">
+                                      <div class="link">
+                                        canadacomputers.com
+                                      </div>
+                                      <div class="text">
+                                        Find it at Canada Computers
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div v-if="activeAd.id=== 3  && left"  class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
+                              <span class="left-arrow"> &#10094; </span>
+                            </div>
+                            <div v-if="activeAd.id=== 3"  class="btn btn-next" aria-label="Next slide" @click="slideNext">
+                              <span class="right-arrow"> &#10095;  </span>
                             </div>
                             <div class="twitter__post-user-action-section">
                                 <div class="action-wrapper">
@@ -489,6 +497,7 @@
               captionValue: '',
               seeMoreDisplayValue: '',
               activePost: 0,
+              left: 0,
               adTypes: [{
                 id:1,
                 type:'Square',
@@ -547,6 +556,13 @@
                 this.dpSrc = src
               }else{
                 this.postSrc.push(src)
+                if(this.activeAd.id === 3){
+                  if( this.postSrc.length === 1){
+                    this.postSrc[1] = this.postSrc[0] 
+                  }else if (this.postSrc[0] === this.postSrc[1]){
+                    this.postSrc.splice(1, 1)
+                  }
+                }
               }
             })
           },
@@ -695,7 +711,23 @@
             }else{
               this.activeTab = 'both'
             }
-          }
+          },
+          slideNext(){
+            let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
+            this.left += 290
+            ele.scrollTo({
+              left: this.left,
+              behavior: 'smooth',
+            })
+          },
+          slidePrevious(){
+            let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
+            this.left -= 290
+            ele.scrollTo({
+              left: this.left,
+              behavior: 'smooth',
+            })
+          },
       },
       mounted(){
         this.setActiveTab()

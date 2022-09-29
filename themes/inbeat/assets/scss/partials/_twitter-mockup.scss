@@ -7,6 +7,7 @@
     gap: 12px;
     align-items: flex-start;
     justify-content: flex-start;
+    overflow: hidden;
     // width: 100%;
     .twitter-profile-picture{
         width: 54px;
@@ -17,6 +18,44 @@
         overflow: hidden;
     }
     .twitter__post-section{
+        &.carousel-adjestument{
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            width: 336.33px;
+            position: relative;
+            &:hover{
+                .btn{
+                    opacity: 1;
+                }
+            }
+            .btn {
+                background: #FFFFFF;
+                border: 1px solid #CFD0D4;
+                height: 49px;
+                width: 49px;
+                border-radius: 50%;
+                position: absolute;
+                top: 40%;
+                color: #66676B;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 16px;
+                cursor: pointer;
+                opacity: 0;
+                transition: all 0.3s ease-in-out;
+              }
+              .btn-next{
+                right: 14px;
+              }
+              .btn-prev{
+                left: -14px;
+            }
+            
+        }
+        }
         .twitter__post-header-section{
             font-size: 16px;
             line-height: 24px;
@@ -44,6 +83,23 @@
                 font-weight: 400;
                 color: #10141A;
                 padding-right: 18px;
+            }
+        }
+        .twitter__carousel-wrapper{
+            display: flex;
+            overflow-x: scroll;
+            gap: 10px;
+            &::-webkit-scrollbar {
+                display: none;
+            }
+            scrollbar-width: none;
+            .twitter__post-body-section{
+                margin-right: 0px;
+                width: 290px;
+                flex-shrink: 0;
+                &:last-child{
+                    margin-right: 10px;
+                }
             }
         }
         .twitter__post-body-section{
@@ -109,4 +165,3 @@
             }
         }
     }
-}
