@@ -7,6 +7,9 @@ layout: free-toolkit
 titre: Free toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
+  - influencerMarketingTools:
+    subtitle: Influencer Marketing Tools
+    tools:
     - title: Instagram Engagement <br>  Rate Calculator
       text: Gain insights on influencers with our rapid Instagram engagement checker.
       icon: freetoolkit-ig-engagement
@@ -31,6 +34,37 @@ toolkits:
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
+  - AdMockupGenerators:
+    subtitle: Ad mockup generators
+    tools:
+    - title:  Instagram Ad Mockup <br> Generator 
+      text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
+      icon: instagram-ad-mockup
+      url: ad-mockup-generator/instagram
+    - title:  Facebook Ad Mockup <br> Generator 
+      text: Create a one to one Facebook Ad mockup complete with all possible fields and call-to-actions.  
+      icon: facebook-ad-mockup
+      url: ad-mockup-generator/facebook
+    - title:  TikTok Ad Mockup <br> Generator 
+      text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
+      icon: tiktok-ad-mockup
+      url: ad-mockup-generator/tiktok
+    - title: Twitter Ad Mockup <br> Generator 
+      text: Generate, preview & download Twitter ads! All fields are fully customizable, and download everything for free.
+      icon: twitter-ad-mockup
+      url: ad-mockup-generator/twitter
+    - title:  Snapchat Ad Mockup <br> Generator 
+      text: This Ad Mockup generator allows you to fully customize all fields on a Snapchat ad, and upload your own media!
+      icon: snapchat-ad-mockup
+      url: ad-mockup-generator/snapchat
+    - title: Linkedin Ad Mockup <br> Generator 
+      text: Preview & build Linkedin ads before they go live! inBeat’s ad mockup generator offers all formats available for paid ads. 
+      icon: linkedin-ad-mockup
+      url: ad-mockup-generator/linkedin
+
+  - PaidMarketingInfluencer:
+    subtitle: Paid Marketing Calculators
+    tools:
     - title: CPM <br> Calculator
       text: Calculate your cost per 1000 impressions across different channels or multiple campaigns.
       icon: cpm-calculator
@@ -47,28 +81,5 @@ toolkits:
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-calculator
       url: bounce-rate-calculator
-    - title:  Instagram Ad Mockup <br> Generator 
-      text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
-      icon: instagram-ad-mockup
-      url: ad-mockup-generator/instagram
-    - title:  Facebook Ad Mockup <br> Generator 
-      text: Create a one to one Facebook Ad mockup complete with all possible fields and call-to-actions.  
-      icon: facebook-ad-mockup
-      url: ad-mockup-generator/facebook
-    - title: Twitter Ad Mockup <br> Generator 
-      text: Generate, preview & download Twitter ads! All fields are fully customizable, and download everything for free.
-      icon: twitter-ad-mockup
-      url: ad-mockup-generator/twitter
-    - title:  Snapchat Ad Mockup <br> Generator 
-      text: This Ad Mockup generator allows you to fully customize all fields on a Snapchat ad, and upload your own media!
-      icon: snapchat-ad-mockup
-      url: ad-mockup-generator/snapchat
-    - title: Linkedin Ad Mockup <br> Generator 
-      text: Preview & build Linkedin ads before they go live! inBeat’s ad mockup generator offers all formats available for paid ads. 
-      icon: linkedin-ad-mockup
-      url: ad-mockup-generator/linkedin
-    - title:  TikTok Ad Mockup <br> Generator 
-      text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
-      icon: tiktok-ad-mockup
-      url: ad-mockup-generator/tiktok
+  
 ---
