@@ -1,5 +1,7 @@
 <section class="container-fluid clients-influencer" id="{{- .Params.clients.id -}}">
-    <div class="col-xs-12 col-md-12 align-center" style="margin-bottom: 64px;"><h3>Loved by leading online brands.</h3></div>
+    {{- if .Params.clients.title -}}
+    <div class="col-xs-12 col-md-12 align-center" style="margin-bottom: 64px;"><h3>{{- .Params.clients.title -}}</h3></div>
+    {{- end -}}
     <div class="container">
         <div class="slider">
             <div class="slide stack-logo">{{- partial "icons/btan.html" -}} {{- partial "icons/new-balance.html" -}}</div>

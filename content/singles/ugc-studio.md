@@ -84,6 +84,7 @@ testimonials:
   secondrow: true
 clients:
   id: clients_creator-studio
+  title: Loved by leading online brands.
 toolkits:
   id: 'home-tools'
   tools:
