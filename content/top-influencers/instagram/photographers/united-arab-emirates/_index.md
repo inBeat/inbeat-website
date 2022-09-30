@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Photographers Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top photographers Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #mydubai #fashion.
+  Find top photographers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #fashion.
 platform: Instagram
 hits: 175
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.073431
     id: ck0tzenfhq2wc0i19wqtb4mpc
     verified: false
-    hashtags: "#gucciresort2021, #alessandromichele, #gucci"
+    hashtags: "#gucciresort2022, #alessandromichele, #gucci"
   - username: "serge.bespalov"
     fullname: >-
       Sergey Bespalov

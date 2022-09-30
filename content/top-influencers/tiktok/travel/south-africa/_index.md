@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In South Africa In 2021
+title: Top 10 Travel TikTok Influencers In South Africa In 2022
 description: >-
-  Find top travel TikTok influencers in South Africa in 2021. Most popular hashtags: #travel #tiktoksouthafrica #fyp #southafrica.
+  Find top travel TikTok influencers in South Africa in 2022. Most popular hashtags: #travel #tiktoksouthafrica #fyp #southafrica.
 platform: TikTok
 hits: 33
 text_top: See the best TikTok accounts on inBeat.

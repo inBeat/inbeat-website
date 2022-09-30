@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Portugal In 2021
+title: Top 10 Music TikTok Influencers In Portugal In 2022
 description: >-
-  Find top music TikTok influencers in Portugal in 2021. Most popular hashtags: #fyp #tiktok #duet #portugal.
+  Find top music TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #tiktok #duet #portugal.
 platform: TikTok
 hits: 50
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In San Antonio In 2021
+title: Top 10 Health TikTok Influencers In San Antonio In 2022
 description: >-
-  Find top health TikTok influencers in San Antonio in 2021. Most popular hashtags: #fyp #foryou #sanantonio #foryoupage.
+  Find top health TikTok influencers in San Antonio in 2022. Most popular hashtags: #fyp #foryou #sanantonio #foryoupage.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok influencers on inBeat.

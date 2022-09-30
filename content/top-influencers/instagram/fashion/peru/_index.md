@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Peru In 2021
+title: Top 10 Fashion Instagram Influencers In Peru In 2022
 description: >-
-  Find top fashion Instagram influencers in Peru in 2021. Most popular hashtags: #publicidad #fashion #lima.
+  Find top fashion Instagram influencers in Peru in 2022. Most popular hashtags: #publicidad #fashion #lima.
 platform: Instagram
 hits: 98
 text_top: Discover the top-rated Instagram accounts on inBeat.

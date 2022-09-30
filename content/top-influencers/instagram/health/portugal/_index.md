@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Portugal In 2021
+title: Top 10 Health Instagram Influencers In Portugal In 2022
 description: >-
-  Find top health Instagram influencers in Portugal in 2021. Most popular hashtags: #mensblog #men #ootdinspo #portugal.
+  Find top health Instagram influencers in Portugal in 2022. Most popular hashtags: #mensblog #men #ootdinspo #portugal.
 platform: Instagram
 hits: 114
 text_top: Analyze the top-rated Instagram accounts on inBeat.

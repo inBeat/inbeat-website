@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Brazil In 2021
+title: Top 10 Dancers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top dancers TikTok influencers in Brazil in 2021. Most popular hashtags: #dance #fy #dueto #foryou.
+  Find top dancers TikTok influencers in Brazil in 2022. Most popular hashtags: #dance #fy #dueto #foryou.
 platform: TikTok
 hits: 112
 text_top: Discover the most popular TikTok influencers on inBeat.

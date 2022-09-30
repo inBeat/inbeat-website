@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Seattle In 2021
+title: Top 10 TikTok Influencers In Seattle In 2022
 description: >-
-  Find top TikTok influencers in Seattle in 2021. Most popular hashtags: #fyp #duet #foryoupage #greenscreen.
+  Find top TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #duet #foryoupage #greenscreen.
 platform: TikTok
 hits: 934
 text_top: See the best TikTok profiles on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       DrumCorpsKat
     bio: >-
-      Blue Stars: 2020/ 2021 Seattle Cascades: 2019 Venmo: KatConaway
+      Blue Stars: 2020/ 2022 Seattle Cascades: 2019 Venmo: KatConaway
     location: "United States"
     followers: 48300
     engagement: 2098

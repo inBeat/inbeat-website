@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Indonesia In 2021
+title: Top 10 Gaming TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top gaming TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #gaming #foryoupage.
+  Find top gaming TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #gaming #foryoupage.
 platform: TikTok
 hits: 21
 text_top: See the top-rated TikTok profiles on inBeat.

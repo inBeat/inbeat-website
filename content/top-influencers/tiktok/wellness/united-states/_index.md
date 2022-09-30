@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In United States In 2021
+title: Top 10 Wellness TikTok Influencers In United States In 2022
 description: >-
-  Find top wellness TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #learnontiktok #foryoupage.
+  Find top wellness TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #learnontiktok #foryoupage.
 platform: TikTok
 hits: 361
 text_top: Discover the most popular TikTok profiles on inBeat.

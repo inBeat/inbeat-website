@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Sydney In 2021
+title: Top 10 Lifestyle Instagram Influencers In Sydney In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #lifestyle #australia.
+  Find top lifestyle Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #lifestyle #australia.
 platform: Instagram
 hits: 142
 text_top: Discover the most popular Instagram influencers on inBeat.

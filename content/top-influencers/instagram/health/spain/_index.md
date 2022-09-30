@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Spain In 2021
+title: Top 10 Health Instagram Influencers In Spain In 2022
 description: >-
-  Find top health Instagram influencers in Spain in 2021. Most popular hashtags: #healthylifestyle #fitness #lifestyle #training.
+  Find top health Instagram influencers in Spain in 2022. Most popular hashtags: #healthylifestyle #fitness #lifestyle #training.
 platform: Instagram
 hits: 712
 text_top: Identify the best Instagram profiles on inBeat.
@@ -83,7 +83,7 @@ profiles:
     fullname: >-
       M A R T A  B I S S H O P P
     bio: >-
-      ▫️ Fitness&Health ▫️ Médica👩🏽‍⚕️🩺 #MIR2021 ▫️ IFBB Bikini Fitness 🥇 ▫️ @myproteines : BISSHOPP #naturalbodybuilding
+      ▫️ Fitness&Health ▫️ Médica👩🏽‍⚕️🩺 #MIR2022 ▫️ IFBB Bikini Fitness 🥇 ▫️ @myproteines : BISSHOPP #naturalbodybuilding
     location: "Spain"
     followers: 10643
     engagement: 922

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Brazil In 2021
+title: Top 10 Stylists Instagram Influencers In Brazil In 2022
 description: >-
-  Find top stylists Instagram influencers in Brazil in 2021. Most popular hashtags: #afrohairstyle #afrohair #tran.
+  Find top stylists Instagram influencers in Brazil in 2022. Most popular hashtags: #afrohairstyle #afrohair #tran.
 platform: Instagram
 hits: 290
 text_top: Analyze the top-rated Instagram accounts on inBeat.

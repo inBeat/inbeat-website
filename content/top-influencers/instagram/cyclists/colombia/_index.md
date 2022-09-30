@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Colombia In 2021
+title: Top 10 Cyclists Instagram Influencers In Colombia In 2022
 description: >-
-  Find top cyclists Instagram influencers in Colombia in 2021. Most popular hashtags: #cycling #cyclinglife #cyclingphotos #ciclismo.
+  Find top cyclists Instagram influencers in Colombia in 2022. Most popular hashtags: #cycling #cyclinglife #cyclingphotos #ciclismo.
 platform: Instagram
 hits: 20
 text_top: Discover the most popular Instagram profiles on inBeat.

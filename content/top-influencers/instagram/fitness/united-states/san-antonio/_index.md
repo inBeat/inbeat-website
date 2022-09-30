@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In San Antonio In 2021
+title: Top 10 Fitness Instagram Influencers In San Antonio In 2022
 description: >-
-  Find top fitness Instagram influencers in San Antonio in 2021. Most popular hashtags: #fitness #sanantonio #texas #satx.
+  Find top fitness Instagram influencers in San Antonio in 2022. Most popular hashtags: #fitness #sanantonio #texas #satx.
 platform: Instagram
 hits: 31
 text_top: Analyze the most popular Instagram accounts on inBeat.

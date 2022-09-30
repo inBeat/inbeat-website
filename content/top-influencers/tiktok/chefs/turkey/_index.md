@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Turkey In 2021
+title: Top 10 Chefs TikTok Influencers In Turkey In 2022
 description: >-
-  Find top chefs TikTok influencers in Turkey in 2021. Most popular hashtags: #ke #tiktok #chef #food.
+  Find top chefs TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #tiktok #chef #food.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok influencers on inBeat.

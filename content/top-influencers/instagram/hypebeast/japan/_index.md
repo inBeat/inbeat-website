@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Japan In 2021
+title: Top 10 Hypebeast Instagram Influencers In Japan In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Japan in 2021. Most popular hashtags: #hypebeast #moodygrams #hbouthere #outfitsociety.
+  Find top hypebeast Instagram influencers in Japan in 2022. Most popular hashtags: #hypebeast #moodygrams #hbouthere #outfitsociety.
 platform: Instagram
 hits: 78
 text_top: Identify the most popular Instagram influencers on inBeat.

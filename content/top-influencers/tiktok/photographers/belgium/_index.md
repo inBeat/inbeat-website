@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Belgium In 2021
+title: Top 10 Photographers TikTok Influencers In Belgium In 2022
 description: >-
-  Find top photographers TikTok influencers in Belgium in 2021. Most popular hashtags: #fyp #foryou #belgium #photography.
+  Find top photographers TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #foryou #belgium #photography.
 platform: TikTok
 hits: 8
 text_top: See the most popular TikTok influencers on inBeat.

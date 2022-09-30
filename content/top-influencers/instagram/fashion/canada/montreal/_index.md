@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Montreal In 2021
+title: Top 10 Fashion Instagram Influencers In Montreal In 2022
 description: >-
-  Find top fashion Instagram influencers in Montreal in 2021. Most popular hashtags: #fashion #montreal #fashiongram.
+  Find top fashion Instagram influencers in Montreal in 2022. Most popular hashtags: #fashion #montreal #fashiongram.
 platform: Instagram
 hits: 110
 text_top: See the most popular Instagram influencers on inBeat.

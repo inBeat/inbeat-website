@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Germany In 2021
+title: Top 10 Dancers TikTok Influencers In Germany In 2022
 description: >-
-  Find top dancers TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #foryou #dance #duett.
+  Find top dancers TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #dance #duett.
 platform: TikTok
 hits: 71
 text_top: Analyze the top-rated TikTok influencers on inBeat.

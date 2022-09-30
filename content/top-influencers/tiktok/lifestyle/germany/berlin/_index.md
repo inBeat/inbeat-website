@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Berlin In 2021
+title: Top 10 Lifestyle TikTok Influencers In Berlin In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Berlin in 2021. Most popular hashtags: #foryou #fyp #fy #viral.
+  Find top lifestyle TikTok influencers in Berlin in 2022. Most popular hashtags: #foryou #fyp #fy #viral.
 platform: TikTok
 hits: 4
 text_top: Analyze the top-rated TikTok influencers on inBeat.

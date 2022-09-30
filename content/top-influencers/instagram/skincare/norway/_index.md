@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Norway In 2021
+title: Top 10 Skincare Instagram Influencers In Norway In 2022
 description: >-
-  Find top skincare Instagram influencers in Norway in 2021. Most popular hashtags: #skincare #norway #makeup #lifestyle.
+  Find top skincare Instagram influencers in Norway in 2022. Most popular hashtags: #skincare #norway #makeup #lifestyle.
 platform: Instagram
 hits: 21
 text_top: See the best Instagram accounts on inBeat.

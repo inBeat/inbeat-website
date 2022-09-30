@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Canada In 2021
+title: Top 10 Gaming Instagram Influencers In Canada In 2022
 description: >-
-  Find top gaming Instagram influencers in Canada in 2021. Most popular hashtags: #gaming #gamer #pc #gamingcommunity.
+  Find top gaming Instagram influencers in Canada in 2022. Most popular hashtags: #gaming #gamer #pc #gamingcommunity.
 platform: Instagram
 hits: 44
 text_top: Discover the top-rated Instagram profiles on inBeat.

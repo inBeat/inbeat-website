@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Tokyo In 2021
+title: Top 10 Photographers Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top photographers Instagram influencers in Tokyo in 2021. Most popular hashtags: #tokyo #japan #portraits.
+  Find top photographers Instagram influencers in Tokyo in 2022. Most popular hashtags: #tokyo #japan #portraits.
 platform: Instagram
 hits: 138
 text_top: See the most popular Instagram profiles on inBeat.
@@ -121,7 +121,7 @@ profiles:
     bio: >-
       Julia • Photographer in Tokyo🇷🇺🇪🇸🇧🇷 🇬🇧 • #sonya7riii • Travel photos account @_icyphotos_ Youtube channel ⬇️⬇️⬇️
     location: "Japan"
-    followers: 20214
+    followers: 20224
     engagement: 895
     commentsToLikes: 0.027066
     id: ck5c1kyiive4i0i11svbdfe22

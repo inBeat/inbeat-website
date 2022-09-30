@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Seattle In 2021
+title: Top 10 Vegan TikTok Influencers In Seattle In 2022
 description: >-
-  Find top vegan TikTok influencers in Seattle in 2021. Most popular hashtags: #fyp #biden #greenscreen #trump.
+  Find top vegan TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #biden #greenscreen #trump.
 platform: TikTok
 hits: 7
 text_top: Analyze the best TikTok profiles on inBeat.

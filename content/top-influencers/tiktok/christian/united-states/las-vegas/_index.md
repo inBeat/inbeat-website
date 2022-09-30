@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Las Vegas In 2021
+title: Top 10 Christian TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top christian TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top christian TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 10
 text_top: See the most popular TikTok accounts on inBeat.

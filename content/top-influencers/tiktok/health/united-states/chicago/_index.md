@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Chicago In 2021
+title: Top 10 Health TikTok Influencers In Chicago In 2022
 description: >-
-  Find top health TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #foryou #comedy #duet.
+  Find top health TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #foryou #comedy #duet.
 platform: TikTok
 hits: 38
 text_top: Discover the most popular TikTok influencers on inBeat.

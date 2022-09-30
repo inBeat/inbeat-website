@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Germany In 2021
+title: Top 10 Pole Dancers Instagram Influencers In Germany In 2022
 description: >-
-  Find top pole dancers Instagram influencers in Germany in 2021. Most popular hashtags: #poledance #poledancer #dancer #photography.
+  Find top pole dancers Instagram influencers in Germany in 2022. Most popular hashtags: #poledance #poledancer #dancer #photography.
 platform: Instagram
 hits: 51
 text_top: Analyze the most popular Instagram influencers on inBeat.

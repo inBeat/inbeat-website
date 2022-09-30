@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Mumbai In 2021
+title: Top 10 Yoga Instagram Influencers In Mumbai In 2022
 description: >-
-  Find top yoga Instagram influencers in Mumbai in 2021. Most popular hashtags: #yoga #mumbai #india #mumbaiyoga.
+  Find top yoga Instagram influencers in Mumbai in 2022. Most popular hashtags: #yoga #mumbai #india #mumbaiyoga.
 platform: Instagram
 hits: 110
 text_top: Identify the best Instagram profiles on inBeat.

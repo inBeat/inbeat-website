@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Diego In 2021
+title: Top 10 Vegan Instagram Influencers In San Diego In 2022
 description: >-
-  Find top vegan Instagram influencers in San Diego in 2021. Most popular hashtags: #sandiego #vegan #foodie #foodporn.
+  Find top vegan Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #vegan #foodie #foodporn.
 platform: Instagram
 hits: 44
 text_top: Discover the most popular Instagram influencers on inBeat.

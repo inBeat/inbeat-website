@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Spain In 2021
+title: Top 10 Travel TikTok Influencers In Spain In 2022
 description: >-
-  Find top travel TikTok influencers in Spain in 2021. Most popular hashtags: #fyp #parati #foryou #viral.
+  Find top travel TikTok influencers in Spain in 2022. Most popular hashtags: #fyp #parati #foryou #viral.
 platform: TikTok
 hits: 76
 text_top: See the top-rated TikTok profiles on inBeat.

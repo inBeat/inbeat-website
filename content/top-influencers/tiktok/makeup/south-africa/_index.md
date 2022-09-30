@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Africa In 2021
+title: Top 10 Makeup TikTok Influencers In South Africa In 2022
 description: >-
-  Find top makeup TikTok influencers in South Africa in 2021. Most popular hashtags: #makeup #fyp #foryou #foryoupage.
+  Find top makeup TikTok influencers in South Africa in 2022. Most popular hashtags: #makeup #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 64
 text_top: Discover the most popular TikTok accounts on inBeat.

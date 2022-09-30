@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In South Africa In 2021
+title: Top 10 TikTok Influencers In South Africa In 2022
 description: >-
-  Find top TikTok influencers in South Africa in 2021. Most popular hashtags: #duet #fyp #tiktok #lol.
+  Find top TikTok influencers in South Africa in 2022. Most popular hashtags: #duet #fyp #tiktok #lol.
 platform: TikTok
 hits: 715
 text_top: See the best TikTok profiles on inBeat.

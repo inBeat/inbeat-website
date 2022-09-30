@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie TikTok Influencers In United States In 2021
+title: Top 10 Lingerie TikTok Influencers In United States In 2022
 description: >-
-  Find top lingerie TikTok influencers in United States in 2021. Most popular hashtags: #fyp #lingerie #foryou #rnbvibes.
+  Find top lingerie TikTok influencers in United States in 2022. Most popular hashtags: #fyp #lingerie #foryou #rnbvibes.
 platform: TikTok
 hits: 33
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Poland In 2021
+title: Top 10 Beauty Instagram Influencers In Poland In 2022
 description: >-
-  Find top beauty Instagram influencers in Poland in 2021. Most popular hashtags: #makeup #polishgirl #polskadziewczyna.
+  Find top beauty Instagram influencers in Poland in 2022. Most popular hashtags: #makeup #polishgirl #polskadziewczyna.
 platform: Instagram
 hits: 2180
 text_top: Identify the top-rated Instagram influencers on inBeat.

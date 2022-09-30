@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Peru In 2021
+title: Top 10 Yoga Instagram Influencers In Peru In 2022
 description: >-
-  Find top yoga Instagram influencers in Peru in 2021. Most popular hashtags: #love #yoga #motivation #fitness.
+  Find top yoga Instagram influencers in Peru in 2022. Most popular hashtags: #love #yoga #motivation #fitness.
 platform: Instagram
 hits: 18
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Melbourne In 2021
+title: Top 10 Models TikTok Influencers In Melbourne In 2022
 description: >-
-  Find top models TikTok influencers in Melbourne in 2021. Most popular hashtags: #fyp #melbourne #australia #model.
+  Find top models TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #melbourne #australia #model.
 platform: TikTok
 hits: 14
 text_top: Analyze the top-rated TikTok influencers on inBeat.

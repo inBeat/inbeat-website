@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Spain in 2021. Most popular hashtags: #tattoo #barcelona #inked #makeup.
+  Find top tattoo-artists Instagram influencers in Spain in 2022. Most popular hashtags: #tattoo #barcelona #inked #makeup.
 platform: Instagram
 hits: 192
 text_top: Identify the most popular Instagram profiles on inBeat.

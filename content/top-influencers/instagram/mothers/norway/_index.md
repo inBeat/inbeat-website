@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Norway In 2021
+title: Top 10 Mothers Instagram Influencers In Norway In 2022
 description: >-
-  Find top mothers Instagram influencers in Norway in 2021. Most popular hashtags: #norway #norge #visitnorway.
+  Find top mothers Instagram influencers in Norway in 2022. Most popular hashtags: #norway #norge #visitnorway.
 platform: Instagram
 hits: 79
 text_top: Analyze the top-rated Instagram profiles on inBeat.

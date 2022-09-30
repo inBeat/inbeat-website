@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In New York In 2021
+title: Top 10 Home Decor TikTok Influencers In New York In 2022
 description: >-
-  Find top home decor TikTok influencers in New York in 2021. Most popular hashtags: #homedecor #newyork #fyp #foryou.
+  Find top home decor TikTok influencers in New York in 2022. Most popular hashtags: #homedecor #newyork #fyp #foryou.
 platform: TikTok
 hits: 39
 text_top: See the best TikTok profiles on inBeat.

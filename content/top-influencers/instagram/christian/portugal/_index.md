@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Portugal In 2021
+title: Top 10 Christian Instagram Influencers In Portugal In 2022
 description: >-
-  Find top christian Instagram influencers in Portugal in 2021. Most popular hashtags: #goldenhour #ronaldo #cristiano.
+  Find top christian Instagram influencers in Portugal in 2022. Most popular hashtags: #goldenhour #ronaldo #cristiano.
 platform: Instagram
 hits: 17
 text_top: See the top-rated Instagram profiles on inBeat.

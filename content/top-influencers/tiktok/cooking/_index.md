@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In 2021
+title: Top 10 Cooking TikTok Influencers In 2022
 description: >-
-  Find top cooking TikTok influencers in 2021. Most popular hashtags: #duet #fyp #greenscreen #xyzbca.
+  Find top cooking TikTok influencers in 2022. Most popular hashtags: #duet #fyp #greenscreen #xyzbca.
 platform: TikTok
 hits: 5490
 text_top: Identify the most popular TikTok accounts on inBeat.

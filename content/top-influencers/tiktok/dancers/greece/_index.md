@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Greece In 2021
+title: Top 10 Dancers TikTok Influencers In Greece In 2022
 description: >-
-  Find top dancers TikTok influencers in Greece in 2021. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top dancers TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
 hits: 13
 text_top: Discover the top-rated TikTok profiles on inBeat.

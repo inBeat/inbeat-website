@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Indonesia in 2021. Most popular hashtags: #animeart #japan #ootd.
+  Find top graphic-designers Instagram influencers in Indonesia in 2022. Most popular hashtags: #animeart #japan #ootd.
 platform: Instagram
 hits: 61
 text_top: Identify the top-rated Instagram profiles on inBeat.

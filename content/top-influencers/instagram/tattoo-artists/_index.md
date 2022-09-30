@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in 2021. Most popular hashtags: #tattoogirl #tattooartist #fashion.
+  Find top tattoo-artists Instagram influencers in 2022. Most popular hashtags: #tattoogirl #tattooartist #fashion.
 platform: Instagram
 hits: 4175
 text_top: Analyze the top-rated Instagram profiles on inBeat.

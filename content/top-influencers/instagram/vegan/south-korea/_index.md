@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In South Korea In 2021
+title: Top 10 Vegan Instagram Influencers In South Korea In 2022
 description: >-
-  Find top vegan Instagram influencers in South Korea in 2021. Most popular hashtags: #veganism #veganisthenewluxury #deardahlia.
+  Find top vegan Instagram influencers in South Korea in 2022. Most popular hashtags: #veganism #veganisthenewluxury #deardahlia.
 platform: Instagram
 hits: 19
 text_top: Identify the top-rated Instagram accounts on inBeat.

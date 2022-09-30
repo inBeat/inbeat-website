@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Los Angeles In 2021
+title: Top 10 Nutrition Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top nutrition Instagram influencers in Los Angeles in 2021. Most popular hashtags: #nutrition #love #workout #losangeles.
+  Find top nutrition Instagram influencers in Los Angeles in 2022. Most popular hashtags: #nutrition #love #workout #losangeles.
 platform: Instagram
 hits: 59
 text_top: Discover the most popular Instagram influencers on inBeat.

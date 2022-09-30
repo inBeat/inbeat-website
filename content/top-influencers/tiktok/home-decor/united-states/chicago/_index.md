@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Chicago In 2021
+title: Top 10 Home Decor TikTok Influencers In Chicago In 2022
 description: >-
-  Find top home decor TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #homedecor #chicago #foryou.
+  Find top home decor TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #homedecor #chicago #foryou.
 platform: TikTok
 hits: 21
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2021
+title: Top 10 Lifestyle TikTok Influencers In Vancouver In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Vancouver in 2021. Most popular hashtags: #vancouver #fyp #canada #fitness.
+  Find top lifestyle TikTok influencers in Vancouver in 2022. Most popular hashtags: #vancouver #fyp #canada #fitness.
 platform: TikTok
 hits: 14
 text_top: Identify the most popular TikTok influencers on inBeat.

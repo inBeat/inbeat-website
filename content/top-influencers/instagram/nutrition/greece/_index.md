@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Greece In 2021
+title: Top 10 Nutrition Instagram Influencers In Greece In 2022
 description: >-
-  Find top nutrition Instagram influencers in Greece in 2021. Most popular hashtags: #nutrition #summer #diet #dietitian.
+  Find top nutrition Instagram influencers in Greece in 2022. Most popular hashtags: #nutrition #summer #diet #dietitian.
 platform: Instagram
 hits: 30
 text_top: Identify the top-rated Instagram accounts on inBeat.

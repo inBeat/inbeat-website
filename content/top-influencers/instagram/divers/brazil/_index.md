@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Brazil In 2021
+title: Top 10 Divers Instagram Influencers In Brazil In 2022
 description: >-
-  Find top divers Instagram influencers in Brazil in 2021. Most popular hashtags: #makeup #influencer #instagood.
+  Find top divers Instagram influencers in Brazil in 2022. Most popular hashtags: #makeup #influencer #instagood.
 platform: Instagram
 hits: 958
 text_top: Identify the top-rated Instagram accounts on inBeat.

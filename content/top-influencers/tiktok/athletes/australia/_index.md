@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Australia In 2021
+title: Top 10 Athletes TikTok Influencers In Australia In 2022
 description: >-
-  Find top athletes TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #australia #athlete.
+  Find top athletes TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #foryou #australia #athlete.
 platform: TikTok
 hits: 27
 text_top: Analyze the best TikTok influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Tori West
     bio: >-
-      Aussie Heptathlete. Follow the journey to 2021 Olympics
+      Aussie Heptathlete. Follow the journey to 2022 Olympics
     location: "Australia"
     followers: 7550
     engagement: 1571

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In 2021
+title: Top 10 Cinema Instagram Influencers In 2022
 description: >-
-  Find top cinema Instagram influencers in 2021. Most popular hashtags: #cinema #travelphotography #indiaclicks.
+  Find top cinema Instagram influencers in 2022. Most popular hashtags: #cinema #travelphotography #indiaclicks.
 platform: Instagram
 hits: 9267
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Australia In 2021
+title: Top 10 Illustrators Instagram Influencers In Australia In 2022
 description: >-
-  Find top illustrators Instagram influencers in Australia in 2021. Most popular hashtags: #illustration #halloween #digitalart.
+  Find top illustrators Instagram influencers in Australia in 2022. Most popular hashtags: #illustration #halloween #digitalart.
 platform: Instagram
 hits: 114
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In San Francisco In 2021
+title: Top 10 Yoga Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top yoga Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #yoga #travel #art.
+  Find top yoga Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #yoga #travel #art.
 platform: Instagram
 hits: 25
 text_top: Identify the top-rated Instagram profiles on inBeat.

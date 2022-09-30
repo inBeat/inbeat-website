@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In San Francisco In 2021
+title: Top 10 Hypebeast Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top hypebeast Instagram influencers in San Francisco in 2021. Most popular hashtags: #hypebeast #sanfrancisco #california #streetwear.
+  Find top hypebeast Instagram influencers in San Francisco in 2022. Most popular hashtags: #hypebeast #sanfrancisco #california #streetwear.
 platform: Instagram
 hits: 37
 text_top: Discover the top-rated Instagram accounts on inBeat.

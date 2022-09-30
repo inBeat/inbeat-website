@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Melbourne In 2021
+title: Top 10 Fitness Instagram Influencers In Melbourne In 2022
 description: >-
-  Find top fitness Instagram influencers in Melbourne in 2021. Most popular hashtags: #fitness #australia #melbourne #instagram.
+  Find top fitness Instagram influencers in Melbourne in 2022. Most popular hashtags: #fitness #australia #melbourne #instagram.
 platform: Instagram
 hits: 79
 text_top: Identify the top-rated Instagram profiles on inBeat.

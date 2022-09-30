@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Austin In 2021
+title: Top 10 Vegan Instagram Influencers In Austin In 2022
 description: >-
-  Find top vegan Instagram influencers in Austin in 2021. Most popular hashtags: #vegan #austintexas #photooftheday.
+  Find top vegan Instagram influencers in Austin in 2022. Most popular hashtags: #vegan #austintexas #photooftheday.
 platform: Instagram
 hits: 65
 text_top: Identify the best Instagram influencers on inBeat.

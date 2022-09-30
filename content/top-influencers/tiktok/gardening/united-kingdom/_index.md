@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In United Kingdom In 2021
+title: Top 10 Gardening TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top gardening TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #gardening #foryoupage #garden.
+  Find top gardening TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #gardening #foryoupage #garden.
 platform: TikTok
 hits: 24
 text_top: Identify the most popular TikTok influencers on inBeat.

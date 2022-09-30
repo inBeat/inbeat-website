@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wedding Instagram Influencers In 2021
+title: Top 10 Wedding Instagram Influencers In 2022
 description: >-
-  Find top wedding Instagram influencers in 2021. Most popular hashtags: #photography #wedding #love.
+  Find top wedding Instagram influencers in 2022. Most popular hashtags: #photography #wedding #love.
 platform: Instagram
 hits: 18154
 text_top: Identify the best Instagram influencers on inBeat.

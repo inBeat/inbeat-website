@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Malaysia In 2021
+title: Top 10 Gaming Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top gaming Instagram influencers in Malaysia in 2021. Most popular hashtags: #gaming #tiktokmalaysia #tiktok.
+  Find top gaming Instagram influencers in Malaysia in 2022. Most popular hashtags: #gaming #tiktokmalaysia #tiktok.
 platform: Instagram
 hits: 21
 text_top: See the top-rated Instagram influencers on inBeat.

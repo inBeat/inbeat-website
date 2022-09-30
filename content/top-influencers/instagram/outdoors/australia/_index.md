@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Australia In 2021
+title: Top 10 Outdoors Instagram Influencers In Australia In 2022
 description: >-
-  Find top outdoors Instagram influencers in Australia in 2021. Most popular hashtags: #nature #sunset #travel #landscape.
+  Find top outdoors Instagram influencers in Australia in 2022. Most popular hashtags: #nature #sunset #travel #landscape.
 platform: Instagram
 hits: 365
 text_top: See the top-rated Instagram accounts on inBeat.

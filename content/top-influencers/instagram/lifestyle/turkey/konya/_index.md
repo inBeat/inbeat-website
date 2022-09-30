@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Konya In 2021
+title: Top 10 Lifestyle Instagram Influencers In Konya In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Konya in 2021. Most popular hashtags: #turkey #photography #photooftheday #antalya.
+  Find top lifestyle Instagram influencers in Konya in 2022. Most popular hashtags: #turkey #photography #photooftheday #antalya.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram accounts on inBeat.

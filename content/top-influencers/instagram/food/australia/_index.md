@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Australia In 2021
+title: Top 10 Food Instagram Influencers In Australia In 2022
 description: >-
-  Find top food Instagram influencers in Australia in 2021. Most popular hashtags: #ad #sydneyaustralia #sydney.
+  Find top food Instagram influencers in Australia in 2022. Most popular hashtags: #ad #sydneyaustralia #sydney.
 platform: Instagram
 hits: 724
 text_top: See the best Instagram influencers on inBeat.

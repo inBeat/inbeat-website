@@ -1,7 +1,7 @@
 ---
-title: Top 10 Craft Beer TikTok Influencers In 2021
+title: Top 10 Craft Beer TikTok Influencers In 2022
 description: >-
-  Find top craft beer TikTok influencers in 2021. Most popular hashtags: #craftbeer #fyp #beer #foryoupage.
+  Find top craft beer TikTok influencers in 2022. Most popular hashtags: #craftbeer #fyp #beer #foryoupage.
 platform: TikTok
 hits: 42
 text_top: Analyze the most popular TikTok accounts on inBeat.

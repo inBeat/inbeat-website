@@ -1,7 +1,7 @@
 ---
-title: Top 10 Zen Meditation Instagram Influencers In 2021
+title: Top 10 Zen Meditation Instagram Influencers In 2022
 description: >-
-  Find top zen meditation Instagram influencers in 2021. Most popular hashtags: #yogapractice #meditation #happiness.
+  Find top zen meditation Instagram influencers in 2022. Most popular hashtags: #yogapractice #meditation #happiness.
 platform: Instagram
 hits: 3782
 text_top: Identify the top-rated Instagram accounts on inBeat.

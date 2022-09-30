@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Lisbon In 2021
+title: Top 10 Fashion TikTok Influencers In Lisbon In 2022
 description: >-
-  Find top fashion TikTok influencers in Lisbon in 2021. Most popular hashtags: #fashion #fyp #portugal #foryou.
+  Find top fashion TikTok influencers in Lisbon in 2022. Most popular hashtags: #fashion #fyp #portugal #foryou.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok influencers on inBeat.

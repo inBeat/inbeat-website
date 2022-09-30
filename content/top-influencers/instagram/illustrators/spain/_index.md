@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Spain In 2021
+title: Top 10 Illustrators Instagram Influencers In Spain In 2022
 description: >-
-  Find top illustrators Instagram influencers in Spain in 2021. Most popular hashtags: #illustration #digitalart #sketch #art.
+  Find top illustrators Instagram influencers in Spain in 2022. Most popular hashtags: #illustration #digitalart #sketch #art.
 platform: Instagram
 hits: 142
 text_top: See the top-rated Instagram accounts on inBeat.

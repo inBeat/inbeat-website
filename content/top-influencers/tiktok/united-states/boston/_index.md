@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Boston In 2021
+title: Top 10 TikTok Influencers In Boston In 2022
 description: >-
-  Find top TikTok influencers in Boston in 2021. Most popular hashtags: #fyp #duet #greenscreen.
+  Find top TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #duet #greenscreen.
 platform: TikTok
 hits: 629
 text_top: Discover the most popular TikTok profiles on inBeat.

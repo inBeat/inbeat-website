@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Austin In 2021
+title: Top 10 Nutrition Instagram Influencers In Austin In 2022
 description: >-
-  Find top nutrition Instagram influencers in Austin in 2021. Most popular hashtags: #healthylifestyle #nutrition #austintexas.
+  Find top nutrition Instagram influencers in Austin in 2022. Most popular hashtags: #healthylifestyle #nutrition #austintexas.
 platform: Instagram
 hits: 31
 text_top: Discover the most popular Instagram accounts on inBeat.

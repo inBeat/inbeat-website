@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In London In 2021
+title: Top 10 Health Instagram Influencers In London In 2022
 description: >-
-  Find top health Instagram influencers in London in 2021. Most popular hashtags: #london #health #fashion #quarantine.
+  Find top health Instagram influencers in London in 2022. Most popular hashtags: #london #health #fashion #quarantine.
 platform: Instagram
 hits: 299
 text_top: Identify the best Instagram accounts on inBeat.

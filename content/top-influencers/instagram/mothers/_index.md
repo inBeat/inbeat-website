@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In 2021
+title: Top 10 Mothers Instagram Influencers In 2022
 description: >-
-  Find top mothers Instagram influencers in 2021. Most popular hashtags: #smile #mirrorselfie #momlife.
+  Find top mothers Instagram influencers in 2022. Most popular hashtags: #smile #mirrorselfie #momlife.
 platform: Instagram
 hits: 22027
 text_top: Analyze the best Instagram accounts on inBeat.

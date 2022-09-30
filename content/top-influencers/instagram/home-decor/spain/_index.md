@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Spain In 2021
+title: Top 10 Home Decor Instagram Influencers In Spain In 2022
 description: >-
-  Find top home decor Instagram influencers in Spain in 2021. Most popular hashtags: #homedecor #instahome #decoracion #nordicstyle.
+  Find top home decor Instagram influencers in Spain in 2022. Most popular hashtags: #homedecor #instahome #decoracion #nordicstyle.
 platform: Instagram
 hits: 152
 text_top: Identify the best Instagram profiles on inBeat.

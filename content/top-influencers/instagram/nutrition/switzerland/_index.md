@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Switzerland In 2021
+title: Top 10 Nutrition Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top nutrition Instagram influencers in Switzerland in 2021. Most popular hashtags: #health #blogger #nutrition #love.
+  Find top nutrition Instagram influencers in Switzerland in 2022. Most popular hashtags: #health #blogger #nutrition #love.
 platform: Instagram
 hits: 29
 text_top: Discover the best Instagram influencers on inBeat.

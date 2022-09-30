@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Canada In 2021
+title: Top 10 Cinema TikTok Influencers In Canada In 2022
 description: >-
-  Find top cinema TikTok influencers in Canada in 2021. Most popular hashtags: #cinematics #fyp #foryou #canada.
+  Find top cinema TikTok influencers in Canada in 2022. Most popular hashtags: #cinematics #fyp #foryou #canada.
 platform: TikTok
 hits: 95
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Italy In 2021
+title: Top 10 Photographers Instagram Influencers In Italy In 2022
 description: >-
-  Find top photographers Instagram influencers in Italy in 2021. Most popular hashtags: #landscapephotography #naturephotography #italia.
+  Find top photographers Instagram influencers in Italy in 2022. Most popular hashtags: #landscapephotography #naturephotography #italia.
 platform: Instagram
 hits: 1591
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Canada In 2021
+title: Top 10 Home Decor TikTok Influencers In Canada In 2022
 description: >-
-  Find top home decor TikTok influencers in Canada in 2021. Most popular hashtags: #homedecor #fyp #howto #diy.
+  Find top home decor TikTok influencers in Canada in 2022. Most popular hashtags: #homedecor #fyp #howto #diy.
 platform: TikTok
 hits: 168
 text_top: Discover the best TikTok influencers on inBeat.

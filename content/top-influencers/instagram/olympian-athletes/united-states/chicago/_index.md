@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Chicago In 2021
+title: Top 10 Olympian Athletes Instagram Influencers In Chicago In 2022
 description: >-
-  Find top olympian athletes Instagram influencers in Chicago in 2021. Most popular hashtags: #fitness #bodybuilding #olympia #chicagopro.
+  Find top olympian athletes Instagram influencers in Chicago in 2022. Most popular hashtags: #fitness #bodybuilding #olympia #chicagopro.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram profiles on inBeat.

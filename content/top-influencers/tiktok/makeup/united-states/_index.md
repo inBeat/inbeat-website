@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United States In 2021
+title: Top 10 Makeup TikTok Influencers In United States In 2022
 description: >-
-  Find top makeup TikTok influencers in United States in 2021. Most popular hashtags: #duet #greenscreen #happyhalloween #ohno.
+  Find top makeup TikTok influencers in United States in 2022. Most popular hashtags: #duet #greenscreen #happyhalloween #ohno.
 platform: TikTok
 hits: 8379
 text_top: Analyze the best TikTok profiles on inBeat.

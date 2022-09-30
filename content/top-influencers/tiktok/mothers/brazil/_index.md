@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Brazil In 2021
+title: Top 10 Mothers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top mothers TikTok influencers in Brazil in 2021. Most popular hashtags: #fyp #foryou #fy #tiktokbrasil.
+  Find top mothers TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #fy #tiktokbrasil.
 platform: TikTok
 hits: 34
 text_top: See the best TikTok influencers on inBeat.

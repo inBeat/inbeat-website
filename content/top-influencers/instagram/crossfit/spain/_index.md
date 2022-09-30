@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Spain In 2021
+title: Top 10 Crossfit Instagram Influencers In Spain In 2022
 description: >-
-  Find top crossfit Instagram influencers in Spain in 2021. Most popular hashtags: #crossfit #travel #naturaleza.
+  Find top crossfit Instagram influencers in Spain in 2022. Most popular hashtags: #crossfit #travel #naturaleza.
 platform: Instagram
 hits: 136
 text_top: See the top-rated Instagram accounts on inBeat.

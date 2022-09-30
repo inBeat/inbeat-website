@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Japan In 2021
+title: Top 10 Golfers Instagram Influencers In Japan In 2022
 description: >-
-  Find top golfers Instagram influencers in Japan in 2021. Most popular hashtags: #golf #golfswing #golfstagram #golfwear.
+  Find top golfers Instagram influencers in Japan in 2022. Most popular hashtags: #golf #golfswing #golfstagram #golfwear.
 platform: Instagram
 hits: 27
 text_top: See the top-rated Instagram profiles on inBeat.

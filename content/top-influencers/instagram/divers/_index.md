@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In 2021
+title: Top 10 Divers Instagram Influencers In 2022
 description: >-
-  Find top divers Instagram influencers in 2021. Most popular hashtags: #marquinha #gunungrinjani #backtheblue.
+  Find top divers Instagram influencers in 2022. Most popular hashtags: #marquinha #gunungrinjani #backtheblue.
 platform: Instagram
 hits: 4580
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Brazil In 2021
+title: Top 10 Guitar Instagram Influencers In Brazil In 2022
 description: >-
-  Find top guitar Instagram influencers in Brazil in 2021. Most popular hashtags: #guitar #rockon #pitty.
+  Find top guitar Instagram influencers in Brazil in 2022. Most popular hashtags: #guitar #rockon #pitty.
 platform: Instagram
 hits: 529
 text_top: Discover the best Instagram accounts on inBeat.

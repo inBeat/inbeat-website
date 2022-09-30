@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Malaysia In 2021
+title: Top 10 Makeup Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top makeup Instagram influencers in Malaysia in 2021. Most popular hashtags: #hudabeauty #makeup #stayathome.
+  Find top makeup Instagram influencers in Malaysia in 2022. Most popular hashtags: #hudabeauty #makeup #stayathome.
 platform: Instagram
 hits: 108
 text_top: Discover the most popular Instagram influencers on inBeat.

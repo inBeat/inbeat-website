@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Indonesia In 2021
+title: Top 10 Fashion Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top fashion Instagram influencers in Indonesia in 2021. Most popular hashtags: #fashionstyle #ootd #instadaily.
+  Find top fashion Instagram influencers in Indonesia in 2022. Most popular hashtags: #fashionstyle #ootd #instadaily.
 platform: Instagram
 hits: 1319
 text_top: See the top-rated Instagram influencers on inBeat.

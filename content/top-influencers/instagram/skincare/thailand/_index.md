@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Thailand In 2021
+title: Top 10 Skincare Instagram Influencers In Thailand In 2022
 description: >-
-  Find top skincare Instagram influencers in Thailand in 2021. Most popular hashtags: #beautiful #makeup #beauty.
+  Find top skincare Instagram influencers in Thailand in 2022. Most popular hashtags: #beautiful #makeup #beauty.
 platform: Instagram
 hits: 23
 text_top: Analyze the best Instagram accounts on inBeat.

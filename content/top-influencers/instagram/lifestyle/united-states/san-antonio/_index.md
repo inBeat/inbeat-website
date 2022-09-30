@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In San Antonio In 2021
+title: Top 10 Lifestyle Instagram Influencers In San Antonio In 2022
 description: >-
-  Find top lifestyle Instagram influencers in San Antonio in 2021. Most popular hashtags: #texas #lifestyle #sanantonio #fashion.
+  Find top lifestyle Instagram influencers in San Antonio in 2022. Most popular hashtags: #texas #lifestyle #sanantonio #fashion.
 platform: Instagram
 hits: 33
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Venezuela In 2021
+title: Top 10 Lifestyle Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Venezuela in 2021. Most popular hashtags: #skincare #fashionblogger #venezuela #cuarentena.
+  Find top lifestyle Instagram influencers in Venezuela in 2022. Most popular hashtags: #skincare #fashionblogger #venezuela #cuarentena.
 platform: Instagram
 hits: 80
 text_top: Discover the best Instagram influencers on inBeat.

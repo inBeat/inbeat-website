@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Thailand In 2021
+title: Top 10 Health TikTok Influencers In Thailand In 2022
 description: >-
-  Find top health TikTok influencers in Thailand in 2021. Most popular hashtags: #fyp #thailand #foryou #funny.
+  Find top health TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #thailand #foryou #funny.
 platform: TikTok
 hits: 10
 text_top: Analyze the top-rated TikTok accounts on inBeat.

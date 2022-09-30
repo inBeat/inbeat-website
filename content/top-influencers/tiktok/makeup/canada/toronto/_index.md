@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Toronto In 2021
+title: Top 10 Makeup TikTok Influencers In Toronto In 2022
 description: >-
-  Find top makeup TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #toronto #foryoupage #makeup.
+  Find top makeup TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #foryoupage #makeup.
 platform: TikTok
 hits: 96
 text_top: Discover the best TikTok profiles on inBeat.

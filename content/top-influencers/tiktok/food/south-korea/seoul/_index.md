@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Seoul In 2021
+title: Top 10 Food TikTok Influencers In Seoul In 2022
 description: >-
-  Find top food TikTok influencers in Seoul in 2021. Most popular hashtags: #fyp #koreanfood #korea #chicken.
+  Find top food TikTok influencers in Seoul in 2022. Most popular hashtags: #fyp #koreanfood #korea #chicken.
 platform: TikTok
 hits: 5
 text_top: See the top-rated TikTok profiles on inBeat.

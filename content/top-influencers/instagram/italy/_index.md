@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Italy In 2021
+title: Top 10 Instagram Influencers In Italy In 2022
 description: >-
-  Find top Instagram influencers in Italy in 2021. Most popular hashtags: #italia #topitalyphoto #sicilia.
+  Find top Instagram influencers in Italy in 2022. Most popular hashtags: #italia #topitalyphoto #sicilia.
 platform: Instagram
 hits: 24450
 text_top: Identify the best Instagram profiles on inBeat.

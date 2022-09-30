@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Poland In 2021
+title: Top 10 Photographers Instagram Influencers In Poland In 2022
 description: >-
-  Find top photographers Instagram influencers in Poland in 2021. Most popular hashtags: #photooftheday #wroclaw #portrait #polskadziewczyna.
+  Find top photographers Instagram influencers in Poland in 2022. Most popular hashtags: #photooftheday #wroclaw #portrait #polskadziewczyna.
 platform: Instagram
 hits: 415
 text_top: See the top-rated Instagram profiles on inBeat.
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.052037
     id: ck6u9ma32ycce0j714nhi1b4l
     verified: false
-    hashtags: "#dziendobry, #krakow, #bnwsouls, #rodze2021"
+    hashtags: "#dziendobry, #krakow, #bnwsouls, #rodze2022"
   - username: "martamachej"
     fullname: >-
       Marta Machej | Photographer

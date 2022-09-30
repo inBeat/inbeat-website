@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austin In 2021
+title: Top 10 Cosmetics Instagram Influencers In Austin In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Austin in 2021. Most popular hashtags: #makeup #cosmetics #beauty #art.
+  Find top cosmetics Instagram influencers in Austin in 2022. Most popular hashtags: #makeup #cosmetics #beauty #art.
 platform: Instagram
 hits: 25
 text_top: See the best Instagram accounts on inBeat.

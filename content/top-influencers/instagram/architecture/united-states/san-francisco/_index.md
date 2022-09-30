@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In San Francisco In 2021
+title: Top 10 Architecture Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top architecture Instagram influencers in San Francisco in 2021. Most popular hashtags: #architecture #sanfrancisco #travel #photooftheday.
+  Find top architecture Instagram influencers in San Francisco in 2022. Most popular hashtags: #architecture #sanfrancisco #travel #photooftheday.
 platform: Instagram
 hits: 68
 text_top: See the best Instagram accounts on inBeat.

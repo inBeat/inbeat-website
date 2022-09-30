@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Barcelona In 2021
+title: Top 10 Fitness Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top fitness Instagram influencers in Barcelona in 2021. Most popular hashtags: #fitness #barcelona #instagood #spain.
+  Find top fitness Instagram influencers in Barcelona in 2022. Most popular hashtags: #fitness #barcelona #instagood #spain.
 platform: Instagram
 hits: 146
 text_top: Identify the top-rated Instagram influencers on inBeat.

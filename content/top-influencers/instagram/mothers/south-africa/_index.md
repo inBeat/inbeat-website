@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In South Africa In 2021
+title: Top 10 Mothers Instagram Influencers In South Africa In 2022
 description: >-
-  Find top mothers Instagram influencers in South Africa in 2021. Most popular hashtags: #jamesoncollabs #babysoftsupremequilts #dovedayathome.
+  Find top mothers Instagram influencers in South Africa in 2022. Most popular hashtags: #jamesoncollabs #babysoftsupremequilts #dovedayathome.
 platform: Instagram
 hits: 107
 text_top: Discover the most popular Instagram profiles on inBeat.

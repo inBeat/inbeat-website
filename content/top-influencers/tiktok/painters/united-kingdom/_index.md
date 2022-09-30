@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In United Kingdom In 2021
+title: Top 10 Painters TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top painters TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #painter #foryoupage #foryou.
+  Find top painters TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #painter #foryoupage #foryou.
 platform: TikTok
 hits: 95
 text_top: Analyze the most popular TikTok accounts on inBeat.

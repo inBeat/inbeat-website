@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Bali In 2021
+title: Top 10 Fashion Instagram Influencers In Bali In 2022
 description: >-
-  Find top fashion Instagram influencers in Bali in 2021. Most popular hashtags: #bali #baliindonesia #balilife #fashion.
+  Find top fashion Instagram influencers in Bali in 2022. Most popular hashtags: #bali #baliindonesia #balilife #fashion.
 platform: Instagram
 hits: 193
 text_top: Analyze the top-rated Instagram influencers on inBeat.

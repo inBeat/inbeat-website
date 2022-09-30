@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Australia In 2021
+title: Top 10 Cinema TikTok Influencers In Australia In 2022
 description: >-
-  Find top cinema TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #foryou #viral #australia.
+  Find top cinema TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #foryou #viral #australia.
 platform: TikTok
 hits: 30
 text_top: Discover the best TikTok profiles on inBeat.
@@ -75,7 +75,7 @@ profiles:
     location: "Australia"
     followers: 24800
     engagement: 744
-    commentsToLikes: 0.012021
+    commentsToLikes: 0.012022
     id: ck80cqv2hamnw0j78b89vub37
     verified: false
     hashtags: "#reddigitalcinema, #drifting, #drift, #cinematography"

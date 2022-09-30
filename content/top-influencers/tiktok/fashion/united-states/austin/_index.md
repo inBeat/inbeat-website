@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Austin In 2021
+title: Top 10 Fashion TikTok Influencers In Austin In 2022
 description: >-
-  Find top fashion TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #fashion #greenscreen #foryou.
+  Find top fashion TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #fashion #greenscreen #foryou.
 platform: TikTok
 hits: 88
 text_top: Analyze the top-rated TikTok accounts on inBeat.

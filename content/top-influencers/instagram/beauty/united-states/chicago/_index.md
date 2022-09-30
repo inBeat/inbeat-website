@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Chicago In 2021
+title: Top 10 Beauty Instagram Influencers In Chicago In 2022
 description: >-
-  Find top beauty Instagram influencers in Chicago in 2021. Most popular hashtags: #shein #sheingals #octolyfamily.
+  Find top beauty Instagram influencers in Chicago in 2022. Most popular hashtags: #shein #sheingals #octolyfamily.
 platform: Instagram
 hits: 295
 text_top: Analyze the most popular Instagram influencers on inBeat.

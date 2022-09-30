@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Turkey In 2021
+title: Top 10 Cooking Instagram Influencers In Turkey In 2022
 description: >-
-  Find top cooking Instagram influencers in Turkey in 2021. Most popular hashtags: #cooking #food #yummy #tatl.
+  Find top cooking Instagram influencers in Turkey in 2022. Most popular hashtags: #cooking #food #yummy #tatl.
 platform: Instagram
 hits: 75
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Germany In 2021
+title: Top 10 Fitness TikTok Influencers In Germany In 2022
 description: >-
-  Find top fitness TikTok influencers in Germany in 2021. Most popular hashtags: #fitness #foryou #viral #workout.
+  Find top fitness TikTok influencers in Germany in 2022. Most popular hashtags: #fitness #foryou #viral #workout.
 platform: TikTok
 hits: 193
 text_top: Analyze the most popular TikTok influencers on inBeat.

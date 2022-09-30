@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Bali In 2021
+title: Top 10 Health TikTok Influencers In Bali In 2022
 description: >-
-  Find top health TikTok influencers in Bali in 2021. Most popular hashtags: #fyp #foryou #bali #samasamabelajar.
+  Find top health TikTok influencers in Bali in 2022. Most popular hashtags: #fyp #foryou #bali #samasamabelajar.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok accounts on inBeat.

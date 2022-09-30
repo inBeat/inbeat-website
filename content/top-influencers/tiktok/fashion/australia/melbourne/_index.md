@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Melbourne In 2021
+title: Top 10 Fashion TikTok Influencers In Melbourne In 2022
 description: >-
-  Find top fashion TikTok influencers in Melbourne in 2021. Most popular hashtags: #fashion #fyp #foryou #australia.
+  Find top fashion TikTok influencers in Melbourne in 2022. Most popular hashtags: #fashion #fyp #foryou #australia.
 platform: TikTok
 hits: 24
 text_top: See the top-rated TikTok profiles on inBeat.

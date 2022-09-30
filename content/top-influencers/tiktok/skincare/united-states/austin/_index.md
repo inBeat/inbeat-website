@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Austin In 2021
+title: Top 10 Skincare TikTok Influencers In Austin In 2022
 description: >-
-  Find top skincare TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #greenscreen #skincare #duet.
+  Find top skincare TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #greenscreen #skincare #duet.
 platform: TikTok
 hits: 40
 text_top: See the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Hamburg In 2021
+title: Top 10 Vegan TikTok Influencers In Hamburg In 2022
 description: >-
-  Find top vegan TikTok influencers in Hamburg in 2021. Most popular hashtags: #vegan #foryou #fyp #viral.
+  Find top vegan TikTok influencers in Hamburg in 2022. Most popular hashtags: #vegan #foryou #fyp #viral.
 platform: TikTok
 hits: 5
 text_top: See the most popular TikTok influencers on inBeat.

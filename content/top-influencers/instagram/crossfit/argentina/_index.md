@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Argentina In 2021
+title: Top 10 Crossfit Instagram Influencers In Argentina In 2022
 description: >-
-  Find top crossfit Instagram influencers in Argentina in 2021. Most popular hashtags: #crossfit #tbt #fitnessmotivation.
+  Find top crossfit Instagram influencers in Argentina in 2022. Most popular hashtags: #crossfit #tbt #fitnessmotivation.
 platform: Instagram
 hits: 46
 text_top: Analyze the most popular Instagram profiles on inBeat.

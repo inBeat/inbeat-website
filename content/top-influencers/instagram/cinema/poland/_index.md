@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Poland In 2021
+title: Top 10 Cinema Instagram Influencers In Poland In 2022
 description: >-
-  Find top cinema Instagram influencers in Poland in 2021. Most popular hashtags: #cinematography #illustration #cinema4d #realismag.
+  Find top cinema Instagram influencers in Poland in 2022. Most popular hashtags: #cinematography #illustration #cinema4d #realismag.
 platform: Instagram
 hits: 82
 text_top: Identify the most popular Instagram accounts on inBeat.

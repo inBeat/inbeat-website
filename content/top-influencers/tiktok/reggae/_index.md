@@ -1,7 +1,7 @@
 ---
-title: Top 10 Reggae TikTok Influencers In 2021
+title: Top 10 Reggae TikTok Influencers In 2022
 description: >-
-  Find top reggae TikTok influencers in 2021. Most popular hashtags: #parati #reggaeton #fyp #music.
+  Find top reggae TikTok influencers in 2022. Most popular hashtags: #parati #reggaeton #fyp #music.
 platform: TikTok
 hits: 773
 text_top: Identify the best TikTok influencers on inBeat.

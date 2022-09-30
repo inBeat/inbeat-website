@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Miami In 2021
+title: Top 10 Mothers TikTok Influencers In Miami In 2022
 description: >-
-  Find top mothers TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #viral #miami #duet.
+  Find top mothers TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #viral #miami #duet.
 platform: TikTok
 hits: 11
 text_top: Identify the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Berlin In 2021
+title: Top 10 Stylists Instagram Influencers In Berlin In 2022
 description: >-
-  Find top stylists Instagram influencers in Berlin in 2021. Most popular hashtags: #ootd #berlin #details.
+  Find top stylists Instagram influencers in Berlin in 2022. Most popular hashtags: #ootd #berlin #details.
 platform: Instagram
 hits: 71
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Dallas In 2021
+title: Top 10 Vegan Instagram Influencers In Dallas In 2022
 description: >-
-  Find top vegan Instagram influencers in Dallas in 2021. Most popular hashtags: #vegan #dallas #fitness #texas.
+  Find top vegan Instagram influencers in Dallas in 2022. Most popular hashtags: #vegan #dallas #fitness #texas.
 platform: Instagram
 hits: 44
 text_top: See the best Instagram profiles on inBeat.

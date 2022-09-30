@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In South Africa In 2021
+title: Top 10 Music Instagram Influencers In South Africa In 2022
 description: >-
-  Find top music Instagram influencers in South Africa in 2021. Most popular hashtags: #sneakers #tgif #belowdeckbravo.
+  Find top music Instagram influencers in South Africa in 2022. Most popular hashtags: #sneakers #tgif #belowdeckbravo.
 platform: Instagram
 hits: 126
 text_top: Discover the best Instagram profiles on inBeat.

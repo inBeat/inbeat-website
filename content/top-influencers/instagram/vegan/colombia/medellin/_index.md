@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Medellín In 2021
+title: Top 10 Vegan Instagram Influencers In Medellín In 2022
 description: >-
-  Find top vegan Instagram influencers in Medellín in 2021. Most popular hashtags: #vegan #colombia #medellin.
+  Find top vegan Instagram influencers in Medellín in 2022. Most popular hashtags: #vegan #colombia #medellin.
 platform: Instagram
 hits: 4
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Australia In 2021
+title: Top 10 Music TikTok Influencers In Australia In 2022
 description: >-
-  Find top music TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #duet #australia #foryou.
+  Find top music TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #duet #australia #foryou.
 platform: TikTok
 hits: 408
 text_top: See the most popular TikTok profiles on inBeat.

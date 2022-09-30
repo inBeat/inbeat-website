@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Germany In 2021
+title: Top 10 Chefs TikTok Influencers In Germany In 2022
 description: >-
-  Find top chefs TikTok influencers in Germany in 2021. Most popular hashtags: #chef #comedy #foryou #duett.
+  Find top chefs TikTok influencers in Germany in 2022. Most popular hashtags: #chef #comedy #foryou #duett.
 platform: TikTok
 hits: 22
 text_top: See the most popular TikTok profiles on inBeat.

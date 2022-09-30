@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Berlin In 2021
+title: Top 10 Nutrition Instagram Influencers In Berlin In 2022
 description: >-
-  Find top nutrition Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #fitness #workout #smile.
+  Find top nutrition Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #fitness #workout #smile.
 platform: Instagram
 hits: 51
 text_top: See the best Instagram accounts on inBeat.

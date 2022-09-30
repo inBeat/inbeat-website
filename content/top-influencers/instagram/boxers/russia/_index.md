@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Russia In 2021
+title: Top 10 Boxers Instagram Influencers In Russia In 2022
 description: >-
-  Find top boxers Instagram influencers in Russia in 2021. Most popular hashtags: #boxing #champion #repost.
+  Find top boxers Instagram influencers in Russia in 2022. Most popular hashtags: #boxing #champion #repost.
 platform: Instagram
 hits: 36
 text_top: Discover the most popular Instagram profiles on inBeat.

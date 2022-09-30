@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In India In 2021
+title: Top 10 Skincare Instagram Influencers In India In 2022
 description: >-
-  Find top skincare Instagram influencers in India in 2021. Most popular hashtags: #skincare #festiveseason #beauty #blogger.
+  Find top skincare Instagram influencers in India in 2022. Most popular hashtags: #skincare #festiveseason #beauty #blogger.
 platform: Instagram
 hits: 921
 text_top: See the most popular Instagram accounts on inBeat.

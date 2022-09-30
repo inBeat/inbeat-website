@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Greece In 2021
+title: Top 10 Food TikTok Influencers In Greece In 2022
 description: >-
-  Find top food TikTok influencers in Greece in 2021. Most popular hashtags: #fyp #tiktok #food #greece.
+  Find top food TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #tiktok #food #greece.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok influencers on inBeat.

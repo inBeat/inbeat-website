@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Atlanta In 2021
+title: Top 10 Models Instagram Influencers In Atlanta In 2022
 description: >-
-  Find top models Instagram influencers in Atlanta in 2021. Most popular hashtags: #atlanta #fashion #model #models.
+  Find top models Instagram influencers in Atlanta in 2022. Most popular hashtags: #atlanta #fashion #model #models.
 platform: Instagram
 hits: 384
 text_top: Analyze the best Instagram profiles on inBeat.

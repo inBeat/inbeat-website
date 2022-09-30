@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In United Kingdom In 2021
+title: Top 10 Food Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top food Instagram influencers in United Kingdom in 2021. Most popular hashtags: #ad #fashionblogger #fitnessmotivation #london.
+  Find top food Instagram influencers in United Kingdom in 2022. Most popular hashtags: #ad #fashionblogger #fitnessmotivation #london.
 platform: Instagram
 hits: 1831
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -10,11 +10,11 @@ https://www.inbeat.co/articles/ugc-marketing-an-ultimate-guide-to-leverage-user-
 https://www.inbeat.co/articles/ultimate-guide-to-tiktok-influencer-marketing/ https://www.inbeat.co/articles/tiktok-influencer-marketing/ 301!
 https://www.inbeat.co/articles/brand-ambassador-programs-a-complete-guide-2021 https://www.inbeat.co/articles/brand-ambassador-programs 301!
 https://www.inbeat.co/articles/creating-a-brand-ambassador-program https://www.inbeat.co/articles/brand-ambassador-programs 301!
+/blog/* https://blog.inbeat.co/blog/:splat 200
+/content/* https://blog.inbeat.co/content/:splat 200
+/assets/* https://blog.inbeat.co/assets/:splat 200
+/public/* https://blog.inbeat.co/public/:splat 200
 
 # Redirect default Netlify subdomain to primary domain
+
 https://mystifying-allen-be5d31.netlify.com/* https://www.inbeat.co/:splat 301!
-
-
-
-
-

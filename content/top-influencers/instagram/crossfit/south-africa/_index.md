@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In South Africa In 2021
+title: Top 10 Crossfit Instagram Influencers In South Africa In 2022
 description: >-
-  Find top crossfit Instagram influencers in South Africa in 2021. Most popular hashtags: #crossfit #parkour #fitness.
+  Find top crossfit Instagram influencers in South Africa in 2022. Most popular hashtags: #crossfit #parkour #fitness.
 platform: Instagram
 hits: 8
 text_top: Discover the best Instagram profiles on inBeat.

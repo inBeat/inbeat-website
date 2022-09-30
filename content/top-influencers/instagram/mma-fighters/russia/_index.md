@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Russia In 2021
+title: Top 10 Mma Fighters Instagram Influencers In Russia In 2022
 description: >-
-  Find top mma fighters Instagram influencers in Russia in 2021. Most popular hashtags: #mma #ufc #sport.
+  Find top mma fighters Instagram influencers in Russia in 2022. Most popular hashtags: #mma #ufc #sport.
 platform: Instagram
 hits: 46
 text_top: Discover the best Instagram profiles on inBeat.

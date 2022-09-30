@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Vancouver In 2021
+title: Top 10 Fitness Instagram Influencers In Vancouver In 2022
 description: >-
-  Find top fitness Instagram influencers in Vancouver in 2021. Most popular hashtags: #vancouver #fitness #athlete #vancouverfitness.
+  Find top fitness Instagram influencers in Vancouver in 2022. Most popular hashtags: #vancouver #fitness #athlete #vancouverfitness.
 platform: Instagram
 hits: 80
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In San Francisco In 2021
+title: Top 10 Beauty TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top beauty TikTok influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #fyp #california #travel.
+  Find top beauty TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fyp #california #travel.
 platform: TikTok
 hits: 15
 text_top: Identify the most popular TikTok profiles on inBeat.

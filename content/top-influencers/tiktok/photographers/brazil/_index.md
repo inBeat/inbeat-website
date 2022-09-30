@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Brazil In 2021
+title: Top 10 Photographers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top photographers TikTok influencers in Brazil in 2021. Most popular hashtags: #foryou #fyp #photographer #photography.
+  Find top photographers TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #fyp #photographer #photography.
 platform: TikTok
 hits: 20
 text_top: Discover the best TikTok influencers on inBeat.

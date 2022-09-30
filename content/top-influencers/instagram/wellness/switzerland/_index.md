@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Switzerland In 2021
+title: Top 10 Wellness Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top wellness Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #love #wellness #nature.
+  Find top wellness Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #love #wellness #nature.
 platform: Instagram
 hits: 41
 text_top: Discover the most popular Instagram influencers on inBeat.

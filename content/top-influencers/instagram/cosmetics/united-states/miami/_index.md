@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Miami In 2021
+title: Top 10 Cosmetics Instagram Influencers In Miami In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Miami in 2021. Most popular hashtags: #miami #cosmetics #beauty #makeup.
+  Find top cosmetics Instagram influencers in Miami in 2022. Most popular hashtags: #miami #cosmetics #beauty #makeup.
 platform: Instagram
 hits: 64
 text_top: See the best Instagram accounts on inBeat.

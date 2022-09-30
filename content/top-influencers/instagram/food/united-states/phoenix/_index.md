@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Phoenix In 2021
+title: Top 10 Food Instagram Influencers In Phoenix In 2022
 description: >-
-  Find top food Instagram influencers in Phoenix in 2021. Most popular hashtags: #arizona #phoenix #food #eeeeeats.
+  Find top food Instagram influencers in Phoenix in 2022. Most popular hashtags: #arizona #phoenix #food #eeeeeats.
 platform: Instagram
 hits: 37
 text_top: Discover the best Instagram influencers on inBeat.

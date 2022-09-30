@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Spain In 2021
+title: Top 10 Bakers Instagram Influencers In Spain In 2022
 description: >-
-  Find top bakers Instagram influencers in Spain in 2021. Most popular hashtags: #bakery #baker #chocolate #bread.
+  Find top bakers Instagram influencers in Spain in 2022. Most popular hashtags: #bakery #baker #chocolate #bread.
 platform: Instagram
 hits: 177
 text_top: Analyze the most popular Instagram profiles on inBeat.

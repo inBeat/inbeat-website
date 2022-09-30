@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Miami In 2021
+title: Top 10 Vegan Instagram Influencers In Miami In 2022
 description: >-
-  Find top vegan Instagram influencers in Miami in 2021. Most popular hashtags: #vegan #miami #plantbased #fitness.
+  Find top vegan Instagram influencers in Miami in 2022. Most popular hashtags: #vegan #miami #plantbased #fitness.
 platform: Instagram
 hits: 114
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Sydney In 2021
+title: Top 10 Comedians Instagram Influencers In Sydney In 2022
 description: >-
-  Find top comedians Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #comedian #lockdown.
+  Find top comedians Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #comedian #lockdown.
 platform: Instagram
 hits: 4
 text_top: See the best Instagram accounts on inBeat.

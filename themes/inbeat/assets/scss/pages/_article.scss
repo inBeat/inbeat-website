@@ -134,22 +134,25 @@ h5 {
             vertical-align: middle;
         }
     }
-    &.influencer-marketing {
-        .category {
-            background-color: $red_sub;
-        }
-        .infos {
-            color: $red !important;
-        }
-    }
-    &.micro-influencer-marketing,
-    &.guides,
-    &.ambassador-marketing {
+    &.influencer-marketing, &.podcasts{
         .category {
             background-color: $green_sub;
         }
         .infos {
             color: $green !important;
+        }
+    }
+    &.ambassador-marketing,
+    &.micro-influencer-marketing,
+    &.guides,
+    &.cpg,
+    &.tiktoc
+    {
+        .category {
+            background-color: $red_sub;
+        }
+        .infos {
+            color: $red !important;
         }
     }
     &.ugc,
@@ -163,11 +166,11 @@ h5 {
     }
     &.podcasts {
         .category {
-            background-color: $dark;
-            color: white;
+            background-color: $green_sub;
+            // color: white;
         }
         .infos {
-            color: $dark !important;
+            color: $green !important;
         }
     }
 }
@@ -305,26 +308,6 @@ h5 {
     &.influencer-marketing {
         ul li::before,
         blockquote {
-            border-color: $red;
-        }
-        ol li::before {
-            color: $red;
-        }
-        .pro-tip {
-            background: $red_sub;
-            span {
-                color: $red;
-            }
-        }
-        h5 {
-            color: $red;
-        }
-    }
-    &.micro-influencer-marketing,
-    &.guides,
-    &.ambassador-marketing {
-        ul li::before,
-        blockquote {
             border-color: $green;
         }
         ol li::before {
@@ -338,6 +321,28 @@ h5 {
         }
         h5 {
             color: $green;
+        }
+    }
+    &.ambassador-marketing,
+    &.micro-influencer-marketing,
+    &.guides,
+    &.cpg,
+    &.tiktoc {
+        ul li::before,
+        blockquote {
+            border-color: $red;
+        }
+        ol li::before {
+            color: $red;
+        }
+        .pro-tip {
+            background: $red_sub;
+            span {
+                color: $red;
+            }
+        }
+        h5 {
+            color: $red;
         }
     }
     &.ugc,
@@ -400,14 +405,15 @@ h5 {
             padding: 5rem;
         }
     }
-    .influencer-marketing {
-        background-color: $red_sub;
-    }
-    .micro-influencer-marketing,
-    .podcasts,
-    .guides,
-    .ambassador-marketing {
+    .influencer-marketing, .podcasts {
         background-color: $green_sub;
+    }
+    .ambassador-marketing,
+    .micro-influencer-marketing,
+    .guides,
+    .cpg,
+    .tiktoc{
+        background-color: $red_sub;
     }
     .ugc,
     .wikis {

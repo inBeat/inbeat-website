@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Germany In 2021
+title: Top 10 Illustrators Instagram Influencers In Germany In 2022
 description: >-
-  Find top illustrators Instagram influencers in Germany in 2021. Most popular hashtags: #illustration #portrait #color #art.
+  Find top illustrators Instagram influencers in Germany in 2022. Most popular hashtags: #illustration #portrait #color #art.
 platform: Instagram
 hits: 172
 text_top: Discover the top-rated Instagram accounts on inBeat.

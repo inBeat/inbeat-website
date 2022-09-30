@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Indonesia In 2021
+title: Top 10 TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #duet #lazada1111 #foryoupage.
+  Find top TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #duet #lazada1111 #foryoupage.
 platform: TikTok
 hits: 1753
 text_top: Analyze the top-rated TikTok profiles on inBeat.

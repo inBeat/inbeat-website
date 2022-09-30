@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Birmingham In 2021
+title: Top 10 Health Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top health Instagram influencers in Birmingham in 2021. Most popular hashtags: #fitness #birmingham #health #workout.
+  Find top health Instagram influencers in Birmingham in 2022. Most popular hashtags: #fitness #birmingham #health #workout.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram accounts on inBeat.

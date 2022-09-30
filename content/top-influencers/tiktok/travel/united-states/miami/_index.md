@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Miami In 2021
+title: Top 10 Travel TikTok Influencers In Miami In 2022
 description: >-
-  Find top travel TikTok influencers in Miami in 2021. Most popular hashtags: #travel #fyp #miami #foryou.
+  Find top travel TikTok influencers in Miami in 2022. Most popular hashtags: #travel #fyp #miami #foryou.
 platform: TikTok
 hits: 122
 text_top: Discover the top-rated TikTok influencers on inBeat.

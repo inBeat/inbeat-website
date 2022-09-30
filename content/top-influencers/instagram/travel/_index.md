@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In 2021
+title: Top 10 Travel Instagram Influencers In 2022
 description: >-
-  Find top travel Instagram influencers in 2021. Most popular hashtags: #sheisnotlost #travelgirl #speechlessplaces #travelblogger.
+  Find top travel Instagram influencers in 2022. Most popular hashtags: #sheisnotlost #travelgirl #speechlessplaces #travelblogger.
 platform: Instagram
 hits: 79594
 text_top: Discover the top-rated Instagram influencers on inBeat.

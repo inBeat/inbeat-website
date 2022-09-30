@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Turkey In 2021
+title: Top 10 Yoga Instagram Influencers In Turkey In 2022
 description: >-
-  Find top yoga Instagram influencers in Turkey in 2021. Most popular hashtags: #yoga #love #nature.
+  Find top yoga Instagram influencers in Turkey in 2022. Most popular hashtags: #yoga #love #nature.
 platform: Instagram
 hits: 141
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Bodybuilding Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #bodybuilding #dubai #fitness #lifestyle.
+  Find top bodybuilding Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #bodybuilding #dubai #fitness #lifestyle.
 platform: Instagram
 hits: 27
 text_top: Discover the most popular Instagram influencers on inBeat.

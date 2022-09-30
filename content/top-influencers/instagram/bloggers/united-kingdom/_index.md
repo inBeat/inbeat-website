@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In United Kingdom In 2021
+title: Top 10 Bloggers Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top bloggers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #autumnstyle #autumnfashion #authenticlovemag.
+  Find top bloggers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #autumnstyle #autumnfashion #authenticlovemag.
 platform: Instagram
 hits: 1149
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In United States In 2021
+title: Top 10 Cyclists Instagram Influencers In United States In 2022
 description: >-
-  Find top cyclists Instagram influencers in United States in 2021. Most popular hashtags: #cycling #tuesday #photography.
+  Find top cyclists Instagram influencers in United States in 2022. Most popular hashtags: #cycling #tuesday #photography.
 platform: Instagram
 hits: 179
 text_top: Analyze the best Instagram profiles on inBeat.

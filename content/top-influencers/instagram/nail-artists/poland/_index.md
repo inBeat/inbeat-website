@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Poland In 2021
+title: Top 10 Nail Artists Instagram Influencers In Poland In 2022
 description: >-
-  Find top nail artists Instagram influencers in Poland in 2021. Most popular hashtags: #paznokciehybrydowe #paznokcie #nails #nailartist.
+  Find top nail artists Instagram influencers in Poland in 2022. Most popular hashtags: #paznokciehybrydowe #paznokcie #nails #nailartist.
 platform: Instagram
 hits: 84
 text_top: Identify the most popular Instagram accounts on inBeat.

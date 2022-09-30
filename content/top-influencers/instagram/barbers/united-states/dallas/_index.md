@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Dallas In 2021
+title: Top 10 Barbers Instagram Influencers In Dallas In 2022
 description: >-
-  Find top barbers Instagram influencers in Dallas in 2021. Most popular hashtags: #dallasbarber #barbershopconnect #barber #dallas.
+  Find top barbers Instagram influencers in Dallas in 2022. Most popular hashtags: #dallasbarber #barbershopconnect #barber #dallas.
 platform: Instagram
 hits: 29
 text_top: Analyze the top-rated Instagram profiles on inBeat.

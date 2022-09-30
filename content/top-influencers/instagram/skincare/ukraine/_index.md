@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Ukraine In 2021
+title: Top 10 Skincare Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top skincare Instagram influencers in Ukraine in 2021. Most popular hashtags: #skincare #makeup #beauty.
+  Find top skincare Instagram influencers in Ukraine in 2022. Most popular hashtags: #skincare #makeup #beauty.
 platform: Instagram
 hits: 16
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In New York In 2021
+title: Top 10 Christian TikTok Influencers In New York In 2022
 description: >-
-  Find top christian TikTok influencers in New York in 2021. Most popular hashtags: #fyp #christian #jesus #newyork.
+  Find top christian TikTok influencers in New York in 2022. Most popular hashtags: #fyp #christian #jesus #newyork.
 platform: TikTok
 hits: 30
 text_top: See the best TikTok accounts on inBeat.

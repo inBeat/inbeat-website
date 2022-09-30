@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Colombia In 2021
+title: Top 10 Christian Instagram Influencers In Colombia In 2022
 description: >-
-  Find top christian Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #tbt #musica.
+  Find top christian Instagram influencers in Colombia in 2022. Most popular hashtags: #colombia #tbt #musica.
 platform: Instagram
 hits: 94
 text_top: Identify the top-rated Instagram influencers on inBeat.

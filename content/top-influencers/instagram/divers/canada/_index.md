@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Canada In 2021
+title: Top 10 Divers Instagram Influencers In Canada In 2022
 description: >-
-  Find top divers Instagram influencers in Canada in 2021. Most popular hashtags: #canada #olympics #teamcanada #athletelife.
+  Find top divers Instagram influencers in Canada in 2022. Most popular hashtags: #canada #olympics #teamcanada #athletelife.
 platform: Instagram
 hits: 101
 text_top: Discover the best Instagram influencers on inBeat.

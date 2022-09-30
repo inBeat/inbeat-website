@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Montreal In 2021
+title: Top 10 Beauty Instagram Influencers In Montreal In 2022
 description: >-
-  Find top beauty Instagram influencers in Montreal in 2021. Most popular hashtags: #montreal #mtlblogger #fallfashion.
+  Find top beauty Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #mtlblogger #fallfashion.
 platform: Instagram
 hits: 77
 text_top: See the best Instagram influencers on inBeat.

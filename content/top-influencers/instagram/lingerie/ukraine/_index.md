@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Ukraine In 2021
+title: Top 10 Lingerie Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top lingerie Instagram influencers in Ukraine in 2021. Most popular hashtags: #lingerie #fashion #girl.
+  Find top lingerie Instagram influencers in Ukraine in 2022. Most popular hashtags: #lingerie #fashion #girl.
 platform: Instagram
 hits: 64
 text_top: Analyze the top-rated Instagram influencers on inBeat.
