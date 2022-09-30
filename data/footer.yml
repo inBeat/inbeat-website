@@ -16,7 +16,7 @@
       link: features/deepsearch
       external: false
     - anchor: Contact Exports
-      link: features/export-contacts/
+      link: features/export-contacts
       external: false
     - anchor: Pricing
       link: pricing

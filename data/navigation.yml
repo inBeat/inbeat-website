@@ -35,6 +35,47 @@ solutions:
       - name: Nano Influencers
       - name: Micro Influencers
       - name: Macro Influencers
+
+features:
+  # - color: grey
+  #   title: Learn
+  #   pages:
+  #     - name: Articles
+  #       description: Read about influencer marketing
+  #       link: '/articles'
+  #       target: '_self'
+  #     - name: Growthnotes - Newsletter
+  #       description: Insights for the modern marketer
+  #       link: 'https://www.growthnotes.news/'
+  #       target: '_blank'
+  #     # - name: The Pulse Podcast
+  #     #   description: Listen to influencer marketing experts
+  #     #   link: '/categories/podcasts/'
+  #     #   target: '_self'
+  - color: grey
+    title: The Database
+    # tag: Free
+    # hasMorePage: true
+    announcement:
+      color: 303545
+      title: Create UGC that converts with a fully managed platform.
+      topText: UGC Studio
+      cta:
+        text: Learn more
+        color: EBFDE6
+        title: UGC Studio
+        link: '/ugc-studio'
+    pages:
+      - name: Influencer search engine
+        link: '/features/quicksearch'
+        target: '_self'
+      - name: Automated similar profile searches
+        link: '/features/deepsearch'
+        target: '_self'
+      - name: Bulk contact exports
+        link: '/features/export-contacts'
+        target: '_self'
+
 resources:
   - color: grey
     title: Learn
