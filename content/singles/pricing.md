@@ -84,7 +84,7 @@ included:
   - title: Unlimited Campaigns
     description: Organize your influencer marketing efforts in individual campaigns.
 Pricing:
-  title: Pricing
+  title: Creator Studio Pricing
   rate: 300
   socialElement:
   - title: Creator Network
@@ -97,7 +97,4 @@ Pricing:
     description: Get the help of a dedicated campaign strategist to help you create a successful campaign.
   - title: Unlimited copyrights to the content
     description: Re-use the content in ads & repurpose it in various channels. 
-testimonials: 
-  id: testimonials_creator-studio
-  secondrow: true
 ---
