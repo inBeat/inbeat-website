@@ -13,7 +13,7 @@ hero:
       <span>Book a demo — it's free</span>
     link: https://calendly.com/inbeat-co/creator-studio-demo
 banner:
-  show: true
+  show: false
 discoverInfluencer:
     title: Some content from our Creators
     videos:
@@ -21,7 +21,7 @@ discoverInfluencer:
       - link: 727870423?h=7012714586
       - link: 727870274?h=20a5dc261b
       - link: 727870927?h=cd0ee8a876
-      - link: 727888136?h=8b52b23499
+      - link: 754841922?h=0615e03c82
 
       - link: 727870878?h=cd72296c3f
       - link: 727870972?h=55b99ceef5
