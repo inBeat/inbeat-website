@@ -1,13 +1,26 @@
-  col1:
+  col1_ugc:
+    - anchor: Learn More
+      link: ugc-studio
+      external: false
     - anchor: Book a demo
-      link: https://app.inbeat.co/get-started
+      link: https://calendly.com/inbeat-co/creator-studio-demo
       external: true
+  col1_database:
+    - anchor: Sign in
+      link: https://app.inbeat.co/get-started#login
+      external: true
+    - anchor: Quick Search
+      link: features/quicksearch
+      external: false
+    - anchor: Deep Search
+      link: features/deepsearch
+      external: false
+    - anchor: Contact Exports
+      link: features/export-contacts/
+      external: false
     - anchor: Pricing
       link: pricing
       external: false
-    - anchor: Sign in to the database
-      link: https://app.inbeat.co/get-started#login
-      external: true
   col2:
     - anchor: Articles
       link: articles
@@ -19,24 +32,25 @@
     # - anchor: The Pulse Podcast
     #   link: categories/podcasts
     #   external: false
-    - anchor: AdCollection
-      link: categories/podcasts
-      external: false
     - anchor: The Toolkit
       link: free-toolkit
       external: false
+    - anchor: AdCollection
+      link: categories/podcasts
+      external: false
+
   col3:
-    - anchor: Instagram & TikTok influencer database
-      link: influencer-database
+    # - anchor: Instagram & TikTok influencer database
+    #   link: influencer-database
     - anchor: Instagram Engagement Rate Calculator
       link: engagement-rate-calculator-instagram
     - anchor: TikTok Engagement Rate Calculator
       link: engagement-rate-calculator-tiktok
     - anchor: Influencer Money Calculator
       link: collaboration-cost-calculator-instagram
-    - anchor: Top TikTok Influencers
+    - anchor: Top TikTok Influencers 2022
       link: top-influencers/tiktok/
-    - anchor: Top Instagram Influencers
+    - anchor: Top Instagram Influencers 2022
       link: top-influencers/instagram
     - anchor: CPM Calculator
       link: cpm-calculator
