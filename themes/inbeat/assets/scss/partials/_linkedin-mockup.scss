@@ -153,7 +153,11 @@
         height: 100%;
         display: flex;
         align-items: center;
-        background-color: #F9F9F9;;
+        background-color: #F9F9F9;
+        img{
+            height: 100%;
+            width: 100%;
+        }
     }
     .linkedin__carousel-cta{
         width: 100%;
@@ -163,6 +167,7 @@
         gap: 4px;
         padding: 10px 12px;
         box-sizing: border-box;
+        background: #FFFFFF;
         .slide-text{
             font-weight: 400;
             font-size: 15px;
