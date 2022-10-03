@@ -1,5 +1,18 @@
 #linkedin-mockup-preview{
     font-family: $facebookfont;
+    .preview-header{
+        padding: 12px 12px 0px;
+    }
+    .linkedin-cta-button{
+        color: #3072AC;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 20px;
+        padding:  3px 18px;
+        background: transparent;
+        border: 1px solid #3072AC;
+        border-radius: 34px;
+    }
 }
 #ib_linkedin-creadincials{
     gap: 7px;
@@ -47,7 +60,7 @@
             display: block;
             font-weight: 600;
             font-size: 13px;
-            line-height: 18px;
+            line-height: 10px;
             letter-spacing: 0.035em;
             color: #191919;
         }
@@ -55,22 +68,13 @@
             display: block;
             font-weight: 600;
             font-size: 12px;
-            line-height: 16px;
+            line-height: 10px;
             letter-spacing: 0.005em;
             color: rgba(0, 0, 0, 0.6);
-            margin-top: 11px;
+            margin-top: 6px;
         }
     }
-    .linkedin-cta-button{
-        color: #3072AC;
-        font-weight: 600;
-        font-size: 14px;
-        line-height: 20px;
-        padding:  4px 14px;
-        background: transparent;
-        border: 1px solid #3072AC;
-        border-radius: 34px;
-    }
+
 }
 .linkedin__like-comment-section{
     padding: 12px 0px;
@@ -109,15 +113,19 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 12px 21px;
+    padding: 18px 21px;
     align-items: center;
     .wrapper{
         display: flex;
-        gap: 7px;
+        gap: 4px;
+        align-items: center;
         font-weight: 600;
         font-size: 14px;
         line-height: 19px;
         color: #707070;
+        &:first-child{
+            gap: 7px;
+        }
     }
 }
 .ib_linkedin-slide{
@@ -134,10 +142,10 @@
     justify-content: center;
     flex-shrink: 0;
     &:first-child{
-        margin-left: 14px;
+        margin-left: 12px;
     }
     &:last-child{
-        margin-right: 14px;
+        margin-right: 12px;
     }
     // display: block;
     .post-wrapper{
@@ -150,12 +158,15 @@
     .linkedin__carousel-cta{
         width: 100%;
         border-top: 1px solid #E5E5E5;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        padding: 10px 12px;
+        box-sizing: border-box;
         .slide-text{
-            padding: 13px 15px;
-            font-weight: 700;
-            font-size: 18px;
-            line-height: 25px;
-            letter-spacing: 0.01em;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 20px;
             color: #000000;
             display: block;
         }
@@ -168,7 +179,7 @@
     overflow-x: scroll;
     overflow-y: hidden;
     gap: 10px;
-    padding-bottom: 12px;
+    // padding-bottom: 12px;
     scrollbar-width: none;
     position: relative;
     &::-webkit-scrollbar {
