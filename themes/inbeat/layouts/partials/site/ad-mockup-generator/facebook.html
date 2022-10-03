@@ -168,7 +168,7 @@
               id="mockup-preview">
               <div class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
-                  <div id="instagram-mockup-preview" class="mockup-preview-wrapper"
+                  <div id="facebook-mockup-preview" class="mockup-preview-wrapper"
                     v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                     <div class="preview-header">
                       <div class="preview-creadincials">
@@ -261,7 +261,7 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
+                  <!-- <div id="facebook-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
                     <div class="header-wrapper">
                       <div class="line">
                       </div>
@@ -649,7 +649,7 @@
               console.log(e)
           },
           downloadPng(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('facebook-mockup-preview')
             html2canvas(preview)
             .then(function(canvas){
               var link = document.createElement('a');
@@ -659,7 +659,7 @@
             })
           },
           copyImage(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('facebook-mockup-preview')
               navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
               if (result.state == "granted" || result.state == "prompt") {
                 html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
@@ -702,13 +702,13 @@
               let displaySentence2 = ''
               firstHalfWords.forEach((word,i) => {
                 if(word.startsWith('@') || word.startsWith('#')){
-                  firstHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
+                  firstHalfWords[i]=`<span style="color:#1876F2;">${word}</span> `
                 }
                 displaySentence = displaySentence + ' ' + firstHalfWords[i]
               });
               secondHalfWords.forEach((word,i) => {
                 if(word.startsWith('@') || word.startsWith('#')){
-                  secondHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
+                  secondHalfWords[i]=`<span style="color:#1876F2;">${word}</span> `
                 }
                 displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
               });

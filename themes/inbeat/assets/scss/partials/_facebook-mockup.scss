@@ -17,7 +17,7 @@
     letter-spacing: 0.005em;
     color: #050505;
     // margin-top: 5px;
-    padding: 5px 14px 12px 14px;
+    padding: 2px 14px 12px 14px;
 }
 .facebook__cta-wrapper{
     padding: 12px 14px;
@@ -41,7 +41,7 @@
             line-height: 22px;
             letter-spacing: 0.005em;
             color: #050505;
-            margin-top: 3px;
+            // margin-top: 3px;
         }
     }
     .facebook-cta-button{
@@ -69,7 +69,7 @@
         .facebook__react-emoticon{
             display: flex;
             svg:not(:first-child){
-                margin-left: -6px;
+                margin-left: -2px;
             }
         }
         .react-sec{
@@ -91,7 +91,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 12px 55px;
+    padding: 10px 55px 12px;
     align-items: center;
     .wrapper{
         display: flex;
@@ -134,8 +134,21 @@
         border-top: 1px solid #E5E5E5;
         .facebook__cta-wrapper{
             background-color: #ffffff;
-            // width: 100% !important;
-            // flex-wrap: wrap;
+            padding: 10px 12px 8px 12px;
+            gap: 4px;
+            .facebook__cta-website{
+                font-weight: 600;
+                font-size: 18px;
+                line-height: 20px;
+                color: #050505;
+            }
+            .facebook__cta-headline{
+                font-weight: 350;
+                font-size: 12px;
+                line-height: 20px;
+                color: #050505;
+                margin-top: 4px;
+            }
         }
     }
     .placeholder-info{
@@ -197,5 +210,31 @@
     }
     &.website-name-input{
         margin-top: 19px;
+    }
+}
+#facebook-mockup-preview{
+    font-family: $facebookfont;
+    .preview-header{
+        padding: 18px 14px 6px 14px;
+        .profile-picture-wrapper{
+            height: 43px;
+            width: 43px;
+            border: none;
+        }
+        .user-name-wrapper{
+            .user-name{
+                font-weight: 600;
+                font-size: 16px;
+                line-height: 22px;
+                color: #050505;
+                margin-bottom: 0;
+            }
+            .facebook-sponcered-text{
+                font-weight: 400;
+                font-size: 13px;
+                color: #606770;
+                line-height: 18px;
+            }
+        }
     }
 }

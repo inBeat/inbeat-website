@@ -603,7 +603,7 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
-  font-family: Inter, sans-serif;
+  font-family: $instagramfont;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
