@@ -43,30 +43,18 @@ function getCookie(name) {
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
-    // var icon = document.getElementById('inbeat-animated-logo');
     var mediaQuery = window.matchMedia('(min-width: 768px)');
     var isOpen = false;
     mediaQuery.addEventListener("change", function(e) {
         close();
     });
     
-//   var anim = bodymovin.loadAnimation({
-//       container: icon, // Required
-//       path: '/animations/inbeat-animated-logo.json', // Required
-//       renderer: 'svg', // Required
-//       loop: false, // Optional
-//       autoplay: false, // Optional
-//       name: 'inbeat-animated-logo', // Name for future reference. Optional.
-//   });
  
     if (menuBtn === null) return;
     var open = function () {
       isOpen = true;
       menuBtn.classList.add('is-active');
       document.body.classList.add('with-menu');
-      anim.setSpeed(4);
-      anim.setDirection(1);
-      anim.play();
     };
 
   var close = function () {
@@ -82,9 +70,6 @@ function header() {
             dropdownItems[i].acc[j].lastElementChild.classList.remove('show')
          }
       }  
-        anim.setSpeed(10);
-        anim.setDirection(-1);
-        anim.play();
     };
 
     menuBtn.addEventListener('click', function (e) {
@@ -165,7 +150,6 @@ function scrollAnchors(e, respond) {
 
 function testimonial() {
     if(!window.jQuery) {
-        console.log('hello')
         return;
     }
         $('.slider').slick({
