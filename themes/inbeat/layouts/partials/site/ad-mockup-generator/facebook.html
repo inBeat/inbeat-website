@@ -239,7 +239,7 @@
                           </div>
                         </div>
                         <div class="comment_share-sec">
-                          {commentCount} comment {shareCount} share
+                          {commentCount} {commentCount.length > 1 ? 'comments' : 'comment'} {shareCount} {shareCount.length > 1 ? 'shares' : 'share'}
                         </div>
                       </div>
                     <div class="facebook__like-comment-cta">
