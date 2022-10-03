@@ -1,113 +1,57 @@
-#hero-influencer-database {
-	padding-top: 40px;
-    .features-top-aside{
-        @include breakpoint(md-down){
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-    }
-    .badge{
-        padding: 0px 12px 2px;
-        width: max-content;
-        background: #F9F7F7;
-        border-radius: 360px;
-        margin-bottom: 2rem;
-        @include breakpoint(sm-down){
-            margin-bottom: 24px;
-        }
-        .badge-text{
-            font-style: normal;
-            font-weight: 400;
-            font-size: 18px;
-            line-height: 28px;
-            text-align: center;
-            margin: 0;
-        }
-    }
-	img {
-		width: 100%;
-		margin: 25px 0;
-	}
-
-	@include breakpoint(md-down) {
-		padding-top: 50px;
-		margin-bottom: 48px;
-		img {
-			transform: translateY(200px);
-			margin-top: -150px !important;
-			margin: 0 auto;
-			width: 80%;
-		}
-	}
-	@include breakpoint(sm-down) {
-		img {
-            transform: translateY(0px);
-			margin-top: 0px !important;
-			margin: 0 auto;
-			width: 100% !important;
-		}
-        .p-tb-80{
-            padding-bottom: 0px;
-        }
-        .col-xs-12{
-            padding: 0;
-        }
-	}
-	.row {
-		display: flex;
-		align-items: center;
-		text-align: center;
-		flex-direction: row-reverse;
-		@include breakpoint(md) {
-			text-align: left;
-			flex-direction: row;
-		}
-		.influencer-database-title{
-			line-height: 4rem;
-			font-size: 4rem;
-            font-weight: 700;
-            letter-spacing: -1px;
-            margin-bottom: 2rem;
-            @include breakpoint(sm-down){
-                font-size: 2.1875rem;
-                line-height: 2.625rem;
-                letter-spacing: -1.4px;
-                margin-bottom: 24px;
-            }
-		}
-		.influencer-database-sub-title{
-			font-weight: 400;
-			font-size: 1.125rem;
-			line-height: 1.625rem;
-			opacity: 0.75;
-            margin: 0;
-            @include breakpoint(sm-down){
-                opacity: 1;
-            }
-		}
-		.cta {
-            a{
-                display: block;
-                margin-top: 2rem;
-                width: max-content;
-                @include breakpoint(sm-down){
-                    margin: 24px 0px 48px 0px;
-                }
-            }
-			.btn:nth-child(2){
-				margin-left: 15px;
-				padding-left: 10px;
-				span{
-					padding-left: 20px;
-					padding-right: 30px;
-				}
-			}
-			.btn:nth-child(1) {
-				border: none;
-			}
-		}
-	}
+#hero {
+  padding-top: 8.50rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  @include breakpoint(sm) {
+      padding-top: calc(50vh - 15.625rem);
+      padding-bottom: calc(50vh - 18rem);
+  }
+  &.has-banner{
+      // Add the banner height size
+      transform: translateY(36.5px);
+  }
+  h4 {
+      width: 100%;
+      margin-bottom: 4rem;
+      @include breakpoint(sm) {
+          margin: auto;
+          margin-bottom: 5rem;
+      }
+  }
+  .cta {
+      a {
+          display: block;
+          margin: 0 auto 20px;
+          width: 100%;
+          @include breakpoint(31.25rem) {
+              width: 16.75rem;
+          }
+          @include breakpoint(sm) {
+              display: inline-block;
+              margin: 0;
+              &:first-child {
+                  margin-right: 20px;
+              }
+          }
+          &#hero-cta {
+              @include breakpoint(sm-down) {
+                  color: black;
+                  border: none;
+                  animation: crazy 2s infinite;
+              }
+          }
+          span {
+              font-weight: bold;
+          }
+      }
+      a:nth-child(2){
+          padding-left: 20px;
+          span{
+             padding-left: 20px;
+              padding-right: 20px;
+          }
+      }
+  }
 }
 
 #clients {
