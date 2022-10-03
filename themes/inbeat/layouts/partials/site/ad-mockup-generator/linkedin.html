@@ -188,34 +188,39 @@
                       class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
                       v-html="seeMoreDisplayValue"></span>
                   </div>
-                    <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                  <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="preview-body" id="post-body" :style="getComputedHeight">
                       <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                       <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                           recommended<span></span>
                     </div>
+                  </uploader>
                     <div v-else  class="ib__linkedin-carousel-wrapper">
                       <div class="ib-linkedin-carousel">
-                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="post" class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
                                     recommended</span></span>
                             </div>
+                          </uploader>
                             <div class="linkedin__carousel-cta">
                                 <span class="slide-text">
                                     Contact us and learn more about our expertise
                                 </span>
+                                <div class="linkedin-cta-button">{selectedPreviewCTA.name}</div>
                               </div>
                         </div>
                       </div>
-                      <div  class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
+                      <div v-if="left" class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
                         <span class="left-arrow"> &#10094; </span>
                       </div>
                       <div class="btn btn-next" aria-label="Next slide" @click="slideNext">
                         <span class="right-arrow"> &#10095;  </span>
                       </div>
                     </div>
-                    <div class="linkedin__cta-wrapper">
+                    <div class="linkedin__cta-wrapper" v-if="activeAd.id !== 4" >
                       <div class="linkedin__headline-website">
                         <span class="linkedin__cta-website">{websiteName}</span>
                         <span class="linkedin__cta-headline">{headlineCopy}</span>
@@ -558,6 +563,7 @@
               captionValue: '',
               seeMoreDisplayValue: '',
               activePost: 0,
+              left: 0,
               adTypes: [{
                 id:1,
                 type:'Square',
@@ -631,6 +637,13 @@
                 this.dpSrc = src
               }else{
                 this.postSrc.push(src)
+                if(this.activeAd.id === 4){
+                  if( this.postSrc.length === 1){
+                    this.postSrc[1] = this.postSrc[0] 
+                  }else if (this.postSrc[0] === this.postSrc[1]){
+                    this.postSrc.splice(1, 1)
+                  }
+                }
               }
             })
           },
@@ -802,15 +815,17 @@
           },
           slideNext(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
+            this.left += 320
             ele.scrollTo({
-              left: 320,
+              left: this.left,
               behavior: 'smooth',
             })
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
+            this.left -= 320
             ele.scrollTo({
-              left: -320,
+              left: this.left,
               behavior: 'smooth',
             })
           },
