@@ -87,7 +87,18 @@
                     </div>
                   </uploader>
                 </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
+                  <h4 class="mockup__title">
+                    Caption
+                  </h4>
+                  <p class="mockup__description">
+                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
+                    or less.
+                  </p>
+                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                    placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper website-name-input">
                     <h4 class="mockup__title">
                       Website Name
                     </h4>
@@ -95,7 +106,7 @@
                       set website name for post.
                     </p>
                     <div class="input-wrapper">
-                        <input v-model="websiteName"  type="text" id="account-name-input"
+                        <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
                           class="mockup-input" placeholder="Facebook.com" maxlength="20" />
                       </div>
                   </div>
@@ -107,8 +118,8 @@
                       set headline copy for post.
                     </p>
                     <div class="input-wrapper">
-                        <input v-model="headlineCopy"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="Facebook.com" maxlength="20" />
+                        <input @input="textInput($event,'headlineCopy')"  type="text" id="account-name-input"
+                          class="mockup-input" placeholder="Headline Copy Here" maxlength="20" />
                       </div>
                   </div>
                 <div class="mockup__configuration-ad-action">
@@ -151,17 +162,6 @@
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
                 </div>
-                <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
-                  <h4 class="mockup__title">
-                    Caption
-                  </h4>
-                  <p class="mockup__description">
-                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
-                    or less.
-                  </p>
-                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
-                    placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
-                </div>
               </div>
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
@@ -190,19 +190,23 @@
                       class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
                       v-html="seeMoreDisplayValue"></span>
                   </div>
-                    <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                  <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div  class="preview-body" id="post-body" :style="getComputedHeight">
                       <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                       <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                           recommended<span></span>
                     </div>
+                  </uploader>
                     <div v-else  class="ib__facebook-carousel-wrapper">
                       <div class="ib-facebook-carousel">
                         <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_facebook-slide" id="facebook__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
                                     recommended</span></span>
                             </div>
+                            </uploader>
                             <div class="facebook__carousel-cta">
                               <div class="facebook__cta-wrapper">
                             <div class="facebook__headline-website">
@@ -750,7 +754,10 @@
                 var scale = Math.pow(10, tier * 3);
                 var scaled = number / scale;
                 return scaled.toFixed(1) + suffix;
-            },
+          },
+          textInput(e,inputName){
+            this[inputName] = e.target.value
+          },
           checkIfNumber(event) {
           const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
           return !event.key.match(regex) && event.preventDefault();
