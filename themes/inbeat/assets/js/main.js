@@ -560,30 +560,30 @@ function articleProgressBar() {
 }
 
 // submenu for the navigation
-function navigation(){
-    var column = document.querySelectorAll('.column')
-    for (var i = 0; i < column.length; i++) {
-        column[i].addEventListener('mouseover', function (e) {
-            var thisColumn = this;
-            thisColumn.classList.add('active');
-            // loop column
-            for (var j = 0; j < column.length; j++) {
-                if (column[j] != thisColumn) {
-                    column[j].classList.add('fade');
-                }
-            }
-        })
-        column[i].addEventListener('mouseleave', function (e) {
-            var thisColumn = this;
-            thisColumn.classList.remove('active');
-            // loop column
-            for (var j = 0; j < column.length; j++) {
-                if (column[j] != thisColumn) {
-                    column[j].classList.remove('fade');
-                }
-            }
-        })
-    }
+function navigation() {
+  var hasSubMenu = document.querySelectorAll('.has-submenu')
+  for (let index = 0; index < hasSubMenu.length; index++) {
+    const element = hasSubMenu[index];
+    element.addEventListener('mouseover', function (e) {
+      e.preventDefault();
+      element.children[1].classList.add('show-nav')
+    })
+    element.addEventListener('mouseleave', function (e) {
+      e.preventDefault();
+      element.children[1].classList.remove('show-nav')
+    })
+  }
+  var column = document.querySelectorAll('.column')
+  for (var i = 0; i < column.length; i++) {
+    column[i].addEventListener('mouseover', function (e) {
+      var thisColumn = this;
+      thisColumn.classList.add('active');
+    })
+    column[i].addEventListener('mouseleave', function (e) {
+      var thisColumn = this;
+      thisColumn.classList.remove('active');
+    })
+  }
 }
 
 var dropdownItems = [];
@@ -686,5 +686,9 @@ function dropdown(){
     testimonial();
     navigation();
     dropdown();
-    industries();
+  industries();
+  
+
+
 })();
+
