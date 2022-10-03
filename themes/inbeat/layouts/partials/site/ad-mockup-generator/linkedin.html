@@ -71,7 +71,18 @@
                     </div>
                   </div>
                 </div>
-                <div class="mockup__configuration-dropzone-wrapper">
+                <div class="mockup__configuration-message-wrapper">
+                  <h4 class="mockup__title">
+                    Caption
+                  </h4>
+                  <p class="mockup__description">
+                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
+                    or less.
+                  </p>
+                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                    placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                </div>
+                <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
                   <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
                   <span class="mockup__description">Recommended image size:
@@ -95,11 +106,11 @@
                       set advertise tagline for post.
                     </p>
                     <div class="input-wrapper">
-                        <input v-model="websiteName"  type="text" id="account-name-input"
+                        <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
                           class="mockup-input" placeholder="Linkedin.com" maxlength="20" />
-                      </div>
+                    </div>
                   </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
                      Link
                     </h4>
@@ -107,8 +118,8 @@
                       set website link for post.
                     </p>
                     <div class="input-wrapper">
-                        <input v-model="headlineCopy"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="Linkedin.com" maxlength="20" />
+                        <input @input="textInput($event,'headlineCopy')"  type="text" id="account-name-input"
+                          class="mockup-input" placeholder="inbeat.co" maxlength="20" />
                       </div>
                   </div>
                 <div class="mockup__configuration-ad-action">
@@ -129,7 +140,7 @@
                     Set the number of likes for your post. Numeric input only.
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                  @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
                   <h4 class="mockup__title">
@@ -139,7 +150,7 @@
                     Set the number of comments for your post. Numeric input only.
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    class="likes-count-input" type="number" placeholder="1" v-model="commentCount">
+                    class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'commentCount')">
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
                   <h4 class="mockup__title">
@@ -149,18 +160,7 @@
                     Set the number of Share for your post. Numeric input only.
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    class="likes-count-input" type="number" placeholder="1" v-model="shareCount">
-                </div>
-                <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
-                  <h4 class="mockup__title">
-                    Caption
-                  </h4>
-                  <p class="mockup__description">
-                    Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
-                    or less.
-                  </p>
-                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
-                    placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
+                    class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
                 </div>
               </div>
             </div>
@@ -168,7 +168,7 @@
               id="mockup-preview">
               <div class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
-                  <div id="instagram-mockup-preview" class="mockup-preview-wrapper"
+                  <div id="linkedin-mockup-preview" class="mockup-preview-wrapper"
                     v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                     <div class="preview-header">
                       <div class="preview-creadincials" id="ib_linkedin-creadincials">
@@ -258,7 +258,7 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div id="instagram-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
+                  <!-- <div id="linkedin-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
                     <div class="header-wrapper">
                       <div class="line">
                       </div>
@@ -638,7 +638,7 @@
               console.log(e)
           },
           downloadPng(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('linkedin-mockup-preview')
             html2canvas(preview)
             .then(function(canvas){
               var link = document.createElement('a');
@@ -648,7 +648,7 @@
             })
           },
           copyImage(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('linkedin-mockup-preview')
               navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
               if (result.state == "granted" || result.state == "prompt") {
                 html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
@@ -734,6 +734,9 @@
           const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
           return !event.key.match(regex) && event.preventDefault();
           },
+          textInput(e,inputName){
+            this[inputName] = e.target.value
+          },
           onKeyDown(){
             if (event.code === 'Space') event.preventDefault()
           },
@@ -782,6 +785,20 @@
             }else{
               this.activeTab = 'both'
             }
+          },
+          numberInput(e,inputName){
+            const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
+           this[inputName] = this.abbreviateNumber(e.target.value,SI_SYMBOL) 
+          },
+          abbreviateNumber(number,SI_SYMBOL){  
+                // what tier? (determines SI symbol)
+                var tier = Math.log10(Math.abs(number)) / 3 | 0;           
+                if(tier == 0) return number;
+                tier = tier > 6 ? 6 : tier
+                var suffix = SI_SYMBOL[tier];
+                var scale = Math.pow(10, tier * 3);
+                var scaled = number / scale;
+                return scaled.toFixed(1) + suffix;
           },
           slideNext(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]

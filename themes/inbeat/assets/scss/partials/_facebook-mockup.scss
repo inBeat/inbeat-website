@@ -208,9 +208,6 @@
     input{
         margin-top: 12px;
     }
-    &.website-name-input{
-        margin-top: 19px;
-    }
 }
 #facebook-mockup-preview{
     font-family: $facebookfont;
@@ -237,4 +234,7 @@
             }
         }
     }
+}
+.ib__mockup-dropzone{
+    margin-top: 19px !important;
 }
