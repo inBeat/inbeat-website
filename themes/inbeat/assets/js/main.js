@@ -64,11 +64,6 @@ function header() {
     for (var i = 0; i < arrow.length; i++) {
       arrow[i].classList.remove('open');
     }
-    for (var i = 0; i < dropdownItems.length; i++) {
-      for (var j = 0; j < dropdownItems[i].acc.length; j++) {
-        dropdownItems[i].acc[j].lastElementChild.classList.remove('show')
-      }
-    }
   };
 
   menuBtn.addEventListener('click', function (e) {
@@ -112,6 +107,8 @@ function testimonial() {
   if (!window.jQuery) {
     return;
   }
+  console.log('🚀 ~ file: main.js ~ line 111 ~ testimonial ~ slider');
+
   $('.slider').slick({
     slidesToShow: 6,
     slidesToScroll: 1,

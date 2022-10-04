@@ -1,7 +1,6 @@
 .show-nav {
   opacity: 1 !important;
   visibility: visible !important;
-  top: 50px !important;
 }
 
 #navigation {
@@ -13,7 +12,6 @@
   left: 0;
   right: 0;
   z-index: 5;
-  top: 55px;
   width: max-content;
   transition: all .1s cubic-bezier(0.5, 0.1, 0.6, 0.5);
 
@@ -59,11 +57,15 @@
       }
 
       .btn {
+        transition: $transition_default;
         border: none;
         color: black !important;
         align-self: baseline;
         margin-top: auto;
         width: 100%;
+        &:hover{
+          opacity: .8;
+        }
       }
     }
 
@@ -163,12 +165,12 @@
           cursor: pointer;
 
           &:nth-child(1) {
-            margin-top: 5px;
+            margin-top: 10px;
           }
 
           .inner {
             border-radius: 5px;
-
+            padding: 0;
             .tag {
               background-color: #f2f2f2;
               font-size: 11px;
@@ -293,8 +295,7 @@
         position: inherit !important;
 
         .resources-navigation {
-          //padding-left: 21px;
-          //padding-right: 21px;
+          padding-left: 21px;
         }
       }
     }
@@ -322,7 +323,6 @@
         opacity: 1;
         display: flex;
         align-items: center;
-        width: 100%;
         padding: 10px 8px 12px;
         line-height: 0;
         border-radius: 5px;

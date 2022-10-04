@@ -182,7 +182,7 @@
         opacity: 1;
         position: relative;
         .right-arrow-icon{
-            padding-left: 12px;
+            padding-left: 8px;
             padding-bottom: 4px;
             transition: $transition_default;
             position: absolute;
@@ -198,7 +198,7 @@
         &:hover{
             opacity: 0.5;
             .right-arrow-icon{
-              padding-left: 16px;
+              padding-left: 12px;
             }
         }
         &.hide-md{
