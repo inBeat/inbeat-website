@@ -142,6 +142,10 @@
     background: #28161C;
     padding-top: 155px;
     padding-bottom: 155px;
+    @include breakpoint(sm-down) {
+        padding-top: 64px;
+        padding-bottom: 54px;
+    }
 }
 #what-we-do_creator-studio{
     background-color: #F9F7F7;
