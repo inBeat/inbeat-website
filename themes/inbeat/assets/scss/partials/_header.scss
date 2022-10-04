@@ -69,14 +69,6 @@
 
     .column {
       transition: $transition_default;
-      opacity: 0.6;
-      &.announcement{
-        opacity: 1 !important;
-      }
-      &:hover:not(.announcement) {
-        opacity: 1 !important;
-      }
-
       h4,
       p {
         margin: 0;
