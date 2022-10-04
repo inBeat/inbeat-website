@@ -548,7 +548,33 @@ function dropdown() {
   }
 }
 
+function home() {
+  // Icons in the extras section
+  var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing', 'inbeat-animated-logo'];
+  homeIcons.forEach(function (iconName) {
+      var icon = document.getElementById(iconName);
+      if (!icon) {
+          return;
+      }
+      var anim = bodymovin.loadAnimation({
+          container: icon, // Required
+          path: '/animations/' + iconName + '.json', // Required
+          renderer: 'svg', // Required
+          loop: false, // Optional
+          autoplay: false, // Optional
+          name: iconName, // Name for future reference. Optional.
+      });
+      icon.addEventListener('mouseenter', function (e) {
+          anim.play();
+      });
+      icon.addEventListener('mouseleave', function (e) {
+          anim.stop();
+      });
+  });
+}
+
 (function () {
+  home();
   scrollTo();
   header();
   pricing();
