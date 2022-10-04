@@ -44,16 +44,6 @@
                             </div>
                           </div>
                         </div>
-                      <!-- </div> -->
-                      <!-- <div class="glide-controls" data-glide-el="controls">
-                        <span class="swiper-previous glide-control-btn" data-glide-dir="<">
-                          {{- partial "icons/left-arrow.html" -}}
-                        </span>
-                        <span class="swiper-next glide-control-btn" data-glide-dir=">">
-                          {{- partial "icons/right-arrow.html" -}}
-                        </span>
-                      </div> -->
-                    <!-- </div> -->
                   </div>
                 </div>
                 <div class="profile__input-wrapper">
@@ -99,7 +89,7 @@
                 </div>
               </div>
             </div>
-            <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
+            <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section ib_snapchat-preview-section"
               id="mockup-preview">
               <div v-if="activeAd.id === 1" class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
@@ -120,6 +110,7 @@
                         </div>
                       </div>
                     </div>
+                    <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="preview-body snapchat-preview-body" id="story-body" :style="getComputedHeight">
                       <div class="story-overlay"></div>
                       <img class="preview-image-body" v-if="postSrc[0]"
@@ -127,6 +118,7 @@
                       <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                           recommended</span></span>
                     </div>
+                    </uploader>
                     <div class="story__preview-footer" id="snapchat-cta-footer">
                       <div class="cta">
                         {{- partial "icons/up-chevron.html" -}}
@@ -157,7 +149,7 @@
                               <div class="story-options">
                                 {{- partial "icons/snapchat-more-icon.html" -}}
                               </div>
-                        </div>
+                        </div>  
                         <div class="ib_snapchat-mockup-body">
                             <img class="preview-image-body" v-if="postSrc[0]"
                             :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
@@ -165,8 +157,6 @@
                               recommended</span></span>
                         </div>
                         <div class="ib_snapchat-mockup-footer">
-                            <div>
-                            </div>
                             <div class="cta">
                                 {{- partial "icons/up-chevron.html" -}}
                                 <span>
@@ -444,9 +434,9 @@
               },
               {
                 id:2,
-                type:'Story',
+                type:'Story Full',
                 ratio:'9:16',
-                img:'9-16',
+                img:'story_full',
                 req: 80 ,
                 resolution: '1080x1920'
               },

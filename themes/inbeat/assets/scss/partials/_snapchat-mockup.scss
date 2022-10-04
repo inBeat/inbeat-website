@@ -43,6 +43,7 @@
             font-size: 15px;
             line-height: 20px;
             color: #000000;
+            padding: 8px 18px;
         }
     }
     .snapchat-cta{
@@ -102,36 +103,44 @@
         align-items: center;
         margin: 15px 0px;
     }
-    .ib_snapchat-mockup-footer{
+}
+.ib_snapchat-mockup-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    .cta{
         display: flex;
+        flex-direction: column;
         align-items: center;
-        justify-content: space-between;
-        &:first-child{
-            flex: inherit;
-        }
-        .cta{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 7px;
-            span{
-                font-weight: 700;
-                font-size: 15px;
-                line-height: 20px;
-                color: #000000;
-                display: block;
-                padding: 16px 32px;
-                background-color: #FFFFFF;
-                border-radius: 77px;
-                cursor: pointer;
-            }
-        }
-        .snapchat-cta{
+        justify-content: center;
+        gap: 7px;
+        span{
             font-weight: 700;
             font-size: 15px;
             line-height: 20px;
-            color: #FFFFFF;
+            color: #000000;
+            display: block;
+            padding: 8px 18px;
+            background-color: #FFFFFF;
+            border-radius: 77px;
+            cursor: pointer;
         }
+        
+    }
+    .snapchat-cta{
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF;
+        padding: 8px 18px;
+        user-select: none;
+        position: absolute;
+        right: 0;
+    }
+}
+.ib_snapchat-preview-section{
+    @include breakpoint(md-down){
+        width:100% !important;
     }
 }
