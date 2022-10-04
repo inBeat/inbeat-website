@@ -4,7 +4,7 @@
     <h1>{{- .title | markdownify -}}</h1>
     <h4>{{- .subtitle | markdownify -}}</h4>
     <div class="cta">
-        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Get started" id="hero-cta">
+        <a href="{{- .cta.link -}}" target="_blank" class="btn btn-lg btn-crazy-hover" title="Get started" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
         <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">

@@ -15,8 +15,8 @@ hero:
   image: /images/features-quicksearch.png
   cta:
     text: >-
-      <span>Book a demo</span>
-    link: "https://calendly.com/inbeat-co/inbeat-co-demo"
+      <span>Sign Up</span>
+    link: "https://app.inbeat.co/get-started"
 features:
   - id: search
     # class: popupTrigger
