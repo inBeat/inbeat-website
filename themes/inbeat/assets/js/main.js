@@ -107,8 +107,6 @@ function testimonial() {
   if (!window.jQuery) {
     return;
   }
-  console.log('🚀 ~ file: main.js ~ line 111 ~ testimonial ~ slider');
-
   $('.slider').slick({
     slidesToShow: 6,
     slidesToScroll: 1,
@@ -536,18 +534,13 @@ function dropdown() {
         activeEle = e.target.parentElement
         for (var j = 0; j < triggers.length; j++) {
           if (triggers[j] != activeEle) {
-            console.log('hello from in condition')
             if (triggers[j].children[1].classList.contains('open')) {
-              console.log('hello from remove')
               triggers[j].children[1].classList.remove('open')
               triggers[j].nextElementSibling.classList.remove('show')
             } else {
-              console.log('hello from add')
               e.target.parentElement.nextElementSibling.classList.add('show')
               e.target.nextElementSibling.classList.add('open')
             }
-          } else {
-            console.log('hoila')
           }
         }
       }
