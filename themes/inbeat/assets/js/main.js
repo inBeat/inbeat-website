@@ -300,7 +300,6 @@ function popup() {
     defaultWidth = this.innerPopup.style.width;
     defaultHeight = this.innerPopup.style.height;
     this.content = this.popup.querySelector(".content-wrapper");
-    this.innerPopup.style.transition = "all .25s ease-in-out";
 
     this.openPopup = function () {
       isOpen = true;
@@ -324,7 +323,7 @@ function popup() {
       isOpen = false
       this.popup.classList.toggle('popupOverlay--fadeIn');
       this.innerPopup.classList.toggle('popupInner--fadeIn');
-      document.body.style.overflow = 'visible';
+      document.body.style.overflow = 'hidden visible';
       document.querySelectorAll('section').forEach(function (item) {
         item.classList.remove("blur");
       })
