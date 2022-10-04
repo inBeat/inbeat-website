@@ -15,7 +15,7 @@ hero:
   image: /images/features-quicksearch.png
   cta:
     text: >-
-      <span>Book a demo — it's free</span>
+      <span>Book a demo</span>
     link: "https://calendly.com/inbeat-co/inbeat-co-demo"
 features:
   - id: search

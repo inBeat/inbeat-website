@@ -110,6 +110,62 @@
 	}
 }
 
+#hero {
+  padding-top: 8.50rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  @include breakpoint(sm) {
+      padding-top: calc(50vh - 15.625rem);
+      padding-bottom: calc(50vh - 18rem);
+  }
+  &.has-banner{
+      // Add the banner height size
+      transform: translateY(36.5px);
+  }
+  h4 {
+      width: 100%;
+      margin-bottom: 4rem;
+      @include breakpoint(sm) {
+          margin: auto;
+          margin-bottom: 5rem;
+      }
+  }
+  .cta {
+      a {
+          display: block;
+          margin: 0 auto 20px;
+          width: 100%;
+          @include breakpoint(31.25rem) {
+              width: 16.75rem;
+          }
+          @include breakpoint(sm) {
+              display: inline-block;
+              margin: 0;
+              &:first-child {
+                  margin-right: 20px;
+              }
+          }
+          &#hero-cta {
+              @include breakpoint(sm-down) {
+                  color: black;
+                  border: none;
+                  animation: crazy 2s infinite;
+              }
+          }
+          span {
+              font-weight: bold;
+          }
+      }
+      a:nth-child(2){
+          padding-left: 20px;
+          span{
+             padding-left: 20px;
+              padding-right: 20px;
+          }
+      }
+  }
+}
+
 #clients {
     .row {
         margin: 0;

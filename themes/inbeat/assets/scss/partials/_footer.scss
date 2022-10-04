@@ -151,6 +151,7 @@ footer {
     margin-top: 32px;
   }
   .small{
+    margin-top: 48px !important;
     @include breakpoint(md){
       margin-top: 0px;
     }
