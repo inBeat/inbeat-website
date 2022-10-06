@@ -6,6 +6,9 @@
     position: relative;
     overflow: hidden;
     font-family: $tiktokfont;
+    .preview-image-body{
+        height: 100%;
+    }
     .tiktok_mockup-header{
         display: flex;
         align-items: center;

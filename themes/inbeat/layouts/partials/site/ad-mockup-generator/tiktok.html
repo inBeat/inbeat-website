@@ -81,7 +81,6 @@
                       {{- partial "icons/upload-placeholder.html" -}}
                       <p><span>Click to upload</span> or drag-and-drop</br>
                       <div class="sub-droparea-text">Supports only .png or .jpg</div>
-                      <span ref="messageError" class="image-error-text"></span>
                       </p>
                     </div>
                   </uploader>
@@ -95,7 +94,6 @@
                       {{- partial "icons/upload-placeholder.html" -}}
                       <p><span>Click to upload</span> or drag-and-drop</br>
                       <div class="sub-droparea-text">Supports only .png or .jpg</div>
-                      <span ref="messageError" class="image-error-text"></span>
                       </p>
                     </div>
                   </uploader>
@@ -322,7 +320,6 @@
                 // This method will be called when the file gets uploaded
                 const files = e.target.files || e.dataTransfer.files;
                 if(this.multiple && files.length > 10){
-                  this.$refs.messageError.innerHTML = 'You can only upload maximum 10 files';
                   return
                 }
                 if (files[0]) {
@@ -584,12 +581,7 @@
             })
           },
           uploadImage(fileset,location){
-            this.$refs.messageError.innerHTML = '';
             const files = Array.from(fileset)
-            if(this.postSrc.length >= 10){
-              this.$refs.messageError.innerHTML = 'You can only select 10 images';
-              return
-            }
             files.forEach(file => {
               let src = URL.createObjectURL(file)
               if(location === 'header'){
@@ -632,7 +624,6 @@
           },
           adTypeClick(adType){
             if(this.activeAd.id !== adType.id){
-              this.$refs.messageError.innerHTML = '';
               this.clearFields()
               this.activeAd =  adType
               this.$nextTick(() => {
