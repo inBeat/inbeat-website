@@ -539,6 +539,8 @@
               type:'Square',
               ratio:'1:1',
               img:'1-1',
+              widthR: 1,
+              heightR: 1,
               req: 80,
               resolution: '1080x1080'
             },
@@ -546,7 +548,9 @@
               id:5,
               type:'Portrait',
               ratio:'4:5',
-              img:'portrait'   ,
+              img:'portrait',
+              widthR: 4,
+              heightR: 5,
               req: 80,
               resolution: '1080x1350'
             },
@@ -554,7 +558,9 @@
               id:2,
               type:'Video',
               ratio:'16:9',
-              img:'3-2'   ,
+              img:'3-2',
+              widthR: 16,
+              heightR: 9,
               req: 80,
               resolution: '1920x1080'
             },
@@ -563,6 +569,8 @@
               type:'Story',
               ratio:'9:16',
               img:'9-16',
+              widthR: 9,
+              heightR: 16,
               req: 80 ,
               resolution: '1080x1920'
             },
@@ -571,6 +579,8 @@
               type:'Carousel',
               ratio:'1:1',
               img:'carousel',
+              widthR: 1,
+              heightR: 1,
               req: 80 ,
               resolution: '1080x1080'
             }
@@ -580,6 +590,8 @@
               type:'Square',
               ratio:'1:1',
               img:'1-1',
+              widthR: 1,
+              heightR: 1,
               req: 80,
               resolution: '1080x1080'
             },
@@ -588,6 +600,9 @@
             count :0,
             canCopy:true
         },
+    created() {
+      this.activeAd = this.adTypes[0];
+    },
     methods:{
         switchTab(tab){
           this.activeTab = tab
@@ -743,11 +758,12 @@
         },
         setPreviewRatio(){
           let el = document.getElementById('mockup-download-img')
-          let  width= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
+          let previewWidth= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
           let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
-          let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
+          let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+
           if(target){
-            target.style.height = height
+            target.style.height = affectiveHeight
           }
         },
         setActiveTab(){
@@ -771,15 +787,14 @@
     },
     computed: {
       getComputedHeight() {
-        let  width= document.getElementById('mockup-download-img').offsetWidth - 50
-        return {
-          height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
-        };
-        },
+        let previewWidth= document.getElementById('mockup-download-img').offsetWidth - 50;
+        let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+        return{ height: affectiveHeight };
       },
-      delimiters: ['{', '}'],
-    });
-    </script>
+    },
+    delimiters: ['{', '}'],
+  });
+  </script>
     <script>
         const glide = new Glide('.glide',{
           type: 'slider',
