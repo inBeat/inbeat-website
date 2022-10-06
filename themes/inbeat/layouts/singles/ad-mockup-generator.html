@@ -32,6 +32,6 @@
 {{- partial "site/whatwedo.html" . -}}
 {{- partial "site/related-tools.html" . -}}
 
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.freetoolkit__mockup "id" "home-faq") -}} 
+{{- partial "site/faq.html" (dict "context" . "faq" .Params.faq "id" "home-faq") -}} 
 
 {{- end -}}
