@@ -1,34 +1,73 @@
-  col1:
-    - anchor: Pricing
-      link: pricing
-    - anchor: Affiliate
-      link: https://inbeat.firstpromoter.com/
-    - anchor: Micro Influencer Platform
-      link: micro-influencer-platform
-  col2:
+  col1_ugc:
+    - anchor: Learn More
+      link: ugc-studio
+      external: false
+    - anchor: Book a demo
+      link: https://calendly.com/inbeat-co/creator-studio-demo
+      external: true
+  col1_database:
+    - anchor: Sign in
+      link: https://app.inbeat.co/get-started#login
+      external: true
     - anchor: Quick Search
       link: features/quicksearch
+      external: false
     - anchor: Deep Search
       link: features/deepsearch
-    - anchor: Contact Export
-      link: features/export-contacts/
-    - anchor: Influencer Tracking
-      link: influencer-tracking-software
-  col3:
+      external: false
+    - anchor: Contact Exports
+      link: features/export-contacts
+      external: false
+    - anchor: Pricing
+      link: pricing
+      external: false
+  col2:
     - anchor: Articles
       link: articles
-    - anchor: The Pulse Podcast
+      target: '_self'
+      external: false
+    - anchor: Growthnotes Newsletter
+      link: 'https://www.growthnotes.news/'
+      external: true
+    # - anchor: The Pulse Podcast
+    #   link: categories/podcasts
+    #   external: false
+    - anchor: The Toolkit
+      link: free-toolkit
+      external: false
+    - anchor: AdCollection
       link: categories/podcasts
-  col4:
+      external: false
+
+  col3:
+    # - anchor: Instagram & TikTok influencer database
+    #   link: influencer-database
     - anchor: Instagram Engagement Rate Calculator
       link: engagement-rate-calculator-instagram
     - anchor: TikTok Engagement Rate Calculator
       link: engagement-rate-calculator-tiktok
     - anchor: Influencer Money Calculator
       link: collaboration-cost-calculator-instagram
+    - anchor: Top TikTok Influencers 2022
+      link: top-influencers/tiktok/
+    - anchor: Top Instagram Influencers 2022
+      link: top-influencers/instagram
+    - anchor: CPM Calculator
+      link: cpm-calculator
+    - anchor: CTR Calculator
+      link: ctr-calculator
+    - anchor: CPA Calculator
+      link: cpa-calculator
+    - anchor: Bounce Rate Calculator
+      link: bounce-rate-calculator
     - anchor: Instagram Fake Follower checker
       link: fake-follower-checker
-    - anchor: Top Instagram Influencers
-      link: top-influencers/instagram
-    - anchor: Top TikTok Influencers
-      link: top-influencers/tiktok
+  # col4:
+  #   - anchor: Quick Search
+  #     link: features/quicksearch
+  #   - anchor: Deep Search
+  #     link: features/deepsearch
+  #   - anchor: Contact Export
+  #     link: features/export-contacts/
+  #   - anchor: Influencer Tracking
+  #     link: influencer-tracking-software

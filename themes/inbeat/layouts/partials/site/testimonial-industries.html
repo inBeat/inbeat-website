@@ -1,0 +1,19 @@
+{{- with .Params.testmonial -}}
+    <section class="container-fluid p-tb-80" id="testimonials-industries"> 
+        <div class="container"> 
+            <div class="row">
+                <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
+                {{- with .cta -}}
+                <div class="cta">
+                    <a href="{{- .link -}}" class="btn btn-lg whatwedo-btn" title="Try it now" id="hero-cta">
+                        {{- htmlUnescape .text | markdownify -}}
+                    </a>
+                </div>
+                {{- end -}}
+            </div>
+        </div>
+        {{- partial "site/clients.html" . -}}
+</section>
+{{- end -}}
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

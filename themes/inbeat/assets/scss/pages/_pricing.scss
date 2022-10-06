@@ -56,10 +56,11 @@ $plan-padding: 1.5rem;
             padding: 31px 21px 36px 38px;
             background: #FFFFFF;
             border-radius: 29px;
+            margin-bottom: 21px;
             opacity: 0.6;
             cursor: pointer;
             border: 1px solid #BDBDBD;
-            transition: all 0.3s ease-in-out;
+            transition: $transition_default;
             @include breakpoint(sm-down) {
                 padding: 20px 30px;
                 border-radius: 12px;
@@ -98,18 +99,20 @@ $plan-padding: 1.5rem;
         .--active{
             border: 2px solid #141514;
             opacity: 1;
-            margin: -1px;
         }
     }
 }
 #pricing {
     display: none;
     margin-top: 40px;
+    // padding-top: 3.8rem;
     @include breakpoint(sm) {
         margin-top: 70px;
+        // padding-top: 60px;
     }
     @include breakpoint(md) {
         margin-top: 160px;
+        // padding-top: 96px;
     }
     .pricing-header {
         text-align: left;
