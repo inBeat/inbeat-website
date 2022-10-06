@@ -22,20 +22,19 @@ discoverInfluencer:
       - link: 727870274?h=20a5dc261b
       - link: 727870927?h=cd0ee8a876
       - link: 754841922?h=0615e03c82
-
       - link: 727870878?h=cd72296c3f
       - link: 727870972?h=55b99ceef5
       - link: 722232315?h=cf51fb9cc2
 features:
   - id: search-influencer
-    class: popupTrigger
     title: Match with creators that have a track record for top-performing content.
     image: /images/feature-creator_studio-1.png
     text: >-
      Get matched with Top Creators that fit the bill & that are already willing to collaborate with your brand.
     link:
-      text: Watch the video
-      link: 'features/discover' 
+      text: Pricing
+      link: 'pricing' 
+      external: false
   - id: pick-influencer
     title: Content reviews have never been simpler
     image: /images/feature-creator_studio-2.png
