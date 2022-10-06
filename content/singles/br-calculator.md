@@ -31,9 +31,25 @@ toolkits:
       text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
       icon: cpm-toolkit
       url: cpm-calculator
-viewAll: 
-  link: free-toolkit
-  text: View all
+relatedTools:
+  title: 'Related Tools'
+  id: 'calculator-related-tools'
+  viewAll:
+    link: free-toolkit
+    text: View all
+  toolkits:
+    - title: CTR Calculator
+      text: Calculate your Click-through-rate your ads & content across different channels.
+      icon: ctr-toolkit
+      url: ctr-calculator
+    - title: CPA Calculator
+      text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
+      icon: cpa-toolkit
+      url: cpa-calculator
+    - title: CPM Calculator
+      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
+      icon: cpm-toolkit
+      url: cpm-calculator
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

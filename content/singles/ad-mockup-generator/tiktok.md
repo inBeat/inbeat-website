@@ -18,4 +18,23 @@ whatwedo:
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
+relatedTools:
+  title: 'Related Tools'
+  id: 'mockup-related-tools'
+  viewAll:
+    link: ad-mockup-generator
+    text: View all
+  toolkits:
+    - title: Linkedin Ad Mockup <br> Generator 
+      text: Preview & build Linkedin ads before they go live! inBeat’s ad mockup generator offers all formats available for paid ads. 
+      icon: linkedin-ad-mockup
+      url: ad-mockup-generator/linkedin
+    - title:  Instagram Ad Mockup <br> Generator 
+      text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
+      icon: instagram-ad-mockup
+      url: ad-mockup-generator/instagram
+    - title:  Snapchat Ad Mockup <br> Generator 
+      text: This Ad Mockup generator allows you to fully customize all fields on a Snapchat ad, and upload your own media!
+      icon: snapchat-ad-mockup
+      url: ad-mockup-generator/snapchat
 ---

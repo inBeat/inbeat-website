@@ -36,79 +36,79 @@
         }
       }
     }
-    .tools-card-wrapper{
-      display: flex;
-      flex-wrap: wrap;
-      margin-top: 24px;
-      row-gap: 16px;
-      @include breakpoint(sm-down) {
-      margin-top: 0px;
-      gap: 25px;
-      }
+}
+.tools-card-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 24px;
+  row-gap: 16px;
+  @include breakpoint(sm-down) {
+  margin-top: 0px;
+  gap: 25px;
+  }
+}
+.tools {
+    width: 100%;
+    &:hover .inner{
+        border: 1px solid rgba(0, 0, 0, 1);
+        cursor: pointer;
     }
-    .tools {
-        width: 100%;
-        &:hover .inner{
-            border: 1px solid rgba(0, 0, 0, 1);
-            cursor: pointer;
-        }
-        .inner {
-            transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
-            display: flex;
-            border: 1px solid rgba(0, 0, 0, 0.20);
-            padding: 15px;
-            padding-bottom: 0px;
-            flex-direction: row-reverse;
-            min-height: 221px;
-            @include breakpoint(sm-down) {
-                flex-direction: column;
-                padding: 10px 25px;
-                min-height: 150px;
-                .icon{
-                    display: flex;
-                    margin-right: 25px;
-                    margin-top: 35px;
-                }
-            }
+    .inner {
+        transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+        display: flex;
+        border: 1px solid rgba(0, 0, 0, 0.20);
+        padding: 15px;
+        padding-bottom: 0px;
+        flex-direction: row-reverse;
+        min-height: 221px;
+        @include breakpoint(sm-down) {
+            flex-direction: column;
+            padding: 10px 25px;
+            min-height: 150px;
             .icon{
-                @include breakpoint(sm) {
-                    position: absolute;
+                display: flex;
+                margin-right: 25px;
+                margin-top: 35px;
+            }
+        }
+        .icon{
+            @include breakpoint(sm) {
+                position: absolute;
+            }
+        }
+        .content{
+            padding: 35px 0px 0px 25px;
+            @include breakpoint(sm-down) {
+                padding: 25px 0px 25px 0px;
+            }
+            .tool-description{
+                display: inline-block;
+                align-self: flex-end;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 24px;
+                letter-spacing: -0.3px;
+                padding-right: 50px;
+                color: #141514;
+                margin: 0;
+                @include breakpoint(sm-down) {
+                      // display: none;
+                       font-size: .75rem;
+                       line-height: 1.25rem;
                 }
             }
-            .content{
-                padding: 35px 0px 0px 25px;
+            .tool-name{
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 31px;
+                letter-spacing: -0.3px;      
+                color: #000000;
+                margin: 0;
+                margin-bottom: 22px;
                 @include breakpoint(sm-down) {
-                    padding: 25px 0px 25px 0px;
-                }
-                .tool-description{
-                    display: inline-block;
-                    align-self: flex-end;
-                    font-weight: 400;
-                    font-size: 14px;
-                    line-height: 24px;
-                    letter-spacing: -0.3px;
-                    padding-right: 50px;
-                    color: #141514;
-                    margin: 0;
-                    @include breakpoint(sm-down) {
-                          // display: none;
-                           font-size: .75rem;
-                           line-height: 1.25rem;
-                    }
-                }
-                .tool-name{
-                    font-weight: 500;
-                    font-size: 24px;
-                    line-height: 31px;
-                    letter-spacing: -0.3px;      
-                    color: #000000;
-                    margin: 0;
-                    margin-bottom: 22px;
-                    @include breakpoint(sm-down) {
-                        font-size: 1.2rem;
-                        margin-bottom: 15px;
-                        width: 100%;
-                    }
+                    font-size: 1.2rem;
+                    margin-bottom: 15px;
+                    width: 100%;
                 }
             }
         }

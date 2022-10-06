@@ -1,8 +1,8 @@
-
-    <section class="related-tools container">
+{{- with .Params.relatedTools -}}
+    <section class="related-tools container" id="{{- .id -}}">
         <div class="related_tools-header">
-            <h2 class="related-tools-title">Related tools</h2>
-            {{- with .Params.viewAll -}}
+            <h2 class="related-tools-title">{{.title}}</h2>
+            {{- with .viewAll -}}
             <a class="view-all" href="{{ $.Site.BaseURL -}}{{- .link -}}" target="_blank">
                 {{- htmlUnescape .text -}}
                 <span class="right-arrow-icon">{{- partial (printf "icons/%s.html" "right-ar") -}}</span>
@@ -11,7 +11,7 @@
         {{- end -}}
         <div class="row">
             <div class="tools-card-wrapper">
-                {{- range .Params.toolkits -}}
+                {{- range .toolkits -}}
                         <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
                             <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_blank">
                             <div class="inner">
@@ -27,3 +27,4 @@
             </div>
         </div>
     </section>
+{{- end -}}
