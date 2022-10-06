@@ -47,6 +47,29 @@
   gap: 25px;
   }
 }
+.all-tools-btn {
+    width: 148px;
+    height: 48px;
+    margin: auto;
+    background: #F9F7F7;
+    border-radius: 1px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    /* or 186% */
+
+    text-align: center;
+    margin-top: 64px;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+        background-color: #f4f1f1;
+    }
+}
 .tools {
     width: 100%;
     &:hover .inner{
