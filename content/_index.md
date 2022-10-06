@@ -1,10 +1,8 @@
 ---
-title: inBeat
+title: inBeat Influencer Database | Search TikTok and Instagram Influencers
 description: >-
   Search and find TikTok and Instagram influencers in our spam-checked influencer
   database. Use our tools to search, vet and track your influencer marketing campaigns.
-title: inBeat Influencer Database | Search TikTok and Instagram Influencers
-subtitle: "creator-studio"
 banner:
   show: true
 hero:
