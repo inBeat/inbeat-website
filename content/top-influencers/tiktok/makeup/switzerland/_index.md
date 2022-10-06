@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Switzerland In 2021
+title: Top 10 Makeup TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top makeup TikTok influencers in Switzerland in 2021. Most popular hashtags: #makeup #fyp #foryou #viral.
+  Find top makeup TikTok influencers in Switzerland in 2022. Most popular hashtags: #makeup #fyp #foryou #viral.
 platform: TikTok
 hits: 56
 text_top: Identify the top-rated TikTok influencers on inBeat.

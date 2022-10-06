@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Turkey In 2021
+title: Top 10 Skincare Instagram Influencers In Turkey In 2022
 description: >-
-  Find top skincare Instagram influencers in Turkey in 2021. Most popular hashtags: #skincare #skincareroutine #ciltbak #avon.
+  Find top skincare Instagram influencers in Turkey in 2022. Most popular hashtags: #skincare #skincareroutine #ciltbak #avon.
 platform: Instagram
 hits: 102
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Italy In 2021
+title: Top 10 Fashion TikTok Influencers In Italy In 2022
 description: >-
-  Find top fashion TikTok influencers in Italy in 2021. Most popular hashtags: #perte #foryou #outfitideas #outfit.
+  Find top fashion TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #outfitideas #outfit.
 platform: TikTok
 hits: 160
 text_top: Identify the best TikTok profiles on inBeat.

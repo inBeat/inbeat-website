@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Japan In 2021
+title: Top 10 Cosmetics Instagram Influencers In Japan In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Japan in 2021. Most popular hashtags: #pr #makeup #cosmetics #lipmakeup.
+  Find top cosmetics Instagram influencers in Japan in 2022. Most popular hashtags: #pr #makeup #cosmetics #lipmakeup.
 platform: Instagram
 hits: 151
 text_top: Analyze the most popular Instagram accounts on inBeat.

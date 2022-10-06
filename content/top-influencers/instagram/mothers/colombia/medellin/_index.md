@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Medellín In 2021
+title: Top 10 Mothers Instagram Influencers In Medellín In 2022
 description: >-
-  Find top mothers Instagram influencers in Medellín in 2021. Most popular hashtags: #medellin #colombia #love #bogota.
+  Find top mothers Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #colombia #love #bogota.
 platform: Instagram
 hits: 6
 text_top: Discover the best Instagram accounts on inBeat.

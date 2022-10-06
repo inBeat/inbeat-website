@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Brazil In 2021
+title: Top 10 Painters Instagram Influencers In Brazil In 2022
 description: >-
-  Find top painters Instagram influencers in Brazil in 2021. Most popular hashtags: #art #oilpainting #arte.
+  Find top painters Instagram influencers in Brazil in 2022. Most popular hashtags: #art #oilpainting #arte.
 platform: Instagram
 hits: 991
 text_top: Discover the best Instagram profiles on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Marcela Badolatto
     bio: >-
-      painter ⋒ designer ⋓ tattooist 〰️ Agenda Fechada - Próxima abertura Fev/2021 ✑ art@marcelabadolatto.com São Paulo - BR
+      painter ⋒ designer ⋓ tattooist 〰️ Agenda Fechada - Próxima abertura Fev/2022 ✑ art@marcelabadolatto.com São Paulo - BR
     location: "Brazil"
     followers: 15164
     engagement: 773

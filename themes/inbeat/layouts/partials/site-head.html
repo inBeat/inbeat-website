@@ -6,7 +6,9 @@
     {{ partial "head/metadata-prefetch.html" . }}
     {{ partial "head/metadata-schemaorg.html" . }}
     {{ partial "head/metadata-favicons.html" . }}
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     {{ partial "head/styles.html" . }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/css/glide.core.css" integrity="sha512-ShLuspGzRsTiMlQ2Rg0e+atjy/gVQr3oYKnKmQkHQ6sxcnDAEOtOaPz2rRmeygV2CtnwUawDyHkGgH4zUbP3Hw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     {{- if getenv "IS_PROD" -}}
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script>

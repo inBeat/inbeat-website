@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In San Antonio In 2021
+title: Top 10 Health Instagram Influencers In San Antonio In 2022
 description: >-
-  Find top health Instagram influencers in San Antonio in 2021. Most popular hashtags: #fitness #sanantonio #health #fitfam.
+  Find top health Instagram influencers in San Antonio in 2022. Most popular hashtags: #fitness #sanantonio #health #fitfam.
 platform: Instagram
 hits: 19
 text_top: Analyze the top-rated Instagram influencers on inBeat.

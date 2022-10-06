@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Colombia In 2021
+title: Top 10 Crossfit Instagram Influencers In Colombia In 2022
 description: >-
-  Find top crossfit Instagram influencers in Colombia in 2021. Most popular hashtags: #colombia #crossfit #fitness #training.
+  Find top crossfit Instagram influencers in Colombia in 2022. Most popular hashtags: #colombia #crossfit #fitness #training.
 platform: Instagram
 hits: 44
 text_top: See the most popular Instagram profiles on inBeat.

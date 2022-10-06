@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Boston In 2021
+title: Top 10 Food Instagram Influencers In Boston In 2022
 description: >-
-  Find top food Instagram influencers in Boston in 2021. Most popular hashtags: #bostoneats #foodporn #boston.
+  Find top food Instagram influencers in Boston in 2022. Most popular hashtags: #bostoneats #foodporn #boston.
 platform: Instagram
 hits: 112
 text_top: Analyze the best Instagram accounts on inBeat.

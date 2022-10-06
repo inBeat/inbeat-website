@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Belgium In 2021
+title: Top 10 Models Instagram Influencers In Belgium In 2022
 description: >-
-  Find top models Instagram influencers in Belgium in 2021. Most popular hashtags: #fashion #model #collab #fashionstyle.
+  Find top models Instagram influencers in Belgium in 2022. Most popular hashtags: #fashion #model #collab #fashionstyle.
 platform: Instagram
 hits: 134
 text_top: Identify the most popular Instagram accounts on inBeat.

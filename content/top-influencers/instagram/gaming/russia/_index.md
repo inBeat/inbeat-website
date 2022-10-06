@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Russia In 2021
+title: Top 10 Gaming Instagram Influencers In Russia In 2022
 description: >-
-  Find top gaming Instagram influencers in Russia in 2021. Most popular hashtags: #gaming #games #gamer #game.
+  Find top gaming Instagram influencers in Russia in 2022. Most popular hashtags: #gaming #games #gamer #game.
 platform: Instagram
 hits: 27
 text_top: Identify the best Instagram profiles on inBeat.

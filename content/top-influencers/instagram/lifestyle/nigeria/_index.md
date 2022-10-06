@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Nigeria In 2021
+title: Top 10 Lifestyle Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Nigeria in 2021. Most popular hashtags: #explore #naturallyshesdope #protectivestyles.
+  Find top lifestyle Instagram influencers in Nigeria in 2022. Most popular hashtags: #explore #naturallyshesdope #protectivestyles.
 platform: Instagram
 hits: 81
 text_top: Identify the best Instagram profiles on inBeat.

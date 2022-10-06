@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In United States In 2021
+title: Top 10 Comedians Instagram Influencers In United States In 2022
 description: >-
-  Find top comedians Instagram influencers in United States in 2021. Most popular hashtags: #nairobikenya #publicity254 #kenyamemes.
+  Find top comedians Instagram influencers in United States in 2022. Most popular hashtags: #nairobikenya #publicity254 #kenyamemes.
 platform: Instagram
 hits: 897
 text_top: See the top-rated Instagram influencers on inBeat.

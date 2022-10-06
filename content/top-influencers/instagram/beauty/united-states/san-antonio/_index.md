@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In San Antonio In 2021
+title: Top 10 Beauty Instagram Influencers In San Antonio In 2022
 description: >-
-  Find top beauty Instagram influencers in San Antonio in 2021. Most popular hashtags: #makeup #fashionblogger #ootd.
+  Find top beauty Instagram influencers in San Antonio in 2022. Most popular hashtags: #makeup #fashionblogger #ootd.
 platform: Instagram
 hits: 22
 text_top: Analyze the top-rated Instagram profiles on inBeat.

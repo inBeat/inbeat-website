@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In New York In 2021
+title: Top 10 Stylists TikTok Influencers In New York In 2022
 description: >-
-  Find top stylists TikTok influencers in New York in 2021. Most popular hashtags: #fyp #foryou #fashion #duet.
+  Find top stylists TikTok influencers in New York in 2022. Most popular hashtags: #fyp #foryou #fashion #duet.
 platform: TikTok
 hits: 6
 text_top: See the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists TikTok Influencers In 2021
+title: Top 10 Cyclists TikTok Influencers In 2022
 description: >-
-  Find top cyclists TikTok influencers in 2021. Most popular hashtags: #cyclist #cycling #fyp #bike.
+  Find top cyclists TikTok influencers in 2022. Most popular hashtags: #cyclist #cycling #fyp #bike.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In United States In 2021
+title: Top 10 Home Decor TikTok Influencers In United States In 2022
 description: >-
-  Find top home decor TikTok influencers in United States in 2021. Most popular hashtags: #homedecor #fyp #keepingitcute #greenscreen.
+  Find top home decor TikTok influencers in United States in 2022. Most popular hashtags: #homedecor #fyp #keepingitcute #greenscreen.
 platform: TikTok
 hits: 1473
 text_top: See the best TikTok profiles on inBeat.

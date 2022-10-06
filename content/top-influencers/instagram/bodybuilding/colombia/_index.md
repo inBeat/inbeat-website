@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2021
+title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in Colombia in 2021. Most popular hashtags: #bodybuilding #fitness #workout #gym.
+  Find top bodybuilding Instagram influencers in Colombia in 2022. Most popular hashtags: #bodybuilding #fitness #workout #gym.
 platform: Instagram
 hits: 34
 text_top: Analyze the most popular Instagram influencers on inBeat.

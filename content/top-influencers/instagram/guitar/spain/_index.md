@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Spain In 2021
+title: Top 10 Guitar Instagram Influencers In Spain In 2022
 description: >-
-  Find top guitar Instagram influencers in Spain in 2021. Most popular hashtags: #cover #guitar #guitarra.
+  Find top guitar Instagram influencers in Spain in 2022. Most popular hashtags: #cover #guitar #guitarra.
 platform: Instagram
 hits: 183
 text_top: Identify the best Instagram accounts on inBeat.

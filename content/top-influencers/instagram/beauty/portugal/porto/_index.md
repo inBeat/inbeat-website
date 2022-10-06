@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Porto In 2021
+title: Top 10 Beauty Instagram Influencers In Porto In 2022
 description: >-
-  Find top beauty Instagram influencers in Porto in 2021. Most popular hashtags: #porto #pub #beauty #photooftheday.
+  Find top beauty Instagram influencers in Porto in 2022. Most popular hashtags: #porto #pub #beauty #photooftheday.
 platform: Instagram
 hits: 21
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,4 +1,5 @@
 #creator-studio-hero{
+    text-align: center;
     #hero{
         h1{
             @include breakpoint(lg) {
@@ -14,6 +15,7 @@
                 font-size: 1.125rem;
                 line-height: 1.175rem;
                 letter-spacing: 0.03em;
+                margin-bottom: 5rem;
             } 
         }
         @include breakpoint(sm) {
@@ -30,6 +32,7 @@
             }
         }
         #hero-cta{
+            display: inline-block;
             @include breakpoint(xs) {
                 margin-right: 20px;
             }

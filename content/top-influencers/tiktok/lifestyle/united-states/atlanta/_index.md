@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Atlanta In 2021
+title: Top 10 Lifestyle TikTok Influencers In Atlanta In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #foryoupage #duet #viral.
+  Find top lifestyle TikTok influencers in Atlanta in 2022. Most popular hashtags: #fyp #foryoupage #duet #viral.
 platform: TikTok
 hits: 7
 text_top: Identify the best TikTok profiles on inBeat.

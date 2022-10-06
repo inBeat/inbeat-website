@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In United Kingdom In 2021
+title: Top 10 Illustrators Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top illustrators Instagram influencers in United Kingdom in 2021. Most popular hashtags: #illustration #art #artist #painting.
+  Find top illustrators Instagram influencers in United Kingdom in 2022. Most popular hashtags: #illustration #art #artist #painting.
 platform: Instagram
 hits: 373
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Austria In 2021
+title: Top 10 Beauty Instagram Influencers In Austria In 2022
 description: >-
-  Find top beauty Instagram influencers in Austria in 2021. Most popular hashtags: #lifestyle #autumnvibes #hairstyle.
+  Find top beauty Instagram influencers in Austria in 2022. Most popular hashtags: #lifestyle #autumnvibes #hairstyle.
 platform: Instagram
 hits: 423
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Berlin In 2021
+title: Top 10 Models Instagram Influencers In Berlin In 2022
 description: >-
-  Find top models Instagram influencers in Berlin in 2021. Most popular hashtags: #fashion #model #berlin #loveyourself.
+  Find top models Instagram influencers in Berlin in 2022. Most popular hashtags: #fashion #model #berlin #loveyourself.
 platform: Instagram
 hits: 550
 text_top: Discover the best Instagram accounts on inBeat.

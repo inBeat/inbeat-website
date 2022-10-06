@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Montreal In 2021
+title: Top 10 Yoga TikTok Influencers In Montreal In 2022
 description: >-
-  Find top yoga TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #foryoupage #foryou #yoga.
+  Find top yoga TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #foryoupage #foryou #yoga.
 platform: TikTok
 hits: 4
 text_top: See the top-rated TikTok influencers on inBeat.

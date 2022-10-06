@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United States In 2021
+title: Top 10 Cooking TikTok Influencers In United States In 2022
 description: >-
-  Find top cooking TikTok influencers in United States in 2021. Most popular hashtags: #duet #recipes #fyp.
+  Find top cooking TikTok influencers in United States in 2022. Most popular hashtags: #duet #recipes #fyp.
 platform: TikTok
 hits: 3401
 text_top: See the best TikTok influencers on inBeat.

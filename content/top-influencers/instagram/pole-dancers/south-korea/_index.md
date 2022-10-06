@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In South Korea In 2021
+title: Top 10 Pole Dancers Instagram Influencers In South Korea In 2022
 description: >-
-  Find top pole dancers Instagram influencers in South Korea in 2021. Most popular hashtags: #poledance #poledancer #pole #poledancing.
+  Find top pole dancers Instagram influencers in South Korea in 2022. Most popular hashtags: #poledance #poledancer #pole #poledancing.
 platform: Instagram
 hits: 10
 text_top: Discover the best Instagram profiles on inBeat.

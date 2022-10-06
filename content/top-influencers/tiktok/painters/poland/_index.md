@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Poland In 2021
+title: Top 10 Painters TikTok Influencers In Poland In 2022
 description: >-
-  Find top painters TikTok influencers in Poland in 2021. Most popular hashtags: #foryou #dlaciebie #artist #fashion.
+  Find top painters TikTok influencers in Poland in 2022. Most popular hashtags: #foryou #dlaciebie #artist #fashion.
 platform: TikTok
 hits: 8
 text_top: Discover the most popular TikTok profiles on inBeat.

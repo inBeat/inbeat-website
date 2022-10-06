@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In France In 2021
+title: Top 10 Dancers TikTok Influencers In France In 2022
 description: >-
-  Find top dancers TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #fyp #foryou #dance.
+  Find top dancers TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #fyp #foryou #dance.
 platform: TikTok
 hits: 62
 text_top: Discover the most popular TikTok influencers on inBeat.

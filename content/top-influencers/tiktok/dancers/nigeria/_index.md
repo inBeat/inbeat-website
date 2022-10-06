@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Nigeria In 2021
+title: Top 10 Dancers TikTok Influencers In Nigeria In 2022
 description: >-
-  Find top dancers TikTok influencers in Nigeria in 2021. Most popular hashtags: #dance #tiktok #fyp #foryoupage.
+  Find top dancers TikTok influencers in Nigeria in 2022. Most popular hashtags: #dance #tiktok #fyp #foryoupage.
 platform: TikTok
 hits: 8
 text_top: Discover the best TikTok influencers on inBeat.

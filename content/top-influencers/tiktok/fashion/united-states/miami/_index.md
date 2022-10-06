@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Miami In 2021
+title: Top 10 Fashion TikTok Influencers In Miami In 2022
 description: >-
-  Find top fashion TikTok influencers in Miami in 2021. Most popular hashtags: #miami #fashion #makeup #fyp.
+  Find top fashion TikTok influencers in Miami in 2022. Most popular hashtags: #miami #fashion #makeup #fyp.
 platform: TikTok
 hits: 91
 text_top: Discover the best TikTok accounts on inBeat.

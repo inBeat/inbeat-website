@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Barbers Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top barbers Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #mydubai #dubailife #uae.
+  Find top barbers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #dubailife #uae.
 platform: Instagram
 hits: 9
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Sydney In 2021
+title: Top 10 Health Instagram Influencers In Sydney In 2022
 description: >-
-  Find top health Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #health #fitness.
+  Find top health Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #health #fitness.
 platform: Instagram
 hits: 85
 text_top: Identify the best Instagram accounts on inBeat.
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.031538
     id: ck5qaw04diji00i11jz9sz3wy
     verified: true
-    hashtags: "#deepdownunder, #throwback, #madeitadate, #allpail2021"
+    hashtags: "#deepdownunder, #throwback, #madeitadate, #allpail2022"
   - username: "taizetaylor"
     fullname: >-
       Taize Taylor

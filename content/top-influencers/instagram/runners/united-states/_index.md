@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In United States In 2021
+title: Top 10 Runners Instagram Influencers In United States In 2022
 description: >-
-  Find top runners Instagram influencers in United States in 2021. Most popular hashtags: #trailrunning #makeup #quarantinelife.
+  Find top runners Instagram influencers in United States in 2022. Most popular hashtags: #trailrunning #makeup #quarantinelife.
 platform: Instagram
 hits: 1023
 text_top: Identify the most popular Instagram profiles on inBeat.

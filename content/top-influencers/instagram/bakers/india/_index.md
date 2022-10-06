@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In India In 2021
+title: Top 10 Bakers Instagram Influencers In India In 2022
 description: >-
-  Find top bakers Instagram influencers in India in 2021. Most popular hashtags: #instagram #love #chocolate #nagpuritadka.
+  Find top bakers Instagram influencers in India in 2022. Most popular hashtags: #instagram #love #chocolate #nagpuritadka.
 platform: Instagram
 hits: 1375
 text_top: Identify the top-rated Instagram accounts on inBeat.

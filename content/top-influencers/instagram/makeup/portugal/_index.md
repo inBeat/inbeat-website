@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Portugal In 2021
+title: Top 10 Makeup Instagram Influencers In Portugal In 2022
 description: >-
-  Find top makeup Instagram influencers in Portugal in 2021. Most popular hashtags: #makeup #makeupartist #halloween #makeuptutorial.
+  Find top makeup Instagram influencers in Portugal in 2022. Most popular hashtags: #makeup #makeupartist #halloween #makeuptutorial.
 platform: Instagram
 hits: 135
 text_top: See the top-rated Instagram accounts on inBeat.

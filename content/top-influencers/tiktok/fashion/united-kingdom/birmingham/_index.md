@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Birmingham In 2021
+title: Top 10 Fashion TikTok Influencers In Birmingham In 2022
 description: >-
-  Find top fashion TikTok influencers in Birmingham in 2021. Most popular hashtags: #fyp #fashion #foryou #foryoupage.
+  Find top fashion TikTok influencers in Birmingham in 2022. Most popular hashtags: #fyp #fashion #foryou #foryoupage.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Denver In 2021
+title: Top 10 Beauty Instagram Influencers In Denver In 2022
 description: >-
-  Find top beauty Instagram influencers in Denver in 2021. Most popular hashtags: #denver #beauty #colorado.
+  Find top beauty Instagram influencers in Denver in 2022. Most popular hashtags: #denver #beauty #colorado.
 platform: Instagram
 hits: 53
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Miami In 2021
+title: Top 10 Home Decor Instagram Influencers In Miami In 2022
 description: >-
-  Find top home decor Instagram influencers in Miami in 2021. Most popular hashtags: #miami #homedecor #travel #florida.
+  Find top home decor Instagram influencers in Miami in 2022. Most popular hashtags: #miami #homedecor #travel #florida.
 platform: Instagram
 hits: 66
 text_top: See the most popular Instagram accounts on inBeat.

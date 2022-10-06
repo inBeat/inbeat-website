@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In India In 2021
+title: Top 10 Yoga Instagram Influencers In India In 2022
 description: >-
-  Find top yoga Instagram influencers in India in 2021. Most popular hashtags: #yoga #ad #yogaeveryday #instayoga.
+  Find top yoga Instagram influencers in India in 2022. Most popular hashtags: #yoga #ad #yogaeveryday #instayoga.
 platform: Instagram
 hits: 603
 text_top: Identify the most popular Instagram influencers on inBeat.

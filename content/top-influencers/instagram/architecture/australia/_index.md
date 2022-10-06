@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Australia In 2021
+title: Top 10 Architecture Instagram Influencers In Australia In 2022
 description: >-
-  Find top architecture Instagram influencers in Australia in 2021. Most popular hashtags: #architecture #ig #citygrammers.
+  Find top architecture Instagram influencers in Australia in 2022. Most popular hashtags: #architecture #ig #citygrammers.
 platform: Instagram
 hits: 197
 text_top: See the best Instagram profiles on inBeat.

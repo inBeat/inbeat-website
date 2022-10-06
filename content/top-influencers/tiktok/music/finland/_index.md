@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Finland In 2021
+title: Top 10 Music TikTok Influencers In Finland In 2022
 description: >-
-  Find top music TikTok influencers in Finland in 2021. Most popular hashtags: #fyp #fry #foryou #foryoupage.
+  Find top music TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #fry #foryou #foryoupage.
 platform: TikTok
 hits: 19
 text_top: Discover the top-rated TikTok profiles on inBeat.

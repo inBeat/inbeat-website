@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In 2021
+title: Top 10 Illustrators Instagram Influencers In 2022
 description: >-
-  Find top illustrators Instagram influencers in 2021. Most popular hashtags: #illustration #digitalart #corona.
+  Find top illustrators Instagram influencers in 2022. Most popular hashtags: #illustration #digitalart #corona.
 platform: Instagram
 hits: 5975
 text_top: Identify the most popular Instagram accounts on inBeat.

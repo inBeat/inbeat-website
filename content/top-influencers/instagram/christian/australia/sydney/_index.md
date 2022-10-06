@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Sydney In 2021
+title: Top 10 Christian Instagram Influencers In Sydney In 2022
 description: >-
-  Find top christian Instagram influencers in Sydney in 2021. Most popular hashtags: #love #australia #photoshoot.
+  Find top christian Instagram influencers in Sydney in 2022. Most popular hashtags: #love #australia #photoshoot.
 platform: Instagram
 hits: 6
 text_top: See the most popular Instagram influencers on inBeat.

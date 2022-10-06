@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Phoenix In 2021
+title: Top 10 Photographers Instagram Influencers In Phoenix In 2022
 description: >-
-  Find top photographers Instagram influencers in Phoenix in 2021. Most popular hashtags: #phoenix #phx #photographer.
+  Find top photographers Instagram influencers in Phoenix in 2022. Most popular hashtags: #phoenix #phx #photographer.
 platform: Instagram
 hits: 81
 text_top: Analyze the top-rated Instagram accounts on inBeat.

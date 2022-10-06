@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Colombia In 2021
+title: Top 10 Fitness Instagram Influencers In Colombia In 2022
 description: >-
-  Find top fitness Instagram influencers in Colombia in 2021. Most popular hashtags: #fitnesslifestyle #fitness #tbt.
+  Find top fitness Instagram influencers in Colombia in 2022. Most popular hashtags: #fitnesslifestyle #fitness #tbt.
 platform: Instagram
 hits: 255
 text_top: See the top-rated Instagram accounts on inBeat.

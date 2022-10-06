@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Los Angeles In 2021
+title: Top 10 Gardening Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top gardening Instagram influencers in Los Angeles in 2021. Most popular hashtags: #gardening #losangeles #garden #quarantine.
+  Find top gardening Instagram influencers in Los Angeles in 2022. Most popular hashtags: #gardening #losangeles #garden #quarantine.
 platform: Instagram
 hits: 25
 text_top: See the top-rated Instagram profiles on inBeat.

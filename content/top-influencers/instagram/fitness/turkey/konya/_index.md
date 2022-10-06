@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Konya In 2021
+title: Top 10 Fitness Instagram Influencers In Konya In 2022
 description: >-
-  Find top fitness Instagram influencers in Konya in 2021. Most popular hashtags: #fitness #istanbul #fitnessmotivation #konya.
+  Find top fitness Instagram influencers in Konya in 2022. Most popular hashtags: #fitness #istanbul #fitnessmotivation #konya.
 platform: Instagram
 hits: 5
 text_top: See the best Instagram influencers on inBeat.

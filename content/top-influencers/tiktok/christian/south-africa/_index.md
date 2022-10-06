@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In South Africa In 2021
+title: Top 10 Christian TikTok Influencers In South Africa In 2022
 description: >-
-  Find top christian TikTok influencers in South Africa in 2021. Most popular hashtags: #christian #fyp #jesus #foryou.
+  Find top christian TikTok influencers in South Africa in 2022. Most popular hashtags: #christian #fyp #jesus #foryou.
 platform: TikTok
 hits: 41
 text_top: Analyze the best TikTok influencers on inBeat.

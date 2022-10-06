@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Los Angeles In 2021
+title: Top 10 Home Decor TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top home decor TikTok influencers in Los Angeles in 2021. Most popular hashtags: #fyp #homedecor #losangeles #foryou.
+  Find top home decor TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #homedecor #losangeles #foryou.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok accounts on inBeat.

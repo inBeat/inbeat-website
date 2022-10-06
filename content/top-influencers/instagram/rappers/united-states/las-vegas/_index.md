@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Las Vegas In 2021
+title: Top 10 Rappers Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top rappers Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #music #vegas #rapper.
+  Find top rappers Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #music #vegas #rapper.
 platform: Instagram
 hits: 21
 text_top: Identify the top-rated Instagram accounts on inBeat.

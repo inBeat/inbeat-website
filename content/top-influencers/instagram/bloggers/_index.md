@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In 2021
+title: Top 10 Bloggers Instagram Influencers In 2022
 description: >-
-  Find top bloggers Instagram influencers in 2021. Most popular hashtags: #ad #travel #photography.
+  Find top bloggers Instagram influencers in 2022. Most popular hashtags: #ad #travel #photography.
 platform: Instagram
 hits: 32630
 text_top: See the top-rated Instagram influencers on inBeat.

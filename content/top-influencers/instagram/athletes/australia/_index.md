@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Australia In 2021
+title: Top 10 Athletes Instagram Influencers In Australia In 2022
 description: >-
-  Find top athletes Instagram influencers in Australia in 2021. Most popular hashtags: #style #swimmingmotivation #calisthenicstraining.
+  Find top athletes Instagram influencers in Australia in 2022. Most popular hashtags: #style #swimmingmotivation #calisthenicstraining.
 platform: Instagram
 hits: 270
 text_top: See the top-rated Instagram accounts on inBeat.

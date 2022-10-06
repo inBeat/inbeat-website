@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists TikTok Influencers In 2021
+title: Top 10 Performing Artists TikTok Influencers In 2022
 description: >-
-  Find top performing artists TikTok influencers in 2021. Most popular hashtags: #foryoupage #dancer #duet #love.
+  Find top performing artists TikTok influencers in 2022. Most popular hashtags: #foryoupage #dancer #duet #love.
 platform: TikTok
 hits: 3
 text_top: Analyze the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Melbourne In 2021
+title: Top 10 Beauty Instagram Influencers In Melbourne In 2022
 description: >-
-  Find top beauty Instagram influencers in Melbourne in 2021. Most popular hashtags: #beauty #modellife #melbourne.
+  Find top beauty Instagram influencers in Melbourne in 2022. Most popular hashtags: #beauty #modellife #melbourne.
 platform: Instagram
 hits: 119
 text_top: Identify the most popular Instagram profiles on inBeat.

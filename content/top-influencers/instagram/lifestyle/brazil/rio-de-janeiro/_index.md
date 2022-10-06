@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Rio De Janeiro In 2021
+title: Top 10 Lifestyle Instagram Influencers In Rio De Janeiro In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Rio De Janeiro in 2021. Most popular hashtags: #sunday #goodvibes #domingo #beach.
+  Find top lifestyle Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #sunday #goodvibes #domingo #beach.
 platform: Instagram
 hits: 74
 text_top: See the top-rated Instagram profiles on inBeat.

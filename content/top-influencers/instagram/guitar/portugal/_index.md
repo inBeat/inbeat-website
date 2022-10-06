@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Portugal In 2021
+title: Top 10 Guitar Instagram Influencers In Portugal In 2022
 description: >-
-  Find top guitar Instagram influencers in Portugal in 2021. Most popular hashtags: #music #guitar #photography.
+  Find top guitar Instagram influencers in Portugal in 2022. Most popular hashtags: #music #guitar #photography.
 platform: Instagram
 hits: 20
 text_top: Discover the most popular Instagram profiles on inBeat.

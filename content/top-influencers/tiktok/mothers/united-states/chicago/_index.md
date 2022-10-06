@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Chicago In 2021
+title: Top 10 Mothers TikTok Influencers In Chicago In 2022
 description: >-
-  Find top mothers TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #chicago #foryoupage #duet.
+  Find top mothers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #foryoupage #duet.
 platform: TikTok
 hits: 11
 text_top: See the most popular TikTok influencers on inBeat.

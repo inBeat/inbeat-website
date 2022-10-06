@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Dallas In 2021
+title: Top 10 Models TikTok Influencers In Dallas In 2022
 description: >-
-  Find top models TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #model #dallas #foryou.
+  Find top models TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #model #dallas #foryou.
 platform: TikTok
 hits: 27
 text_top: See the most popular TikTok profiles on inBeat.

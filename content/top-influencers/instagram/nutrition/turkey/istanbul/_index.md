@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Istanbul In 2021
+title: Top 10 Nutrition Instagram Influencers In Istanbul In 2022
 description: >-
-  Find top nutrition Instagram influencers in Istanbul in 2021. Most popular hashtags: #istanbul #nutrition #healthyfood #instagram.
+  Find top nutrition Instagram influencers in Istanbul in 2022. Most popular hashtags: #istanbul #nutrition #healthyfood #instagram.
 platform: Instagram
 hits: 12
 text_top: Analyze the best Instagram profiles on inBeat.

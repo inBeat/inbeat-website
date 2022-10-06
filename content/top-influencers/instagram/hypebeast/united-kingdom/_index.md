@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In United Kingdom In 2021
+title: Top 10 Hypebeast Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top hypebeast Instagram influencers in United Kingdom in 2021. Most popular hashtags: #hypebeast #streetwear #streetstyle.
+  Find top hypebeast Instagram influencers in United Kingdom in 2022. Most popular hashtags: #hypebeast #streetwear #streetstyle.
 platform: Instagram
 hits: 137
 text_top: See the top-rated Instagram profiles on inBeat.

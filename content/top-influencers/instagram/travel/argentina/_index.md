@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Argentina In 2021
+title: Top 10 Travel Instagram Influencers In Argentina In 2022
 description: >-
-  Find top travel Instagram influencers in Argentina in 2021. Most popular hashtags: #photography #travel #tbt.
+  Find top travel Instagram influencers in Argentina in 2022. Most popular hashtags: #photography #travel #tbt.
 platform: Instagram
 hits: 400
 text_top: Identify the best Instagram profiles on inBeat.

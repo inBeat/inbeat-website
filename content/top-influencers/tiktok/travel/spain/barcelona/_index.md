@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Barcelona In 2021
+title: Top 10 Travel TikTok Influencers In Barcelona In 2022
 description: >-
-  Find top travel TikTok influencers in Barcelona in 2021. Most popular hashtags: #barcelona #travel #fyp #foryou.
+  Find top travel TikTok influencers in Barcelona in 2022. Most popular hashtags: #barcelona #travel #fyp #foryou.
 platform: TikTok
 hits: 14
 text_top: Analyze the best TikTok accounts on inBeat.

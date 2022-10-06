@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In London In 2021
+title: Top 10 Beauty Instagram Influencers In London In 2022
 description: >-
-  Find top beauty Instagram influencers in London in 2021. Most popular hashtags: #beauty #london #beautiful #model.
+  Find top beauty Instagram influencers in London in 2022. Most popular hashtags: #beauty #london #beautiful #model.
 platform: Instagram
 hits: 808
 text_top: Analyze the most popular Instagram influencers on inBeat.

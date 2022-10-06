@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Malaysia In 2021
+title: Top 10 Illustrators Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top illustrators Instagram influencers in Malaysia in 2021. Most popular hashtags: #illustration #illustrator #art #drawing.
+  Find top illustrators Instagram influencers in Malaysia in 2022. Most popular hashtags: #illustration #illustrator #art #drawing.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram influencers on inBeat.

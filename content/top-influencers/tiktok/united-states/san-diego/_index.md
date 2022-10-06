@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In San Diego In 2021
+title: Top 10 TikTok Influencers In San Diego In 2022
 description: >-
-  Find top TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #foryou #greenscreen.
+  Find top TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #foryou #greenscreen.
 platform: TikTok
 hits: 505
 text_top: Identify the most popular TikTok profiles on inBeat.

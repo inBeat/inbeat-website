@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Venezuela In 2021
+title: Top 10 Runners Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top runners Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #model #runner.
+  Find top runners Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #model #runner.
 platform: Instagram
 hits: 12
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       Olga Purroy
     bio: >-
-      •Madre y Esposa 👨‍👩‍👧‍👦 •Ciclista de Pista y Ruta🚵 •Triatleta 🏊🚴🏃 • #roadtokona2021 🌺 Team @trespinas 👇Diplomado Inteligencia Mental Deportiva 👇
+      •Madre y Esposa 👨‍👩‍👧‍👦 •Ciclista de Pista y Ruta🚵 •Triatleta 🏊🚴🏃 • #roadtokona2022 🌺 Team @trespinas 👇Diplomado Inteligencia Mental Deportiva 👇
     location: "Venezuela"
     followers: 10989
     engagement: 612

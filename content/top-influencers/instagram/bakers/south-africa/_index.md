@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In South Africa In 2021
+title: Top 10 Bakers Instagram Influencers In South Africa In 2022
 description: >-
-  Find top bakers Instagram influencers in South Africa in 2021. Most popular hashtags: #ad #capetown #photography.
+  Find top bakers Instagram influencers in South Africa in 2022. Most popular hashtags: #ad #capetown #photography.
 platform: Instagram
 hits: 21
 text_top: Identify the best Instagram accounts on inBeat.

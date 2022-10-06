@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Brazil In 2021
+title: Top 10 Bmx Instagram Influencers In Brazil In 2022
 description: >-
-  Find top bmx Instagram influencers in Brazil in 2021. Most popular hashtags: #bmx #bmxstreet #bmxfamily.
+  Find top bmx Instagram influencers in Brazil in 2022. Most popular hashtags: #bmx #bmxstreet #bmxfamily.
 platform: Instagram
 hits: 50
 text_top: Identify the best Instagram influencers on inBeat.

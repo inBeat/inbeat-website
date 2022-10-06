@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Belgium In 2021
+title: Top 10 Dancers Instagram Influencers In Belgium In 2022
 description: >-
-  Find top dancers Instagram influencers in Belgium in 2021. Most popular hashtags: #dance #dancer #love #model.
+  Find top dancers Instagram influencers in Belgium in 2022. Most popular hashtags: #dance #dancer #love #model.
 platform: Instagram
 hits: 41
 text_top: See the best Instagram profiles on inBeat.

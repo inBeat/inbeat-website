@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Canada In 2021
+title: Top 10 Guitar Instagram Influencers In Canada In 2022
 description: >-
-  Find top guitar Instagram influencers in Canada in 2021. Most popular hashtags: #guitar #guitarist #music #guitarplayer.
+  Find top guitar Instagram influencers in Canada in 2022. Most popular hashtags: #guitar #guitarist #music #guitarplayer.
 platform: Instagram
 hits: 86
 text_top: Analyze the top-rated Instagram influencers on inBeat.

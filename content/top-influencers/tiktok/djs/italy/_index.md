@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs TikTok Influencers In Italy In 2021
+title: Top 10 Djs TikTok Influencers In Italy In 2022
 description: >-
-  Find top djs TikTok influencers in Italy in 2021. Most popular hashtags: #viral #perte #neiperte #duetto.
+  Find top djs TikTok influencers in Italy in 2022. Most popular hashtags: #viral #perte #neiperte #duetto.
 platform: TikTok
 hits: 9
 text_top: See the most popular TikTok profiles on inBeat.

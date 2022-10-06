@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Austria In 2021
+title: Top 10 Instagram Influencers In Austria In 2022
 description: >-
-  Find top Instagram influencers in Austria in 2021. Most popular hashtags: #austria #ootd #love.
+  Find top Instagram influencers in Austria in 2022. Most popular hashtags: #austria #ootd #love.
 platform: Instagram
 hits: 1811
 text_top: Analyze the most popular Instagram profiles on inBeat.

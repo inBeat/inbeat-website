@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Belgium In 2021
+title: Top 10 Vegan Instagram Influencers In Belgium In 2022
 description: >-
-  Find top vegan Instagram influencers in Belgium in 2021. Most popular hashtags: #vegan #belgium #plantbased.
+  Find top vegan Instagram influencers in Belgium in 2022. Most popular hashtags: #vegan #belgium #plantbased.
 platform: Instagram
 hits: 35
 text_top: See the most popular Instagram influencers on inBeat.

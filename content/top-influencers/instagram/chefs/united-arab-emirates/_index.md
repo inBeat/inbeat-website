@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Chefs Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top chefs Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #food #cheflife #foodporn #instagood.
+  Find top chefs Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #food #cheflife #foodporn #instagood.
 platform: Instagram
 hits: 41
 text_top: Analyze the most popular Instagram profiles on inBeat.

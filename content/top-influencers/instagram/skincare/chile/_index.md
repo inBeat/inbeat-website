@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Chile In 2021
+title: Top 10 Skincare Instagram Influencers In Chile In 2022
 description: >-
-  Find top skincare Instagram influencers in Chile in 2021. Most popular hashtags: #skincare #makeup #chile #makeupchile.
+  Find top skincare Instagram influencers in Chile in 2022. Most popular hashtags: #skincare #makeup #chile #makeupchile.
 platform: Instagram
 hits: 41
 text_top: Discover the best Instagram influencers on inBeat.

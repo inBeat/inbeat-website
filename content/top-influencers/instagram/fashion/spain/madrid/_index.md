@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Madrid In 2021
+title: Top 10 Fashion Instagram Influencers In Madrid In 2022
 description: >-
-  Find top fashion Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #fashion #moda #style.
+  Find top fashion Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #fashion #moda #style.
 platform: Instagram
 hits: 336
 text_top: Discover the best Instagram profiles on inBeat.
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.044143
     id: ck5c04wqlsgew0i11kt3e39yf
     verified: false
-    hashtags: "#coleccion2021, #weddingdress, #modaespa, #amedida"
+    hashtags: "#coleccion2022, #weddingdress, #modaespa, #amedida"
   - username: "kattydacosta"
     fullname: >-
       Katherin Da Costa

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Chicago In 2021
+title: Top 10 Travel Instagram Influencers In Chicago In 2022
 description: >-
-  Find top travel Instagram influencers in Chicago in 2021. Most popular hashtags: #chicago #travel #fallvibes #globetrotter.
+  Find top travel Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #travel #fallvibes #globetrotter.
 platform: Instagram
 hits: 349
 text_top: Analyze the top-rated Instagram profiles on inBeat.

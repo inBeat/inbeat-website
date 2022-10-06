@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Berlin In 2021
+title: Top 10 Home Decor Instagram Influencers In Berlin In 2022
 description: >-
-  Find top home decor Instagram influencers in Berlin in 2021. Most popular hashtags: #homedecor #berlin #ootd #interiordesign.
+  Find top home decor Instagram influencers in Berlin in 2022. Most popular hashtags: #homedecor #berlin #ootd #interiordesign.
 platform: Instagram
 hits: 63
 text_top: See the top-rated Instagram influencers on inBeat.

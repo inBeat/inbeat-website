@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Colombia In 2021
+title: Top 10 Illustrators Instagram Influencers In Colombia In 2022
 description: >-
-  Find top illustrators Instagram influencers in Colombia in 2021. Most popular hashtags: #illustration #illustrationartists #digitalillustration #procreate.
+  Find top illustrators Instagram influencers in Colombia in 2022. Most popular hashtags: #illustration #illustrationartists #digitalillustration #procreate.
 platform: Instagram
 hits: 23
 text_top: Analyze the top-rated Instagram profiles on inBeat.

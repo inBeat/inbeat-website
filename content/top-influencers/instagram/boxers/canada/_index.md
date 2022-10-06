@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Canada In 2021
+title: Top 10 Boxers Instagram Influencers In Canada In 2022
 description: >-
-  Find top boxers Instagram influencers in Canada in 2021. Most popular hashtags: #boxing #canada #boxer #montreal.
+  Find top boxers Instagram influencers in Canada in 2022. Most popular hashtags: #boxing #canada #boxer #montreal.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram profiles on inBeat.

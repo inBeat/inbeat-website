@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Colombia In 2021
+title: Top 10 Outdoors Instagram Influencers In Colombia In 2022
 description: >-
-  Find top outdoors Instagram influencers in Colombia in 2021. Most popular hashtags: #outdoors #travel #colombia #adventure.
+  Find top outdoors Instagram influencers in Colombia in 2022. Most popular hashtags: #outdoors #travel #colombia #adventure.
 platform: Instagram
 hits: 23
 text_top: Discover the most popular Instagram accounts on inBeat.

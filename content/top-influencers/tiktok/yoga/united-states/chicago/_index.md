@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Chicago In 2021
+title: Top 10 Yoga TikTok Influencers In Chicago In 2022
 description: >-
-  Find top yoga TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #duet #foryoupage #yoga.
+  Find top yoga TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #duet #foryoupage #yoga.
 platform: TikTok
 hits: 7
 text_top: Discover the top-rated TikTok influencers on inBeat.

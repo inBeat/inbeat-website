@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Italy In 2021
+title: Top 10 Vegan TikTok Influencers In Italy In 2022
 description: >-
-  Find top vegan TikTok influencers in Italy in 2021. Most popular hashtags: #perte #foryou #neiperte #vegan.
+  Find top vegan TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #neiperte #vegan.
 platform: TikTok
 hits: 47
 text_top: Analyze the top-rated TikTok influencers on inBeat.

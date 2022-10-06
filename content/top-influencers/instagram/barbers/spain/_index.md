@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Spain In 2021
+title: Top 10 Barbers Instagram Influencers In Spain In 2022
 description: >-
-  Find top barbers Instagram influencers in Spain in 2021. Most popular hashtags: #barbershop #barbero #beard #barber.
+  Find top barbers Instagram influencers in Spain in 2022. Most popular hashtags: #barbershop #barbero #beard #barber.
 platform: Instagram
 hits: 94
 text_top: Identify the most popular Instagram profiles on inBeat.

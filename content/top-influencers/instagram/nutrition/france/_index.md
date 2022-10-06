@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In France In 2021
+title: Top 10 Nutrition Instagram Influencers In France In 2022
 description: >-
-  Find top nutrition Instagram influencers in France in 2021. Most popular hashtags: #picoftheday #fitness #workout #motivation.
+  Find top nutrition Instagram influencers in France in 2022. Most popular hashtags: #picoftheday #fitness #workout #motivation.
 platform: Instagram
 hits: 280
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.077492
     id: ck9hb4x22feur0j78vzk1sjgn
     verified: false
-    hashtags: "#roadto2021, #fit, #fitnessaddict, #motivation"
+    hashtags: "#roadto2022, #fit, #fitnessaddict, #motivation"
 ---

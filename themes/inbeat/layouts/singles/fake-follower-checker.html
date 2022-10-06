@@ -36,16 +36,16 @@
         {{- end -}}
 
         <div id="skeleton-loader" class="ffc-loader card row section "  v-if="loading">
-            <div class="loading-bar--container">
-                <div class="loading-bar">
-                    <div> <p class="text">Fetching Profile</p></div>
-                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
-                </div>
-            </div>
             <div class="col-md-6  col-xs-12 margin-top">
                 <div class="loader-circle--medium loader-center"></div>
-                <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div>
+                <!-- <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div> -->
+                <!-- <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div> -->
+                <div class="loading-bar--container">
+                    <div class="loading-bar">
+                        <div> <p class="text">Fetching Profile</p></div>
+                        <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
+                    </div>
+                </div>
                 <br><br>
                 <div class="row">
                     <div class="col-xs-12"><div class="loader-square--medium"></div></div>
@@ -220,7 +220,7 @@
         </transition>
     </section>
 </div>
-{{- partial "site/whatwedo.html" . -}}
+{{- partial "site/ugc-global.html" . -}}
 
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.fake_follower_checker "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
@@ -384,11 +384,11 @@
                 this.loading = true;
                 var _this = this;
               window.grecaptcha.ready(() => {
+                document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
                 window.grecaptcha.execute('{{- getenv "GOOGLE_RECAPTCHA_KEY" -}}', {action: 'submit'}).then(function (token) {
                   var request = new XMLHttpRequest();
                   request.open('POST', '{{ $endpointUrl | safeJS }}', true);
                   request.setRequestHeader('Content-Type', 'application/json');
-
                   request.onload = function () {
                     if (!request.status || request.status !== 200) {
                       if (request.status === 429) {
@@ -402,18 +402,19 @@
                       _this.loading = false;
                       return
                     }
-                    document.getElementById("progress").style.width = Math.floor(Math.random() * (50 - 20 + 1)) + 20 + '%';
+                    document.getElementById("progress").style.width = 100 + "%";
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
+                    if(Math.abs(_this.user.comments_per_likes) > 1){
+                        _this.user.comments_per_likes = Math.abs(_this.user.comments_per_likes) / 100;
+                    }
+                    _this.user.comments_per_likes = _this.clamp(_this.user.comments_per_likes, 0, 1);
                     _this.posts = res.posts;
                     _this.labels.xLabels = res.posts.map((_, i) => i + 1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.getFirstData = true;
-
-                    setTimeout(() => {
-                      document.getElementById("progress").style.width = 100 + "%";
                       setTimeout(() => {
                         _this.loading = false;
                         _this.setTargetMetric();
@@ -422,8 +423,7 @@
                         _this.audienceScoreTag = _this.userScore().tag
                         _this.audienceScoreClass = _this.userScore().tagClass
                         _this.arcStyle = _this.describeArc(150, 160, 125, 0, _this.remap(_this.audienceScore * 10, 0, 100, 0, 180));
-                      }, 1000);
-                    }, 2000);
+                      }, 500);
                   };
                   request.onerror = function () {
                     console.log(request.response);

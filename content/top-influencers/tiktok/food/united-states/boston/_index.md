@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Boston In 2021
+title: Top 10 Food TikTok Influencers In Boston In 2022
 description: >-
-  Find top food TikTok influencers in Boston in 2021. Most popular hashtags: #fyp #boston #food #foryoupage.
+  Find top food TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #boston #food #foryoupage.
 platform: TikTok
 hits: 64
 text_top: Analyze the best TikTok accounts on inBeat.

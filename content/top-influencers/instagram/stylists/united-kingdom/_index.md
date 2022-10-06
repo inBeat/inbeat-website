@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In United Kingdom In 2021
+title: Top 10 Stylists Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top stylists Instagram influencers in United Kingdom in 2021. Most popular hashtags: #ad #styleinspo #stylist.
+  Find top stylists Instagram influencers in United Kingdom in 2022. Most popular hashtags: #ad #styleinspo #stylist.
 platform: Instagram
 hits: 724
 text_top: Analyze the top-rated Instagram influencers on inBeat.

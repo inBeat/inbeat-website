@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Singapore In 2021
+title: Top 10 Makeup TikTok Influencers In Singapore In 2022
 description: >-
-  Find top makeup TikTok influencers in Singapore in 2021. Most popular hashtags: #tiktoksg #makeup #fyp #singapore.
+  Find top makeup TikTok influencers in Singapore in 2022. Most popular hashtags: #tiktoksg #makeup #fyp #singapore.
 platform: TikTok
 hits: 17
 text_top: Analyze the best TikTok profiles on inBeat.

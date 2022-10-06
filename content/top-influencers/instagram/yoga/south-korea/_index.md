@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In South Korea In 2021
+title: Top 10 Yoga Instagram Influencers In South Korea In 2022
 description: >-
-  Find top yoga Instagram influencers in South Korea in 2021. Most popular hashtags: #ootd #yoga #portrait.
+  Find top yoga Instagram influencers in South Korea in 2022. Most popular hashtags: #ootd #yoga #portrait.
 platform: Instagram
 hits: 22
 text_top: Analyze the top-rated Instagram profiles on inBeat.

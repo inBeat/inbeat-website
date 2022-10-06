@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In United States In 2021
+title: Top 10 Fashion Instagram Influencers In United States In 2022
 description: >-
-  Find top fashion Instagram influencers in United States in 2021. Most popular hashtags: #fashionblogger #ootdfashion #ltksalealert.
+  Find top fashion Instagram influencers in United States in 2022. Most popular hashtags: #fashionblogger #ootdfashion #ltksalealert.
 platform: Instagram
 hits: 27066
 text_top: Identify the best Instagram accounts on inBeat.

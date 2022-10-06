@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Barcelona In 2021
+title: Top 10 Hypebeast Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Barcelona in 2021. Most popular hashtags: #hypebeast #barcelona #spain #madrid.
+  Find top hypebeast Instagram influencers in Barcelona in 2022. Most popular hashtags: #hypebeast #barcelona #spain #madrid.
 platform: Instagram
 hits: 7
 text_top: Discover the top-rated Instagram influencers on inBeat.

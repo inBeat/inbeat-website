@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In South Africa In 2021
+title: Top 10 Gaming TikTok Influencers In South Africa In 2022
 description: >-
-  Find top gaming TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #gaming #foryou #funny.
+  Find top gaming TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #gaming #foryou #funny.
 platform: TikTok
 hits: 31
 text_top: Identify the best TikTok influencers on inBeat.

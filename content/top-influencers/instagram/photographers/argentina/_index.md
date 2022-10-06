@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Argentina In 2021
+title: Top 10 Photographers Instagram Influencers In Argentina In 2022
 description: >-
-  Find top photographers Instagram influencers in Argentina in 2021. Most popular hashtags: #portrait #argentina #modelo.
+  Find top photographers Instagram influencers in Argentina in 2022. Most popular hashtags: #portrait #argentina #modelo.
 platform: Instagram
 hits: 162
 text_top: Analyze the top-rated Instagram influencers on inBeat.

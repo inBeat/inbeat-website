@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Diego In 2021
+title: Top 10 Fitness TikTok Influencers In San Diego In 2022
 description: >-
-  Find top fitness TikTok influencers in San Diego in 2021. Most popular hashtags: #fyp #fitness #sandiego #foryou.
+  Find top fitness TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #fitness #sandiego #foryou.
 platform: TikTok
 hits: 38
 text_top: Analyze the most popular TikTok accounts on inBeat.

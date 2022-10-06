@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Barcelona In 2021
+title: Top 10 Models TikTok Influencers In Barcelona In 2022
 description: >-
-  Find top models TikTok influencers in Barcelona in 2021. Most popular hashtags: #fyp #parati #model #foryou.
+  Find top models TikTok influencers in Barcelona in 2022. Most popular hashtags: #fyp #parati #model #foryou.
 platform: TikTok
 hits: 11
 text_top: Identify the best TikTok profiles on inBeat.

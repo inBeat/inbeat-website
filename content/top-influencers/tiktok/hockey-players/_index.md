@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hockey Players TikTok Influencers In 2021
+title: Top 10 Hockey Players TikTok Influencers In 2022
 description: >-
-  Find top hockey players TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #foryoupage #hockey.
+  Find top hockey players TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #foryoupage #hockey.
 platform: TikTok
 hits: 20
 text_top: See the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2021
+title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2022
 description: >-
-  Find top graphic-designers TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #duet #graphicdesign #foryoupage.
+  Find top graphic-designers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #duet #graphicdesign #foryoupage.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok influencers on inBeat.

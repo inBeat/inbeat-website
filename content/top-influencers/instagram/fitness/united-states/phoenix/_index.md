@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Phoenix In 2021
+title: Top 10 Fitness Instagram Influencers In Phoenix In 2022
 description: >-
-  Find top fitness Instagram influencers in Phoenix in 2021. Most popular hashtags: #fitness #phoenix #arizona #fitfam.
+  Find top fitness Instagram influencers in Phoenix in 2022. Most popular hashtags: #fitness #phoenix #arizona #fitfam.
 platform: Instagram
 hits: 90
 text_top: Analyze the best Instagram influencers on inBeat.

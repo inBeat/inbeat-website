@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In 2021
+title: Top 10 Painters TikTok Influencers In 2022
 description: >-
-  Find top painters TikTok influencers in 2021. Most popular hashtags: #fyp #oilpainting #painting.
+  Find top painters TikTok influencers in 2022. Most popular hashtags: #fyp #oilpainting #painting.
 platform: TikTok
 hits: 1484
 text_top: Identify the top-rated TikTok profiles on inBeat.

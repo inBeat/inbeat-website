@@ -1,6 +1,5 @@
 #tooltip-element {
   &.is-relative{
-    position: relative;
     .tooltip{
       top: calc(100% + 0.5rem);
     }

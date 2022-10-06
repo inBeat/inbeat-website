@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Morocco In 2021
+title: Top 10 Fashion TikTok Influencers In Morocco In 2022
 description: >-
-  Find top fashion TikTok influencers in Morocco in 2021. Most popular hashtags: #fashion #challenge #morocco #love.
+  Find top fashion TikTok influencers in Morocco in 2022. Most popular hashtags: #fashion #challenge #morocco #love.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok profiles on inBeat.

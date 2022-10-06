@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Kyoto In 2021
+title: Top 10 Yoga Instagram Influencers In Kyoto In 2022
 description: >-
-  Find top yoga Instagram influencers in Kyoto in 2021. Most popular hashtags: #yoga #japan #ootd #kyoto.
+  Find top yoga Instagram influencers in Kyoto in 2022. Most popular hashtags: #yoga #japan #ootd #kyoto.
 platform: Instagram
 hits: 7
 text_top: Discover the top-rated Instagram influencers on inBeat.

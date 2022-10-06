@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Canada In 2021
+title: Top 10 Comedians TikTok Influencers In Canada In 2022
 description: >-
-  Find top comedians TikTok influencers in Canada in 2021. Most popular hashtags: #comedy #duet #funny #fyp.
+  Find top comedians TikTok influencers in Canada in 2022. Most popular hashtags: #comedy #duet #funny #fyp.
 platform: TikTok
 hits: 60
 text_top: See the top-rated TikTok influencers on inBeat.

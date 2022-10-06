@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In France In 2021
+title: Top 10 Gymnasts TikTok Influencers In France In 2022
 description: >-
-  Find top gymnasts TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #gym #fyp.
+  Find top gymnasts TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #gym #fyp.
 platform: TikTok
 hits: 48
 text_top: Identify the top-rated TikTok influencers on inBeat.

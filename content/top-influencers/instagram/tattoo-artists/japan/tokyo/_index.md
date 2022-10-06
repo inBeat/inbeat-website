@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Tokyo in 2021. Most popular hashtags: #art #japan #artwork #tattoo.
+  Find top tattoo-artists Instagram influencers in Tokyo in 2022. Most popular hashtags: #art #japan #artwork #tattoo.
 platform: Instagram
 hits: 5
 text_top: See the top-rated Instagram accounts on inBeat.

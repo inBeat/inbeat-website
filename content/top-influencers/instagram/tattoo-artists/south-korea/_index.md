@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In South Korea In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In South Korea In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in South Korea in 2021. Most popular hashtags: #tattoo #blackworkerssubmission #darkartists #blackworktattoo.
+  Find top tattoo-artists Instagram influencers in South Korea in 2022. Most popular hashtags: #tattoo #blackworkerssubmission #darkartists #blackworktattoo.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram influencers on inBeat.

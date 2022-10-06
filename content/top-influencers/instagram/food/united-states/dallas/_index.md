@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Dallas In 2021
+title: Top 10 Food Instagram Influencers In Dallas In 2022
 description: >-
-  Find top food Instagram influencers in Dallas in 2021. Most popular hashtags: #food #foodie #dallas #foodporn.
+  Find top food Instagram influencers in Dallas in 2022. Most popular hashtags: #food #foodie #dallas #foodporn.
 platform: Instagram
 hits: 88
 text_top: Identify the top-rated Instagram profiles on inBeat.

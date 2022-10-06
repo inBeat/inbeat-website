@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Denver In 2021
+title: Top 10 Lifestyle Instagram Influencers In Denver In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Denver in 2021. Most popular hashtags: #lifestyle #denver #ad.
+  Find top lifestyle Instagram influencers in Denver in 2022. Most popular hashtags: #lifestyle #denver #ad.
 platform: Instagram
 hits: 65
 text_top: Identify the top-rated Instagram accounts on inBeat.

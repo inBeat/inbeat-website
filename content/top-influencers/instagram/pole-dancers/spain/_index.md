@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Spain In 2021
+title: Top 10 Pole Dancers Instagram Influencers In Spain In 2022
 description: >-
-  Find top pole dancers Instagram influencers in Spain in 2021. Most popular hashtags: #poledance #poledancer #polesport #poledancing.
+  Find top pole dancers Instagram influencers in Spain in 2022. Most popular hashtags: #poledance #poledancer #polesport #poledancing.
 platform: Instagram
 hits: 20
 text_top: See the best Instagram influencers on inBeat.

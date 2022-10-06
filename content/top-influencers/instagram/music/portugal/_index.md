@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Portugal In 2021
+title: Top 10 Music Instagram Influencers In Portugal In 2022
 description: >-
-  Find top music Instagram influencers in Portugal in 2021. Most popular hashtags: #makeup #family #portugal.
+  Find top music Instagram influencers in Portugal in 2022. Most popular hashtags: #makeup #family #portugal.
 platform: Instagram
 hits: 115
 text_top: Analyze the most popular Instagram accounts on inBeat.

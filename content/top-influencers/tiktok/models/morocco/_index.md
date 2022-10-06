@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Morocco In 2021
+title: Top 10 Models TikTok Influencers In Morocco In 2022
 description: >-
-  Find top models TikTok influencers in Morocco in 2021. Most popular hashtags: #model #morocco #viral #fashion.
+  Find top models TikTok influencers in Morocco in 2022. Most popular hashtags: #model #morocco #viral #fashion.
 platform: TikTok
 hits: 13
 text_top: Analyze the best TikTok profiles on inBeat.

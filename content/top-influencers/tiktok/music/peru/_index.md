@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Peru In 2021
+title: Top 10 Music TikTok Influencers In Peru In 2022
 description: >-
-  Find top music TikTok influencers in Peru in 2021. Most popular hashtags: #peru #parati #singer #cover.
+  Find top music TikTok influencers in Peru in 2022. Most popular hashtags: #peru #parati #singer #cover.
 platform: TikTok
 hits: 114
 text_top: Analyze the top-rated TikTok influencers on inBeat.

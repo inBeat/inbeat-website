@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Venezuela In 2021
+title: Top 10 Divers Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top divers Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #vida #caracas #amor.
+  Find top divers Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #vida #caracas #amor.
 platform: Instagram
 hits: 20
 text_top: Analyze the best Instagram accounts on inBeat.

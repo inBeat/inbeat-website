@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Austin In 2021
+title: Top 10 Rappers TikTok Influencers In Austin In 2022
 description: >-
-  Find top rappers TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top rappers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
 hits: 28
 text_top: See the top-rated TikTok influencers on inBeat.

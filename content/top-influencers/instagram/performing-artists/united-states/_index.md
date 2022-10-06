@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In United States In 2021
+title: Top 10 Performing Artists Instagram Influencers In United States In 2022
 description: >-
-  Find top performing artists Instagram influencers in United States in 2021. Most popular hashtags: #quarantine #move #model.
+  Find top performing artists Instagram influencers in United States in 2022. Most popular hashtags: #quarantine #move #model.
 platform: Instagram
 hits: 73
 text_top: Discover the best Instagram influencers on inBeat.

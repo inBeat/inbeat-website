@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Malaysia In 2021
+title: Top 10 Fitness TikTok Influencers In Malaysia In 2022
 description: >-
-  Find top fitness TikTok influencers in Malaysia in 2021. Most popular hashtags: #fitness #tiktokmalaysia #foryou #fyp.
+  Find top fitness TikTok influencers in Malaysia in 2022. Most popular hashtags: #fitness #tiktokmalaysia #foryou #fyp.
 platform: TikTok
 hits: 9
 text_top: Analyze the best TikTok influencers on inBeat.

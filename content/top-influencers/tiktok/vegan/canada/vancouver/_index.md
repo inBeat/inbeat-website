@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Vancouver In 2021
+title: Top 10 Vegan TikTok Influencers In Vancouver In 2022
 description: >-
-  Find top vegan TikTok influencers in Vancouver in 2021. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
+  Find top vegan TikTok influencers in Vancouver in 2022. Most popular hashtags: #fyp #vegan #foryoupage #foryou.
 platform: TikTok
 hits: 7
 text_top: Discover the best TikTok profiles on inBeat.

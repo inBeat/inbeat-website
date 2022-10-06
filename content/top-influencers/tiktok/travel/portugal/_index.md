@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Portugal In 2021
+title: Top 10 Travel TikTok Influencers In Portugal In 2022
 description: >-
-  Find top travel TikTok influencers in Portugal in 2021. Most popular hashtags: #portugal #fyp #travel #foryou.
+  Find top travel TikTok influencers in Portugal in 2022. Most popular hashtags: #portugal #fyp #travel #foryou.
 platform: TikTok
 hits: 20
 text_top: Discover the most popular TikTok accounts on inBeat.

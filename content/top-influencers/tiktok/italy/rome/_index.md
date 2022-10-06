@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Rome In 2021
+title: Top 10 TikTok Influencers In Rome In 2022
 description: >-
-  Find top TikTok influencers in Rome in 2021. Most popular hashtags: #duet #greenscreen #fyp.
+  Find top TikTok influencers in Rome in 2022. Most popular hashtags: #duet #greenscreen #fyp.
 platform: TikTok
 hits: 91
 text_top: Analyze the top-rated TikTok influencers on inBeat.

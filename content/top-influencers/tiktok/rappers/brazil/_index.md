@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Brazil In 2021
+title: Top 10 Rappers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top rappers TikTok influencers in Brazil in 2021. Most popular hashtags: #tiktok #rapper #viral #meme.
+  Find top rappers TikTok influencers in Brazil in 2022. Most popular hashtags: #tiktok #rapper #viral #meme.
 platform: TikTok
 hits: 15
 text_top: Analyze the top-rated TikTok profiles on inBeat.

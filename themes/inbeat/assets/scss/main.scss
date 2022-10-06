@@ -14,18 +14,22 @@
 @import "partials/tooltip";
 @import "partials/form.scss";
 @import "partials/banner.scss";
+@import "partials/dropdown.scss";
 @import "partials/testimonial";
-@import "partials/testimonial-influencer";
-@import "partials/testimonials-industries";
 @import "partials/clientsRow";
+@import "partials/relatedTools";
+@import "partials/testimonial-with-cards";
+@import "partials/testimonials-industries";
 
 
 @import "pages/home";
 @import "pages/influencer-marketing";
 @import "pages/industries";
 @import "pages/cpm-calculator";
+@import "pages/mockup-builders";
 @import "pages/top";
 @import "pages/switchers";
+@import "pages/ugc-global";
 @import "pages/pricing";
 @import "pages/normal";
 @import "pages/articles";
@@ -36,6 +40,7 @@
 @import "pages/influencer-tracking-software";
 @import "pages/cost-calculator";
 @import "pages/creatorstudio";
+@import "pages/creatorstudiov2";
 @import "pages/freetoolkit";
 @import "pages/fake-follower-checker";
 @import "partials/skeletonLoader";

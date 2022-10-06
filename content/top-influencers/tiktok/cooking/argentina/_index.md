@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Argentina In 2021
+title: Top 10 Cooking TikTok Influencers In Argentina In 2022
 description: >-
-  Find top cooking TikTok influencers in Argentina in 2021. Most popular hashtags: #foryou #parati #viral #fyp.
+  Find top cooking TikTok influencers in Argentina in 2022. Most popular hashtags: #foryou #parati #viral #fyp.
 platform: TikTok
 hits: 33
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Seattle In 2021
+title: Top 10 Lifestyle Instagram Influencers In Seattle In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Seattle in 2021. Most popular hashtags: #lifestyle #seattle #travel #instagood.
+  Find top lifestyle Instagram influencers in Seattle in 2022. Most popular hashtags: #lifestyle #seattle #travel #instagood.
 platform: Instagram
 hits: 99
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Malaysia In 2021
+title: Top 10 Runners Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top runners Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #stayhome #stayathome #homeworkout.
+  Find top runners Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #stayhome #stayathome #homeworkout.
 platform: Instagram
 hits: 20
 text_top: Discover the best Instagram influencers on inBeat.

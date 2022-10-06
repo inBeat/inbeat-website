@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Finland In 2021
+title: Top 10 Fitness Instagram Influencers In Finland In 2022
 description: >-
-  Find top fitness Instagram influencers in Finland in 2021. Most popular hashtags: #fitness #weekend #helsinki #happy.
+  Find top fitness Instagram influencers in Finland in 2022. Most popular hashtags: #fitness #weekend #helsinki #happy.
 platform: Instagram
 hits: 82
 text_top: See the best Instagram influencers on inBeat.

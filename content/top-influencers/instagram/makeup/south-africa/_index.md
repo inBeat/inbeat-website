@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In South Africa In 2021
+title: Top 10 Makeup Instagram Influencers In South Africa In 2022
 description: >-
-  Find top makeup Instagram influencers in South Africa in 2021. Most popular hashtags: #makeup #fashion #makeuptutorial.
+  Find top makeup Instagram influencers in South Africa in 2022. Most popular hashtags: #makeup #fashion #makeuptutorial.
 platform: Instagram
 hits: 145
 text_top: Identify the top-rated Instagram influencers on inBeat.

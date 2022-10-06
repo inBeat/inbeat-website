@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Barcelona In 2021
+title: Top 10 Barbers Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top barbers Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #barber #style #barbershop.
+  Find top barbers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #barber #style #barbershop.
 platform: Instagram
 hits: 15
 text_top: Analyze the top-rated Instagram profiles on inBeat.

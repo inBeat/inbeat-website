@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Phoenix In 2021
+title: Top 10 Models TikTok Influencers In Phoenix In 2022
 description: >-
-  Find top models TikTok influencers in Phoenix in 2021. Most popular hashtags: #fyp #model #foryoupage #foryou.
+  Find top models TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #model #foryoupage #foryou.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok influencers on inBeat.

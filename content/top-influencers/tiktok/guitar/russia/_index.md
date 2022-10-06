@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Russia In 2021
+title: Top 10 Guitar TikTok Influencers In Russia In 2022
 description: >-
-  Find top guitar TikTok influencers in Russia in 2021. Most popular hashtags: #guitar #cover #fingerstyle #guitarcover.
+  Find top guitar TikTok influencers in Russia in 2022. Most popular hashtags: #guitar #cover #fingerstyle #guitarcover.
 platform: TikTok
 hits: 13
 text_top: Analyze the top-rated TikTok profiles on inBeat.

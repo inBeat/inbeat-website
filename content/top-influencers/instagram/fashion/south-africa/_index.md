@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In South Africa In 2021
+title: Top 10 Fashion Instagram Influencers In South Africa In 2022
 description: >-
-  Find top fashion Instagram influencers in South Africa in 2021. Most popular hashtags: #sponsored #mrpmystyle #menstreetstyle.
+  Find top fashion Instagram influencers in South Africa in 2022. Most popular hashtags: #sponsored #mrpmystyle #menstreetstyle.
 platform: Instagram
 hits: 245
 text_top: Discover the top-rated Instagram influencers on inBeat.

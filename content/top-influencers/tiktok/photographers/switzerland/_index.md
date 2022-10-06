@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Switzerland In 2021
+title: Top 10 Photographers TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top photographers TikTok influencers in Switzerland in 2021. Most popular hashtags: #switzerland #foryou #tiktoktravel #fyp.
+  Find top photographers TikTok influencers in Switzerland in 2022. Most popular hashtags: #switzerland #foryou #tiktoktravel #fyp.
 platform: TikTok
 hits: 19
 text_top: Discover the most popular TikTok influencers on inBeat.

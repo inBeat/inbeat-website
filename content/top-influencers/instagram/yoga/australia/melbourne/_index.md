@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Melbourne In 2021
+title: Top 10 Yoga Instagram Influencers In Melbourne In 2022
 description: >-
-  Find top yoga Instagram influencers in Melbourne in 2021. Most popular hashtags: #yoga #australia #handstand #yogamelbourne.
+  Find top yoga Instagram influencers in Melbourne in 2022. Most popular hashtags: #yoga #australia #handstand #yogamelbourne.
 platform: Instagram
 hits: 18
 text_top: Analyze the best Instagram influencers on inBeat.

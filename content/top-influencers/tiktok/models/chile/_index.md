@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Chile In 2021
+title: Top 10 Models TikTok Influencers In Chile In 2022
 description: >-
-  Find top models TikTok influencers in Chile in 2021. Most popular hashtags: #model #fyp #chile #fashion.
+  Find top models TikTok influencers in Chile in 2022. Most popular hashtags: #model #fyp #chile #fashion.
 platform: TikTok
 hits: 22
 text_top: Identify the most popular TikTok influencers on inBeat.
@@ -75,7 +75,7 @@ profiles:
     location: "Chile"
     followers: 2435
     engagement: 1388
-    commentsToLikes: 0.020212
+    commentsToLikes: 0.020222
     id: ckd0yqnnyleh30j23mktsglyg
     verified: false
     hashtags: "#mood, #model, #cover, #watches"

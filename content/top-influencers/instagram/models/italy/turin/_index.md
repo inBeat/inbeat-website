@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Turin In 2021
+title: Top 10 Models Instagram Influencers In Turin In 2022
 description: >-
-  Find top models Instagram influencers in Turin in 2021. Most popular hashtags: #turin #portrait #italy #italiangirl.
+  Find top models Instagram influencers in Turin in 2022. Most popular hashtags: #turin #portrait #italy #italiangirl.
 platform: Instagram
 hits: 24
 text_top: Analyze the best Instagram accounts on inBeat.

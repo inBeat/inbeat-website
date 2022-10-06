@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Thailand In 2021
+title: Top 10 Travel Instagram Influencers In Thailand In 2022
 description: >-
-  Find top travel Instagram influencers in Thailand in 2021. Most popular hashtags: #travel #thailand #thailandtravel #bangkok.
+  Find top travel Instagram influencers in Thailand in 2022. Most popular hashtags: #travel #thailand #thailandtravel #bangkok.
 platform: Instagram
 hits: 132
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -99,7 +99,7 @@ profiles:
     location: "Thailand"
     followers: 6308
     engagement: 697
-    commentsToLikes: 0.120219
+    commentsToLikes: 0.120229
     id: ckf5riz4ecu4x0j23rpeeyhem
     verified: false
     hashtags: "#underwear, #jakarta, #eventos, #style"

@@ -172,21 +172,19 @@
     }
     a.learn-more {
         font-weight: 500;
-      
         font-size: 1rem;
         line-height: 1rem;
         margin-bottom: 0;
         letter-spacing: -0.3px;
         margin-top: 24px;
         cursor: pointer;
-        transition: all 0.3s ease-in-out;
+        transition: $transition_default;
         opacity: 1;
         position: relative;
         .right-arrow-icon{
-            margin-left: 12px;
             padding-left: 8px;
             padding-bottom: 4px;
-            transition: all 0.3s ease-in-out;
+            transition: $transition_default;
             position: absolute;
             top: 50%;
             -ms-transform: translate(0%, -50%);
@@ -200,7 +198,7 @@
         &:hover{
             opacity: 0.5;
             .right-arrow-icon{
-                margin-left: 24px;
+              padding-left: 12px;
             }
         }
         &.hide-md{
@@ -389,3 +387,4 @@ $whatwedo-secondary: #141514;
         }
     }
 }
+

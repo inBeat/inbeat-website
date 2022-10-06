@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In San Francisco In 2021
+title: Top 10 Architecture TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top architecture TikTok influencers in San Francisco in 2021. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
+  Find top architecture TikTok influencers in San Francisco in 2022. Most popular hashtags: #architecture #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok profiles on inBeat.

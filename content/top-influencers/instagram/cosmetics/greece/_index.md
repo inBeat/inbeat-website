@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Greece In 2021
+title: Top 10 Cosmetics Instagram Influencers In Greece In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Greece in 2021. Most popular hashtags: #cosmetics #beauty #giveaway #makeup.
+  Find top cosmetics Instagram influencers in Greece in 2022. Most popular hashtags: #cosmetics #beauty #giveaway #makeup.
 platform: Instagram
 hits: 64
 text_top: Analyze the most popular Instagram profiles on inBeat.

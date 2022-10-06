@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chicago In 2021
+title: Top 10 Makeup TikTok Influencers In Chicago In 2022
 description: >-
-  Find top makeup TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #makeup #chicago #foryou.
+  Find top makeup TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #makeup #chicago #foryou.
 platform: TikTok
 hits: 101
 text_top: Identify the top-rated TikTok accounts on inBeat.

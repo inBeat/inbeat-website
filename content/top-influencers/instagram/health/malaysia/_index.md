@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Malaysia In 2021
+title: Top 10 Health Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top health Instagram influencers in Malaysia in 2021. Most popular hashtags: #healthylifestyle #malaysia #selflove.
+  Find top health Instagram influencers in Malaysia in 2022. Most popular hashtags: #healthylifestyle #malaysia #selflove.
 platform: Instagram
 hits: 112
 text_top: Identify the most popular Instagram accounts on inBeat.

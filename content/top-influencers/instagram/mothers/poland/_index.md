@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Poland In 2021
+title: Top 10 Mothers Instagram Influencers In Poland In 2022
 description: >-
-  Find top mothers Instagram influencers in Poland in 2021. Most popular hashtags: #jestemmama #mama #autumnoutfit #rodzina.
+  Find top mothers Instagram influencers in Poland in 2022. Most popular hashtags: #jestemmama #mama #autumnoutfit #rodzina.
 platform: Instagram
 hits: 463
 text_top: Analyze the best Instagram accounts on inBeat.

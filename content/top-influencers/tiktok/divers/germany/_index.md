@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Germany In 2021
+title: Top 10 Divers TikTok Influencers In Germany In 2022
 description: >-
-  Find top divers TikTok influencers in Germany in 2021. Most popular hashtags: #foryou #fyp #viral #fy.
+  Find top divers TikTok influencers in Germany in 2022. Most popular hashtags: #foryou #fyp #viral #fy.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok accounts on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       SchönWild l Selbstliebe ♥️
     bio: >-
-      MISS GERMANY 2021 Contestant #RespectMySize #FürMehrVielfalt♥️ #PlusSize
+      MISS GERMANY 2022 Contestant #RespectMySize #FürMehrVielfalt♥️ #PlusSize
     location: "Germany"
     followers: 13300
     engagement: 854

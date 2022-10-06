@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Turkey In 2021
+title: Top 10 Comedians TikTok Influencers In Turkey In 2022
 description: >-
-  Find top comedians TikTok influencers in Turkey in 2021. Most popular hashtags: #tiktok #comedia #foryou #ke.
+  Find top comedians TikTok influencers in Turkey in 2022. Most popular hashtags: #tiktok #comedia #foryou #ke.
 platform: TikTok
 hits: 44
 text_top: Analyze the top-rated TikTok influencers on inBeat.

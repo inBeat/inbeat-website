@@ -2,6 +2,7 @@ const GhostContentAPI = require("@tryghost/content-api");
 const yaml = require("js-yaml");
 const fs = require("fs-extra");
 const path = require("path");
+const pretty = require('pretty');
 
 if (process.env.NODE_ENV !== "production") {
   require("dotenv").config();
@@ -138,7 +139,7 @@ const createMdFilesFromGhost = async () => {
         const yamlPost = await yaml.dump(frontmatter);
 
         // Super simple concatenating of the frontmatter and our content
-        const fileString = `---\n${yamlPost}\n---\n${content}\n`;
+        const fileString = `---\n${yamlPost}\n---\n${pretty(content)}\n`;
 
         // Save the final string of our file as a Markdown file
         await fs.writeFile(

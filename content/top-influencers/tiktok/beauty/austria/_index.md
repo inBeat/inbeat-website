@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austria In 2021
+title: Top 10 Beauty TikTok Influencers In Austria In 2022
 description: >-
-  Find top beauty TikTok influencers in Austria in 2021. Most popular hashtags: #beauty #fyp #halloween #foryou.
+  Find top beauty TikTok influencers in Austria in 2022. Most popular hashtags: #beauty #fyp #halloween #foryou.
 platform: TikTok
 hits: 51
 text_top: Analyze the top-rated TikTok influencers on inBeat.

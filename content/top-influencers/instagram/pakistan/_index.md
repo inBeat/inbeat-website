@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Pakistan In 2021
+title: Top 10 Instagram Influencers In Pakistan In 2022
 description: >-
-  Find top Instagram influencers in Pakistan in 2021. Most popular hashtags: #fashion #instadaily #fashionblogger #blogger.
+  Find top Instagram influencers in Pakistan in 2022. Most popular hashtags: #fashion #instadaily #fashionblogger #blogger.
 platform: Instagram
 hits: 38
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Peru In 2021
+title: Top 10 Models Instagram Influencers In Peru In 2022
 description: >-
-  Find top models Instagram influencers in Peru in 2021. Most popular hashtags: #model #peru #photoshoot.
+  Find top models Instagram influencers in Peru in 2022. Most popular hashtags: #model #peru #photoshoot.
 platform: Instagram
 hits: 105
 text_top: Identify the best Instagram influencers on inBeat.

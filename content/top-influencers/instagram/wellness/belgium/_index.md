@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Belgium In 2021
+title: Top 10 Wellness Instagram Influencers In Belgium In 2022
 description: >-
-  Find top wellness Instagram influencers in Belgium in 2021. Most popular hashtags: #wellness #staysafe #outfit #photoshoot.
+  Find top wellness Instagram influencers in Belgium in 2022. Most popular hashtags: #wellness #staysafe #outfit #photoshoot.
 platform: Instagram
 hits: 12
 text_top: Analyze the best Instagram influencers on inBeat.

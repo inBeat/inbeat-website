@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In New York In 2021
+title: Top 10 Health TikTok Influencers In New York In 2022
 description: >-
-  Find top health TikTok influencers in New York in 2021. Most popular hashtags: #fyp #health #duet #learnontiktok.
+  Find top health TikTok influencers in New York in 2022. Most popular hashtags: #fyp #health #duet #learnontiktok.
 platform: TikTok
 hits: 73
 text_top: Identify the most popular TikTok accounts on inBeat.

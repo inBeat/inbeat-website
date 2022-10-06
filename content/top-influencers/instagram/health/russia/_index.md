@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Russia In 2021
+title: Top 10 Health Instagram Influencers In Russia In 2022
 description: >-
-  Find top health Instagram influencers in Russia in 2021. Most popular hashtags: #sochifashionweek #mood #giveaway.
+  Find top health Instagram influencers in Russia in 2022. Most popular hashtags: #sochifashionweek #mood #giveaway.
 platform: Instagram
 hits: 260
 text_top: Discover the best Instagram profiles on inBeat.

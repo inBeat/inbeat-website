@@ -1,4 +1,34 @@
 home:
+  - question: How do you select your creators?
+    answer: >-
+      We vet the top 3% of creators for every niche to make sure your brand will collaborate with
+      influencers that fit your industry and create top-notch content. Our discovery process is based
+      on the different criteria you define as a good fit (location, gender, lifestyle, niche, etc).
+  - question: What kind of content can I create?
+    answer: >-
+      Our UGC Creator Studio helps you create sny kind of content promoting your product or service
+      (unboxing, testimonials, mobile app showcase, product demo, lifestyle shots…). While most of
+      our creators work on Instagram or TikTok, any piece of content created is easily repurposable
+      on your website or any other social media platform (Facebook, Snapchat, Reddit, Twitter,
+      Pinterest…).
+  - question: Where is your old database platform?
+    answer: >-
+      You can still log in to our [influencer database platform](https://inbeat.co/influencer-database/) with your username and password.
+  - question: What are the benefits of using a UGC Platform?
+    answer: >-
+      A UGC Platform helps you collaborate with influencers to create UGC at scale, without having to
+      put in any effort. The platform handles it all for you. You end up with high quality content from
+      influencers that know your audience and your niche, hassle-free.
+  - question: How much control on the creative direction do I have when using inBeat?
+    answer: >-
+      This is entirely up to you. You can decide if you want your creative brief to be very specific or if
+      you want to let the professional creators have more freedom when endorsing your product or
+      service.
+  - question: Will I have copyright on all the content created for my brand through inBeat?
+    answer: >-
+      Every piece of content created through our user-generated content platform belongs to your
+      company and you a free to use it for you business as many times as you desire to.
+influencerDatabase:
   - question: How does the influencer database work?
     answer: >-
       You will receive access to our full database of influencers with their contact information.
@@ -174,6 +204,18 @@ engagement:
       answer: >- 
         Far too often, companies doing influencer marketing only focus on vanity metrics when evaluating influencers (followers, likes, impressions). 
         Vanity metrics matter but they don't tell the whole story. If the target audience is engaged towards the influencer you are collaborating with (either posts or Instagram stories) your company will have more chance of building a successful campaign.
+    - question: What is Instagram’s influencers average engagement rate?
+      answer: >-
+        Instagram’s influencer have an average engagement rate of 2.39% <br><br>
+        TikTok’s infleuncers average engagement can be presented into different tiers: <br>
+        - Nano-influencer (1,000 to 10,000 followers): 3.86%  <br>
+        - Micro-influencers (10,000 to 50,000 followers): 2.39%  <br>
+        - Mid-tier influencers (50,000 to 500,000 followers): 1.87%  <br>
+        - Macro-influencers (500,000 to 1,000,000 followers): 1.36% <br>
+        - Celebrities (1,000,000+ followers): 1.21% 
+    - question: How to get engagement on Instagram?
+      answer: >-
+        Instagram engagement is measured by likes, comments, and shares on any given post. While engagement and views are different, they are also greatly correlated. The more engagement a video gets, the more the algorythm will push it to get more impressions.
   tiktok:
     - question: How do You Calculate a TikTok Account's Engagement Rate?
       answer: >-
@@ -195,6 +237,19 @@ engagement:
         engagement rate on TikTok to gauge the trust the audience has in the influencer. Now, it isn’t the only thing you
         should analyze. TikTok influencers can purchase fake comments and likes, which can bias this metric. Although there
         are tools to calculate the fake follower count, a judgment call will almost always outperform these tools.
+    - question: What is TikTok’s influencers average engagement rate?
+      answer: >-
+        TikTok has a great edge over Instagram and YouTube when it comes to engagement. The average engagement rate on TikTok is approximately 18%. A massive difference compared to Instgram’s 3.9% and YouTube’s 1.6%.
+        <br><br>
+        TikTok’s infleuncers average engagement can be presented into different tiers: <br>
+        - Nano-influencer (1,000 to 10,000 followers): 20.64% <br>
+        - Micro-influencers (10,000 to 50,000 followers): 17.81% <br>
+        - Mid-tier influencers (50,000 to 500,000 followers): 15.49% <br>
+        - Macro-influencers (500,000 to 1,000,000 followers): 17.21% <br>
+        - Celebrities (1,000,000+ followers): 17.55% 
+    - question: How to get engagement on TikTok?
+      answer: >-
+        TikTok engagement is measured by likes, comments, and shares on any given post. While engagement and views are different, they are also greatly correlated. The more engagement a video gets, the more the algorythm will push it to get more impressions.
 micro_influencers_platform:
   faq1:
     - question: What is a micro-influencer?
@@ -290,6 +345,12 @@ fake_follower_checker:
   - question: Why should I care about the Instagram audience score for influencer marketing?
     answer: >-
       A big follower count means nothing if it consists of fake profiles, inactive accounts and ghost followers. Don't waste your time and money on fake influencers who charge big bucks without an engaged audience. Our audit tool brings social proof to your social media marketing.
+  - question: How to Spot Fake Followers on Instagram?
+    answer: >-
+      There are many ways you can tell if someone has fake followers. The straightforward approach is to go and check each suspect's fake follower profile. Most of the bots acting as fake followers have very few posts and/or activity on their page. Also, many bots don't have a profile picture on their account or are using a photo taken on Google image. Using Google image reverse search will reveal a potential red flag.
+  - question: How can you tell if someone has fake followers?
+    answer: >-
+      The best way to find out if someone has bought their audience and has fake followers is to use a fake follower audit tool such as ours. It's a great way to find out instantly the follower quality score of an influencer's audience. This credibility score gives you a good idea of whether the account is followed by real persons or bots.
 cpm_calculator:
   - question: How to calculate CPM?
     answer: >-
@@ -320,3 +381,131 @@ cpm_calculator:
     answer: >-
       For marketers, calculating CPM and comparing CPM between campaigns is a good insight into 
       ad quality, performance, and potential, as well as targeting relevancy.
+ctr_calculator:
+  - question: What Does CTR Mean?
+    answer: >-
+      CTR means Click Through Rate; it is an indication of how engaging an ad is. The CTR<br>
+      measures the ratio of people clicking on an ad when exposed to it.
+  - question: What is the CTR formula?
+    answer: >-
+      The formula to measure the click-through rate is pretty simple; it goes as follows:<br>
+      <b>Total Clicks / Total Impressions</b><br>
+      For example, if you have an ad that generated 6 clicks for 100 impressions, your CTR is
+      6/100=0,06 (or 6%).
+  - question: Why is CTR important?
+    answer: >-
+      Analyzing the click-through rate is important.<br>
+      When comparing ads running under the same target audience, the CTR gives a good indication
+      of the ads that are performing better, more engaging, or catching the audience's attention more
+      than the other.
+      When comparing the same ad running under two different audience targeting, it indicates which
+      audience group is more engaged when exposed to the ad.
+      Using CTR is a good starting point when optimizing your social media advertising campaigns.
+      Higher CTR usually means a higher conversion rate. It's one of the key metrics to analyze for a
+      successful marketing strategy.
+  - question: What affects your CTR?
+    answer: >-
+      <b>Many factors can affect CTR performances. Amongst those many factors, we can identify:<br></b>
+      &#x25CF; Targeting: some audiences will be more reactive than others when they see your ad.
+              identifying the right persona is very important.<br>
+      &#x25CF; Copywriting: test different variations to ensure your ad copy is engaging and has the right call to action.<br>
+      &#x25CF; Creative: whether it's an image or video, your creative is probably the most important factor in ensuring your ad catches your audience's attention and converts.<br>
+      &#x25CF; Offer: A "too good to miss" offer will drastically improve your CTR.<br>
+  - question: What is a good click-through rate?
+    answer: >-
+        There is no universally good, bad, or average click-through rate. It will depend on the kind of
+        platform you are advertising on.<br> Google Search Ads tend to have higher CTR than other social
+        media;<br> for example, this is because search ads capture intent and are distributed to people
+        actively searching for your product or niche.<br>
+  - question: How to increase the click-through rate?
+    answer: >-
+      <b>Improving the click-through rate can be achieved with multiple levers:<br></b>
+      &#x25CF; Testing and optimizing audience targeting.<br>
+      &#x25CF; Writing more engaging ad copy.<br>
+      &#x25CF; Promoting compelling offers<br>
+      &#x25CF; Creating engaging visuals and content<br> 
+cpa_calculator:
+  - question: What Does CPA Mean?
+    answer: >-
+      In marketing and advertising, CPA refers to the cost per acquisition. How much does it cost in
+      ad spent to get a lead, a conversion, an app install, or any other conversion metric used in your
+      KPI.
+  - question: Why measuring CPA is important
+    answer: >-
+      Measuring your cost per acquisition is one of the ultimate metrics to determine if your paid
+      media strategy or campaign is profitable or not. Make sure that you are determining a target
+      CPA beforehand. The CPA is the pulse that helps you decide between doubling down or
+      shutting down a campaign, ad group or creative.
+  - question: How do you calculate a CPA
+    answer: >-
+        The cost per acquisition formula is very straightforward, it equals your total cost divided by your
+        total conversion (or acquisition) :<br>
+        <b>CPA = Total Cost / Total Acquisitions</b>
+  - question: What is a good CPA
+    answer: >-
+        A good CPA depends on the service/product you promote. If you are advertising a free mobile
+        app, your target CPA will be lower than if you are selling a car, for example. As a rule of thumb,
+        you should target a CPA that would give you a ROAS (return on ad spend) higher than 2.
+  - question: How to lower the CPA of your PPC campaign
+    answer: >-
+      <b>Many levers can help lower your cost per acquisition:<br></b>
+      &#x25CF; Identify your target persona and target it in audience settings (A/B test different personas).<br>
+      &#x25CF; Create engaging content and visuals in your ads (UGC content, for example).<br>
+      &#x25CF; Make your offer and USP clear and appealing.<br>
+      &#x25CF; Work on your ad copy to engage your audience.<br> 
+      &#x25CF; Make the conversion process on your landing page easy.<br> 
+bounce_rate_calculator:
+  - question: What is the bounce rate?
+    answer: >-
+        The bounce rate refers to the percentage of a website's visitors that closes the website without
+        performing a single action or visiting any other page. It often is assimilated to traffic quality or
+        landing page quality. A high bounce rate usually means that your page doesn't answer what the
+        user was looking for, is not loading fast enough, has errors, or that the traffic you send to the
+        page (via ads or other) isn't quality traffic.
+  - question: How to calculate bounce rate?
+    answer: >-
+          The bounce rate is calculated by dividing your single-page sessions by the total sessions on
+          your website.<br>
+          <b>Bounce Rate = Total of Single Page Sessions / Total of Sessions</b>
+  - question: What's considered a healthy bounce rate?
+    answer: >-
+          A bounce rate is considered "good" when it is under 40 percent, "average" if it's between 41 and
+          55 percent, and "mediocre" if it's between 56 and 70 percent. Any bounce rate above 70 percent
+          indicates very low page quality or traffic quality and that your strategy must be revisited or your
+          page edited.
+  - question: How to improve my website's bounce rate?
+    answer: >-
+        <b>Many factors can help improve your page bounce rate, whether it comes from technical
+        improvement or content improvement.<br></b>
+        &#x25CF; Improve your site speed.<br>
+        &#x25CF; Improve your website's mobile responsiveness<br>
+        &#x25CF; Fix any bug your page has<br>
+        &#x25CF; Capture attention early on your page<br> 
+        &#x25CF; Answer your target audience request early on the page.<br> 
+        &#x25CF; Use appealing calls to action and buttons to make visitors want to visit other pages.<br> 
+  - question: What's the difference between bounce rate and exit rate?
+    answer: >-
+          Exit rate refers to the percentage of visitors that end their visit or a specific page. Bounce rate
+          refers to visitors that exit your page without visiting any other page.
+instagram__mockup:
+  - question: What is an ad mockup generator?
+    answer: >-
+        An ad mockup generator helps you pre-visualize your ad in real-time on every available
+        placement so you can try different visuals, captions, call to action, and titles and see what fits
+        best.
+  - question: How does your Instagram ad mockup generator work?
+    answer: >-
+     Select your placement between Feed, Reel, or Story, upload your visual asset (image, carousel,
+     or video), play around with the different calls to action, and copy what you want to experiment.
+     You will be able to visualize your changes in real-time.
+
+  - question: Is the mockup ad generator free?
+    answer: >-
+          Our ad mockup generator is 100% free to use. Our goal is to help advertisers to try and find the
+          best visual assets for their brand in real-time
+  - question: What are the best performing ads on Instagram?
+    answer: >-
+          Many factors can impact the performance of an ad on Instagram: visual assets, copywriting,
+          targeting, placement, budget, goal, optimization... If what you are looking for is inspiration to
+          create top-performing ads, we created [Ad Collection](https://www.adcollection.co/), a library with all the top Instagram ads we
+          studied.
