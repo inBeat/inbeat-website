@@ -2,6 +2,7 @@
    #mockup-generator-navigation{
     display: flex;
     gap: 8px;
+    flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 3rem;
     @mixin name($name_bg, $name_font_hover, $name_bg_focus){
@@ -33,10 +34,11 @@
       font-weight: 500;
       line-height: 14px;
       border-radius: 16px;
-      padding: 6px 16px 10px 16px;
+      padding: 8px 16px;
       background-color: #F7F2F2;
       cursor: pointer;
       transition: $transition_default;
+      white-space: nowrap;
       svg{
         path{
           transition: $transition_default;
@@ -916,8 +918,8 @@
   }
 }
 .mockup__configuration-wrapper{
-  padding: 0px 0px 0px 51px;
-  width: calc(100% - 556px);
+  padding: 0px 0px 0px 56px;
+  width: calc(100% - 554px);
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
