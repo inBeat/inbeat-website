@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Finland In 2021
+title: Top 10 Crossfit Instagram Influencers In Finland In 2022
 description: >-
-  Find top crossfit Instagram influencers in Finland in 2021. Most popular hashtags: #crossfit #training #fitness.
+  Find top crossfit Instagram influencers in Finland in 2022. Most popular hashtags: #crossfit #training #fitness.
 platform: Instagram
 hits: 13
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Bogotá In 2021
+title: Top 10 Health Instagram Influencers In Bogotá In 2022
 description: >-
-  Find top health Instagram influencers in Bogotá in 2021. Most popular hashtags: #fitness #colombia #fit #bogota.
+  Find top health Instagram influencers in Bogotá in 2022. Most popular hashtags: #fitness #colombia #fit #bogota.
 platform: Instagram
 hits: 16
 text_top: Discover the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Brazil In 2021
+title: Top 10 Fitness TikTok Influencers In Brazil In 2022
 description: >-
-  Find top fitness TikTok influencers in Brazil in 2021. Most popular hashtags: #fitness #tiktok #treinoemcasa #quarentena.
+  Find top fitness TikTok influencers in Brazil in 2022. Most popular hashtags: #fitness #tiktok #treinoemcasa #quarentena.
 platform: TikTok
 hits: 191
 text_top: Identify the top-rated TikTok accounts on inBeat.

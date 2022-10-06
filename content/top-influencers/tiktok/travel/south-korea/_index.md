@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In South Korea In 2021
+title: Top 10 Travel TikTok Influencers In South Korea In 2022
 description: >-
-  Find top travel TikTok influencers in South Korea in 2021. Most popular hashtags: #travel #korea #fyp #foryou.
+  Find top travel TikTok influencers in South Korea in 2022. Most popular hashtags: #travel #korea #fyp #foryou.
 platform: TikTok
 hits: 22
 text_top: Discover the best TikTok accounts on inBeat.

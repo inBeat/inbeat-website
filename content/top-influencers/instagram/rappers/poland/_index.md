@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Poland In 2021
+title: Top 10 Rappers Instagram Influencers In Poland In 2022
 description: >-
-  Find top rappers Instagram influencers in Poland in 2021. Most popular hashtags: #rapper #music #trap.
+  Find top rappers Instagram influencers in Poland in 2022. Most popular hashtags: #rapper #music #trap.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram accounts on inBeat.

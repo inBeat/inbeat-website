@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Guitar Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top guitar Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #music #dubai #stayhome #staysafe.
+  Find top guitar Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #music #dubai #stayhome #staysafe.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,3 +1,41 @@
+{{- if and (eq .Type "articles") .IsPage -}}
+{{- $category := "" -}}
+{{- if gt (len .Params.categories) 0 -}}
+    {{- $category = (index .Params.categories 0) -}}
+{{- end -}}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "publisher": {
+            "@type": "Organization",
+            "name": "inBeat",
+            "url": "https://www.inbeat.co/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.inbeat.co/apple-touch-icon.png"
+            }
+        },
+        {{ with .Params.authors }}
+        {{- $author := index . 0 -}}
+        "author": {
+            "@type": "Person",
+            "name": {{ $author.name }},
+            "sameAs": []
+        },{{ end }}
+        "headline": {{ .Params.og_title | default .Title }},
+        "url": {{ .Permalink }},
+        "datePublished": {{ .PublishDate.Format `2006-01-02T15:04:05Z07:00` }},
+        "dateModified": {{ .Lastmod.Format `2006-01-02T15:04:05Z07:00` }},
+        "keywords": {{ $category }},
+        "description": {{ .Params.og_description | default .Description }},
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.inbeat.co/"
+        }
+    }
+</script>
+{{- else -}}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -21,3 +59,4 @@
     ]
 }
 </script>
+{{- end -}}

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Argentina In 2021
+title: Top 10 Bmx Instagram Influencers In Argentina In 2022
 description: >-
-  Find top bmx Instagram influencers in Argentina in 2021. Most popular hashtags: #bmx #argentina #bike.
+  Find top bmx Instagram influencers in Argentina in 2022. Most popular hashtags: #bmx #argentina #bike.
 platform: Instagram
 hits: 17
 text_top: Discover the best Instagram profiles on inBeat.

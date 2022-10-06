@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Las Vegas In 2021
+title: Top 10 Models TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top models TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #lasvegas #model #photoshoot.
+  Find top models TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #lasvegas #model #photoshoot.
 platform: TikTok
 hits: 26
 text_top: Discover the most popular TikTok profiles on inBeat.

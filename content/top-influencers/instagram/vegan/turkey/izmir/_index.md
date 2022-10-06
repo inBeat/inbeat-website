@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Izmir In 2021
+title: Top 10 Vegan Instagram Influencers In Izmir In 2022
 description: >-
-  Find top vegan Instagram influencers in Izmir in 2021. Most popular hashtags: #izmir #vegan #delicious #istanbul.
+  Find top vegan Instagram influencers in Izmir in 2022. Most popular hashtags: #izmir #vegan #delicious #istanbul.
 platform: Instagram
 hits: 16
 text_top: Discover the best Instagram influencers on inBeat.

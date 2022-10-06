@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Japan In 2021
+title: Top 10 Cyclists Instagram Influencers In Japan In 2022
 description: >-
-  Find top cyclists Instagram influencers in Japan in 2021. Most popular hashtags: #roadbike #cycling #cyclist #cyclinglife.
+  Find top cyclists Instagram influencers in Japan in 2022. Most popular hashtags: #roadbike #cycling #cyclist #cyclinglife.
 platform: Instagram
 hits: 10
 text_top: See the best Instagram profiles on inBeat.

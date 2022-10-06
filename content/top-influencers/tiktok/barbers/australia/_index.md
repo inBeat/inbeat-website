@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Australia In 2021
+title: Top 10 Barbers TikTok Influencers In Australia In 2022
 description: >-
-  Find top barbers TikTok influencers in Australia in 2021. Most popular hashtags: #barber #fyp #foryoupage #foryou.
+  Find top barbers TikTok influencers in Australia in 2022. Most popular hashtags: #barber #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 17
 text_top: Analyze the top-rated TikTok profiles on inBeat.

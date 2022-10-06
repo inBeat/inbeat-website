@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Medellín In 2021
+title: Top 10 Yoga Instagram Influencers In Medellín In 2022
 description: >-
-  Find top yoga Instagram influencers in Medellín in 2021. Most popular hashtags: #yoga #colombia #medellin #travel.
+  Find top yoga Instagram influencers in Medellín in 2022. Most popular hashtags: #yoga #colombia #medellin #travel.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram influencers on inBeat.

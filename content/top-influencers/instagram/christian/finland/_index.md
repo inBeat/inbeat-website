@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Finland In 2021
+title: Top 10 Christian Instagram Influencers In Finland In 2022
 description: >-
-  Find top christian Instagram influencers in Finland in 2021. Most popular hashtags: #finland #repost #stayhome #cristianoronaldo.
+  Find top christian Instagram influencers in Finland in 2022. Most popular hashtags: #finland #repost #stayhome #cristianoronaldo.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In 2021
+title: Top 10 Boxers Instagram Influencers In 2022
 description: >-
-  Find top boxers Instagram influencers in 2021. Most popular hashtags: #boxing #hardwork #boxer.
+  Find top boxers Instagram influencers in 2022. Most popular hashtags: #boxing #hardwork #boxer.
 platform: Instagram
 hits: 1530
 text_top: Discover the best Instagram influencers on inBeat.

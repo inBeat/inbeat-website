@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Milan In 2021
+title: Top 10 Nutrition Instagram Influencers In Milan In 2022
 description: >-
-  Find top nutrition Instagram influencers in Milan in 2021. Most popular hashtags: #milano #fitnessgirl #fitness #nutrition.
+  Find top nutrition Instagram influencers in Milan in 2022. Most popular hashtags: #milano #fitnessgirl #fitness #nutrition.
 platform: Instagram
 hits: 22
 text_top: Identify the most popular Instagram accounts on inBeat.

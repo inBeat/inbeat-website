@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In France In 2021
+title: Top 10 Crossfit TikTok Influencers In France In 2022
 description: >-
-  Find top crossfit TikTok influencers in France in 2021. Most popular hashtags: #crossfit #foryou #pourtoi #tiktok.
+  Find top crossfit TikTok influencers in France in 2022. Most popular hashtags: #crossfit #foryou #pourtoi #tiktok.
 platform: TikTok
 hits: 21
 text_top: Identify the top-rated TikTok profiles on inBeat.

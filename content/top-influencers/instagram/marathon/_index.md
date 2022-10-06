@@ -1,7 +1,7 @@
 ---
-title: Top 10 Marathon Instagram Influencers In 2021
+title: Top 10 Marathon Instagram Influencers In 2022
 description: >-
-  Find top marathon Instagram influencers in 2021. Most popular hashtags: #runner #running #runnersofinstagram.
+  Find top marathon Instagram influencers in 2022. Most popular hashtags: #runner #running #runnersofinstagram.
 platform: Instagram
 hits: 1933
 text_top: Analyze the best Instagram profiles on inBeat.
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.025102
     id: ck5cheukuqmxf0i11pnjqb49x
     verified: true
-    hashtags: "#tokyo2021, #londonmarathon, #the40thrace, #superstarch"
+    hashtags: "#tokyo2022, #londonmarathon, #the40thrace, #superstarch"
   - username: "zsofia_fe"
     fullname: >-
       ZSÓFIA🏃🏼‍♀️RUNNER

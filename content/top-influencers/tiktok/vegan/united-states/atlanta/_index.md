@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Atlanta In 2021
+title: Top 10 Vegan TikTok Influencers In Atlanta In 2022
 description: >-
-  Find top vegan TikTok influencers in Atlanta in 2021. Most popular hashtags: #fyp #atlanta #vegan #foodie.
+  Find top vegan TikTok influencers in Atlanta in 2022. Most popular hashtags: #fyp #atlanta #vegan #foodie.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok profiles on inBeat.

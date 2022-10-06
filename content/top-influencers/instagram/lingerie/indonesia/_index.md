@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Indonesia In 2021
+title: Top 10 Lingerie Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top lingerie Instagram influencers in Indonesia in 2021. Most popular hashtags: #portrait #lingerie #model.
+  Find top lingerie Instagram influencers in Indonesia in 2022. Most popular hashtags: #portrait #lingerie #model.
 platform: Instagram
 hits: 24
 text_top: See the top-rated Instagram profiles on inBeat.

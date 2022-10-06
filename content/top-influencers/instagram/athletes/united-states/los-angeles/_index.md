@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Los Angeles In 2021
+title: Top 10 Athletes Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top athletes Instagram influencers in Los Angeles in 2021. Most popular hashtags: #model #fitness #training #fitnessmotivation.
+  Find top athletes Instagram influencers in Los Angeles in 2022. Most popular hashtags: #model #fitness #training #fitnessmotivation.
 platform: Instagram
 hits: 155
 text_top: Identify the top-rated Instagram influencers on inBeat.

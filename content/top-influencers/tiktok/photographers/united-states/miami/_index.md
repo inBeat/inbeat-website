@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Miami In 2021
+title: Top 10 Photographers TikTok Influencers In Miami In 2022
 description: >-
-  Find top photographers TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #miami #foryou #foryoupage.
+  Find top photographers TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #miami #foryou #foryoupage.
 platform: TikTok
 hits: 24
 text_top: Discover the top-rated TikTok influencers on inBeat.

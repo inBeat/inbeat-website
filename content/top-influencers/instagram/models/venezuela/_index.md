@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Venezuela In 2021
+title: Top 10 Models Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top models Instagram influencers in Venezuela in 2021. Most popular hashtags: #model #venezuela #tbt.
+  Find top models Instagram influencers in Venezuela in 2022. Most popular hashtags: #model #venezuela #tbt.
 platform: Instagram
 hits: 156
 text_top: See the top-rated Instagram accounts on inBeat.

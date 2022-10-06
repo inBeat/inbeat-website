@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In France In 2021
+title: Top 10 Fashion TikTok Influencers In France In 2022
 description: >-
-  Find top fashion TikTok influencers in France in 2021. Most popular hashtags: #fashion #paris #pourtoi #foryou.
+  Find top fashion TikTok influencers in France in 2022. Most popular hashtags: #fashion #paris #pourtoi #foryou.
 platform: TikTok
 hits: 201
 text_top: Discover the best TikTok influencers on inBeat.

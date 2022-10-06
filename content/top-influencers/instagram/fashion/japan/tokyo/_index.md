@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Tokyo In 2021
+title: Top 10 Fashion Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top fashion Instagram influencers in Tokyo in 2021. Most popular hashtags: #fashion #tokyo #ootd #japan.
+  Find top fashion Instagram influencers in Tokyo in 2022. Most popular hashtags: #fashion #tokyo #ootd #japan.
 platform: Instagram
 hits: 390
 text_top: See the best Instagram profiles on inBeat.

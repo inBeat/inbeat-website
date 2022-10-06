@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Poland In 2021
+title: Top 10 Yoga Instagram Influencers In Poland In 2022
 description: >-
-  Find top yoga Instagram influencers in Poland in 2021. Most popular hashtags: #autumnvibes #jesie #polska.
+  Find top yoga Instagram influencers in Poland in 2022. Most popular hashtags: #autumnvibes #jesie #polska.
 platform: Instagram
 hits: 124
 text_top: See the most popular Instagram influencers on inBeat.

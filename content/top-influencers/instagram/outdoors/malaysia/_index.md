@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Malaysia In 2021
+title: Top 10 Outdoors Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top outdoors Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #nature #stayathome #cuticutimalaysia.
+  Find top outdoors Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #nature #stayathome #cuticutimalaysia.
 platform: Instagram
 hits: 18
 text_top: Analyze the best Instagram influencers on inBeat.

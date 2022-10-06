@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Ukraine In 2021
+title: Top 10 Lifestyle Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Ukraine in 2021. Most popular hashtags: #ukrainiangirl #smm #comercialmodel.
+  Find top lifestyle Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukrainiangirl #smm #comercialmodel.
 platform: Instagram
 hits: 179
 text_top: Discover the most popular Instagram influencers on inBeat.

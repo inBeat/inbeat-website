@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Thailand In 2021
+title: Top 10 Outdoors Instagram Influencers In Thailand In 2022
 description: >-
-  Find top outdoors Instagram influencers in Thailand in 2021. Most popular hashtags: #thailand #travelphotography #travel #nature.
+  Find top outdoors Instagram influencers in Thailand in 2022. Most popular hashtags: #thailand #travelphotography #travel #nature.
 platform: Instagram
 hits: 8
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Sao Paulo In 2021
+title: Top 10 Models Instagram Influencers In Sao Paulo In 2022
 description: >-
-  Find top models Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #love #model #saopaulo.
+  Find top models Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #love #model #saopaulo.
 platform: Instagram
 hits: 411
 text_top: Identify the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In South Africa In 2021
+title: Top 10 Cooking Instagram Influencers In South Africa In 2022
 description: >-
-  Find top cooking Instagram influencers in South Africa in 2021. Most popular hashtags: #lockdown #lockdown2020 #stayhome #southafrica.
+  Find top cooking Instagram influencers in South Africa in 2022. Most popular hashtags: #lockdown #lockdown2020 #stayhome #southafrica.
 platform: Instagram
 hits: 184
 text_top: Discover the best Instagram influencers on inBeat.

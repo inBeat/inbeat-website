@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Las Vegas In 2021
+title: Top 10 Photographers Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top photographers Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #fashion #photographer.
+  Find top photographers Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #fashion #photographer.
 platform: Instagram
 hits: 139
 text_top: See the best Instagram accounts on inBeat.

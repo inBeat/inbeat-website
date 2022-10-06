@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Boston In 2021
+title: Top 10 Models Instagram Influencers In Boston In 2022
 description: >-
-  Find top models Instagram influencers in Boston in 2021. Most popular hashtags: #model #photoshoot #fashion.
+  Find top models Instagram influencers in Boston in 2022. Most popular hashtags: #model #photoshoot #fashion.
 platform: Instagram
 hits: 119
 text_top: Discover the most popular Instagram profiles on inBeat.

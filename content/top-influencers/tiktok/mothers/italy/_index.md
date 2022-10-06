@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Italy In 2021
+title: Top 10 Mothers TikTok Influencers In Italy In 2022
 description: >-
-  Find top mothers TikTok influencers in Italy in 2021. Most popular hashtags: #perte #duetto #love #viral.
+  Find top mothers TikTok influencers in Italy in 2022. Most popular hashtags: #perte #duetto #love #viral.
 platform: TikTok
 hits: 25
 text_top: Discover the best TikTok accounts on inBeat.

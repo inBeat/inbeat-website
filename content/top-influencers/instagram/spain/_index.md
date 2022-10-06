@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Spain In 2021
+title: Top 10 Instagram Influencers In Spain In 2022
 description: >-
-  Find top Instagram influencers in Spain in 2021. Most popular hashtags: #marleenilse #sonyalpha #hikingdogsofinstagram.
+  Find top Instagram influencers in Spain in 2022. Most popular hashtags: #marleenilse #sonyalpha #hikingdogsofinstagram.
 platform: Instagram
 hits: 16805
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Brisbane In 2021
+title: Top 10 Fashion Instagram Influencers In Brisbane In 2022
 description: >-
-  Find top fashion Instagram influencers in Brisbane in 2021. Most popular hashtags: #fashion #brisbane #love #portraitphotography.
+  Find top fashion Instagram influencers in Brisbane in 2022. Most popular hashtags: #fashion #brisbane #love #portraitphotography.
 platform: Instagram
 hits: 85
 text_top: See the best Instagram influencers on inBeat.

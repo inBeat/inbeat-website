@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In San Francisco In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #california #art.
+  Find top graphic-designers Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #california #art.
 platform: Instagram
 hits: 8
 text_top: See the most popular Instagram influencers on inBeat.

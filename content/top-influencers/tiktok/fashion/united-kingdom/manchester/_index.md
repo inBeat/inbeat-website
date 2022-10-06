@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Manchester In 2021
+title: Top 10 Fashion TikTok Influencers In Manchester In 2022
 description: >-
-  Find top fashion TikTok influencers in Manchester in 2021. Most popular hashtags: #fyp #foryou #fashion #manchester.
+  Find top fashion TikTok influencers in Manchester in 2022. Most popular hashtags: #fyp #foryou #fashion #manchester.
 platform: TikTok
 hits: 19
 text_top: Analyze the top-rated TikTok profiles on inBeat.

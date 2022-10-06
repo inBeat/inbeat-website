@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Los Angeles In 2021
+title: Top 10 Models TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top models TikTok influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #model #fyp #foryoupage.
+  Find top models TikTok influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #model #fyp #foryoupage.
 platform: TikTok
 hits: 90
 text_top: See the top-rated TikTok profiles on inBeat.

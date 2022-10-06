@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Hamburg In 2021
+title: Top 10 Fashion Instagram Influencers In Hamburg In 2022
 description: >-
-  Find top fashion Instagram influencers in Hamburg in 2021. Most popular hashtags: #fashion #hamburg #love #ootd.
+  Find top fashion Instagram influencers in Hamburg in 2022. Most popular hashtags: #fashion #hamburg #love #ootd.
 platform: Instagram
 hits: 618
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United States In 2021
+title: Top 10 Chefs Instagram Influencers In United States In 2022
 description: >-
-  Find top chefs Instagram influencers in United States in 2021. Most popular hashtags: #fitnessmotivation #fitness #foodie.
+  Find top chefs Instagram influencers in United States in 2022. Most popular hashtags: #fitnessmotivation #fitness #foodie.
 platform: Instagram
 hits: 1559
 text_top: Analyze the best Instagram influencers on inBeat.

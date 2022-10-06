@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Brisbane In 2021
+title: Top 10 Food TikTok Influencers In Brisbane In 2022
 description: >-
-  Find top food TikTok influencers in Brisbane in 2021. Most popular hashtags: #food #fyp #australia #brisbane.
+  Find top food TikTok influencers in Brisbane in 2022. Most popular hashtags: #food #fyp #australia #brisbane.
 platform: TikTok
 hits: 10
 text_top: See the top-rated TikTok accounts on inBeat.

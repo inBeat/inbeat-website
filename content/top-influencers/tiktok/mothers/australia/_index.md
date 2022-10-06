@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Australia In 2021
+title: Top 10 Mothers TikTok Influencers In Australia In 2022
 description: >-
-  Find top mothers TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #duet #tiktokaustralia.
+  Find top mothers TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #duet #tiktokaustralia.
 platform: TikTok
 hits: 125
 text_top: See the best TikTok accounts on inBeat.

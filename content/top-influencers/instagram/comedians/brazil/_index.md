@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Brazil In 2021
+title: Top 10 Comedians Instagram Influencers In Brazil In 2022
 description: >-
-  Find top comedians Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #apra #golfhotties.
+  Find top comedians Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #apra #golfhotties.
 platform: Instagram
 hits: 960
 text_top: Identify the top-rated Instagram influencers on inBeat.

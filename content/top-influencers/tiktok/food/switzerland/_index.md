@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Switzerland In 2021
+title: Top 10 Food TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top food TikTok influencers in Switzerland in 2021. Most popular hashtags: #fyp #food #foryou #dessert.
+  Find top food TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #food #foryou #dessert.
 platform: TikTok
 hits: 40
 text_top: Analyze the most popular TikTok profiles on inBeat.

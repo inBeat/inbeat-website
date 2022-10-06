@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Austin In 2021
+title: Top 10 Food Instagram Influencers In Austin In 2022
 description: >-
-  Find top food Instagram influencers in Austin in 2021. Most popular hashtags: #ad #ribs #brisket.
+  Find top food Instagram influencers in Austin in 2022. Most popular hashtags: #ad #ribs #brisket.
 platform: Instagram
 hits: 137
 text_top: See the best Instagram influencers on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       KOKO | Austin Food Blogger
     bio: >-
-      austin blogger + author #kokosguidetoaustin » ft. ny times » building a new house - jan 2021 ____ ▽: #austintexas ✉️: jane@atasteofkoko.com ↓: blog
+      austin blogger + author #kokosguidetoaustin » ft. ny times » building a new house - jan 2022 ____ ▽: #austintexas ✉️: jane@atasteofkoko.com ↓: blog
     location: "United States"
     followers: 84454
     engagement: 199

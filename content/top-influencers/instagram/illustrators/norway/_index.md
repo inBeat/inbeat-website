@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Norway In 2021
+title: Top 10 Illustrators Instagram Influencers In Norway In 2022
 description: >-
-  Find top illustrators Instagram influencers in Norway in 2021. Most popular hashtags: #art #artwork #illustration.
+  Find top illustrators Instagram influencers in Norway in 2022. Most popular hashtags: #art #artwork #illustration.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Anna Speshilova | artist
     bio: >-
-      ↟ Magic maker ↟ Book illustrator ➳ Originals for sale: #as_original_for_sale ➳ Commissions (2021): e-mail ✎ DM ➳ Prints 👇
+      ↟ Magic maker ↟ Book illustrator ➳ Originals for sale: #as_original_for_sale ➳ Commissions (2022): e-mail ✎ DM ➳ Prints 👇
     location: "Norway"
     followers: 26750
     engagement: 1400

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chile In 2021
+title: Top 10 Makeup TikTok Influencers In Chile In 2022
 description: >-
-  Find top makeup TikTok influencers in Chile in 2021. Most popular hashtags: #makeup #fyp #chile #humor.
+  Find top makeup TikTok influencers in Chile in 2022. Most popular hashtags: #makeup #fyp #chile #humor.
 platform: TikTok
 hits: 69
 text_top: Identify the best TikTok accounts on inBeat.

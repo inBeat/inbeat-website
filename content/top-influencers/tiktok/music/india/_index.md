@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In India In 2021
+title: Top 10 Music TikTok Influencers In India In 2022
 description: >-
-  Find top music TikTok influencers in India in 2021. Most popular hashtags: #duet #tiktok #foryoupage.
+  Find top music TikTok influencers in India in 2022. Most popular hashtags: #duet #tiktok #foryoupage.
 platform: TikTok
 hits: 1445
 text_top: Discover the most popular TikTok accounts on inBeat.

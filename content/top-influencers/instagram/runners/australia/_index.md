@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Australia In 2021
+title: Top 10 Runners Instagram Influencers In Australia In 2022
 description: >-
-  Find top runners Instagram influencers in Australia in 2021. Most popular hashtags: #plantbased #tgif #wegotnow.
+  Find top runners Instagram influencers in Australia in 2022. Most popular hashtags: #plantbased #tgif #wegotnow.
 platform: Instagram
 hits: 62
 text_top: See the most popular Instagram influencers on inBeat.

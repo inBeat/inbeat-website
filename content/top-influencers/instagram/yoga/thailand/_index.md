@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Thailand In 2021
+title: Top 10 Yoga Instagram Influencers In Thailand In 2022
 description: >-
-  Find top yoga Instagram influencers in Thailand in 2021. Most popular hashtags: #yoga #thailand #love #phuket.
+  Find top yoga Instagram influencers in Thailand in 2022. Most popular hashtags: #yoga #thailand #love #phuket.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram profiles on inBeat.

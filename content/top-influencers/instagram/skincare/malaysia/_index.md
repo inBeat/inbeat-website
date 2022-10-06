@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Malaysia In 2021
+title: Top 10 Skincare Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top skincare Instagram influencers in Malaysia in 2021. Most popular hashtags: #skincare #ootd #throwback.
+  Find top skincare Instagram influencers in Malaysia in 2022. Most popular hashtags: #skincare #ootd #throwback.
 platform: Instagram
 hits: 89
 text_top: Identify the top-rated Instagram accounts on inBeat.

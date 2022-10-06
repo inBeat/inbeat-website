@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In San Francisco In 2021
+title: Top 10 Comedians TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top comedians TikTok influencers in San Francisco in 2021. Most popular hashtags: #fyp #california #comedy #biden2020.
+  Find top comedians TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #california #comedy #biden2020.
 platform: TikTok
 hits: 8
 text_top: Discover the top-rated TikTok accounts on inBeat.

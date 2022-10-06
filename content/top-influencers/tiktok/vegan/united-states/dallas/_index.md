@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Dallas In 2021
+title: Top 10 Vegan TikTok Influencers In Dallas In 2022
 description: >-
-  Find top vegan TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
+  Find top vegan TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
 platform: TikTok
 hits: 5
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Dallas In 2021
+title: Top 10 Travel Instagram Influencers In Dallas In 2022
 description: >-
-  Find top travel Instagram influencers in Dallas in 2021. Most popular hashtags: #liketkit #dallas #ltkstyletip #ltkunder50.
+  Find top travel Instagram influencers in Dallas in 2022. Most popular hashtags: #liketkit #dallas #ltkstyletip #ltkunder50.
 platform: Instagram
 hits: 197
 text_top: See the top-rated Instagram influencers on inBeat.

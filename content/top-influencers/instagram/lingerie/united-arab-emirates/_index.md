@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Lingerie Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top lingerie Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #bikini #fashion #dubai #lingerie.
+  Find top lingerie Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #bikini #fashion #dubai #lingerie.
 platform: Instagram
 hits: 10
 text_top: Discover the best Instagram profiles on inBeat.

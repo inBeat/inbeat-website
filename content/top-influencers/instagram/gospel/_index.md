@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gospel Instagram Influencers In 2021
+title: Top 10 Gospel Instagram Influencers In 2022
 description: >-
-  Find top gospel Instagram influencers in 2021. Most popular hashtags: #gratefulheart #savethechildren #god.
+  Find top gospel Instagram influencers in 2022. Most popular hashtags: #gratefulheart #savethechildren #god.
 platform: Instagram
 hits: 1145
 text_top: Identify the most popular Instagram accounts on inBeat.

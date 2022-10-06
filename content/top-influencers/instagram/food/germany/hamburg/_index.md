@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Hamburg In 2021
+title: Top 10 Food Instagram Influencers In Hamburg In 2022
 description: >-
-  Find top food Instagram influencers in Hamburg in 2021. Most popular hashtags: #hamburg #food #love #fashion.
+  Find top food Instagram influencers in Hamburg in 2022. Most popular hashtags: #hamburg #food #love #fashion.
 platform: Instagram
 hits: 156
 text_top: Analyze the top-rated Instagram accounts on inBeat.

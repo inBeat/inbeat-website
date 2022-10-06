@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Las Vegas In 2021
+title: Top 10 Gardening Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top gardening Instagram influencers in Las Vegas in 2021. Most popular hashtags: #gardening #lasvegas #nature #travel.
+  Find top gardening Instagram influencers in Las Vegas in 2022. Most popular hashtags: #gardening #lasvegas #nature #travel.
 platform: Instagram
 hits: 7
 text_top: See the best Instagram profiles on inBeat.

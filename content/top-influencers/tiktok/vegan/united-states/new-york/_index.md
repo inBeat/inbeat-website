@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In New York In 2021
+title: Top 10 Vegan TikTok Influencers In New York In 2022
 description: >-
-  Find top vegan TikTok influencers in New York in 2021. Most popular hashtags: #fyp #vegan #foryou #newyork.
+  Find top vegan TikTok influencers in New York in 2022. Most popular hashtags: #fyp #vegan #foryou #newyork.
 platform: TikTok
 hits: 41
 text_top: See the best TikTok influencers on inBeat.

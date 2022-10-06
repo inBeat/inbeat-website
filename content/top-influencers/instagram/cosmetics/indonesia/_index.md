@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Indonesia In 2021
+title: Top 10 Cosmetics Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Indonesia in 2021. Most popular hashtags: #dirumahaja #mualumajang #muajogja.
+  Find top cosmetics Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #mualumajang #muajogja.
 platform: Instagram
 hits: 167
 text_top: See the most popular Instagram influencers on inBeat.

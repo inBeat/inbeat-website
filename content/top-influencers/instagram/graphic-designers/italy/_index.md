@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Italy In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Italy in 2021. Most popular hashtags: #italy #instagood #ig #giftedby.
+  Find top graphic-designers Instagram influencers in Italy in 2022. Most popular hashtags: #italy #instagood #ig #giftedby.
 platform: Instagram
 hits: 141
 text_top: Identify the most popular Instagram influencers on inBeat.

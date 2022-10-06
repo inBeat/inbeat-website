@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Madrid In 2021
+title: Top 10 Vegan Instagram Influencers In Madrid In 2022
 description: >-
-  Find top vegan Instagram influencers in Madrid in 2021. Most popular hashtags: #vegan #madrid #foodporn.
+  Find top vegan Instagram influencers in Madrid in 2022. Most popular hashtags: #vegan #madrid #foodporn.
 platform: Instagram
 hits: 45
 text_top: Identify the top-rated Instagram influencers on inBeat.

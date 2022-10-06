@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Greece In 2021
+title: Top 10 Guitar Instagram Influencers In Greece In 2022
 description: >-
-  Find top guitar Instagram influencers in Greece in 2021. Most popular hashtags: #greece #summer #music #guitar.
+  Find top guitar Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #music #guitar.
 platform: Instagram
 hits: 29
 text_top: Discover the best Instagram profiles on inBeat.

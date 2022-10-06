@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Switzerland In 2021
+title: Top 10 Models Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top models Instagram influencers in Switzerland in 2021. Most popular hashtags: #swissmodel #model #portrait #switzerland.
+  Find top models Instagram influencers in Switzerland in 2022. Most popular hashtags: #swissmodel #model #portrait #switzerland.
 platform: Instagram
 hits: 161
 text_top: Discover the best Instagram profiles on inBeat.

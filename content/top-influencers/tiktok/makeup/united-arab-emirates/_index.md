@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United Arab Emirates In 2021
+title: Top 10 Makeup TikTok Influencers In United Arab Emirates In 2022
 description: >-
-  Find top makeup TikTok influencers in United Arab Emirates in 2021. Most popular hashtags: #fyp #foryoupage #foryou #dubai.
+  Find top makeup TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #fyp #foryoupage #foryou #dubai.
 platform: TikTok
 hits: 56
 text_top: Analyze the most popular TikTok profiles on inBeat.

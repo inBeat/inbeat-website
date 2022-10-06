@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Hamburg In 2021
+title: Top 10 Photographers Instagram Influencers In Hamburg In 2022
 description: >-
-  Find top photographers Instagram influencers in Hamburg in 2021. Most popular hashtags: #germany #hamburg #travel #photography.
+  Find top photographers Instagram influencers in Hamburg in 2022. Most popular hashtags: #germany #hamburg #travel #photography.
 platform: Instagram
 hits: 180
 text_top: See the most popular Instagram profiles on inBeat.

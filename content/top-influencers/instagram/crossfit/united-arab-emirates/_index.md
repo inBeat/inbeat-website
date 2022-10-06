@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Crossfit Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top crossfit Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #fitness #crossfit #dubai #workout.
+  Find top crossfit Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #fitness #crossfit #dubai #workout.
 platform: Instagram
 hits: 11
 text_top: See the most popular Instagram profiles on inBeat.

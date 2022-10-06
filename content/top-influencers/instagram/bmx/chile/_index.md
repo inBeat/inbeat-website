@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Chile In 2021
+title: Top 10 Bmx Instagram Influencers In Chile In 2022
 description: >-
-  Find top bmx Instagram influencers in Chile in 2021. Most popular hashtags: #bmx #chile #monsterenergycl #santiago.
+  Find top bmx Instagram influencers in Chile in 2022. Most popular hashtags: #bmx #chile #monsterenergycl #santiago.
 platform: Instagram
 hits: 14
 text_top: Analyze the top-rated Instagram profiles on inBeat.

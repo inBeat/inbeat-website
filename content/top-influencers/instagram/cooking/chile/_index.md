@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Chile In 2021
+title: Top 10 Cooking Instagram Influencers In Chile In 2022
 description: >-
-  Find top cooking Instagram influencers in Chile in 2021. Most popular hashtags: #love #cooking #happy #smile.
+  Find top cooking Instagram influencers in Chile in 2022. Most popular hashtags: #love #cooking #happy #smile.
 platform: Instagram
 hits: 46
 text_top: Discover the most popular Instagram accounts on inBeat.

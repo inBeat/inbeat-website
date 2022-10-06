@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Poland In 2021
+title: Top 10 Cyclists Instagram Influencers In Poland In 2022
 description: >-
-  Find top cyclists Instagram influencers in Poland in 2021. Most popular hashtags: #cyclist #cycling #rower #kolarstwo.
+  Find top cyclists Instagram influencers in Poland in 2022. Most popular hashtags: #cyclist #cycling #rower #kolarstwo.
 platform: Instagram
 hits: 19
 text_top: See the most popular Instagram profiles on inBeat.

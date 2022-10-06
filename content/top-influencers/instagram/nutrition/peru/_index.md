@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Peru In 2021
+title: Top 10 Nutrition Instagram Influencers In Peru In 2022
 description: >-
-  Find top nutrition Instagram influencers in Peru in 2021. Most popular hashtags: #yomequedoencasa #saludybienestar #photooftheday.
+  Find top nutrition Instagram influencers in Peru in 2022. Most popular hashtags: #yomequedoencasa #saludybienestar #photooftheday.
 platform: Instagram
 hits: 18
 text_top: Identify the best Instagram influencers on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Nicolás Fuchs- 🏁Oficial🏁
     bio: >-
-      🇵🇪 2021 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
+      🇵🇪 2022 de vuelta a los orígenes!! 🏁Rally!! 🏆🥇Nuevos proyectos deportivos y empresariales. 😊 A influir favorablemente en la vida de la gente!!! .
     location: "Peru"
     followers: 35029
     engagement: 141

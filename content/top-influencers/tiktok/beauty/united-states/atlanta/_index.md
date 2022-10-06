@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Atlanta In 2021
+title: Top 10 Beauty TikTok Influencers In Atlanta In 2022
 description: >-
-  Find top beauty TikTok influencers in Atlanta in 2021. Most popular hashtags: #atlanta #fyp #beauty #duet.
+  Find top beauty TikTok influencers in Atlanta in 2022. Most popular hashtags: #atlanta #fyp #beauty #duet.
 platform: TikTok
 hits: 16
 text_top: Discover the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Handball Players Instagram Influencers In 2021
+title: Top 10 Handball Players Instagram Influencers In 2022
 description: >-
-  Find top handball players Instagram influencers in 2021. Most popular hashtags: #handball #balonmano #andebol.
+  Find top handball players Instagram influencers in 2022. Most popular hashtags: #handball #balonmano #andebol.
 platform: Instagram
 hits: 82
 text_top: Discover the top-rated Instagram profiles on inBeat.

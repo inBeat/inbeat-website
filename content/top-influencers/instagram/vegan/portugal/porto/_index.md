@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Porto In 2021
+title: Top 10 Vegan Instagram Influencers In Porto In 2022
 description: >-
-  Find top vegan Instagram influencers in Porto in 2021. Most popular hashtags: #portugal #travel #vegan.
+  Find top vegan Instagram influencers in Porto in 2022. Most popular hashtags: #portugal #travel #vegan.
 platform: Instagram
 hits: 4
 text_top: See the top-rated Instagram influencers on inBeat.

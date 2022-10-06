@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Poland In 2021
+title: Top 10 Stylists TikTok Influencers In Poland In 2022
 description: >-
-  Find top stylists TikTok influencers in Poland in 2021. Most popular hashtags: #dlaciebie #dc #foryou #fashion.
+  Find top stylists TikTok influencers in Poland in 2022. Most popular hashtags: #dlaciebie #dc #foryou #fashion.
 platform: TikTok
 hits: 9
 text_top: Discover the best TikTok accounts on inBeat.

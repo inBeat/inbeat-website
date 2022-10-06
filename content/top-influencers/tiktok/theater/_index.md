@@ -1,7 +1,7 @@
 ---
-title: Top 10 Theater TikTok Influencers In 2021
+title: Top 10 Theater TikTok Influencers In 2022
 description: >-
-  Find top theater TikTok influencers in 2021. Most popular hashtags: #duet #fyp #foryou #dance.
+  Find top theater TikTok influencers in 2022. Most popular hashtags: #duet #fyp #foryou #dance.
 platform: TikTok
 hits: 1059
 text_top: Discover the best TikTok influencers on inBeat.

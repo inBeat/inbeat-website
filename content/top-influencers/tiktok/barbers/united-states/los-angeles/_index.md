@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Los Angeles In 2021
+title: Top 10 Barbers TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top barbers TikTok influencers in Los Angeles in 2021. Most popular hashtags: #barber #fyp #foryou #losangeles.
+  Find top barbers TikTok influencers in Los Angeles in 2022. Most popular hashtags: #barber #fyp #foryou #losangeles.
 platform: TikTok
 hits: 11
 text_top: Identify the most popular TikTok accounts on inBeat.

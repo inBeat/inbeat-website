@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Madrid In 2021
+title: Top 10 Lifestyle Instagram Influencers In Madrid In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Madrid in 2021. Most popular hashtags: #madrid #lifestyle #ootd #instagood.
+  Find top lifestyle Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #lifestyle #ootd #instagood.
 platform: Instagram
 hits: 280
 text_top: See the most popular Instagram influencers on inBeat.

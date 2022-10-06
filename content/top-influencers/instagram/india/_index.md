@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In India In 2021
+title: Top 10 Instagram Influencers In India In 2022
 description: >-
-  Find top Instagram influencers in India in 2021. Most popular hashtags: #naturephotography #kerala #nature.
+  Find top Instagram influencers in India in 2022. Most popular hashtags: #naturephotography #kerala #nature.
 platform: Instagram
 hits: 23484
 text_top: Analyze the best Instagram profiles on inBeat.

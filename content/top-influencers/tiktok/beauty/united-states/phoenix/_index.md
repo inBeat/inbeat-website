@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Phoenix In 2021
+title: Top 10 Beauty TikTok Influencers In Phoenix In 2022
 description: >-
-  Find top beauty TikTok influencers in Phoenix in 2021. Most popular hashtags: #fyp #duet #funny #foryoupage.
+  Find top beauty TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #duet #funny #foryoupage.
 platform: TikTok
 hits: 7
 text_top: See the top-rated TikTok influencers on inBeat.

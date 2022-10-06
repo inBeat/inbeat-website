@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Seattle In 2021
+title: Top 10 Instagram Influencers In Seattle In 2022
 description: >-
-  Find top Instagram influencers in Seattle in 2021. Most popular hashtags: #seattleblogger #seattlephotographer #instagood.
+  Find top Instagram influencers in Seattle in 2022. Most popular hashtags: #seattleblogger #seattlephotographer #instagood.
 platform: Instagram
 hits: 1587
 text_top: Discover the best Instagram accounts on inBeat.

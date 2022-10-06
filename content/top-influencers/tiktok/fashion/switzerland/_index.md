@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Switzerland In 2021
+title: Top 10 Fashion TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top fashion TikTok influencers in Switzerland in 2021. Most popular hashtags: #fyp #fashion #foryou #fy.
+  Find top fashion TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #fashion #foryou #fy.
 platform: TikTok
 hits: 43
 text_top: See the best TikTok accounts on inBeat.

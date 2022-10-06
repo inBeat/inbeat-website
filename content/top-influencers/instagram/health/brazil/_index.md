@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Brazil In 2021
+title: Top 10 Health Instagram Influencers In Brazil In 2022
 description: >-
-  Find top health Instagram influencers in Brazil in 2021. Most popular hashtags: #lifestyle #goodvibes #tbt.
+  Find top health Instagram influencers in Brazil in 2022. Most popular hashtags: #lifestyle #goodvibes #tbt.
 platform: Instagram
 hits: 916
 text_top: Discover the top-rated Instagram influencers on inBeat.

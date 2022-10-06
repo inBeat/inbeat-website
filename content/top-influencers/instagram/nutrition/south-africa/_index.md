@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In South Africa In 2021
+title: Top 10 Nutrition Instagram Influencers In South Africa In 2022
 description: >-
-  Find top nutrition Instagram influencers in South Africa in 2021. Most popular hashtags: #fitness #capetown #southafrica #motivation.
+  Find top nutrition Instagram influencers in South Africa in 2022. Most popular hashtags: #fitness #capetown #southafrica #motivation.
 platform: Instagram
 hits: 22
 text_top: Analyze the best Instagram profiles on inBeat.

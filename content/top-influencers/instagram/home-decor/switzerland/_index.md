@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Switzerland In 2021
+title: Top 10 Home Decor Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top home decor Instagram influencers in Switzerland in 2021. Most popular hashtags: #homedecor #interior #interiordesign #interiorinspo.
+  Find top home decor Instagram influencers in Switzerland in 2022. Most popular hashtags: #homedecor #interior #interiordesign #interiorinspo.
 platform: Instagram
 hits: 27
 text_top: See the most popular Instagram influencers on inBeat.

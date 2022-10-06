@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Montreal In 2021
+title: Top 10 Photographers Instagram Influencers In Montreal In 2022
 description: >-
-  Find top photographers Instagram influencers in Montreal in 2021. Most popular hashtags: #montreal #photographer #photography #love.
+  Find top photographers Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #photographer #photography #love.
 platform: Instagram
 hits: 70
 text_top: Identify the most popular Instagram influencers on inBeat.

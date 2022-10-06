@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In United States In 2021
+title: Top 10 Motivational Speakers Instagram Influencers In United States In 2022
 description: >-
-  Find top motivational speakers Instagram influencers in United States in 2021. Most popular hashtags: #blacklivesmatter #blackouttuesday #oregon.
+  Find top motivational speakers Instagram influencers in United States in 2022. Most popular hashtags: #blacklivesmatter #blackouttuesday #oregon.
 platform: Instagram
 hits: 326
 text_top: Discover the best Instagram profiles on inBeat.

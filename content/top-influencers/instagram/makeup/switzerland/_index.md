@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Switzerland In 2021
+title: Top 10 Makeup Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top makeup Instagram influencers in Switzerland in 2021. Most popular hashtags: #makeup #switzerland #love #makeupartist.
+  Find top makeup Instagram influencers in Switzerland in 2022. Most popular hashtags: #makeup #switzerland #love #makeupartist.
 platform: Instagram
 hits: 134
 text_top: Discover the most popular Instagram influencers on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Kelly
     bio: >-
-      💄Makeup & Hair 🛥Marbella 12-05-2021 📩DM for appointments or write directly @salamonphoto for photoshoots!
+      💄Makeup & Hair 🛥Marbella 12-05-2022 📩DM for appointments or write directly @salamonphoto for photoshoots!
     location: "Switzerland"
     followers: 9943
     engagement: 861

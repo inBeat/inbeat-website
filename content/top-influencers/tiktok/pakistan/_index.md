@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Pakistan In 2021
+title: Top 10 TikTok Influencers In Pakistan In 2022
 description: >-
-  Find top TikTok influencers in Pakistan in 2021. Most popular hashtags: #foryou #duet #voocitup #fyp.
+  Find top TikTok influencers in Pakistan in 2022. Most popular hashtags: #foryou #duet #voocitup #fyp.
 platform: TikTok
 hits: 3766
 text_top: Analyze the top-rated TikTok profiles on inBeat.

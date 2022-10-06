@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Austria In 2021
+title: Top 10 Cooking Instagram Influencers In Austria In 2022
 description: >-
-  Find top cooking Instagram influencers in Austria in 2021. Most popular hashtags: #cooking #vienna #ootd #healthyfood.
+  Find top cooking Instagram influencers in Austria in 2022. Most popular hashtags: #cooking #vienna #ootd #healthyfood.
 platform: Instagram
 hits: 34
 text_top: See the top-rated Instagram accounts on inBeat.

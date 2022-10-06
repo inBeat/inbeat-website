@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Los Angeles In 2021
+title: Top 10 Christian Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top christian Instagram influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #love #art.
+  Find top christian Instagram influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #love #art.
 platform: Instagram
 hits: 78
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Berlin In 2021
+title: Top 10 Barbers Instagram Influencers In Berlin In 2022
 description: >-
-  Find top barbers Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #barber #hamburg #frankfurt.
+  Find top barbers Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #barber #hamburg #frankfurt.
 platform: Instagram
 hits: 12
 text_top: Discover the best Instagram influencers on inBeat.

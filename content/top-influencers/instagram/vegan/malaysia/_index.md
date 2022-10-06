@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Malaysia In 2021
+title: Top 10 Vegan Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top vegan Instagram influencers in Malaysia in 2021. Most popular hashtags: #cleaneating #plantbased #vegan #cleanbeauty.
+  Find top vegan Instagram influencers in Malaysia in 2022. Most popular hashtags: #cleaneating #plantbased #vegan #cleanbeauty.
 platform: Instagram
 hits: 20
 text_top: Analyze the top-rated Instagram influencers on inBeat.

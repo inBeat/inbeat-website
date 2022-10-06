@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Australia In 2021
+title: Top 10 Skincare Instagram Influencers In Australia In 2022
 description: >-
-  Find top skincare Instagram influencers in Australia in 2021. Most popular hashtags: #skincare #gifted #makeup.
+  Find top skincare Instagram influencers in Australia in 2022. Most popular hashtags: #skincare #gifted #makeup.
 platform: Instagram
 hits: 242
 text_top: Identify the most popular Instagram profiles on inBeat.

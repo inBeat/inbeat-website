@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Houston In 2021
+title: Top 10 Beauty TikTok Influencers In Houston In 2022
 description: >-
-  Find top beauty TikTok influencers in Houston in 2021. Most popular hashtags: #fyp #beauty #foryou #makeup.
+  Find top beauty TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #beauty #foryou #makeup.
 platform: TikTok
 hits: 26
 text_top: Identify the top-rated TikTok accounts on inBeat.

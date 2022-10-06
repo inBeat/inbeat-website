@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Argentina In 2021
+title: Top 10 Makeup Instagram Influencers In Argentina In 2022
 description: >-
-  Find top makeup Instagram influencers in Argentina in 2021. Most popular hashtags: #makeup #makeupartist #maquillaje #halloween.
+  Find top makeup Instagram influencers in Argentina in 2022. Most popular hashtags: #makeup #makeupartist #maquillaje #halloween.
 platform: Instagram
 hits: 469
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Germany In 2021
+title: Top 10 Hair Dressers Instagram Influencers In Germany In 2022
 description: >-
-  Find top hair dressers Instagram influencers in Germany in 2021. Most popular hashtags: #hair #beauty #girl #instagood.
+  Find top hair dressers Instagram influencers in Germany in 2022. Most popular hashtags: #hair #beauty #girl #instagood.
 platform: Instagram
 hits: 20
 text_top: Discover the most popular Instagram profiles on inBeat.

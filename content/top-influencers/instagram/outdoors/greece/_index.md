@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Greece In 2021
+title: Top 10 Outdoors Instagram Influencers In Greece In 2022
 description: >-
-  Find top outdoors Instagram influencers in Greece in 2021. Most popular hashtags: #outdoors #photooftheday #greece #summer.
+  Find top outdoors Instagram influencers in Greece in 2022. Most popular hashtags: #outdoors #photooftheday #greece #summer.
 platform: Instagram
 hits: 85
 text_top: Analyze the best Instagram accounts on inBeat.

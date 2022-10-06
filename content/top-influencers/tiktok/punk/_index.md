@@ -1,7 +1,7 @@
 ---
-title: Top 10 Punk TikTok Influencers In 2021
+title: Top 10 Punk TikTok Influencers In 2022
 description: >-
-  Find top punk TikTok influencers in 2021. Most popular hashtags: #duet #fyp #greenscreen #punk.
+  Find top punk TikTok influencers in 2022. Most popular hashtags: #duet #fyp #greenscreen #punk.
 platform: TikTok
 hits: 734
 text_top: Identify the most popular TikTok profiles on inBeat.

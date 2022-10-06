@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In New Delhi In 2021
+title: Top 10 Beauty Instagram Influencers In New Delhi In 2022
 description: >-
-  Find top beauty Instagram influencers in New Delhi in 2021. Most popular hashtags: #fashionblogger #newdelhi #beauty #delhi.
+  Find top beauty Instagram influencers in New Delhi in 2022. Most popular hashtags: #fashionblogger #newdelhi #beauty #delhi.
 platform: Instagram
 hits: 88
 text_top: Discover the best Instagram accounts on inBeat.

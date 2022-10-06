@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Hamburg In 2021
+title: Top 10 TikTok Influencers In Hamburg In 2022
 description: >-
-  Find top TikTok influencers in Hamburg in 2021. Most popular hashtags: #duett #fy #foryou.
+  Find top TikTok influencers in Hamburg in 2022. Most popular hashtags: #duett #fy #foryou.
 platform: TikTok
 hits: 176
 text_top: Analyze the most popular TikTok accounts on inBeat.

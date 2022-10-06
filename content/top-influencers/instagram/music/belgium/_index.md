@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Belgium In 2021
+title: Top 10 Music Instagram Influencers In Belgium In 2022
 description: >-
-  Find top music Instagram influencers in Belgium in 2021. Most popular hashtags: #music #friends #artist.
+  Find top music Instagram influencers in Belgium in 2022. Most popular hashtags: #music #friends #artist.
 platform: Instagram
 hits: 75
 text_top: See the most popular Instagram influencers on inBeat.

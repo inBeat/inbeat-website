@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Bali In 2021
+title: Top 10 Travel TikTok Influencers In Bali In 2022
 description: >-
-  Find top travel TikTok influencers in Bali in 2021. Most popular hashtags: #bali #fyp #indonesia #travel.
+  Find top travel TikTok influencers in Bali in 2022. Most popular hashtags: #bali #fyp #indonesia #travel.
 platform: TikTok
 hits: 30
 text_top: Analyze the best TikTok profiles on inBeat.

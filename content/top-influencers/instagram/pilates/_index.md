@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pilates Instagram Influencers In 2021
+title: Top 10 Pilates Instagram Influencers In 2022
 description: >-
-  Find top pilates Instagram influencers in 2021. Most popular hashtags: #pilatesinstructor #yogalove #yogainspiration.
+  Find top pilates Instagram influencers in 2022. Most popular hashtags: #pilatesinstructor #yogalove #yogainspiration.
 platform: Instagram
 hits: 1915
 text_top: Identify the best Instagram profiles on inBeat.

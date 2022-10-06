@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In France In 2021
+title: Top 10 Yoga TikTok Influencers In France In 2022
 description: >-
-  Find top yoga TikTok influencers in France in 2021. Most popular hashtags: #yoga #pourtoi #foryou #challenge.
+  Find top yoga TikTok influencers in France in 2022. Most popular hashtags: #yoga #pourtoi #foryou #challenge.
 platform: TikTok
 hits: 22
 text_top: Discover the top-rated TikTok profiles on inBeat.

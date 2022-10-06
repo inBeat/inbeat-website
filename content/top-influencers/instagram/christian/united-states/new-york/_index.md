@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In New York In 2021
+title: Top 10 Christian Instagram Influencers In New York In 2022
 description: >-
-  Find top christian Instagram influencers in New York in 2021. Most popular hashtags: #ad #viral #christian #explorepage.
+  Find top christian Instagram influencers in New York in 2022. Most popular hashtags: #ad #viral #christian #explorepage.
 platform: Instagram
 hits: 59
 text_top: Discover the most popular Instagram accounts on inBeat.

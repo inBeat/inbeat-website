@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Austria In 2021
+title: Top 10 Athletes Instagram Influencers In Austria In 2022
 description: >-
-  Find top athletes Instagram influencers in Austria in 2021. Most popular hashtags: #austria #italy #mountains.
+  Find top athletes Instagram influencers in Austria in 2022. Most popular hashtags: #austria #italy #mountains.
 platform: Instagram
 hits: 63
 text_top: See the most popular Instagram profiles on inBeat.

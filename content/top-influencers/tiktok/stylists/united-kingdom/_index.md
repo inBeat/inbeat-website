@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In United Kingdom In 2021
+title: Top 10 Stylists TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top stylists TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fashion #fyp #foryou #stylist.
+  Find top stylists TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fashion #fyp #foryou #stylist.
 platform: TikTok
 hits: 22
 text_top: Analyze the best TikTok accounts on inBeat.

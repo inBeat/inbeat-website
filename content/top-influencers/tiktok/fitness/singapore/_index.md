@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Singapore In 2021
+title: Top 10 Fitness TikTok Influencers In Singapore In 2022
 description: >-
-  Find top fitness TikTok influencers in Singapore in 2021. Most popular hashtags: #fyp #fitness #duet #foryou.
+  Find top fitness TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #fitness #duet #foryou.
 platform: TikTok
 hits: 14
 text_top: See the most popular TikTok accounts on inBeat.

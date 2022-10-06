@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Medellín In 2021
+title: Top 10 Fashion Instagram Influencers In Medellín In 2022
 description: >-
-  Find top fashion Instagram influencers in Medellín in 2021. Most popular hashtags: #colombia #medellin #fashion #makeup.
+  Find top fashion Instagram influencers in Medellín in 2022. Most popular hashtags: #colombia #medellin #fashion #makeup.
 platform: Instagram
 hits: 42
 text_top: See the most popular Instagram accounts on inBeat.

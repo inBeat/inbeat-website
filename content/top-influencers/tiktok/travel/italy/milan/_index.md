@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Milan In 2021
+title: Top 10 Travel TikTok Influencers In Milan In 2022
 description: >-
-  Find top travel TikTok influencers in Milan in 2021. Most popular hashtags: #travel #milano #italy #perte.
+  Find top travel TikTok influencers in Milan in 2022. Most popular hashtags: #travel #milano #italy #perte.
 platform: TikTok
 hits: 23
 text_top: Discover the top-rated TikTok accounts on inBeat.
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
   - username: "chiarasordi7"
     fullname: >-
       Chiara Sordi

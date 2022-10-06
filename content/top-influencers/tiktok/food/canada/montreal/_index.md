@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Montreal In 2021
+title: Top 10 Food TikTok Influencers In Montreal In 2022
 description: >-
-  Find top food TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #montreal #food #quebec.
+  Find top food TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #montreal #food #quebec.
 platform: TikTok
 hits: 26
 text_top: See the top-rated TikTok accounts on inBeat.

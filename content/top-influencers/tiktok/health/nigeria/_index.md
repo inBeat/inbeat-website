@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Nigeria In 2021
+title: Top 10 Health TikTok Influencers In Nigeria In 2022
 description: >-
-  Find top health TikTok influencers in Nigeria in 2021. Most popular hashtags: #tiktok #tiktoknigeria #fyp #nigeria.
+  Find top health TikTok influencers in Nigeria in 2022. Most popular hashtags: #tiktok #tiktoknigeria #fyp #nigeria.
 platform: TikTok
 hits: 8
 text_top: Identify the best TikTok accounts on inBeat.

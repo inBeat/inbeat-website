@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Norway In 2021
+title: Top 10 Bakers Instagram Influencers In Norway In 2022
 description: >-
-  Find top bakers Instagram influencers in Norway in 2021. Most popular hashtags: #instagood #bikersofinstagram #motorcycle #bikelife.
+  Find top bakers Instagram influencers in Norway in 2022. Most popular hashtags: #instagood #bikersofinstagram #motorcycle #bikelife.
 platform: Instagram
 hits: 14
 text_top: See the most popular Instagram influencers on inBeat.

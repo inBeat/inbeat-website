@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Bogotá In 2021
+title: Top 10 Instagram Influencers In Bogotá In 2022
 description: >-
-  Find top Instagram influencers in Bogotá in 2021. Most popular hashtags: #reels #colombia #tiktok.
+  Find top Instagram influencers in Bogotá in 2022. Most popular hashtags: #reels #colombia #tiktok.
 platform: Instagram
 hits: 584
 text_top: See the top-rated Instagram influencers on inBeat.

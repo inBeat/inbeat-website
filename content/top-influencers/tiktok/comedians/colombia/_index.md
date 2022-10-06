@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Colombia In 2021
+title: Top 10 Comedians TikTok Influencers In Colombia In 2022
 description: >-
-  Find top comedians TikTok influencers in Colombia in 2021. Most popular hashtags: #parati #colombia #fyp #comedia.
+  Find top comedians TikTok influencers in Colombia in 2022. Most popular hashtags: #parati #colombia #fyp #comedia.
 platform: TikTok
 hits: 282
 text_top: Analyze the most popular TikTok profiles on inBeat.

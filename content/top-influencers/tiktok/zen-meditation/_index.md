@@ -1,7 +1,7 @@
 ---
-title: Top 10 Zen Meditation TikTok Influencers In 2021
+title: Top 10 Zen Meditation TikTok Influencers In 2022
 description: >-
-  Find top zen meditation TikTok influencers in 2021. Most popular hashtags: #meditation #spirituality #duet #spiritualawakening.
+  Find top zen meditation TikTok influencers in 2022. Most popular hashtags: #meditation #spirituality #duet #spiritualawakening.
 platform: TikTok
 hits: 586
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Nigeria In 2021
+title: Top 10 Food Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top food Instagram influencers in Nigeria in 2021. Most popular hashtags: #endsars #endpolicebrutality #style #explore.
+  Find top food Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #style #explore.
 platform: Instagram
 hits: 65
 text_top: Discover the top-rated Instagram profiles on inBeat.

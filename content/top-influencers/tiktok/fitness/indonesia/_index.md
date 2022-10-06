@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Indonesia In 2021
+title: Top 10 Fitness TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top fitness TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryou #fitness #tiktok.
+  Find top fitness TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryou #fitness #tiktok.
 platform: TikTok
 hits: 14
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Singapore In 2021
+title: Top 10 Cosmetics Instagram Influencers In Singapore In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Singapore in 2021. Most popular hashtags: #beauty #makeup #ootd #skincare.
+  Find top cosmetics Instagram influencers in Singapore in 2022. Most popular hashtags: #beauty #makeup #ootd #skincare.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,130 +1,223 @@
-<div id="header-container">
-    {{- partial "site/banner.html" (dict "context" . "text" "See how it works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
-    <div class="container">
-        <div class="row middle-xs between-xs" id="header">
-            <div class="col-xs-6 col-sm-1 col-md-1">
-                <a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo" id="inbeat-animated-logo">
-                </a>
-            </div>
-            <div class="col-xs-7 hide-sm">
-                <ul>
-                    <li class="has-submenu">
-                        <a href="javascript:void(0)" title="Features">
-                            Features
-                            <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1L5.4698 5L10 1" stroke="black"/>
-                            </svg>
-                        </a>
-                        <ul class="submenu">
-                            <li>
-                                <a href="{{- $.Site.BaseURL -}}features/quicksearch" title="QuickSearch">
-                                    <div class="icons">{{- partial "icons/menu-quicksearch-icon.html" -}}</div>
-                                    <div>
-                                        <h4>QuickSearch</h4>
-                                        <p>Database of millions of influencers</p>
-                                    </div>
-                                </a>
-                            </li>
-                            <li><a href="{{- $.Site.BaseURL -}}features/deepsearch" title="DeepSearch">
-                                    <div class="icons">{{- partial "icons/menu-deepsearch-icon.html" -}}</div>
-                                    <div>
-                                        <h4>DeepSearch</h4>
-                                        <p>Automated look-alike searches</p>
-                                    </div>
-                                </a>
-                            </li>
-                            <li><a href="{{- $.Site.BaseURL -}}features/export-contacts" title="Contact Export">
-                                    <div class="icons">{{- partial "icons/menu-contactexports-icon.html" -}}</div>
-                                    <div>
-                                        <h4>Contact Exports</h4>
-                                        <p>Export all influencer information</p>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
-                    <li  class="has-submenu">
-                        <a href="javascript:void(0)" title="Resources">
-                            Resources
-                            <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1L5.4698 5L10 1" stroke="black"/>
-                            </svg>
-                        </a>    
-                        <ul class="submenu grey-bg">
-                            <li>
-                                <a href="{{- $.Site.BaseURL -}}free-toolkit" title="Free Toolkit">
-                                    <div class="icons">{{- partial "icons/menu-freetoolkit-icon.html" -}}</div>
-                                    <div>
-                                        <h4>Free Toolkit</h4>
-                                        <p>A series of tools for influencer marketing</p>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="{{- $.Site.BaseURL -}}articles" title="Articles">
-                                    <div class="icons">{{- partial "icons/menu-articles-icon.html" -}}</div>
-                                    <div>
-                                        <h4>Articles</h4>
-                                        <p>Read what’s new in influencer marketing</p>
-                                    </div>
-                                </a>
-                            </li>
-                            <!-- <li><a href="{{- $.Site.BaseURL -}}categories/podcasts" title="Podcast">
-                                    <div class="icons">{{- partial "icons/menu-podcast-icon.html" -}}</div>
-                                    <div>
-                                        <h4>The Pulse Podcast</h4>
-                                        <p>Listen to influencer marketing experts</p>
-                                    </div>
-                                </a>
-                            </li> -->
-                        </ul>
-                    </li>
-                    <li class="creator-studio"><a href="{{- $.Site.BaseURL -}}ugc-platform" title="UGC platform">UGC platform</a><span class="new-badge">NEW</span></li>
-                    <!-- <li><a href="https://teaminbeat.typeform.com/to/sLHT8z3M" target="_blank" title="Become a creator">Become a creator</a></li> -->
-                </ul>
-            </div>
-            <div class="col-xs-4 hide-sm">
-                <ul class="right">
-                    <li><a href="https://app.inbeat.co" title="Sign in">Sign in</a></li>
-                    <li class="cta">
-                        <a href="{{- $.Site.Data.settings.signupLink -}}" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">
-                            Sign up
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-xs-6 hide-sm-up">
-                <button class="hamburger hamburger--squeeze" type="button" id="menu-icon">
-                    <span class="hamburger-box">
-                        <span class="hamburger-inner"></span>
-                    </span>
-                </button>
-            </div>
-        </div>
-    </div>
-{{$url := print "/articles/" .File.BaseFileName "/"}}
-    {{ if and (eq .Page.RelPermalink $url) }}
-        <div class="progress-bar--container">
-            <div class="progress-bar"></div>
-        </div>
-    {{ end }}
-</div>
+<section id="header-container">
+	{{- partial "site/banner.html" (dict "context" . "text" "See how inBeat works" "url" "javascript:void(0)" "class" "popupTrigger" "show" .Params.banner.show) -}}
+	<div class="container">
+		<div class="row middle-xs between-xs" id="header">
+			<div class="col-xs-6 col-sm-1 col-md-1">
+				<a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo">
+					<div class="slide">{{- partial "icons/inbeat-logo.html" -}}</div>
+				</a>
+			</div>
+			<div class="col-xs-7 hide-sm">
+				<ul>
+					<li class="menu-parent has-submenu">
+						<a href="javascript:void(0)" title="Features">
+							Features
+							<svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M1 1L5.4698 5L10 1" stroke="black" />
+							</svg>
+						</a>
+						<div id="navigation">
+							<div class="submenu container auto-width">
+								<div class="row">
+									{{- range .Site.Data.navigation.features -}}
+									<div class="col-sm-6 col-md-6 column {{ .class }}">
+										<ul>
+											<div class="title">
+												<svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+													<ellipse fill="black" rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+												</svg>
+												<h4>{{ .title }}</h4>
+												{{ if .tag}}
+												<span class="tag">{{ .tag }}</span>
+												{{ end }}
+											</div>
+											<div class="pages">
+												{{- range .pages -}}
+												<li class="page">
+													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+														<h4>
+															{{ .name }} {{ if .tag}}
+															<span class="tag">{{ .tag }}</span>
+															{{ end }}
+														</h4>
+														{{ if .description }}
+														<p>{{ .description }}</p>
+														{{ end }}
+													</a>
+												</li>
+												{{- end -}} {{ if eq .hasMorePage true }}
+												<a href="/free-toolkit" class="more-link">
+													See all tools
+													<span>→</span>
+												</a>
+												{{ end }}
+											</div>
+										</ul>
+									</div>
+									{{ with .announcement }}
+									<div style="background-color:#{{ .color }}" class="col-sm-6 col-md-6 column announcement">
+										<h2>{{ .topText }}</h2>
+										<h1 style="margin-bottom: 72px">{{ .title }}</h1>
+										<a href="{{ .cta.link }}" style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank">{{ .cta.text }}</a>
+									</div>
+									{{ end }} {{- end -}}
+								</div>
+							</div>
+						</div>
+					</li>
+					<li><a href="/pricing" title="Pricing">Pricing</a></li>
+					<li class="has-submenu mobile-adjusted menu-parent">
+						<a href="javascript:void(0)" title="Resources">
+							Resources
+							<svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path d="M1 1L5.4698 5L10 1" stroke="black" />
+							</svg>
+						</a>
+						<div id="navigation" class="resources-navigation">
+							<div class="submenu container auto-width">
+								<div class="row">
+									{{- range .Site.Data.navigation.resources -}}
+									<div class="col-sm-4 col-md-4 column">
+										<ul>
+											<div class="title">
+												<svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+													<ellipse fill="black" rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+												</svg>
+												<h4>{{ .title }}</h4>
+												{{ if .tag}}
+												<span class="tag">{{ .tag }}</span>
+												{{ end }}
+											</div>
+											<div class="pages">
+												{{- range .pages -}}
+												<li class="page">
+													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+														<h4>
+															{{ .name }} {{ if .tag}}
+															<span class="tag">{{ .tag }}</span>
+															{{ end }}
+														</h4>
+														{{ if .description }}
+														<p>{{ .description }}</p>
+														{{ end }}
+													</a>
+												</li>
+												{{- end -}} {{ if eq .hasMorePage true }}
+												<a href="/free-toolkit" class="more-link">
+													See all tools
+													<span>→</span>
+												</a>
+												{{ end }}
+											</div>
+										</ul>
+									</div>
+									{{ with .announcement }}
+									<div style="background-color:#{{ .color }}" class="col-sm-4 col-md-4 column announcement">
+										<h2>{{ .topText }}</h2>
+										<h1>{{ .title }}</h1>
+										<a href="{{ .cta.link }}" style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank">{{ .cta.text }}</a>
+									</div>
+									{{ end }} {{- end -}}
+								</div>
+							</div>
+						</div>
+					</li>
+					<li class="creator-studio">
+						<a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a>
+						<span class="new-badge">NEW</span>
+					</li>
+				</ul>
+			</div>
+			<div class="col-xs-4 hide-sm">
+				<ul class="right">
+					<li class="cta">
+						<a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+						<a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-xs-6 hide-sm-up">
+				<button class="hamburger hamburger--squeeze" type="button" id="menu-icon">
+					<span class="hamburger-box">
+						<span class="hamburger-inner"></span>
+					</span>
+				</button>
+			</div>
+		</div>
+	</div>
+	{{$url := print "/articles/" .File.BaseFileName "/"}} {{ if and (eq .Page.RelPermalink $url) }}
+	<div class="progress-bar--container">
+		<div class="progress-bar"></div>
+	</div>
+	{{ end }}
+</section>
 <div id="menu-overlay">
-    <ul>
-        <li><a href="{{- $.Site.BaseURL -}}" title="Home">Home</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}features/quicksearch" title="QuickSearch">QuickSearch</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}features/deepsearch" title="DeepSearch">DeepSearch</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}features/export-contacts" title="Contact Export">Contact Exports</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}micro-influencer-platform" title="Micro Influencer Platform">Micro Influencer Platform</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
-        <li><a href="{{- $.Site.BaseURL -}}articles" title="Blog">Blog</a></li>
-        <li><a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a demo">Book a demo</a></li>
-    </ul>
-    <div class="cta">
-        <a class="btn btn-gradient btn-md" href="https://app.inbeat.co/get-started" target="_blank">
-            <span>Try it now</span>
-        </a>
-        <a class="btn btn-md" href="https://app.inbeat.co"><span>Sign in</span></a>
-    </div>
+	<div class="container">
+		<div class="row">
+			<ul class="dropdown-wrapper">
+				<li class="dropdown-item">
+					<div class="dropdown">
+						<a>Features</a>
+						<svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path d="M1 0.803223L10 9.80322L19 0.803223" stroke="black" />
+						</svg>
+					</div>
+
+					<div class="content">
+						{{- range .Site.Data.navigation.features -}}
+						<ul>
+							<li class="content-title title--black">
+								<svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<ellipse fill="black" rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+								</svg>
+								{{ .title }}
+							</li>
+							{{- range .pages -}}
+							<li>
+								<a href="{{- $.Site.BaseURL -}}{{- .link -}}">{{ .name }}</a>
+								<p>{{ .description }}</p>
+							</li>
+							{{ end }}
+						</ul>
+						{{- end -}}
+					</div>
+				</li>
+				<li><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a></li>
+				<li class="dropdown-item">
+					<div class="dropdown">
+						<a>Resources</a>
+						<svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path d="M1 0.803223L10 9.80322L19 0.803223" stroke="black" />
+						</svg>
+					</div>
+					<div class="content">
+						{{- range .Site.Data.navigation.resources -}}
+						<ul>
+							<li class="content-title title--black">
+								<svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<ellipse fill="black" rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
+								</svg>
+								{{ .title }}
+							</li>
+							{{- range .pages -}}
+							<li>
+								<a href="{{- $.Site.BaseURL -}}{{- .link -}}">{{ .name }}</a>
+								<p>{{ .description }}</p>
+							</li>
+							{{ end }}
+						</ul>
+						{{- end -}}
+					</div>
+				</li>
+				<li><a href="{{- $.Site.BaseURL -}}/ugc-studio" title="UGC Studio">UGC Studio</a></li>
+			</ul>
+
+			<div class="cta">
+				<a class="btn btn-lg" href="https://app.inbeat.co/get-started" target="_blank">
+					<span>Sign up</span>
+				</a>
+				<a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+			</div>
+		</div>
+	</div>
 </div>

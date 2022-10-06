@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In South Africa In 2021
+title: Top 10 Skincare TikTok Influencers In South Africa In 2022
 description: >-
-  Find top skincare TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #skincare #foryou #viral.
+  Find top skincare TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #skincare #foryou #viral.
 platform: TikTok
 hits: 10
 text_top: Analyze the best TikTok influencers on inBeat.

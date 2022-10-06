@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Toronto In 2021
+title: Top 10 Comedians TikTok Influencers In Toronto In 2022
 description: >-
-  Find top comedians TikTok influencers in Toronto in 2021. Most popular hashtags: #comedy #toronto #fyp #comedian.
+  Find top comedians TikTok influencers in Toronto in 2022. Most popular hashtags: #comedy #toronto #fyp #comedian.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok influencers on inBeat.

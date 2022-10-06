@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Portugal In 2021
+title: Top 10 Bodybuilding Instagram Influencers In Portugal In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in Portugal in 2021. Most popular hashtags: #bodybuilding #fitness #workout #fit.
+  Find top bodybuilding Instagram influencers in Portugal in 2022. Most popular hashtags: #bodybuilding #fitness #workout #fit.
 platform: Instagram
 hits: 16
 text_top: Discover the most popular Instagram influencers on inBeat.

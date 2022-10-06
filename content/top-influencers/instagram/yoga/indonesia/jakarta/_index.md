@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Jakarta In 2021
+title: Top 10 Yoga Instagram Influencers In Jakarta In 2022
 description: >-
-  Find top yoga Instagram influencers in Jakarta in 2021. Most popular hashtags: #yoga #bali #quotes #lfl.
+  Find top yoga Instagram influencers in Jakarta in 2022. Most popular hashtags: #yoga #bali #quotes #lfl.
 platform: Instagram
 hits: 36
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Montreal In 2021
+title: Top 10 Skincare Instagram Influencers In Montreal In 2022
 description: >-
-  Find top skincare Instagram influencers in Montreal in 2021. Most popular hashtags: #skincare #thenoisetier #montreal.
+  Find top skincare Instagram influencers in Montreal in 2022. Most popular hashtags: #skincare #thenoisetier #montreal.
 platform: Instagram
 hits: 26
 text_top: Analyze the most popular Instagram influencers on inBeat.

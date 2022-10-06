@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Toronto In 2021
+title: Top 10 Food TikTok Influencers In Toronto In 2022
 description: >-
-  Find top food TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #toronto #food #foryou.
+  Find top food TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #food #foryou.
 platform: TikTok
 hits: 70
 text_top: Analyze the top-rated TikTok influencers on inBeat.

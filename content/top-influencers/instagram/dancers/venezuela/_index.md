@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Venezuela In 2021
+title: Top 10 Dancers Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top dancers Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #dancer #dance #love.
+  Find top dancers Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #dancer #dance #love.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram profiles on inBeat.

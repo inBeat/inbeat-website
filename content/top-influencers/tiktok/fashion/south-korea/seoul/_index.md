@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Seoul In 2021
+title: Top 10 Fashion TikTok Influencers In Seoul In 2022
 description: >-
-  Find top fashion TikTok influencers in Seoul in 2021. Most popular hashtags: #fyp #fashion #foryou #korea.
+  Find top fashion TikTok influencers in Seoul in 2022. Most popular hashtags: #fyp #fashion #foryou #korea.
 platform: TikTok
 hits: 6
 text_top: See the top-rated TikTok accounts on inBeat.

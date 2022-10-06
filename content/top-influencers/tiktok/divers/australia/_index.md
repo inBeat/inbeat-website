@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Australia In 2021
+title: Top 10 Divers TikTok Influencers In Australia In 2022
 description: >-
-  Find top divers TikTok influencers in Australia in 2021. Most popular hashtags: #diversity #duet #diving #fyp.
+  Find top divers TikTok influencers in Australia in 2022. Most popular hashtags: #diversity #duet #diving #fyp.
 platform: TikTok
 hits: 22
 text_top: See the most popular TikTok profiles on inBeat.

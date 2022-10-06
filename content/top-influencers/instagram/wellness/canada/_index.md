@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Canada In 2021
+title: Top 10 Wellness Instagram Influencers In Canada In 2022
 description: >-
-  Find top wellness Instagram influencers in Canada in 2021. Most popular hashtags: #discoveron #silvermodel #naturallygrey.
+  Find top wellness Instagram influencers in Canada in 2022. Most popular hashtags: #discoveron #silvermodel #naturallygrey.
 platform: Instagram
 hits: 195
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Rome In 2021
+title: Top 10 Food TikTok Influencers In Rome In 2022
 description: >-
-  Find top food TikTok influencers in Rome in 2021. Most popular hashtags: #perte #italy #neiperte #viral.
+  Find top food TikTok influencers in Rome in 2022. Most popular hashtags: #perte #italy #neiperte #viral.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok accounts on inBeat.

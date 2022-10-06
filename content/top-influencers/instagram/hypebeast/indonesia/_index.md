@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2021
+title: Top 10 Hypebeast Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Indonesia in 2021. Most popular hashtags: #hypebeast #hypebeaststyle #indobikelifestyle #indonesia.
+  Find top hypebeast Instagram influencers in Indonesia in 2022. Most popular hashtags: #hypebeast #hypebeaststyle #indobikelifestyle #indonesia.
 platform: Instagram
 hits: 87
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -104,7 +104,7 @@
 					}
 				}
 			}
-
+	
 		}
 	}
 	.icon-group{
@@ -121,4 +121,55 @@
 			width: 76.8rem;
 		}
 	}
+}
+.clients-influencer{
+    background-color: $light_grey;
+	padding: 110px 0px 97px 0px;
+	@include breakpoint(md-down) {
+		padding-bottom: 70px;
+		padding-top: 64px;
+	}
+	width: 100%;
+	overflow:hidden;
+  .slider-static {
+	  @include breakpoint(md-down) {
+		  display: none;
+	  }
+	  display: flex;
+	  align-items: center;
+	  justify-content: space-between;
+  }
+  
+  .slide {
+	  display: flex;
+	  justify-content: center;
+	  @include breakpoint(md-down) {
+		  padding: 0px 42px;
+	}
+	  &.stack-logo{
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
+		  flex-direction: column;
+		  gap: 55px;
+      margin-bottom: 55px;
+	  }
+  }
+  .slider{
+	  @include breakpoint(md) {
+		  margin-bottom: 1rem;
+		  display: none;
+	  }
+
+	  .slick-track{
+		  display: flex;
+		  align-items: center;
+		  @include breakpoint(sm) {
+			gap: 2rem;
+		}
+		  @include breakpoint(md) {
+			gap: unset;
+		}
+	  }	
+  }
 }
