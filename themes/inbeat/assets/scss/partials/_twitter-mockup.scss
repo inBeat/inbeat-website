@@ -89,16 +89,23 @@
             display: flex;
             overflow-x: scroll;
             gap: 10px;
+            margin-left: -80px;
             &::-webkit-scrollbar {
                 display: none;
             }
             scrollbar-width: none;
             .twitter__post-body-section{
                 margin-right: 0px;
-                width: 290px;
                 flex-shrink: 0;
                 &:last-child{
                     margin-right: 10px;
+                }
+                &:first-child{
+                    margin-left: 80px;
+                }
+                .twitter-post{
+                    width: 290px !important;
+                    width: 100%;
                 }
             }
         }
@@ -113,6 +120,8 @@
                 display: flex;
                 align-items: center;
                 justify-content: center;
+                box-sizing: border-box;
+                width: 317px;
                 // transition: all 0.2s ease;
                 .preview-image-body{
                     height: 100%;
@@ -165,3 +174,6 @@
             }
         }
     }
+.twitter-dropzone{
+    margin-top: 19px;
+}

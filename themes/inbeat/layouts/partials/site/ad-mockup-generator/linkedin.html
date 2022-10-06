@@ -172,9 +172,11 @@
                     v-if="activeAd.id === 1 || activeAd.id === 2 || activeAd.id === 4 || activeAd.id === 5">
                     <div class="preview-header">
                       <div class="preview-creadincials" id="ib_linkedin-creadincials">
+                        <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
                           <div class="profile-picture-wrapper">
                             <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                           </div>
+                        </uploader>
                         <div class="user-name-wrapper">
                           <h4 class="user-name">{profileName ? profileName : 'Page Name'}</h4>
                           <div class="sponcered-text">Promoted</div>

@@ -62,8 +62,7 @@
                   </div>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
-                    v-else>Image</span>
+                  <span class="mockup__title">Images</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
                   <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
@@ -97,9 +96,11 @@
                     <div class="header-wrapper" id="snapchat-header">
                       <div class="preview-header">
                         <div class="preview-creadincials">
-                          <div class="profile-picture-wrapper">
-                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                          </div>
+                          <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                            <div class="profile-picture-wrapper">
+                              <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                            </div>
+                          </uploader>
                           <div class="user-name-wrapper">
                             <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                             <span class="sponcered-text">Sponsored</span>
@@ -138,9 +139,11 @@
                     <div id="instagram-mockup-preview" class="ib_snapchat-mockup-preview" :style="getComputedHeight">
                         <div class="snapchat-mockup-header">
                             <div class="preview-creadincials">
+                              <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
                                 <div class="profile-picture-wrapper">
                                   <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
                                 </div>
+                              </uploader>
                                 <div class="user-name-wrapper">
                                   <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
                                   <span class="sponcered-text">Sponsored</span>

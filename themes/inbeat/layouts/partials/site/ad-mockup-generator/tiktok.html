@@ -72,12 +72,25 @@
                   </div>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
-                    v-else>Image</span>
+                  <span class="mockup__title">Image</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
                   <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="upload_placeholder-wrapper">
+                      {{- partial "icons/upload-placeholder.html" -}}
+                      <p><span>Click to upload</span> or drag-and-drop</br>
+                      <div class="sub-droparea-text">Supports only .png or .jpg</div>
+                      <span ref="messageError" class="image-error-text"></span>
+                      </p>
+                    </div>
+                  </uploader>
+                </div>
+                <div class="mockup__configuration-dropzone-wrapper" v-if="activeAd.id === 4">
+                  <span class="mockup__title">CTA Image</span>
+                  <span class="mockup__description">Uploade CTA Image</span>
+                  <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
+                    @submit-image="uploadImage($event,'cta')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
                       <p><span>Click to upload</span> or drag-and-drop</br>
@@ -97,7 +110,7 @@
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
                 </div>
-                <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count">
                   <h4 class="mockup__title">
                     Likes
                   </h4>
@@ -105,9 +118,29 @@
                     Set the number of likes for your post. Numeric input only.
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                    @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
                 </div>
-                <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
+                    Comments
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of comments for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" @input="numberInput($event,'commentCount')" placeholder="1">
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
+                    Share
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of Share for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
+                </div>
+                <div class="mockup__configuration-message-wrapper">
                   <h4 class="mockup__title">
                     Caption
                   </h4>
@@ -124,7 +157,7 @@
               id="mockup-preview">
               <div class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
-                    <div class="ib_tiktok-mockup-wrapper" :style="getComputedHeight">
+                    <div class="ib_tiktok-mockup-wrapper" id="ib_tiktok-mockup-wrapper" :style="getComputedHeight">
                       <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                        <div class="tiktok_mockup-header">
@@ -145,7 +178,7 @@
                               Sponsored
                             </div>
                             <div class="song-name">
-                              ♫ <span>Cheryl - @Yung Gravy</span>
+                              {{- partial "icons/music.html" -}}  <span>Cheryl - @Yung Gravy</span>
                             </div>
                           </div>
                           <div v-else class="tiktok_cta-type-mockup-wrapper">
@@ -154,7 +187,7 @@
                             </div>
                             <div class="tiktok_cta-type-mockup">
                               <div class="tiktok-box">
-
+                                <img v-if="ctaSrc" :src="ctaSrc ? ctaSrc : ''" alt="cta-image">
                               </div>
                               <div class="tiktok-cta-description">
                                 <div>
@@ -173,22 +206,25 @@
                         </div>
                         <div class="tiktok-action-center-wrapper">
                           <div class="tiktok_action-center">
-                            <div class="tiktok__profile-picture">
-                              <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                            </div>
+                            <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                              <div class="tiktok__profile-picture">
+                                <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                              </div>
+                            </uploader>
                               <div class="tiktok__action-wrapper tiktok-action-like">
                                 {{- partial "icons/tiktok-heart.html" -}}
-                                <span>1.3M</span>
+                                <span>{likes}</span>
                               </div>
                               <div class="tiktok__action-wrapper">
                                 {{- partial "icons/tiktok-comment.html" -}}
-                                <span>10.7M</span>
+                                <span>{commentCount}</span>
                               </div>
                               <div class="tiktok__action-wrapper">
                                 {{- partial "icons/tiktok-share.html" -}}
-                                <span>30.9k</span>
+                                <span>{shareCount}</span>
                               </div>
                           </div>
+                          <!-- {{- partial "icons/tiktok-disk.html" -}} -->
                           <div class="tiktok_music-disk-wrapper">
                             <div class="tiktok-music-disk">
 
@@ -499,6 +535,7 @@
               profileName: '',
               selectedPreviewCTA: {name:'Learn more',code:'LM'},
               dpSrc:null,
+              ctaSrc:null,
               postSrc:[],
               likes: 15,
               caption: '',
@@ -506,6 +543,8 @@
               captionValue: '',
               seeMoreDisplayValue: '',
               activePost: 0,
+              commentCount: 15,
+              shareCount: 15,
               adTypes: [
               {
                 id:3,
@@ -519,7 +558,7 @@
                 id:4,
                 type:'Story CTA',
                 ratio:'9:16',
-                img:'9-16',
+                img:'story-cta-tiktok',
                 req: 80 ,
                 resolution: '1080x1920'
               },
@@ -555,7 +594,10 @@
               let src = URL.createObjectURL(file)
               if(location === 'header'){
                 this.dpSrc = src
-              }else{
+              }else if(location === 'cta'){
+                  this.ctaSrc = src
+              }
+              else{
                 this.postSrc.push(src)
               }
             })
@@ -564,7 +606,7 @@
               console.log(e)
           },
           downloadPng(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('ib_tiktok-mockup-wrapper')
             html2canvas(preview)
             .then(function(canvas){
               var link = document.createElement('a');
@@ -574,7 +616,7 @@
             })
           },
           copyImage(){
-            var preview = document.getElementById('instagram-mockup-preview')
+            var preview = document.getElementById('ib_tiktok-mockup-wrapper')
               navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
               if (result.state == "granted" || result.state == "prompt") {
                 html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
@@ -657,6 +699,20 @@
           addLikes(e){
            this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
           },
+          numberInput(e,inputName){
+            const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
+           this[inputName] = this.abbreviateNumber(e.target.value,SI_SYMBOL) 
+          },
+          abbreviateNumber(number,SI_SYMBOL){  
+                // what tier? (determines SI symbol)
+                var tier = Math.log10(Math.abs(number)) / 3 | 0;           
+                if(tier == 0) return number;
+                tier = tier > 6 ? 6 : tier
+                var suffix = SI_SYMBOL[tier];
+                var scale = Math.pow(10, tier * 3);
+                var scaled = number / scale;
+                return scaled.toFixed(1) + suffix;
+          },
           checkIfNumber(event) {
           const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
           return !event.key.match(regex) && event.preventDefault();
@@ -666,9 +722,12 @@
           },
           clearFields(){
             this.dpSrc = null,
+            this.ctaSrc = null,
             this.postSrc = [],
             this.caption='',
-            this.likes=null,
+            this.likes=15,
+            this.shareCount=15,
+            this.commentCount=15,
             this.profileName = '',
             this.selectedPreviewCTA= {name:'Learn more',code:'LM'}
             this.activePost = 0
