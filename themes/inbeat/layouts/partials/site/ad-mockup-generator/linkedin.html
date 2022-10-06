@@ -571,14 +571,18 @@
                 type:'Square',
                 ratio:'1:1',
                 img:'1-1',
+                widthR: 1,
+                heightR: 1,
                 req: 80,
                 resolution: '1080x1080'
               },
               {
                 id:2,
                 type:'Video',
-                ratio:'3:2',
+                ratio:'16:9',
                 img:'3-2'   ,
+                widthR: 16,
+                heightR: 9,
                 req: 80,
                 resolution: '1920x1080'
               },
@@ -587,6 +591,8 @@
                 type:'Carousel',
                 ratio:'1:1',
                 img:'carousel',
+                widthR: 1,
+                heightR: 1,
                 req: 80 ,
                 resolution: '1080x1080'
               }
@@ -596,6 +602,8 @@
                 type:'Square',
                 ratio:'1:1',
                 img:'1-1',
+                widthR: 1,
+                heightR: 1,
                 req: 80,
                 resolution: '1080x1080'
               },
@@ -771,11 +779,12 @@
           },
           setPreviewRatio(){
             let el = document.getElementById('mockup-download-img')
-            let  width= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
+            let previewWidth= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
             let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
-            let height =  this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px'
+            let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+
             if(target){
-              target.style.height = height
+                target.style.height = affectiveHeight
             }
           },
           setActiveTab(){
@@ -830,10 +839,9 @@
       computed: {
         getComputedHeight() {
           let  ele= document.getElementById(this.activeAd.id === 4 ?'linkedin__carousel-slide':'mockup-download-img')
-          let width = ele ? this.activeAd.id === 4 ? ele.offsetWidth : ele.offsetWidth - 50 : 300
-          return {
-            height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':'417px',
-          };
+          let previewWidth = ele ? this.activeAd.id === 4 ? ele.offsetWidth : ele.offsetWidth - 50 : 300
+          let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+          return{ height: affectiveHeight };
           },
         },
         delimiters: ['{', '}'],
