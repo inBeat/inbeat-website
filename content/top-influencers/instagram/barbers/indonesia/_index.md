@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Indonesia In 2021
+title: Top 10 Barbers Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top barbers Instagram influencers in Indonesia in 2021. Most popular hashtags: #ladiesastreagrand #pitungers #hairdesign.
+  Find top barbers Instagram influencers in Indonesia in 2022. Most popular hashtags: #ladiesastreagrand #pitungers #hairdesign.
 platform: Instagram
 hits: 72
 text_top: Analyze the most popular Instagram profiles on inBeat.

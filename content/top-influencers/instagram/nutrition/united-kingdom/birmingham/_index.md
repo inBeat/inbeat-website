@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Birmingham In 2021
+title: Top 10 Nutrition Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top nutrition Instagram influencers in Birmingham in 2021. Most popular hashtags: #fitness #gym #workout #gymmotivation.
+  Find top nutrition Instagram influencers in Birmingham in 2022. Most popular hashtags: #fitness #gym #workout #gymmotivation.
 platform: Instagram
 hits: 4
 text_top: Analyze the best Instagram accounts on inBeat.

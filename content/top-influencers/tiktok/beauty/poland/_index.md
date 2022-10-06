@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Poland In 2021
+title: Top 10 Beauty TikTok Influencers In Poland In 2022
 description: >-
-  Find top beauty TikTok influencers in Poland in 2021. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
+  Find top beauty TikTok influencers in Poland in 2022. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
 platform: TikTok
 hits: 107
 text_top: See the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ireland In 2021
+title: Top 10 Beauty TikTok Influencers In Ireland In 2022
 description: >-
-  Find top beauty TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
+  Find top beauty TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #foryou #foryoupage #beauty.
 platform: TikTok
 hits: 32
 text_top: Discover the top-rated TikTok influencers on inBeat.

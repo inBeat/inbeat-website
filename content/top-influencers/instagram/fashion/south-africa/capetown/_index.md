@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Capetown In 2021
+title: Top 10 Fashion Instagram Influencers In Capetown In 2022
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #fashion #photooftheday #summer.
+  Find top fashion Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #fashion #photooftheday #summer.
 platform: Instagram
 hits: 45
 text_top: See the most popular Instagram accounts on inBeat.

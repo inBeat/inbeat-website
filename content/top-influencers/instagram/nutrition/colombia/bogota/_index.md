@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Bogotá In 2021
+title: Top 10 Nutrition Instagram Influencers In Bogotá In 2022
 description: >-
-  Find top nutrition Instagram influencers in Bogotá in 2021. Most popular hashtags: #fit #fitness #workout #colombia.
+  Find top nutrition Instagram influencers in Bogotá in 2022. Most popular hashtags: #fit #fitness #workout #colombia.
 platform: Instagram
 hits: 7
 text_top: Discover the top-rated Instagram profiles on inBeat.

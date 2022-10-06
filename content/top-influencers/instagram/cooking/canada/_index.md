@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Canada In 2021
+title: Top 10 Cooking Instagram Influencers In Canada In 2022
 description: >-
-  Find top cooking Instagram influencers in Canada in 2021. Most popular hashtags: #feedfeed #f52grams #toronto #foodandwine.
+  Find top cooking Instagram influencers in Canada in 2022. Most popular hashtags: #feedfeed #f52grams #toronto #foodandwine.
 platform: Instagram
 hits: 457
 text_top: See the most popular Instagram influencers on inBeat.

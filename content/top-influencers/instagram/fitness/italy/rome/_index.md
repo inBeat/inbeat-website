@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Rome In 2021
+title: Top 10 Fitness Instagram Influencers In Rome In 2022
 description: >-
-  Find top fitness Instagram influencers in Rome in 2021. Most popular hashtags: #rome #fitness #italy #roma.
+  Find top fitness Instagram influencers in Rome in 2022. Most popular hashtags: #rome #fitness #italy #roma.
 platform: Instagram
 hits: 111
 text_top: Identify the best Instagram influencers on inBeat.

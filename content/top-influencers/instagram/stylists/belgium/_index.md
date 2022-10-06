@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Belgium In 2021
+title: Top 10 Stylists Instagram Influencers In Belgium In 2022
 description: >-
-  Find top stylists Instagram influencers in Belgium in 2021. Most popular hashtags: #art #ootd #belgium #style.
+  Find top stylists Instagram influencers in Belgium in 2022. Most popular hashtags: #art #ootd #belgium #style.
 platform: Instagram
 hits: 23
 text_top: See the top-rated Instagram accounts on inBeat.
@@ -59,7 +59,7 @@ profiles:
     fullname: >-
       Anaïs Van Oekel
     bio: >-
-      anaiscloset🎨|||| fashion stylist Student 2020- 2021 @styleschoolbydanie Collaboration: info@anaiscloset.com Antwerp 🌈 Amsterdam 🧡🐝🌸🍒🍭🚀🐸💛🧸🥐🍊🌵🦋
+      anaiscloset🎨|||| fashion stylist Student 2020- 2022 @styleschoolbydanie Collaboration: info@anaiscloset.com Antwerp 🌈 Amsterdam 🧡🐝🌸🍒🍭🚀🐸💛🧸🥐🍊🌵🦋
     location: "Belgium"
     followers: 8451
     engagement: 616

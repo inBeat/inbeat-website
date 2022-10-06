@@ -203,6 +203,7 @@
                     </div>
                   </div>
                   <div class="preview-body" id="story-body" :style="getComputedHeight">
+                    <div class="story-overlay"></div>
                     <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
@@ -498,7 +499,7 @@
         },
 
         template:  `
-          <div id="slider" @drag="dragSlide">
+          <div id="slider">
             <transition-group tag="div" :name="transitionName" class="slides-group">
               <div v-if="show" :key="current" class="slide"" >
                 <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
@@ -591,9 +592,10 @@
           })
         },
         uploadImage(fileset,location){
+          this.$refs.messageError.innerHTML = '';
           const files = Array.from(fileset)
           if(this.postSrc.length >= 10){
-            this.$refs.messageError.innerHTML = 'You can only selet 10 images';
+            this.$refs.messageError.innerHTML = 'You can only select 10 images';
             return
           }
           files.forEach(file => {
@@ -635,6 +637,7 @@
         },
         adTypeClick(adType){
           if(this.activeAd.id !== adType.id){
+            this.$refs.messageError.innerHTML = '';
             this.clearFields()
             this.activeAd =  adType
             this.$nextTick(() => {

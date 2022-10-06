@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Los Angeles In 2021
+title: Top 10 Health TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top health TikTok influencers in Los Angeles in 2021. Most popular hashtags: #fyp #health #losangeles #funny.
+  Find top health TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #health #losangeles #funny.
 platform: TikTok
 hits: 43
 text_top: See the best TikTok influencers on inBeat.

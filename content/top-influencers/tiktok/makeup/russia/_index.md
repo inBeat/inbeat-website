@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Russia In 2021
+title: Top 10 Makeup TikTok Influencers In Russia In 2022
 description: >-
-  Find top makeup TikTok influencers in Russia in 2021. Most popular hashtags: #makeup #amongus #cosplay #foryou.
+  Find top makeup TikTok influencers in Russia in 2022. Most popular hashtags: #makeup #amongus #cosplay #foryou.
 platform: TikTok
 hits: 88
 text_top: Discover the top-rated TikTok profiles on inBeat.

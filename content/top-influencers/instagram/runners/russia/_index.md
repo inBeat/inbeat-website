@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Russia In 2021
+title: Top 10 Runners Instagram Influencers In Russia In 2022
 description: >-
-  Find top runners Instagram influencers in Russia in 2021. Most popular hashtags: #california #olympicnationalpark #asicsfrontrunnerrussia.
+  Find top runners Instagram influencers in Russia in 2022. Most popular hashtags: #california #olympicnationalpark #asicsfrontrunnerrussia.
 platform: Instagram
 hits: 33
 text_top: Analyze the most popular Instagram profiles on inBeat.

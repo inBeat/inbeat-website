@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Thailand In 2021
+title: Top 10 Photographers Instagram Influencers In Thailand In 2022
 description: >-
-  Find top photographers Instagram influencers in Thailand in 2021. Most popular hashtags: #thailand #adayinthailand #amazingthailand.
+  Find top photographers Instagram influencers in Thailand in 2022. Most popular hashtags: #thailand #adayinthailand #amazingthailand.
 platform: Instagram
 hits: 46
 text_top: See the best Instagram accounts on inBeat.

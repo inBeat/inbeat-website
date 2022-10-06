@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In France In 2021
+title: Top 10 Health TikTok Influencers In France In 2022
 description: >-
-  Find top health TikTok influencers in France in 2021. Most popular hashtags: #healthy #foryou #pourtoi #fyp.
+  Find top health TikTok influencers in France in 2022. Most popular hashtags: #healthy #foryou #pourtoi #fyp.
 platform: TikTok
 hits: 55
 text_top: Analyze the top-rated TikTok influencers on inBeat.

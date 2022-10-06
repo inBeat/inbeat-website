@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Switzerland In 2021
+title: Top 10 Guitar Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top guitar Instagram influencers in Switzerland in 2021. Most popular hashtags: #guitar #music #musician #love.
+  Find top guitar Instagram influencers in Switzerland in 2022. Most popular hashtags: #guitar #music #musician #love.
 platform: Instagram
 hits: 19
 text_top: Analyze the top-rated Instagram accounts on inBeat.
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.030531
     id: ck5c23xq4whse0i11dd4fy2pr
     verified: false
-    hashtags: "#musicians, #2021, #crazy, #amazing"
+    hashtags: "#musicians, #2022, #crazy, #amazing"
   - username: "staircaserecordings"
     fullname: >-
       CHELAN | artist & producer

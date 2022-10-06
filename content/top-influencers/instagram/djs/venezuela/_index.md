@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Venezuela In 2021
+title: Top 10 Djs Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top djs Instagram influencers in Venezuela in 2021. Most popular hashtags: #dj #djs #deephouse #techno.
+  Find top djs Instagram influencers in Venezuela in 2022. Most popular hashtags: #dj #djs #deephouse #techno.
 platform: Instagram
 hits: 8
 text_top: Discover the best Instagram profiles on inBeat.

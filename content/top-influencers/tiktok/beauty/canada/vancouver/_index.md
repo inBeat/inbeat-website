@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Vancouver In 2021
+title: Top 10 Beauty TikTok Influencers In Vancouver In 2022
 description: >-
-  Find top beauty TikTok influencers in Vancouver in 2021. Most popular hashtags: #fyp #vancouver #foryou #foryoupage.
+  Find top beauty TikTok influencers in Vancouver in 2022. Most popular hashtags: #fyp #vancouver #foryou #foryoupage.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok profiles on inBeat.

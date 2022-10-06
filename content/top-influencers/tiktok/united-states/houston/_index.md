@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Houston In 2021
+title: Top 10 TikTok Influencers In Houston In 2022
 description: >-
-  Find top TikTok influencers in Houston in 2021. Most popular hashtags: #fyp #foryou #duet #greenscreen.
+  Find top TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #foryou #duet #greenscreen.
 platform: TikTok
 hits: 770
 text_top: See the top-rated TikTok accounts on inBeat.

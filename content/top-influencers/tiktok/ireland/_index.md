@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Ireland In 2021
+title: Top 10 TikTok Influencers In Ireland In 2022
 description: >-
-  Find top TikTok influencers in Ireland in 2021. Most popular hashtags: #fyp #foryoupage #foryou.
+  Find top TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 616
 text_top: Identify the top-rated TikTok accounts on inBeat.

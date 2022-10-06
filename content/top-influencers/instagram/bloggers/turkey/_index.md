@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Turkey In 2021
+title: Top 10 Bloggers Instagram Influencers In Turkey In 2022
 description: >-
-  Find top bloggers Instagram influencers in Turkey in 2021. Most popular hashtags: #style #smile #gezgin.
+  Find top bloggers Instagram influencers in Turkey in 2022. Most popular hashtags: #style #smile #gezgin.
 platform: Instagram
 hits: 746
 text_top: Discover the best Instagram accounts on inBeat.

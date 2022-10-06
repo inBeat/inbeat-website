@@ -58,7 +58,7 @@
                 margin-left: auto;
                 opacity: 0.5;
                 transition: all .25s ease;
-               
+                flex-shrink: 0;
                 &.open{
                     opacity: 1;
                     transform: rotate(45deg);

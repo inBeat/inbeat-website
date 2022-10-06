@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In San Francisco In 2021
+title: Top 10 Food Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top food Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #sfeats #food.
+  Find top food Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #sfeats #food.
 platform: Instagram
 hits: 106
 text_top: Discover the top-rated Instagram accounts on inBeat.

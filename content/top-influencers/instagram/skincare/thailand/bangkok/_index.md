@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Bangkok In 2021
+title: Top 10 Skincare Instagram Influencers In Bangkok In 2022
 description: >-
-  Find top skincare Instagram influencers in Bangkok in 2021. Most popular hashtags: #makeup #beauty #skincare #quarantine.
+  Find top skincare Instagram influencers in Bangkok in 2022. Most popular hashtags: #makeup #beauty #skincare #quarantine.
 platform: Instagram
 hits: 4
 text_top: Analyze the top-rated Instagram accounts on inBeat.

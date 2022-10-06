@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Berlin In 2021
+title: Top 10 Travel TikTok Influencers In Berlin In 2022
 description: >-
-  Find top travel TikTok influencers in Berlin in 2021. Most popular hashtags: #berlin #foryou #travel #fyp.
+  Find top travel TikTok influencers in Berlin in 2022. Most popular hashtags: #berlin #foryou #travel #fyp.
 platform: TikTok
 hits: 26
 text_top: See the top-rated TikTok profiles on inBeat.

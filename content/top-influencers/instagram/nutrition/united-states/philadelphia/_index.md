@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2021
+title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2022
 description: >-
-  Find top nutrition Instagram influencers in Philadelphia in 2021. Most popular hashtags: #fitnessmotivation #nfl #personaltrainer.
+  Find top nutrition Instagram influencers in Philadelphia in 2022. Most popular hashtags: #fitnessmotivation #nfl #personaltrainer.
 platform: Instagram
 hits: 5
 text_top: Analyze the top-rated Instagram profiles on inBeat.

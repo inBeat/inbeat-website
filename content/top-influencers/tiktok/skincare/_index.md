@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In 2021
+title: Top 10 Skincare TikTok Influencers In 2022
 description: >-
-  Find top skincare TikTok influencers in 2021. Most popular hashtags: #skincare #fyp #aesthetic #skincareroutine.
+  Find top skincare TikTok influencers in 2022. Most popular hashtags: #skincare #fyp #aesthetic #skincareroutine.
 platform: TikTok
 hits: 4174
 text_top: Discover the top-rated TikTok profiles on inBeat.

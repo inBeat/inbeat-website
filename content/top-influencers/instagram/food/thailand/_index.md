@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Thailand In 2021
+title: Top 10 Food Instagram Influencers In Thailand In 2022
 description: >-
-  Find top food Instagram influencers in Thailand in 2021. Most popular hashtags: #trat #stayhome #dymatizethailand.
+  Find top food Instagram influencers in Thailand in 2022. Most popular hashtags: #trat #stayhome #dymatizethailand.
 platform: Instagram
 hits: 103
 text_top: Analyze the most popular Instagram profiles on inBeat.

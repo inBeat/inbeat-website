@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Poland In 2021
+title: Top 10 Instagram Influencers In Poland In 2022
 description: >-
-  Find top Instagram influencers in Poland in 2021. Most popular hashtags: #makeup #wakeupandmakeup #polishgirl #anastasiabeverlyhills.
+  Find top Instagram influencers in Poland in 2022. Most popular hashtags: #makeup #wakeupandmakeup #polishgirl #anastasiabeverlyhills.
 platform: Instagram
 hits: 7641
 text_top: Analyze the best Instagram influencers on inBeat.

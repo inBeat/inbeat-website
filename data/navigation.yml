@@ -1,0 +1,138 @@
+solutions:
+  - color: grey
+    title: Use Cases
+    class: main-column col-sm-6 col-md-3
+    pages:
+      - name: Influencer Marketing
+        description: Create successful influencer campaigns of any size in minutes.
+      - name: User Generated Content
+        description: Generate diverse, engaging, platform-native content.
+      - name: Content Marketing
+        description: Increase your paid conversion with ads that don’t look like ads. 
+      - name: Product Sampling
+        description: Get your product in the hands of thousands of creators
+  - color: pink
+    title: By Industry
+    class: width-edit col-sm-6 col-md-3
+    pages:
+      - name: Agencies
+      - name: CPG
+      - name: E-commerce
+      - name: Direct-to-consumer
+      - name: Music labels
+      - name: Mobile applications
+  - color: green
+    title: By Platform
+    class: width-edit col-sm-6 col-md-3
+    pages:
+      - name: TikTok
+      - name: Instagram
+      - name: YouTube
+  - color: yellow
+    title: By Influencer Type
+    class: width-edit col-sm-6 col-md-3
+    pages:
+      - name: Nano Influencers
+      - name: Micro Influencers
+      - name: Macro Influencers
+
+features:
+  # - color: grey
+  #   title: Learn
+  #   pages:
+  #     - name: Articles
+  #       description: Read about influencer marketing
+  #       link: '/articles'
+  #       target: '_self'
+  #     - name: Growthnotes - Newsletter
+  #       description: Insights for the modern marketer
+  #       link: 'https://www.growthnotes.news/'
+  #       target: '_blank'
+  #     # - name: The Pulse Podcast
+  #     #   description: Listen to influencer marketing experts
+  #     #   link: '/categories/podcasts/'
+  #     #   target: '_self'
+  - color: grey
+    title: The Database
+    # tag: Free
+    # hasMorePage: true
+    announcement:
+      color: 303545
+      title: Create UGC that converts with a fully managed platform.
+      topText: UGC Studio
+      cta:
+        text: Learn more
+        color: EBFDE6
+        title: UGC Studio
+        link: '/ugc-studio'
+    pages:
+      - name: Influencer search engine
+        link: '/features/quicksearch'
+        target: '_self'
+      - name: Automated similar profile searches
+        link: '/features/deepsearch'
+        target: '_self'
+      - name: Bulk contact exports
+        link: '/features/export-contacts'
+        target: '_self'
+
+resources:
+  - color: grey
+    title: Learn
+    pages:
+      - name: Articles
+        description: Read about influencer marketing
+        link: '/articles'
+        target: '_self'
+      - name: Growthnotes - Newsletter
+        description: Insights for the modern marketer
+        link: 'https://www.growthnotes.news/'
+        target: '_blank'
+      # - name: The Pulse Podcast
+      #   description: Listen to influencer marketing experts
+      #   link: '/categories/podcasts/'
+      #   target: '_self'
+  - color: grey
+    title: The Toolkit
+    tag: Free
+    hasMorePage: true
+    announcement:
+      color: 393045
+      title: An inspiration library for UGC Ads.
+      topText: Curated, sorted & free!
+      cta:
+        text: Visit AdCollection
+        color: FDE7E6
+        title: Visit AdCollection
+        link: 'https://www.adcollection.co/'
+    pages:
+      - name: Engagement rate calculator
+        link: '/engagement-rate-calculator-instagram/'
+        target: '_self'
+      - name: Fake follower checker
+        link: 'fake-follower-checker/'
+        target: '_self'
+      - name: Collaboration cost calculator
+        link: '/collaboration-cost-calculator-instagram/'
+        target: '_self'
+      - name: TikTok & Instagram influencer Database
+        link: '/influencer-database'
+        target: '_self'
+        tag: 'Pro'
+
+footer:
+  toolkits:
+    - name: Instagram Engagement Rate Calculator
+    - name: TikTok Engagement Rate Calculator
+    - name: Influencer Money Calculator
+    - name: Instagram Fake Follower checker
+    - name: Top Instagram Influencers
+    - name: Top TikTok Influencers
+  social:
+    - name: Instagram
+    - name: Youtube
+    - name: Linkedin
+    - name: Facebook
+  support:
+    - name: Book a demo
+    - name: Send us a message

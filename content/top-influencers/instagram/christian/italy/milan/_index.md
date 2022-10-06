@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Milan In 2021
+title: Top 10 Christian Instagram Influencers In Milan In 2022
 description: >-
-  Find top christian Instagram influencers in Milan in 2021. Most popular hashtags: #milano #italy #italia.
+  Find top christian Instagram influencers in Milan in 2022. Most popular hashtags: #milano #italy #italia.
 platform: Instagram
 hits: 26
 text_top: Discover the most popular Instagram influencers on inBeat.

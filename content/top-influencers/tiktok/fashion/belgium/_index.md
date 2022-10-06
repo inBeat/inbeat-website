@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Belgium In 2021
+title: Top 10 Fashion TikTok Influencers In Belgium In 2022
 description: >-
-  Find top fashion TikTok influencers in Belgium in 2021. Most popular hashtags: #fashion #foryou #viral #fyp.
+  Find top fashion TikTok influencers in Belgium in 2022. Most popular hashtags: #fashion #foryou #viral #fyp.
 platform: TikTok
 hits: 32
 text_top: Identify the best TikTok profiles on inBeat.

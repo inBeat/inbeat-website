@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Colombia In 2021
+title: Top 10 Cosmetics Instagram Influencers In Colombia In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Colombia in 2021. Most popular hashtags: #makeup #makeupaddict #colombia.
+  Find top cosmetics Instagram influencers in Colombia in 2022. Most popular hashtags: #makeup #makeupaddict #colombia.
 platform: Instagram
 hits: 38
 text_top: See the best Instagram accounts on inBeat.

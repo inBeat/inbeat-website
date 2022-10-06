@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Miami In 2021
+title: Top 10 Christian Instagram Influencers In Miami In 2022
 description: >-
-  Find top christian Instagram influencers in Miami in 2021. Most popular hashtags: #miami #youtube #viral.
+  Find top christian Instagram influencers in Miami in 2022. Most popular hashtags: #miami #youtube #viral.
 platform: Instagram
 hits: 39
 text_top: Analyze the top-rated Instagram accounts on inBeat.

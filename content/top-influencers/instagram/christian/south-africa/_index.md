@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In South Africa In 2021
+title: Top 10 Christian Instagram Influencers In South Africa In 2022
 description: >-
-  Find top christian Instagram influencers in South Africa in 2021. Most popular hashtags: #southafrica #capetown #save.
+  Find top christian Instagram influencers in South Africa in 2022. Most popular hashtags: #southafrica #capetown #save.
 platform: Instagram
 hits: 17
 text_top: Identify the best Instagram accounts on inBeat.

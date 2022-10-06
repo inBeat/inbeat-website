@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Sydney In 2021
+title: Top 10 Hypebeast Instagram Influencers In Sydney In 2022
 description: >-
-  Find top hypebeast Instagram influencers in Sydney in 2021. Most popular hashtags: #hypebeast #sydney #australia #moodygrams.
+  Find top hypebeast Instagram influencers in Sydney in 2022. Most popular hashtags: #hypebeast #sydney #australia #moodygrams.
 platform: Instagram
 hits: 13
 text_top: Identify the most popular Instagram accounts on inBeat.

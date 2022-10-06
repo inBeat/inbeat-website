@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2021
+title: Top 10 Fitness Instagram Influencers In Sao Paulo In 2022
 description: >-
-  Find top fitness Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #fitness #saopaulo #brasil #quarentena.
+  Find top fitness Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #fitness #saopaulo #brasil #quarentena.
 platform: Instagram
 hits: 258
 text_top: Discover the top-rated Instagram influencers on inBeat.

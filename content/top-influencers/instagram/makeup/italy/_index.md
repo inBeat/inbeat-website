@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Italy In 2021
+title: Top 10 Makeup Instagram Influencers In Italy In 2022
 description: >-
-  Find top makeup Instagram influencers in Italy in 2021. Most popular hashtags: #makeup #makeupartist #makeuptutorial #halloweenmakeup.
+  Find top makeup Instagram influencers in Italy in 2022. Most popular hashtags: #makeup #makeupartist #makeuptutorial #halloweenmakeup.
 platform: Instagram
 hits: 1489
 text_top: Identify the best Instagram profiles on inBeat.

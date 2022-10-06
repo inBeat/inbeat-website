@@ -1,381 +1,505 @@
-#hero {
-    padding-top: 8.50rem;
-    padding-bottom: 6rem;
+#hero-influencer-database {
+  padding-top: 40px;
+
+  .features-top-aside {
+    @include breakpoint(md-down) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  .badge {
+    padding: 0px 12px 2px;
+    width: max-content;
+    background: #f9f7f7;
+    border-radius: 360px;
+    margin-bottom: 2rem;
+
+    @include breakpoint(sm-down) {
+      margin-bottom: 24px;
+    }
+
+    .badge-text {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 28px;
+      text-align: center;
+      margin: 0;
+    }
+  }
+
+  img {
+    width: 100%;
+    margin: 25px 0;
+  }
+
+  @include breakpoint(md-down) {
+    padding-top: 50px;
+    margin-bottom: 48px;
+
+    img {
+      transform: translateY(200px);
+      margin-top: -150px !important;
+      margin: 0 auto;
+      width: 80%;
+    }
+  }
+
+  @include breakpoint(sm-down) {
+    img {
+      transform: translateY(0px);
+      margin-top: 0px !important;
+      margin: 0 auto;
+      width: 100% !important;
+    }
+
+    .p-tb-80 {
+      padding-bottom: 0px;
+    }
+
+    .col-xs-12 {
+      padding: 0;
+    }
+  }
+
+  .row {
+    display: flex;
+    align-items: center;
     text-align: center;
-    @include breakpoint(sm) {
-        padding-top: calc(50vh - 15.625rem);
-        padding-bottom: calc(50vh - 18rem);
+    flex-direction: row-reverse;
+
+    @include breakpoint(md) {
+      text-align: left;
+      flex-direction: row;
     }
-    &.has-banner{
-        // Add the banner height size
-        transform: translateY(36.5px);
+
+    .influencer-database-title {
+      line-height: 4rem;
+      font-size: 4rem;
+      font-weight: 700;
+      letter-spacing: -1px;
+      margin-bottom: 2rem;
+
+      @include breakpoint(sm-down) {
+        font-size: 2.1875rem;
+        line-height: 2.625rem;
+        letter-spacing: -1.4px;
+        margin-bottom: 24px;
+      }
     }
-    h4 {
-        width: 100%;
-        margin-bottom: 4rem;
-        @include breakpoint(sm) {
-            margin: auto;
-            margin-bottom: 5rem;
-        }
+
+    .influencer-database-sub-title {
+      font-weight: 400;
+      font-size: 1.125rem;
+      line-height: 1.625rem;
+      opacity: 0.75;
+      margin: 0;
+
+      @include breakpoint(sm-down) {
+        opacity: 1;
+      }
     }
+
     .cta {
-        a {
-            display: block;
-            margin: 0 auto 20px;
-            width: 100%;
-            @include breakpoint(31.25rem) {
-                width: 16.75rem;
-            }
-            @include breakpoint(sm) {
-                display: inline-block;
-                margin: 0;
-                &:first-child {
-                    margin-right: 20px;
-                }
-            }
-            &#hero-cta {
-                @include breakpoint(sm-down) {
-                    color: black;
-                    border: none;
-                    animation: crazy 2s infinite;
-                }
-            }
-            span {
-                font-weight: bold;
-            }
+      a {
+        display: block;
+        margin-top: 2rem;
+        width: max-content;
+
+        @include breakpoint(sm-down) {
+          margin: 24px 0px 48px 0px;
         }
-        a:nth-child(2){
-            padding-left: 20px;
-            span{
-               padding-left: 20px;
-                padding-right: 20px;
-            }
+      }
+
+      .btn:nth-child(2) {
+        margin-left: 15px;
+        padding-left: 10px;
+
+        span {
+          padding-left: 20px;
+          padding-right: 30px;
         }
+      }
+
+      .btn:nth-child(1) {
+        border: none;
+      }
     }
+  }
+}
+
+#hero {
+  padding-top: 8.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+
+  @include breakpoint(sm) {
+    padding-top: calc(50vh - 15.625rem);
+    padding-bottom: calc(50vh - 18rem);
+  }
+
+  &.has-banner {
+    // Add the banner height size
+    transform: translateY(36.5px);
+  }
+
+  h4 {
+    width: 100%;
+    margin-bottom: 4rem;
+
+    @include breakpoint(sm) {
+      margin: auto;
+      margin-bottom: 5rem;
+    }
+  }
+
+  .cta {
+    a {
+      display: block;
+      margin: 0 auto 20px;
+      width: 100%;
+
+      @include breakpoint(31.25rem) {
+        width: 16.75rem;
+      }
+
+      @include breakpoint(sm) {
+        display: inline-block;
+        margin: 0;
+
+        &:first-child {
+          margin-right: 20px;
+        }
+      }
+
+      &#hero-cta {
+        @include breakpoint(sm-down) {
+          color: black;
+          border: none;
+          animation: crazy 2s infinite;
+        }
+      }
+
+      span {
+        font-weight: bold;
+      }
+    }
+
+    a:nth-child(2) {
+      padding-left: 20px;
+
+      span {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+  }
 }
 
 #clients {
-    .row {
-        margin: 0;
-    }
+  .row {
+    margin: 0;
+  }
+
+  @include breakpoint(md-down) {
+    max-width: 34rem;
+  }
+
+  .icons {
     @include breakpoint(md-down) {
-        max-width: 34rem;
+      flex-basis: 33.33333%;
+
+      &:nth-child(3n + 2) {
+        text-align: center;
+      }
+
+      &:nth-child(3n) {
+        text-align: right;
+      }
+
+      svg {
+        margin-bottom: 1rem;
+      }
     }
-    .icons {
-        @include breakpoint(md-down) {
-            flex-basis:33.33333%;
-            &:nth-child(3n + 2) {
-                text-align: center;
-            }
-            &:nth-child(3n) {
-                text-align: right;
-            }
-            svg {
-                margin-bottom: 1rem;
-            }
-        }
-        @include breakpoint(sm-down) {
-            svg {
-                max-width: 70%;
-                max-height: 2.5rem;
-            }
-        }
+
+    @include breakpoint(sm-down) {
+      svg {
+        max-width: 70%;
+        max-height: 2.5rem;
+      }
     }
-    svg {
-        fill: $dark;
-    }
+  }
+
+  svg {
+    fill: $dark;
+  }
 }
 
 .home-features {
-    padding: 30px 25px;
-    box-sizing: border-box;
-    outline: none !important;
-    @include breakpoint(xs) {
-        padding: 50px 35px;
+  padding: 30px 25px;
+  box-sizing: border-box;
+  outline: none !important;
+
+  @include breakpoint(xs) {
+    padding: 50px 35px;
+  }
+
+  @include breakpoint(sm) {
+    padding: 58px 51px;
+  }
+
+  @include breakpoint(sm-down) {
+    margin: 0 !important;
+  }
+
+  &#search {
+    background-color: $yellow_sub;
+  }
+
+  &#pick {
+    background-color: $red_sub;
+  }
+
+  &#export {
+    background-color: $green_sub;
+  }
+
+  .left-col {
+    position: relative;
+  }
+
+  p {
+    @include breakpoint(md) {
+      margin-bottom: 4rem;
     }
-    @include breakpoint(sm) {
-        padding: 58px 51px;
+
+    span {
+      font-weight: bold;
     }
-    @include breakpoint(sm-down) {
-        margin: 0 !important;
+  }
+
+  a.learn-more {
+    font-weight: bold;
+    display: block;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid $dark;
+    margin-bottom: 2.5rem;
+
+    @include breakpoint(md) {
+      margin-bottom: 4rem;
     }
-    &#search {
-        background-color: $yellow_sub;
+  }
+
+  a.question {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    color: $dark_sub;
+    text-decoration: underline;
+
+    @include breakpoint(md) {
+      position: absolute;
+      bottom: 0;
+      left: 0.5rem;
     }
-    &#pick {
-        background-color: $red_sub;
+  }
+
+  .icon-ctn {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+
+    @include breakpoint(md) {
+      margin-bottom: 0;
     }
-    &#export {
-        background-color: $green_sub;
+
+    video {
+      width: 100% !important;
+      height: auto !important;
     }
-    .left-col {
-        position: relative;
-    }
-    p {
-        @include breakpoint(md) {
-            margin-bottom: 4rem;
-        }
-        span {
-            font-weight: bold;
-        }
-    }
-    a.learn-more {
-        font-weight: bold;
-        display: block;
-        padding-bottom: 1.5rem;
-        border-bottom: 1px solid $dark;
-        margin-bottom: 2.5rem;
-        @include breakpoint(md) {
-            margin-bottom: 4rem;
-        }
-    }
-    a.question {
-        font-size: 0.875rem;
-        line-height: 1.25rem;
-        color: $dark_sub;
-        text-decoration: underline;
-        @include breakpoint(md) {
-            position: absolute;
-            bottom: 0;
-            left: 0.5rem;
-        }
-    }
-    .icon-ctn {
-        position: relative;
-        width: 100%;
-        height: auto;
-        margin-bottom: 1rem;
-        @include breakpoint(md) {
-            margin-bottom: 0;
-        }
-        video {
-            width: 100%    !important;
-            height: auto   !important;
-        }
-    }
+  }
 }
 
-
-
 #extras {
-    .icon-ctn {
-        position: relative;
-        width: 4.6875rem;
-        height: 4.6875rem;
-    }
-    h3 {
-        margin-top: 20px;
-    }
+  .icon-ctn {
+    position: relative;
+    width: 4.6875rem;
+    height: 4.6875rem;
+  }
+
+  h3 {
+    margin-top: 20px;
+  }
 }
 
 #what-we-do {
-    .new-badge{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 10px;
-        padding: 0px 12px 2px;
-        width: 70px;
-        height: 30px;
-        background: linear-gradient(180deg, #FFE9F0 0%, #FAECDB 51.04%, #D6EBE4 100%);
-        border-radius: 360px;
-        font-weight: 400;
-        font-size: 18px;
-        line-height: 28px;
-        text-align: center;
-        letter-spacing: 0.01em;
-        color: #141514;
-        margin-bottom: 1rem;
+  .new-badge {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 0px 12px 2px;
+    width: 70px;
+    height: 30px;
+    background: linear-gradient(180deg, #ffe9f0 0%, #faecdb 51.04%, #d6ebe4 100%);
+    border-radius: 360px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #141514;
+    margin-bottom: 1rem;
+  }
+
+  background: $light_grey;
+  padding: 50px auto;
+
+  @include breakpoint(xs) {
+    padding: 50px 35px;
+  }
+
+  @include breakpoint(sm) {
+    padding: 58px 51px;
+  }
+
+  @include breakpoint(sm-down) {
+    margin: 0 !important;
+  }
+
+  video {
+    width: 100%;
+    margin: 25px 0;
+    border-radius: 10px;
+
+    @include breakpoint(md) {
+      width: 85%;
     }
-    background: $light_grey;
-    padding: 50px auto;
-    @include breakpoint(xs) {
-        padding: 50px 35px;
+  }
+
+  .row {
+    display: flex;
+    align-items: center;
+
+    @include breakpoint(md-down) {
+      flex-direction: column-reverse;
     }
-    @include breakpoint(sm) {
-        padding: 58px 51px;
+
+    p {
+      opacity: 0.75;
     }
-    @include breakpoint(sm-down) {
-        margin: 0 !important;
+
+    .cta {
+      a {
+        border: none;
+      }
+
+      margin: 50px 0;
     }
-    video {
-        width: 100%;
-        margin: 25px 0;
-        border-radius: 10px;
-        @include breakpoint(md) {
-            width: 85%;
-        }
-    }
-    .row{
-        display: flex;
-        align-items: center;
-        @include breakpoint(md-down) {
-            flex-direction: column-reverse;
-        }
-        p{
-            opacity: 0.75;
-        }
-        .cta{
-            a{
-                border: none;
-            }
-            margin: 50px 0;
-        }
-    }
+  }
 }
 
 // cta-affiliate is from affiliate page, but same styling
-#start-now, #cta-affiliate {
-    .col1 {
-        padding-top: 2rem;
-        padding-bottom: 2rem;
+#start-now,
+#cta-affiliate {
+  .col1 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 3rem;
+
+    @include breakpoint(md) {
+      margin-bottom: 3.5rem;
     }
-    h4 {
-        margin-bottom: 3rem;
-        @include breakpoint(md) {
-            margin-bottom: 3.5rem;
-        }
+  }
+
+  p.signin {
+    margin-top: 2.5rem;
+    font-size: 0.6875rem;
+
+    a {
+      font-size: inherit;
+      text-decoration: underline;
     }
-    p.signin {
-        margin-top: 2.5rem;
-        font-size: 0.6875rem;
-        a {
-            font-size: inherit;
-            text-decoration: underline;
-        }
-    }
-    .icon-ctn {
-        background: $yellow_sub;
-        width: 100%;
-        height: 100%;
-    }
-    .btn span {
-        font-weight: bold;
-    }
+  }
+
+  .icon-ctn {
+    background: $yellow_sub;
+    width: 100%;
+    height: 100%;
+  }
+
+  .btn span {
+    font-weight: bold;
+  }
 }
 
-#cta-home{
-    border-top: 1px solid black;
-    &.no-border{
-        border-top:none !important;
-    }
-    .cta-button{
-        margin-top: 3.75rem;
-    }
+#cta-home {
+  border-top: 1px solid black;
+
+  &.no-border {
+    border-top: none !important;
+  }
+
+  .cta-button {
+    margin-top: 3.75rem;
+  }
 }
-#freetoolkit-sec {
-    padding: 3rem 1.25rem;
-    @include breakpoint(md) {
-        padding-top: 7.93rem;
-        padding-bottom: 8rem;
+
+.freetoolkit-sec {
+  padding: 3rem 1.25rem;
+
+  @include breakpoint(md) {
+    padding-top: 7.93rem;
+    padding-bottom: 8rem;
+  }
+
+  .toolkit-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+    h3 {
+      font-weight: 500;
+      font-size: 42px;
+      line-height: 52px;
+      letter-spacing: -0.4px;
+      margin: 0;
+
+      @include breakpoint(sm-down) {
+        font-size: 30px;
+        line-height: 36px;
+      }
     }
-    .toolkit-title{
-        @include breakpoint(sm-down) {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 100%;
-           }
-        h3{
-        font-weight: 500;
-        font-size: 42px;
-        line-height: 52px;
-        letter-spacing: -0.4px; 
-        margin: 0;
-        @include breakpoint(sm-down) {
-            font-size: 30px;
-            line-height:36px;
-           }
-        }
-        svg{
-            display: block;
-            @include breakpoint(md) {
-                display: none;
-               }
-        }
+
+    svg {
+      display: block;
     }
-	.toolkits {
-        .row{
-            row-gap: 33px;
-            margin-top: 48px;
-         @include breakpoint(sm-down) {
-                overflow-x: auto;
-                display: grid;
-                grid-template-columns: repeat(3, 1fr);
-                grid-auto-rows: 1fr;
-                margin: -1.25rem;
-                padding: 0.75rem;
-                margin-top: 32px;
-                row-gap: 8px;
-            }
-        }
-		.toolkit {
-            width: 100%;
-            // margin-top: 25px;
-            padding-right: 1.031rem;
-            padding-left: 1.031rem;
-            @include breakpoint(sm-down) {
-                padding-right: 0.25rem;
-                padding-left: 0.25rem;
-            }
-            &:hover .inner{
-                border: 1px solid rgba(0, 0, 0, 1);
-                cursor: pointer;
-            }
-			.inner {
-                transition: all .05s cubic-bezier(0.55, 0.085, 0.68, 0.53);
-                display: flex;
-				border: 1px solid rgba(0, 0, 0, 0.20);
-				padding: 15px;
-                flex-direction: row-reverse;
-                position: relative;
-                @include breakpoint(sm-down) {
-                    padding: 14px 14px 47px 27px;
-                    height: auto;
-                    width: 70vw;
-                    min-height: 120px;
-                }
-                .icon{
-                        position: absolute;
-                }
-                .content{
-                    padding: 35px 0px 25px 23px;
-                    @include breakpoint(sm-down) {
-                        padding: 0px;
-                    }
-                    p{
-                        display: inline-block;
-                        align-self: flex-end;
-                        font-weight: 400;
-                        font-size: 14px;
-                        line-height: 24px;
-                        letter-spacing: -0.3px;
-                        color: #141514;
-                        margin: 0;
-                        @include breakpoint(sm-down) {
-                              // display: none;
-                               font-size: .75rem;
-                               line-height: 1.25rem;
-                        }
-                    }
-                    h4{
-                        font-weight: 500;
-                        font-size: 24px;
-                        line-height: 31px;
-                        letter-spacing: -0.3px;      
-                        color: #000000;
-                        margin: 0;
-                        margin-bottom: 22px;
-                        @include breakpoint(sm-down) {
-                            font-size: 1.2rem;
-                            margin-bottom: 15px;
-                            margin-top: 25px;
-                            width: 100%;
-                        }
-                    }
-                }
-			}
-		}
-	}
+  }
+
+  .toolkits {
+    .toolkit-title {
+      margin-bottom: 48px;
+    }
+  }
+}
+.freetoolkit-sec {
+  padding-bottom: 0px !important;
+}
+#influencer-database-tools {
+  // background-color: $light_grey;
+  .inner {
+    background-color: white;
+
+    // border: 1px solid transparent;
+    &:hover {
+      border: 1px solid #000000;
+    }
+  }
 }

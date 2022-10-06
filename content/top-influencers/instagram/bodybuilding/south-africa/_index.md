@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In South Africa In 2021
+title: Top 10 Bodybuilding Instagram Influencers In South Africa In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in South Africa in 2021. Most popular hashtags: #fitness #bodybuilding #love #motivation.
+  Find top bodybuilding Instagram influencers in South Africa in 2022. Most popular hashtags: #fitness #bodybuilding #love #motivation.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.

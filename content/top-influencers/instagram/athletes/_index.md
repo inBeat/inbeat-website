@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In 2021
+title: Top 10 Athletes Instagram Influencers In 2022
 description: >-
-  Find top athletes Instagram influencers in 2021. Most popular hashtags: #bodybuilding #workout #fitnessmotivation.
+  Find top athletes Instagram influencers in 2022. Most popular hashtags: #bodybuilding #workout #fitnessmotivation.
 platform: Instagram
 hits: 8013
 text_top: Identify the top-rated Instagram accounts on inBeat.

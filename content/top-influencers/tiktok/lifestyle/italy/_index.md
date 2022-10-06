@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Italy In 2021
+title: Top 10 Lifestyle TikTok Influencers In Italy In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Italy in 2021. Most popular hashtags: #perte #shein #love #italia.
+  Find top lifestyle TikTok influencers in Italy in 2022. Most popular hashtags: #perte #shein #love #italia.
 platform: TikTok
 hits: 42
 text_top: See the most popular TikTok profiles on inBeat.
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2021"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
   - username: "giuliogenova_"
     fullname: >-
       Giulio Genova  🌍☄️💕

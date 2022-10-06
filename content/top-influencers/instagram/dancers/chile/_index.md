@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Chile In 2021
+title: Top 10 Dancers Instagram Influencers In Chile In 2022
 description: >-
-  Find top dancers Instagram influencers in Chile in 2021. Most popular hashtags: #dancer #picoftheday #dance.
+  Find top dancers Instagram influencers in Chile in 2022. Most popular hashtags: #dancer #picoftheday #dance.
 platform: Instagram
 hits: 45
 text_top: Analyze the top-rated Instagram influencers on inBeat.

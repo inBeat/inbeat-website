@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Berlin In 2021
+title: Top 10 Fitness Instagram Influencers In Berlin In 2022
 description: >-
-  Find top fitness Instagram influencers in Berlin in 2021. Most popular hashtags: #fitness #berlin #lifestyle #fashion.
+  Find top fitness Instagram influencers in Berlin in 2022. Most popular hashtags: #fitness #berlin #lifestyle #fashion.
 platform: Instagram
 hits: 497
 text_top: Analyze the best Instagram influencers on inBeat.

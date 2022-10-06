@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Morocco In 2021
+title: Top 10 Fashion Instagram Influencers In Morocco In 2022
 description: >-
-  Find top fashion Instagram influencers in Morocco in 2021. Most popular hashtags: #fashion #fashionblogger #morocco #style.
+  Find top fashion Instagram influencers in Morocco in 2022. Most popular hashtags: #fashion #fashionblogger #morocco #style.
 platform: Instagram
 hits: 240
 text_top: Analyze the top-rated Instagram influencers on inBeat.

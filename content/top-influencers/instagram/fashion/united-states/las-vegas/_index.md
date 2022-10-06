@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Las Vegas In 2021
+title: Top 10 Fashion Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top fashion Instagram influencers in Las Vegas in 2021. Most popular hashtags: #lasvegas #fashion #makeup #ootd.
+  Find top fashion Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #fashion #makeup #ootd.
 platform: Instagram
 hits: 308
 text_top: Identify the best Instagram profiles on inBeat.

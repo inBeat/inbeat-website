@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Montreal In 2021
+title: Top 10 Athletes Instagram Influencers In Montreal In 2022
 description: >-
-  Find top athletes Instagram influencers in Montreal in 2021. Most popular hashtags: #athlete #fitness #montreal #photoshoot.
+  Find top athletes Instagram influencers in Montreal in 2022. Most popular hashtags: #athlete #fitness #montreal #photoshoot.
 platform: Instagram
 hits: 25
 text_top: Identify the most popular Instagram influencers on inBeat.

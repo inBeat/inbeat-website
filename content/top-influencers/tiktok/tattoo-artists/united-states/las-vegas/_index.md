@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Las Vegas In 2021
+title: Top 10 Tattoo-Artists TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top tattoo-artists TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #duet #tattoo #tattooartist.
+  Find top tattoo-artists TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #duet #tattoo #tattooartist.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok profiles on inBeat.

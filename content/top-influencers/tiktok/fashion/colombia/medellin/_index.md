@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Medellín In 2021
+title: Top 10 Fashion TikTok Influencers In Medellín In 2022
 description: >-
-  Find top fashion TikTok influencers in Medellín in 2021. Most popular hashtags: #foryou #fyp #parati #colombia.
+  Find top fashion TikTok influencers in Medellín in 2022. Most popular hashtags: #foryou #fyp #parati #colombia.
 platform: TikTok
 hits: 4
 text_top: See the top-rated TikTok profiles on inBeat.

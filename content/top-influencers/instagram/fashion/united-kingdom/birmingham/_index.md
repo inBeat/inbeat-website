@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Birmingham In 2021
+title: Top 10 Fashion Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top fashion Instagram influencers in Birmingham in 2021. Most popular hashtags: #fashion #fashionblogger #style #ootd.
+  Find top fashion Instagram influencers in Birmingham in 2022. Most popular hashtags: #fashion #fashionblogger #style #ootd.
 platform: Instagram
 hits: 42
 text_top: Discover the most popular Instagram accounts on inBeat.

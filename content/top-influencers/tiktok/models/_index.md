@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In 2021
+title: Top 10 Models TikTok Influencers In 2022
 description: >-
-  Find top models TikTok influencers in 2021. Most popular hashtags: #foryou #fyp #model #fashion.
+  Find top models TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #model #fashion.
 platform: TikTok
 hits: 5659
 text_top: Analyze the best TikTok profiles on inBeat.

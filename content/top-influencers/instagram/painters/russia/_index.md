@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Russia In 2021
+title: Top 10 Painters Instagram Influencers In Russia In 2022
 description: >-
-  Find top painters Instagram influencers in Russia in 2021. Most popular hashtags: #art #instaart #fineart.
+  Find top painters Instagram influencers in Russia in 2022. Most popular hashtags: #art #instaart #fineart.
 platform: Instagram
 hits: 148
 text_top: See the top-rated Instagram accounts on inBeat.

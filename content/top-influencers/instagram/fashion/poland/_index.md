@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Poland In 2021
+title: Top 10 Fashion Instagram Influencers In Poland In 2022
 description: >-
-  Find top fashion Instagram influencers in Poland in 2021. Most popular hashtags: #kapelusz #sukienka #jesiennastylizacja #sweter.
+  Find top fashion Instagram influencers in Poland in 2022. Most popular hashtags: #kapelusz #sukienka #jesiennastylizacja #sweter.
 platform: Instagram
 hits: 1797
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Manchester In 2021
+title: Top 10 Beauty TikTok Influencers In Manchester In 2022
 description: >-
-  Find top beauty TikTok influencers in Manchester in 2021. Most popular hashtags: #fyp #beauty #manchester #love.
+  Find top beauty TikTok influencers in Manchester in 2022. Most popular hashtags: #fyp #beauty #manchester #love.
 platform: TikTok
 hits: 14
 text_top: See the top-rated TikTok influencers on inBeat.

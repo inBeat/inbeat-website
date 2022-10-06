@@ -1,0 +1,126 @@
+{{- with .Params.discoverInfluencer -}}
+<section id="cs_discover-influencer">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12">
+            <h4 class="discover-influencer-heading">{{- .title | markdownify -}}</h4>
+            <div class="video-carousel">
+                {{- range .videos -}}
+                <div class="video-wrapper">
+                    <iframe id="{{- .link -}}" height="512px" width="287px" src="https://player.vimeo.com/video/{{- .link -}}&color=ffe9f0&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>
+                    <div class="video-cover" onClick="toggleVideo(this)"></div>
+                </div>
+                {{- end -}}
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+{{- end -}}
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script>
+    var players = {};
+    var currentPlayId = '';
+    function handleSlider() {
+        var videos = document.querySelectorAll('.video-wrapper iframe');
+        videos.forEach(function(video) {
+            players[video.id] = new Vimeo.Player(video);
+        });
+    }
+    function toggleVideo(e) {
+        var vid = e.previousElementSibling.id;
+        var player = players[vid];
+        if (currentPlayId === vid) {
+          player.pause();
+          currentPlayId = '';
+        } else {
+          try {
+            for (const vid in players) {
+              players[vid].pause(); // pause all other videos
+            }
+            // players[currentPlayId].pause();
+          } catch(err) {
+            console.warn('Failed to pause other videos');
+          }
+          player.play();
+          currentPlayId = vid;
+        }
+    }
+    var elem = document.querySelector('.video-carousel');
+    function handleVideoCarousel(){
+        var fliktityEl = new Flickity( elem, {
+            wrapAround: true, prevNextButtons: false, pageDots: false 
+        });
+        function flickity_handle_wheel_event(e, flickity_instance, flickity_is_animating) {
+          if (!flickity_is_animating) {    
+            // pick the larger of the two delta magnitudes (x or y) to determine nav direction
+            var direction = (Math.abs(e.deltaX) > Math.abs(e.deltaY)) ? e.deltaX : e.deltaY;
+            if (direction > 0) {
+              flickity_instance.next();
+            } else {
+              flickity_instance.previous();
+            }
+          }
+        }
+        var fliktityEl_is_animating = false;
+        fliktityEl.on("settle", function(index) {
+          fliktityEl_is_animating = false;
+        });
+    
+        fliktityEl.on("select", function(index) {
+          fliktityEl_is_animating = true;
+        });
+        elem.onwheel = function(e) {
+          flickity_handle_wheel_event(e, fliktityEl, fliktityEl_is_animating);
+        }
+    }
+    var scrollBarWidth = window.innerWidth - document.body.clientWidth
+    elem.onmouseenter= function(e){
+      DomUtils.disableScroll()
+    }
+    elem.onmouseleave= function(e){
+      DomUtils.enableScroll()
+    }
+    class DomUtils {
+        // left: 37, up: 38, right: 39, down: 40,
+        // spacebar: 32, pageup: 33, pagedown: 34, end: 35, home: 36
+        static keys = { 37: 1, 38: 1, 39: 1, 40: 1 };
+        static preventDefault(e) {
+         e = e || window.event;
+         if (e.preventDefault) e.preventDefault();
+         e.returnValue = false;
+        }
+        static preventDefaultForScrollKeys(e) {
+         if (DomUtils.keys[e.keyCode]) {
+           DomUtils.preventDefault(e);
+           return false;
+         }
+        }
+
+        static disableScroll() {
+          document.addEventListener('wheel', DomUtils.preventDefault, {
+            passive: false,
+          }); 
+          document.addEventListener('keydown', DomUtils.preventDefaultForScrollKeys, {
+            passive: false,
+          });
+        }
+
+        static enableScroll() {
+          document.removeEventListener('wheel', DomUtils.preventDefault, {
+            passive: false,
+          }); 
+          document.removeEventListener(
+            'keydown',
+            DomUtils.preventDefaultForScrollKeys,
+            {
+              passive: false,
+            }
+          ); 
+        }
+    }
+    
+    handleVideoCarousel()
+    handleSlider();
+</script>

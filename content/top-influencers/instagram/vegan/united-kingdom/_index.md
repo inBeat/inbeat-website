@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United Kingdom In 2021
+title: Top 10 Vegan Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top vegan Instagram influencers in United Kingdom in 2021. Most popular hashtags: #grungepost #nugrunge #alternativegirlsofinstagram.
+  Find top vegan Instagram influencers in United Kingdom in 2022. Most popular hashtags: #grungepost #nugrunge #alternativegirlsofinstagram.
 platform: Instagram
 hits: 730
 text_top: Identify the best Instagram influencers on inBeat.

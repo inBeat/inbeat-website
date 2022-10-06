@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Sao Paulo In 2021
+title: Top 10 Models TikTok Influencers In Sao Paulo In 2022
 description: >-
-  Find top models TikTok influencers in Sao Paulo in 2021. Most popular hashtags: #foryou #fyp #fy #model.
+  Find top models TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #foryou #fyp #fy #model.
 platform: TikTok
 hits: 5
 text_top: See the top-rated TikTok profiles on inBeat.

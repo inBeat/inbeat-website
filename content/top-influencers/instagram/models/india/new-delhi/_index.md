@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In New Delhi In 2021
+title: Top 10 Models Instagram Influencers In New Delhi In 2022
 description: >-
-  Find top models Instagram influencers in New Delhi in 2021. Most popular hashtags: #fashion #photography #model #fashionblogger.
+  Find top models Instagram influencers in New Delhi in 2022. Most popular hashtags: #fashion #photography #model #fashionblogger.
 platform: Instagram
 hits: 66
 text_top: See the best Instagram accounts on inBeat.

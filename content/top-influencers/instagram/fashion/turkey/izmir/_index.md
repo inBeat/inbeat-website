@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Izmir In 2021
+title: Top 10 Fashion Instagram Influencers In Izmir In 2022
 description: >-
-  Find top fashion Instagram influencers in Izmir in 2021. Most popular hashtags: #fashion #style #izmir #makeup.
+  Find top fashion Instagram influencers in Izmir in 2022. Most popular hashtags: #fashion #style #izmir #makeup.
 platform: Instagram
 hits: 139
 text_top: Identify the most popular Instagram profiles on inBeat.

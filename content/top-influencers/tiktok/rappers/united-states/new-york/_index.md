@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In New York In 2021
+title: Top 10 Rappers TikTok Influencers In New York In 2022
 description: >-
-  Find top rappers TikTok influencers in New York in 2021. Most popular hashtags: #fyp #foryou #newyork #nyc.
+  Find top rappers TikTok influencers in New York in 2022. Most popular hashtags: #fyp #foryou #newyork #nyc.
 platform: TikTok
 hits: 29
 text_top: Discover the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austin In 2021
+title: Top 10 Beauty TikTok Influencers In Austin In 2022
 description: >-
-  Find top beauty TikTok influencers in Austin in 2021. Most popular hashtags: #fyp #beauty #foryou #austin.
+  Find top beauty TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #beauty #foryou #austin.
 platform: TikTok
 hits: 48
 text_top: See the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In United States In 2021
+title: Top 10 Gymnasts Instagram Influencers In United States In 2022
 description: >-
-  Find top gymnasts Instagram influencers in United States in 2021. Most popular hashtags: #blackouttuesday #happynewyear #celsiuslivefit.
+  Find top gymnasts Instagram influencers in United States in 2022. Most popular hashtags: #blackouttuesday #happynewyear #celsiuslivefit.
 platform: Instagram
 hits: 757
 text_top: Identify the best Instagram influencers on inBeat.

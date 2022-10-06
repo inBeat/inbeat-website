@@ -1,7 +1,7 @@
 ---
-title: Top 10 Longboard TikTok Influencers In 2021
+title: Top 10 Longboard TikTok Influencers In 2022
 description: >-
-  Find top longboard TikTok influencers in 2021. Most popular hashtags: #longboard #foryou #skateboard #longboarding.
+  Find top longboard TikTok influencers in 2022. Most popular hashtags: #longboard #foryou #skateboard #longboarding.
 platform: TikTok
 hits: 274
 text_top: Discover the best TikTok accounts on inBeat.

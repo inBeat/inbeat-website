@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In South Korea In 2021
+title: Top 10 Cooking Instagram Influencers In South Korea In 2022
 description: >-
-  Find top cooking Instagram influencers in South Korea in 2021. Most popular hashtags: #cooking #food #koreanfood #foodstagram.
+  Find top cooking Instagram influencers in South Korea in 2022. Most popular hashtags: #cooking #food #koreanfood #foodstagram.
 platform: Instagram
 hits: 81
 text_top: Analyze the top-rated Instagram profiles on inBeat.

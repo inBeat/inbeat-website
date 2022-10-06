@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Denver In 2021
+title: Top 10 Fashion Instagram Influencers In Denver In 2022
 description: >-
-  Find top fashion Instagram influencers in Denver in 2021. Most popular hashtags: #denver #colorado #fashion.
+  Find top fashion Instagram influencers in Denver in 2022. Most popular hashtags: #denver #colorado #fashion.
 platform: Instagram
 hits: 91
 text_top: See the best Instagram accounts on inBeat.

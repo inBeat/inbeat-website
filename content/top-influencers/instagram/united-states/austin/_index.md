@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Austin In 2021
+title: Top 10 Instagram Influencers In Austin In 2022
 description: >-
-  Find top Instagram influencers in Austin in 2021. Most popular hashtags: #happy #instagood #newlyweds.
+  Find top Instagram influencers in Austin in 2022. Most popular hashtags: #happy #instagood #newlyweds.
 platform: Instagram
 hits: 2889
 text_top: Discover the best Instagram profiles on inBeat.

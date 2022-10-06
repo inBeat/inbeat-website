@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Saudi Arabia In 2021
+title: Top 10 Instagram Influencers In Saudi Arabia In 2022
 description: >-
-  Find top Instagram influencers in Saudi Arabia in 2021. Most popular hashtags: #photography #riyadh #drawings.
+  Find top Instagram influencers in Saudi Arabia in 2022. Most popular hashtags: #photography #riyadh #drawings.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Australia In 2021
+title: Top 10 Painters TikTok Influencers In Australia In 2022
 description: >-
-  Find top painters TikTok influencers in Australia in 2021. Most popular hashtags: #art #fyp #foryou #artist.
+  Find top painters TikTok influencers in Australia in 2022. Most popular hashtags: #art #fyp #foryou #artist.
 platform: TikTok
 hits: 35
 text_top: Analyze the most popular TikTok influencers on inBeat.

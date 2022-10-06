@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In United Kingdom In 2021
+title: Top 10 Gaming Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top gaming Instagram influencers in United Kingdom in 2021. Most popular hashtags: #gaming #gamergirl #gamersofinstagram #gamingcommunity.
+  Find top gaming Instagram influencers in United Kingdom in 2022. Most popular hashtags: #gaming #gamergirl #gamersofinstagram #gamingcommunity.
 platform: Instagram
 hits: 186
 text_top: See the top-rated Instagram influencers on inBeat.

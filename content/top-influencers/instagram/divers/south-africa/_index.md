@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In South Africa In 2021
+title: Top 10 Divers Instagram Influencers In South Africa In 2022
 description: >-
-  Find top divers Instagram influencers in South Africa in 2021. Most popular hashtags: #photography #southafrica #africa.
+  Find top divers Instagram influencers in South Africa in 2022. Most popular hashtags: #photography #southafrica #africa.
 platform: Instagram
 hits: 13
 text_top: Identify the top-rated Instagram profiles on inBeat.

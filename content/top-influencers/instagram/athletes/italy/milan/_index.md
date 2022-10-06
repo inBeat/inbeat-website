@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Milan In 2021
+title: Top 10 Athletes Instagram Influencers In Milan In 2022
 description: >-
-  Find top athletes Instagram influencers in Milan in 2021. Most popular hashtags: #workout #motivation #happiness #love.
+  Find top athletes Instagram influencers in Milan in 2022. Most popular hashtags: #workout #motivation #happiness #love.
 platform: Instagram
 hits: 38
 text_top: Identify the top-rated Instagram influencers on inBeat.

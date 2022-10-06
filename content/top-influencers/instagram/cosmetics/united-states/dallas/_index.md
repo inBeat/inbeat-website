@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Dallas In 2021
+title: Top 10 Cosmetics Instagram Influencers In Dallas In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Dallas in 2021. Most popular hashtags: #skincare #beauty #makeup #cosmetics.
+  Find top cosmetics Instagram influencers in Dallas in 2022. Most popular hashtags: #skincare #beauty #makeup #cosmetics.
 platform: Instagram
 hits: 20
 text_top: See the best Instagram profiles on inBeat.

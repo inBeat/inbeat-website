@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Malaysia In 2021
+title: Top 10 Divers Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top divers Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #dudukrumah #diver #love.
+  Find top divers Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #dudukrumah #diver #love.
 platform: Instagram
 hits: 21
 text_top: See the best Instagram accounts on inBeat.

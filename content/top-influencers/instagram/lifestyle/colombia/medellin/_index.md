@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Medellín In 2021
+title: Top 10 Lifestyle Instagram Influencers In Medellín In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Medellín in 2021. Most popular hashtags: #colombia #medellin #lifestyle #bogota.
+  Find top lifestyle Instagram influencers in Medellín in 2022. Most popular hashtags: #colombia #medellin #lifestyle #bogota.
 platform: Instagram
 hits: 59
 text_top: Analyze the most popular Instagram influencers on inBeat.

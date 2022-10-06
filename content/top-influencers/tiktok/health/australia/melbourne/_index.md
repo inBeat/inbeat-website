@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Melbourne In 2021
+title: Top 10 Health TikTok Influencers In Melbourne In 2022
 description: >-
-  Find top health TikTok influencers in Melbourne in 2021. Most popular hashtags: #fyp #melbourne #foryou #foryoupage.
+  Find top health TikTok influencers in Melbourne in 2022. Most popular hashtags: #fyp #melbourne #foryou #foryoupage.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok influencers on inBeat.

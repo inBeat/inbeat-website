@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In South Africa In 2021
+title: Top 10 Comedians Instagram Influencers In South Africa In 2022
 description: >-
-  Find top comedians Instagram influencers in South Africa in 2021. Most popular hashtags: #stayhome #southafrica #portrait.
+  Find top comedians Instagram influencers in South Africa in 2022. Most popular hashtags: #stayhome #southafrica #portrait.
 platform: Instagram
 hits: 12
 text_top: See the best Instagram accounts on inBeat.

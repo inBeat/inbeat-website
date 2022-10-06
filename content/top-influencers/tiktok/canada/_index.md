@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Canada In 2021
+title: Top 10 TikTok Influencers In Canada In 2022
 description: >-
-  Find top TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #mycostume #duet.
+  Find top TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #mycostume #duet.
 platform: TikTok
 hits: 9329
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Houston In 2021
+title: Top 10 Health Instagram Influencers In Houston In 2022
 description: >-
-  Find top health Instagram influencers in Houston in 2021. Most popular hashtags: #houston #health #quarantine #texas.
+  Find top health Instagram influencers in Houston in 2022. Most popular hashtags: #houston #health #quarantine #texas.
 platform: Instagram
 hits: 116
 text_top: Identify the top-rated Instagram accounts on inBeat.

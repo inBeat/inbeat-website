@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In San Diego In 2021
+title: Top 10 Food Instagram Influencers In San Diego In 2022
 description: >-
-  Find top food Instagram influencers in San Diego in 2021. Most popular hashtags: #sandiego #foodie #food.
+  Find top food Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #foodie #food.
 platform: Instagram
 hits: 110
 text_top: Identify the top-rated Instagram influencers on inBeat.

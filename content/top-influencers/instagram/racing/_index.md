@@ -1,7 +1,7 @@
 ---
-title: Top 10 Racing Instagram Influencers In 2021
+title: Top 10 Racing Instagram Influencers In 2022
 description: >-
-  Find top racing Instagram influencers in 2021. Most popular hashtags: #f1 #youtube #21.
+  Find top racing Instagram influencers in 2022. Most popular hashtags: #f1 #youtube #21.
 platform: Instagram
 hits: 6706
 text_top: Analyze the top-rated Instagram profiles on inBeat.

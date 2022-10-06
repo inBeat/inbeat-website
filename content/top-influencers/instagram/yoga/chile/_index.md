@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chile In 2021
+title: Top 10 Yoga Instagram Influencers In Chile In 2022
 description: >-
-  Find top yoga Instagram influencers in Chile in 2021. Most popular hashtags: #yoga #chile #love #nature.
+  Find top yoga Instagram influencers in Chile in 2022. Most popular hashtags: #yoga #chile #love #nature.
 platform: Instagram
 hits: 34
 text_top: Identify the best Instagram accounts on inBeat.

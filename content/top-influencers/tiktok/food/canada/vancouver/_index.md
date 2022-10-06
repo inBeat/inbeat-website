@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Vancouver In 2021
+title: Top 10 Food TikTok Influencers In Vancouver In 2022
 description: >-
-  Find top food TikTok influencers in Vancouver in 2021. Most popular hashtags: #fyp #vancouver #canada #food.
+  Find top food TikTok influencers in Vancouver in 2022. Most popular hashtags: #fyp #vancouver #canada #food.
 platform: TikTok
 hits: 27
 text_top: Discover the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In South Africa In 2021
+title: Top 10 Health TikTok Influencers In South Africa In 2022
 description: >-
-  Find top health TikTok influencers in South Africa in 2021. Most popular hashtags: #fyp #viral #foryoupage #trending.
+  Find top health TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #viral #foryoupage #trending.
 platform: TikTok
 hits: 25
 text_top: Discover the most popular TikTok accounts on inBeat.

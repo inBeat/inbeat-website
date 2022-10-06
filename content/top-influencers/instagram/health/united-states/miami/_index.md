@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Miami In 2021
+title: Top 10 Health Instagram Influencers In Miami In 2022
 description: >-
-  Find top health Instagram influencers in Miami in 2021. Most popular hashtags: #miami #health #fitness #workout.
+  Find top health Instagram influencers in Miami in 2022. Most popular hashtags: #miami #health #fitness #workout.
 platform: Instagram
 hits: 301
 text_top: Analyze the most popular Instagram influencers on inBeat.

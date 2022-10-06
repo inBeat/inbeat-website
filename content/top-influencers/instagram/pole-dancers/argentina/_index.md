@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Argentina In 2021
+title: Top 10 Pole Dancers Instagram Influencers In Argentina In 2022
 description: >-
-  Find top pole dancers Instagram influencers in Argentina in 2021. Most popular hashtags: #dancer #poledance #exoticpole.
+  Find top pole dancers Instagram influencers in Argentina in 2022. Most popular hashtags: #dancer #poledance #exoticpole.
 platform: Instagram
 hits: 10
 text_top: Analyze the most popular Instagram accounts on inBeat.

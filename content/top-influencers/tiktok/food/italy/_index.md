@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Italy In 2021
+title: Top 10 Food TikTok Influencers In Italy In 2022
 description: >-
-  Find top food TikTok influencers in Italy in 2021. Most popular hashtags: #perte #neiperte #foryoupage #foryou.
+  Find top food TikTok influencers in Italy in 2022. Most popular hashtags: #perte #neiperte #foryoupage #foryou.
 platform: TikTok
 hits: 261
 text_top: Identify the best TikTok influencers on inBeat.

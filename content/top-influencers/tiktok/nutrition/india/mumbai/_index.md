@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Mumbai In 2021
+title: Top 10 Nutrition TikTok Influencers In Mumbai In 2022
 description: >-
-  Find top nutrition TikTok influencers in Mumbai in 2021. Most popular hashtags: #fitness #tiktokindia #tiktok #trending.
+  Find top nutrition TikTok influencers in Mumbai in 2022. Most popular hashtags: #fitness #tiktokindia #tiktok #trending.
 platform: TikTok
 hits: 5
 text_top: Analyze the top-rated TikTok accounts on inBeat.

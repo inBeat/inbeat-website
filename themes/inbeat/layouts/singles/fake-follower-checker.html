@@ -36,16 +36,16 @@
         {{- end -}}
 
         <div id="skeleton-loader" class="ffc-loader card row section "  v-if="loading">
-            <div class="loading-bar--container">
-                <div class="loading-bar">
-                    <div> <p class="text">Fetching Profile</p></div>
-                    <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
-                </div>
-            </div>
             <div class="col-md-6  col-xs-12 margin-top">
                 <div class="loader-circle--medium loader-center"></div>
-                <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div>
-                <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div>
+                <!-- <div class="col-xs-4 loader-center"><div class="loader-bar"></div></div> -->
+                <!-- <div class="col-xs-3 loader-center"><div class="loader-bar"></div></div> -->
+                <div class="loading-bar--container">
+                    <div class="loading-bar">
+                        <div> <p class="text">Fetching Profile</p></div>
+                        <div class="bar"><span id="progress" class="progress-bar-fill"></span></div>
+                    </div>
+                </div>
                 <br><br>
                 <div class="row">
                     <div class="col-xs-12"><div class="loader-square--medium"></div></div>

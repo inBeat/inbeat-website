@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Brisbane In 2021
+title: Top 10 Health TikTok Influencers In Brisbane In 2022
 description: >-
-  Find top health TikTok influencers in Brisbane in 2021. Most popular hashtags: #mentalhealthmatters #fyp #love #dayforit.
+  Find top health TikTok influencers in Brisbane in 2022. Most popular hashtags: #mentalhealthmatters #fyp #love #dayforit.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok accounts on inBeat.

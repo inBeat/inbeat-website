@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In United States In 2021
+title: Top 10 Gymnasts TikTok Influencers In United States In 2022
 description: >-
-  Find top gymnasts TikTok influencers in United States in 2021. Most popular hashtags: #fyp #gymnastics #gymnast.
+  Find top gymnasts TikTok influencers in United States in 2022. Most popular hashtags: #fyp #gymnastics #gymnast.
 platform: TikTok
 hits: 510
 text_top: Identify the most popular TikTok influencers on inBeat.

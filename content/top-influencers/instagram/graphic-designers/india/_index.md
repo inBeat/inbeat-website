@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In India In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In India In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in India in 2021. Most popular hashtags: #india #portrait #art #kerala.
+  Find top graphic-designers Instagram influencers in India in 2022. Most popular hashtags: #india #portrait #art #kerala.
 platform: Instagram
 hits: 86
 text_top: Analyze the top-rated Instagram profiles on inBeat.

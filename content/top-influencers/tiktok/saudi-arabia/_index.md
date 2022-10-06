@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Saudi Arabia In 2021
+title: Top 10 TikTok Influencers In Saudi Arabia In 2022
 description: >-
-  Find top TikTok influencers in Saudi Arabia in 2021. Most popular hashtags: #duet #sultansbattledance #tiktok.
+  Find top TikTok influencers in Saudi Arabia in 2022. Most popular hashtags: #duet #sultansbattledance #tiktok.
 platform: TikTok
 hits: 1083
 text_top: Discover the most popular TikTok profiles on inBeat.

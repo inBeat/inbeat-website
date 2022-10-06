@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Turkey In 2021
+title: Top 10 Music Instagram Influencers In Turkey In 2022
 description: >-
-  Find top music Instagram influencers in Turkey in 2021. Most popular hashtags: #saz #youtube #summervibes.
+  Find top music Instagram influencers in Turkey in 2022. Most popular hashtags: #saz #youtube #summervibes.
 platform: Instagram
 hits: 787
 text_top: See the most popular Instagram influencers on inBeat.

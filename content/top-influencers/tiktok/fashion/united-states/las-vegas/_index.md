@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Las Vegas In 2021
+title: Top 10 Fashion TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top fashion TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #foryou #fashion #foryoupage.
+  Find top fashion TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #foryou #fashion #foryoupage.
 platform: TikTok
 hits: 35
 text_top: Analyze the best TikTok profiles on inBeat.

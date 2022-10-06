@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Spain In 2021
+title: Top 10 Painters Instagram Influencers In Spain In 2022
 description: >-
-  Find top painters Instagram influencers in Spain in 2021. Most popular hashtags: #art #contemporaryart #artist #artistsoninstagram.
+  Find top painters Instagram influencers in Spain in 2022. Most popular hashtags: #art #contemporaryart #artist #artistsoninstagram.
 platform: Instagram
 hits: 161
 text_top: Discover the top-rated Instagram influencers on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Paula Bonet
     bio: >-
-      Painter • Engraver • Writer• Based in @tallerlamadriguera • La anguila (Ed Anagrama, 2021)• info@paulabonet.com • mcarmona@literagency.com
+      Painter • Engraver • Writer• Based in @tallerlamadriguera • La anguila (Ed Anagrama, 2022)• info@paulabonet.com • mcarmona@literagency.com
     location: "Spain"
     followers: 270434
     engagement: 365

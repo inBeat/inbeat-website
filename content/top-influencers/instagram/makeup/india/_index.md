@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In India In 2021
+title: Top 10 Makeup Instagram Influencers In India In 2022
 description: >-
-  Find top makeup Instagram influencers in India in 2021. Most popular hashtags: #explore #makeup #influencer #beauty.
+  Find top makeup Instagram influencers in India in 2022. Most popular hashtags: #explore #makeup #influencer #beauty.
 platform: Instagram
 hits: 2730
 text_top: Analyze the most popular Instagram profiles on inBeat.

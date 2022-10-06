@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Seoul In 2021
+title: Top 10 Beauty Instagram Influencers In Seoul In 2022
 description: >-
-  Find top beauty Instagram influencers in Seoul in 2021. Most popular hashtags: #fashion #korea #beauty.
+  Find top beauty Instagram influencers in Seoul in 2022. Most popular hashtags: #fashion #korea #beauty.
 platform: Instagram
 hits: 20
 text_top: See the best Instagram accounts on inBeat.

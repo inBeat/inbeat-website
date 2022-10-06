@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Russia In 2021
+title: Top 10 Dancers Instagram Influencers In Russia In 2022
 description: >-
-  Find top dancers Instagram influencers in Russia in 2021. Most popular hashtags: #kidsmodel #model #dancer.
+  Find top dancers Instagram influencers in Russia in 2022. Most popular hashtags: #kidsmodel #model #dancer.
 platform: Instagram
 hits: 473
 text_top: Discover the most popular Instagram accounts on inBeat.

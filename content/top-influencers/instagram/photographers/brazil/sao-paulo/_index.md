@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2021
+title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2022
 description: >-
-  Find top photographers Instagram influencers in Sao Paulo in 2021. Most popular hashtags: #saopaulo #photographer #photooftheday.
+  Find top photographers Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #saopaulo #photographer #photooftheday.
 platform: Instagram
 hits: 149
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Toronto In 2021
+title: Top 10 Travel TikTok Influencers In Toronto In 2022
 description: >-
-  Find top travel TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #toronto #travel #canada.
+  Find top travel TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #travel #canada.
 platform: TikTok
 hits: 78
 text_top: Analyze the most popular TikTok profiles on inBeat.

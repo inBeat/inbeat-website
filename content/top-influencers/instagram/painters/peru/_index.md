@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Peru In 2021
+title: Top 10 Painters Instagram Influencers In Peru In 2022
 description: >-
-  Find top painters Instagram influencers in Peru in 2021. Most popular hashtags: #peru #artist #art #drawing.
+  Find top painters Instagram influencers in Peru in 2022. Most popular hashtags: #peru #artist #art #drawing.
 platform: Instagram
 hits: 14
 text_top: Identify the most popular Instagram accounts on inBeat.

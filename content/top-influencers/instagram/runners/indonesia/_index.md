@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Indonesia In 2021
+title: Top 10 Runners Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top runners Instagram influencers in Indonesia in 2021. Most popular hashtags: #holiday #indonesia #bali.
+  Find top runners Instagram influencers in Indonesia in 2022. Most popular hashtags: #holiday #indonesia #bali.
 platform: Instagram
 hits: 91
 text_top: Analyze the top-rated Instagram profiles on inBeat.

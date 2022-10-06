@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Mumbai In 2021
+title: Top 10 Yoga TikTok Influencers In Mumbai In 2022
 description: >-
-  Find top yoga TikTok influencers in Mumbai in 2021. Most popular hashtags: #tiktok #trending #yoga #foryou.
+  Find top yoga TikTok influencers in Mumbai in 2022. Most popular hashtags: #tiktok #trending #yoga #foryou.
 platform: TikTok
 hits: 11
 text_top: See the most popular TikTok profiles on inBeat.

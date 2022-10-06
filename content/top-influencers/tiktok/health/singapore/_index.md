@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Singapore In 2021
+title: Top 10 Health TikTok Influencers In Singapore In 2022
 description: >-
-  Find top health TikTok influencers in Singapore in 2021. Most popular hashtags: #fyp #tiktoksg #stayathome #sgfoodie.
+  Find top health TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #tiktoksg #stayathome #sgfoodie.
 platform: TikTok
 hits: 14
 text_top: Analyze the top-rated TikTok profiles on inBeat.

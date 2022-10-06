@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Manchester In 2021
+title: Top 10 Food TikTok Influencers In Manchester In 2022
 description: >-
-  Find top food TikTok influencers in Manchester in 2021. Most popular hashtags: #fyp #foryou #food #foryoupage.
+  Find top food TikTok influencers in Manchester in 2022. Most popular hashtags: #fyp #foryou #food #foryoupage.
 platform: TikTok
 hits: 28
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Los Angeles In 2021
+title: Top 10 Architecture TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top architecture TikTok influencers in Los Angeles in 2021. Most popular hashtags: #architecture #interiordesign #fyp #losangeles.
+  Find top architecture TikTok influencers in Los Angeles in 2022. Most popular hashtags: #architecture #interiordesign #fyp #losangeles.
 platform: TikTok
 hits: 13
 text_top: Discover the best TikTok accounts on inBeat.

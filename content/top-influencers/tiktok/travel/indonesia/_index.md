@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Indonesia In 2021
+title: Top 10 Travel TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top travel TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #tiktoktravel #samasamabelajar #foryou.
+  Find top travel TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #tiktoktravel #samasamabelajar #foryou.
 platform: TikTok
 hits: 78
 text_top: Identify the most popular TikTok accounts on inBeat.

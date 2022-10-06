@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In India In 2021
+title: Top 10 Food Instagram Influencers In India In 2022
 description: >-
-  Find top food Instagram influencers in India in 2021. Most popular hashtags: #ig #passionpassport #instakolkata #kolkata.
+  Find top food Instagram influencers in India in 2022. Most popular hashtags: #ig #passionpassport #instakolkata #kolkata.
 platform: Instagram
 hits: 3236
 text_top: Discover the top-rated Instagram profiles on inBeat.

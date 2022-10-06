@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Montreal In 2021
+title: Top 10 Bloggers Instagram Influencers In Montreal In 2022
 description: >-
-  Find top bloggers Instagram influencers in Montreal in 2021. Most popular hashtags: #montreal #mtlblog #mtlmoments.
+  Find top bloggers Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #mtlblog #mtlmoments.
 platform: Instagram
 hits: 35
 text_top: Identify the most popular Instagram accounts on inBeat.

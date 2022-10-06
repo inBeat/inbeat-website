@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In South Korea In 2021
+title: Top 10 Food TikTok Influencers In South Korea In 2022
 description: >-
-  Find top food TikTok influencers in South Korea in 2021. Most popular hashtags: #food #asmr #fyp #mukbang.
+  Find top food TikTok influencers in South Korea in 2022. Most popular hashtags: #food #asmr #fyp #mukbang.
 platform: TikTok
 hits: 40
 text_top: See the most popular TikTok profiles on inBeat.

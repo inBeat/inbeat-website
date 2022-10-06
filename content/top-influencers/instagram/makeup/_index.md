@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In 2021
+title: Top 10 Makeup Instagram Influencers In 2022
 description: >-
-  Find top makeup Instagram influencers in 2021. Most popular hashtags: #makeup #undiscovered #makeupartist.
+  Find top makeup Instagram influencers in 2022. Most popular hashtags: #makeup #undiscovered #makeupartist.
 platform: Instagram
 hits: 80124
 text_top: Discover the most popular Instagram accounts on inBeat.

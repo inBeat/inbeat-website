@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Thailand In 2021
+title: Top 10 Dancers Instagram Influencers In Thailand In 2022
 description: >-
-  Find top dancers Instagram influencers in Thailand in 2021. Most popular hashtags: #dance #hiphop #jazzfunk.
+  Find top dancers Instagram influencers in Thailand in 2022. Most popular hashtags: #dance #hiphop #jazzfunk.
 platform: Instagram
 hits: 16
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{- $.Lang -}}">
+	{{ partial "site-head.html" . }}
+	<body>
+		{{ `<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->` | safeHTML }}
+		{{ partial "header/gtm.html" . }}
+        {{ $content :=  `<div class="content-video"><iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="btn-cta"><a href="https://calendly.com/inbeat-co/creator-studio-demo" target="_blank"><button class="btn"><span>Book a demo</button></a></div>` }}
+		{{ partial "site/popup.html" (dict "context" . "id" "videoPopup" "content" $content "canClose" true  ) }}  
+		{{ block "main" . }}
+		{{ end }}
+        {{ partial "site-header-creator_studio.html" . }}
+        {{- with .Params.hero -}}
+        <section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                 <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+                 <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+                 <div class="cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" target="_blank">
+                        {{- htmlUnescape .cta.text | markdownify -}}
+                    </a>
+                    <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg popupTrigger" data-popup-id="videoPopup">
+                        <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
+                    </a>
+                </div>
+                 </div>
+            </div>
+        </section>
+        {{- end -}}
+{{- partial "site/discover-influencer.html" . -}}
+{{- partial "site/testimonial-with-cards.html" . -}}
+{{- partial "site/clients-creator-studio.html" . -}}
+{{- partial "site/features-v2.html" . -}}
+{{- partial "site/switchers-accordian.html" . -}}
+{{- partial "site/whatwedo-v2.html" . -}}
+{{ partial "site-footer.html" . }}
+{{ partial "footer/scripts.html" . }}
+</body>
+</html>

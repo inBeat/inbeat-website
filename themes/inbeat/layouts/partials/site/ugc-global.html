@@ -13,10 +13,10 @@
                     {{end}}
                 </div>
                 <div class="col-xs-12 col-md-6 whatwedo_description-section">
-                    {{- if .newBadge -}}
+                   
+                    <h2 class="whatwedo_description-title">{{- if .newBadge -}}
                     <span class="new-badge hide-sm">NEW!</span>
-                    {{- end -}}    
-                    <h2 class="whatwedo_description-title">{{- .title -}}</h2>
+                    {{- end -}}    {{- .title -}}</h2>
                     <p class="whatwedo_description-subtext">{{- .text -}}</p>
                     <div class="cta-whatwedo">
                         <a href="{{- .cta.link -}}" class="btn btn-lg whatwedo-btn" title="Try it now" id="hero-cta">

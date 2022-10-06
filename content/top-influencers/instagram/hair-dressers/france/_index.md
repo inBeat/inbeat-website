@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In France In 2021
+title: Top 10 Hair Dressers Instagram Influencers In France In 2022
 description: >-
-  Find top hair dressers Instagram influencers in France in 2021. Most popular hashtags: #hairstyles #dresses #hairstyle #hair.
+  Find top hair dressers Instagram influencers in France in 2022. Most popular hashtags: #hairstyles #dresses #hairstyle #hair.
 platform: Instagram
 hits: 18
 text_top: See the most popular Instagram influencers on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Zoé & Laurent
     bio: >-
-      💍 Fiançailles le 17 mars 2018 💒 Mariage reporté à avril 2021 - Prépa de notre mariage, inspi, bons plans, astuces... Blog ⬇️
+      💍 Fiançailles le 17 mars 2018 💒 Mariage reporté à avril 2022 - Prépa de notre mariage, inspi, bons plans, astuces... Blog ⬇️
     location: "France"
     followers: 16028
     engagement: 221

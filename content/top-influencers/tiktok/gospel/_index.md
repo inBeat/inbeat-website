@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gospel TikTok Influencers In 2021
+title: Top 10 Gospel TikTok Influencers In 2022
 description: >-
-  Find top gospel TikTok influencers in 2021. Most popular hashtags: #fyp #jesus #christian #peace.
+  Find top gospel TikTok influencers in 2022. Most popular hashtags: #fyp #jesus #christian #peace.
 platform: TikTok
 hits: 398
 text_top: Discover the top-rated TikTok influencers on inBeat.

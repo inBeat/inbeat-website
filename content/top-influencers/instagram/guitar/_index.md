@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In 2021
+title: Top 10 Guitar Instagram Influencers In 2022
 description: >-
-  Find top guitar Instagram influencers in 2021. Most popular hashtags: #guitarist #guitar #guitarsolo.
+  Find top guitar Instagram influencers in 2022. Most popular hashtags: #guitarist #guitar #guitarsolo.
 platform: Instagram
 hits: 6854
 text_top: Identify the most popular Instagram accounts on inBeat.

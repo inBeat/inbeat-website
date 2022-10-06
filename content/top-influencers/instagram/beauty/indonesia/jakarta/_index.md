@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Jakarta In 2021
+title: Top 10 Beauty Instagram Influencers In Jakarta In 2022
 description: >-
-  Find top beauty Instagram influencers in Jakarta in 2021. Most popular hashtags: #beauty #jakarta #fashion.
+  Find top beauty Instagram influencers in Jakarta in 2022. Most popular hashtags: #beauty #jakarta #fashion.
 platform: Instagram
 hits: 191
 text_top: See the top-rated Instagram accounts on inBeat.

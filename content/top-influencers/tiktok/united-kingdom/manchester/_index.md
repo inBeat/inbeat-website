@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Manchester In 2021
+title: Top 10 TikTok Influencers In Manchester In 2022
 description: >-
-  Find top TikTok influencers in Manchester in 2021. Most popular hashtags: #duet #fyp #foryoupage #foryou.
+  Find top TikTok influencers in Manchester in 2022. Most popular hashtags: #duet #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 255
 text_top: Analyze the best TikTok accounts on inBeat.

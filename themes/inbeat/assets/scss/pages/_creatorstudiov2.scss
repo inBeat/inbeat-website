@@ -1,0 +1,156 @@
+#hero.hero_creator-studio-v2{
+    background-color: #F9F2F7;
+    padding-top: 8.50rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    @include breakpoint(sm) {
+        padding-top: 13.3125rem;
+        padding-bottom: 128px;
+    }
+    &.has-banner{
+        // Add the banner height size
+        transform: translateY(36.5px);
+    }
+    .creator-studio-heading{
+        text-align: center;
+        letter-spacing: -1px;
+        color: #000000;
+        font-size: 44px;
+        line-height: 46px;
+        margin-bottom: 24px;
+        @include breakpoint(sm) {
+          font-weight: 700;
+          margin-bottom: 2rem;
+          font-size: 4.75rem;
+          line-height: 5rem;
+        }
+    }
+    .hero_creator-studio-sub_heading{
+        margin: auto;
+        font-weight: 400;
+        text-align: center;
+        color: #141514;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+    .cta {
+        a {
+            span{
+              font-weight: 400;
+            }
+            display: block;
+            margin: 0 auto 20px;
+            width: 100%;
+            @include breakpoint(31.25rem) {
+                width: 16.75rem;
+            }
+            @include breakpoint(sm) {
+                display: inline-block;
+                margin: 0;
+                &:first-child {
+                    margin-right: 20px;
+                }
+            }
+            &#hero-cta {
+                @include breakpoint(sm-down) {
+                    color: black;
+                    border: none;
+                }
+            }
+        }
+        a:nth-child(2){
+            background-color: transparent;
+            color: #000000;
+            padding-left: 50px;
+            span{
+              padding: 0;
+            }
+        }
+    }
+}
+#cs_discover-influencer{
+    margin-top: 137px;
+    margin-bottom: 96px;
+    @include breakpoint(sm-down) {
+        margin-top: 105px;
+        margin-bottom: 64px;
+    }
+    .discover-influencer-heading{
+      margin: 0;
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 36px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #141514;
+      margin-bottom: 54px;
+      @include breakpoint(sm-down) {
+        margin-bottom: 64px;
+    }
+    }
+    .video-carousel{
+        margin-left: -2rem;
+        margin-right: -2rem;
+        -ms-overflow-style: none;  /* Internet Explorer 10+ */
+        scrollbar-width: none;  /* Firefox */
+        max-height: 512px;
+        overflow-y: hidden;
+        iframe{
+            border-radius: 8px;
+        }
+        .video-wrapper{
+            margin-right: 30px;
+            cursor: pointer;
+            .vp-player-ui-overlays{
+                pointer-events: all;
+            }
+            .dummy{
+                height: 512px;
+                width: 287px;
+                background: black;
+                opacity: 0.1;
+                position: absolute;
+            }
+            .video-cover {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0,0,0,0);
+                z-index: 1;
+            }
+        }
+        .flickity-page-dots{
+            display: none;
+        }
+    }
+    .video-carousel::-webkit-scrollbar { 
+        display: none;  /* Safari and Chrome */
+    }
+    .video-carousel > *:first-child {
+		padding-left: 2rem;
+	  }
+	.video-carousel > *:last-child {
+		padding-right: 1.5rem;
+	  }
+
+}
+#switcher__creator-studio{
+    background: #28161C;
+    padding-top: 155px;
+    padding-bottom: 155px;
+    @include breakpoint(sm-down) {
+        padding-top: 64px;
+        padding-bottom: 54px;
+    }
+}
+#what-we-do_creator-studio{
+    background-color: #F9F7F7;
+    
+}
+.player .vp-player-ui-overlays{
+    pointer-events: all !important;
+}

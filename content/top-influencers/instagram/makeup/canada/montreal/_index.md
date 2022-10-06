@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Montreal In 2021
+title: Top 10 Makeup Instagram Influencers In Montreal In 2022
 description: >-
-  Find top makeup Instagram influencers in Montreal in 2021. Most popular hashtags: #makeup #makeupartist #montreal #mua.
+  Find top makeup Instagram influencers in Montreal in 2022. Most popular hashtags: #makeup #makeupartist #montreal #mua.
 platform: Instagram
 hits: 51
 text_top: Discover the best Instagram accounts on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       MONTREAL MAKEUP ARTIST
     bio: >-
-      DEBORA BOEMIO *LIMITED SPACES FOR 2021* Professional Makeup Artist💄 7+ years experience EMAIL OR TEXT TO BOOK ❌NO DMS debora.boemio@live.ca
+      DEBORA BOEMIO *LIMITED SPACES FOR 2022* Professional Makeup Artist💄 7+ years experience EMAIL OR TEXT TO BOOK ❌NO DMS debora.boemio@live.ca
     location: "Canada"
     followers: 2613
     engagement: 963

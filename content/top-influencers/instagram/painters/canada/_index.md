@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Canada In 2021
+title: Top 10 Painters Instagram Influencers In Canada In 2022
 description: >-
-  Find top painters Instagram influencers in Canada in 2021. Most popular hashtags: #makeup #creativemakeup #bodypaint.
+  Find top painters Instagram influencers in Canada in 2022. Most popular hashtags: #makeup #creativemakeup #bodypaint.
 platform: Instagram
 hits: 164
 text_top: Discover the best Instagram accounts on inBeat.

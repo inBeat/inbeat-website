@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In United States In 2021
+title: Top 10 Illustrators Instagram Influencers In United States In 2022
 description: >-
-  Find top illustrators Instagram influencers in United States in 2021. Most popular hashtags: #painting #illustration #portrait.
+  Find top illustrators Instagram influencers in United States in 2022. Most popular hashtags: #painting #illustration #portrait.
 platform: Instagram
 hits: 1572
 text_top: Identify the most popular Instagram accounts on inBeat.

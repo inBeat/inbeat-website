@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In India In 2021
+title: Top 10 Barbers TikTok Influencers In India In 2022
 description: >-
-  Find top barbers TikTok influencers in India in 2021. Most popular hashtags: #tiktok #tiktokindia #barber #foryou.
+  Find top barbers TikTok influencers in India in 2022. Most popular hashtags: #tiktok #tiktokindia #barber #foryou.
 platform: TikTok
 hits: 12
 text_top: See the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Austin In 2021
+title: Top 10 Yoga Instagram Influencers In Austin In 2022
 description: >-
-  Find top yoga Instagram influencers in Austin in 2021. Most popular hashtags: #yoga #fitness #texas.
+  Find top yoga Instagram influencers in Austin in 2022. Most popular hashtags: #yoga #fitness #texas.
 platform: Instagram
 hits: 50
 text_top: Identify the most popular Instagram influencers on inBeat.

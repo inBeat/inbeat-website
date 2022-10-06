@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Chile In 2021
+title: Top 10 Chefs Instagram Influencers In Chile In 2022
 description: >-
-  Find top chefs Instagram influencers in Chile in 2021. Most popular hashtags: #chef #chile #cheflife #cocina.
+  Find top chefs Instagram influencers in Chile in 2022. Most popular hashtags: #chef #chile #cheflife #cocina.
 platform: Instagram
 hits: 26
 text_top: See the top-rated Instagram profiles on inBeat.

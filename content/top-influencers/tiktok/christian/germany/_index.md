@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Germany In 2021
+title: Top 10 Christian TikTok Influencers In Germany In 2022
 description: >-
-  Find top christian TikTok influencers in Germany in 2021. Most popular hashtags: #duett #foryou #germany #fyp.
+  Find top christian TikTok influencers in Germany in 2022. Most popular hashtags: #duett #foryou #germany #fyp.
 platform: TikTok
 hits: 51
 text_top: Discover the top-rated TikTok influencers on inBeat.

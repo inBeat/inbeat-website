@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Austria In 2021
+title: Top 10 Wellness Instagram Influencers In Austria In 2022
 description: >-
-  Find top wellness Instagram influencers in Austria in 2021. Most popular hashtags: #visitaustria #austrianblogger #wellness #blogger.
+  Find top wellness Instagram influencers in Austria in 2022. Most popular hashtags: #visitaustria #austrianblogger #wellness #blogger.
 platform: Instagram
 hits: 36
 text_top: Identify the most popular Instagram profiles on inBeat.

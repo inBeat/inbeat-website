@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Chile In 2021
+title: Top 10 Cosmetics Instagram Influencers In Chile In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Chile in 2021. Most popular hashtags: #chile #girl #love.
+  Find top cosmetics Instagram influencers in Chile in 2022. Most popular hashtags: #chile #girl #love.
 platform: Instagram
 hits: 43
 text_top: Discover the most popular Instagram accounts on inBeat.

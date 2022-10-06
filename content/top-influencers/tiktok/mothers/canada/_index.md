@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Canada In 2021
+title: Top 10 Mothers TikTok Influencers In Canada In 2022
 description: >-
-  Find top mothers TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #duet #foryoupage #happyhalloween.
+  Find top mothers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #duet #foryoupage #happyhalloween.
 platform: TikTok
 hits: 296
 text_top: See the best TikTok influencers on inBeat.
