@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Vancouver In 2021
+title: Top 10 Health Instagram Influencers In Vancouver In 2022
 description: >-
-  Find top health Instagram influencers in Vancouver in 2021. Most popular hashtags: #health #vancouver #mentalhealth.
+  Find top health Instagram influencers in Vancouver in 2022. Most popular hashtags: #health #vancouver #mentalhealth.
 platform: Instagram
 hits: 49
 text_top: Discover the top-rated Instagram influencers on inBeat.

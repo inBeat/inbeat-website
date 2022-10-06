@@ -1,7 +1,7 @@
 ---
-title: Top 10 Longboard Instagram Influencers In 2021
+title: Top 10 Longboard Instagram Influencers In 2022
 description: >-
-  Find top longboard Instagram influencers in 2021. Most popular hashtags: #portrait #tasteinhotels #pursuitofportraits.
+  Find top longboard Instagram influencers in 2022. Most popular hashtags: #portrait #tasteinhotels #pursuitofportraits.
 platform: Instagram
 hits: 762
 text_top: Discover the most popular Instagram influencers on inBeat.

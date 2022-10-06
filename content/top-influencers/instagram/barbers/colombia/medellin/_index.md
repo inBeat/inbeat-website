@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Medellín In 2021
+title: Top 10 Barbers Instagram Influencers In Medellín In 2022
 description: >-
-  Find top barbers Instagram influencers in Medellín in 2021. Most popular hashtags: #medellin #cali #barbershop #colombia.
+  Find top barbers Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #cali #barbershop #colombia.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram accounts on inBeat.

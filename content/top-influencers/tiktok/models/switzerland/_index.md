@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Switzerland In 2021
+title: Top 10 Models TikTok Influencers In Switzerland In 2022
 description: >-
-  Find top models TikTok influencers in Switzerland in 2021. Most popular hashtags: #foryou #model #fyp #switzerland.
+  Find top models TikTok influencers in Switzerland in 2022. Most popular hashtags: #foryou #model #fyp #switzerland.
 platform: TikTok
 hits: 28
 text_top: See the top-rated TikTok accounts on inBeat.

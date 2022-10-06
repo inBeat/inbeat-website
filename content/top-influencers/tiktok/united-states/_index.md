@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In United States In 2021
+title: Top 10 TikTok Influencers In United States In 2022
 description: >-
-  Find top TikTok influencers in United States in 2021. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
 hits: 130272
 text_top: Identify the top-rated TikTok profiles on inBeat.

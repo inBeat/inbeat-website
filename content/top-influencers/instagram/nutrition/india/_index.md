@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In India In 2021
+title: Top 10 Nutrition Instagram Influencers In India In 2022
 description: >-
-  Find top nutrition Instagram influencers in India in 2021. Most popular hashtags: #fashion #love #desi.
+  Find top nutrition Instagram influencers in India in 2022. Most popular hashtags: #fashion #love #desi.
 platform: Instagram
 hits: 325
 text_top: Discover the best Instagram profiles on inBeat.

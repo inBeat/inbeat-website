@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Milan In 2021
+title: Top 10 Fashion TikTok Influencers In Milan In 2022
 description: >-
-  Find top fashion TikTok influencers in Milan in 2021. Most popular hashtags: #perte #fashion #milano #foryou.
+  Find top fashion TikTok influencers in Milan in 2022. Most popular hashtags: #perte #fashion #milano #foryou.
 platform: TikTok
 hits: 25
 text_top: Analyze the top-rated TikTok profiles on inBeat.
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.022076
     id: ckcoxcv3e9skn0j237wjyzqwf
     verified: false
-    hashtags: "#duetto, #mfw2021, #styletipsforyou, #zarahaul"
+    hashtags: "#duetto, #mfw2022, #styletipsforyou, #zarahaul"
   - username: "sorbilloofficial"
     fullname: >-
       Gino Sorbillo

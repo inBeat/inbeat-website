@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Japan In 2021
+title: Top 10 Boxers Instagram Influencers In Japan In 2022
 description: >-
-  Find top boxers Instagram influencers in Japan in 2021. Most popular hashtags: #japan #anime #tokyo.
+  Find top boxers Instagram influencers in Japan in 2022. Most popular hashtags: #japan #anime #tokyo.
 platform: Instagram
 hits: 9
 text_top: See the best Instagram accounts on inBeat.

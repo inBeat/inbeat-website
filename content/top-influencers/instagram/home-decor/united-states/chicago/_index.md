@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Chicago In 2021
+title: Top 10 Home Decor Instagram Influencers In Chicago In 2022
 description: >-
-  Find top home decor Instagram influencers in Chicago in 2021. Most popular hashtags: #homedecor #chicagoblogger #chicago #selflove.
+  Find top home decor Instagram influencers in Chicago in 2022. Most popular hashtags: #homedecor #chicagoblogger #chicago #selflove.
 platform: Instagram
 hits: 62
 text_top: Identify the most popular Instagram accounts on inBeat.

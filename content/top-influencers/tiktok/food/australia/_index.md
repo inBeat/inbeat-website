@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Australia In 2021
+title: Top 10 Food TikTok Influencers In Australia In 2022
 description: >-
-  Find top food TikTok influencers in Australia in 2021. Most popular hashtags: #fyp #food #tiktokfood #foryou.
+  Find top food TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #food #tiktokfood #foryou.
 platform: TikTok
 hits: 350
 text_top: Identify the most popular TikTok influencers on inBeat.

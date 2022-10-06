@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Boston In 2021
+title: Top 10 Photographers Instagram Influencers In Boston In 2022
 description: >-
-  Find top photographers Instagram influencers in Boston in 2021. Most popular hashtags: #photoshoot #photooftheday #photographer.
+  Find top photographers Instagram influencers in Boston in 2022. Most popular hashtags: #photoshoot #photooftheday #photographer.
 platform: Instagram
 hits: 111
 text_top: Discover the top-rated Instagram influencers on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Rania Matar
     bio: >-
-      2018 Guggenheim Fellow • Artist/Photographer • Boston/NYC/Beirut • Family/Work 🌸🌼🌺 ✨Forthcoming book SHE with Radius Books in 2021✨
+      2018 Guggenheim Fellow • Artist/Photographer • Boston/NYC/Beirut • Family/Work 🌸🌼🌺 ✨Forthcoming book SHE with Radius Books in 2022✨
     location: "United States"
     followers: 14464
     engagement: 447

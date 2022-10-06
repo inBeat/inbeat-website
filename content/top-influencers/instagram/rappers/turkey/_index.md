@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Turkey In 2021
+title: Top 10 Rappers Instagram Influencers In Turkey In 2022
 description: >-
-  Find top rappers Instagram influencers in Turkey in 2021. Most popular hashtags: #rap #rapper #hiphop.
+  Find top rappers Instagram influencers in Turkey in 2022. Most popular hashtags: #rap #rapper #hiphop.
 platform: Instagram
 hits: 14
 text_top: Identify the most popular Instagram accounts on inBeat.

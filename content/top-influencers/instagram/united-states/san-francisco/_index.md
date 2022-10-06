@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In San Francisco In 2021
+title: Top 10 Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #gifted #stayhome.
+  Find top Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #gifted #stayhome.
 platform: Instagram
 hits: 1657
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top architecture Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #mydubai #dubai #architecture #visitdubai.
+  Find top architecture Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #mydubai #dubai #architecture #visitdubai.
 platform: Instagram
 hits: 40
 text_top: Identify the top-rated Instagram profiles on inBeat.

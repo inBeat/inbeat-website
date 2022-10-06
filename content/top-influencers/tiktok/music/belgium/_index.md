@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Belgium In 2021
+title: Top 10 Music TikTok Influencers In Belgium In 2022
 description: >-
-  Find top music TikTok influencers in Belgium in 2021. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top music TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
 hits: 46
 text_top: Discover the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Brisbane In 2021
+title: Top 10 Food Instagram Influencers In Brisbane In 2022
 description: >-
-  Find top food Instagram influencers in Brisbane in 2021. Most popular hashtags: #brisbane #food #brisbaneblogger.
+  Find top food Instagram influencers in Brisbane in 2022. Most popular hashtags: #brisbane #food #brisbaneblogger.
 platform: Instagram
 hits: 49
 text_top: Analyze the most popular Instagram profiles on inBeat.

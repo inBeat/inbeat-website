@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Switzerland In 2021
+title: Top 10 Dancers Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top dancers Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #dance #dancer #model.
+  Find top dancers Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #dance #dancer #model.
 platform: Instagram
 hits: 44
 text_top: Analyze the best Instagram profiles on inBeat.

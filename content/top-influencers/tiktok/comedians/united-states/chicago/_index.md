@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Chicago In 2021
+title: Top 10 Comedians TikTok Influencers In Chicago In 2022
 description: >-
-  Find top comedians TikTok influencers in Chicago in 2021. Most popular hashtags: #chicago #fyp #comedy #funny.
+  Find top comedians TikTok influencers in Chicago in 2022. Most popular hashtags: #chicago #fyp #comedy #funny.
 platform: TikTok
 hits: 27
 text_top: Discover the most popular TikTok profiles on inBeat.

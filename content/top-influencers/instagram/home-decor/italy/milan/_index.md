@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Milan In 2021
+title: Top 10 Home Decor Instagram Influencers In Milan In 2022
 description: >-
-  Find top home decor Instagram influencers in Milan in 2021. Most popular hashtags: #homedecor #love #autumn #milano.
+  Find top home decor Instagram influencers in Milan in 2022. Most popular hashtags: #homedecor #love #autumn #milano.
 platform: Instagram
 hits: 47
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Colombia In 2021
+title: Top 10 Lingerie Instagram Influencers In Colombia In 2022
 description: >-
-  Find top lingerie Instagram influencers in Colombia in 2021. Most popular hashtags: #lingerie #model #photography #portrait.
+  Find top lingerie Instagram influencers in Colombia in 2022. Most popular hashtags: #lingerie #model #photography #portrait.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram accounts on inBeat.

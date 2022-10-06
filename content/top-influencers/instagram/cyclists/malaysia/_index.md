@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Malaysia In 2021
+title: Top 10 Cyclists Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top cyclists Instagram influencers in Malaysia in 2021. Most popular hashtags: #malaysia #cycling #cyclist #cyclinglife.
+  Find top cyclists Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #cycling #cyclist #cyclinglife.
 platform: Instagram
 hits: 8
 text_top: Analyze the best Instagram influencers on inBeat.

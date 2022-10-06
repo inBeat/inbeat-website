@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Canada In 2021
+title: Top 10 Barbers Instagram Influencers In Canada In 2022
 description: >-
-  Find top barbers Instagram influencers in Canada in 2021. Most popular hashtags: #barber #barberlife #haircut #quarantine.
+  Find top barbers Instagram influencers in Canada in 2022. Most popular hashtags: #barber #barberlife #haircut #quarantine.
 platform: Instagram
 hits: 38
 text_top: See the best Instagram influencers on inBeat.

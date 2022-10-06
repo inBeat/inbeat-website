@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Colombia In 2021
+title: Top 10 Yoga Instagram Influencers In Colombia In 2022
 description: >-
-  Find top yoga Instagram influencers in Colombia in 2021. Most popular hashtags: #yoga #yogainspiration #yogalife #cuarentena.
+  Find top yoga Instagram influencers in Colombia in 2022. Most popular hashtags: #yoga #yogainspiration #yogalife #cuarentena.
 platform: Instagram
 hits: 53
 text_top: Analyze the top-rated Instagram influencers on inBeat.

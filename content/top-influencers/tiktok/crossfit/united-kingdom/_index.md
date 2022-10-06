@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In United Kingdom In 2021
+title: Top 10 Crossfit TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top crossfit TikTok influencers in United Kingdom in 2021. Most popular hashtags: #crossfit #fyp #gym #fitness.
+  Find top crossfit TikTok influencers in United Kingdom in 2022. Most popular hashtags: #crossfit #fyp #gym #fitness.
 platform: TikTok
 hits: 17
 text_top: Analyze the top-rated TikTok accounts on inBeat.

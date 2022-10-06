@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Indonesia In 2021
+title: Top 10 Music Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top music Instagram influencers in Indonesia in 2021. Most popular hashtags: #frenchhouse #beyonce #kebunrayacibodas.
+  Find top music Instagram influencers in Indonesia in 2022. Most popular hashtags: #frenchhouse #beyonce #kebunrayacibodas.
 platform: Instagram
 hits: 1523
 text_top: See the best Instagram accounts on inBeat.

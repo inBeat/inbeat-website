@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In New York In 2021
+title: Top 10 Beauty TikTok Influencers In New York In 2022
 description: >-
-  Find top beauty TikTok influencers in New York in 2021. Most popular hashtags: #fyp #newyork #beauty #foryou.
+  Find top beauty TikTok influencers in New York in 2022. Most popular hashtags: #fyp #newyork #beauty #foryou.
 platform: TikTok
 hits: 79
 text_top: Identify the best TikTok influencers on inBeat.

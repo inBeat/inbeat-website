@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Norway In 2021
+title: Top 10 Music Instagram Influencers In Norway In 2022
 description: >-
-  Find top music Instagram influencers in Norway in 2021. Most popular hashtags: #moodygrams #nature #photooftheday.
+  Find top music Instagram influencers in Norway in 2022. Most popular hashtags: #moodygrams #nature #photooftheday.
 platform: Instagram
 hits: 75
 text_top: Identify the most popular Instagram profiles on inBeat.

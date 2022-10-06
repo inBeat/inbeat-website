@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ukraine In 2021
+title: Top 10 Travel TikTok Influencers In Ukraine In 2022
 description: >-
-  Find top travel TikTok influencers in Ukraine in 2021. Most popular hashtags: #travel #ukraine #love #fyp.
+  Find top travel TikTok influencers in Ukraine in 2022. Most popular hashtags: #travel #ukraine #love #fyp.
 platform: TikTok
 hits: 19
 text_top: Identify the most popular TikTok influencers on inBeat.

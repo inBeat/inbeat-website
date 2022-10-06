@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In India In 2021
+title: Top 10 Skincare TikTok Influencers In India In 2022
 description: >-
-  Find top skincare TikTok influencers in India in 2021. Most popular hashtags: #skincare #foryou #edutok #foryoupage.
+  Find top skincare TikTok influencers in India in 2022. Most popular hashtags: #skincare #foryou #edutok #foryoupage.
 platform: TikTok
 hits: 104
 text_top: See the top-rated TikTok profiles on inBeat.

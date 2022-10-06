@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Tokyo In 2021
+title: Top 10 Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top Instagram influencers in Tokyo in 2021. Most popular hashtags: #maisonmargiela #explorejapan #sunflowerfield.
+  Find top Instagram influencers in Tokyo in 2022. Most popular hashtags: #maisonmargiela #explorejapan #sunflowerfield.
 platform: Instagram
 hits: 2557
 text_top: Discover the top-rated Instagram accounts on inBeat.

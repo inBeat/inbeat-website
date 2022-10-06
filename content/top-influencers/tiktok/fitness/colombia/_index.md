@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Colombia In 2021
+title: Top 10 Fitness TikTok Influencers In Colombia In 2022
 description: >-
-  Find top fitness TikTok influencers in Colombia in 2021. Most popular hashtags: #fitness #viral #parati #colombia.
+  Find top fitness TikTok influencers in Colombia in 2022. Most popular hashtags: #fitness #viral #parati #colombia.
 platform: TikTok
 hits: 36
 text_top: Discover the top-rated TikTok accounts on inBeat.

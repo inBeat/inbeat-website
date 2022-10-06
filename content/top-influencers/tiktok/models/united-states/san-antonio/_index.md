@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In San Antonio In 2021
+title: Top 10 Models TikTok Influencers In San Antonio In 2022
 description: >-
-  Find top models TikTok influencers in San Antonio in 2021. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top models TikTok influencers in San Antonio in 2022. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok accounts on inBeat.

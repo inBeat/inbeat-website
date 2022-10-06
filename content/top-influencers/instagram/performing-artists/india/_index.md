@@ -1,7 +1,7 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In India In 2021
+title: Top 10 Performing Artists Instagram Influencers In India In 2022
 description: >-
-  Find top performing artists Instagram influencers in India in 2021. Most popular hashtags: #performingartist #mumbai #india #performer.
+  Find top performing artists Instagram influencers in India in 2022. Most popular hashtags: #performingartist #mumbai #india #performer.
 platform: Instagram
 hits: 15
 text_top: Analyze the most popular Instagram profiles on inBeat.

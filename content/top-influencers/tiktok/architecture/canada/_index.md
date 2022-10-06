@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Canada In 2021
+title: Top 10 Architecture TikTok Influencers In Canada In 2022
 description: >-
-  Find top architecture TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #architecture #canada #foryoupage.
+  Find top architecture TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #architecture #canada #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok accounts on inBeat.

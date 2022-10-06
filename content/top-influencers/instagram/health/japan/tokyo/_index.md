@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Tokyo In 2021
+title: Top 10 Health Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top health Instagram influencers in Tokyo in 2021. Most popular hashtags: #health #japan #tokyo #beauty.
+  Find top health Instagram influencers in Tokyo in 2022. Most popular hashtags: #health #japan #tokyo #beauty.
 platform: Instagram
 hits: 38
 text_top: Discover the most popular Instagram influencers on inBeat.

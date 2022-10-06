@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Vancouver In 2021
+title: Top 10 Photographers Instagram Influencers In Vancouver In 2022
 description: >-
-  Find top photographers Instagram influencers in Vancouver in 2021. Most popular hashtags: #portrait #fashionable #model.
+  Find top photographers Instagram influencers in Vancouver in 2022. Most popular hashtags: #portrait #fashionable #model.
 platform: Instagram
 hits: 118
 text_top: Discover the most popular Instagram profiles on inBeat.

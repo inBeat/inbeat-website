@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Sydney In 2021
+title: Top 10 Athletes Instagram Influencers In Sydney In 2022
 description: >-
-  Find top athletes Instagram influencers in Sydney in 2021. Most popular hashtags: #sydney #parkour #movement.
+  Find top athletes Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #parkour #movement.
 platform: Instagram
 hits: 29
 text_top: Analyze the top-rated Instagram influencers on inBeat.

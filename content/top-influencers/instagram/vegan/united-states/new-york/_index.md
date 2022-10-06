@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In New York In 2021
+title: Top 10 Vegan Instagram Influencers In New York In 2022
 description: >-
-  Find top vegan Instagram influencers in New York in 2021. Most popular hashtags: #vegan #plantbased #vegansofig #foodie.
+  Find top vegan Instagram influencers in New York in 2022. Most popular hashtags: #vegan #plantbased #vegansofig #foodie.
 platform: Instagram
 hits: 165
 text_top: Identify the top-rated Instagram influencers on inBeat.

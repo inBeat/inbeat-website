@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Turkey In 2021
+title: Top 10 Christian Instagram Influencers In Turkey In 2022
 description: >-
-  Find top christian Instagram influencers in Turkey in 2021. Most popular hashtags: #istanbul #turkey #ad.
+  Find top christian Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #turkey #ad.
 platform: Instagram
 hits: 58
 text_top: Discover the most popular Instagram influencers on inBeat.

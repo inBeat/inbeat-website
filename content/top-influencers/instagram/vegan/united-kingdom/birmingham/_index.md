@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Birmingham In 2021
+title: Top 10 Vegan Instagram Influencers In Birmingham In 2022
 description: >-
-  Find top vegan Instagram influencers in Birmingham in 2021. Most popular hashtags: #vegan #gifted #foodporn #veganfood.
+  Find top vegan Instagram influencers in Birmingham in 2022. Most popular hashtags: #vegan #gifted #foodporn #veganfood.
 platform: Instagram
 hits: 14
 text_top: Analyze the best Instagram accounts on inBeat.

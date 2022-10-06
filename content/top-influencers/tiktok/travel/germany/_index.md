@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Germany In 2021
+title: Top 10 Travel TikTok Influencers In Germany In 2022
 description: >-
-  Find top travel TikTok influencers in Germany in 2021. Most popular hashtags: #travel #fyp #sunset #foryou.
+  Find top travel TikTok influencers in Germany in 2022. Most popular hashtags: #travel #fyp #sunset #foryou.
 platform: TikTok
 hits: 234
 text_top: Identify the most popular TikTok influencers on inBeat.

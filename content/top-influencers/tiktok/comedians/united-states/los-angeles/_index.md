@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Los Angeles In 2021
+title: Top 10 Comedians TikTok Influencers In Los Angeles In 2022
 description: >-
-  Find top comedians TikTok influencers in Los Angeles in 2021. Most popular hashtags: #comedy #fyp #funny #viral.
+  Find top comedians TikTok influencers in Los Angeles in 2022. Most popular hashtags: #comedy #fyp #funny #viral.
 platform: TikTok
 hits: 22
 text_top: See the best TikTok influencers on inBeat.

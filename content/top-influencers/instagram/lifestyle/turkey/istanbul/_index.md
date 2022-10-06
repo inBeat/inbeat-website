@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Istanbul In 2021
+title: Top 10 Lifestyle Instagram Influencers In Istanbul In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Istanbul in 2021. Most popular hashtags: #istanbul #turkey #baby.
+  Find top lifestyle Instagram influencers in Istanbul in 2022. Most popular hashtags: #istanbul #turkey #baby.
 platform: Instagram
 hits: 286
 text_top: See the top-rated Instagram influencers on inBeat.

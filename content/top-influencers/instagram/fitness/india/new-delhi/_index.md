@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In New Delhi In 2021
+title: Top 10 Fitness Instagram Influencers In New Delhi In 2022
 description: >-
-  Find top fitness Instagram influencers in New Delhi in 2021. Most popular hashtags: #fitness #fashion #style #photography.
+  Find top fitness Instagram influencers in New Delhi in 2022. Most popular hashtags: #fitness #fashion #style #photography.
 platform: Instagram
 hits: 56
 text_top: Discover the top-rated Instagram influencers on inBeat.

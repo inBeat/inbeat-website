@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In United States In 2021
+title: Top 10 Wellness Instagram Influencers In United States In 2022
 description: >-
-  Find top wellness Instagram influencers in United States in 2021. Most popular hashtags: #wellness #love #nature.
+  Find top wellness Instagram influencers in United States in 2022. Most popular hashtags: #wellness #love #nature.
 platform: Instagram
 hits: 2619
 text_top: Analyze the best Instagram influencers on inBeat.

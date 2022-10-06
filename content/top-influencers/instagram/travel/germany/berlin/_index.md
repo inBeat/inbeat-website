@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Berlin In 2021
+title: Top 10 Travel Instagram Influencers In Berlin In 2022
 description: >-
-  Find top travel Instagram influencers in Berlin in 2021. Most popular hashtags: #berlin #travel #germany #happy.
+  Find top travel Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #travel #germany #happy.
 platform: Instagram
 hits: 647
 text_top: Identify the best Instagram accounts on inBeat.

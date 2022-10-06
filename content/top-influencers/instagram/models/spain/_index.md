@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Spain In 2021
+title: Top 10 Models Instagram Influencers In Spain In 2022
 description: >-
-  Find top models Instagram influencers in Spain in 2021. Most popular hashtags: #spain #model #modeling.
+  Find top models Instagram influencers in Spain in 2022. Most popular hashtags: #spain #model #modeling.
 platform: Instagram
 hits: 1035
 text_top: Identify the most popular Instagram accounts on inBeat.

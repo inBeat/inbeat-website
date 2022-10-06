@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Poland In 2021
+title: Top 10 Photographers TikTok Influencers In Poland In 2022
 description: >-
-  Find top photographers TikTok influencers in Poland in 2021. Most popular hashtags: #photographer #foryou #photography #viral.
+  Find top photographers TikTok influencers in Poland in 2022. Most popular hashtags: #photographer #foryou #photography #viral.
 platform: TikTok
 hits: 15
 text_top: Discover the most popular TikTok accounts on inBeat.

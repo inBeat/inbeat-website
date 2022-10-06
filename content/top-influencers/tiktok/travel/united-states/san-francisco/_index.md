@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In San Francisco In 2021
+title: Top 10 Travel TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top travel TikTok influencers in San Francisco in 2021. Most popular hashtags: #fyp #sanfrancisco #travel #california.
+  Find top travel TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #sanfrancisco #travel #california.
 platform: TikTok
 hits: 67
 text_top: Identify the best TikTok profiles on inBeat.

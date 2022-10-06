@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Australia In 2021
+title: Top 10 Barbers Instagram Influencers In Australia In 2022
 description: >-
-  Find top barbers Instagram influencers in Australia in 2021. Most popular hashtags: #barber #hair #menshair.
+  Find top barbers Instagram influencers in Australia in 2022. Most popular hashtags: #barber #hair #menshair.
 platform: Instagram
 hits: 43
 text_top: Analyze the best Instagram accounts on inBeat.

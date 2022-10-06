@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Russia In 2021
+title: Top 10 Makeup Instagram Influencers In Russia In 2022
 description: >-
-  Find top makeup Instagram influencers in Russia in 2021. Most popular hashtags: #makeup #leagueoflegendscosplay #nyxcosmeticsrussia.
+  Find top makeup Instagram influencers in Russia in 2022. Most popular hashtags: #makeup #leagueoflegendscosplay #nyxcosmeticsrussia.
 platform: Instagram
 hits: 1728
 text_top: Discover the most popular Instagram accounts on inBeat.

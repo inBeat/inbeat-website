@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Australia In 2021
+title: Top 10 Wellness Instagram Influencers In Australia In 2022
 description: >-
-  Find top wellness Instagram influencers in Australia in 2021. Most popular hashtags: #vegan #wellness #australia.
+  Find top wellness Instagram influencers in Australia in 2022. Most popular hashtags: #vegan #wellness #australia.
 platform: Instagram
 hits: 142
 text_top: Discover the best Instagram profiles on inBeat.

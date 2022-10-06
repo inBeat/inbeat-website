@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Indonesia In 2021
+title: Top 10 Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top Instagram influencers in Indonesia in 2021. Most popular hashtags: #ootd #lfl #naturephotography.
+  Find top Instagram influencers in Indonesia in 2022. Most popular hashtags: #ootd #lfl #naturephotography.
 platform: Instagram
 hits: 21573
 text_top: Identify the best Instagram profiles on inBeat.

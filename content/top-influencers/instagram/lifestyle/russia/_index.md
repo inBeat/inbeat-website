@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Russia In 2021
+title: Top 10 Lifestyle Instagram Influencers In Russia In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Russia in 2021. Most popular hashtags: #heattech #liketimerussia #traveleurope.
+  Find top lifestyle Instagram influencers in Russia in 2022. Most popular hashtags: #heattech #liketimerussia #traveleurope.
 platform: Instagram
 hits: 566
 text_top: Identify the top-rated Instagram accounts on inBeat.

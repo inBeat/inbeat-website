@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In Germany In 2021
+title: Top 10 Bmx TikTok Influencers In Germany In 2022
 description: >-
-  Find top bmx TikTok influencers in Germany in 2021. Most popular hashtags: #bmx #fyp #fy #foryou.
+  Find top bmx TikTok influencers in Germany in 2022. Most popular hashtags: #bmx #fyp #fy #foryou.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok influencers on inBeat.

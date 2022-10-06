@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Norway In 2021
+title: Top 10 Runners Instagram Influencers In Norway In 2022
 description: >-
-  Find top runners Instagram influencers in Norway in 2021. Most popular hashtags: #utno #createdwithadidas #timetoplay #runningmotivation.
+  Find top runners Instagram influencers in Norway in 2022. Most popular hashtags: #utno #createdwithadidas #timetoplay #runningmotivation.
 platform: Instagram
 hits: 27
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       LIVE SOLHEIMDAL
     bio: >-
-      Runner from Norway / 5000m My next goal is European Championships 2021 ✉️Business inquiries: live_sol_heim_dal@hotmail.com
+      Runner from Norway / 5000m My next goal is European Championships 2022 ✉️Business inquiries: live_sol_heim_dal@hotmail.com
     location: "Norway"
     followers: 11675
     engagement: 926

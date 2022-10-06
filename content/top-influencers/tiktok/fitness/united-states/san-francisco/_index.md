@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Francisco In 2021
+title: Top 10 Fitness TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top fitness TikTok influencers in San Francisco in 2021. Most popular hashtags: #fitness #sanfrancisco #workout #fyp.
+  Find top fitness TikTok influencers in San Francisco in 2022. Most popular hashtags: #fitness #sanfrancisco #workout #fyp.
 platform: TikTok
 hits: 11
 text_top: Discover the most popular TikTok accounts on inBeat.

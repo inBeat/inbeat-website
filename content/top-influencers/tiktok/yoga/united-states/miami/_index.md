@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Miami In 2021
+title: Top 10 Yoga TikTok Influencers In Miami In 2022
 description: >-
-  Find top yoga TikTok influencers in Miami in 2021. Most popular hashtags: #fyp #yoga #miami #foryou.
+  Find top yoga TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #yoga #miami #foryou.
 platform: TikTok
 hits: 8
 text_top: See the most popular TikTok accounts on inBeat.

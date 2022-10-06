@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Germany In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In Germany In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in Germany in 2021. Most popular hashtags: #tattoo #inked #girlswithtattoos.
+  Find top tattoo-artists Instagram influencers in Germany in 2022. Most popular hashtags: #tattoo #inked #girlswithtattoos.
 platform: Instagram
 hits: 257
 text_top: Discover the most popular Instagram profiles on inBeat.

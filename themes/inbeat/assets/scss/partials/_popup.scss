@@ -1,10 +1,10 @@
-.noTrigger{
+.noTrigger {
 	pointer-events: none !important;
 }
 .popupTrigger {
 	cursor: pointer;
 }
-.blur:not(.popupOverlay):not(#header){
+.blur:not(.popupOverlay):not(#header) {
 	filter: blur(6px);
 	-webkit-filter: blur(6px);
 	-moz-filter: blur(6px);
@@ -12,61 +12,51 @@
 	-ms-filter: blur(6px);
 }
 .popupOverlay {
-	z-index: -1;
+	z-index: 500;
 	opacity: 0;
-	display: flex;
+  visibility: hidden;
 	background: rgba(0, 0, 0, 0.6);
 	position: fixed;
+  display: flex;
 	top: 0;
 	bottom: 0;
 	left: 0;
 	right: 0;
-	transition: all .2s ease-in-out;
-
+	transition: $transition_default;
 	justify-content: center;
 	align-items: center;
 	&.popupOverlay--fadeIn {
 		opacity: 1;
-		z-index: 300;
+    visibility: visible;
 	}
 	.popup {
 		height: auto;
-		//padding: 10px;
-		margin: 10px;
-		@include breakpoint(sm) {
-			width: 800px;
-			//height: 600px;
-		}
-		@include breakpoint(md) {
-			width: 1000px;
-			//height: 720px;
-		}
 		opacity: 0;
-		background-color: white;
-		//position: absolute;
-		transform: translateY(100px);
-		transition: all .25s ease-in-out;
+		transform: translateY(0px);
+		transition: $transition_default;
 		&.popupInner--fadeIn {
 			opacity: 1;
-			transform: translateY(32px);
+      transform: translateY(-50px);
 		}
-		&.auto-wh{
+		&.auto-wh {
 			width: auto;
 			height: auto;
 		}
 		.content-wrapper {
-	
 			video {
 				width: 100%;
-				padding-top: 15px;
-				@include breakpoint(sm) {
-					padding-top: 60px;
-				}
 			}
-			.content-video{
-				padding: 0 15px;
+			.content-video {
+				padding: 0;
+				height: 400px;
+				width: 711px;
+				@include breakpoint(sm-down) {
+					height: 260px;
+					width: 462.22px;
+				}
 				@include breakpoint(sm) {
-					padding:0 50px
+					height: 400px;
+					width: 711px;
 				}
 			}
 		}
@@ -75,33 +65,31 @@
 			z-index: 100;
 			cursor: pointer;
 			position: absolute;
-			top: 0;
+			top: -40px;
 			right: 0;
-			padding: 20px;
 			svg {
 				width: 20px;
 				height: 20px;
+				path {
+					stroke: white;
+				}
 			}
 		}
 		.btn {
 			width: 100% !important;
-			background-color: #151515;
+			background-color: #000000;
 			color: white;
 			left: 0;
 			height: 80px;
 			border: none;
 			font-size: 18px;
 			font-weight: 400;
-			margin-top: 10px;
 			bottom: 0;
 			padding: 5px 0px;
 			cursor: pointer;
 			border-radius: 0;
 			outline: none !important;
 			@include breakpoint(sm) {
-				margin-top: 40px;
-				height: 64px;
-				padding: 5px 0px;
 			}
 		}
 	}

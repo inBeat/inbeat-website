@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Ireland In 2021
+title: Top 10 Fitness TikTok Influencers In Ireland In 2022
 description: >-
-  Find top fitness TikTok influencers in Ireland in 2021. Most popular hashtags: #fitness #fyp #irish #ireland.
+  Find top fitness TikTok influencers in Ireland in 2022. Most popular hashtags: #fitness #fyp #irish #ireland.
 platform: TikTok
 hits: 19
 text_top: Identify the top-rated TikTok accounts on inBeat.

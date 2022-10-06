@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Montreal In 2021
+title: Top 10 Vegan Instagram Influencers In Montreal In 2022
 description: >-
-  Find top vegan Instagram influencers in Montreal in 2021. Most popular hashtags: #vegan #montreal #instafood #feedfeed.
+  Find top vegan Instagram influencers in Montreal in 2022. Most popular hashtags: #vegan #montreal #instafood #feedfeed.
 platform: Instagram
 hits: 30
 text_top: Analyze the best Instagram accounts on inBeat.

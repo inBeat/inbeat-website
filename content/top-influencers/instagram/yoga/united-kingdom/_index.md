@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Kingdom In 2021
+title: Top 10 Yoga Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top yoga Instagram influencers in United Kingdom in 2021. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogaathome.
+  Find top yoga Instagram influencers in United Kingdom in 2022. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogaathome.
 platform: Instagram
 hits: 326
 text_top: Identify the best Instagram profiles on inBeat.

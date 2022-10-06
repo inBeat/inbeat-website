@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Chile In 2021
+title: Top 10 Food Instagram Influencers In Chile In 2022
 description: >-
-  Find top food Instagram influencers in Chile in 2021. Most popular hashtags: #chile #veggie #food.
+  Find top food Instagram influencers in Chile in 2022. Most popular hashtags: #chile #veggie #food.
 platform: Instagram
 hits: 69
 text_top: Identify the most popular Instagram accounts on inBeat.

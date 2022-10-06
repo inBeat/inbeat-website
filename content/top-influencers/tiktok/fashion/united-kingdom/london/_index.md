@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In London In 2021
+title: Top 10 Fashion TikTok Influencers In London In 2022
 description: >-
-  Find top fashion TikTok influencers in London in 2021. Most popular hashtags: #london #fyp #foryou #fashion.
+  Find top fashion TikTok influencers in London in 2022. Most popular hashtags: #london #fyp #foryou #fashion.
 platform: TikTok
 hits: 139
 text_top: See the best TikTok accounts on inBeat.

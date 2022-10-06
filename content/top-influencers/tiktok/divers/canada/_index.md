@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Canada In 2021
+title: Top 10 Divers TikTok Influencers In Canada In 2022
 description: >-
-  Find top divers TikTok influencers in Canada in 2021. Most popular hashtags: #fyp #foryou #canada #xyzbca.
+  Find top divers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #canada #xyzbca.
 platform: TikTok
 hits: 41
 text_top: Discover the most popular TikTok profiles on inBeat.

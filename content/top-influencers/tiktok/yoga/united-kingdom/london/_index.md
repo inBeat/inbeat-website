@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In London In 2021
+title: Top 10 Yoga TikTok Influencers In London In 2022
 description: >-
-  Find top yoga TikTok influencers in London in 2021. Most popular hashtags: #london #yoga #fyp #handstand.
+  Find top yoga TikTok influencers in London in 2022. Most popular hashtags: #london #yoga #fyp #handstand.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok influencers on inBeat.

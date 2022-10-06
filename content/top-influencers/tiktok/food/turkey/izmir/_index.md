@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Izmir In 2021
+title: Top 10 Food TikTok Influencers In Izmir In 2022
 description: >-
-  Find top food TikTok influencers in Izmir in 2021. Most popular hashtags: #food #ke #izmir #tatl.
+  Find top food TikTok influencers in Izmir in 2022. Most popular hashtags: #food #ke #izmir #tatl.
 platform: TikTok
 hits: 7
 text_top: Identify the most popular TikTok influencers on inBeat.

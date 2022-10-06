@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Ukraine In 2021
+title: Top 10 Dancers TikTok Influencers In Ukraine In 2022
 description: >-
-  Find top dancers TikTok influencers in Ukraine in 2021. Most popular hashtags: #dance #fyp #duet #dancer.
+  Find top dancers TikTok influencers in Ukraine in 2022. Most popular hashtags: #dance #fyp #duet #dancer.
 platform: TikTok
 hits: 8
 text_top: Analyze the top-rated TikTok profiles on inBeat.

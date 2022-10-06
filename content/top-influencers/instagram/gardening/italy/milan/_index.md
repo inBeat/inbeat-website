@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Milan In 2021
+title: Top 10 Gardening Instagram Influencers In Milan In 2022
 description: >-
-  Find top gardening Instagram influencers in Milan in 2021. Most popular hashtags: #gardening #milano #love #interiordesign.
+  Find top gardening Instagram influencers in Milan in 2022. Most popular hashtags: #gardening #milano #love #interiordesign.
 platform: Instagram
 hits: 7
 text_top: Identify the top-rated Instagram influencers on inBeat.

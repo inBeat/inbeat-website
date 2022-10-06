@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Indonesia In 2021
+title: Top 10 Beauty TikTok Influencers In Indonesia In 2022
 description: >-
-  Find top beauty TikTok influencers in Indonesia in 2021. Most popular hashtags: #fyp #foryou #duet #makeup.
+  Find top beauty TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryou #duet #makeup.
 platform: TikTok
 hits: 100
 text_top: Analyze the top-rated TikTok influencers on inBeat.

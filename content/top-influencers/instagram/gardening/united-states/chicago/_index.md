@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Chicago In 2021
+title: Top 10 Gardening Instagram Influencers In Chicago In 2022
 description: >-
-  Find top gardening Instagram influencers in Chicago in 2021. Most popular hashtags: #gardening #chicago #summer #love.
+  Find top gardening Instagram influencers in Chicago in 2022. Most popular hashtags: #gardening #chicago #summer #love.
 platform: Instagram
 hits: 13
 text_top: Discover the best Instagram accounts on inBeat.

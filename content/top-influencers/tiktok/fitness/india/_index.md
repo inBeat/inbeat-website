@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In India In 2021
+title: Top 10 Fitness TikTok Influencers In India In 2022
 description: >-
-  Find top fitness TikTok influencers in India in 2021. Most popular hashtags: #fyp #tidelagaodaaghatao #tiktok #foryoupage.
+  Find top fitness TikTok influencers in India in 2022. Most popular hashtags: #fyp #tidelagaodaaghatao #tiktok #foryoupage.
 platform: TikTok
 hits: 803
 text_top: Discover the most popular TikTok profiles on inBeat.

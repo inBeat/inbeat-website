@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In France In 2021
+title: Top 10 Skincare Instagram Influencers In France In 2022
 description: >-
-  Find top skincare Instagram influencers in France in 2021. Most popular hashtags: #makeup #skincare #concours #hudabeauty.
+  Find top skincare Instagram influencers in France in 2022. Most popular hashtags: #makeup #skincare #concours #hudabeauty.
 platform: Instagram
 hits: 466
 text_top: Analyze the best Instagram influencers on inBeat.

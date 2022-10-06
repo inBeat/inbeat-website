@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Spain In 2021
+title: Top 10 Photographers Instagram Influencers In Spain In 2022
 description: >-
-  Find top photographers Instagram influencers in Spain in 2021. Most popular hashtags: #photography #portrait #outfit.
+  Find top photographers Instagram influencers in Spain in 2022. Most popular hashtags: #photography #portrait #outfit.
 platform: Instagram
 hits: 647
 text_top: See the best Instagram accounts on inBeat.

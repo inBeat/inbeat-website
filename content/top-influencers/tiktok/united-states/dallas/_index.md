@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Dallas In 2021
+title: Top 10 TikTok Influencers In Dallas In 2022
 description: >-
-  Find top TikTok influencers in Dallas in 2021. Most popular hashtags: #fyp #foryou #wewintogether #duet.
+  Find top TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #wewintogether #duet.
 platform: TikTok
 hits: 745
 text_top: Discover the best TikTok influencers on inBeat.

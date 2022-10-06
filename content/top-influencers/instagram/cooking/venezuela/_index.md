@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Venezuela In 2021
+title: Top 10 Cooking Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top cooking Instagram influencers in Venezuela in 2021. Most popular hashtags: #caracas #venezuela #quedateencasa #cuarentena.
+  Find top cooking Instagram influencers in Venezuela in 2022. Most popular hashtags: #caracas #venezuela #quedateencasa #cuarentena.
 platform: Instagram
 hits: 12
 text_top: See the best Instagram profiles on inBeat.

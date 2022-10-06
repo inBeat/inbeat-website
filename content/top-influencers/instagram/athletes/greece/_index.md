@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Greece In 2021
+title: Top 10 Athletes Instagram Influencers In Greece In 2022
 description: >-
-  Find top athletes Instagram influencers in Greece in 2021. Most popular hashtags: #fitness #nike #summer #happy.
+  Find top athletes Instagram influencers in Greece in 2022. Most popular hashtags: #fitness #nike #summer #happy.
 platform: Instagram
 hits: 53
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Osaka In 2021
+title: Top 10 Fitness Instagram Influencers In Osaka In 2022
 description: >-
-  Find top fitness Instagram influencers in Osaka in 2021. Most popular hashtags: #fitness #japan #kyoto #fashion.
+  Find top fitness Instagram influencers in Osaka in 2022. Most popular hashtags: #fitness #japan #kyoto #fashion.
 platform: Instagram
 hits: 5
 text_top: Identify the best Instagram influencers on inBeat.

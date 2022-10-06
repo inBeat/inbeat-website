@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Spain In 2021
+title: Top 10 Divers TikTok Influencers In Spain In 2022
 description: >-
-  Find top divers TikTok influencers in Spain in 2021. Most popular hashtags: #humor #parati #comedia #fyp.
+  Find top divers TikTok influencers in Spain in 2022. Most popular hashtags: #humor #parati #comedia #fyp.
 platform: TikTok
 hits: 79
 text_top: Analyze the best TikTok profiles on inBeat.

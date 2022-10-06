@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Ukraine In 2021
+title: Top 10 Photographers Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top photographers Instagram influencers in Ukraine in 2021. Most popular hashtags: #gothic #photographerukraine #halloweenmakeup.
+  Find top photographers Instagram influencers in Ukraine in 2022. Most popular hashtags: #gothic #photographerukraine #halloweenmakeup.
 platform: Instagram
 hits: 269
 text_top: Discover the best Instagram profiles on inBeat.

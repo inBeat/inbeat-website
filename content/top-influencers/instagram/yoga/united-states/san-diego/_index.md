@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In San Diego In 2021
+title: Top 10 Yoga Instagram Influencers In San Diego In 2022
 description: >-
-  Find top yoga Instagram influencers in San Diego in 2021. Most popular hashtags: #yoga #sandiego #fitness #repost.
+  Find top yoga Instagram influencers in San Diego in 2022. Most popular hashtags: #yoga #sandiego #fitness #repost.
 platform: Instagram
 hits: 39
 text_top: Analyze the best Instagram accounts on inBeat.

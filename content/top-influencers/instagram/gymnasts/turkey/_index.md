@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Turkey In 2021
+title: Top 10 Gymnasts Instagram Influencers In Turkey In 2022
 description: >-
-  Find top gymnasts Instagram influencers in Turkey in 2021. Most popular hashtags: #gymnastics #fitness #photography #gym.
+  Find top gymnasts Instagram influencers in Turkey in 2022. Most popular hashtags: #gymnastics #fitness #photography #gym.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram accounts on inBeat.

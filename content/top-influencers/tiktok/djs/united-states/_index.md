@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs TikTok Influencers In United States In 2021
+title: Top 10 Djs TikTok Influencers In United States In 2022
 description: >-
-  Find top djs TikTok influencers in United States in 2021. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top djs TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 83
 text_top: Discover the best TikTok profiles on inBeat.

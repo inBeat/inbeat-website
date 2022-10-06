@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Busan In 2021
+title: Top 10 Instagram Influencers In Busan In 2022
 description: >-
-  Find top Instagram influencers in Busan in 2021. Most popular hashtags: #btsarmy #jimin #parkjimin.
+  Find top Instagram influencers in Busan in 2022. Most popular hashtags: #btsarmy #jimin #parkjimin.
 platform: Instagram
 hits: 60
 text_top: Analyze the top-rated Instagram profiles on inBeat.

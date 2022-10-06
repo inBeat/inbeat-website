@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Japan In 2021
+title: Top 10 Fitness TikTok Influencers In Japan In 2022
 description: >-
-  Find top fitness TikTok influencers in Japan in 2021. Most popular hashtags: #fyp #foryoupage #foryou #tiktok.
+  Find top fitness TikTok influencers in Japan in 2022. Most popular hashtags: #fyp #foryoupage #foryou #tiktok.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok accounts on inBeat.

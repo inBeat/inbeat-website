@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Portugal In 2021
+title: Top 10 Architecture Instagram Influencers In Portugal In 2022
 description: >-
-  Find top architecture Instagram influencers in Portugal in 2021. Most popular hashtags: #architecture #portugal #architecturephotography.
+  Find top architecture Instagram influencers in Portugal in 2022. Most popular hashtags: #architecture #portugal #architecturephotography.
 platform: Instagram
 hits: 57
 text_top: Analyze the most popular Instagram accounts on inBeat.

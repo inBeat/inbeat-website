@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Germany In 2021
+title: Top 10 Music Instagram Influencers In Germany In 2022
 description: >-
-  Find top music Instagram influencers in Germany in 2021. Most popular hashtags: #love #germany #fashion.
+  Find top music Instagram influencers in Germany in 2022. Most popular hashtags: #love #germany #fashion.
 platform: Instagram
 hits: 1770
 text_top: See the most popular Instagram influencers on inBeat.

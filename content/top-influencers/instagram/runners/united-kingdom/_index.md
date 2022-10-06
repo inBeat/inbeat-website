@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In United Kingdom In 2021
+title: Top 10 Runners Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top runners Instagram influencers in United Kingdom in 2021. Most popular hashtags: #runningmotivation #runhappy #running #ukrunchat.
+  Find top runners Instagram influencers in United Kingdom in 2022. Most popular hashtags: #runningmotivation #runhappy #running #ukrunchat.
 platform: Instagram
 hits: 208
 text_top: Analyze the most popular Instagram influencers on inBeat.

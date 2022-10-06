@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Israel In 2021
+title: Top 10 TikTok Influencers In Israel In 2022
 description: >-
-  Find top TikTok influencers in Israel in 2021. Most popular hashtags: #fyp #foryou #explore.
+  Find top TikTok influencers in Israel in 2022. Most popular hashtags: #fyp #foryou #explore.
 platform: TikTok
 hits: 403
 text_top: Discover the top-rated TikTok profiles on inBeat.

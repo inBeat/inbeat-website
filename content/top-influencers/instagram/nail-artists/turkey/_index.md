@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Turkey In 2021
+title: Top 10 Nail Artists Instagram Influencers In Turkey In 2022
 description: >-
-  Find top nail artists Instagram influencers in Turkey in 2021. Most popular hashtags: #nailsofinstagram #nailart #nailpolish #nailartist.
+  Find top nail artists Instagram influencers in Turkey in 2022. Most popular hashtags: #nailsofinstagram #nailart #nailpolish #nailartist.
 platform: Instagram
 hits: 20
 text_top: See the best Instagram influencers on inBeat.

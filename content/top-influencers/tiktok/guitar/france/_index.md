@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In France In 2021
+title: Top 10 Guitar TikTok Influencers In France In 2022
 description: >-
-  Find top guitar TikTok influencers in France in 2021. Most popular hashtags: #pourtoi #foryou #fyp #music.
+  Find top guitar TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #fyp #music.
 platform: TikTok
 hits: 41
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Italy In 2021
+title: Top 10 Gymnasts TikTok Influencers In Italy In 2022
 description: >-
-  Find top gymnasts TikTok influencers in Italy in 2021. Most popular hashtags: #gymnastics #fyp #perte #flips.
+  Find top gymnasts TikTok influencers in Italy in 2022. Most popular hashtags: #gymnastics #fyp #perte #flips.
 platform: TikTok
 hits: 38
 text_top: Analyze the top-rated TikTok accounts on inBeat.

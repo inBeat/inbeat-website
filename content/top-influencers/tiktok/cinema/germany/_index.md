@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Germany In 2021
+title: Top 10 Cinema TikTok Influencers In Germany In 2022
 description: >-
-  Find top cinema TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #foryou #anime #viral.
+  Find top cinema TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #anime #viral.
 platform: TikTok
 hits: 17
 text_top: Analyze the best TikTok accounts on inBeat.

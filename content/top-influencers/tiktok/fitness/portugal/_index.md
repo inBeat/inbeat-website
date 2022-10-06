@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Portugal In 2021
+title: Top 10 Fitness TikTok Influencers In Portugal In 2022
 description: >-
-  Find top fitness TikTok influencers in Portugal in 2021. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top fitness TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #foryou #viral #fy.
 platform: TikTok
 hits: 15
 text_top: See the best TikTok influencers on inBeat.

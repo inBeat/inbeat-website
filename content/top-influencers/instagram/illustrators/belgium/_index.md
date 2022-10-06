@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Belgium In 2021
+title: Top 10 Illustrators Instagram Influencers In Belgium In 2022
 description: >-
-  Find top illustrators Instagram influencers in Belgium in 2021. Most popular hashtags: #illustration #illustrationnow #print #graphicdesign.
+  Find top illustrators Instagram influencers in Belgium in 2022. Most popular hashtags: #illustration #illustrationnow #print #graphicdesign.
 platform: Instagram
 hits: 18
 text_top: Identify the top-rated Instagram influencers on inBeat.

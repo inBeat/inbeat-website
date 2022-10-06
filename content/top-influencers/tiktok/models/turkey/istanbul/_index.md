@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Istanbul In 2021
+title: Top 10 Models TikTok Influencers In Istanbul In 2022
 description: >-
-  Find top models TikTok influencers in Istanbul in 2021. Most popular hashtags: #tiktok #istanbul #ke #turkey.
+  Find top models TikTok influencers in Istanbul in 2022. Most popular hashtags: #tiktok #istanbul #ke #turkey.
 platform: TikTok
 hits: 8
 text_top: See the best TikTok profiles on inBeat.

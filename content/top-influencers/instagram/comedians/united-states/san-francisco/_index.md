@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In San Francisco In 2021
+title: Top 10 Comedians Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top comedians Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #standupcomedy #comedian.
+  Find top comedians Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #standupcomedy #comedian.
 platform: Instagram
 hits: 6
 text_top: Analyze the best Instagram influencers on inBeat.

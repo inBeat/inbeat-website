@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Montreal In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Montreal In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Montreal in 2021. Most popular hashtags: #art #graphicdesign #artist #designer.
+  Find top graphic-designers Instagram influencers in Montreal in 2022. Most popular hashtags: #art #graphicdesign #artist #designer.
 platform: Instagram
 hits: 5
 text_top: Identify the top-rated Instagram profiles on inBeat.

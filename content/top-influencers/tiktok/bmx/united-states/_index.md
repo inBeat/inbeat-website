@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In United States In 2021
+title: Top 10 Bmx TikTok Influencers In United States In 2022
 description: >-
-  Find top bmx TikTok influencers in United States in 2021. Most popular hashtags: #fyp #bmx #foryoupage #bike.
+  Find top bmx TikTok influencers in United States in 2022. Most popular hashtags: #fyp #bmx #foryoupage #bike.
 platform: TikTok
 hits: 68
 text_top: Discover the most popular TikTok accounts on inBeat.

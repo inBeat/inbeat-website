@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Bangkok In 2021
+title: Top 10 Photographers Instagram Influencers In Bangkok In 2022
 description: >-
-  Find top photographers Instagram influencers in Bangkok in 2021. Most popular hashtags: #galaxys20th #withgalaxy #supervdocamera.
+  Find top photographers Instagram influencers in Bangkok in 2022. Most popular hashtags: #galaxys20th #withgalaxy #supervdocamera.
 platform: Instagram
 hits: 23
 text_top: See the best Instagram accounts on inBeat.

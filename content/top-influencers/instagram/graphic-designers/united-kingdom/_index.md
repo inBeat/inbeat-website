@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In United Kingdom In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in United Kingdom in 2021. Most popular hashtags: #fitness #summer #beachlife.
+  Find top graphic-designers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #fitness #summer #beachlife.
 platform: Instagram
 hits: 135
 text_top: Discover the top-rated Instagram influencers on inBeat.
@@ -111,7 +111,7 @@ profiles:
     location: "United Kingdom"
     followers: 4132
     engagement: 691
-    commentsToLikes: 0.020211
+    commentsToLikes: 0.020221
     id: ck14kq5yaqr930i19yujgnft3
     verified: false
     hashtags: "#quarentine"

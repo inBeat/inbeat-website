@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Capetown In 2021
+title: Top 10 TikTok Influencers In Capetown In 2022
 description: >-
-  Find top TikTok influencers in Capetown in 2021. Most popular hashtags: #capetown #tiktoksouthafrica #southafrica #duet.
+  Find top TikTok influencers in Capetown in 2022. Most popular hashtags: #capetown #tiktoksouthafrica #southafrica #duet.
 platform: TikTok
 hits: 39
 text_top: Discover the most popular TikTok accounts on inBeat.

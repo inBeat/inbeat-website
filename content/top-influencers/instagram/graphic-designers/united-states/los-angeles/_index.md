@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Los Angeles in 2021. Most popular hashtags: #art #graphicdesign #design.
+  Find top graphic-designers Instagram influencers in Los Angeles in 2022. Most popular hashtags: #art #graphicdesign #design.
 platform: Instagram
 hits: 31
 text_top: Analyze the best Instagram influencers on inBeat.

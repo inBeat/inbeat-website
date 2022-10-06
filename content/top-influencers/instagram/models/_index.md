@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In 2021
+title: Top 10 Models Instagram Influencers In 2022
 description: >-
-  Find top models Instagram influencers in 2021. Most popular hashtags: #girllife #streetlook #teenstyledaily.
+  Find top models Instagram influencers in 2022. Most popular hashtags: #girllife #streetlook #teenstyledaily.
 platform: Instagram
 hits: 81575
 text_top: See the best Instagram accounts on inBeat.

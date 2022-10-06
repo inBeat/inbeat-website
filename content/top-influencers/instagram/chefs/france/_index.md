@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In France In 2021
+title: Top 10 Chefs Instagram Influencers In France In 2022
 description: >-
-  Find top chefs Instagram influencers in France in 2021. Most popular hashtags: #famille #recetterapide #recette.
+  Find top chefs Instagram influencers in France in 2022. Most popular hashtags: #famille #recetterapide #recette.
 platform: Instagram
 hits: 379
 text_top: Identify the best Instagram accounts on inBeat.

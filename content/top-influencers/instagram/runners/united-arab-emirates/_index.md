@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Runners Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top runners Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #mydubai #dubai #running #runner.
+  Find top runners Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #mydubai #dubai #running #runner.
 platform: Instagram
 hits: 13
 text_top: Discover the most popular Instagram influencers on inBeat.

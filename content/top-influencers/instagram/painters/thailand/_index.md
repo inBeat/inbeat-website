@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Thailand In 2021
+title: Top 10 Painters Instagram Influencers In Thailand In 2022
 description: >-
-  Find top painters Instagram influencers in Thailand in 2021. Most popular hashtags: #pinterest #thailand #hoscos.
+  Find top painters Instagram influencers in Thailand in 2022. Most popular hashtags: #pinterest #thailand #hoscos.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Canada In 2021
+title: Top 10 Pole Dancers Instagram Influencers In Canada In 2022
 description: >-
-  Find top pole dancers Instagram influencers in Canada in 2021. Most popular hashtags: #poledance #love #canada #photography.
+  Find top pole dancers Instagram influencers in Canada in 2022. Most popular hashtags: #poledance #love #canada #photography.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram influencers on inBeat.

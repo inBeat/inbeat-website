@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Nigeria In 2021
+title: Top 10 Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top Instagram influencers in Nigeria in 2021. Most popular hashtags: #explorepage #explore #exploremore.
+  Find top Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #explore #exploremore.
 platform: Instagram
 hits: 1051
 text_top: Identify the top-rated Instagram accounts on inBeat.

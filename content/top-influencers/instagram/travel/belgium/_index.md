@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Belgium In 2021
+title: Top 10 Travel Instagram Influencers In Belgium In 2022
 description: >-
-  Find top travel Instagram influencers in Belgium in 2021. Most popular hashtags: #belgianblogger #fashion #travelgram #zara.
+  Find top travel Instagram influencers in Belgium in 2022. Most popular hashtags: #belgianblogger #fashion #travelgram #zara.
 platform: Instagram
 hits: 150
 text_top: See the best Instagram influencers on inBeat.

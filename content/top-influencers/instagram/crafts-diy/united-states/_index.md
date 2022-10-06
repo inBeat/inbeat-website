@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crafts And Diy Instagram Influencers In United States In 2021
+title: Top 10 Crafts And Diy Instagram Influencers In United States In 2022
 description: >-
-  Find top crafts and diy Instagram influencers in United States in 2021. Most popular hashtags: #diy #crafts #tutorial #videotutorial.
+  Find top crafts and diy Instagram influencers in United States in 2022. Most popular hashtags: #diy #crafts #tutorial #videotutorial.
 platform: Instagram
 hits: 29
 text_top: Analyze the best Instagram accounts on inBeat.

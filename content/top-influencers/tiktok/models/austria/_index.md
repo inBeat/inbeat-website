@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Austria In 2021
+title: Top 10 Models TikTok Influencers In Austria In 2022
 description: >-
-  Find top models TikTok influencers in Austria in 2021. Most popular hashtags: #fyp #foryou #model #fy.
+  Find top models TikTok influencers in Austria in 2022. Most popular hashtags: #fyp #foryou #model #fy.
 platform: TikTok
 hits: 19
 text_top: See the best TikTok profiles on inBeat.

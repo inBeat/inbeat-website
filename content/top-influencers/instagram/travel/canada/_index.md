@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Canada In 2021
+title: Top 10 Travel Instagram Influencers In Canada In 2022
 description: >-
-  Find top travel Instagram influencers in Canada in 2021. Most popular hashtags: #coupletravel #travelgirlsgo #loveandwildhearts.
+  Find top travel Instagram influencers in Canada in 2022. Most popular hashtags: #coupletravel #travelgirlsgo #loveandwildhearts.
 platform: Instagram
 hits: 1603
 text_top: Analyze the top-rated Instagram accounts on inBeat.

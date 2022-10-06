@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Brazil In 2021
+title: Top 10 Djs Instagram Influencers In Brazil In 2022
 description: >-
-  Find top djs Instagram influencers in Brazil in 2021. Most popular hashtags: #dj #tbt #djlife.
+  Find top djs Instagram influencers in Brazil in 2022. Most popular hashtags: #dj #tbt #djlife.
 platform: Instagram
 hits: 146
 text_top: Discover the best Instagram influencers on inBeat.

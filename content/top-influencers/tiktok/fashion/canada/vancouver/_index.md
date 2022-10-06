@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Vancouver In 2021
+title: Top 10 Fashion TikTok Influencers In Vancouver In 2022
 description: >-
-  Find top fashion TikTok influencers in Vancouver in 2021. Most popular hashtags: #fashion #vancouver #fyp #foryou.
+  Find top fashion TikTok influencers in Vancouver in 2022. Most popular hashtags: #fashion #vancouver #fyp #foryou.
 platform: TikTok
 hits: 34
 text_top: See the best TikTok accounts on inBeat.

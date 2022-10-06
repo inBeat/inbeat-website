@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Las Vegas In 2021
+title: Top 10 Vegan TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top vegan TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #vegan #foryou #lasvegas.
+  Find top vegan TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #vegan #foryou #lasvegas.
 platform: TikTok
 hits: 14
 text_top: Discover the best TikTok influencers on inBeat.

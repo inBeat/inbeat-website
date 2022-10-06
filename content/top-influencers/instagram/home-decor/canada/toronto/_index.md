@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Toronto In 2021
+title: Top 10 Home Decor Instagram Influencers In Toronto In 2022
 description: >-
-  Find top home decor Instagram influencers in Toronto in 2021. Most popular hashtags: #homedecor #toronto #torontoblogger #homedesign.
+  Find top home decor Instagram influencers in Toronto in 2022. Most popular hashtags: #homedecor #toronto #torontoblogger #homedesign.
 platform: Instagram
 hits: 54
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Dallas In 2021
+title: Top 10 Bloggers TikTok Influencers In Dallas In 2022
 description: >-
-  Find top bloggers TikTok influencers in Dallas in 2021. Most popular hashtags: #duet #fyp #greenscreen #diy.
+  Find top bloggers TikTok influencers in Dallas in 2022. Most popular hashtags: #duet #fyp #greenscreen #diy.
 platform: TikTok
 hits: 7
 text_top: Analyze the top-rated TikTok influencers on inBeat.

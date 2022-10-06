@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Venezuela In 2021
+title: Top 10 Christian Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top christian Instagram influencers in Venezuela in 2021. Most popular hashtags: #quedateencasa #venezuela #beach.
+  Find top christian Instagram influencers in Venezuela in 2022. Most popular hashtags: #quedateencasa #venezuela #beach.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram influencers on inBeat.

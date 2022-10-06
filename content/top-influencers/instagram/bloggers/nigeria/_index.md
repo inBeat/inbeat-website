@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Nigeria In 2021
+title: Top 10 Bloggers Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top bloggers Instagram influencers in Nigeria in 2021. Most popular hashtags: #africanfood #nigerianfoodblogger #foodblogger.
+  Find top bloggers Instagram influencers in Nigeria in 2022. Most popular hashtags: #africanfood #nigerianfoodblogger #foodblogger.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram influencers on inBeat.

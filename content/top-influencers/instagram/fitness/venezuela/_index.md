@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Venezuela In 2021
+title: Top 10 Fitness Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top fitness Instagram influencers in Venezuela in 2021. Most popular hashtags: #venezuela #tbt #salud.
+  Find top fitness Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #tbt #salud.
 platform: Instagram
 hits: 66
 text_top: See the best Instagram accounts on inBeat.

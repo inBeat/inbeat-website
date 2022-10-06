@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Portugal In 2021
+title: Top 10 Home Decor Instagram Influencers In Portugal In 2022
 description: >-
-  Find top home decor Instagram influencers in Portugal in 2021. Most popular hashtags: #homedecor #portugal #home #homesweethome.
+  Find top home decor Instagram influencers in Portugal in 2022. Most popular hashtags: #homedecor #portugal #home #homesweethome.
 platform: Instagram
 hits: 18
 text_top: Analyze the most popular Instagram accounts on inBeat.

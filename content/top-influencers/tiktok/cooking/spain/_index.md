@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Spain In 2021
+title: Top 10 Cooking TikTok Influencers In Spain In 2022
 description: >-
-  Find top cooking TikTok influencers in Spain in 2021. Most popular hashtags: #foryou #fyp #parati #cooking.
+  Find top cooking TikTok influencers in Spain in 2022. Most popular hashtags: #foryou #fyp #parati #cooking.
 platform: TikTok
 hits: 18
 text_top: Discover the most popular TikTok profiles on inBeat.

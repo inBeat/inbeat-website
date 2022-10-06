@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Sydney In 2021
+title: Top 10 Photographers TikTok Influencers In Sydney In 2022
 description: >-
-  Find top photographers TikTok influencers in Sydney in 2021. Most popular hashtags: #fyp #foryou #photography #photographer.
+  Find top photographers TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #photography #photographer.
 platform: TikTok
 hits: 8
 text_top: Identify the most popular TikTok influencers on inBeat.

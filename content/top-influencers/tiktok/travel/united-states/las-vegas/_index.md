@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Las Vegas In 2021
+title: Top 10 Travel TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top travel TikTok influencers in Las Vegas in 2021. Most popular hashtags: #travel #lasvegas #fyp #california.
+  Find top travel TikTok influencers in Las Vegas in 2022. Most popular hashtags: #travel #lasvegas #fyp #california.
 platform: TikTok
 hits: 65
 text_top: Identify the best TikTok accounts on inBeat.

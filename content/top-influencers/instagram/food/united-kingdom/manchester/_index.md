@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Manchester In 2021
+title: Top 10 Food Instagram Influencers In Manchester In 2022
 description: >-
-  Find top food Instagram influencers in Manchester in 2021. Most popular hashtags: #food #foodporn #manchester.
+  Find top food Instagram influencers in Manchester in 2022. Most popular hashtags: #food #foodporn #manchester.
 platform: Instagram
 hits: 55
 text_top: See the top-rated Instagram profiles on inBeat.

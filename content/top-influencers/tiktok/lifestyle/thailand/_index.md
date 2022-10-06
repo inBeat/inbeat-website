@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Thailand In 2021
+title: Top 10 Lifestyle TikTok Influencers In Thailand In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Thailand in 2021. Most popular hashtags: #foryou #thailand #tiktokthailand #lifestyle.
+  Find top lifestyle TikTok influencers in Thailand in 2022. Most popular hashtags: #foryou #thailand #tiktokthailand #lifestyle.
 platform: TikTok
 hits: 8
 text_top: Discover the best TikTok accounts on inBeat.

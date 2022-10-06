@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In South Korea In 2021
+title: Top 10 Golfers Instagram Influencers In South Korea In 2022
 description: >-
-  Find top golfers Instagram influencers in South Korea in 2021. Most popular hashtags: #golf #golfswing #golfer #wideangle.
+  Find top golfers Instagram influencers in South Korea in 2022. Most popular hashtags: #golf #golfswing #golfer #wideangle.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram profiles on inBeat.

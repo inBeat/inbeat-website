@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Cali In 2021
+title: Top 10 Beauty Instagram Influencers In Cali In 2022
 description: >-
-  Find top beauty Instagram influencers in Cali in 2021. Most popular hashtags: #beauty #makeup #colombia.
+  Find top beauty Instagram influencers in Cali in 2022. Most popular hashtags: #beauty #makeup #colombia.
 platform: Instagram
 hits: 34
 text_top: Identify the top-rated Instagram profiles on inBeat.

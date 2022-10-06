@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Indonesia In 2021
+title: Top 10 Models Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top models Instagram influencers in Indonesia in 2021. Most popular hashtags: #instagood #ootd #hijabersindonesia.
+  Find top models Instagram influencers in Indonesia in 2022. Most popular hashtags: #instagood #ootd #hijabersindonesia.
 platform: Instagram
 hits: 853
 text_top: See the top-rated Instagram profiles on inBeat.

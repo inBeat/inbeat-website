@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In New York In 2021
+title: Top 10 Rappers Instagram Influencers In New York In 2022
 description: >-
-  Find top rappers Instagram influencers in New York in 2021. Most popular hashtags: #newyork #rap #music #rapper.
+  Find top rappers Instagram influencers in New York in 2022. Most popular hashtags: #newyork #rap #music #rapper.
 platform: Instagram
 hits: 105
 text_top: Discover the best Instagram profiles on inBeat.

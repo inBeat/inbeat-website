@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Switzerland In 2021
+title: Top 10 Fitness Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top fitness Instagram influencers in Switzerland in 2021. Most popular hashtags: #switzerland #fitness #workout.
+  Find top fitness Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #fitness #workout.
 platform: Instagram
 hits: 165
 text_top: Analyze the most popular Instagram influencers on inBeat.

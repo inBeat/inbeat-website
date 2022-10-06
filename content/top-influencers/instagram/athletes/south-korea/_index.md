@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In South Korea In 2021
+title: Top 10 Athletes Instagram Influencers In South Korea In 2022
 description: >-
-  Find top athletes Instagram influencers in South Korea in 2021. Most popular hashtags: #catch #photography #aavec.
+  Find top athletes Instagram influencers in South Korea in 2022. Most popular hashtags: #catch #photography #aavec.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram accounts on inBeat.

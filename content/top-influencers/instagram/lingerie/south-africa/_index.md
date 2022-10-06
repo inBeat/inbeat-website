@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In South Africa In 2021
+title: Top 10 Lingerie Instagram Influencers In South Africa In 2022
 description: >-
-  Find top lingerie Instagram influencers in South Africa in 2021. Most popular hashtags: #model #photography #beauty #love.
+  Find top lingerie Instagram influencers in South Africa in 2022. Most popular hashtags: #model #photography #beauty #love.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram profiles on inBeat.

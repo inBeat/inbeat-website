@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In Australia In 2021
+title: Top 10 Dog Owners Instagram Influencers In Australia In 2022
 description: >-
-  Find top dog owners Instagram influencers in Australia in 2021. Most popular hashtags: #dogs #puppy #puppylove.
+  Find top dog owners Instagram influencers in Australia in 2022. Most popular hashtags: #dogs #puppy #puppylove.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Francisco In 2021
+title: Top 10 Fashion Instagram Influencers In San Francisco In 2022
 description: >-
-  Find top fashion Instagram influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #fashion #zaraoutfit.
+  Find top fashion Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fashion #zaraoutfit.
 platform: Instagram
 hits: 182
 text_top: Identify the most popular Instagram profiles on inBeat.

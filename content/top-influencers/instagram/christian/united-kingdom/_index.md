@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Kingdom In 2021
+title: Top 10 Christian Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top christian Instagram influencers in United Kingdom in 2021. Most popular hashtags: #covid19 #lockdown #pedalshots.
+  Find top christian Instagram influencers in United Kingdom in 2022. Most popular hashtags: #covid19 #lockdown #pedalshots.
 platform: Instagram
 hits: 317
 text_top: Analyze the top-rated Instagram accounts on inBeat.

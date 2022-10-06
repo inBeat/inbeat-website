@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Brazil In 2021
+title: Top 10 Runners Instagram Influencers In Brazil In 2022
 description: >-
-  Find top runners Instagram influencers in Brazil in 2021. Most popular hashtags: #tbt #gratidao #corridaderua.
+  Find top runners Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #gratidao #corridaderua.
 platform: Instagram
 hits: 188
 text_top: See the most popular Instagram influencers on inBeat.

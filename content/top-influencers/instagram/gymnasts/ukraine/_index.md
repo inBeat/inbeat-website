@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2021
+title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2022
 description: >-
-  Find top gymnasts Instagram influencers in Ukraine in 2021. Most popular hashtags: #rhythmicgymnastics #flexible #newbalance.
+  Find top gymnasts Instagram influencers in Ukraine in 2022. Most popular hashtags: #rhythmicgymnastics #flexible #newbalance.
 platform: Instagram
 hits: 48
 text_top: Analyze the best Instagram accounts on inBeat.

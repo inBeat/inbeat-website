@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Brisbane In 2021
+title: Top 10 Vegan Instagram Influencers In Brisbane In 2022
 description: >-
-  Find top vegan Instagram influencers in Brisbane in 2021. Most popular hashtags: #vegan #brisbane #love #foodie.
+  Find top vegan Instagram influencers in Brisbane in 2022. Most popular hashtags: #vegan #brisbane #love #foodie.
 platform: Instagram
 hits: 22
 text_top: See the best Instagram accounts on inBeat.

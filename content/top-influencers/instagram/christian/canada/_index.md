@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Canada In 2021
+title: Top 10 Christian Instagram Influencers In Canada In 2022
 description: >-
-  Find top christian Instagram influencers in Canada in 2021. Most popular hashtags: #dailydevotional #biblejournaling #faithquotes.
+  Find top christian Instagram influencers in Canada in 2022. Most popular hashtags: #dailydevotional #biblejournaling #faithquotes.
 platform: Instagram
 hits: 154
 text_top: Discover the most popular Instagram influencers on inBeat.

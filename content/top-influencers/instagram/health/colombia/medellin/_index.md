@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Medellín In 2021
+title: Top 10 Health Instagram Influencers In Medellín In 2022
 description: >-
-  Find top health Instagram influencers in Medellín in 2021. Most popular hashtags: #medellin #fitness #health #workout.
+  Find top health Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #fitness #health #workout.
 platform: Instagram
 hits: 15
 text_top: Identify the best Instagram profiles on inBeat.

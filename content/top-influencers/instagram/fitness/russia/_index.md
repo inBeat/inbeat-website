@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Russia In 2021
+title: Top 10 Fitness Instagram Influencers In Russia In 2022
 description: >-
-  Find top fitness Instagram influencers in Russia in 2021. Most popular hashtags: #fitnessmodel #fitness #bodybuilding.
+  Find top fitness Instagram influencers in Russia in 2022. Most popular hashtags: #fitnessmodel #fitness #bodybuilding.
 platform: Instagram
 hits: 573
 text_top: Analyze the top-rated Instagram influencers on inBeat.

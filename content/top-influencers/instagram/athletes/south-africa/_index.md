@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In South Africa In 2021
+title: Top 10 Athletes Instagram Influencers In South Africa In 2022
 description: >-
-  Find top athletes Instagram influencers in South Africa in 2021. Most popular hashtags: #playinside #staysafe #playfortheworld.
+  Find top athletes Instagram influencers in South Africa in 2022. Most popular hashtags: #playinside #staysafe #playfortheworld.
 platform: Instagram
 hits: 37
 text_top: Analyze the most popular Instagram profiles on inBeat.

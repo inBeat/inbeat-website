@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Barcelona In 2021
+title: Top 10 Christian Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top christian Instagram influencers in Barcelona in 2021. Most popular hashtags: #barcelona #instagood #ig #love.
+  Find top christian Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #instagood #ig #love.
 platform: Instagram
 hits: 12
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Brazil In 2021
+title: Top 10 Boxers TikTok Influencers In Brazil In 2022
 description: >-
-  Find top boxers TikTok influencers in Brazil in 2021. Most popular hashtags: #tiktok #boxer #foryou #fy.
+  Find top boxers TikTok influencers in Brazil in 2022. Most popular hashtags: #tiktok #boxer #foryou #fy.
 platform: TikTok
 hits: 8
 text_top: Discover the top-rated TikTok accounts on inBeat.
@@ -91,7 +91,7 @@ profiles:
     id: ckdseifwcle790j23gjw4j7bq
     verified: false
     hashtags: "#fy, #tiktok, #fyp, #viral"
-  - username: "videostop2021"
+  - username: "videostop2022"
     fullname: >-
       Vídeos Top
     bio: >-

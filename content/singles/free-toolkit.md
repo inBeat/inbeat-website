@@ -4,7 +4,7 @@ description: >-
   Everything you need to assist you in influencer marketing
 slug: free-toolkit
 layout: free-toolkit
-titre: Free toolkit
+title: The Toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
     - title: Instagram Engagement <br>  Rate Calculator
@@ -23,11 +23,11 @@ toolkits:
       text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
       icon: freetoolkit-pulsepodcast
       url: fake-follower-checker
-    - title: Top Instagram <br> Influencers 2021
+    - title: Top Instagram <br> Influencers 2022
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-ig-topinfluencers
       url: top-influencers/instagram
-    - title: Top TikTok <br> Influencers 2021
+    - title: Top TikTok <br> Influencers 2022
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok

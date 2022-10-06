@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Barcelona In 2021
+title: Top 10 Yoga Instagram Influencers In Barcelona In 2022
 description: >-
-  Find top yoga Instagram influencers in Barcelona in 2021. Most popular hashtags: #yogabarcelona #yoga #yogapractice #yogaespa.
+  Find top yoga Instagram influencers in Barcelona in 2022. Most popular hashtags: #yogabarcelona #yoga #yogapractice #yogaespa.
 platform: Instagram
 hits: 46
 text_top: Identify the top-rated Instagram influencers on inBeat.

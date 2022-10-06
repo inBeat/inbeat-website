@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Austria In 2021
+title: Top 10 Vegan Instagram Influencers In Austria In 2022
 description: >-
-  Find top vegan Instagram influencers in Austria in 2021. Most popular hashtags: #vegan #austria #love #plantbased.
+  Find top vegan Instagram influencers in Austria in 2022. Most popular hashtags: #vegan #austria #love #plantbased.
 platform: Instagram
 hits: 73
 text_top: Analyze the best Instagram influencers on inBeat.

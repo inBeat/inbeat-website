@@ -47,6 +47,8 @@
 {{- partial "site/pricing-creator-studio-section.html" . -}}
 
 {{- partial "site/testimonial.html" . -}}
+<!-- {{- partial "site/testimonial-with-cards.html" . -}} -->
+<!-- {{- partial "site/clients-creator-studio.html" . -}} -->
 
 <section class="container mobile-adjusted m-tb-160" id="included">
     <div class="row">
@@ -74,7 +76,7 @@
 </section>
 
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.pricing "id" "pricing-faq") -}}
-{{ $content :=  `<div class="content-video" style="padding-top: 50px;">
+{{ $content :=  `<div class="content-video">
     <iframe src="https://player.vimeo.com/video/641548333?h=057cffcccb&color=ffe9f0&title=0&byline=0&portrait=0" height="560" style="width:100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="btn-cta">

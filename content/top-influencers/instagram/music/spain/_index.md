@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Spain In 2021
+title: Top 10 Music Instagram Influencers In Spain In 2022
 description: >-
-  Find top music Instagram influencers in Spain in 2021. Most popular hashtags: #music #canaryislands #canarias.
+  Find top music Instagram influencers in Spain in 2022. Most popular hashtags: #music #canaryislands #canarias.
 platform: Instagram
 hits: 1161
 text_top: See the most popular Instagram profiles on inBeat.

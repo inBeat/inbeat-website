@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Norway In 2021
+title: Top 10 TikTok Influencers In Norway In 2022
 description: >-
-  Find top TikTok influencers in Norway in 2021. Most popular hashtags: #foryou #fyp #foryoupage.
+  Find top TikTok influencers in Norway in 2022. Most popular hashtags: #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 489
 text_top: See the best TikTok influencers on inBeat.

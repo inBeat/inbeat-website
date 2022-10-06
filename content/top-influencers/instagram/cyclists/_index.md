@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In 2021
+title: Top 10 Cyclists Instagram Influencers In 2022
 description: >-
-  Find top cyclists Instagram influencers in 2021. Most popular hashtags: #cycling #cyclinglife #cyclist.
+  Find top cyclists Instagram influencers in 2022. Most popular hashtags: #cycling #cyclinglife #cyclist.
 platform: Instagram
 hits: 962
 text_top: Discover the most popular Instagram profiles on inBeat.

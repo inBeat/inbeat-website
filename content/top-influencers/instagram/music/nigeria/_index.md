@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Nigeria In 2021
+title: Top 10 Music Instagram Influencers In Nigeria In 2022
 description: >-
-  Find top music Instagram influencers in Nigeria in 2021. Most popular hashtags: #beauty #explorepage #explore.
+  Find top music Instagram influencers in Nigeria in 2022. Most popular hashtags: #beauty #explorepage #explore.
 platform: Instagram
 hits: 103
 text_top: See the most popular Instagram profiles on inBeat.
