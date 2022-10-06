@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bali In 2021
+title: Top 10 Beauty Instagram Influencers In Bali In 2022
 description: >-
-  Find top beauty Instagram influencers in Bali in 2021. Most popular hashtags: #bali #model #beauty #baliindonesia.
+  Find top beauty Instagram influencers in Bali in 2022. Most popular hashtags: #bali #model #beauty #baliindonesia.
 platform: Instagram
 hits: 146
 text_top: Discover the most popular Instagram accounts on inBeat.

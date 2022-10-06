@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Hungary In 2021
+title: Top 10 TikTok Influencers In Hungary In 2022
 description: >-
-  Find top TikTok influencers in Hungary in 2021. Most popular hashtags: #foryou #foryoupage #fyp #fy.
+  Find top TikTok influencers in Hungary in 2022. Most popular hashtags: #foryou #foryoupage #fyp #fy.
 platform: TikTok
 hits: 448
 text_top: See the best TikTok influencers on inBeat.

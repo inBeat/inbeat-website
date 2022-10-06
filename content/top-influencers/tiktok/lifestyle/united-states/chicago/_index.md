@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Chicago In 2021
+title: Top 10 Lifestyle TikTok Influencers In Chicago In 2022
 description: >-
-  Find top lifestyle TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #chicago #foryou #lifestyle.
+  Find top lifestyle TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #foryou #lifestyle.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok profiles on inBeat.

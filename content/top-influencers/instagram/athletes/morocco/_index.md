@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Morocco In 2021
+title: Top 10 Athletes Instagram Influencers In Morocco In 2022
 description: >-
-  Find top athletes Instagram influencers in Morocco in 2021. Most popular hashtags: #lifestyle #morocco #life #love.
+  Find top athletes Instagram influencers in Morocco in 2022. Most popular hashtags: #lifestyle #morocco #life #love.
 platform: Instagram
 hits: 11
 text_top: Identify the best Instagram influencers on inBeat.

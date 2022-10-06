@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Cali In 2021
+title: Top 10 TikTok Influencers In Cali In 2022
 description: >-
-  Find top TikTok influencers in Cali in 2021. Most popular hashtags: #fyp #foryou #colombia #viral.
+  Find top TikTok influencers in Cali in 2022. Most popular hashtags: #fyp #foryou #colombia #viral.
 platform: TikTok
 hits: 70
 text_top: Discover the top-rated TikTok influencers on inBeat.

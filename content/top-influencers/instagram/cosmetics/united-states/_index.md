@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In United States In 2021
+title: Top 10 Cosmetics Instagram Influencers In United States In 2022
 description: >-
-  Find top cosmetics Instagram influencers in United States in 2021. Most popular hashtags: #instagood #love #sponsored.
+  Find top cosmetics Instagram influencers in United States in 2022. Most popular hashtags: #instagood #love #sponsored.
 platform: Instagram
 hits: 1652
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Kim Kapinos (Townsend)
     bio: >-
-      Running and Cosmetics. Executive with Estee Lauder Companies. Alex's mom. Athlete👊🏼 13.1x82👉🏼1:20• 26.2x23👉🏼2:58. London 2021. Coyote 🐺❤️
+      Running and Cosmetics. Executive with Estee Lauder Companies. Alex's mom. Athlete👊🏼 13.1x82👉🏼1:20• 26.2x23👉🏼2:58. London 2022. Coyote 🐺❤️
     location: "United States"
     followers: 6615
     engagement: 1164

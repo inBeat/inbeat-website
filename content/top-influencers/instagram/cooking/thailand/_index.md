@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Thailand In 2021
+title: Top 10 Cooking Instagram Influencers In Thailand In 2022
 description: >-
-  Find top cooking Instagram influencers in Thailand in 2021. Most popular hashtags: #thaifood #healthyfood #cleanfood.
+  Find top cooking Instagram influencers in Thailand in 2022. Most popular hashtags: #thaifood #healthyfood #cleanfood.
 platform: Instagram
 hits: 38
 text_top: Identify the top-rated Instagram profiles on inBeat.

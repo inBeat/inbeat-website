@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Germany In 2021
+title: Top 10 Painters TikTok Influencers In Germany In 2022
 description: >-
-  Find top painters TikTok influencers in Germany in 2021. Most popular hashtags: #fyp #fy #foryou #artist.
+  Find top painters TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #fy #foryou #artist.
 platform: TikTok
 hits: 29
 text_top: Analyze the most popular TikTok accounts on inBeat.

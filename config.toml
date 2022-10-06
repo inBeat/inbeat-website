@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = false
   singles = "/:slug/"
 
 [security.funcs]
-  getenv = ["IS_PROD", "GOOGLE_RECAPTCHA_KEY"]
+  getenv = ["IS_PROD", "GOOGLE_RECAPTCHA_KEY", "FORCE_NO_INDEX"]
 
 # [Languages.fr]
 # [Languages.fr.Taxonomies]

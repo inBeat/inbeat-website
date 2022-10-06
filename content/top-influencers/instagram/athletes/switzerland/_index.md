@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Switzerland In 2021
+title: Top 10 Athletes Instagram Influencers In Switzerland In 2022
 description: >-
-  Find top athletes Instagram influencers in Switzerland in 2021. Most popular hashtags: #workout #motivation #switzerland.
+  Find top athletes Instagram influencers in Switzerland in 2022. Most popular hashtags: #workout #motivation #switzerland.
 platform: Instagram
 hits: 93
 text_top: Analyze the top-rated Instagram influencers on inBeat.

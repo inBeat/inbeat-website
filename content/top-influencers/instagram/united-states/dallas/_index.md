@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Dallas In 2021
+title: Top 10 Instagram Influencers In Dallas In 2022
 description: >-
-  Find top Instagram influencers in Dallas in 2021. Most popular hashtags: #ad #greshamjewelry #fentyskin.
+  Find top Instagram influencers in Dallas in 2022. Most popular hashtags: #ad #greshamjewelry #fentyskin.
 platform: Instagram
 hits: 2543
 text_top: Discover the top-rated Instagram profiles on inBeat.

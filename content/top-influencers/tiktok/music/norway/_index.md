@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Norway In 2021
+title: Top 10 Music TikTok Influencers In Norway In 2022
 description: >-
-  Find top music TikTok influencers in Norway in 2021. Most popular hashtags: #fyp #foryou #foryoupage #music.
+  Find top music TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #foryou #foryoupage #music.
 platform: TikTok
 hits: 30
 text_top: Analyze the top-rated TikTok profiles on inBeat.

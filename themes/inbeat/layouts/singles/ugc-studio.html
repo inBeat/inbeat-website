@@ -1,0 +1,26 @@
+{{- define "main" -}}
+        {{- with .Params.hero -}}
+        <section class="container-fluid mobile-adjusted hero_creator-studio-v2" id="hero">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                 <h1 class="creator-studio-heading">{{- .title | markdownify -}}</h1>
+                 <h4 class="hero_creator-studio-sub_heading">{{- .subtitle | markdownify -}} </h4>
+                 <div class="cta">
+                    <a href="{{- .cta.link -}}" class="btn btn-lg" title="Get started" target="_blank">
+                        {{- htmlUnescape .cta.text | markdownify -}}
+                    </a>
+                    <a href="/pricing" title="See Pricing" target="_self" class="btn btn-lg ">
+                        <span>See Pricing
+                    </a>
+                </div>
+                 </div>
+            </div>
+        </section>
+        {{- end -}}
+{{- partial "site/discover-influencer.html" . -}}
+{{- partial "site/clients-creator-studio.html" . -}}
+{{- partial "site/features-v2.html" . -}}
+{{- partial "site/switchers-accordian.html" . -}}
+{{- partial "site/whatwedo-v2.html" . -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
+{{- end -}}

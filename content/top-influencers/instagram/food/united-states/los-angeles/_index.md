@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Los Angeles In 2021
+title: Top 10 Food Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top food Instagram influencers in Los Angeles in 2021. Most popular hashtags: #food #losangeles #lafoodie.
+  Find top food Instagram influencers in Los Angeles in 2022. Most popular hashtags: #food #losangeles #lafoodie.
 platform: Instagram
 hits: 352
 text_top: Analyze the best Instagram accounts on inBeat.

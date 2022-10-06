@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Chile In 2021
+title: Top 10 Dancers TikTok Influencers In Chile In 2022
 description: >-
-  Find top dancers TikTok influencers in Chile in 2021. Most popular hashtags: #fyp #parati #chile #dance.
+  Find top dancers TikTok influencers in Chile in 2022. Most popular hashtags: #fyp #parati #chile #dance.
 platform: TikTok
 hits: 12
 text_top: Identify the most popular TikTok influencers on inBeat.

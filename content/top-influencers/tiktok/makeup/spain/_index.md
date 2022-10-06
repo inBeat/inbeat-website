@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Spain In 2021
+title: Top 10 Makeup TikTok Influencers In Spain In 2022
 description: >-
-  Find top makeup TikTok influencers in Spain in 2021. Most popular hashtags: #makeup #halloween #makeupartist #parati.
+  Find top makeup TikTok influencers in Spain in 2022. Most popular hashtags: #makeup #halloween #makeupartist #parati.
 platform: TikTok
 hits: 147
 text_top: Identify the best TikTok accounts on inBeat.

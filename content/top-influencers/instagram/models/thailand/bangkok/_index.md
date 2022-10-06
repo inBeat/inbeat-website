@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Bangkok In 2021
+title: Top 10 Models Instagram Influencers In Bangkok In 2022
 description: >-
-  Find top models Instagram influencers in Bangkok in 2021. Most popular hashtags: #model #thailand #bangkok.
+  Find top models Instagram influencers in Bangkok in 2022. Most popular hashtags: #model #thailand #bangkok.
 platform: Instagram
 hits: 29
 text_top: Discover the best Instagram profiles on inBeat.

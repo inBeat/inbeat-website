@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Italy In 2021
+title: Top 10 Crossfit Instagram Influencers In Italy In 2022
 description: >-
-  Find top crossfit Instagram influencers in Italy in 2021. Most popular hashtags: #crossfit #love #fitness.
+  Find top crossfit Instagram influencers in Italy in 2022. Most popular hashtags: #crossfit #love #fitness.
 platform: Instagram
 hits: 132
 text_top: Discover the best Instagram profiles on inBeat.

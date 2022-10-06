@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2021
+title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2022
 description: >-
-  Find top tattoo-artists TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #tattoo #tattooartist #duet.
+  Find top tattoo-artists TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #tattoo #tattooartist #duet.
 platform: TikTok
 hits: 6
 text_top: Analyze the most popular TikTok accounts on inBeat.

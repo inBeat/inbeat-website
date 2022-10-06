@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In United States In 2021
+title: Top 10 Mothers TikTok Influencers In United States In 2022
 description: >-
-  Find top mothers TikTok influencers in United States in 2021. Most popular hashtags: #fyp #duet #friends #funny.
+  Find top mothers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #friends #funny.
 platform: TikTok
 hits: 3003
 text_top: See the best TikTok accounts on inBeat.

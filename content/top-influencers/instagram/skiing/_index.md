@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skiing Instagram Influencers In 2021
+title: Top 10 Skiing Instagram Influencers In 2022
 description: >-
-  Find top skiing Instagram influencers in 2021. Most popular hashtags: #skiing #sunset #weareskiing.
+  Find top skiing Instagram influencers in 2022. Most popular hashtags: #skiing #sunset #weareskiing.
 platform: Instagram
 hits: 609
 text_top: Identify the top-rated Instagram influencers on inBeat.

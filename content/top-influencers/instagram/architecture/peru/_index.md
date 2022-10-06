@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Peru In 2021
+title: Top 10 Architecture Instagram Influencers In Peru In 2022
 description: >-
-  Find top architecture Instagram influencers in Peru in 2021. Most popular hashtags: #peru #mountains #southamerica #architecture.
+  Find top architecture Instagram influencers in Peru in 2022. Most popular hashtags: #peru #mountains #southamerica #architecture.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

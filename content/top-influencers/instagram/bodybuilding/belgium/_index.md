@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Belgium In 2021
+title: Top 10 Bodybuilding Instagram Influencers In Belgium In 2022
 description: >-
-  Find top bodybuilding Instagram influencers in Belgium in 2021. Most popular hashtags: #fitness #bodybuilding #motivation #workout.
+  Find top bodybuilding Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #bodybuilding #motivation #workout.
 platform: Instagram
 hits: 13
 text_top: See the most popular Instagram influencers on inBeat.

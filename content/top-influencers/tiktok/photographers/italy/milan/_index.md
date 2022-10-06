@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Milan In 2021
+title: Top 10 Photographers TikTok Influencers In Milan In 2022
 description: >-
-  Find top photographers TikTok influencers in Milan in 2021. Most popular hashtags: #perte #viral #fyp #italy.
+  Find top photographers TikTok influencers in Milan in 2022. Most popular hashtags: #perte #viral #fyp #italy.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok profiles on inBeat.

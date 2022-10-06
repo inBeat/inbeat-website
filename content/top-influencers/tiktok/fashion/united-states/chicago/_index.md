@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Chicago In 2021
+title: Top 10 Fashion TikTok Influencers In Chicago In 2022
 description: >-
-  Find top fashion TikTok influencers in Chicago in 2021. Most popular hashtags: #fyp #chicago #fashion #foryou.
+  Find top fashion TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #fashion #foryou.
 platform: TikTok
 hits: 70
 text_top: Discover the most popular TikTok accounts on inBeat.

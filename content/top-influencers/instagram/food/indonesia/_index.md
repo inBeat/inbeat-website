@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Indonesia In 2021
+title: Top 10 Food Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top food Instagram influencers in Indonesia in 2021. Most popular hashtags: #dirumahaja #diindonesiaaja #ootd.
+  Find top food Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #diindonesiaaja #ootd.
 platform: Instagram
 hits: 842
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Spain In 2021
+title: Top 10 Cosmetics Instagram Influencers In Spain In 2022
 description: >-
-  Find top cosmetics Instagram influencers in Spain in 2021. Most popular hashtags: #cosmetics #beauty #makeup #skincare.
+  Find top cosmetics Instagram influencers in Spain in 2022. Most popular hashtags: #cosmetics #beauty #makeup #skincare.
 platform: Instagram
 hits: 234
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Norway In 2021
+title: Top 10 Gaming Instagram Influencers In Norway In 2022
 description: >-
-  Find top gaming Instagram influencers in Norway in 2021. Most popular hashtags: #gaming #gamergirl #games #gamer.
+  Find top gaming Instagram influencers in Norway in 2022. Most popular hashtags: #gaming #gamergirl #games #gamer.
 platform: Instagram
 hits: 10
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Ukraine In 2021
+title: Top 10 Models TikTok Influencers In Ukraine In 2022
 description: >-
-  Find top models TikTok influencers in Ukraine in 2021. Most popular hashtags: #model #girls #girl #beautiful.
+  Find top models TikTok influencers in Ukraine in 2022. Most popular hashtags: #model #girls #girl #beautiful.
 platform: TikTok
 hits: 15
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Singapore In 2021
+title: Top 10 Bakers Instagram Influencers In Singapore In 2022
 description: >-
-  Find top bakers Instagram influencers in Singapore in 2021. Most popular hashtags: #sgfoodies #sp #sgfoodtrend.
+  Find top bakers Instagram influencers in Singapore in 2022. Most popular hashtags: #sgfoodies #sp #sgfoodtrend.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Russia In 2021
+title: Top 10 Athletes Instagram Influencers In Russia In 2022
 description: >-
-  Find top athletes Instagram influencers in Russia in 2021. Most popular hashtags: #training #sport #instagood.
+  Find top athletes Instagram influencers in Russia in 2022. Most popular hashtags: #training #sport #instagood.
 platform: Instagram
 hits: 137
 text_top: Discover the top-rated Instagram accounts on inBeat.

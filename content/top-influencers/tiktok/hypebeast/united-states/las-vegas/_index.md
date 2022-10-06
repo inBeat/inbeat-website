@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Las Vegas In 2021
+title: Top 10 Hypebeast TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top hypebeast TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
+  Find top hypebeast TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
 platform: TikTok
 hits: 6
 text_top: Discover the best TikTok influencers on inBeat.

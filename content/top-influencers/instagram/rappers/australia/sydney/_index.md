@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Sydney In 2021
+title: Top 10 Rappers Instagram Influencers In Sydney In 2022
 description: >-
-  Find top rappers Instagram influencers in Sydney in 2021. Most popular hashtags: #hiphop #music #australia #rapper.
+  Find top rappers Instagram influencers in Sydney in 2022. Most popular hashtags: #hiphop #music #australia #rapper.
 platform: Instagram
 hits: 7
 text_top: Analyze the best Instagram accounts on inBeat.

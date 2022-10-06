@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In United Kingdom In 2021
+title: Top 10 Tattoo-Artists Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top tattoo-artists Instagram influencers in United Kingdom in 2021. Most popular hashtags: #tattoo #inked #tattoos #art.
+  Find top tattoo-artists Instagram influencers in United Kingdom in 2022. Most popular hashtags: #tattoo #inked #tattoos #art.
 platform: Instagram
 hits: 180
 text_top: Discover the best Instagram profiles on inBeat.

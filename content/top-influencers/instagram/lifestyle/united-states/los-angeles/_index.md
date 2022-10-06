@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Los Angeles In 2021
+title: Top 10 Lifestyle Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Los Angeles in 2021. Most popular hashtags: #losangeles #lifestyle #makeup #fitness.
+  Find top lifestyle Instagram influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #lifestyle #makeup #fitness.
 platform: Instagram
 hits: 665
 text_top: Identify the most popular Instagram profiles on inBeat.

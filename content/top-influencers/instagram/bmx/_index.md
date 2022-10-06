@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In 2021
+title: Top 10 Bmx Instagram Influencers In 2022
 description: >-
-  Find top bmx Instagram influencers in 2021. Most popular hashtags: #bmx #bmxstreet #bmxlife.
+  Find top bmx Instagram influencers in 2022. Most popular hashtags: #bmx #bmxstreet #bmxlife.
 platform: Instagram
 hits: 1386
 text_top: See the top-rated Instagram profiles on inBeat.

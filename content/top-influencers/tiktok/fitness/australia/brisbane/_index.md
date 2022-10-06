@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Brisbane In 2021
+title: Top 10 Fitness TikTok Influencers In Brisbane In 2022
 description: >-
-  Find top fitness TikTok influencers in Brisbane in 2021. Most popular hashtags: #fyp #fitness #aussie #duet.
+  Find top fitness TikTok influencers in Brisbane in 2022. Most popular hashtags: #fyp #fitness #aussie #duet.
 platform: TikTok
 hits: 9
 text_top: See the best TikTok influencers on inBeat.

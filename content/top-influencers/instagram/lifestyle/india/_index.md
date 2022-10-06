@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In India In 2021
+title: Top 10 Lifestyle Instagram Influencers In India In 2022
 description: >-
-  Find top lifestyle Instagram influencers in India in 2021. Most popular hashtags: #photooftheday #fashion #instagram.
+  Find top lifestyle Instagram influencers in India in 2022. Most popular hashtags: #photooftheday #fashion #instagram.
 platform: Instagram
 hits: 3079
 text_top: Analyze the best Instagram profiles on inBeat.

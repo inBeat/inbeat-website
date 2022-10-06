@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Spain In 2021
+title: Top 10 Food TikTok Influencers In Spain In 2022
 description: >-
-  Find top food TikTok influencers in Spain in 2021. Most popular hashtags: #food #fyp #comida #foryou.
+  Find top food TikTok influencers in Spain in 2022. Most popular hashtags: #food #fyp #comida #foryou.
 platform: TikTok
 hits: 74
 text_top: Discover the best TikTok influencers on inBeat.

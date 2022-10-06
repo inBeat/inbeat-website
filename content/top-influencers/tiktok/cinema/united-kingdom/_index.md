@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United Kingdom In 2021
+title: Top 10 Cinema TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top cinema TikTok influencers in United Kingdom in 2021. Most popular hashtags: #fyp #foryou #foryoupage #cinema.
+  Find top cinema TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #foryoupage #cinema.
 platform: TikTok
 hits: 74
 text_top: Discover the top-rated TikTok accounts on inBeat.

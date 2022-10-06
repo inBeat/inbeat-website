@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Toronto In 2021
+title: Top 10 Rappers TikTok Influencers In Toronto In 2022
 description: >-
-  Find top rappers TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
+  Find top rappers TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #foryou #foryoupage #toronto.
 platform: TikTok
 hits: 10
 text_top: Identify the most popular TikTok influencers on inBeat.

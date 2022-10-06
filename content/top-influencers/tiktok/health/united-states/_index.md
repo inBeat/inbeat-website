@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In United States In 2021
+title: Top 10 Health TikTok Influencers In United States In 2022
 description: >-
-  Find top health TikTok influencers in United States in 2021. Most popular hashtags: #duet #fyp #myhobby #biden2020.
+  Find top health TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #myhobby #biden2020.
 platform: TikTok
 hits: 7411
 text_top: Identify the most popular TikTok influencers on inBeat.

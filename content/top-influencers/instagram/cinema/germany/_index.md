@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Germany In 2021
+title: Top 10 Cinema Instagram Influencers In Germany In 2022
 description: >-
-  Find top cinema Instagram influencers in Germany in 2021. Most popular hashtags: #dance #photography #ccf.
+  Find top cinema Instagram influencers in Germany in 2022. Most popular hashtags: #dance #photography #ccf.
 platform: Instagram
 hits: 317
 text_top: Identify the best Instagram profiles on inBeat.
@@ -59,7 +59,7 @@ profiles:
     fullname: >-
       L U W A M   R U S S O M
     bio: >-
-      - forever 23 - dancer / choreographer / creative director 🎥 FLY! 14.01.2021 IN CINEMAS 💌 luwamrussom@gmx.de NEWEST YOUTUBE VIDEO
+      - forever 23 - dancer / choreographer / creative director 🎥 FLY! 14.01.2022 IN CINEMAS 💌 luwamrussom@gmx.de NEWEST YOUTUBE VIDEO
     location: "Germany"
     followers: 5843
     engagement: 1554

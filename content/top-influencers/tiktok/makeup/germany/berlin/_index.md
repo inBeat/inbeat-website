@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Berlin In 2021
+title: Top 10 Makeup TikTok Influencers In Berlin In 2022
 description: >-
-  Find top makeup TikTok influencers in Berlin in 2021. Most popular hashtags: #makeup #foryou #berlin #fyp.
+  Find top makeup TikTok influencers in Berlin in 2022. Most popular hashtags: #makeup #foryou #berlin #fyp.
 platform: TikTok
 hits: 27
 text_top: Identify the best TikTok accounts on inBeat.

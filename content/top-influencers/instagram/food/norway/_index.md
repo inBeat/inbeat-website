@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Norway In 2021
+title: Top 10 Food Instagram Influencers In Norway In 2022
 description: >-
-  Find top food Instagram influencers in Norway in 2021. Most popular hashtags: #selfie #photooftheday #healthyfood.
+  Find top food Instagram influencers in Norway in 2022. Most popular hashtags: #selfie #photooftheday #healthyfood.
 platform: Instagram
 hits: 64
 text_top: Analyze the best Instagram influencers on inBeat.

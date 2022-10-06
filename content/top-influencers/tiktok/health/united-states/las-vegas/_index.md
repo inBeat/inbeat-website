@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Las Vegas In 2021
+title: Top 10 Health TikTok Influencers In Las Vegas In 2022
 description: >-
-  Find top health TikTok influencers in Las Vegas in 2021. Most popular hashtags: #fyp #lasvegas #foryou #health.
+  Find top health TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #lasvegas #foryou #health.
 platform: TikTok
 hits: 17
 text_top: Analyze the best TikTok influencers on inBeat.

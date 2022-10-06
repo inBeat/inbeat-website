@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Mumbai In 2021
+title: Top 10 Lifestyle Instagram Influencers In Mumbai In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Mumbai in 2021. Most popular hashtags: #lifestyle #mumbai #fashion #fashionblogger.
+  Find top lifestyle Instagram influencers in Mumbai in 2022. Most popular hashtags: #lifestyle #mumbai #fashion #fashionblogger.
 platform: Instagram
 hits: 973
 text_top: Analyze the best Instagram profiles on inBeat.

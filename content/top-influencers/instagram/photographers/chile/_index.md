@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Chile In 2021
+title: Top 10 Photographers Instagram Influencers In Chile In 2022
 description: >-
-  Find top photographers Instagram influencers in Chile in 2021. Most popular hashtags: #chile #photo #photography #photooftheday.
+  Find top photographers Instagram influencers in Chile in 2022. Most popular hashtags: #chile #photo #photography #photooftheday.
 platform: Instagram
 hits: 98
 text_top: Analyze the top-rated Instagram accounts on inBeat.

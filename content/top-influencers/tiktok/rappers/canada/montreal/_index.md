@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Montreal In 2021
+title: Top 10 Rappers TikTok Influencers In Montreal In 2022
 description: >-
-  Find top rappers TikTok influencers in Montreal in 2021. Most popular hashtags: #fyp #foryou #foryoupage #music.
+  Find top rappers TikTok influencers in Montreal in 2022. Most popular hashtags: #fyp #foryou #foryoupage #music.
 platform: TikTok
 hits: 4
 text_top: See the best TikTok influencers on inBeat.

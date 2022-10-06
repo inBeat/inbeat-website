@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Cali In 2021
+title: Top 10 Food TikTok Influencers In Cali In 2022
 description: >-
-  Find top food TikTok influencers in Cali in 2021. Most popular hashtags: #food #colombia #comida #parati.
+  Find top food TikTok influencers in Cali in 2022. Most popular hashtags: #food #colombia #comida #parati.
 platform: TikTok
 hits: 4
 text_top: Discover the top-rated TikTok profiles on inBeat.

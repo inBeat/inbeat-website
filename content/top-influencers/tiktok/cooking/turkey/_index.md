@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Turkey In 2021
+title: Top 10 Cooking TikTok Influencers In Turkey In 2022
 description: >-
-  Find top cooking TikTok influencers in Turkey in 2021. Most popular hashtags: #ke #fyp #foryou #cooking.
+  Find top cooking TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #fyp #foryou #cooking.
 platform: TikTok
 hits: 8
 text_top: See the most popular TikTok profiles on inBeat.

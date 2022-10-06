@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Finland In 2021
+title: Top 10 Fashion Instagram Influencers In Finland In 2022
 description: >-
-  Find top fashion Instagram influencers in Finland in 2021. Most popular hashtags: #style #syksy #bestagermodel50plus.
+  Find top fashion Instagram influencers in Finland in 2022. Most popular hashtags: #style #syksy #bestagermodel50plus.
 platform: Instagram
 hits: 84
 text_top: Analyze the best Instagram profiles on inBeat.

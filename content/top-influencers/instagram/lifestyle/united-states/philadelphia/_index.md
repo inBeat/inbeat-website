@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Philadelphia In 2021
+title: Top 10 Lifestyle Instagram Influencers In Philadelphia In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Philadelphia in 2021. Most popular hashtags: #philadelphia #philly #lifestyle.
+  Find top lifestyle Instagram influencers in Philadelphia in 2022. Most popular hashtags: #philadelphia #philly #lifestyle.
 platform: Instagram
 hits: 53
 text_top: Discover the top-rated Instagram accounts on inBeat.

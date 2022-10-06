@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Morocco In 2021
+title: Top 10 Cinema Instagram Influencers In Morocco In 2022
 description: >-
-  Find top cinema Instagram influencers in Morocco in 2021. Most popular hashtags: #morocco #cinema #photography #casablanca.
+  Find top cinema Instagram influencers in Morocco in 2022. Most popular hashtags: #morocco #cinema #photography #casablanca.
 platform: Instagram
 hits: 25
 text_top: Discover the best Instagram accounts on inBeat.

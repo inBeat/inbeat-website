@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Venezuela In 2021
+title: Top 10 Fashion Instagram Influencers In Venezuela In 2022
 description: >-
-  Find top fashion Instagram influencers in Venezuela in 2021. Most popular hashtags: #fashion #beauty #editorial #fashionblogger.
+  Find top fashion Instagram influencers in Venezuela in 2022. Most popular hashtags: #fashion #beauty #editorial #fashionblogger.
 platform: Instagram
 hits: 127
 text_top: Discover the best Instagram profiles on inBeat.

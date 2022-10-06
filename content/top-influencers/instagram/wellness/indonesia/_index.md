@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Indonesia In 2021
+title: Top 10 Wellness Instagram Influencers In Indonesia In 2022
 description: >-
-  Find top wellness Instagram influencers in Indonesia in 2021. Most popular hashtags: #bali #sport #diindonesiaaja.
+  Find top wellness Instagram influencers in Indonesia in 2022. Most popular hashtags: #bali #sport #diindonesiaaja.
 platform: Instagram
 hits: 43
 text_top: Discover the best Instagram influencers on inBeat.

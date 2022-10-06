@@ -2,7 +2,7 @@
     <section class="container-fluid mobile-adjusted what-we-do-influencer" id="{{- .id -}}">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-md-5">
+                <div class="col-xs-12 col-sm-6 col-md-5">
                     {{ if isset . "video" }}
                     <video class="whatwedo_video" autoplay muted loop playsinline>
                         <source src="/videos/{{- .video -}}.mp4" />
@@ -12,11 +12,13 @@
                     <img class="whatwedo_image"src="{{- .image -}}" alt=""> 
                     {{end}}
                 </div>
-                <div class="col-xs-12 col-md-6 whatwedo_description-section">
-                    {{- if .newBadge -}}
-                    <span class="new-badge hide-md">NEW!</span>
-                    {{- end -}}  
-                    <h2 class="whatwedo_description-title">{{- .title -}}</h2>
+                <div class="col-xs-12 col-sm-6 col-md-6 whatwedo_description-section">
+  
+                    <h2 class="whatwedo_description-title mobile-center">
+                      {{- if .newBadge -}}
+                      <span class="new-badge hide-md">NEW!</span>
+                      {{- end -}}  
+                      {{- .title -}}</h2>
                     <p class="whatwedo_description-subtext">{{- .text -}}</p>
                     <div class="cta-whatwedo">
                         <a href="{{- .cta.link -}}" class="btn btn-lg whatwedo-btn" title="Try it now" id="hero-cta" target="_blank">

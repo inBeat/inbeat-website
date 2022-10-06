@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Italy In 2021
+title: Top 10 Gymnasts Instagram Influencers In Italy In 2022
 description: >-
-  Find top gymnasts Instagram influencers in Italy in 2021. Most popular hashtags: #estate2020 #italy #fyp.
+  Find top gymnasts Instagram influencers in Italy in 2022. Most popular hashtags: #estate2020 #italy #fyp.
 platform: Instagram
 hits: 91
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -47,7 +47,7 @@ profiles:
     fullname: >-
       𝐀𝐥𝐞𝐬𝐬𝐢𝐚 𝐌𝐚𝐮𝐫𝐞𝐥𝐥𝐢
     bio: >-
-      Captain of ITA rhythmic gymnastics team🦋🇮🇹 OG Rio2016🇧🇷 | Road to Tokyo2021🇯🇵 Air Force 🛫 ᒐᥱoρᥲɾᑯ ᒐoʋᥱɾ 🐆 📍Milan
+      Captain of ITA rhythmic gymnastics team🦋🇮🇹 OG Rio2016🇧🇷 | Road to Tokyo2022🇯🇵 Air Force 🛫 ᒐᥱoρᥲɾᑯ ᒐoʋᥱɾ 🐆 📍Milan
     location: "Italy"
     followers: 46642
     engagement: 900
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Agnese Duranti
     bio: >-
-      Italian National Team of rhythmic gymnastic 🇮🇹🦋 AM✈️ World Championships 🥇🥇🥈🥉🥉 European Championships 🥈🥇🥈 Road to Tokyo 2021🇯🇵 📍Milan
+      Italian National Team of rhythmic gymnastic 🇮🇹🦋 AM✈️ World Championships 🥇🥇🥈🥉🥉 European Championships 🥈🥇🥈 Road to Tokyo 2022🇯🇵 📍Milan
     location: "Italy"
     followers: 18874
     engagement: 1393
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Alexandra Agiurgiuculese🦊
     bio: >-
-      Individual Gymnast of ITA National Team of Rhythmic Gymnastics 🥇🇮🇹 World championships x3🥉🥉 #roadtotokyo2021🇯🇵 Contact👉🏼 @goldensabrepr
+      Individual Gymnast of ITA National Team of Rhythmic Gymnastics 🥇🇮🇹 World championships x3🥉🥉 #roadtotokyo2022🇯🇵 Contact👉🏼 @goldensabrepr
     location: "Italy"
     followers: 71854
     engagement: 598

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Kyoto In 2021
+title: Top 10 Fitness Instagram Influencers In Kyoto In 2022
 description: >-
-  Find top fitness Instagram influencers in Kyoto in 2021. Most popular hashtags: #fitness #fashion #kyoto #workout.
+  Find top fitness Instagram influencers in Kyoto in 2022. Most popular hashtags: #fitness #fashion #kyoto #workout.
 platform: Instagram
 hits: 10
 text_top: Analyze the best Instagram accounts on inBeat.

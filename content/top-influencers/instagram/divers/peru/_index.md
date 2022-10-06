@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Peru In 2021
+title: Top 10 Divers Instagram Influencers In Peru In 2022
 description: >-
-  Find top divers Instagram influencers in Peru in 2021. Most popular hashtags: #peru #instapic #instagood #latina.
+  Find top divers Instagram influencers in Peru in 2022. Most popular hashtags: #peru #instapic #instagood #latina.
 platform: Instagram
 hits: 29
 text_top: See the best Instagram influencers on inBeat.

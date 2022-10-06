@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Manchester In 2021
+title: Top 10 Health TikTok Influencers In Manchester In 2022
 description: >-
-  Find top health TikTok influencers in Manchester in 2021. Most popular hashtags: #fyp #foryoupage #funny #mentalhealthmatters.
+  Find top health TikTok influencers in Manchester in 2022. Most popular hashtags: #fyp #foryoupage #funny #mentalhealthmatters.
 platform: TikTok
 hits: 5
 text_top: Discover the most popular TikTok profiles on inBeat.

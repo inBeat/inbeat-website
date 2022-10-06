@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs TikTok Influencers In 2021
+title: Top 10 Djs TikTok Influencers In 2022
 description: >-
-  Find top djs TikTok influencers in 2021. Most popular hashtags: #foryou #fyp #viral #dance.
+  Find top djs TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #viral #dance.
 platform: TikTok
 hits: 253
 text_top: Discover the best TikTok influencers on inBeat.

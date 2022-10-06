@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Australia In 2021
+title: Top 10 Graphic-Designers Instagram Influencers In Australia In 2022
 description: >-
-  Find top graphic-designers Instagram influencers in Australia in 2021. Most popular hashtags: #design #illustration #selflove.
+  Find top graphic-designers Instagram influencers in Australia in 2022. Most popular hashtags: #design #illustration #selflove.
 platform: Instagram
 hits: 34
 text_top: Identify the top-rated Instagram profiles on inBeat.

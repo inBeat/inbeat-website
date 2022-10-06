@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Argentina In 2021
+title: Top 10 Models Instagram Influencers In Argentina In 2022
 description: >-
-  Find top models Instagram influencers in Argentina in 2021. Most popular hashtags: #shooting #styleinspo #positiveenergy.
+  Find top models Instagram influencers in Argentina in 2022. Most popular hashtags: #shooting #styleinspo #positiveenergy.
 platform: Instagram
 hits: 406
 text_top: Identify the top-rated Instagram accounts on inBeat.

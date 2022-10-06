@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Berlin In 2021
+title: Top 10 Olympian Athletes Instagram Influencers In Berlin In 2022
 description: >-
-  Find top olympian athletes Instagram influencers in Berlin in 2021. Most popular hashtags: #training #sport #motivation #athlete.
+  Find top olympian athletes Instagram influencers in Berlin in 2022. Most popular hashtags: #training #sport #motivation #athlete.
 platform: Instagram
 hits: 6
 text_top: Identify the most popular Instagram profiles on inBeat.

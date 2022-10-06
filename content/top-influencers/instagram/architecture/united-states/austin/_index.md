@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Austin In 2021
+title: Top 10 Architecture Instagram Influencers In Austin In 2022
 description: >-
-  Find top architecture Instagram influencers in Austin in 2021. Most popular hashtags: #architecture #interiordesign #home #design.
+  Find top architecture Instagram influencers in Austin in 2022. Most popular hashtags: #architecture #interiordesign #home #design.
 platform: Instagram
 hits: 42
 text_top: Analyze the most popular Instagram influencers on inBeat.

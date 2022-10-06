@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Italy In 2021
+title: Top 10 Yoga TikTok Influencers In Italy In 2022
 description: >-
-  Find top yoga TikTok influencers in Italy in 2021. Most popular hashtags: #perte #yoga #viral #foryou.
+  Find top yoga TikTok influencers in Italy in 2022. Most popular hashtags: #perte #yoga #viral #foryou.
 platform: TikTok
 hits: 13
 text_top: Discover the top-rated TikTok profiles on inBeat.

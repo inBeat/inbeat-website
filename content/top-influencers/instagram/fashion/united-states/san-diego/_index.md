@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Diego In 2021
+title: Top 10 Fashion Instagram Influencers In San Diego In 2022
 description: >-
-  Find top fashion Instagram influencers in San Diego in 2021. Most popular hashtags: #sandiego #fashion #losangeles #ootd.
+  Find top fashion Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #fashion #losangeles #ootd.
 platform: Instagram
 hits: 211
 text_top: See the most popular Instagram influencers on inBeat.

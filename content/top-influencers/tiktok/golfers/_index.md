@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers TikTok Influencers In 2021
+title: Top 10 Golfers TikTok Influencers In 2022
 description: >-
-  Find top golfers TikTok influencers in 2021. Most popular hashtags: #fyp #foryou #golf #foryoupage.
+  Find top golfers TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #golf #foryoupage.
 platform: TikTok
 hits: 174
 text_top: See the best TikTok influencers on inBeat.

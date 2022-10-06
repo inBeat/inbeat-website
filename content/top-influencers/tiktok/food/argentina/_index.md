@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Argentina In 2021
+title: Top 10 Food TikTok Influencers In Argentina In 2022
 description: >-
-  Find top food TikTok influencers in Argentina in 2021. Most popular hashtags: #fyp #parati #foryou #food.
+  Find top food TikTok influencers in Argentina in 2022. Most popular hashtags: #fyp #parati #foryou #food.
 platform: TikTok
 hits: 52
 text_top: Analyze the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Capetown In 2021
+title: Top 10 Food Instagram Influencers In Capetown In 2022
 description: >-
-  Find top food Instagram influencers in Capetown in 2021. Most popular hashtags: #capetown #nature #food #fitness.
+  Find top food Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #nature #food #fitness.
 platform: Instagram
 hits: 14
 text_top: Discover the best Instagram accounts on inBeat.

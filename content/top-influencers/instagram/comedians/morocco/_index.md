@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Morocco In 2021
+title: Top 10 Comedians Instagram Influencers In Morocco In 2022
 description: >-
-  Find top comedians Instagram influencers in Morocco in 2021. Most popular hashtags: #morocco #maroc #casablanca.
+  Find top comedians Instagram influencers in Morocco in 2022. Most popular hashtags: #morocco #maroc #casablanca.
 platform: Instagram
 hits: 10
 text_top: Analyze the top-rated Instagram influencers on inBeat.

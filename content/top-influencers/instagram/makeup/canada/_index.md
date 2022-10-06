@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Canada In 2021
+title: Top 10 Makeup Instagram Influencers In Canada In 2022
 description: >-
-  Find top makeup Instagram influencers in Canada in 2021. Most popular hashtags: #hudabeauty #makeuptutorial #makeup #ad.
+  Find top makeup Instagram influencers in Canada in 2022. Most popular hashtags: #hudabeauty #makeuptutorial #makeup #ad.
 platform: Instagram
 hits: 680
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Dallas In 2021
+title: Top 10 Health Instagram Influencers In Dallas In 2022
 description: >-
-  Find top health Instagram influencers in Dallas in 2021. Most popular hashtags: #motivation #fitness #health #healthylifestyle.
+  Find top health Instagram influencers in Dallas in 2022. Most popular hashtags: #motivation #fitness #health #healthylifestyle.
 platform: Instagram
 hits: 120
 text_top: Identify the top-rated Instagram profiles on inBeat.

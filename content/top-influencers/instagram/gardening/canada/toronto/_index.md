@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Toronto In 2021
+title: Top 10 Gardening Instagram Influencers In Toronto In 2022
 description: >-
-  Find top gardening Instagram influencers in Toronto in 2021. Most popular hashtags: #toronto #gardening #nature #stayhome.
+  Find top gardening Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #gardening #nature #stayhome.
 platform: Instagram
 hits: 18
 text_top: Discover the best Instagram influencers on inBeat.

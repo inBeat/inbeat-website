@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Bangladesh In 2021
+title: Top 10 TikTok Influencers In Bangladesh In 2022
 description: >-
-  Find top TikTok influencers in Bangladesh in 2021. Most popular hashtags: #duet #foryou #foryoupage.
+  Find top TikTok influencers in Bangladesh in 2022. Most popular hashtags: #duet #foryou #foryoupage.
 platform: TikTok
 hits: 283
 text_top: See the most popular TikTok accounts on inBeat.

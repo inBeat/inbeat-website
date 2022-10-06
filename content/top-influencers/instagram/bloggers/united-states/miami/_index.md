@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Miami In 2021
+title: Top 10 Bloggers Instagram Influencers In Miami In 2022
 description: >-
-  Find top bloggers Instagram influencers in Miami in 2021. Most popular hashtags: #blogger #miami #makeup #miamiinfluencer.
+  Find top bloggers Instagram influencers in Miami in 2022. Most popular hashtags: #blogger #miami #makeup #miamiinfluencer.
 platform: Instagram
 hits: 202
 text_top: Analyze the most popular Instagram influencers on inBeat.

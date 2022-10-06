@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Cali In 2021
+title: Top 10 Nutrition Instagram Influencers In Cali In 2022
 description: >-
-  Find top nutrition Instagram influencers in Cali in 2021. Most popular hashtags: #fit #workout #fitness #healthy.
+  Find top nutrition Instagram influencers in Cali in 2022. Most popular hashtags: #fit #workout #fitness #healthy.
 platform: Instagram
 hits: 5
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Francisco In 2021
+title: Top 10 Fashion TikTok Influencers In San Francisco In 2022
 description: >-
-  Find top fashion TikTok influencers in San Francisco in 2021. Most popular hashtags: #sanfrancisco #fyp #fashion #california.
+  Find top fashion TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fyp #fashion #california.
 platform: TikTok
 hits: 34
 text_top: Identify the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 {{- define "main" -}}
 <div id="freetoolkit" class="mt-120">
     <section class="container mobile-adjusted page-top " id="freetoolkit-header">
-        <h1>{{- .Params.titre -}}</h1>
+        <h1>{{- .Params.title -}}</h1>
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section class="toolkits container">
@@ -9,7 +9,7 @@
             <div class="tools-card-wrapper">
                 {{- range .Params.toolkits -}}
                         <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_blank">
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_self">
                             <div class="inner">
                                 <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
                                 <div class="content">
@@ -24,7 +24,6 @@
         </div>
     </section>
 </div>
-
 {{- partial "site/ugc-global.html" . -}}
 <!-- {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}} -->
 {{- end -}}

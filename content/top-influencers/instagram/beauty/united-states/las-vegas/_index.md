@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Las Vegas In 2021
+title: Top 10 Beauty Instagram Influencers In Las Vegas In 2022
 description: >-
-  Find top beauty Instagram influencers in Las Vegas in 2021. Most popular hashtags: #photooftheday #photography #travel.
+  Find top beauty Instagram influencers in Las Vegas in 2022. Most popular hashtags: #photooftheday #photography #travel.
 platform: Instagram
 hits: 209
 text_top: See the top-rated Instagram profiles on inBeat.

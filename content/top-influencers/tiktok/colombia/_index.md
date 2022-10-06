@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Colombia In 2021
+title: Top 10 TikTok Influencers In Colombia In 2022
 description: >-
-  Find top TikTok influencers in Colombia in 2021. Most popular hashtags: #greenscreen #colombia #parati #fyp.
+  Find top TikTok influencers in Colombia in 2022. Most popular hashtags: #greenscreen #colombia #parati #fyp.
 platform: TikTok
 hits: 1186
 text_top: Analyze the top-rated TikTok influencers on inBeat.

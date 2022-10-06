@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Chile In 2021
+title: Top 10 Lingerie Instagram Influencers In Chile In 2022
 description: >-
-  Find top lingerie Instagram influencers in Chile in 2021. Most popular hashtags: #lingerie #photography #chile #latina.
+  Find top lingerie Instagram influencers in Chile in 2022. Most popular hashtags: #lingerie #photography #chile #latina.
 platform: Instagram
 hits: 10
 text_top: Discover the most popular Instagram influencers on inBeat.

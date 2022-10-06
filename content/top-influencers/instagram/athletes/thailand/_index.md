@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Thailand In 2021
+title: Top 10 Athletes Instagram Influencers In Thailand In 2022
 description: >-
-  Find top athletes Instagram influencers in Thailand in 2021. Most popular hashtags: #motivation #lifestyle #dedication.
+  Find top athletes Instagram influencers in Thailand in 2022. Most popular hashtags: #motivation #lifestyle #dedication.
 platform: Instagram
 hits: 16
 text_top: Identify the best Instagram profiles on inBeat.

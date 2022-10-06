@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In India In 2021
+title: Top 10 Bloggers TikTok Influencers In India In 2022
 description: >-
-  Find top bloggers TikTok influencers in India in 2021. Most popular hashtags: #foryoupage #foryou #fyp #handwashchallenge.
+  Find top bloggers TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #foryou #fyp #handwashchallenge.
 platform: TikTok
 hits: 93
 text_top: Analyze the best TikTok accounts on inBeat.

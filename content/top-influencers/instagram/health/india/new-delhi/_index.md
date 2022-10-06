@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In New Delhi In 2021
+title: Top 10 Health Instagram Influencers In New Delhi In 2022
 description: >-
-  Find top health Instagram influencers in New Delhi in 2021. Most popular hashtags: #delhi #love #india #fashion.
+  Find top health Instagram influencers in New Delhi in 2022. Most popular hashtags: #delhi #love #india #fashion.
 platform: Instagram
 hits: 27
 text_top: See the most popular Instagram accounts on inBeat.

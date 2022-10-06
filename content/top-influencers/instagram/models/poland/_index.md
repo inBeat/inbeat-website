@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Poland In 2021
+title: Top 10 Models Instagram Influencers In Poland In 2022
 description: >-
-  Find top models Instagram influencers in Poland in 2021. Most popular hashtags: #model #makeup #photoshoot #blonde.
+  Find top models Instagram influencers in Poland in 2022. Most popular hashtags: #model #makeup #photoshoot #blonde.
 platform: Instagram
 hits: 1172
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Konya In 2021
+title: Top 10 Fashion Instagram Influencers In Konya In 2022
 description: >-
-  Find top fashion Instagram influencers in Konya in 2021. Most popular hashtags: #fashion #istanbul #konya #instagood.
+  Find top fashion Instagram influencers in Konya in 2022. Most popular hashtags: #fashion #istanbul #konya #instagood.
 platform: Instagram
 hits: 22
 text_top: Analyze the top-rated Instagram accounts on inBeat.

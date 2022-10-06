@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Colombia In 2021
+title: Top 10 Barbers Instagram Influencers In Colombia In 2022
 description: >-
-  Find top barbers Instagram influencers in Colombia in 2021. Most popular hashtags: #barbershop #cali #photooftheday #photography.
+  Find top barbers Instagram influencers in Colombia in 2022. Most popular hashtags: #barbershop #cali #photooftheday #photography.
 platform: Instagram
 hits: 28
 text_top: Analyze the most popular Instagram profiles on inBeat.

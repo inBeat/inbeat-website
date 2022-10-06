@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Turkey In 2021
+title: Top 10 Makeup TikTok Influencers In Turkey In 2022
 description: >-
-  Find top makeup TikTok influencers in Turkey in 2021. Most popular hashtags: #makeup #ke #fyp #beni.
+  Find top makeup TikTok influencers in Turkey in 2022. Most popular hashtags: #makeup #ke #fyp #beni.
 platform: TikTok
 hits: 46
 text_top: See the top-rated TikTok profiles on inBeat.

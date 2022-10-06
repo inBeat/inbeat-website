@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Malaysia In 2021
+title: Top 10 Fitness Instagram Influencers In Malaysia In 2022
 description: >-
-  Find top fitness Instagram influencers in Malaysia in 2021. Most popular hashtags: #fitness #sudiomoments #holiday.
+  Find top fitness Instagram influencers in Malaysia in 2022. Most popular hashtags: #fitness #sudiomoments #holiday.
 platform: Instagram
 hits: 83
 text_top: Identify the top-rated Instagram profiles on inBeat.

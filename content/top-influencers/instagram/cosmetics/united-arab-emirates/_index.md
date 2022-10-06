@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Cosmetics Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top cosmetics Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #beauty #cosmetics #smile.
+  Find top cosmetics Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #beauty #cosmetics #smile.
 platform: Instagram
 hits: 58
 text_top: Identify the top-rated Instagram profiles on inBeat.
@@ -123,7 +123,7 @@ profiles:
     location: "United Arab Emirates"
     followers: 66405
     engagement: 174
-    commentsToLikes: 0.020212
+    commentsToLikes: 0.020222
     id: ck138lmsbgu390i198uw4zm15
     verified: false
     hashtags: "#dentistdubai, #beforeandafter, #cosmeticsurgery, #naturalveneers"

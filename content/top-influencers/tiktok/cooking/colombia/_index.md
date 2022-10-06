@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Colombia In 2021
+title: Top 10 Cooking TikTok Influencers In Colombia In 2022
 description: >-
-  Find top cooking TikTok influencers in Colombia in 2021. Most popular hashtags: #foryou #cookinghacks #fyp #xyzbca.
+  Find top cooking TikTok influencers in Colombia in 2022. Most popular hashtags: #foryou #cookinghacks #fyp #xyzbca.
 platform: TikTok
 hits: 18
 text_top: See the best TikTok accounts on inBeat.

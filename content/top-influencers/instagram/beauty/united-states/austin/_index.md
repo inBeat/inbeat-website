@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Austin In 2021
+title: Top 10 Beauty Instagram Influencers In Austin In 2022
 description: >-
-  Find top beauty Instagram influencers in Austin in 2021. Most popular hashtags: #beauty #austin #motivation #love.
+  Find top beauty Instagram influencers in Austin in 2022. Most popular hashtags: #beauty #austin #motivation #love.
 platform: Instagram
 hits: 159
 text_top: Discover the top-rated Instagram influencers on inBeat.

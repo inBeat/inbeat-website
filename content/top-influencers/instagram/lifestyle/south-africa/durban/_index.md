@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Durban In 2021
+title: Top 10 Lifestyle Instagram Influencers In Durban In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Durban in 2021. Most popular hashtags: #lifestyle #durban #photography #southafrica.
+  Find top lifestyle Instagram influencers in Durban in 2022. Most popular hashtags: #lifestyle #durban #photography #southafrica.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram influencers on inBeat.

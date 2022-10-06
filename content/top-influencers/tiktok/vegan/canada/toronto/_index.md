@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Toronto In 2021
+title: Top 10 Vegan TikTok Influencers In Toronto In 2022
 description: >-
-  Find top vegan TikTok influencers in Toronto in 2021. Most popular hashtags: #fyp #vegan #toronto #healthy.
+  Find top vegan TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #vegan #toronto #healthy.
 platform: TikTok
 hits: 10
 text_top: See the most popular TikTok accounts on inBeat.

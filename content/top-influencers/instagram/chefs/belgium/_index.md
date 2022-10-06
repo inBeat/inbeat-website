@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Belgium In 2021
+title: Top 10 Chefs Instagram Influencers In Belgium In 2022
 description: >-
-  Find top chefs Instagram influencers in Belgium in 2021. Most popular hashtags: #foodporn #belgium #chef #food.
+  Find top chefs Instagram influencers in Belgium in 2022. Most popular hashtags: #foodporn #belgium #chef #food.
 platform: Instagram
 hits: 9
 text_top: See the best Instagram accounts on inBeat.

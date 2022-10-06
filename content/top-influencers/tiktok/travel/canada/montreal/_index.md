@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Montreal In 2021
+title: Top 10 Travel TikTok Influencers In Montreal In 2022
 description: >-
-  Find top travel TikTok influencers in Montreal in 2021. Most popular hashtags: #montreal #fyp #travel #quebec.
+  Find top travel TikTok influencers in Montreal in 2022. Most popular hashtags: #montreal #fyp #travel #quebec.
 platform: TikTok
 hits: 23
 text_top: Analyze the top-rated TikTok profiles on inBeat.

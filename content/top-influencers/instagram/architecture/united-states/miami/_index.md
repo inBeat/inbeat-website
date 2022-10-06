@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Miami In 2021
+title: Top 10 Architecture Instagram Influencers In Miami In 2022
 description: >-
-  Find top architecture Instagram influencers in Miami in 2021. Most popular hashtags: #miami #architecture #miamibeach #realestate.
+  Find top architecture Instagram influencers in Miami in 2022. Most popular hashtags: #miami #architecture #miamibeach #realestate.
 platform: Instagram
 hits: 85
 text_top: See the most popular Instagram profiles on inBeat.

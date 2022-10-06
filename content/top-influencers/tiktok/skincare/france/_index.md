@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In France In 2021
+title: Top 10 Skincare TikTok Influencers In France In 2022
 description: >-
-  Find top skincare TikTok influencers in France in 2021. Most popular hashtags: #skincare #makeup #foryou #pourtoi.
+  Find top skincare TikTok influencers in France in 2022. Most popular hashtags: #skincare #makeup #foryou #pourtoi.
 platform: TikTok
 hits: 56
 text_top: See the top-rated TikTok influencers on inBeat.

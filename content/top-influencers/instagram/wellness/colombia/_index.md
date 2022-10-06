@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Colombia In 2021
+title: Top 10 Wellness Instagram Influencers In Colombia In 2022
 description: >-
-  Find top wellness Instagram influencers in Colombia in 2021. Most popular hashtags: #wellness #colombia #medellin #dance.
+  Find top wellness Instagram influencers in Colombia in 2022. Most popular hashtags: #wellness #colombia #medellin #dance.
 platform: Instagram
 hits: 24
 text_top: Discover the most popular Instagram accounts on inBeat.

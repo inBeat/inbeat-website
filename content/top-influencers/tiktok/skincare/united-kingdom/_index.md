@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United Kingdom In 2021
+title: Top 10 Skincare TikTok Influencers In United Kingdom In 2022
 description: >-
-  Find top skincare TikTok influencers in United Kingdom in 2021. Most popular hashtags: #skincare #fyp #skincareroutine #makeup.
+  Find top skincare TikTok influencers in United Kingdom in 2022. Most popular hashtags: #skincare #fyp #skincareroutine #makeup.
 platform: TikTok
 hits: 223
 text_top: Identify the best TikTok accounts on inBeat.

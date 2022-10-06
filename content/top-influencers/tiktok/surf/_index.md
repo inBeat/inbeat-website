@@ -1,7 +1,7 @@
 ---
-title: Top 10 Surf TikTok Influencers In 2021
+title: Top 10 Surf TikTok Influencers In 2022
 description: >-
-  Find top surf TikTok influencers in 2021. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top surf TikTok influencers in 2022. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
 hits: 1085
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Norway In 2021
+title: Top 10 Fashion Instagram Influencers In Norway In 2022
 description: >-
-  Find top fashion Instagram influencers in Norway in 2021. Most popular hashtags: #ootdfashion #thenewbieroom #newbiebykappahl.
+  Find top fashion Instagram influencers in Norway in 2022. Most popular hashtags: #ootdfashion #thenewbieroom #newbiebykappahl.
 platform: Instagram
 hits: 130
 text_top: Identify the top-rated Instagram accounts on inBeat.

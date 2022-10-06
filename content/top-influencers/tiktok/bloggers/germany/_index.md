@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Germany In 2021
+title: Top 10 Bloggers TikTok Influencers In Germany In 2022
 description: >-
-  Find top bloggers TikTok influencers in Germany in 2021. Most popular hashtags: #foryou #fyp #viral #fashion.
+  Find top bloggers TikTok influencers in Germany in 2022. Most popular hashtags: #foryou #fyp #viral #fashion.
 platform: TikTok
 hits: 23
 text_top: Analyze the most popular TikTok profiles on inBeat.

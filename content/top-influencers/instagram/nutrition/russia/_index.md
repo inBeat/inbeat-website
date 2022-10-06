@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Russia In 2021
+title: Top 10 Nutrition Instagram Influencers In Russia In 2022
 description: >-
-  Find top nutrition Instagram influencers in Russia in 2021. Most popular hashtags: #foodphotography #foodphoto #recipes.
+  Find top nutrition Instagram influencers in Russia in 2022. Most popular hashtags: #foodphotography #foodphoto #recipes.
 platform: Instagram
 hits: 51
 text_top: See the most popular Instagram accounts on inBeat.

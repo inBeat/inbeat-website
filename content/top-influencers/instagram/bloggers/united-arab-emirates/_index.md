@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In United Arab Emirates In 2021
+title: Top 10 Bloggers Instagram Influencers In United Arab Emirates In 2022
 description: >-
-  Find top bloggers Instagram influencers in United Arab Emirates in 2021. Most popular hashtags: #dubai #makeup #dubaiblogger.
+  Find top bloggers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #makeup #dubaiblogger.
 platform: Instagram
 hits: 209
 text_top: Identify the most popular Instagram accounts on inBeat.

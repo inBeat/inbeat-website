@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Colombia In 2021
+title: Top 10 Health Instagram Influencers In Colombia In 2022
 description: >-
-  Find top health Instagram influencers in Colombia in 2021. Most popular hashtags: #fitness #healthy #healthyfood #healthylifestyle.
+  Find top health Instagram influencers in Colombia in 2022. Most popular hashtags: #fitness #healthy #healthyfood #healthylifestyle.
 platform: Instagram
 hits: 129
 text_top: See the most popular Instagram profiles on inBeat.

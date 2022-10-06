@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Bali In 2021
+title: Top 10 Models Instagram Influencers In Bali In 2022
 description: >-
-  Find top models Instagram influencers in Bali in 2021. Most popular hashtags: #bali #model #balilife #balimodel.
+  Find top models Instagram influencers in Bali in 2022. Most popular hashtags: #bali #model #balilife #balimodel.
 platform: Instagram
 hits: 124
 text_top: Identify the top-rated Instagram accounts on inBeat.

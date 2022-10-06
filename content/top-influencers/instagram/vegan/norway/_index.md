@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Norway In 2021
+title: Top 10 Vegan Instagram Influencers In Norway In 2022
 description: >-
-  Find top vegan Instagram influencers in Norway in 2021. Most popular hashtags: #benice #govegan #greenfluencer.
+  Find top vegan Instagram influencers in Norway in 2022. Most popular hashtags: #benice #govegan #greenfluencer.
 platform: Instagram
 hits: 37
 text_top: Analyze the best Instagram influencers on inBeat.

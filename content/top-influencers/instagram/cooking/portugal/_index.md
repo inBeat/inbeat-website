@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Portugal In 2021
+title: Top 10 Cooking Instagram Influencers In Portugal In 2022
 description: >-
-  Find top cooking Instagram influencers in Portugal in 2021. Most popular hashtags: #family #food #cooking #foodphotography.
+  Find top cooking Instagram influencers in Portugal in 2022. Most popular hashtags: #family #food #cooking #foodphotography.
 platform: Instagram
 hits: 81
 text_top: See the most popular Instagram profiles on inBeat.

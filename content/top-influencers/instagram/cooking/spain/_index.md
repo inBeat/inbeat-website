@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Spain In 2021
+title: Top 10 Cooking Instagram Influencers In Spain In 2022
 description: >-
-  Find top cooking Instagram influencers in Spain in 2021. Most popular hashtags: #cooking #yummy #foodie #realfood.
+  Find top cooking Instagram influencers in Spain in 2022. Most popular hashtags: #cooking #yummy #foodie #realfood.
 platform: Instagram
 hits: 115
 text_top: Discover the best Instagram profiles on inBeat.

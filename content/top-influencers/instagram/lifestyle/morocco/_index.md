@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Morocco In 2021
+title: Top 10 Lifestyle Instagram Influencers In Morocco In 2022
 description: >-
-  Find top lifestyle Instagram influencers in Morocco in 2021. Most popular hashtags: #style #fashion #makeup #morocco.
+  Find top lifestyle Instagram influencers in Morocco in 2022. Most popular hashtags: #style #fashion #makeup #morocco.
 platform: Instagram
 hits: 165
 text_top: Identify the top-rated Instagram accounts on inBeat.

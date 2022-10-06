@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Russia In 2021
+title: Top 10 Rappers Instagram Influencers In Russia In 2022
 description: >-
-  Find top rappers Instagram influencers in Russia in 2021. Most popular hashtags: #rap #music #instagroove.
+  Find top rappers Instagram influencers in Russia in 2022. Most popular hashtags: #rap #music #instagroove.
 platform: Instagram
 hits: 17
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Colombia In 2021
+title: Top 10 Stylists Instagram Influencers In Colombia In 2022
 description: >-
-  Find top stylists Instagram influencers in Colombia in 2021. Most popular hashtags: #ootd #fashion #publicidad.
+  Find top stylists Instagram influencers in Colombia in 2022. Most popular hashtags: #ootd #fashion #publicidad.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram profiles on inBeat.

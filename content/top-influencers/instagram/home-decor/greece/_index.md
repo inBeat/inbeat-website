@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Greece In 2021
+title: Top 10 Home Decor Instagram Influencers In Greece In 2022
 description: >-
-  Find top home decor Instagram influencers in Greece in 2021. Most popular hashtags: #homedecor #greece #giveaway #fashion.
+  Find top home decor Instagram influencers in Greece in 2022. Most popular hashtags: #homedecor #greece #giveaway #fashion.
 platform: Instagram
 hits: 34
 text_top: Discover the most popular Instagram influencers on inBeat.

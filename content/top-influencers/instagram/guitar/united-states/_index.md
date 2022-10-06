@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In United States In 2021
+title: Top 10 Guitar Instagram Influencers In United States In 2022
 description: >-
-  Find top guitar Instagram influencers in United States in 2021. Most popular hashtags: #fender #guitarist #guitar.
+  Find top guitar Instagram influencers in United States in 2022. Most popular hashtags: #fender #guitarist #guitar.
 platform: Instagram
 hits: 2223
 text_top: See the top-rated Instagram accounts on inBeat.

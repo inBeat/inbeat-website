@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Tokyo In 2021
+title: Top 10 Home Decor Instagram Influencers In Tokyo In 2022
 description: >-
-  Find top home decor Instagram influencers in Tokyo in 2021. Most popular hashtags: #homedecor #interior #japan #interiordesign.
+  Find top home decor Instagram influencers in Tokyo in 2022. Most popular hashtags: #homedecor #interior #japan #interiordesign.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram influencers on inBeat.

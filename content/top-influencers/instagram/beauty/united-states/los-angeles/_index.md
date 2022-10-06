@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Los Angeles In 2021
+title: Top 10 Beauty Instagram Influencers In Los Angeles In 2022
 description: >-
-  Find top beauty Instagram influencers in Los Angeles in 2021. Most popular hashtags: #beauty #fashion #love #losangeles.
+  Find top beauty Instagram influencers in Los Angeles in 2022. Most popular hashtags: #beauty #fashion #love #losangeles.
 platform: Instagram
 hits: 789
 text_top: See the most popular Instagram profiles on inBeat.

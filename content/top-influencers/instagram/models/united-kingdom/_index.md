@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In United Kingdom In 2021
+title: Top 10 Models Instagram Influencers In United Kingdom In 2022
 description: >-
-  Find top models Instagram influencers in United Kingdom in 2021. Most popular hashtags: #likeforlike #desifashion #mixedracegirl.
+  Find top models Instagram influencers in United Kingdom in 2022. Most popular hashtags: #likeforlike #desifashion #mixedracegirl.
 platform: Instagram
 hits: 1971
 text_top: Analyze the top-rated Instagram accounts on inBeat.

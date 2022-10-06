@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Belgium In 2021
+title: Top 10 Health TikTok Influencers In Belgium In 2022
 description: >-
-  Find top health TikTok influencers in Belgium in 2021. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
+  Find top health TikTok influencers in Belgium in 2022. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
 platform: TikTok
 hits: 14
 text_top: Analyze the top-rated TikTok accounts on inBeat.

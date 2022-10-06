@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Australia In 2021
+title: Top 10 Home Decor TikTok Influencers In Australia In 2022
 description: >-
-  Find top home decor TikTok influencers in Australia in 2021. Most popular hashtags: #homedecor #fyp #howto #kolors.
+  Find top home decor TikTok influencers in Australia in 2022. Most popular hashtags: #homedecor #fyp #howto #kolors.
 platform: TikTok
 hits: 52
 text_top: Discover the top-rated TikTok influencers on inBeat.

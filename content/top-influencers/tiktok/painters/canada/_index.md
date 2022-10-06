@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Canada In 2021
+title: Top 10 Painters TikTok Influencers In Canada In 2022
 description: >-
-  Find top painters TikTok influencers in Canada in 2021. Most popular hashtags: #painter #artist #art #fyp.
+  Find top painters TikTok influencers in Canada in 2022. Most popular hashtags: #painter #artist #art #fyp.
 platform: TikTok
 hits: 98
 text_top: Analyze the best TikTok influencers on inBeat.

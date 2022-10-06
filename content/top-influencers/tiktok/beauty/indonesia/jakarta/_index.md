@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Jakarta In 2021
+title: Top 10 Beauty TikTok Influencers In Jakarta In 2022
 description: >-
-  Find top beauty TikTok influencers in Jakarta in 2021. Most popular hashtags: #fyp #foryou #duet #jakarta.
+  Find top beauty TikTok influencers in Jakarta in 2022. Most popular hashtags: #fyp #foryou #duet #jakarta.
 platform: TikTok
 hits: 7
 text_top: Analyze the most popular TikTok accounts on inBeat.

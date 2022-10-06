@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Houston In 2021
+title: Top 10 Food Instagram Influencers In Houston In 2022
 description: >-
-  Find top food Instagram influencers in Houston in 2021. Most popular hashtags: #houstonfood #houston #houstoneats.
+  Find top food Instagram influencers in Houston in 2022. Most popular hashtags: #houstonfood #houston #houstoneats.
 platform: Instagram
 hits: 106
 text_top: See the best Instagram profiles on inBeat.

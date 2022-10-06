@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In United States In 2021
+title: Top 10 Rappers Instagram Influencers In United States In 2022
 description: >-
-  Find top rappers Instagram influencers in United States in 2021. Most popular hashtags: #blackouttuesday #may29 #unitedwestand.
+  Find top rappers Instagram influencers in United States in 2022. Most popular hashtags: #blackouttuesday #may29 #unitedwestand.
 platform: Instagram
 hits: 1041
 text_top: Discover the top-rated Instagram profiles on inBeat.
