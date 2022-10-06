@@ -1,13 +1,27 @@
+.mobile-center{
+  @include breakpoint(sm-down) {
+    text-align: center !important;
+
+  }
+}
 .ugc-global-section {
     background: $light_grey;
     padding: 32px 20px 64px;
     text-align: center;
+
+      @include breakpoint(md-down) {
+        .whatwedo_video{
+            display: none;
+          }
+      }
+
     .whatwedo_description-title{
         margin-top: 2rem;
         font-weight: 400;
         font-size: 2.25rem;
         line-height: 2.62rem;
         letter-spacing: -1px;
+        text-align: left;
         @include breakpoint(md) {
             font-weight: 500;
             font-size: 3.5rem;
@@ -25,6 +39,7 @@
         .whatwedo_description-title{
             margin-top: 2rem;
             margin-bottom: 24px !important;
+
         }
     }
     @include breakpoint(sm) {
@@ -37,7 +52,9 @@
     @include breakpoint(md) {
         .whatwedo_description-title{
             text-align: left;
+      
         }
+
     }
     .whatwedo_image, .whatwedo_video {
         width: 100%;
@@ -56,7 +73,7 @@
         }
         .whatwedo_description-subtext{
             margin-bottom: 0rem !important;
-            text-align: center;
+            text-align: left;
             @include breakpoint(md) {
                 opacity: 0.75;
                 text-align: left;
@@ -66,7 +83,7 @@
             .whatwedo-btn{
                 border: none;
                 display: block;
-                width: 100%;
+                float: left;
                 margin-top: 2rem;
                 @include breakpoint(md) {
                     width: max-content;

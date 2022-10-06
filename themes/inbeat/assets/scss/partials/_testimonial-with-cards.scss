@@ -1,0 +1,175 @@
+.testimonials-influencer {
+	background-color: $light_grey;
+	padding-top: 64px;
+	@include breakpoint(md-down) {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+    @include breakpoint(lg) {
+        padding-top: 110px;
+    }
+	.testimonial-container{
+		@include breakpoint(md-down) {
+			width: auto;
+		}
+	}
+	.m-tb-40{
+		@include breakpoint(md-down) {
+			margin-top: 14px;
+			margin-bottom: 64px;
+		}
+		@include breakpoint(md) {
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+	}
+	h3{
+		@include breakpoint(md-down) {
+			font-size: 1.625rem;
+			line-height: 2rem;
+		}
+	}
+	.clients_card-container{
+		// margin-left: -2rem;
+		// margin-right: -1.5rem;
+		display: flex;
+		@include breakpoint(md-down) {
+			width: 100%;
+			display: block;
+		}
+		// overflow-x: scroll;
+		.client-card{
+			margin-top: 50px;
+			// height: 100%;
+			@include breakpoint(lg) {
+				margin-top: 80px;
+			}
+		}
+		@include breakpoint(md) {
+			margin: 0;
+			overflow-x: hidden !important;
+		}
+		// .flickity-prev-next-button{
+		// 	display: none !important;
+		// }
+		// .flickity-slider{
+		// 	left: 20px !important;
+		// }
+		.flickity-viewport{
+
+			// margin-right: -3rem;
+		}
+		.flickity-page-dots{
+			bottom: unset;
+			top: 0;
+		}
+	}
+	.box {
+		@include breakpoint(md-down) {
+			margin: 0.625rem;
+		}
+		display: flex;
+		.inner-box {
+			width: 240px;
+			background-color: $white;
+			padding: 45px 32px;
+			@include breakpoint(sm) {
+				width: 350px;
+			}
+			p {
+				margin: 0;
+				padding: 0;
+			}
+			.client {
+				padding-top: 32px;
+				display: flex;
+				img {
+					float: left;
+					align-self: center;
+				}
+				.client-info {
+					padding-left: 25px;
+
+					.job {
+						opacity: 0.7;
+						color: $dark_sub;
+						br{
+							display: none;
+						}
+						@include breakpoint(sm-down){
+							br{
+								display: inline;
+							}
+						}
+					}
+				}
+			}
+	
+		}
+	}
+	.icon-group{
+		display: flex; 
+		overflow:hidden; 
+		gap: 34px;
+		align-items: center;
+		margin: 0;
+		padding: 0px 2rem;
+		@include breakpoint(md) {
+			padding: 0px 0rem;
+			justify-content: space-around;
+			gap: 0;
+			width: 76.8rem;
+		}
+	}
+}
+.clients-influencer{
+    background-color: $light_grey;
+	padding: 110px 0px 97px 0px;
+	@include breakpoint(md-down) {
+		padding-bottom: 70px;
+		padding-top: 64px;
+	}
+	width: 100%;
+	overflow:hidden;
+  .slider-static {
+	  @include breakpoint(md-down) {
+		  display: none;
+	  }
+	  display: flex;
+	  align-items: center;
+	  justify-content: space-between;
+  }
+  
+  .slide {
+	  display: flex;
+	  justify-content: center;
+	  @include breakpoint(md-down) {
+		  padding: 0px 42px;
+	}
+	  &.stack-logo{
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
+		  flex-direction: column;
+		  gap: 55px;
+      margin-bottom: 55px;
+	  }
+  }
+  .slider{
+	  @include breakpoint(md) {
+		  margin-bottom: 1rem;
+		  display: none;
+	  }
+
+	  .slick-track{
+		  display: flex;
+		  align-items: center;
+		  @include breakpoint(sm) {
+			gap: 2rem;
+		}
+		  @include breakpoint(md) {
+			gap: unset;
+		}
+	  }	
+  }
+}
