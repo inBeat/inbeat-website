@@ -3,11 +3,6 @@
         <div class="container testimonial-container"> 
             <div>
                 <div class="col-xs-12 col-md-12 align-center"><h3>{{- .title -}}</h3></div>
-                <!-- <div class="navigator hide-md-up">
-                    {{- range $elem_index, $elem_val := .client -}}
-                    <div class="testimonial_circle" @click="scrollTo($elem_index)"></div>
-                    {{- end -}}
-                </div> -->
                 <div class="clients_card-container">
                         {{- range .client -}}
                             <div class="col-md-4 box client-card" > 
@@ -30,8 +25,6 @@
 </section>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <!-- Already included in the ugc-studio page -->
-<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
     function initilezeFlickity(){
         var elem = document.querySelectorAll('.clients_card-container');
