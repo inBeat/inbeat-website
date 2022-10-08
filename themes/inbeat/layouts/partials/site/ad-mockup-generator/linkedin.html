@@ -107,10 +107,10 @@
                     </p>
                     <div class="input-wrapper">
                         <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="Linkedin.com" maxlength="20" />
+                          class="mockup-input" placeholder="Linkedin.com" :maxlength="activeAd.type !== 'Carousel' ? 20 : 60" />
                     </div>
                   </div>
-                  <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.type !== 'Carousel'">
                     <h4 class="mockup__title">
                      Link
                     </h4>
@@ -132,7 +132,7 @@
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
                 </div>
-                <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count">
                   <h4 class="mockup__title">
                     Likes
                   </h4>
@@ -142,7 +142,7 @@
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                   @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
                 </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
                     Comments
                   </h4>
@@ -152,7 +152,7 @@
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'commentCount')">
                 </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.id !== 3">
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
                     Share
                   </h4>
@@ -209,7 +209,7 @@
                           </uploader>
                             <div class="linkedin__carousel-cta">
                                 <span class="slide-text">
-                                    Contact us and learn more about our expertise
+                                    {websiteName}
                                 </span>
                                 <div class="linkedin-cta-button">{selectedPreviewCTA.name}</div>
                               </div>
@@ -244,7 +244,7 @@
                           </div>
                         </div>
                         <div class="comment_share-sec">
-                          {commentCount} comment {shareCount} share
+                          {commentCount} {commentCount.length > 1 ? 'comments' : 'comment'} {shareCount} {shareCount.length > 1 ? 'shares' : 'share'}
                         </div>
                       </div>
                     <div class="linkedin__like-comment-cta">

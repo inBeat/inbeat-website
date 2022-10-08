@@ -241,7 +241,7 @@
                             {{- partial "icons/facebook-love.html" -}}
                           </div>
                           <div class="react-sec">
-                            Joe Soap and {likes} others
+                            Joe Soap and {likes} {likes.length > 1 ? 'others' : 'other'}
                           </div>
                         </div>
                         <div class="comment_share-sec">
@@ -603,6 +603,16 @@
             //     resolution: '1080x1920'
             //   },
               {
+                id:5,
+                type:'Tall Video',
+                ratio:'4:5',
+                img:'portrait',
+                widthR: 4,
+                heightR: 5,
+                req: 80,
+                resolution: '1080x1350'
+              },
+              {
                 id:4,
                 type:'Carousel',
                 ratio:'1:1',
@@ -611,7 +621,7 @@
                 heightR: 1,
                 req: 80 ,
                 resolution: '1080x1080'
-              }
+              },
             ],
               activeAd: {
                 id:1,

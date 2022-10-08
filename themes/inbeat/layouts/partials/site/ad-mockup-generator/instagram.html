@@ -173,7 +173,7 @@
                   </div>
                   <div class="preview-description">
                     <div class="previwe-likes">
-                      {likes} Likes
+                      {likes} {likes.length > 1 ? 'Likes' : 'Like'}
                     </div>
                     <div class="preview-caption" id="preview-caption"
                       :style="{height: caption.length < 106 ? '34px !important':'34px'}">
