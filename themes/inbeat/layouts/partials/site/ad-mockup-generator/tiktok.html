@@ -151,11 +151,12 @@
                 </div>
               </div>
             </div>
-            <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
+            <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section tiktok-mockup-preview"
               id="mockup-preview">
               <div class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
-                    <div class="ib_tiktok-mockup-wrapper" id="ib_tiktok-mockup-wrapper" :style="getComputedHeight">
+                  <div id="tiktok-mockup">
+                    <div class="ib_tiktok-mockup-wrapper-body" id="ib_tiktok-mockup-wrapper-body" :style="getComputedHeight">
                       <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                        <div class="tiktok_mockup-header">
@@ -231,6 +232,14 @@
                         </div>
                       </div>
                     </div>
+                      <div class="ib_tiktok-footer">
+                        {{- partial "icons/home-tiktok.html" -}}
+                        {{- partial "icons/discover-tiktok.html" -}}
+                        {{- partial "icons/tiktok-plus.html" -}}
+                        {{- partial "icons/tiktok-inbox.html" -}}
+                        {{- partial "icons/tiktok-me.html" -}}
+                      </div>
+                  </div>
                 </div>
               </div>
               <div class="preview-download-wrapper">
@@ -600,7 +609,7 @@
               console.log(e)
           },
           downloadPng(){
-            var preview = document.getElementById('ib_tiktok-mockup-wrapper')
+            var preview = document.getElementById('tiktok-mockup')
             html2canvas(preview)
             .then(function(canvas){
               var link = document.createElement('a');
@@ -610,7 +619,7 @@
             })
           },
           copyImage(){
-            var preview = document.getElementById('ib_tiktok-mockup-wrapper')
+            var preview = document.getElementById('tiktok-mockup')
               navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
               if (result.state == "granted" || result.state == "prompt") {
                 html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
