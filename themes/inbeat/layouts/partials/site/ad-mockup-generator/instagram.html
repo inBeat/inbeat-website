@@ -172,8 +172,8 @@
                     {{- partial "icons/save.html" -}}
                   </div>
                   <div class="preview-description">
-                    <div class="previwe-likes">
-                      {likes} {likes.length > 1 ? 'Likes' : 'Like'}
+                    <div class="previwe-likes" :key="likes">
+                      {likes} {likes > 1 ? 'Likes' : 'Like'}
                     </div>
                     <div class="preview-caption" id="preview-caption"
                       :style="{height: caption.length < 106 ? '34px !important':'34px'}">
@@ -650,7 +650,7 @@
         adTypeClick(adType){
           if(this.activeAd.id !== adType.id){
             this.$refs.messageError.innerHTML = '';
-            this.clearFields()
+            this.clearFields();
             this.activeAd =  adType
             this.$nextTick(() => {
               this.setHeight(adType.req)
@@ -727,7 +727,7 @@
           this.dpSrc = null,
           this.postSrc = [],
           this.caption='',
-          this.likes=null,
+          this.likes=15,
           this.profileName = '',
           this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
           this.activePost = 0
