@@ -826,15 +826,14 @@
       computed: {
         getComputedHeight() {
           let  ele= document.getElementById(this.activeAd.id === 4 ?'facebook__carousel-slide':'mockup-download-img')
-          let width = ele ? this.activeAd.id === 4 ? ele.offsetWidth : ele.offsetWidth - 50 : 300
-          return {
-            height: this.activeAd.id === 1 || this.activeAd.id === 4 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':this.activeAd.id === 5 ? ((5/4)* width) + 'px' :this.activeAd.id === 3 ? ((16/9)* width) + 'px':'417px',
-          };
-          },
+          let previewWidth = ele ? this.activeAd.id === 4 ? ele.offsetWidth : ele.offsetWidth - 50 : 300
+          let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+          return{ height: affectiveHeight };
         },
-        delimiters: ['{', '}'],
-      });
-      </script>
+      },
+      delimiters: ['{', '}'],
+    });
+    </script>
       <script>
           const glide = new Glide('.glide',{
             type: 'slider',
