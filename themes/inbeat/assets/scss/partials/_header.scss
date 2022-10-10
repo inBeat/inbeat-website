@@ -35,7 +35,7 @@
     .announcement {
       display: flex;
       flex-direction: column;
-      color: white;
+      color: #ffffff;
       margin-left: auto;
       z-index: 999;
 
@@ -45,6 +45,7 @@
         font-weight: bold;
         letter-spacing: 0.005em;
         margin: 0;
+        color: #ffffff;
       }
 
       h1 {
@@ -54,6 +55,7 @@
         letter-spacing: -0.3px;
         max-width: 195px;
         margin-top: 32px;
+        color: #ffffff;
       }
 
       .btn {
