@@ -142,18 +142,22 @@
                     </div>
                     {{- partial "icons/more-option.html" -}}
                   </div>
-                  <div v-if="activeAd.id !== 4" class="preview-body" id="post-body" :style="getComputedHeight">
+                  <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)" >
+                  <div class="preview-body" id="post-body" :style="getComputedHeight">
                     <img v-if="postSrc[0]" class="preview-image-body" :src="postSrc[postSrc.length - 1]" alt="">
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                         recommended<span></span>
                   </div>
-                  <div v-else class="preview-body" id="post-body" :style="getComputedHeight">
-                    <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
-                      ?postSrc.length:2}</span>
-                    <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                        recommended</span></span>
-                    <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
-                  </div>
+                  </uploader>
+                  <!-- <uploader  :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
+                  <div v-else  class="preview-body" id="post-body" :style="getComputedHeight">
+                      <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
+                        ?postSrc.length:2}</span>
+                      <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                          recommended</span></span>
+                      <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
+                    </div>
+                  <!-- </uploader> -->
                   <div class="preview_banner-wrapper">
                     <div class="preview-banner-cta">
                       <span>{selectedPreviewCTA.name}</span>
@@ -206,6 +210,7 @@
                       </div>
                     </div>
                   </div>
+                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                   <div class="preview-body" id="story-body" :style="getComputedHeight">
                     <div class="story-overlay"></div>
                     <img class="preview-image-body" v-if="postSrc[0]"
@@ -213,6 +218,7 @@
                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                         recommended</span></span>
                   </div>
+                  </uploader>
                   <div class="story__preview-footer">
                     <div class="cta">
                       {{- partial "icons/up-chevron.html" -}}
