@@ -110,6 +110,26 @@
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
+                    Website
+                  </h4>
+                  <p class="mockup__description">
+                    Set the user id of your post. with no white space.
+                  </p>
+                  <input v-model="website" @keyDown="onKeyDown" type="text" id="account-name-input"
+                  class="mockup-input" placeholder="canadacomputers.com" maxlength="20" />
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
+                    Description
+                  </h4>
+                  <p class="mockup__description">
+                    Set the user id of your post. with no white space.
+                  </p>
+                  <input v-model="description" type="text" id="account-name-input"
+                  class="mockup-input" placeholder="Find it at Canada Computers" maxlength="60" />
+                </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
                     Comments
                   </h4>
                   <p class="mockup__description">
@@ -170,7 +190,7 @@
                               <div v-for="post in activeAd.id=== 3  ? postSrc[0] ?  postSrc : [1,2] : [1]"  :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
                                 <uploader :multiple="activeAd.id === 3 ? true : false"
                                 @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                                  <div class="twitter-post" id="twitter-post" :style="getComputedHeight">
+                                  <div class="twitter-post" :id="activeAd.id=== 3 ? post : 'twitter-post'" :style="getComputedHeight">
                                     <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">
                                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                                         recommended<span></span>
@@ -178,10 +198,10 @@
                                 </uploader>
                                   <div class="twitter-post-description">
                                       <div class="link">
-                                        canadacomputers.com
+                                        {website ? website:'canadacomputers.com'}
                                       </div>
                                       <div class="text">
-                                        Find it at Canada Computers
+                                        {description ? description:'Find it at Canada Computers'}
                                       </div>
                                   </div>
                               </div>
@@ -523,6 +543,8 @@
               likes: 15,
               caption: '',
               displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
+              description: '',
+              website:'',
               captionValue: '',
               seeMoreDisplayValue: '',
               activePost: 0,
@@ -733,6 +755,8 @@
             this.shareCount= 15,
             this.profileName = '',
             this.profileUserId = '',
+            this.website = '',
+            this.description = '',
             this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
             this.activePost = 0
           },
@@ -754,12 +778,15 @@
             }
           },
           setPreviewRatio(){
-            let el = document.getElementById('twitter-post')
+            let el = this.activeAd.id !== 3 ? document.getElementById('twitter-post') : document.getElementsByClassName('twitter-post')[0]
             let  width= el.offsetWidth
-            let target = document.getElementById('twitter-post')
+            console.log('hellp',width)
+            let target = document.getElementsByClassName('twitter-post')
             let height =  this.activeAd.id === 1 || this.activeAd.id === 3 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':'417px'
-            if(target){
-              target.style.height = height
+            for (var i = 0; i < target.length; i++) {
+               if(target[i]){
+                target[i].style.height = height
+               }
             }
           },
           setActiveTab(){
@@ -771,19 +798,21 @@
           },
           slideNext(){
             let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
-            this.left += 320
+            this.left += 380    
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
             })
+            this.setPreviewRatio()
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
-            this.left -= 320
+            this.left -= 380
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
             })
+            this.setPreviewRatio()
           },
       },
       mounted(){
@@ -799,9 +828,7 @@
       },
       computed: {
         getComputedHeight() {
-          let  width= document.getElementById('twitter-post').offsetWidth
-          console.log(document.getElementById('twitter-post'))
-          console.log(width)
+          let  width= document.getElementsByClassName('twitter-post')[0].offsetWidth
           return {
             height: this.activeAd.id === 1 || this.activeAd.id === 3 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':'417px',
           };

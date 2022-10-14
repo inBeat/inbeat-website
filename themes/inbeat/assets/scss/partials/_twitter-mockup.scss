@@ -23,7 +23,7 @@
             -moz-box-sizing: border-box;
             -webkit-box-sizing: border-box;
             box-sizing: border-box;
-            width: 336.33px;
+            width: 318.33px;
             position: relative;
             &:hover{
                 .btn{
@@ -37,7 +37,7 @@
                 width: 49px;
                 border-radius: 50%;
                 position: absolute;
-                top: 40%;
+                top: 49%;
                 color: #66676B;
                 display: flex;
                 align-items: center;
@@ -51,7 +51,7 @@
                 right: 14px;
               }
               .btn-prev{
-                left: -14px;
+                left: -72px;
             }
             
         }
@@ -90,6 +90,7 @@
             overflow-x: scroll;
             gap: 10px;
             margin-left: -80px;
+            
             &::-webkit-scrollbar {
                 display: none;
             }
@@ -97,6 +98,7 @@
             .twitter__post-body-section{
                 margin-right: 0px;
                 flex-shrink: 0;
+                height: fit-content;
                 &:last-child{
                     margin-right: 10px;
                 }
