@@ -27,6 +27,7 @@
         align-items: center;
         justify-content: center;
         font-size: 16px;
+        box-sizing: border-box;
         cursor: pointer;
         opacity: 0;
         transition: all 0.3s ease-in-out;
@@ -52,7 +53,7 @@
             -moz-box-sizing: border-box;
             -webkit-box-sizing: border-box;
             box-sizing: border-box;
-            width: 318.33px;
+            width: 320px;
             position: relative;
             
         }
@@ -100,13 +101,13 @@
                 flex-shrink: 0;
                 height: fit-content;
                 &:last-child{
-                    margin-right: 60px;
+                    margin-right: 64px;
                 }
                 &:first-child{
                     margin-left: 80px;
                 }
                 .twitter-post{
-                    width: 256px !important;
+                    width: 254px !important;
                     width: 100%;
                 }
             }
