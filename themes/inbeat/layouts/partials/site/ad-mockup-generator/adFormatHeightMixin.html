@@ -1,0 +1,57 @@
+<script>
+    var adFormatHeightMixin = {
+        created() {
+            this.activeAd = this.adTypes[0];
+        },
+        computed: {
+            getComputedHeight() {
+                let previewWidth= document.getElementById('mockup-download-img').offsetWidth - 50;
+                let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+                return{ height: affectiveHeight };
+            },
+        },
+        mounted(){
+            this.setActiveTab()
+            this.$nextTick(() => {
+                this.setHeight(80);
+            })
+            window.addEventListener('resize',(event) =>{
+                this.setActiveTab()
+                this.setHeight(80);
+            }, true)
+            this.checkBrowserCompatibility()
+        },
+        methods: {
+            switchTab(tab){
+                this.activeTab = tab
+                this.$nextTick(() => {
+                    if(this.activeTab === 'preview') 
+                        this.setPreviewRatio()
+                })
+            },
+            checkBrowserCompatibility(){
+                var isFirefox = typeof InstallTrigger !== 'undefined';
+                if(isFirefox){
+                    this.canCopy = false
+                }
+            },
+            setPreviewRatio(){
+                let el = document.getElementById('mockup-download-img')
+                let previewWidth= el.offsetWidth - (window.innerWidth <= 765 ? 34 : 3)
+                let target = document.getElementById(this.activeAd.id === 3 ? 'story-body':'post-body')
+                let affectiveHeight = `${(this.activeAd.heightR/this.activeAd.widthR) * previewWidth}px` || '400px';
+
+                if(target){
+                    target.style.height = affectiveHeight
+                }
+            },
+            setActiveTab(){
+                if(window.innerWidth <= 1024 ){
+                    this.activeTab = 'controls' 
+                }else{
+                    this.activeTab = 'both'
+                }
+            }
+        }
+    }
+</script>

@@ -18,7 +18,13 @@ whatwedo:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
     newBadge: true
-toolkits:
+relatedTools:
+  title: 'Related Tools'
+  id: 'calculator-related-tools'
+  viewAll: 
+    link: free-toolkit
+    text: View all
+  toolkits:
     - title: CTR <br> Calculator
       text: Calculate your Click-through-rate your ads & content across different channels.
       icon: ctr-toolkit
@@ -31,9 +37,6 @@ toolkits:
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-free-toolkit
       url: bounce-rate-calculator
-viewAll: 
-  link: free-toolkit
-  text: View all
 # startnow:
 #   title: Get crackin'
 #   description: Start your influencer campaign today, with inBeat.

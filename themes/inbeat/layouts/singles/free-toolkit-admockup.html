@@ -1,0 +1,31 @@
+{{- define "main" -}}
+<div id="freetoolkit" class="mt-120">
+    <section class="container mobile-adjusted page-top " id="freetoolkit-header">
+        <h1>{{- .Params.titre -}}</h1>
+        <p>{{- .Params.subtitle | markdownify -}}</p>
+    </section>
+    <section class="toolkits container">
+        <div class="row">
+            <div class="tools-card-wrapper">
+                {{- range .Params.toolkits -}}
+                        <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_self">
+                            <div class="inner">
+                                <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
+                                <div class="content">
+                                    <h4 class="tool-name">{{- .title | markdownify -}}</h4>
+                                    <p class="tool-description"> {{ .text }}</p>
+                                </div>
+                            </div>
+                        </a>
+                        </div>
+                {{- end -}}
+            </div>
+        </div>
+        <a href="/free-toolkit" class="all-tools-btn">See all tools</a>
+    </section>
+</div>
+
+{{- partial "site/ugc-global.html" . -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.freetoolkit__mockup "id" "home-faq") -}}
+{{- end -}}

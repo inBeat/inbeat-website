@@ -1,8 +1,72 @@
 #mockup-hero{
-  // margin-top: 84px;
-  // @include breakpoint(sm-down) {
-  //     margin-top: 78px;
-  // }
+   #mockup-generator-navigation{
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3rem;
+    @mixin name($name_bg, $name_font_hover, $name_bg_focus){
+      background-color: #F7F2F2;
+      &.active{
+        background-color: $name_bg;
+      }
+        &:hover{
+            background-color: $name_bg;
+            color: $name_font_hover;
+            svg{
+              path{
+                fill: $name_font_hover;
+              }
+            }
+        }
+        &:active{
+            background-color: $name_bg_focus;
+            color: black;
+            svg{
+              path{
+                fill: black;
+              }
+            }
+        }
+    }
+    a{
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 14px;
+      border-radius: 16px;
+      padding: 8px 16px;
+      background-color: #F7F2F2;
+      cursor: pointer;
+      transition: $transition_default;
+      white-space: nowrap;
+      svg{
+        path{
+          transition: $transition_default;
+        }
+      }
+      span{
+        margin-right: 6px;
+      }
+      &.instagram{
+        @include name($instagram_bg, $instagram_font_hover, $instagram_bg_focus);
+      }
+      &.facebook{
+        @include name($facebook_bg, $facebook_font_hover, $facebook_bg_focus);
+      }
+      &.tiktok{
+        @include name($tiktok_bg, $tiktok_font_hover, $tiktok_bg_focus);
+      }
+      &.snapchat{
+        @include name($snapchat_bg, $snapchat_font_hover, $snapchat_bg_focus);
+      }
+      &.linkedin{
+        @include name($linkedin_bg, $linkedin_font_hover, $linkedin_bg_focus);
+      }
+      &.twitter{
+        @include name($twitter_bg, $twitter_font_hover, $twitter_bg_focus);
+      }
+    }
+   }
   &.has-banner{
       // Add the banner height size
       // margin-top: 128px;
@@ -36,7 +100,7 @@
       font-size: 1.125rem;
       line-height: 1.75rem;
       text-align: center;
-      margin-bottom: 4rem;
+      margin-bottom: 3rem;
       @include breakpoint(sm-down) {
           font-weight: 400;
           font-size: 1rem;
@@ -533,7 +597,9 @@
   }
 }
 .mockup__preview-section{
-  width: 475px;
+  width: 498px;
+  margin: auto;
+  box-sizing: border-box;
   background: #F9F7F7;
   border-radius: 1px;
   padding: 24px;
@@ -541,7 +607,7 @@
   height: -webkit-fill-available;
   // height: -moz-available;
   height: 100%;
-  font-family: Inter, sans-serif;
+  font-family: $instagramfont;
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0;
@@ -558,7 +624,7 @@
 
 .mockup-preview-wrapper{
   background: #FFFFFF;
-  border: 0.972321px solid #E5E5E5;
+  border: 1px solid #E5E5E5;
   filter: drop-shadow(0px 2.44326px 6.71896px rgba(0, 0, 0, 0.1));
   border-radius: 3.88929px;
 }
@@ -852,8 +918,8 @@
   }
 }
 .mockup__configuration-wrapper{
-  padding: 0px 0px 0px 51px;
-  width: calc(100% - 574px);
+  padding: 0px 0px 0px 56px;
+  width: calc(100% - 554px);
   @include breakpoint(sm-down) {
     width: 100%;
     padding: 0px;
@@ -1348,12 +1414,13 @@
 }
 #mockup-download-img{
   padding: 24px;
-  margin-right: 8px;
+  width: 402px;
+  // margin-right: 8px;
   background: #F9F7F7;
   @include breakpoint(md-down) {
     padding: 16px 0px 16px 0px;
     margin-right: 0;
-    width: 420px;
+    // width: 420px;
   }
   @include breakpoint(sm-down) {
     padding-left: 1rem;

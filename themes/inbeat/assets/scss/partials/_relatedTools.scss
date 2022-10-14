@@ -88,8 +88,10 @@
             display: flex;
             border: 1px solid rgba(0, 0, 0, 0.20);
             // height: 100%;
-            padding: 15px;
+            padding: 14px;
             flex-direction: row-reverse;
+            height: 100%;
+            box-sizing: border-box;
             @include breakpoint(sm-down) {
                 flex-direction: row;
                 padding: 10px 25px;
@@ -111,7 +113,7 @@
                 }
             }
             .content{
-                padding: 46px 0px 25px 23px;
+                padding: 36px 16px 16px 16px;
                 @include breakpoint(sm-down) {
                     padding: 25px 0px 25px 0px;
                 }
@@ -138,7 +140,7 @@
                     color: #000000;
                     margin: 0;
                     margin-bottom: 22px;
-                    width: 46.6%;
+                    // width: 46.6%;
                     @include breakpoint(sm-down) {
                         font-size: 1.2rem;
                         margin-bottom: 15px;
