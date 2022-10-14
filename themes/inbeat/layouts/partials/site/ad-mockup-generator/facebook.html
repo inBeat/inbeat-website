@@ -98,7 +98,7 @@
                     </div>
                   </uploader>
                 </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper website-name-input">
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper website-name-input" v-if="activeAd.id === 4">
                     <h4 class="mockup__title">
                       Website Name
                     </h4>
@@ -107,6 +107,18 @@
                     </p>
                     <div class="input-wrapper">
                         <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
+                          class="mockup-input" placeholder="Facebook" maxlength="20" />
+                      </div>
+                  </div>
+                  <div class="mockup__configuration-like-count ib__mockup-input-wrapper website-name-input" v-if="activeAd.id !== 4">
+                    <h4 class="mockup__title">
+                      Website URL
+                    </h4>
+                    <p class="mockup__description">
+                      set website url for post.
+                    </p>
+                    <div class="input-wrapper">
+                        <input @input="textInput($event,'websiteUrl')"  type="text" id="account-name-input"
                           class="mockup-input" placeholder="Facebook.com" maxlength="20" />
                       </div>
                   </div>
@@ -229,7 +241,7 @@
                     </div>
                     <div class="facebook__cta-wrapper" v-if="activeAd.id !== 4">
                       <div class="facebook__headline-website">
-                        <span class="facebook__cta-website">{websiteName}</span>
+                        <span class="facebook__cta-website">{websiteUrl}</span>
                         <span class="facebook__cta-headline">{headlineCopy}</span>
                       </div>
                         <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
@@ -552,7 +564,8 @@
               ctaOptions: [{name:'Download',code:'DW'},{name:'Learn more',code:'LN'},{name:'Apply now',code:'AN'},{name:'Shop now',code:'SN'},{name:'Watch more',code:'WM'},{name:'Subscribe',code:'SB'},{name:'Find Yout Groups',code:'FYG'},{name:'Try in Camera',code:'TIC'},{name:'Sign up',code:'SU'},{name:'Book now',code:'BN'},{name:'Call now',code:'CN'},{name:'Contact us',code:'CU'},{name:'Listen Now',code:'LN'},{name:'Get showtimes',code:'GST'},{name:'Order now',code:'ORDE'},{name:'Get directions',code:'GDRE'},{name:'See menu',code:'CME'},{name:'Get quote',code:'GQUO'},{name:'Send message',code:'SEM'},{name:'Send WhatsApp message',code:'SENWMSG'},{name:'Request time',code:'RQT'},{name:'Dial code',code:'DIC'}],
               activeTab: 'controls',
               profileName: '',
-              websiteName: 'WEBSITENAME.COM',
+              websiteUrl: 'WEBSITENAME.COM',
+              websiteName: 'Website Name',
               headlineCopy: 'Headline copy here',
               selectedPreviewCTA: {name:'Shop now',code:'SN'},
               dpSrc:null,
@@ -782,14 +795,15 @@
             if (event.code === 'Space') event.preventDefault()
           },
           clearFields(){
-            this.dpSrc = null,
-            this.postSrc = [],
-            this.caption='',
-            this.likes= 15,
-            this.commentCount= 1,
-            this.shareCount= 1,
-            this.profileName = '',
-            this.websiteName = 'WEBSITENAME.COM',
+            this.dpSrc = null
+            this.postSrc = []
+            this.caption=''
+            this.likes= 15
+            this.commentCount= 1
+            this.shareCount= 1
+            this.profileName = ''
+            this.websiteUrl= 'WEBSITENAME.COM'
+            this.websiteName= 'Website Name'
             this.headlineCopy = 'Headline copy here',
             this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
             this.activePost = 0
