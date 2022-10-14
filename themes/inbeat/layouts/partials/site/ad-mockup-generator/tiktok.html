@@ -149,6 +149,16 @@
                   <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
+                <div class="mockup__configuration-like-count ib__mockup-input-wrapper" style="margin-top: 19px;">
+                  <h4 class="mockup__title">
+                    Song name
+                  </h4>
+                  <p class="mockup__description">
+                    Set the song name of your post.
+                  </p>
+                  <input v-model="songName" @keyDown="onKeyDown" type="text" id="account-name-input"
+                  class="mockup-input" placeholder="Cheryl - @Yung Gravy" maxlength="40" />
+                </div>
               </div>
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section tiktok-mockup-preview"
@@ -170,14 +180,14 @@
                               {profileName ? profileName : 'brandname'}
                             </div>
                             <div class="tiktok_songname-caption">
-                              Locked in a house together .... TikTok<br>
-                              time #fyp #quarantine 
+                              <span v-html="displayCaptionValue">Locked in a house together .... TikTok<br>
+                                time #fyp #quarantine </span>
                             </div>
                             <div class="sponcered-text-wrapper">
                               Sponsored
                             </div>
                             <div class="song-name">
-                              {{- partial "icons/music.html" -}}  <span>Cheryl - @Yung Gravy</span>
+                              {{- partial "icons/music.html" -}}  <span>{songName ? songName : 'Cheryl - @Yung Gravy'}</span>
                             </div>
                           </div>
                           <div v-else class="tiktok_cta-type-mockup-wrapper">
@@ -555,6 +565,7 @@
               activePost: 0,
               commentCount: 15,
               shareCount: 15,
+              songName: '',
               adTypes: [
               {
                 id:3,
@@ -651,7 +662,7 @@
             if(this.caption.length < 103 && this.count !== 1){
               if (this.showSeeMore){
                 this.showSeeMore = !this.showSeeMore
-                document.getElementById('preview-caption').style.height = '34px' 
+                // document.getElementById('preview-caption').style.height = '34px' 
               }
             }
             let charLimit = window.innerWidth <= 765 ? 78 : 95
@@ -729,6 +740,7 @@
             this.ctaSrc = null,
             this.postSrc = [],
             this.caption='',
+            this.songName='',
             this.likes=15,
             this.shareCount=15,
             this.commentCount=15,
