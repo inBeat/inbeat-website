@@ -149,15 +149,15 @@
                         recommended<span></span>
                   </div>
                   </uploader>
-                  <!-- <uploader  :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)"> -->
-                  <div v-else  class="preview-body" id="post-body" :style="getComputedHeight">
+                  <uploader v-else  :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                  <div   class="preview-body" id="post-body" :style="getComputedHeight">
                       <span class="carousel__post-count">{postSrc.length >= 2 ? activePost+1:1}/{postSrc.length >= 2
                         ?postSrc.length:2}</span>
                       <span v-if="!postSrc[0]" class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                           recommended</span></span>
                       <slider v-else :slides="postSrc" @current-post="updateCurrentPost"></slider>
                     </div>
-                  <!-- </uploader> -->
+                  </uploader>
                   <div class="preview_banner-wrapper">
                     <div class="preview-banner-cta">
                       <span>{selectedPreviewCTA.name}</span>
@@ -516,10 +516,10 @@
                 <img v-if="slides[current]" class="preview-image-body" :src="slides[current]" alt="">
               </div>
             </transition-group>
-            <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click="slide(-1)">
+            <div v-if='slides.length > 1' class="btn btn-prev" aria-label="Previous slide" @click.prevent="slide(-1)">
               <span class="left-arrow"> &#10094; </span>
             </div>
-            <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click="slide(1)">
+            <div  v-if='slides.length > 1' class="btn btn-next" aria-label="Next slide" @click.prevent="slide(1)">
               <span class="right-arrow"> &#10095;  </span>
             </div>
           </div>
