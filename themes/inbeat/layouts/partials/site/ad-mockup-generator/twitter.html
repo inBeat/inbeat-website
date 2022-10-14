@@ -187,10 +187,10 @@
                                 </div>
                             </div>
                             <div :class="{'twitter__carousel-wrapper' : activeAd.id=== 3}">
-                              <div v-for="post in activeAd.id=== 3  ? postSrc[0] ?  postSrc : [1,2] : [1]"  :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
+                              <div v-if="activeAd.id !== 3 " class="twitter__post-body-section" id="twitter__post-body-section">
                                 <uploader :multiple="activeAd.id === 3 ? true : false"
                                 @submit-image="uploadImage($event,'body')" @validated="validation($event)">
-                                  <div class="twitter-post" :id="activeAd.id=== 3 ? post : 'twitter-post'" :style="getComputedHeight">
+                                  <div class="twitter-post" id="twitter-post" :style="getComputedHeight">
                                     <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">
                                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                                         recommended<span></span>
@@ -205,12 +205,24 @@
                                       </div>
                                   </div>
                               </div>
-                            </div>
-                            <div v-if="activeAd.id=== 3  && left"  class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
-                              <span class="left-arrow"> &#10094; </span>
-                            </div>
-                            <div v-if="activeAd.id=== 3"  class="btn btn-next" aria-label="Next slide" @click="slideNext">
-                              <span class="right-arrow"> &#10095;  </span>
+                              <div v-else v-for="post in postSrc[0] ?  postSrc : [1,2]"  :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
+                                <uploader :multiple="true"
+                                @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                                  <div class="twitter-post" :style="getComputedHeight">
+                                    <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">
+                                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                                        recommended<span></span>
+                                  </div>
+                                </uploader>
+                                  <div class="twitter-post-description">
+                                      <div class="link">
+                                        {website ? website:'canadacomputers.com'}
+                                      </div>
+                                      <div class="text">
+                                        {description ? description:'Find it at Canada Computers'}
+                                      </div>
+                                  </div>
+                              </div>
                             </div>
                             <div class="twitter__post-user-action-section">
                                 <div class="action-wrapper">
@@ -233,6 +245,12 @@
                               {{- partial "icons/twitter-promoted.html" -}}
                               <span>Promoted</span>
                             </div>
+                        </div>
+                        <div v-if="activeAd.id=== 3  && left"  class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
+                          <span class="left-arrow"> &#10094; </span>
+                        </div>
+                        <div v-if="activeAd.id=== 3"  class="btn btn-next" aria-label="Next slide" @click="slideNext">
+                          <span class="right-arrow"> &#10095;  </span>
                         </div>
                     </div>
                 </div>
@@ -597,6 +615,11 @@
               count :0,
               canCopy:true
           },
+          updated() {
+            if(this.activeAd.id === 3){
+              this.setPreviewRatio()
+            }
+          },
       methods:{
         switchTab(tab){
             this.activeTab = tab
@@ -780,7 +803,6 @@
           setPreviewRatio(){
             let el = this.activeAd.id !== 3 ? document.getElementById('twitter-post') : document.getElementsByClassName('twitter-post')[0]
             let  width= el.offsetWidth
-            console.log('hellp',width)
             let target = document.getElementsByClassName('twitter-post')
             let height =  this.activeAd.id === 1 || this.activeAd.id === 3 ? width + 'px' : this.activeAd.id === 2 ? ((2/3)* width) + 'px':'417px'
             for (var i = 0; i < target.length; i++) {
@@ -798,21 +820,29 @@
           },
           slideNext(){
             let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
-            this.left += 380    
+            this.left += 280    
+            if(ele.scrollWidth < (this.left + 280)){
+              this.left -= 280    
+            }
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
             })
-            this.setPreviewRatio()
+            // this.setPreviewRatio()
+            // this.$nextTick(() => {
+            //   // this.setPreviewRatio()
+            // })
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('twitter__carousel-wrapper')[0]
-            this.left -= 380
+            this.left -= 280
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
             })
-            this.setPreviewRatio()
+            // this.$nextTick(() => {
+            //   // this.setPreviewRatio()
+            // })
           },
       },
       mounted(){

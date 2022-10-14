@@ -8,6 +8,35 @@
     align-items: flex-start;
     justify-content: flex-start;
     overflow: hidden;
+    position: relative;
+    &:hover{
+        .btn{
+            opacity: 1;
+        }
+    }
+    .btn {
+        background: #FFFFFF;
+        border: 1px solid #CFD0D4;
+        height: 49px;
+        width: 49px;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        color: #66676B;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 16px;
+        cursor: pointer;
+        opacity: 0;
+        transition: all 0.3s ease-in-out;
+      }
+      .btn-next{
+        right: 14px;
+      }
+      .btn-prev{
+        left: 14px;
+    }
     // width: 100%;
     .twitter-profile-picture{
         width: 54px;
@@ -25,34 +54,6 @@
             box-sizing: border-box;
             width: 318.33px;
             position: relative;
-            &:hover{
-                .btn{
-                    opacity: 1;
-                }
-            }
-            .btn {
-                background: #FFFFFF;
-                border: 1px solid #CFD0D4;
-                height: 49px;
-                width: 49px;
-                border-radius: 50%;
-                position: absolute;
-                top: 49%;
-                color: #66676B;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-size: 16px;
-                cursor: pointer;
-                opacity: 0;
-                transition: all 0.3s ease-in-out;
-              }
-              .btn-next{
-                right: 0px;
-              }
-              .btn-prev{
-                left: -72px;
-            }
             
         }
         }
@@ -89,8 +90,7 @@
             display: flex;
             overflow-x: scroll;
             gap: 10px;
-            margin-left: -80px;
-            
+            margin-left: -80px;   
             &::-webkit-scrollbar {
                 display: none;
             }
@@ -100,13 +100,13 @@
                 flex-shrink: 0;
                 height: fit-content;
                 &:last-child{
-                    margin-right: 10px;
+                    margin-right: 60px;
                 }
                 &:first-child{
                     margin-left: 80px;
                 }
                 .twitter-post{
-                    width: 290px !important;
+                    width: 256px !important;
                     width: 100%;
                 }
             }
