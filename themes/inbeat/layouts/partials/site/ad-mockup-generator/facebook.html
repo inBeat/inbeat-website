@@ -103,7 +103,7 @@
                         <span class="delete-icon" v-if="postSrc[0]" @click="deletePost(post)">
                           {{- partial "icons/delete.html" -}}
                         </span>
-                        <img v-if="postSrc[0]" class="preview-image-body" :src="post.src" alt="">
+                        <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                         <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
                       </div>
                     </div>
