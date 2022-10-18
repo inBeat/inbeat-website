@@ -162,6 +162,24 @@
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
                 </div>
+                <div class="mockup__configuration-ad-action">
+                  <h4 class="mockup__title">
+                    Reactions
+                  </h4>
+                  <!-- <p class="mockup__description">
+                    Encourage people to click with an explicit call to action button.
+                  </p> -->
+                  <div class="reaction-select-wrapper">
+                    <div v-for="reaction in platformReactions" :key="reaction" @click="toggleReactionSelection(reaction)" :class="[{'--selected': platformSelectedReactions.includes(reaction)},'platform-reaction']">
+                      <div class="reaction-wrapper">
+                        <img :src="getImgUrl(reaction)" alt="">
+                      </div>
+                      <div class="circle-wrapper">
+                          <span class="circle"><span :class="{'--active': platformSelectedReactions.includes(reaction)}"></span></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3">
                   <h4 class="mockup__title">
                     Likes
@@ -284,8 +302,7 @@
                       <div class="facebook__like-comment-section">
                         <div class="facebook_react-sec-wrapper">
                           <div class="facebook__react-emoticon">
-                            {{- partial "icons/facebook-like.html" -}}
-                            {{- partial "icons/facebook-love.html" -}}
+                            <img :src="getImgUrl(reaction)" v-for="reaction in platformSelectedReactions" :key="reaction">
                           </div>
                           <div class="react-sec">
                             Joe Soap and {likes} {likes.length > 1 ? 'others' : 'other'}
@@ -310,44 +327,6 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div id="facebook-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
-                    <div class="header-wrapper">
-                      <div class="line">
-                      </div>
-                      <div class="preview-header">
-                        <div class="preview-creadincials">
-                          <div class="profile-picture-wrapper">
-                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                          </div>
-                          <div class="user-name-wrapper">
-                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                            <span class="sponcered-text">Sponsored</span>
-                          </div>
-                        </div>
-                        <div class="story-options">
-                          {{- partial "icons/more.html" -}}
-                          {{- partial "icons/cross-story.html" -}}
-                        </div>
-                      </div>
-                    </div>
-                    <div class="preview-body" id="story-body" :style="getComputedHeight">
-                      <img class="preview-image-body" v-if="postSrc[0]"
-                        :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                          recommended</span></span>
-                    </div>
-                    <div class="story__preview-footer">
-                      <div class="cta">
-                        {{- partial "icons/up-chevron.html" -}}
-                        <span>
-                          {selectedPreviewCTA.name}
-                        </span>
-                      </div>
-                      <div class="cta-wrapper">
-                        {{- partial "icons/dm-wh.html" -}}
-                      </div>
-                    </div>
-                  </div> -->
                 </div>
               </div>
               <div class="preview-download-wrapper">
@@ -614,6 +593,8 @@
               captionValue: '',
               seeMoreDisplayValue: '',
               activePost: 0,
+              platformReactions:['facebook-like','facebook-anger','facebook-sad','facebook-heart','facebook-hug','facebook-surprise','facebook-laugh'],
+              platformSelectedReactions:['facebook-like','facebook-surprise','facebook-laugh'],
               adTypes: [{
                 id:1,
                 type:'Square',
@@ -684,6 +665,16 @@
               this.$nextTick(() => {
                 this.setHeight(adType.req)
               })
+            }
+          },
+          toggleReactionSelection(reaction){
+            if(this.platformSelectedReactions.includes(reaction)){
+              const index = this.platformSelectedReactions.indexOf(reaction);
+              if ( index > -1) {
+                this.platformSelectedReactions.splice(index, 1)
+              }
+            }else{
+              this.platformSelectedReactions.push(reaction)
             }
           },
           addCaption(){
