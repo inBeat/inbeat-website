@@ -788,9 +788,9 @@
 
           slideNext(){
             let ele = document.getElementsByClassName('ib-facebook-carousel')[0]
-            this.left += 320
-            if(ele.scrollWidth < (this.left + 280)){
-              this.left -= 320    
+            this.left += 310
+            if(ele.scrollWidth < (this.left + 310)){
+              this.left -= 310    
             }
             ele.scrollTo({
               left: this.left,
@@ -799,7 +799,7 @@
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('ib-facebook-carousel')[0]
-            this.left -= 320
+            this.left -= 310
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
