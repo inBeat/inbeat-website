@@ -1,0 +1,35 @@
+<script>
+    var uploadMixin = {
+        data: {
+              dpSrc:null,
+              postSrc:[],
+          },
+        methods: {
+            uploadImage(fileset,location, index){
+            if(this.$refs.messageError){
+             this.$refs.messageError.innerHTML = '';
+            }
+            const files = Array.from(fileset)
+            if(this.postSrc.length >= 10 && this.$refs.messageError){
+              this.$refs.messageError.innerHTML = 'You can only selet 10 images';
+              return
+            }
+            files.forEach(file => {
+              let src = URL.createObjectURL(file)
+              if(location === 'header'){
+                this.dpSrc = src
+              }else{
+                    this.postSrc.push(src)
+              }
+            })
+          },
+          deletePost(post){
+            this.postSrc = this.postSrc.filter(e => e !== post)
+            // this.postSrc.splice(this.postSrc.findIndex(e => e.src === post),1);
+          },
+          validation(e){
+              console.log(e)
+          },
+        }
+    }
+</script>
