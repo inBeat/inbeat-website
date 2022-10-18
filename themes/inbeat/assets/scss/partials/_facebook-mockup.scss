@@ -116,6 +116,9 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    .preview-image-body{
+        height: 100%;
+    }
     &:first-child{
         margin-left: 14px;
     }
