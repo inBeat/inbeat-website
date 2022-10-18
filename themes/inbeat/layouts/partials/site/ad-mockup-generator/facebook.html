@@ -83,11 +83,11 @@
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
+                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
-                  <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
+                  <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
@@ -97,6 +97,24 @@
                       </p>
                     </div>
                   </uploader>
+                  <div v-else class="multiple-uploader">
+                    <div class="ib_upload"  v-for="post in postSrc" :key="(Math.random() * 100)">
+                      <div class="image-wrapper">
+                        <span class="delete-icon" v-if="postSrc[0]" @click="deletePost(post)">
+                          {{- partial "icons/delete.html" -}}
+                        </span>
+                        <img v-if="postSrc[0]" class="preview-image-body" :src="post.src" alt="">
+                        <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
+                      </div>
+                    </div>
+                   <uploader :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="ib_upload uploader">
+                      <div class="image-wrapper">
+                        <span> {{- partial "icons/add.html" -}}</span>
+                      </div>
+                    </div>
+                    </uploader>
+                  </div>
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper website-name-input" v-if="activeAd.id === 4">
                     <h4 class="mockup__title">
@@ -213,23 +231,40 @@
                   </uploader>
                     <div v-else  class="ib__facebook-carousel-wrapper">
                       <div class="ib-facebook-carousel">
-                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_facebook-slide" id="facebook__carousel-slide">
-                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                        <div v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="ib_facebook-slide" id="facebook__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body', i)" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
-                                <span v-else class="placeholder-info">1:1<span>1080x1080px
-                                    recommended</span></span>
-                            </div>
-                            </uploader>
-                            <div class="facebook__carousel-cta">
-                              <div class="facebook__cta-wrapper">
-                            <div class="facebook__headline-website">
-                              <span class="facebook__cta-website">{websiteName}</span>
-                              <span class="facebook__cta-headline">{headlineCopy}</span>
-                            </div>
-                              <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
+                            <span v-else class="placeholder-info">1:1<span>1080x1080px
+                                recommended</span></span>
                           </div>
+                          </uploader>
+                          <div class="facebook__carousel-cta">
+                            <div class="facebook__cta-wrapper">
+                              <div class="facebook__headline-website">
+                                <span class="facebook__cta-website">{websiteName}</span>
+                                <span class="facebook__cta-headline">{headlineCopy}</span>
                               </div>
+                              <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="ib_facebook-slide" id="facebook__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                          <div class="post-wrapper"  :style="getComputedHeight">       
+                            <span class="placeholder-info">1:1<span>1080x1080px
+                                recommended</span></span>
+                          </div>
+                          </uploader>
+                          <div class="facebook__carousel-cta">
+                            <div class="facebook__cta-wrapper">
+                              <div class="facebook__headline-website">
+                                <span class="facebook__cta-website">{websiteName}</span>
+                                <span class="facebook__cta-headline">{headlineCopy}</span>
+                              </div>
+                              <div class="facebook-cta-button">{selectedPreviewCTA.name}</div>
+                            </div>
+                          </div>
                         </div>
                       </div>
                       <div v-if="left"   class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
@@ -652,7 +687,7 @@
               canCopy:true
           },
       methods:{
-          uploadImage(fileset,location){
+          uploadImage(fileset,location, index){
             const files = Array.from(fileset)
             if(this.postSrc.length >= 10){
               this.$refs.messageError.innerHTML = 'You can only selet 10 images';
@@ -663,16 +698,13 @@
               if(location === 'header'){
                 this.dpSrc = src
               }else{
-                this.postSrc.push(src)
-                if(this.activeAd.id === 4){
-                  if( this.postSrc.length === 1){
-                    this.postSrc[1] = this.postSrc[0] 
-                  }else if (this.postSrc[0] === this.postSrc[1]){
-                    this.postSrc.splice(1, 1)
-                  }
-                }
+                    this.postSrc.push(src)
               }
             })
+          },
+          deletePost(post){
+            this.postSrc = this.postSrc.filter(e => e !== post)
+            // this.postSrc.splice(this.postSrc.findIndex(e => e.src === post),1);
           },
           validation(e){
               console.log(e)
