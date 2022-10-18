@@ -352,11 +352,13 @@
 }
 .mockup__file-uploader {
   cursor: pointer;
+  position: relative;
   input[type='file'] {
     height: 0.1px;
     opacity: 0;
     overflow: hidden;
     position: absolute;
+    top: 0;
     z-index: -1;
     width: 0.1px;
   }
