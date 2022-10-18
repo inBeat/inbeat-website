@@ -83,11 +83,11 @@
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
+                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
-                  <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
+                  <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
@@ -97,6 +97,24 @@
                       </p>
                     </div>
                   </uploader>
+                  <div v-else class="multiple-uploader">
+                    <div class="ib_upload"  v-for="post in postSrc" :key="(Math.random() * 100)">
+                      <div class="image-wrapper">
+                        <span class="delete-icon" v-if="postSrc[0]" @click="deletePost(post)">
+                          {{- partial "icons/delete.html" -}}
+                        </span>
+                        <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
+                        <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
+                      </div>
+                    </div>
+                   <uploader :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="ib_upload uploader">
+                      <div class="image-wrapper">
+                        <span> {{- partial "icons/add.html" -}}</span>
+                      </div>
+                    </div>
+                    </uploader>
+                  </div>
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
@@ -217,11 +235,26 @@
                   </uploader>
                     <div v-else  class="ib__linkedin-carousel-wrapper">
                       <div class="ib-linkedin-carousel">
-                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                        <div v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="ib_linkedin-slide" id="linkedin__carousel-slide">
                           <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
+                                    recommended</span></span>
+                            </div>
+                          </uploader>
+                            <div class="linkedin__carousel-cta">
+                                <span class="slide-text">
+                                    {websiteName}
+                                </span>
+                                <div class="linkedin-cta-button">{selectedPreviewCTA.name}</div>
+                              </div>
+                        </div>
+                        <div  class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                          <div class="post-wrapper"  :style="getComputedHeight">       
+                            <!-- <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt=""> -->
+                                <span class="placeholder-info">1:1<span>1080x1080px
                                     recommended</span></span>
                             </div>
                           </uploader>
@@ -326,10 +359,10 @@
                 </div>
               </div>
               <div class="preview-download-wrapper">
-                <button @click="downloadPng" class="mockup-download-btn mockup-btn">
+                <button @click="downloadPng('linkedin-mockup-preview','linkedin-ad-mockup')" class="mockup-download-btn mockup-btn">
                   Download PNG
                 </button>
-                <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                <button v-if="canCopy" @click="copyImage('linkedin-mockup-preview')" class="mockup-copy-btn" @mouseleave="copied = false">
                   {{- partial "icons/copy-button.html" -}}
                   <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                   <span v-else class="--tooltip-copy --sucess">Copied
@@ -351,6 +384,8 @@
   {{- end -}}
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -568,6 +603,7 @@
       })
       var app = new Vue({
         el: '#mockup_builder',
+        mixins: [generalMixin,uploadMixin],
         data: {
               ctaOptions: [{name:'Apply',code:'Ap'},{name:'Download',code:'DW'},{name:'View Quote',code:'VQ'},{name:'Learn More',code:'LM'},{name:'Sign Up',code:'SU'},{name:'Subscribe',code:'SB'},{name:'Register',code:'REG'},{name:'Join',code:'JN'},{name:'Attend',code:'ATT'},{name:'Request Demo',code:'RQD'}],
               activeTab: 'controls',
@@ -575,8 +611,6 @@
               websiteName: 'Advertise tagline',
               headlineCopy: 'inbeat.co',
               selectedPreviewCTA: {name:'Apply',code:'Ap'},
-              dpSrc:null,
-              postSrc:[],
               likes: 15,
               commentCount: 1,
               shareCount: 1,
@@ -640,50 +674,6 @@
             this.$nextTick(() => {
               if(this.activeTab === 'preview') this.setPreviewRatio()
             })
-          },
-          uploadImage(fileset,location){
-            const files = Array.from(fileset)
-            if(this.postSrc.length >= 10){
-              this.$refs.messageError.innerHTML = 'You can only selet 10 images';
-              return
-            }
-            files.forEach(file => {
-              let src = URL.createObjectURL(file)
-              if(location === 'header'){
-                this.dpSrc = src
-              }else{
-                this.postSrc.push(src)
-                if(this.activeAd.id === 4){
-                  if( this.postSrc.length === 1){
-                    this.postSrc[1] = this.postSrc[0] 
-                  }else if (this.postSrc[0] === this.postSrc[1]){
-                    this.postSrc.splice(1, 1)
-                  }
-                }
-              }
-            })
-          },
-          validation(e){
-              console.log(e)
-          },
-          downloadPng(){
-            var preview = document.getElementById('linkedin-mockup-preview')
-            html2canvas(preview)
-            .then(function(canvas){
-              var link = document.createElement('a');
-                link.download = 'post-mockup.png';
-                link.href = canvas.toDataURL();
-                link.click();
-            })
-          },
-          copyImage(){
-            var preview = document.getElementById('linkedin-mockup-preview')
-              navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-              if (result.state == "granted" || result.state == "prompt") {
-                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                this.copied = true
-              }
-              })
           },
           optionSelect(e){
             this.selectedPreviewCTA = e
@@ -842,7 +832,10 @@
           },
           slideNext(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
-            this.left += 320
+            this.left += 310
+            if(ele.scrollWidth < (this.left + 310)){
+              this.left -= 310    
+            }
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
@@ -850,7 +843,7 @@
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
-            this.left -= 320
+            this.left -= 310
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',

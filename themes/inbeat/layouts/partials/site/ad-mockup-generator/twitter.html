@@ -92,12 +92,12 @@
                   <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
-                <div class="mockup__configuration-dropzone-wrapper twitter-dropzone">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
+                <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
+                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
                   <span class="mockup__description">Recommended image size:
                     <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
-                  <uploader :multiple="activeAd.id === 3 ? true : false" :drop="true"
+                  <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
@@ -107,6 +107,24 @@
                       </p>
                     </div>
                   </uploader>
+                  <div v-else class="multiple-uploader">
+                    <div class="ib_upload"  v-for="post in postSrc" :key="(Math.random() * 100)">
+                      <div class="image-wrapper">
+                        <span class="delete-icon" v-if="postSrc[0]" @click="deletePost(post)">
+                          {{- partial "icons/delete.html" -}}
+                        </span>
+                        <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
+                        <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
+                      </div>
+                    </div>
+                   <uploader :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="ib_upload uploader">
+                      <div class="image-wrapper">
+                        <span> {{- partial "icons/add.html" -}}</span>
+                      </div>
+                    </div>
+                    </uploader>
+                  </div>
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
@@ -205,12 +223,29 @@
                                       </div>
                                   </div>
                               </div>
-                              <div v-else v-for="post in postSrc[0] ?  postSrc : [1,2]"  :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
+                              <div v-else v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
                                 <uploader :multiple="true"
                                 @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                                   <div class="twitter-post" :style="getComputedHeight">
                                     <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">
                                     <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                                        recommended<span></span>
+                                  </div>
+                                </uploader>
+                                  <div class="twitter-post-description">
+                                      <div class="link">
+                                        {website ? website:'canadacomputers.com'}
+                                      </div>
+                                      <div class="text">
+                                        {description ? description:'Find it at Canada Computers'}
+                                      </div>
+                                  </div>
+                              </div>
+                              <div v-if="activeAd.type === 'Carousel' && postSrc.length < 2" class="twitter__post-body-section" id="twitter__post-body-section">
+                                <uploader :multiple="true"
+                                @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                                  <div class="twitter-post" :style="getComputedHeight">
+                                    <span class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
                                         recommended<span></span>
                                   </div>
                                 </uploader>
@@ -256,10 +291,10 @@
                 </div>
               </div>
               <div class="preview-download-wrapper">
-                <button @click="downloadPng" class="mockup-download-btn mockup-btn">
+                <button @click="downloadPng('ib_twitter-mockup-wrapper','twitter-ad-mockup')" class="mockup-download-btn mockup-btn">
                   Download PNG
                 </button>
-                <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                <button v-if="canCopy" @click="copyImage('ib_twitter-mockup-wrapper')" class="mockup-copy-btn" @mouseleave="copied = false">
                   {{- partial "icons/copy-button.html" -}}
                   <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                   <span v-else class="--tooltip-copy --sucess">Copied
@@ -282,6 +317,8 @@
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   {{- partial "site/ad-mockup-generator/adFormatHeightMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -550,14 +587,12 @@
   
       var app = new Vue({
         el: '#mockup_builder',
-        // mixins: [adFormatHeightMixin],
+        mixins: [uploadMixin,generalMixin],
         data: {
               activeTab: 'controls',
               profileName: '',
               profileUserId: '',
               selectedPreviewCTA: {name:'Learn More',code:'LM'},
-              dpSrc:null,
-              postSrc:[],
               likes: 15,
               caption: '',
               displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
@@ -627,51 +662,51 @@
               if(this.activeTab === 'preview') this.setPreviewRatio()
             })
           },
-          uploadImage(fileset,location){
-            this.$refs.messageError.innerHTML = '';
-            const files = Array.from(fileset)
-            if(this.postSrc.length >= 10){
-              this.$refs.messageError.innerHTML = 'You can only select 10 images';
-              return
-            }
-            files.forEach(file => {
-              let src = URL.createObjectURL(file)
-              if(location === 'header'){
-                this.dpSrc = src
-              }else{
-                this.postSrc.push(src)
-                if(this.activeAd.id === 3){
-                  if( this.postSrc.length === 1){
-                    this.postSrc[1] = this.postSrc[0] 
-                  }else if (this.postSrc[0] === this.postSrc[1]){
-                    this.postSrc.splice(1, 1)
-                  }
-                }
-              }
-            })
-          },
-          validation(e){
-              console.log(e)
-          },
-          downloadPng(){
-            var preview = document.getElementById('ib_twitter-mockup-wrapper')
-            html2canvas(preview)
-            .then(function(canvas){
-              var link = document.createElement('a');
-                link.download = 'twitter-ad-mockup.png';
-                link.href = canvas.toDataURL();
-                link.click();
-            })
-          },
-          copyImage(){
-            var preview = document.getElementById('ib_twitter-mockup-wrapper')
-              navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-              if (result.state == "granted" || result.state == "prompt") {
-                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                this.copied = true
-              }
-              })
-          },
+          // uploadImage(fileset,location){
+          //   this.$refs.messageError.innerHTML = '';
+          //   const files = Array.from(fileset)
+          //   if(this.postSrc.length >= 10){
+          //     this.$refs.messageError.innerHTML = 'You can only select 10 images';
+          //     return
+          //   }
+          //   files.forEach(file => {
+          //     let src = URL.createObjectURL(file)
+          //     if(location === 'header'){
+          //       this.dpSrc = src
+          //     }else{
+          //       this.postSrc.push(src)
+          //       if(this.activeAd.id === 3){
+          //         if( this.postSrc.length === 1){
+          //           this.postSrc[1] = this.postSrc[0] 
+          //         }else if (this.postSrc[0] === this.postSrc[1]){
+          //           this.postSrc.splice(1, 1)
+          //         }
+          //       }
+          //     }
+          //   })
+          // },
+          // validation(e){
+          //     console.log(e)
+          // },
+          // downloadPng(){
+          //   var preview = document.getElementById('ib_twitter-mockup-wrapper')
+          //   html2canvas(preview)
+          //   .then(function(canvas){
+          //     var link = document.createElement('a');
+          //       link.download = 'twitter-ad-mockup.png';
+          //       link.href = canvas.toDataURL();
+          //       link.click();
+          //   })
+          // },
+          // copyImage(){
+          //   var preview = document.getElementById('ib_twitter-mockup-wrapper')
+          //     navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
+          //     if (result.state == "granted" || result.state == "prompt") {
+          //       html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+          //       this.copied = true
+          //     }
+          //     })
+          // },
           optionSelect(e){
             this.selectedPreviewCTA = e
           },
