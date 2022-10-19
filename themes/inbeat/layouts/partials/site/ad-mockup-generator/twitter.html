@@ -780,27 +780,6 @@
           setHeight(req){
             document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
           },
-          addLikes(e){
-           this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-          },
-          numberInput(e,inputName){
-            const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
-           this[inputName] = this.abbreviateNumber(e.target.value,SI_SYMBOL) 
-          },
-          abbreviateNumber(number,SI_SYMBOL){  
-                // what tier? (determines SI symbol)
-                var tier = Math.log10(Math.abs(number)) / 3 | 0;           
-                if(tier == 0) return number;
-                tier = tier > 6 ? 6 : tier
-                var suffix = SI_SYMBOL[tier];
-                var scale = Math.pow(10, tier * 3);
-                var scaled = number / scale;
-                return scaled.toFixed(1) + suffix;
-          },
-          checkIfNumber(event) {
-          const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
-          return !event.key.match(regex) && event.preventDefault();
-          },
           onKeyDown(){
             if (event.code === 'Space') event.preventDefault()
           },
