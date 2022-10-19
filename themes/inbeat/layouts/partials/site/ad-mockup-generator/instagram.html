@@ -123,7 +123,17 @@
                   Set the number of likes for your post. Numeric input only.
                 </p>
                 <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                  @input="addLikes" class="likes-count-input" type="number" placeholder="15">
+                  @input="addLikes($event,'likes')" class="likes-count-input" type="number" placeholder="15">
+              </div>
+              <div class="mockup__configuration-like-count" v-if="activeAd.id !== 3 && activeAd.type === 'Reel'" style="margin-top: 24px;">
+                <h4 class="mockup__title">
+                  Comments
+                </h4>
+                <p class="mockup__description">
+                  Set the number of comments for your post. Numeric input only.
+                </p>
+                <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                  @input="addLikes($event,'comments')" class="likes-count-input" type="number" placeholder="34">
               </div>
               <div class="mockup__configuration-message-wrapper" v-if="activeAd.id !== 3">
                 <h4 class="mockup__title">
@@ -246,6 +256,57 @@
                     </div>
                     <div class="cta-wrapper">
                       {{- partial "icons/dm-wh.html" -}}
+                    </div>
+                  </div>
+                </div>
+                <div id="instagram-mockup-preview" v-if="activeAd.type === 'Reel'" class="mockup_preview-story">
+                  <uploader @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                  <div class="preview-body" id="story-body" :style="getComputedHeight">
+                    <!-- <div class="story-overlay"></div> -->
+                    <img class="preview-image-body" v-if="postSrc[0]"
+                      :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
+                    <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
+                        recommended</span></span>
+                  </div>
+                  </uploader>
+                  <div class="story__preview-footer reel-footer">
+                    <div class="reel-description-area">
+                      <div class="reel_preview-creadincials">
+                        <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
+                        <div class="profile-picture-wrapper">
+                          <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
+                        </div>
+                        </uploader>
+                        <div class="user-name-wrapper">
+                          <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
+                          <span class="sponcered-text">Sponsored</span>
+                        </div>
+                      </div>
+                      <div class="preview-caption" id="preview-caption"
+                      :style="{height: caption.length < 106 ? '36px !important':'36px'}">
+                        <span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore"
+                        class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
+                        v-html="seeMoreDisplayValue"></span>
+                    </div>
+                      <div class="reel-cta">
+                          {selectedPreviewCTA.name}
+                      </div>
+                    </div>
+                    <div class="reel_action-area">
+                      <div class="action-wrapper">
+                        {{- partial "icons/reel-like.html" -}}
+                        <span>{likes}</span>
+                      </div>
+                      <div class="action-wrapper">
+                        {{- partial "icons/reel-comment.html" -}}
+                        <span>{comments}</span>
+                      </div>
+                      <div class="action-wrapper">
+                        {{- partial "icons/reel-send.html" -}}
+                      </div>
+                      <div class="action-wrapper">
+                        {{- partial "icons/reel-more.html" -}}
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -557,6 +618,7 @@
             profileName: '',
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
             likes: 15,
+            comments: 162,
             caption: '',
             displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
             captionValue: '',
@@ -611,6 +673,16 @@
               heightR: 1,
               req: 80 ,
               resolution: '1080x1080'
+            },
+            {
+              id:6,
+              type:'Reel',
+              ratio:'9:16',
+              img:'9-16',
+              widthR: 9,
+              heightR: 16,
+              req: 80 ,
+              resolution: '1080x1920'
             }
           ],
             activeAd: {
@@ -700,12 +772,13 @@
         setHeight(req){
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
         },
-        addLikes(e){
-         this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-        },
-        checkIfNumber(event) {
-        const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
-        return !event.key.match(regex) && event.preventDefault();
+        addLikes(e,type){
+          if(this.activeAd.type === 'Reel'){
+            this.numberInput(e,type)
+          }
+          else{
+            this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+          }
         },
         onKeyDown(){
           if (event.code === 'Space') event.preventDefault()
@@ -715,6 +788,7 @@
           this.postSrc = [],
           this.caption='',
           this.likes=15,
+          this.comments=34,
           this.profileName = '',
           this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
           this.activePost = 0
