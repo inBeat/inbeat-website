@@ -12,8 +12,8 @@ hero:
   subtitle: >-
     Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
 whatwedo:
-    title: Creator Studio
-    text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
+    title: UCG Platform
+    text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
     video: CreatorStudio_Snippet
     newBadge: true
     cta:
