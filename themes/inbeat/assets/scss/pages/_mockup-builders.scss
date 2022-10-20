@@ -1466,7 +1466,7 @@
       position: relative;
       width: 129px;
       height: 129px;
-      border-radius: 1.65846px;
+      border-radius: 4px;
       overflow: hidden;
       // width: calc(25% - 10px);
       // filter: drop-shadow(0px 2.51281px 6.91022px rgba(0, 0, 0, 0.1));
@@ -1476,15 +1476,17 @@
         }
       }
       &.uploader{
-          background: #F9F7F7;
+        background: rgba(244,244,244,.34);
+
           border: 1px dashed #DDD;
           // width: calc(25% - 10px)
-          transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
+          transition: all 0.3s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           svg{
-              transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
+              transition: all 0.3s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           }
           &:hover{
-            background: rgba(244,244,244,.34);
+            background: #F9F7F7;
+
             border-color:#000;
               svg{
                   transform: rotate(180deg);
