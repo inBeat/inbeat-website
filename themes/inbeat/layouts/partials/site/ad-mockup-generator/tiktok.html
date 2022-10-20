@@ -87,7 +87,7 @@
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper" v-if="activeAd.id === 4">
                   <span class="mockup__title">CTA Image</span>
-                  <span class="mockup__description">Uploade CTA Image</span>
+                  <span class="mockup__description">Square image ratio (1:1)</span>
                   <uploader :drop="true"
                     @submit-image="uploadImage($event,'cta')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
@@ -151,13 +151,13 @@
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper" style="margin-top: 19px;">
                   <h4 class="mockup__title">
-                    Song name
+                    Sound Name
                   </h4>
-                  <p class="mockup__description">
+                  <!-- <p class="mockup__description">
                     Set the song name of your post.
-                  </p>
+                  </p> -->
                   <input v-model="songName" @keyDown="onKeyDown" type="text" id="account-name-input"
-                  class="mockup-input" placeholder="Cheryl - @Yung Gravy" maxlength="40" />
+                  class="mockup-input" placeholder="sound name" maxlength="40" />
                 </div>
               </div>
             </div>
@@ -228,11 +228,11 @@
                               </div>
                               <div class="tiktok__action-wrapper">
                                 {{- partial "icons/tiktok-comment.html" -}}
-                                <span>{commentCount}</span>
+                                <!-- <span>{commentCount}</span> -->
                               </div>
                               <div class="tiktok__action-wrapper">
                                 {{- partial "icons/tiktok-share.html" -}}
-                                <span>{shareCount}</span>
+                                <!-- <span>{shareCount}</span> -->
                               </div>
                           </div>
                           <!-- {{- partial "icons/tiktok-disk.html" -}} -->
