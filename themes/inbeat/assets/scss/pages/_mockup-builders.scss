@@ -1477,15 +1477,15 @@
       }
       &.uploader{
           background: #F9F7F7;
-          border: 0.846474px dashed #DCDCDC;
+          border: 1px dashed #DDD;
           // width: calc(25% - 10px)
           transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           svg{
               transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           }
           &:hover{
-            background: #e6e5e5;
-            border-color:#cecece;
+            background: rgba(244,244,244,.34);
+            border-color:#000;
               svg{
                   transform: rotate(180deg);
               }
