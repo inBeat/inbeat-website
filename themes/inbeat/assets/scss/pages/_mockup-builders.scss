@@ -830,7 +830,7 @@
     line-height: 17px;
     color: #262626;
     font-family: Inter, sans-serif;
-    height: 34px;
+    min-height: 34px;
     max-height: 102px;
     // overflow: hidden;
     overflow-wrap: break-word;
@@ -1589,7 +1589,8 @@
   gap: 28px;
   align-items: flex-end;
   .reel-description-area{
-    flex: 1;
+    // flex: 1;
+    width: 304px;
     .reel_preview-creadincials{
       display: flex;
       align-items: center;
@@ -1635,7 +1636,9 @@
       font-size: 14px;
       line-height: 18px;
       color: #FFFFFF;
-      margin-top: 17px;
+      margin: 17px 0px;
+      min-height: 36px;
+      overflow-wrap: break-word;
         .see-more{
           background: transparent !important;
         }
@@ -1651,10 +1654,9 @@
       justify-content: center;
       background: rgba(255, 255, 255, 0.6);
       border-radius: 4px;
-      margin-top: 16px;
+      // margin-top: 16px;
       pointer-events: none;
     }
-  
   }
   .reel_action-area{
     display: flex;

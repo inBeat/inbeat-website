@@ -89,7 +89,7 @@
                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                     or less.
                   </p>
-                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                  <textarea maxlength="2200" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
@@ -200,8 +200,8 @@
                                     </div>
                                     {{- partial "icons/twitter-more-buttons.html" -}}
                                 </div>
-                                <div class="header-description-caption" style="height: 48px">
-                                    {displayCaptionValue}
+                                <div class="header-description-caption" style="min-height: 48px">
+                                    {caption ? caption : displayCaptionValue}
                                 </div>
                             </div>
                             <div :class="{'twitter__carousel-wrapper' : activeAd.id=== 3}">
@@ -723,59 +723,6 @@
                 this.setHeight(adType.req)
               })
             }
-          },
-          addCaption(){
-            if(this.seeMoreDisplayValue === ''){
-              this.count = 0 
-            }
-            if(this.caption.length < 103 && this.count !== 1){
-              if (this.showSeeMore){
-                this.showSeeMore = !this.showSeeMore
-                document.getElementById('preview-caption').style.height = '34px' 
-              }
-            }
-            let charLimit = window.innerWidth <= 765 ? 78 : 95
-            if(this.caption.length > charLimit){
-              let firstHalf= this.caption.slice(0,charLimit)
-              let secondHalf =this.caption.slice(charLimit)
-              let firstHalfWords = firstHalf.split(" ");
-              let secondHalfWords = firstHalf.split(" ");
-              let displaySentence = ''
-              let displaySentence2 = ''
-              firstHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  firstHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + firstHalfWords[i]
-              });
-              secondHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  secondHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
-              });
-              this.displayCaptionValue = displaySentence
-              this.seeMoreDisplayValue = displaySentence2
-            }
-              const words = this.caption.split(" ");
-              let displaySentence = ''
-              words.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  words[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + words[i]
-                this.captionValue = displaySentence 
-              });
-              if(this.caption.length < 95){
-                this.seeMoreDisplayValue= ''
-                this.displayCaptionValue = displaySentence
-              }else{
-                if(this.count === 0){
-                  this.count = 1 
-                  this.showSeeMore = true
-                }
-                this.seeMoreDisplayValue = displaySentence.slice(this.displayCaptionValue.length)
-              }
           },
           setHeight(req){
             document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'

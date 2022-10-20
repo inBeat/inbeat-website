@@ -235,10 +235,11 @@
                       {{- partial "icons/more-option.html" -}}
                     </div>
                     <div class="preview-caption facebook-caption" id="preview-caption"
-                    :style="{height: caption.length < 106 ? '40px !important':'40px'}">
-                      <span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore"
+                    style="min-height: 40px;">
+                      <span class="caption-text">{caption ? caption : displayCaptionValue}</span>
+                      <!-- <span v-if="showSeeMore"
                       class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
-                      v-html="seeMoreDisplayValue"></span>
+                      v-html="seeMoreDisplayValue"></span> -->
                   </div>
                   <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div  class="preview-body" id="post-body" :style="getComputedHeight">
