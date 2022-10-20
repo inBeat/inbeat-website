@@ -832,7 +832,8 @@
     font-family: Inter, sans-serif;
     height: 34px;
     max-height: 102px;
-    overflow: hidden;
+    // overflow: hidden;
+    overflow-wrap: break-word;
     position: relative;
     transition: $transition_default;
   }
@@ -1477,12 +1478,14 @@
       &.uploader{
           background: #F9F7F7;
           border: 0.846474px dashed #DCDCDC;
-          border: 0.846474px dashed #DCDCDC;
-          // width: calc(25% - 10px);
+          // width: calc(25% - 10px)
+          transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           svg{
               transition: all 0.2s cubic-bezier(0.5, 0.1, 0.6, 0.5);
           }
           &:hover{
+            background: #e6e5e5;
+            border-color:#cecece;
               svg{
                   transform: rotate(180deg);
               }

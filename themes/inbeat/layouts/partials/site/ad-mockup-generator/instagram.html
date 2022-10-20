@@ -96,7 +96,7 @@
                       <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
                     </div>
                   </div>
-                 <uploader :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                 <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                   <div class="ib_upload uploader">
                     <div class="image-wrapper">
                       <span> {{- partial "icons/add.html" -}}</span>
