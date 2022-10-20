@@ -69,8 +69,8 @@
         justify-content: center;
         .facebook__react-emoticon{
             display: flex;
-            svg:not(:first-child){
-                margin-left: -2px;
+            img:not(:first-child){
+                margin-left: -4px;
             }
         }
         .react-sec{
