@@ -7,6 +7,8 @@ name: snapchat
 layout: ad-mockup-generator
 title: Snapchat Ad Mockup
 subtitle: "Snapchat mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Snapchat Ad Mockup <br> Generator
   subtitle: >-

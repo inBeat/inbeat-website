@@ -7,6 +7,8 @@ name: instagram
 layout: ad-mockup-generator
 title: Instagram Ad Mockup
 subtitle: "Instagram mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Instagram Ad Mockup <br> Generator
   subtitle: >-

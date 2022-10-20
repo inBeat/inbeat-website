@@ -7,6 +7,8 @@ name: twitter
 layout: ad-mockup-generator
 title: Twitter Ad Mockup
 subtitle: "Twitter mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Twitter Ad Mockup <br> Generator
   subtitle: >-

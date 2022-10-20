@@ -7,6 +7,8 @@ name: tiktok
 layout: ad-mockup-generator
 title: TikTok Ad Mockup
 subtitle: "TikTok mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: TikTok Ad Mockup <br> Generator
   subtitle: >-

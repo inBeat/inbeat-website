@@ -7,6 +7,8 @@ name: linkedin
 layout: ad-mockup-generator
 title: Linkedin Ad Mockup
 subtitle: "Linkedin mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Linkedin Ad Mockup <br> Generator
   subtitle: >-
