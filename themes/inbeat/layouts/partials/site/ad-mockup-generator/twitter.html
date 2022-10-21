@@ -231,7 +231,7 @@
                                   </div>
                               </div>
                               <div v-else v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="twitter__post-body-section" id="twitter__post-body-section">
-                                <uploader :multiple="true"
+                                <uploader 
                                 @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
                                   <div class="twitter-post" :style="getComputedHeight">
                                     <img v-if="postSrc[0]" class="preview-image-body" :src="activeAd.id !== 3 ? postSrc[postSrc.length - 1] : post" alt="twitter-post-image">

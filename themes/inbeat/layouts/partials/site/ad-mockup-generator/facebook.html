@@ -255,7 +255,7 @@
                     <div v-else  class="ib__facebook-carousel-wrapper">
                       <div class="ib-facebook-carousel">
                         <div v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="ib_facebook-slide" id="facebook__carousel-slide">
-                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body', i)" @validated="validation($event)">
+                          <uploader  style="width: 100%;" @submit-image="uploadImage($event,'body', i)" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                             <span v-else class="placeholder-info">1:1<span>1080x1080px
