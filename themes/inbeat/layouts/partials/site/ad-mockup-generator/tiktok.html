@@ -180,14 +180,14 @@
                       <div class="ib__tiktok-cta-wrapper">
                         <div class="tiktok-details-section">
                           <div v-if="activeAd.id === 3">
-                            <div class="tiktok_brand-name">
+                            <div class="tiktok_brand-name tiktok-shadow">
                               {profileName ? profileName : 'brandname'}
                             </div>
-                            <div class="tiktok_songname-caption">
+                            <div class="tiktok_songname-caption tiktok-shadow">
                               <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
                               class="see-more" @click="seeMoreExpand">...See More</span>
                             </div>
-                            <div class="sponcered-text-wrapper">
+                            <div class="sponcered-text-wrapper tiktok-shadow">
                               Sponsored
                             </div>
                             <div class="song-name">
@@ -228,7 +228,7 @@
                             </uploader>
                               <div class="tiktok__action-wrapper tiktok-action-like">
                                 {{- partial "icons/tiktok-heart.html" -}}
-                                <span>{likes}</span>
+                                <span class="tiktok-shadow">{likes}</span>
                               </div>
                               <div class="tiktok__action-wrapper">
                                 {{- partial "icons/tiktok-comment.html" -}}
