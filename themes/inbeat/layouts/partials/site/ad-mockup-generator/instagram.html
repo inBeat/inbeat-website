@@ -74,8 +74,8 @@
               <div class="mockup__configuration-dropzone-wrapper">
                 <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                   v-else>Image</span>
-                <span class="mockup__description">Recommended image size:
-                  <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
+                <span class="mockup__description">Recommended image size is 
+                  <span>{activeAd.resolution}</span>&nbsp;pixels</span>
                   <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                   @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                   <div class="upload_placeholder-wrapper">
@@ -113,10 +113,10 @@
               </div>
               <div class="mockup__configuration-ad-action">
                 <h4 class="mockup__title">
-                  Call to Action
+                  Call to action
                 </h4>
                 <p class="mockup__description">
-                  Encourage people to click with an explicit call to action button.
+                  The displayed CTA on the bottom of the ad
                 </p>
                 <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                   @option-select="optionSelect($event)"></dropdown>

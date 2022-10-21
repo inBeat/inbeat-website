@@ -57,7 +57,7 @@
                   </div>
                 </div>
                 <div class="profile__input-wrapper">
-                  <span class="mockup__title">Profile picture and username</span>
+                  <span class="mockup__title">Profile & Display name</span>
                   <div class="uploader-wrapper">
                     <uploader @submit-image="uploadImage($event,'header')" @validated="validation($event)">
                       <span class="upload-image-wrapper">
@@ -73,10 +73,10 @@
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
-                    User ID
+                    Twitter Handle
                   </h4>
                   <p class="mockup__description">
-                    Set the user id of your post. with no white space.
+                    Set the user-account id of your post. with no white space.
                   </p>
                   <input v-model="profileUserId" @keyDown="onKeyDown" type="text" id="account-name-input"
                   class="mockup-input" placeholder="username" maxlength="20" />
@@ -93,10 +93,10 @@
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
+                  <span class="mockup__title" v-if="activeAd.id === 3">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
-                  <span class="mockup__description">Recommended image size:
-                    <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
                   <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
@@ -152,7 +152,7 @@
                   <input v-model="description" type="text" id="account-name-input"
                   class="mockup-input" placeholder="Bottom tagline example" maxlength="60" />
                 </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                <!-- <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
                     Comments
                   </h4>
@@ -161,8 +161,8 @@
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" @input="numberInput($event,'commentCount')" placeholder="1">
-                </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                </div> -->
+                <!-- <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
                     Retweet
                   </h4>
@@ -171,8 +171,8 @@
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
-                </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                </div> -->
+                <!-- <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                   <h4 class="mockup__title">
                     Likes
                   </h4>
@@ -181,7 +181,7 @@
                   </p>
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
-                </div>
+                </div> -->
               </div>
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section"
@@ -269,15 +269,15 @@
                             <div class="twitter__post-user-action-section">
                                 <div class="action-wrapper">
                                   {{- partial "icons/twitter-comment.html" -}}
-                                  <span>{commentCount}</span>
+                                  <!-- <span>{commentCount}</span> -->
                                 </div>
                                 <div class="action-wrapper">
                                   {{- partial "icons/twitter-repost.html" -}}
-                                  <span>{shareCount}</span>
+                                  <!-- <span>{shareCount}</span> -->
                                 </div>
                                 <div class="action-wrapper">
                                   {{- partial "icons/twitter-like.html" -}}
-                                  <span>{likes}</span>
+                                  <!-- <span>{likes}</span> -->
                                 </div>
                                 <div class="action-wrapper">
                                   {{- partial "icons/twitter-share-icon.html" -}}

@@ -73,8 +73,8 @@
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper">
                   <span class="mockup__title">Image</span>
-                  <span class="mockup__description">Recommended image size:
-                    <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
                   <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
@@ -98,46 +98,6 @@
                     </div>
                   </uploader>
                 </div>
-                <div class="mockup__configuration-ad-action">
-                  <h4 class="mockup__title">
-                    Call to Action
-                  </h4>
-                  <p class="mockup__description">
-                    Encourage people to click with an explicit call to action button.
-                  </p>
-                  <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
-                    @option-select="optionSelect($event)"></dropdown>
-                </div>
-                <div class="mockup__configuration-like-count">
-                  <h4 class="mockup__title">
-                    Likes
-                  </h4>
-                  <p class="mockup__description">
-                    Set the number of likes for your post. Numeric input only.
-                  </p>
-                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
-                </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
-                  <h4 class="mockup__title">
-                    Comments
-                  </h4>
-                  <p class="mockup__description">
-                    Set the number of comments for your post. Numeric input only.
-                  </p>
-                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    class="likes-count-input" type="number" @input="numberInput($event,'commentCount')" placeholder="1">
-                </div>
-                <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
-                  <h4 class="mockup__title">
-                    Share
-                  </h4>
-                  <p class="mockup__description">
-                    Set the number of Share for your post. Numeric input only.
-                  </p>
-                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
-                    class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
-                </div>
                 <div class="mockup__configuration-message-wrapper" v-if="activeAd.type !== 'Story CTA'">
                   <h4 class="mockup__title">
                     Caption
@@ -159,6 +119,47 @@
                   <input v-model="songName" @keyDown="onKeyDown" type="text" id="account-name-input"
                   class="mockup-input" placeholder="sound name" maxlength="40" />
                 </div>
+                <div class="mockup__configuration-ad-action">
+                  <h4 class="mockup__title">
+                    Call to action
+                  </h4>
+                  <p class="mockup__description">
+                    The displayed CTA on the bottom of the ad
+                  </p>
+                  <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
+                    @option-select="optionSelect($event)"></dropdown>
+                </div>
+                <div class="mockup__configuration-like-count">
+                  <h4 class="mockup__title">
+                    Likes
+                  </h4>
+                  <!-- <p class="mockup__description">
+                    Set the number of likes for your post. Numeric input only.
+                  </p> -->
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
+                </div>
+                <!-- <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
+                    Comments
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of comments for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" @input="numberInput($event,'commentCount')" placeholder="1">
+                </div> -->
+                <!-- <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
+                  <h4 class="mockup__title">
+                    Share
+                  </h4>
+                  <p class="mockup__description">
+                    Set the number of Share for your post. Numeric input only.
+                  </p>
+                  <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
+                    class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
+                </div> -->
+
               </div>
             </div>
             <div v-show="activeTab === 'both' ?  true : activeTab === 'preview'" class="mockup__preview-section tiktok-mockup-preview"

@@ -85,8 +85,8 @@
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
                   <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
-                  <span class="mockup__description">Recommended image size:
-                    <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
                   <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
@@ -124,34 +124,34 @@
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
-                        Advertise tagline
+                        Tagline
                     </h4>
-                    <p class="mockup__description">
+                    <!-- <p class="mockup__description">
                       set advertise tagline for post.
-                    </p>
+                    </p> -->
                     <div class="input-wrapper">
                         <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="Linkedin.com" :maxlength="activeAd.type !== 'Carousel' ? 20 : 60" />
+                          class="mockup-input" placeholder="Tagline" :maxlength="activeAd.type !== 'Carousel' ? 20 : 60" />
                     </div>
                   </div>
                   <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.type !== 'Carousel'">
                     <h4 class="mockup__title">
-                     Link
+                     Website
                     </h4>
-                    <p class="mockup__description">
+                    <!-- <p class="mockup__description">
                       set website link for post.
-                    </p>
+                    </p> -->
                     <div class="input-wrapper">
                         <input @input="textInput($event,'headlineCopy')"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="inbeat.co" maxlength="20" />
+                          class="mockup-input" placeholder="websiteexample.com" maxlength="20" />
                       </div>
                   </div>
                 <div class="mockup__configuration-ad-action">
                   <h4 class="mockup__title">
-                    Call to Action
+                    Call to action
                   </h4>
                   <p class="mockup__description">
-                    Encourage people to click with an explicit call to action button.
+                    The displayed CTA on the bottom of the ad
                   </p>
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
@@ -161,7 +161,7 @@
                     Reactions
                   </h4>
                   <!-- <p class="mockup__description">
-                    Encourage people to click with an explicit call to action button.
+                    The displayed CTA on the bottom of the ad
                   </p> -->
                   <div class="reaction-select-wrapper">
                     <div v-for="reaction in platformReactions" :key="reaction" @click="toggleReactionSelection(reaction)" :class="[{'--selected': platformSelectedReactions.includes(reaction)},'platform-reaction']">
@@ -176,11 +176,11 @@
                 </div>
                 <div class="mockup__configuration-like-count">
                   <h4 class="mockup__title">
-                    Likes
+                    Reaction count
                   </h4>
-                  <p class="mockup__description">
-                    Set the number of likes for your post. Numeric input only.
-                  </p>
+                  <!-- <p class="mockup__description">
+                    Set the number of reaction for your post. Numeric input only.
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                   @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
                 </div>
@@ -188,9 +188,9 @@
                   <h4 class="mockup__title">
                     Comments
                   </h4>
-                  <p class="mockup__description">
+                  <!-- <p class="mockup__description">
                     Set the number of comments for your post. Numeric input only.
-                  </p>
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'commentCount')">
                 </div>
@@ -198,9 +198,9 @@
                   <h4 class="mockup__title">
                     Share
                   </h4>
-                  <p class="mockup__description">
+                  <!-- <p class="mockup__description">
                     Set the number of Share for your post. Numeric input only.
-                  </p>
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
                 </div>
