@@ -6,6 +6,8 @@ slug: ad-mockup-generator
 layout: free-toolkit-admockup
 titre: Ad Mockup Generators
 subtitle: "Everything you need to generate your own ad mockups"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 toolkits:
     - title:  Instagram Ad Mockup <br> Generator 
       text: Generate pixel perfect Instagram Ads, sponsored caroussels, reels & stories in every format. 
