@@ -25,8 +25,8 @@
                     <span class="mockup__title">Ad Type & format</span>
                   </div>
                   <div>
-                    <!-- <div class="glide"> -->
-                      <!-- <div class="glide__track" data-glide-el="track"> -->
+                    <div class="glide">
+                      <div class="glide__track" data-glide-el="track">
                         <div class="insta__mockup-type-wrapper" id="mockup-type-wrapper" ref="adType">
                           <div style="width: auto !important;" class="mockup-type__card slide-mockup-type"
                             :class="{'--active': activeAd.id === adType.id}" v-for="adType in adTypes" :key="adType.id"
@@ -44,6 +44,16 @@
                             </div>
                           </div>
                         </div>
+                      </div>
+                      <div class="glide-controls" data-glide-el="controls" v-show="showGlideControls">
+                        <span class="swiper-previous glide-control-btn" data-glide-dir="<">
+                          {{- partial "icons/left-arrow.html" -}}
+                        </span>
+                        <span class="swiper-next glide-control-btn" data-glide-dir=">">
+                          {{- partial "icons/right-arrow.html" -}}
+                        </span>
+                      </div>
+                    </div>
                   </div>
                 </div>
                 <div class="profile__input-wrapper">
@@ -63,8 +73,8 @@
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper">
                   <span class="mockup__title">Images</span>
-                  <span class="mockup__description">Recommended image size:
-                    <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
                   <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
@@ -78,10 +88,10 @@
                 </div>
                 <div class="mockup__configuration-ad-action">
                   <h4 class="mockup__title">
-                    Call to Action
+                    Call to action
                   </h4>
                   <p class="mockup__description">
-                    Encourage people to click with an explicit call to action button.
+                    The displayed CTA on the bottom of the ad
                   </p>
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
@@ -174,10 +184,10 @@
                 </div>
               </div>
               <div class="preview-download-wrapper">
-                <button @click="downloadPng" class="mockup-download-btn mockup-btn">
+                <button @click="downloadPng('instagram-mockup-preview','snapchat-ad-mockup')" class="mockup-download-btn mockup-btn">
                   Download PNG
                 </button>
-                <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                <button v-if="canCopy" @click="copyImage('instagram-mockup-preview')" class="mockup-copy-btn" @mouseleave="copied = false">
                   {{- partial "icons/copy-button.html" -}}
                   <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                   <span v-else class="--tooltip-copy --sucess">Copied
@@ -200,6 +210,8 @@
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   {{- partial "site/ad-mockup-generator/adFormatHeightMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -419,7 +431,7 @@
   
       var app = new Vue({
         el: '#mockup_builder',
-        mixins: [adFormatHeightMixin],
+        mixins: [adFormatHeightMixin,generalMixin,uploadMixin],
         data: {
               ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
               activeTab: 'controls',
@@ -464,44 +476,6 @@
               canCopy:true
           },
       methods:{
-          uploadImage(fileset,location){
-            this.$refs.messageError.innerHTML = '';
-            const files = Array.from(fileset)
-            if(this.postSrc.length >= 10){
-              this.$refs.messageError.innerHTML = 'You can only select 10 images';
-              return
-            }
-            files.forEach(file => {
-              let src = URL.createObjectURL(file)
-              if(location === 'header'){
-                this.dpSrc = src
-              }else{
-                this.postSrc.push(src)
-              }
-            })
-          },
-          validation(e){
-              console.log(e)
-          },
-          downloadPng(){
-            var preview = document.getElementById('instagram-mockup-preview')
-            html2canvas(preview)
-            .then(function(canvas){
-              var link = document.createElement('a');
-                link.download = 'instagram-ad-mockup.png';
-                link.href = canvas.toDataURL();
-                link.click();
-            })
-          },
-          copyImage(){
-            var preview = document.getElementById('instagram-mockup-preview')
-              navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-              if (result.state == "granted" || result.state == "prompt") {
-                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                this.copied = true
-              }
-              })
-          },
           optionSelect(e){
             this.selectedPreviewCTA = e
           },
@@ -550,39 +524,4 @@
         delimiters: ['{', '}'],
       });
       </script>
-      <script>
-        //   const glide = new Glide('.glide',{
-        //     type: 'slider',
-        //     perView: 4,
-        //     focus: "center",
-        //     rewind: false,
-        //     bound: true,
-        //     gap: 0,
-        //     breakpoints: {
-        //           1200: {
-        //               perView: 4
-        //           },
-        //           1080: {
-        //               perView: 3
-        //           },
-        //       1198: {
-        //         perView: 3
-        //       },
-        //       768: {
-        //         perView: 3
-        //       },
-        //           700: {
-        //               perView: 3
-        //           },
-        //       600: {
-        //         perView: 2
-        //       },
-        //       576: {
-        //         perView: 2
-        //       },
-        //       400: {
-        //         perView: 1
-        //       },
-        //     }
-        //   }).mount()
-      </script>
+{{- partial "site/ad-mockup-generator/adFormatSliderScript.html" -}}

@@ -115,10 +115,14 @@ resources:
       - name: Collaboration cost calculator
         link: '/collaboration-cost-calculator-instagram/'
         target: '_self'
-      - name: TikTok & Instagram influencer Database
-        link: '/influencer-database'
+      - name: Ad Mockup Generator
+        link: '/ad-mockup-generator'
         target: '_self'
-        tag: 'Pro'
+        tag: 'New'
+      # - name: TikTok & Instagram influencer Database
+      #   link: '/influencer-database'
+      #   target: '_self'
+      #   tag: 'Pro'
 
 footer:
   toolkits:

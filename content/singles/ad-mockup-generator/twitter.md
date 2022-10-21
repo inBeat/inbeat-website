@@ -7,17 +7,21 @@ name: twitter
 layout: ad-mockup-generator
 title: Twitter Ad Mockup
 subtitle: "Twitter mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Twitter Ad Mockup <br> Generator
   subtitle: >-
     Generate, preview & download Twitter ads! All fields are fully customizable, and download everything for free.
 whatwedo:
-    title: Creator Studio
-    text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
-    video: influencer-statistics  
+    title: UCG Platform
+    text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale.  
+    video: CreatorStudio_Snippet
+    newBadge: true
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
+    id: mockup-whatwedo
 relatedTools:
   title: 'Related Tools'
   id: 'mockup-related-tools'

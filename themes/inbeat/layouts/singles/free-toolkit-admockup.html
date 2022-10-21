@@ -5,24 +5,26 @@
         <p>{{- .Params.subtitle | markdownify -}}</p>
     </section>
     <section class="toolkits container">
-        <div class="row">
-            <div class="tools-card-wrapper">
-                {{- range .Params.toolkits -}}
-                        <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                            <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_self">
-                            <div class="inner">
-                                <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
-                                <div class="content">
-                                    <h4 class="tool-name">{{- .title | markdownify -}}</h4>
-                                    <p class="tool-description"> {{ .text }}</p>
+        <div class="section">
+            <div class="row">
+                <div class="tools-card-wrapper">
+                    {{- range .Params.toolkits -}}
+                            <div class="tools col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                <a href="{{ $.Site.BaseURL }}{{ .url }}" target="_self">
+                                <div class="inner">
+                                    <div class="icon">{{- partial (printf "icons/%s.html" .icon) -}}</div>
+                                    <div class="content">
+                                        <h4 class="tool-name">{{- .title | markdownify -}}</h4>
+                                        <p class="tool-description"> {{ .text }}</p>
+                                    </div>
                                 </div>
+                            </a>
                             </div>
-                        </a>
-                        </div>
-                {{- end -}}
+                    {{- end -}}
+                </div>
             </div>
+            <a href="/free-toolkit" class="all-tools-btn">See all tools</a>
         </div>
-        <a href="/free-toolkit" class="all-tools-btn">See all tools</a>
     </section>
 </div>
 

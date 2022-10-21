@@ -45,7 +45,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="glide-controls" data-glide-el="controls">
+                      <div class="glide-controls" data-glide-el="controls" v-show="showGlideControls">
                         <span class="swiper-previous glide-control-btn" data-glide-dir="<">
                           {{- partial "icons/left-arrow.html" -}}
                         </span>
@@ -79,15 +79,15 @@
                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                     or less.
                   </p>
-                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                  <textarea @input="addCaption($event, 90,'Linkedin')" maxlength="3000" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
-                  <span class="mockup__title" v-if="activeAd.id === 4">Images (up to 10)</span><span class="mockup__title"
+                  <span class="mockup__title" v-if="activeAd.id === 4">Image carousel (up to 10)</span><span class="mockup__title"
                     v-else>Image</span>
-                  <span class="mockup__description">Recommended image size:
-                    <span>{activeAd.resolution}</span>&nbsp;pixels.</span>
-                  <uploader :multiple="activeAd.id === 4 ? true : false" :drop="true"
+                  <span class="mockup__description">Recommended image size is 
+                    <span>{activeAd.resolution}</span>&nbsp;pixels</span>
+                  <uploader v-if="activeAd.type !== 'Carousel'" :multiple="false" :drop="true"
                     @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="upload_placeholder-wrapper">
                       {{- partial "icons/upload-placeholder.html" -}}
@@ -97,48 +97,90 @@
                       </p>
                     </div>
                   </uploader>
+                  <div v-else class="multiple-uploader">
+                    <div class="ib_upload"  v-for="(post,i) in postSrc" :key="i">
+                      <div class="image-wrapper">
+                        <div class="edit-delete-wrapper">
+                          <uploader :multiple="false" @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
+                          <span class="delete-icon">
+                            {{- partial "icons/edit.html" -}}
+                          </span>
+                        </uploader>
+                          <span class="delete-icon" style="margin-top: 4px;" @click="deletePost(post)">
+                            {{- partial "icons/delete.html" -}}
+                          </span>
+                        </div>
+                        <img class="preview-image-body" :src="post" alt="">
+                      </div>
+                    </div>
+                   <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                    <div class="ib_upload uploader">
+                      <div class="image-wrapper">
+                        <span> {{- partial "icons/add.html" -}}</span>
+                      </div>
+                    </div>
+                    </uploader>
+                  </div>
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper">
                     <h4 class="mockup__title">
-                        Advertise tagline
+                        Tagline
                     </h4>
-                    <p class="mockup__description">
+                    <!-- <p class="mockup__description">
                       set advertise tagline for post.
-                    </p>
+                    </p> -->
                     <div class="input-wrapper">
                         <input @input="textInput($event,'websiteName')"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="Linkedin.com" :maxlength="activeAd.type !== 'Carousel' ? 20 : 60" />
+                          class="mockup-input" placeholder="Tagline" :maxlength="activeAd.type !== 'Carousel' ? 20 : 60" />
                     </div>
                   </div>
                   <div class="mockup__configuration-like-count ib__mockup-input-wrapper" v-if="activeAd.type !== 'Carousel'">
                     <h4 class="mockup__title">
-                     Link
+                     Website
                     </h4>
-                    <p class="mockup__description">
+                    <!-- <p class="mockup__description">
                       set website link for post.
-                    </p>
+                    </p> -->
                     <div class="input-wrapper">
                         <input @input="textInput($event,'headlineCopy')"  type="text" id="account-name-input"
-                          class="mockup-input" placeholder="inbeat.co" maxlength="20" />
+                          class="mockup-input" placeholder="websiteexample.com" maxlength="20" />
                       </div>
                   </div>
                 <div class="mockup__configuration-ad-action">
                   <h4 class="mockup__title">
-                    Call to Action
+                    Call to action
                   </h4>
                   <p class="mockup__description">
-                    Encourage people to click with an explicit call to action button.
+                    The displayed CTA on the bottom of the ad
                   </p>
                   <dropdown :options="ctaOptions" :optionselected="selectedPreviewCTA"
                     @option-select="optionSelect($event)"></dropdown>
                 </div>
+                <div class="mockup__configuration-ad-action">
+                  <h4 class="mockup__title">
+                    Reactions
+                  </h4>
+                  <!-- <p class="mockup__description">
+                    The displayed CTA on the bottom of the ad
+                  </p> -->
+                  <div class="reaction-select-wrapper">
+                    <div v-for="reaction in platformReactions" :key="reaction" @click="toggleReactionSelection(reaction)" :class="[{'--selected': platformSelectedReactions.includes(reaction)},'platform-reaction']">
+                      <div class="reaction-wrapper">
+                        <img :src="getImgUrl(reaction)" alt="">
+                      </div>
+                      <div class="circle-wrapper">
+                          <span class="circle"><span :class="{'--active': platformSelectedReactions.includes(reaction)}"></span></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div class="mockup__configuration-like-count">
                   <h4 class="mockup__title">
-                    Likes
+                    Reaction count
                   </h4>
-                  <p class="mockup__description">
-                    Set the number of likes for your post. Numeric input only.
-                  </p>
+                  <!-- <p class="mockup__description">
+                    Set the number of reaction for your post. Numeric input only.
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                   @input="numberInput($event,'likes')" class="likes-count-input" type="number" placeholder="15">
                 </div>
@@ -146,9 +188,9 @@
                   <h4 class="mockup__title">
                     Comments
                   </h4>
-                  <p class="mockup__description">
+                  <!-- <p class="mockup__description">
                     Set the number of comments for your post. Numeric input only.
-                  </p>
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'commentCount')">
                 </div>
@@ -156,9 +198,9 @@
                   <h4 class="mockup__title">
                     Share
                   </h4>
-                  <p class="mockup__description">
+                  <!-- <p class="mockup__description">
                     Set the number of Share for your post. Numeric input only.
-                  </p>
+                  </p> -->
                   <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"
                     class="likes-count-input" type="number" placeholder="1" @input="numberInput($event,'shareCount')">
                 </div>
@@ -184,11 +226,10 @@
                       </div>
                       {{- partial "icons/more-option.html" -}}
                     </div>
-                    <div class="preview-caption linkedin-caption" id="preview-caption"
-                    :style="{height: caption.length < 106 ? '36px !important':'36px'}">
-                      <span class="caption-text" v-html="displayCaptionValue"></span><span v-if="showSeeMore"
-                      class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
-                      v-html="seeMoreDisplayValue"></span>
+                    <div class="preview-caption facebook-caption" id="preview-caption"
+                    style="min-height: 36px;">
+                    <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
+                    class="see-more" @click="seeMoreExpand">...See More</span>
                   </div>
                   <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div class="preview-body" id="post-body" :style="getComputedHeight">
@@ -199,8 +240,8 @@
                   </uploader>
                     <div v-else  class="ib__linkedin-carousel-wrapper">
                       <div class="ib-linkedin-carousel">
-                        <div v-for="post in postSrc[0] ? postSrc : [0,1]" :key="(Math.random() * 100)" class="ib_linkedin-slide" id="linkedin__carousel-slide">
-                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                        <div v-for="(post,i) in postSrc[0] ? postSrc : [1]" :key="(Math.random() * 100)" class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                          <uploader style="width: 100%;" @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
                                 <span v-else class="placeholder-info">1:1<span>1080x1080px
@@ -213,6 +254,21 @@
                                 </span>
                                 <div class="linkedin-cta-button">{selectedPreviewCTA.name}</div>
                               </div>
+                        </div>
+                        <div v-if="postSrc.length < 10"  class="ib_linkedin-slide" id="linkedin__carousel-slide">
+                          <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
+                          <div class="post-wrapper"  :style="getComputedHeight">       
+                            <!-- <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt=""> -->
+                                <span class="placeholder-info">1:1<span>1080x1080px
+                                    recommended</span></span>
+                            </div>
+                          </uploader>
+                            <div class="linkedin__carousel-cta">
+                                <span class="slide-text">
+                                    {websiteName}
+                                </span>
+                                <div class="linkedin-cta-button">{selectedPreviewCTA.name}</div>
+                            </div>
                         </div>
                       </div>
                       <div v-if="left" class="btn btn-prev" aria-label="Previous slide" @click="slidePrevious">
@@ -237,7 +293,8 @@
                             {{- partial "icons/linkedin-heart.html" -}}
                             {{- partial "icons/linkedin-bulb.html" -}}
                             {{- partial "icons/linkedin-think.html" -}} -->
-                            {{- partial "icons/linkedin-emotions.html" -}}
+                            <!-- {{- partial "icons/linkedin-emotions.html" -}} -->
+                            <img :src="getImgUrl(reaction)" v-for="reaction in platformSelectedReactions" :key="reaction">
                           </div>
                           <div class="react-sec">
                             {likes}
@@ -266,51 +323,13 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div id="linkedin-mockup-preview" v-if="activeAd.id === 3" class="mockup_preview-story">
-                    <div class="header-wrapper">
-                      <div class="line">
-                      </div>
-                      <div class="preview-header">
-                        <div class="preview-creadincials">
-                          <div class="profile-picture-wrapper">
-                            <img v-if="dpSrc" :src="dpSrc ? dpSrc : ''" alt="">
-                          </div>
-                          <div class="user-name-wrapper">
-                            <h4 class="user-name">{profileName ? profileName : 'username'}</h4>
-                            <span class="sponcered-text">Sponsored</span>
-                          </div>
-                        </div>
-                        <div class="story-options">
-                          {{- partial "icons/more.html" -}}
-                          {{- partial "icons/cross-story.html" -}}
-                        </div>
-                      </div>
-                    </div>
-                    <div class="preview-body" id="story-body" :style="getComputedHeight">
-                      <img class="preview-image-body" v-if="postSrc[0]"
-                        :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
-                      <span v-else class="placeholder-info">{activeAd.ratio} <span>{activeAd.resolution}px
-                          recommended</span></span>
-                    </div>
-                    <div class="story__preview-footer">
-                      <div class="cta">
-                        {{- partial "icons/up-chevron.html" -}}
-                        <span>
-                          {selectedPreviewCTA.name}
-                        </span>
-                      </div>
-                      <div class="cta-wrapper">
-                        {{- partial "icons/dm-wh.html" -}}
-                      </div>
-                    </div>
-                  </div> -->
                 </div>
               </div>
               <div class="preview-download-wrapper">
-                <button @click="downloadPng" class="mockup-download-btn mockup-btn">
+                <button @click="downloadPng('linkedin-mockup-preview','linkedin-ad-mockup')" class="mockup-download-btn mockup-btn">
                   Download PNG
                 </button>
-                <button v-if="canCopy" @click="copyImage" class="mockup-copy-btn" @mouseleave="copied = false">
+                <button v-if="canCopy" @click="copyImage('linkedin-mockup-preview')" class="mockup-copy-btn" @mouseleave="copied = false">
                   {{- partial "icons/copy-button.html" -}}
                   <span v-if="!copied" class="--tooltip-copy">Copy to clipboard</span>
                   <span v-else class="--tooltip-copy --sucess">Copied
@@ -332,6 +351,9 @@
   {{- end -}}
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js" integrity="sha512-IkLiryZhI6G4pnA3bBZzYCT9Ewk87U4DGEOz+TnRD3MrKqaUitt+ssHgn2X/sxoM7FxCP/ROUp6wcxjH/GcI5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -549,6 +571,7 @@
       })
       var app = new Vue({
         el: '#mockup_builder',
+        mixins: [generalMixin,uploadMixin,captionMixin],
         data: {
               ctaOptions: [{name:'Apply',code:'Ap'},{name:'Download',code:'DW'},{name:'View Quote',code:'VQ'},{name:'Learn More',code:'LM'},{name:'Sign Up',code:'SU'},{name:'Subscribe',code:'SB'},{name:'Register',code:'REG'},{name:'Join',code:'JN'},{name:'Attend',code:'ATT'},{name:'Request Demo',code:'RQD'}],
               activeTab: 'controls',
@@ -556,17 +579,14 @@
               websiteName: 'Advertise tagline',
               headlineCopy: 'inbeat.co',
               selectedPreviewCTA: {name:'Apply',code:'Ap'},
-              dpSrc:null,
-              postSrc:[],
               likes: 15,
               commentCount: 1,
               shareCount: 1,
-              caption: '',
-              displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
-              captionValue: '',
-              seeMoreDisplayValue: '',
+              platformReactions:['linkedin-hmm','linkedin-light','linkedin-heart','linkedin-clap','linkedin-like'],
+              platformSelectedReactions:['linkedin-hmm','linkedin-light'],
               activePost: 0,
               left: 0,
+              showGlideControls: false,
               adTypes: [{
                 id:1,
                 type:'Square',
@@ -579,7 +599,7 @@
               },
               {
                 id:2,
-                type:'Video',
+                type:'Landscape',
                 ratio:'16:9',
                 img:'3-2'   ,
                 widthR: 16,
@@ -609,8 +629,6 @@
                 resolution: '1080x1080'
               },
               copied: false,
-              showSeeMore: false,
-              count :0,
               canCopy:true
           },
       methods:{
@@ -620,55 +638,21 @@
               if(this.activeTab === 'preview') this.setPreviewRatio()
             })
           },
-          uploadImage(fileset,location){
-            const files = Array.from(fileset)
-            if(this.postSrc.length >= 10){
-              this.$refs.messageError.innerHTML = 'You can only selet 10 images';
-              return
-            }
-            files.forEach(file => {
-              let src = URL.createObjectURL(file)
-              if(location === 'header'){
-                this.dpSrc = src
-              }else{
-                this.postSrc.push(src)
-                if(this.activeAd.id === 4){
-                  if( this.postSrc.length === 1){
-                    this.postSrc[1] = this.postSrc[0] 
-                  }else if (this.postSrc[0] === this.postSrc[1]){
-                    this.postSrc.splice(1, 1)
-                  }
-                }
-              }
-            })
-          },
-          validation(e){
-              console.log(e)
-          },
-          downloadPng(){
-            var preview = document.getElementById('linkedin-mockup-preview')
-            html2canvas(preview)
-            .then(function(canvas){
-              var link = document.createElement('a');
-                link.download = 'post-mockup.png';
-                link.href = canvas.toDataURL();
-                link.click();
-            })
-          },
-          copyImage(){
-            var preview = document.getElementById('linkedin-mockup-preview')
-              navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-              if (result.state == "granted" || result.state == "prompt") {
-                html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-                this.copied = true
-              }
-              })
-          },
           optionSelect(e){
             this.selectedPreviewCTA = e
           },
           getImgUrl(pic) {
               return '/icons/'+pic+'.svg'
+          },
+          toggleReactionSelection(reaction){
+            if(this.platformSelectedReactions.includes(reaction)){
+              const index = this.platformSelectedReactions.indexOf(reaction);
+              if ( index > -1) {
+                this.platformSelectedReactions.splice(index, 1)
+              }
+            }else{
+              this.platformSelectedReactions.push(reaction)
+            }
           },
           adTypeClick(adType){
             if(this.activeAd.id !== adType.id){
@@ -679,68 +663,8 @@
               })
             }
           },
-          addCaption(){
-            if(this.seeMoreDisplayValue === ''){
-              this.count = 0 
-            }
-            if(this.caption.length < 103 && this.count !== 1){
-              if (this.showSeeMore){
-                this.showSeeMore = !this.showSeeMore
-                document.getElementById('preview-caption').style.height = '34px' 
-              }
-            }
-            let charLimit = window.innerWidth <= 765 ? 78 : 95
-            if(this.caption.length > charLimit){
-              let firstHalf= this.caption.slice(0,charLimit)
-              let secondHalf =this.caption.slice(charLimit)
-              let firstHalfWords = firstHalf.split(" ");
-              let secondHalfWords = firstHalf.split(" ");
-              let displaySentence = ''
-              let displaySentence2 = ''
-              firstHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  firstHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + firstHalfWords[i]
-              });
-              secondHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  secondHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
-              });
-              this.displayCaptionValue = displaySentence
-              this.seeMoreDisplayValue = displaySentence2
-            }
-              const words = this.caption.split(" ");
-              let displaySentence = ''
-              words.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  words[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + words[i]
-                this.captionValue = displaySentence 
-              });
-              if(this.caption.length < 95){
-                this.seeMoreDisplayValue= ''
-                this.displayCaptionValue = displaySentence
-              }else{
-                if(this.count === 0){
-                  this.count = 1 
-                  this.showSeeMore = true
-                }
-                this.seeMoreDisplayValue = displaySentence.slice(this.displayCaptionValue.length)
-              }
-          },
           setHeight(req){
             document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
-          },
-          addLikes(e){
-           this.likes = e.target.value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-          },
-          checkIfNumber(event) {
-          const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
-          return !event.key.match(regex) && event.preventDefault();
           },
           textInput(e,inputName){
             this[inputName] = e.target.value
@@ -760,14 +684,6 @@
             this.headlineCopy = 'inbeat.co',
             this.selectedPreviewCTA= {name:'Apply',code:'Ap'}
             this.activePost = 0
-          },
-          seeMoreExpand(){
-            let ele = document.getElementById('preview-caption')
-            let height = ele.offsetHeight
-            if(height<51){
-              ele.style.height = 'auto'
-              this.showSeeMore = false
-            }
           },
           updateCurrentPost(val){
             this.activePost = val
@@ -795,23 +711,12 @@
               this.activeTab = 'both'
             }
           },
-          numberInput(e,inputName){
-            const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
-           this[inputName] = this.abbreviateNumber(e.target.value,SI_SYMBOL) 
-          },
-          abbreviateNumber(number,SI_SYMBOL){  
-                // what tier? (determines SI symbol)
-                var tier = Math.log10(Math.abs(number)) / 3 | 0;           
-                if(tier == 0) return number;
-                tier = tier > 6 ? 6 : tier
-                var suffix = SI_SYMBOL[tier];
-                var scale = Math.pow(10, tier * 3);
-                var scaled = number / scale;
-                return scaled.toFixed(1) + suffix;
-          },
           slideNext(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
-            this.left += 320
+            this.left += 310
+            if(ele.scrollWidth < (this.left + 310)){
+              this.left -= 310    
+            }
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
@@ -819,21 +724,31 @@
           },
           slidePrevious(){
             let ele = document.getElementsByClassName('ib-linkedin-carousel')[0]
-            this.left -= 320
+            this.left -= 310
             ele.scrollTo({
               left: this.left,
               behavior: 'smooth',
             })
           },
+          toggleGlideControllers() {
+              let glideWrap = document.getElementById('mockup-type-wrapper');
+              if(glideWrap &&glideWrap.clientWidth <= glideWrap.parentNode.clientWidth) {
+                  this.showGlideControls = false;
+              } else {
+                  this.showGlideControls = true;
+              }
+          },
       },
       mounted(){
         this.setActiveTab()
+        this.toggleGlideControllers();
         this.$nextTick(() => {
           this.setHeight(80);
         })
         window.addEventListener('resize',(event) =>{
           this.setActiveTab()
           this.setHeight(80);
+          this.toggleGlideControllers();
         }, true)
         this.checkBrowserCompatibility()
       },
@@ -848,39 +763,4 @@
         delimiters: ['{', '}'],
       });
       </script>
-      <script>
-          const glide = new Glide('.glide',{
-            type: 'slider',
-            perView: 4,
-            focus: "center",
-            rewind: false,
-            bound: true,
-            gap: 0,
-            breakpoints: {
-                  1200: {
-                      perView: 4
-                  },
-                  1080: {
-                      perView: 3
-                  },
-              1198: {
-                perView: 3
-              },
-              768: {
-                perView: 3
-              },
-                  700: {
-                      perView: 3
-                  },
-              600: {
-                perView: 2
-              },
-              576: {
-                perView: 2
-              },
-              400: {
-                perView: 1
-              },
-              }
-          }).mount()
-      </script>
+{{- partial "site/ad-mockup-generator/adFormatSliderScript.html" -}}

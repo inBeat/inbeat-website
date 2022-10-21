@@ -1,0 +1,47 @@
+<script>
+    var generalMixin = {
+        data: {
+              dpSrc:null,
+              postSrc:[],
+          },
+        methods: {
+            downloadPng(target,name){
+                var preview = document.getElementById(target)
+                html2canvas(preview)
+                .then(function(canvas){
+                  var link = document.createElement('a');
+                    link.download = name+'.png';
+                    link.href = canvas.toDataURL();
+                    link.click();
+                })
+            },
+            copyImage(target){
+                var preview = document.getElementById(target)
+                navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
+                    if (result.state == "granted" || result.state == "prompt") {
+                      html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
+                      this.copied = true
+                    }
+                })
+            },
+            numberInput(e,inputName){
+                const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
+                this[inputName] = this.abbreviateNumber(e.target.value,SI_SYMBOL) 
+            },
+            abbreviateNumber(number,SI_SYMBOL){  
+                // what tier? (determines SI symbol)
+                var tier = Math.log10(Math.abs(number)) / 3 | 0;           
+                if(tier == 0) return number;
+                tier = tier > 6 ? 6 : tier
+                var suffix = SI_SYMBOL[tier];
+                var scale = Math.pow(10, tier * 3);
+                var scaled = number / scale;
+                return scaled.toFixed(1) + suffix;
+            },
+            checkIfNumber(event) {
+                const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+                return !event.key.match(regex) && event.preventDefault();
+            },
+        }
+    }
+</script>

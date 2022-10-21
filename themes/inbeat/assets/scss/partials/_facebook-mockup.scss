@@ -16,6 +16,7 @@
     line-height: 20px;
     letter-spacing: 0.005em;
     color: #050505;
+    overflow-wrap: break-word;
     // margin-top: 5px;
     padding: 2px 14px 12px 14px;
 }
@@ -69,8 +70,8 @@
         justify-content: center;
         .facebook__react-emoticon{
             display: flex;
-            svg:not(:first-child){
-                margin-left: -2px;
+            img:not(:first-child){
+                margin-left: -4px;
             }
         }
         .react-sec{
@@ -116,6 +117,9 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    .preview-image-body{
+        height: 100%;
+    }
     &:first-child{
         margin-left: 14px;
     }

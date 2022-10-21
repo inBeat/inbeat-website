@@ -7,17 +7,21 @@ name: snapchat
 layout: ad-mockup-generator
 title: Snapchat Ad Mockup
 subtitle: "Snapchat mockup"
+og_image: >- 
+    https://www.inbeat.co/images/ad-mockup-banner.png
 hero:
   title: Snapchat Ad Mockup <br> Generator
   subtitle: >-
     This Ad Mockup generator allows you to fully customize all fields on a Snapchat ad, and upload your own media!
 whatwedo:
-    title: Creator Studio
-    text: Collaborate with the best micro-influencers, without doing all the work. No more endless discovery, email pitches and influencer ghosting. inBeat handles it all for you. 
-    video: influencer-statistics  
+    title: UCG Platform
+    text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
+    video: CreatorStudio_Snippet
+    newBadge: true
     cta:
       link: https://www.inbeat.co/ugc-platform/
       text: Learn More
+    id: mockup-whatwedo
 relatedTools:
   title: 'Related Tools'
   id: 'mockup-related-tools'
