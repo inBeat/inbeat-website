@@ -143,7 +143,7 @@
                   Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                   or less.
                 </p>
-                <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                <textarea @input="addCaption($event, 90)" maxlength="2200" class="message-textarea" v-model="caption"
                   placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
               </div>
             </div>
@@ -283,7 +283,7 @@
                       </div>
                       <div class="preview-caption" id="preview-caption">
                         <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
-                        class="see-more" @click="seeMoreExpand">...See More</span>
+                        class="see-more" @click="seeMoreExpand">...See More</span>  
                     </div>
                       <div class="reel-cta">
                           {selectedPreviewCTA.name}
@@ -338,6 +338,7 @@
 {{- partial "site/ad-mockup-generator/adFormatHeightMixin.html" -}}
 {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
 {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+{{- partial "site/ad-mockup-generator/captionMixin.html" -}}
 <script>
     Vue.component('uploader', {
         data: function () {
@@ -608,7 +609,7 @@
 
     var app = new Vue({
       el: '#mockup_builder',
-      mixins: [adFormatHeightMixin,uploadMixin,generalMixin],
+      mixins: [adFormatHeightMixin,uploadMixin,generalMixin,captionMixin],
       data: {
             ctaOptions: [{name:'Apply Now',code:'AM'},{name:'Book Now',code:'BN'},{name:'Contact Us',code:'CU'},{name:'Download',code:'Do'},{name:'Learn More',code:'LM'},{name:'Send Message',code:'SM'},{name:'Get Showtimes',code:'GS'},{name:'Get Quote',code:'GQ'},{name:'Request Time',code:'RT'},{name:'See Menu',code:'SME'},{name:'Shop Now',code:'SNO'},{name:'Sign Up',code:'SUP'},{name:'Watch More',code:'WM'},{name:'Listen Now',code:'LN'},{name:'Subscribe',code:'SC'},{name:'Send WhatsApp Message',code:'SWMSG'}],
             activeTab: 'controls',
@@ -616,11 +617,6 @@
             selectedPreviewCTA: {name:'Learn More',code:'LM'},
             likes: 15,
             comments: 162,
-            caption: '',
-            text:'This is caption that will display on the final mockup. You can write anything.',
-            displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
-            captionValue: '',
-            seeMoreDisplayValue: '',
             activePost: 0,
             adTypes: [{
               id:1,
@@ -694,8 +690,6 @@
               resolution: '1080x1080'
             },
             copied: false,
-            showSeeMore: false,
-            count :0,
             canCopy:true
         },
     methods:{
@@ -713,88 +707,6 @@
               this.setHeight(adType.req)
             })
           }
-        },
-        addCaption(){
-          // this.displayCaptionValue = this.caption
-          // if(this.seeMoreDisplayValue === ''){
-          //   this.count = 0 
-          // }
-          // if(this.caption.length < 103 && this.count !== 1){
-          //   if (this.showSeeMore){
-          //     this.showSeeMore = !this.showSeeMore
-          //     document.getElementById('preview-caption').style.height = '34px' 
-          //   }
-          // }
-          let charLimit = window.innerWidth <= 765 ? 86 : 90
-          if(this.caption.length < charLimit){
-            this.setDisplayCaptionValue(charLimit)
-          }else{
-            // this.displayCaptionValue.slice(0,(charLimit - 15))
-            if(this.displayCaptionValue === ' ' || this.displayCaptionValue === this.text){
-              this.setDisplayCaptionValue(charLimit)
-            }
-            this.count = 0
-            const words = this.caption.split(" ");
-            this.styleCaption(words,'captionValue')
-            this.showSeeMore = true
-          }
-          // if(this.caption.length > charLimit){
-          //   let firstHalf= this.caption.slice(0,charLimit)
-          //   let secondHalf =this.caption.slice(charLimit)
-          //   let firstHalfWords = firstHalf.split(" ");
-          //   let secondHalfWords = firstHalf.split(" ");
-          //   let displaySentence = ''
-          //   let displaySentence2 = ''
-          //   firstHalfWords.forEach((word,i) => {
-          //     if(word.startsWith('@') || word.startsWith('#')){
-          //       firstHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-          //     }
-          //     displaySentence = displaySentence + ' ' + firstHalfWords[i]
-          //   });
-          //   secondHalfWords.forEach((word,i) => {
-          //     if(word.startsWith('@') || word.startsWith('#')){
-          //       secondHalfWords[i]=`<span style="color:#5395E9;">${word}</span> `
-          //     }
-          //     displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
-          //   });
-          //   this.displayCaptionValue = displaySentence
-          //   this.seeMoreDisplayValue = displaySentence2
-          // }
-          //   const words = this.caption.split(" ");
-          //   let displaySentence = ''
-          //   words.forEach((word,i) => {
-          //     if(word.startsWith('@') || word.startsWith('#')){
-          //       words[i]=`<span style="color:#5395E9;">${word}</span> `
-          //     }
-          //     displaySentence = displaySentence + ' ' + words[i]
-          //     this.captionValue = displaySentence 
-          //   });
-          //   if(this.caption.length < 95){
-          //     this.seeMoreDisplayValue= ''
-          //     this.displayCaptionValue = displaySentence
-          //   }else{
-          //     if(this.count === 0){
-          //       this.count = 1 
-          //       this.showSeeMore = true
-          //     }
-          //     this.seeMoreDisplayValue = displaySentence.slice(this.displayCaptionValue.length)
-          //   }
-        },
-        styleCaption(words,target){
-          let displaySentence = '';
-          words.forEach((word,i) => {
-              if(word.startsWith('@') || word.startsWith('#')){
-                words[i]=`<span style="color:#5395E9;">${word}</span> `
-              }
-              displaySentence = displaySentence + ' ' + words[i]
-              this[target] = displaySentence 
-            });
-        },
-        setDisplayCaptionValue(charLimit){
-          let firstHalf= this.caption.slice(0,charLimit)
-            const words = firstHalf.split(" ");
-            this.styleCaption(words,'displayCaptionValue')
-            this.showSeeMore = false
         },
         setHeight(req){
           document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
@@ -822,15 +734,6 @@
           if(this.$refs.messageError){
             this.$refs.messageError.innerHTML = '';
           }
-        },
-        seeMoreExpand(){
-          // let ele = document.getElementById('preview-caption')
-          // let height = ele.offsetHeight
-          this.count = 1
-          this.showSeeMore = false
-          // if(height<51){
-          //   // ele.style.height = 'auto'
-          // }
         },
         updateCurrentPost(val){
           this.activePost = val
