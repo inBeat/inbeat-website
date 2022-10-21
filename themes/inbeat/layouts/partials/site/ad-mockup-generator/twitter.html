@@ -110,11 +110,17 @@
                   <div v-else class="multiple-uploader">
                     <div class="ib_upload"  v-for="post in postSrc" :key="(Math.random() * 100)">
                       <div class="image-wrapper">
-                        <span class="delete-icon" v-if="postSrc[0]" @click="deletePost(post)">
-                          {{- partial "icons/delete.html" -}}
-                        </span>
-                        <img v-if="postSrc[0]" class="preview-image-body" :src="post" alt="">
-                        <span v-else> {{- partial "icons/upload-placeholder.html" -}}</span>
+                        <div class="edit-delete-wrapper">
+                          <uploader :multiple="false" @submit-image="uploadImage($event,'body',i)" @validated="validation($event)">
+                          <span class="delete-icon">
+                            {{- partial "icons/edit.html" -}}
+                          </span>
+                        </uploader>
+                          <span class="delete-icon" style="margin-top: 4px;" @click="deletePost(post)">
+                            {{- partial "icons/delete.html" -}}
+                          </span>
+                        </div>
+                        <img  class="preview-image-body" :src="post" alt="">
                       </div>
                     </div>
                    <uploader v-if="postSrc.length < 10" :multiple="true" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
