@@ -45,7 +45,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="glide-controls" data-glide-el="controls">
+                      <div class="glide-controls" data-glide-el="controls" v-show="showGlideControls">
                         <span class="swiper-previous glide-control-btn" data-glide-dir="<">
                           {{- partial "icons/left-arrow.html" -}}
                         </span>
@@ -586,6 +586,7 @@
               platformSelectedReactions:['linkedin-hmm','linkedin-light'],
               activePost: 0,
               left: 0,
+              showGlideControls: false,
               adTypes: [{
                 id:1,
                 type:'Square',
@@ -729,15 +730,25 @@
               behavior: 'smooth',
             })
           },
+          toggleGlideControllers() {
+              let glideWrap = document.getElementById('mockup-type-wrapper');
+              if(glideWrap &&glideWrap.clientWidth <= glideWrap.parentNode.clientWidth) {
+                  this.showGlideControls = false;
+              } else {
+                  this.showGlideControls = true;
+              }
+          },
       },
       mounted(){
         this.setActiveTab()
+        this.toggleGlideControllers();
         this.$nextTick(() => {
           this.setHeight(80);
         })
         window.addEventListener('resize',(event) =>{
           this.setActiveTab()
           this.setHeight(80);
+          this.toggleGlideControllers();
         }, true)
         this.checkBrowserCompatibility()
       },

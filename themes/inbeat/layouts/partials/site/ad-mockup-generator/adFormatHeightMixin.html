@@ -1,5 +1,10 @@
 <script>
     var adFormatHeightMixin = {
+        data() {
+            return {
+                showGlideControls: false,
+            }
+        },
         created() {
             this.activeAd = this.adTypes[0];
         },
@@ -12,12 +17,14 @@
         },
         mounted(){
             this.setActiveTab()
+            this.toggleGlideControllers();
             this.$nextTick(() => {
                 this.setHeight(80);
             })
             window.addEventListener('resize',(event) =>{
                 this.setActiveTab()
                 this.setHeight(80);
+                this.toggleGlideControllers();
             }, true)
             this.checkBrowserCompatibility()
         },
@@ -50,6 +57,14 @@
                     this.activeTab = 'controls' 
                 }else{
                     this.activeTab = 'both'
+                }
+            },
+            toggleGlideControllers() {
+                let glideWrap = document.getElementById('mockup-type-wrapper');
+                if(glideWrap &&glideWrap.clientWidth <= glideWrap.parentNode.clientWidth) {
+                    this.showGlideControls = false;
+                } else {
+                    this.showGlideControls = true;
                 }
             }
         }
