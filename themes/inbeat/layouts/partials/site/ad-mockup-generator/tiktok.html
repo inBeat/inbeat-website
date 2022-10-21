@@ -146,7 +146,7 @@
                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                     or less.
                   </p>
-                  <textarea @input="addCaption($event, 90)" maxlength="2200" class="message-textarea" v-model="caption"
+                  <textarea @input="addCaption($event, 90,'Tiktok')" maxlength="2200" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-like-count ib__mockup-input-wrapper" style="margin-top: 19px;">
@@ -166,8 +166,10 @@
               <div class="preview-wrapper-mobile">
                 <div id="mockup-download-img">
                   <div id="tiktok-mockup">
+                   
                     <div class="ib_tiktok-mockup-wrapper-body" id="ib_tiktok-mockup-wrapper-body" :style="getComputedHeight">
                       <div class="story-overlay"></div>
+
                       <img class="preview-image-body" v-if="postSrc[0]"
                       :src="postSrc[0] ? postSrc[postSrc.length - 1] : ''" alt="">
                        <div class="tiktok_mockup-header">

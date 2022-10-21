@@ -9,44 +9,44 @@
             count: 0
           },
         methods: {
-          addCaption(e,charLimit){
+          addCaption(e,charLimit,platform){
                 if(this.caption.length < charLimit || e.target.selectionStart < charLimit){
-                  this.setDisplayCaptionValue(charLimit)
+                  this.setDisplayCaptionValue(charLimit,platform)
                   if(this.displayCaptionValue === ' '){
                     this.captionValue = ''
                   }
                   if(this.caption.length > charLimit){
-                       this.setCaptionValue()
+                       this.setCaptionValue(platform)
                        console.log({val:this.captionValue,dis:this.displayCaptionValue})
                   }
                 }else{
                   if(this.displayCaptionValue === ' ' || this.displayCaptionValue === this.text || this.displayCaptionValue.length < charLimit){
-                    this.setDisplayCaptionValue(charLimit)
+                    this.setDisplayCaptionValue(charLimit,platform)
                    }
                    this.count = 0
-                  this.setCaptionValue()
+                  this.setCaptionValue(platform)
                 }
             },
-            styleCaption(words,target){
+            styleCaption(words,target,platform){
               let displaySentence = '';
               words.forEach((word,i) => {
                   if(word.startsWith('@') || word.startsWith('#')){
-                    words[i]=`<span style="color:#5395E9;">${word}</span> `
+                    words[i]=`<span style="color:${platform === 'Tiktok' ? '#FFFFFF' : '#1876F2'}">${word}</span> `
                   }
                   displaySentence = displaySentence + ' ' + words[i]
                   this[target] = displaySentence 
                 });
             },
-            setDisplayCaptionValue(charLimit){
+            setDisplayCaptionValue(charLimit,platform){
                 let firstHalf= this.caption.slice(0,charLimit)
                 const words = firstHalf.split(" ");
-                this.styleCaption(words,'displayCaptionValue')
+                this.styleCaption(words,'displayCaptionValue',platform)
                 this.showSeeMore = this.caption.length < charLimit ? false : true 
                  this.count=this.captionValue === ' ' ?  1 : 0
             },
-            setCaptionValue(){
+            setCaptionValue(platform){
                 const words = this.caption.split(" ");
-                this.styleCaption(words,'captionValue')
+                this.styleCaption(words,'captionValue',platform)
                 this.showSeeMore = true
             },
             seeMoreExpand(){
