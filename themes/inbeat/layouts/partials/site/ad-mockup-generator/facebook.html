@@ -272,7 +272,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="ib_facebook-slide" id="facebook__carousel-slide">
+                        <div v-if="postSrc.length < 10" class="ib_facebook-slide" id="facebook__carousel-slide">
                           <uploader :multiple="true" style="width: 100%;" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                           <div class="post-wrapper"  :style="getComputedHeight">       
                             <span class="placeholder-info">1:1<span>1080x1080px
