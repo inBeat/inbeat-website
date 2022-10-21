@@ -1,0 +1,57 @@
+<script>
+    var captionMixin = {
+        data: {
+            caption: '',
+            text:'This is caption that will display on the final mockup. You can write anything.',
+            displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
+            captionValue: '',
+            showSeeMore: false,
+            count: 0
+          },
+        methods: {
+            addCaption(e,charLimit){
+                if(this.caption.length < charLimit || e.target.selectionStart < charLimit){
+                  this.setDisplayCaptionValue(charLimit)
+                  if(this.displayCaptionValue === ' '){
+                    this.captionValue = ''
+                  }
+                  if(this.caption.length > charLimit){
+                       this.setCaptionValue()
+                  }
+                }else{
+                  if(this.displayCaptionValue === ' ' || this.displayCaptionValue === this.text){
+                    this.setDisplayCaptionValue(charLimit)
+                   }
+                   this.count = 0
+                  this.setCaptionValue()
+                }
+            },
+            styleCaption(words,target){
+              let displaySentence = '';
+              words.forEach((word,i) => {
+                  if(word.startsWith('@') || word.startsWith('#')){
+                    words[i]=`<span style="color:#5395E9;">${word}</span> `
+                  }
+                  displaySentence = displaySentence + ' ' + words[i]
+                  this[target] = displaySentence 
+                });
+            },
+            setDisplayCaptionValue(charLimit){
+                let firstHalf= this.caption.slice(0,charLimit)
+                const words = firstHalf.split(" ");
+                this.styleCaption(words,'displayCaptionValue')
+                this.showSeeMore = this.caption.length < charLimit ? false : true 
+                this.count = this.caption.length < charLimit ? 0 : 1 
+            },
+            setCaptionValue(){
+                const words = this.caption.split(" ");
+                this.styleCaption(words,'captionValue')
+                this.showSeeMore = true
+            },
+            seeMoreExpand(){
+                this.count = 1
+                this.showSeeMore = false
+            },
+        }
+    }
+</script>
