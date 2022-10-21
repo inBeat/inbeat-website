@@ -79,7 +79,7 @@
                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                     or less.
                   </p>
-                  <textarea @input="addCaption" maxlength="2200" class="message-textarea" v-model="caption"
+                  <textarea @input="addCaption($event, 90)" maxlength="2200" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
@@ -236,10 +236,8 @@
                     </div>
                     <div class="preview-caption facebook-caption" id="preview-caption"
                     style="min-height: 40px;">
-                      <span class="caption-text">{caption ? caption : displayCaptionValue}</span>
-                      <!-- <span v-if="showSeeMore"
-                      class="see-more" @click="seeMoreExpand">...See More</span><span v-else class="caption-text"
-                      v-html="seeMoreDisplayValue"></span> -->
+                    <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
+                    class="see-more" @click="seeMoreExpand">...See More</span>
                   </div>
                   <uploader v-if="activeAd.id !== 4" @submit-image="uploadImage($event,'body')" @validated="validation($event)">
                     <div  class="preview-body" id="post-body" :style="getComputedHeight">
@@ -359,6 +357,7 @@
   {{- partial "site/ad-mockup-generator/adFormatHeightMixin.html" -}}
   {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
   {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -576,7 +575,7 @@
       })
       var app = new Vue({
         el: '#mockup_builder',
-        mixins: [adFormatHeightMixin,uploadMixin,generalMixin],
+        mixins: [adFormatHeightMixin,uploadMixin,generalMixin,captionMixin],
         data: {
               ctaOptions: [{name:'Download',code:'DW'},{name:'Learn more',code:'LN'},{name:'Apply now',code:'AN'},{name:'Shop now',code:'SN'},{name:'Watch more',code:'WM'},{name:'Subscribe',code:'SB'},{name:'Find Yout Groups',code:'FYG'},{name:'Try in Camera',code:'TIC'},{name:'Sign up',code:'SU'},{name:'Book now',code:'BN'},{name:'Call now',code:'CN'},{name:'Contact us',code:'CU'},{name:'Listen Now',code:'LN'},{name:'Get showtimes',code:'GST'},{name:'Order now',code:'ORDE'},{name:'Get directions',code:'GDRE'},{name:'See menu',code:'CME'},{name:'Get quote',code:'GQUO'},{name:'Send message',code:'SEM'},{name:'Send WhatsApp message',code:'SENWMSG'},{name:'Request time',code:'RQT'},{name:'Dial code',code:'DIC'}],
               activeTab: 'controls',
@@ -589,10 +588,6 @@
               commentCount: 1,
               shareCount: 1,
               left: 0,
-              caption: '',
-              displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
-              captionValue: '',
-              seeMoreDisplayValue: '',
               activePost: 0,
               platformReactions:['facebook-like','facebook-anger','facebook-sad','facebook-heart','facebook-hug','facebook-surprise','facebook-laugh'],
               platformSelectedReactions:['facebook-like','facebook-surprise','facebook-laugh'],
@@ -648,8 +643,6 @@
                 resolution: '1080x1080'
               },
               copied: false,
-              showSeeMore: false,
-              count :0,
               canCopy:true
           },
       methods:{
@@ -678,59 +671,6 @@
               this.platformSelectedReactions.push(reaction)
             }
           },
-          addCaption(){
-            if(this.seeMoreDisplayValue === ''){
-              this.count = 0 
-            }
-            if(this.caption.length < 103 && this.count !== 1){
-              if (this.showSeeMore){
-                this.showSeeMore = !this.showSeeMore
-                document.getElementById('preview-caption').style.height = '34px' 
-              }
-            }
-            let charLimit = window.innerWidth <= 765 ? 78 : 95
-            if(this.caption.length > charLimit){
-              let firstHalf= this.caption.slice(0,charLimit)
-              let secondHalf =this.caption.slice(charLimit)
-              let firstHalfWords = firstHalf.split(" ");
-              let secondHalfWords = firstHalf.split(" ");
-              let displaySentence = ''
-              let displaySentence2 = ''
-              firstHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  firstHalfWords[i]=`<span style="color:#1876F2;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + firstHalfWords[i]
-              });
-              secondHalfWords.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  secondHalfWords[i]=`<span style="color:#1876F2;">${word}</span> `
-                }
-                displaySentence2 = displaySentence2 + ' ' + secondHalfWords[i]
-              });
-              this.displayCaptionValue = displaySentence
-              this.seeMoreDisplayValue = displaySentence2
-            }
-              const words = this.caption.split(" ");
-              let displaySentence = ''
-              words.forEach((word,i) => {
-                if(word.startsWith('@') || word.startsWith('#')){
-                  words[i]=`<span style="color:#5395E9;">${word}</span> `
-                }
-                displaySentence = displaySentence + ' ' + words[i]
-                this.captionValue = displaySentence 
-              });
-              if(this.caption.length < 95){
-                this.seeMoreDisplayValue= ''
-                this.displayCaptionValue = displaySentence
-              }else{
-                if(this.count === 0){
-                  this.count = 1 
-                  this.showSeeMore = true
-                }
-                this.seeMoreDisplayValue = displaySentence.slice(this.displayCaptionValue.length)
-              }
-          },
           setHeight(req){
             document.getElementById('mockup-controls').style.height = (document.getElementById('mockup-preview').clientHeight - req) + 'px'
           },
@@ -757,14 +697,6 @@
             this.headlineCopy = 'Headline copy here',
             this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
             this.activePost = 0
-          },
-          seeMoreExpand(){
-            let ele = document.getElementById('preview-caption')
-            let height = ele.offsetHeight
-            if(height<51){
-              ele.style.height = 'auto'
-              this.showSeeMore = false
-            }
           },
           updateCurrentPost(val){
             this.activePost = val
