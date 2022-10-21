@@ -1405,6 +1405,10 @@
     background: #BCBCBC;
   }
   cursor: pointer;
+  &.--disabled {
+    opacity: 0.2;
+    pointer-events: none;
+  }
 }
 .preview-wrapper-mobile{
   @include breakpoint(md-down) {

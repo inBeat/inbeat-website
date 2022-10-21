@@ -783,4 +783,26 @@
             },
 	        }
         }).mount()
+      function handleDisableControls() {
+        backBtnEl = document.querySelector('[data-glide-dir="<"]');
+        nextBtnEl = document.querySelector('[data-glide-dir=">"]');
+        if(backBtnEl && nextBtnEl) {
+          if(glide.index === 0) {
+            // disable prev button
+            backBtnEl.classList.add('--disabled')
+          } else {
+            backBtnEl.classList.remove('--disabled')
+          } 
+          if(glide.index + glide._o.perView === glide._c.Html.slides.length) {
+            // disable next button
+            nextBtnEl.classList.add('--disabled')
+          } else {
+            nextBtnEl.classList.remove('--disabled')
+          }
+        }
+      }
+      glide.on(['build.after', 'run'], function() {
+        handleDisableControls();
+      })
+      handleDisableControls();
     </script>
