@@ -9,7 +9,7 @@
             count: 0
           },
         methods: {
-            addCaption(e,charLimit){
+          addCaption(e,charLimit){
                 if(this.caption.length < charLimit || e.target.selectionStart < charLimit){
                   this.setDisplayCaptionValue(charLimit)
                   if(this.displayCaptionValue === ' '){
@@ -17,9 +17,10 @@
                   }
                   if(this.caption.length > charLimit){
                        this.setCaptionValue()
+                       console.log({val:this.captionValue,dis:this.displayCaptionValue})
                   }
                 }else{
-                  if(this.displayCaptionValue === ' ' || this.displayCaptionValue === this.text){
+                  if(this.displayCaptionValue === ' ' || this.displayCaptionValue === this.text || this.displayCaptionValue.length < charLimit){
                     this.setDisplayCaptionValue(charLimit)
                    }
                    this.count = 0
@@ -41,7 +42,7 @@
                 const words = firstHalf.split(" ");
                 this.styleCaption(words,'displayCaptionValue')
                 this.showSeeMore = this.caption.length < charLimit ? false : true 
-                this.count = this.caption.length < charLimit ? 0 : 1 
+                 this.count=this.captionValue === ' ' ?  1 : 0
             },
             setCaptionValue(){
                 const words = this.caption.split(" ");

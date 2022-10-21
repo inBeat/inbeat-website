@@ -89,7 +89,7 @@
                     Grab interest with more info about what you're advertising. Keep it short - we recommend 90 characters
                     or less.
                   </p>
-                  <textarea maxlength="2200" class="message-textarea" v-model="caption"
+                  <textarea @input="addCaption($event, 70)" maxlength="3500" class="message-textarea" v-model="caption"
                     placeholder="This is caption that will display on the final mockup. You can write anything."></textarea>
                 </div>
                 <div class="mockup__configuration-dropzone-wrapper ib__mockup-dropzone">
@@ -201,7 +201,8 @@
                                     {{- partial "icons/twitter-more-buttons.html" -}}
                                 </div>
                                 <div class="header-description-caption" style="min-height: 48px">
-                                    {caption ? caption : displayCaptionValue}
+                                  <span class="caption-text" v-html="count === 0 ? displayCaptionValue : captionValue"></span><span v-if="showSeeMore"
+                                  class="see-more" @click="seeMoreExpand">...See More</span>
                                 </div>
                             </div>
                             <div :class="{'twitter__carousel-wrapper' : activeAd.id=== 3}">
@@ -319,6 +320,7 @@
   {{- partial "site/ad-mockup-generator/adFormatHeightMixin.html" -}}
   {{- partial "site/ad-mockup-generator/generalMixin.html" -}}
   {{- partial "site/ad-mockup-generator/uploadMixin.html" -}}
+  {{- partial "site/ad-mockup-generator/captionMixin.html" -}}
   <script>
       Vue.component('uploader', {
           data: function () {
@@ -587,15 +589,13 @@
   
       var app = new Vue({
         el: '#mockup_builder',
-        mixins: [uploadMixin,generalMixin],
+        mixins: [uploadMixin,generalMixin,captionMixin],
         data: {
               activeTab: 'controls',
               profileName: '',
               profileUserId: '',
               selectedPreviewCTA: {name:'Learn More',code:'LM'},
               likes: 15,
-              caption: '',
-              displayCaptionValue: 'This is caption that will display on the final mockup. You can write anything.',
               description: '',
               website:'',
               captionValue: '',
@@ -646,8 +646,6 @@
                 resolution: '1080x1080'
               },
               copied: false,
-              showSeeMore: false,
-              count :0,
               canCopy:true
           },
           updated() {
@@ -662,51 +660,6 @@
               if(this.activeTab === 'preview') this.setPreviewRatio()
             })
           },
-          // uploadImage(fileset,location){
-          //   this.$refs.messageError.innerHTML = '';
-          //   const files = Array.from(fileset)
-          //   if(this.postSrc.length >= 10){
-          //     this.$refs.messageError.innerHTML = 'You can only select 10 images';
-          //     return
-          //   }
-          //   files.forEach(file => {
-          //     let src = URL.createObjectURL(file)
-          //     if(location === 'header'){
-          //       this.dpSrc = src
-          //     }else{
-          //       this.postSrc.push(src)
-          //       if(this.activeAd.id === 3){
-          //         if( this.postSrc.length === 1){
-          //           this.postSrc[1] = this.postSrc[0] 
-          //         }else if (this.postSrc[0] === this.postSrc[1]){
-          //           this.postSrc.splice(1, 1)
-          //         }
-          //       }
-          //     }
-          //   })
-          // },
-          // validation(e){
-          //     console.log(e)
-          // },
-          // downloadPng(){
-          //   var preview = document.getElementById('ib_twitter-mockup-wrapper')
-          //   html2canvas(preview)
-          //   .then(function(canvas){
-          //     var link = document.createElement('a');
-          //       link.download = 'twitter-ad-mockup.png';
-          //       link.href = canvas.toDataURL();
-          //       link.click();
-          //   })
-          // },
-          // copyImage(){
-          //   var preview = document.getElementById('ib_twitter-mockup-wrapper')
-          //     navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-          //     if (result.state == "granted" || result.state == "prompt") {
-          //       html2canvas(preview).then(canvas => canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({[blob.type]: blob})])))
-          //       this.copied = true
-          //     }
-          //     })
-          // },
           optionSelect(e){
             this.selectedPreviewCTA = e
           },
@@ -745,14 +698,6 @@
             this.description = '',
             this.selectedPreviewCTA= {name:'Learn More',code:'LM'}
             this.activePost = 0
-          },
-          seeMoreExpand(){
-            let ele = document.getElementById('preview-caption')
-            let height = ele.offsetHeight
-            if(height<51){
-              ele.style.height = 'auto'
-              this.showSeeMore = false
-            }
           },
           updateCurrentPost(val){
             this.activePost = val
