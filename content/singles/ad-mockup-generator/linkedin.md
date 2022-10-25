@@ -14,7 +14,7 @@ hero:
   subtitle: >-
     Preview & build Linkedin ads before they go live! inBeat’s ad mockup generator offers all formats available for paid ads. 
 whatwedo:
-    title: UCG Platform
+    title: UGC Platform
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale.  
     video: CreatorStudio_Snippet
     newBadge: true
