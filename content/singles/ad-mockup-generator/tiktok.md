@@ -14,7 +14,7 @@ hero:
   subtitle: >-
     Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
 whatwedo:
-    title: UCG Platform
+    title: UGC Platform
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale.  
     video: CreatorStudio_Snippet
     newBadge: true

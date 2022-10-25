@@ -11,7 +11,7 @@ hero:
   subtitle: >-
     Calculate your click through rate for your ads & content across different channels or multiple campaigns 
 whatwedo:
-    title: UCG Platform
+    title: UGC Platform
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
     video: influencer-statistics  
     cta:
