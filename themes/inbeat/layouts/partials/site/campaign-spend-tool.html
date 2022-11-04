@@ -1,0 +1,107 @@
+<section class="container mobile-adjusted" id="ib_campaign-spend-calculator">
+        <div class="row">
+          <div class="calculator-input-section col-xs-6">
+            <div class="title">Insert Campaign Info</div>
+            <!-- <slider></slider> -->
+          </div>
+          <div class="calculator-output col-xs-6">
+            <div class="estimate-reach-field calculation-field">
+              {{- partial "icons/estimate-reach.html" -}}
+              <div class="calculation-wrapper">
+                <div class="title">
+                  Your estimated reach will be:
+                </div>
+                <div class="value">26.27K - 2.7M</div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/influencer.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">26.27K - 2.7M</div>
+                <div class="title">
+                  Influencers
+                </div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/engagement-spend.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">26.27K - 2.7M</div>
+                <div class="title">
+                  Engagements
+                </div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/impression.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">26.27K - 2.7M</div>
+                <div class="title">
+                  Impressions
+                </div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/insta-post.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">26.27K - 2.7M</div>
+                <div class="title">
+                  Instagram posts / stories
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script>
+   Vue.component('slider', {
+        data: function () {
+            return {
+                sliderValue : 100,
+                showTooltip: false
+
+            }
+        },
+        methods:{
+          sliderValueChange(){
+        // slideValue.textContent = value;
+        this.$refs.sliderValue.style.left = (this.sliderValue/2) + "%";
+        this.$refs.activeArea.style.width = (this.sliderValue/2) - 6 + "%";
+        this.showTooltip = true
+          },
+          onBlur(){
+            console.log('hell')
+          },
+          onFocus(){
+            console.log('foc')
+          }
+      },
+
+        template:  `
+        <div class="range">
+          <div ref='sliderValue' class="sliderValue">
+            <span v-html='sliderValue' :class="{'show': showTooltip}"">{sliderValue}</span>
+            </div>
+            <div class="field">
+              <div ref='activeArea' class='active-area'></div>
+              <input type="range" min="10" max="200" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
+              </div>
+            </div>
+    `
+    })
+    var app = new Vue({
+      el: '#ib_campaign-spend-calculator',
+      data: {
+        },
+    methods:{
+    },
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>
