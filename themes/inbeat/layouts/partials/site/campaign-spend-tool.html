@@ -19,9 +19,9 @@
               <div class="controls-wrapper">
                 <div class="ib-spend-control-wrapper">
                   <h5>Avg. followers per influencer</h5>
-                  <div class="input-dropdown-wrapper">
+                  <div class="input-dropdown-wrapper influencer-type-dropdown">
                     <input type="text" class="ib-spend-input"> 
-                    <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
+                    <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
                     @option-select="optionSelect($event)"></dropdown>
                   </div>
                 </div>     
@@ -30,26 +30,29 @@
             </div>
             <div class="post-story-count-controller">
               <div class="controller-wrapper">
-                {{- partial "icons/post-spend.html" -}}
-                <span>1 Posts / influencer</span>
+                <div class="d-flex">
+                  {{- partial "icons/post-spend.html" -}}
+                  <span>{postCount} Posts / influencer</span>
+                </div>
                 <div class="increament-decreament-wrapper">
-                  <div class="btn">
+                  <div class="btn" @click="decrenentCount('postCount')">
                     {{- partial "icons/minus.html" -}}
                   </div>
-                  <div class="btn">
+                  <div class="btn" @click="increamentCount('postCount')">
                     {{- partial "icons/plus.html" -}}
                   </div>
-
                 </div>
               </div>
               <div class="controller-wrapper">
-                {{- partial "icons/story-spend.html" -}}
-                <span>1 Posts / influencer</span>
+                <div class="d-flex">
+                  {{- partial "icons/story-spend.html" -}}
+                  <span>{storyCount} Stories / influencer</span>
+                </div>
                 <div class="increament-decreament-wrapper">
-                  <div class="btn">
+                  <div class="btn" @click="decrenentCount('storyCount')">
                     {{- partial "icons/minus.html" -}}
                   </div>
-                  <div class="btn">
+                  <div class="btn" @click="increamentCount('storyCount')">
                     {{- partial "icons/plus.html" -}}
                   </div>
 
@@ -214,12 +217,24 @@
     var app = new Vue({
       el: '#ib_campaign-spend-calculator',
       data: {
-        currencyOptions:[{name:'RU',code:'Ru'},{name:'EUR',code:'EUR'},{name:'USD',code:'USD'}],
-        selectedCurrency:{name:'RU',code:'Ru'},
+        currencyOptions:[{name:'EUR',code:'EUR'},{name:'GPB',code:'GPB'},{name:'USD',code:'USD'},{name:'NOK',code:'NOK'},{name:'SEK',code:'SEK'},{name:'DKK',code:'DKK'}],
+        selectedCurrency:{name:'EUR',code:'EUR'},
+        influencerOptions:[{name:'NANO',code:'NANO'},{name:'MICRO',code:'MICRO'},{name:'MACRO',code:'MACRO'}],
+        selectedInfluencerType:{name:'NANO',code:'NANO'},
+        postCount : 1,
+        storyCount: 1,
         },
     methods:{
       optionSelect(e){
         console.log(e)
+      },
+      increamentCount(type){
+        this[type]++
+      },
+      decrenentCount(type){
+        if(this[type]> 0){
+          this[type]--
+        }
       }
     },
       // To make sure there's no conflict with Hugo templating
