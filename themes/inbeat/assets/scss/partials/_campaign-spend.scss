@@ -5,8 +5,17 @@
     padding: 64px;
     margin-bottom: 175px;
     box-sizing: border-box;
+    @include breakpoint(md-down){
+      padding: 24px;
+      .calculator-input-section{
+        padding-right: 0;
+      }
+    }
     .calculator-input-section{
       padding-right: 64px;
+      @include breakpoint(md-down){
+        padding-right: 0;
+      }
       .title{
         font-weight: 700;
         font-size: 30px;
