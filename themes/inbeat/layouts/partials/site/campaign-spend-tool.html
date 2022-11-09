@@ -22,7 +22,7 @@
                   <div class="input-dropdown-wrapper influencer-type-dropdown">
                     <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
                     <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
-                    @option-select="optionSelect($event)"></dropdown>
+                    @option-select="optionSelect($event,'influencerType')"></dropdown>
                   </div>
                 </div>     
               </div>
@@ -248,9 +248,44 @@
         campaignBudget:'1',
         influencerFollowersCount:'1',
         },
+        watch:{
+          influencerFollowersCount(va){
+              switch(true) {
+              case va >=1 && va <= 5:
+                this.selectedInfluencerType = {name:'NANO',code:'NANO'}
+                break;
+              case va >= 5 && va <= 50:
+              this.selectedInfluencerType = {name:'MICRO',code:'MICRO'}
+                break;
+              case va >=  50 && va <= 250:
+              this.selectedInfluencerType = {name:'MACRO',code:'MACRO'}
+                break;
+              default:
+                return
+              }
+          }
+        },
     methods:{
-      optionSelect(e){
-        console.log(e)
+      optionSelect(e,type){
+        if(type === 'influencerType'){
+          this.setInfluencerCount(e.name)
+        }
+      },
+      setInfluencerCount(type){
+        switch(type) {
+            case 'NANO':
+              this.influencerFollowersCount = '5'
+              break;
+            case 'MICRO':
+            this.influencerFollowersCount = '50'
+              break;
+            case 'MACRO':
+            this.influencerFollowersCount = '250'
+              break;
+            default:
+            this.influencerFollowersCount = '1'
+
+        }
       },
       increamentCount(type){
         this[type]++
