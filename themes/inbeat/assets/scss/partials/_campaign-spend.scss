@@ -308,7 +308,15 @@
         &:hover{
           background: #D0D0D0;
         }
+        &.--disabled{
+          opacity: 0.5;
+          cursor: not-allowed;
+          &:hover{
+            background:#EDEDED;
+          }
+        }
       }
+
     }
   }
 }

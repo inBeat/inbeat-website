@@ -35,7 +35,7 @@
                   <span>{postCount} Posts / influencer</span>
                 </div>
                 <div class="increament-decreament-wrapper">
-                  <div class="btn" @click="decrenentCount('postCount')">
+                  <div :class="[{'--disabled' : postCount <= 0 },'btn']" @click="decrenentCount('postCount')">
                     {{- partial "icons/minus.html" -}}
                   </div>
                   <div class="btn" @click="increamentCount('postCount')">
@@ -49,7 +49,7 @@
                   <span>{storyCount} Stories / influencer</span>
                 </div>
                 <div class="increament-decreament-wrapper">
-                  <div class="btn" @click="decrenentCount('storyCount')">
+                  <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
                     {{- partial "icons/minus.html" -}}
                   </div>
                   <div class="btn" @click="increamentCount('storyCount')">
@@ -249,7 +249,7 @@
         this[type]++
       },
       decrenentCount(type){
-        if(this[type]> 0){
+        if(this[type] > 0){
           this[type]--
         }
       },
