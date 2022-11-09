@@ -249,6 +249,9 @@
         this[type]++
       },
       decrenentCount(type){
+        if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
+          return
+        }
         if(this[type] > 0){
           this[type]--
         }
