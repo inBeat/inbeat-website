@@ -254,7 +254,7 @@
         }
       },
       onChange(e,type){
-        if(e.target.value > 500000){
+        if(e.target.value.replace(',','') > 500000){
           e.target.value = 500000
         }
         let roundedValue = Math.round(e.target.value/1000)*1000
