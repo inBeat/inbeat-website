@@ -214,7 +214,7 @@
             this.showTooltip = true
           },
           updateSliderValue(value){
-            this.sliderValue = value
+            this.sliderValue = value + ''
             this.$emit('update:modelValue',this.sliderValue)
             this.$emit('input',this.sliderValue)
           },
