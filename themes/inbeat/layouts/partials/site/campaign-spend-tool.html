@@ -7,26 +7,26 @@
                 <div class="ib-spend-control-wrapper">
                   <h5>Your campaign budget</h5>
                   <div class="input-dropdown-wrapper">
-                    <input type="text" class="ib-spend-input"> 
+                    <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'campaignBudget')" :value="getInputValue('campaignBudget')"> 
                     <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
                     @option-select="optionSelect($event)"></dropdown>
                   </div>
                 </div>     
               </div>
-              <slider></slider>
+              <slider v-model="campaignBudget"></slider>
             </div>
             <div>
               <div class="controls-wrapper">
                 <div class="ib-spend-control-wrapper">
                   <h5>Avg. followers per influencer</h5>
                   <div class="input-dropdown-wrapper influencer-type-dropdown">
-                    <input type="text" class="ib-spend-input"> 
+                    <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
                     <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
                     @option-select="optionSelect($event)"></dropdown>
                   </div>
                 </div>     
               </div>
-              <slider></slider>
+              <slider v-model="influencerFollowersCount"></slider>
             </div>
             <div class="post-story-count-controller">
               <div class="controller-wrapper">
@@ -156,7 +156,7 @@
         },
 
         template:  `
-        <div class="mockup_dropdown-wrapper">      
+        <div class="mockup_dropdown-wrapper input-dropdown-wrapper">      
             <div class="mockup-dropdown input-dropdown"  @click.prevent="openDropdown" ref="dropdown"  tabindex="1">     
                     <a href="javascript:void(0)" v-html="selectedOption.name">
                         Select CTA
@@ -177,18 +177,33 @@
    Vue.component('slider', {
         data: function () {
             return {
-                sliderValue : 10,
+                sliderValue : this.value,
                 showTooltip: false
-
-
             }
+        },
+        props:{
+          value:{
+            type: String,
+            default :1,
+          }
+        },
+        watch:{
+          value(value){
+            this.sliderValue = value
+            this.updateTooltipPosition()
+          },
         },
         methods:{
           sliderValueChange(){
-        // slideValue.textContent = value;
-        this.$refs.sliderValue.style.left = (this.sliderValue/5) + "%";
-        this.$refs.activeArea.style.width = (this.sliderValue/5.1)  + "%";
-        this.showTooltip = true
+             // slideValue.textContent = value;
+             this.updateTooltipPosition()
+             this.showTooltip = true
+             this.$emit('update:modelValue',this.sliderValue)
+             this.$emit('input',this.sliderValue)
+          },
+          updateTooltipPosition(){
+            this.$refs.sliderValue.style.left = (this.sliderValue/5) + "%";
+             this.$refs.activeArea.style.width = (this.sliderValue/5.1)  + "%";
           },
           onBlur(){
            this.showTooltip = false
@@ -196,22 +211,21 @@
           onFocus(){
             this.showTooltip = true
           }
-      },
-      mounted(){
-        this.$refs.sliderValue.style.left = (this.sliderValue/5) + "%";
-        this.$refs.activeArea.style.width = (this.sliderValue/5.1)  + "%";
-      },
+        },
+        mounted(){
+          this.updateTooltipPosition()
+        },
 
         template:  `
         <div class="range">
           <div ref='sliderValue' class="sliderValue">
-            <span v-html='sliderValue' :class="{'show': showTooltip}"">{sliderValue}</span>
-            </div>
-            <div class="field" @mouseover='onFocus' @mouseleave='onBlur'>
-              <div ref='activeArea' class='active-area'></div>
-              <input type="range" min="1" max="500" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
-              </div>
-            </div>
+            <span v-html="sliderValue + 'K'" :class="{'show': showTooltip}"">{sliderValue}</span>
+          </div>
+          <div class="field" @mouseover='onFocus' @mouseleave='onBlur'>
+            <div ref='activeArea' class='active-area'></div>
+            <input type="range" min="1" max="500" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
+          </div>
+        </div>
     `
     })
     var app = new Vue({
@@ -223,6 +237,9 @@
         selectedInfluencerType:{name:'NANO',code:'NANO'},
         postCount : 1,
         storyCount: 1,
+        sliderIntervals:[1,5,10,50,100,250,500],
+        campaignBudget:'1',
+        influencerFollowersCount:'1',
         },
     methods:{
       optionSelect(e){
@@ -235,6 +252,21 @@
         if(this[type]> 0){
           this[type]--
         }
+      },
+      onChange(e,type){
+        if(e.target.value > 500000){
+          e.target.value = 500000
+        }
+        let roundedValue = Math.round(e.target.value/1000)*1000
+        this[type] = roundedValue / 1000 + ''
+      },
+      checkIfNumber(event) {
+        const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+        return !event.key.match(regex) && event.preventDefault();
+      },
+      getInputValue(type){
+        let value = this[type] * 1000 + ''
+        return value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
       }
     },
       // To make sure there's no conflict with Hugo templating

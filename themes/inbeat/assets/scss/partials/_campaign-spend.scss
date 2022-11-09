@@ -96,6 +96,12 @@
       background: #F0EBEB;
       border-left: none;
       border-radius: 0px 4px 4px 0px;
+      border: 1px solid #F0EBEB;
+    }
+  }
+  .input-dropdown-wrapper{
+    .mockup-dropdown__dropdown-list{
+      margin-top: 2.1rem !important;
     }
   }
   .influencer-type-dropdown{
@@ -106,7 +112,7 @@
   .input-dropdown-wrapper{
     display: flex;
     .ib-spend-input{
-      border: 1px solid #BBBBBB;
+      border: 1px solid #F0EBEB;
       border-radius: 4px 0px 0px 4px;
       // padding: 12px 14px;
       font-size: 14px;
