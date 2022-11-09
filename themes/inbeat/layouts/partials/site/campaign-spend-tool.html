@@ -178,7 +178,9 @@
         data: function () {
             return {
                 sliderValue : this.value,
-                showTooltip: false
+                showTooltip: false,
+                // sliderIntervals:['1K','5K','10K','50K','100K','250K','500K'],
+                sliderIntervals:[1,75,150,250,300,400,500],
             }
         },
         props:{
@@ -210,18 +212,24 @@
           },
           onFocus(){
             this.showTooltip = true
-          }
+          },
+          updateSliderValue(value){
+            this.sliderValue = value
+            this.$emit('update:modelValue',this.sliderValue)
+            this.$emit('input',this.sliderValue)
+          },
         },
         mounted(){
           this.updateTooltipPosition()
         },
 
         template:  `
-        <div class="range">
+        <div class="range"  @mouseover='onFocus' @mouseleave='onBlur'>
           <div ref='sliderValue' class="sliderValue">
-            <span v-html="sliderValue + 'K'" :class="{'show': showTooltip}"">{sliderValue}</span>
+            <span v-html="sliderValue + 'K'" :class="{'show': showTooltip}">{sliderValue}</span>
           </div>
-          <div class="field" @mouseover='onFocus' @mouseleave='onBlur'>
+          <ul :class="[{'show': showTooltip},'interval-wrapper']" ><li  v-for="i in sliderIntervals" @click="updateSliderValue(i)" :key="i" class="interval" v-html="i + 'K'"></li></ul>
+          <div class="field">
             <div ref='activeArea' class='active-area'></div>
             <input type="range" min="1" max="500" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
           </div>
@@ -237,7 +245,6 @@
         selectedInfluencerType:{name:'NANO',code:'NANO'},
         postCount : 1,
         storyCount: 1,
-        sliderIntervals:[1,5,10,50,100,250,500],
         campaignBudget:'1',
         influencerFollowersCount:'1',
         },
