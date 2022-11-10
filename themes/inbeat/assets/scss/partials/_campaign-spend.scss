@@ -191,7 +191,7 @@
   .sliderValue span{
     position: absolute;
     top: 37px;
-    width: 48px;
+    width: fit-content;
     // height: 19px;
     font-weight: 400;
     font-size: 12px;
@@ -199,7 +199,7 @@
     z-index: 2;
     color: #FFFFFF;
     background:#000000;;
-    padding: 2px 4px;
+    padding: 4px 6px;
     border-radius: 4px;
     text-align: center;
     transform: translateX(-50%) scale(0);
@@ -219,8 +219,9 @@
       border-style: solid;
       border-color: transparent transparent #000000 transparent;
       top: -14px;
-      left: 21px;
+      left: 50%;
       z-index: -1;
+      transform: translateX(-50%);
   }
   .field{
     display: flex;

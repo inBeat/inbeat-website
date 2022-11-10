@@ -208,8 +208,8 @@
           updateTooltipPosition(e){
             let slider = this.$refs.sliderInput
             var value = (this.value-slider.min)/(slider.max-slider.min)*100
-            // slider.style.background = 'linear-gradient(to right, #000000 0%, #000000 ' + value + '%, #ddd ' + value + '%, #ddd 100%)'
-            slider.style.background = 'rgba(204, 192, 192, 0.2)';
+            slider.style.background = 'linear-gradient(to right, #000000 0%, #000000 ' + value + '%, rgba(204, 192, 192, 0.2) ' + value + '%, rgba(204, 192, 192, 0.2) 100%)'
+            // slider.style.background = 'rgba(204, 192, 192, 0.2)';
             this.$refs.sliderValue.style.left = (this.sliderValue/5) + "%";
           },
           onBlur(){
