@@ -1,66 +1,67 @@
 <section class="container mobile-adjusted" id="ib_campaign-spend-calculator">
-        <div class="row">
-          <div class="calculator-input-section col-xs-12 col-md-6">
-            <div class="title">Insert Campaign Info</div>
-            <div class="slider-control-wrapper">
-              <div class="controls-wrapper">
-                <div class="ib-spend-control-wrapper">
-                  <h5>Your campaign budget</h5>
-                  <div class="input-dropdown-wrapper">
-                    <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'campaignBudget')" :value="getInputValue('campaignBudget')"> 
-                    <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
-                    @option-select="optionSelect($event)"></dropdown>
-                  </div>
-                </div>     
-              </div>
-              <slider v-model="campaignBudget"></slider>
+      <div class="calc-row">
+        <div class="calculator-input-section calc-col">
+          <div class="title">Insert Campaign Info</div>
+          <div class="slider-control-wrapper">
+            <div class="controls-wrapper">
+              <div class="ib-spend-control-wrapper">
+                <h5>Your campaign budget</h5>
+                <div class="input-dropdown-wrapper">
+                  <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'campaignBudget')" :value="getInputValue('campaignBudget')"> 
+                  <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
+                  @option-select="optionSelect($event)"></dropdown>
+                </div>
+              </div>     
             </div>
-            <div class="slider-control-wrapper">
-              <div class="controls-wrapper" >
-                <div class="ib-spend-control-wrapper">
-                  <h5>Avg. followers per influencer</h5>
-                  <div class="input-dropdown-wrapper influencer-type-dropdown">
-                    <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
-                    <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
-                    @option-select="optionSelect($event,'influencerType')"></dropdown>
-                  </div>
-                </div>     
-              </div>
-              <slider v-model="influencerFollowersCount"></slider>
+            <slider v-model="campaignBudget"></slider>
+          </div>
+          <div class="slider-control-wrapper">
+            <div class="controls-wrapper" >
+              <div class="ib-spend-control-wrapper">
+                <h5>Avg. followers per influencer</h5>
+                <div class="input-dropdown-wrapper influencer-type-dropdown">
+                  <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
+                  <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
+                  @option-select="optionSelect($event,'influencerType')"></dropdown>
+                </div>
+              </div>     
             </div>
-            <div class="post-story-count-controller">
-              <div class="controller-wrapper">
-                <div class="d-flex">
-                  {{- partial "icons/post-spend.html" -}}
-                  <span>{postCount} Posts / influencer</span>
+            <slider v-model="influencerFollowersCount"></slider>
+          </div>
+          <div class="post-story-count-controller">
+            <div class="controller-wrapper">
+              <div class="d-flex">
+                {{- partial "icons/post-spend.html" -}}
+                <span>{postCount} Posts / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : postCount <= 0 },'btn']" @click="decrenentCount('postCount')">
+                  {{- partial "icons/minus.html" -}}
                 </div>
-                <div class="increament-decreament-wrapper">
-                  <div :class="[{'--disabled' : postCount <= 0 },'btn']" @click="decrenentCount('postCount')">
-                    {{- partial "icons/minus.html" -}}
-                  </div>
-                  <div class="btn" @click="increamentCount('postCount')">
-                    {{- partial "icons/plus.html" -}}
-                  </div>
+                <div class="btn" @click="increamentCount('postCount')">
+                  {{- partial "icons/plus.html" -}}
                 </div>
               </div>
-              <div class="controller-wrapper">
-                <div class="d-flex">
-                  {{- partial "icons/story-spend.html" -}}
-                  <span>{storyCount} Stories / influencer</span>
+            </div>
+            <div class="controller-wrapper">
+              <div class="d-flex">
+                {{- partial "icons/story-spend.html" -}}
+                <span>{storyCount} Stories / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
+                  {{- partial "icons/minus.html" -}}
                 </div>
-                <div class="increament-decreament-wrapper">
-                  <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
-                    {{- partial "icons/minus.html" -}}
-                  </div>
-                  <div class="btn" @click="increamentCount('storyCount')">
-                    {{- partial "icons/plus.html" -}}
-                  </div>
+                <div class="btn" @click="increamentCount('storyCount')">
+                  {{- partial "icons/plus.html" -}}
+                </div>
 
-                </div>
               </div>
             </div>
           </div>
-          <div class="calculator-output col-xs-12 col-md-6">
+        </div>
+        <div class="calculator-output-wrap calc-col">
+          <div class="calculator-output">
             <div class="estimate-reach-field calculation-field">
               {{- partial "icons/estimate-reach.html" -}}
               <div class="calculation-wrapper">
@@ -108,6 +109,7 @@
             </div>
           </div>
         </div>
+      </div>
 </section>
 
 {{- if getenv "IS_PROD" -}}
