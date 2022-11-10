@@ -2,17 +2,19 @@
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
-    padding: 64px;
+    padding: 96px;
     margin-bottom: 175px;
     box-sizing: border-box;
     @include breakpoint(md-down){
       padding: 24px;
+      margin: 8px;
       .calculator-input-section{
         padding-right: 0;
       }
     }
     .calculator-input-section{
       padding-right: 64px;
+      padding-left: 0;
       @include breakpoint(md-down){
         padding-right: 0;
       }
@@ -29,6 +31,10 @@
     .calculator-output{
         background: #F9F7F7;
         padding: 32px;
+        @include breakpoint(md-down){
+          margin-top: 24px;
+          padding: 24px;
+        }
         .calculation-field{
           display: flex;
           align-items: center;
@@ -75,6 +81,9 @@
               font-size: 36px;
               line-height: 42px;
               color: #000000;
+              @include breakpoint(md-down){
+                font-size: 32px;
+              }
             }
           }
         }
@@ -123,6 +132,9 @@
       transition: $transition_default;
       color: #262626;
       cursor: pointer;
+      @include breakpoint(md-down){
+        width: 70px;
+      }
       &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
         color: #C4C4C4;
       }
@@ -251,12 +263,21 @@
   border-bottom-right-radius: 0;
   // transition: $transition_default;
 }
+.slider-control-wrapper{
+  margin-top: 24px;
+  .controls-wrapper{
+    padding-top: 16px;
+    @include breakpoint(md-down){
+      padding-top: 0;
+    }
+  }
+}
 .ib-spend-control-wrapper{
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 8px;
-  margin: 44px 0 16px 0px;
+  margin: 0px 0 16px 0px;
   h5{
     font-weight: 500;
     font-size: 20px;
@@ -264,10 +285,13 @@
     color: #000000;
     flex: 1;
     margin: 0;
+    @include breakpoint(md-down){
+      font-size: 16px;
+    }
   }
 }
 .post-story-count-controller{
-  margin-top: 44px;
+  margin-top: 54px;
   background: #FFFFFF;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border-radius: 1px;
@@ -296,6 +320,10 @@
       line-height: 30px;
       margin: 0;
       color: #000000;
+      @include breakpoint(md-down){
+        font-size: 18px;
+        line-height: 24px;
+      }
     }
     .increament-decreament-wrapper{
       display: flex;

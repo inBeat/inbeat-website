@@ -9,7 +9,7 @@ subtitle: "Campaign Spend Calculator"
 hero:
   title: Campaign Spend Calculator
   subtitle: >-
-    Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels or multiple campaigns 
+   Calculate what you'll get from the money you spend on influencer marketing, so you can launch campaigns with confidence. Play around with the numbers and see how it changes your results!
 whatwedo:
     title: UGC Platform
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 
