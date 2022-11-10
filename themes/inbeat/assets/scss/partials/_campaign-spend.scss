@@ -19,12 +19,12 @@
         padding-right: 0;
       }
       .title{
-        font-weight: 700;
+        font-weight: 500;
         font-size: 30px;
         line-height: 36px;
         letter-spacing: -0.3px;
         color: #414141;
-        padding-bottom: 24px;
+        padding-bottom: 16px;
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);
       }
     }
@@ -51,14 +51,14 @@
             gap: 4px;
             text-align: right;
             .title{
-              font-weight: 400;
+              font-weight: 300;
               font-size: 14px;
               line-height: 22px;
               color: rgba(0, 0, 0, 0.9);
               opacity: 0.5;
             }
             .value{
-              font-weight: 600;
+              font-weight: 500;
               font-size: 24px;
               line-height: 18px;
               letter-spacing: -0.004em;
@@ -70,7 +70,7 @@
           padding-top: 0;
           .calculation-wrapper{
             .title{
-              font-weight: 400;
+              font-weight: 300;
               font-size: 14px;
               line-height: 22px;
               color: rgba(0, 0, 0, 0.9);
@@ -128,7 +128,7 @@
       font-weight: 400;
       line-height: 24px;
       text-align: right;
-      width: 100px;
+      width: 50px;
       transition: $transition_default;
       color: #262626;
       cursor: pointer;
@@ -279,7 +279,7 @@
   gap: 8px;
   margin: 0px 0 16px 0px;
   h5{
-    font-weight: 500;
+    font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     color: #000000;
@@ -316,7 +316,7 @@
     justify-content: space-between;
     gap: 24px;
     span{
-      font-weight: 500;
+      font-weight: 400;
       font-size: 20px;
       line-height: 30px;
       margin: 0;
