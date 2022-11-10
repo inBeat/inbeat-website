@@ -115,6 +115,7 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script>
       Vue.component('dropdown', {
         data: function () {
@@ -196,16 +197,17 @@
           },
         },
         methods:{
-          sliderValueChange(){
-             // slideValue.textContent = value;
-             this.updateTooltipPosition()
+          sliderValueChange(e){
+             this.updateTooltipPosition(e)
              this.showTooltip = true
              this.$emit('update:modelValue',this.sliderValue)
              this.$emit('input',this.sliderValue)
           },
-          updateTooltipPosition(){
+          updateTooltipPosition(e){
+            let slider = this.$refs.sliderInput
+            var value = (this.value-slider.min)/(slider.max-slider.min)*100
+            slider.style.background = 'linear-gradient(to right, #000000 0%, #000000 ' + value + '%, #ddd ' + value + '%, #ddd 100%)'
             this.$refs.sliderValue.style.left = (this.sliderValue/5) + "%";
-             this.$refs.activeArea.style.width = (this.sliderValue/5.1)  + "%";
           },
           onBlur(){
            this.showTooltip = false
@@ -230,8 +232,7 @@
           </div>
           <ul :class="[{'show': showTooltip},'interval-wrapper']" ><li  v-for="i in sliderIntervals" @click="updateSliderValue(i)" :key="i" class="interval" v-html="i + 'K'"></li></ul>
           <div class="field">
-            <div ref='activeArea' class='active-area'></div>
-            <input type="range" min="1" max="500" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
+            <input type="range" ref='sliderInput' min="1" max="500" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
           </div>
         </div>
     `
@@ -288,7 +289,22 @@
         }
       },
       increamentCount(type){
+        this.getComputedData()
         this[type]++
+      },
+      getComputedData(){
+        axios.post('http://inzpire.me/api/v1/campaign-spend-calculator/calculate', {
+          budget: 1000,
+          currency: 'EUR',
+          followers:1000,
+          posts:2,
+          stories:1,
+        })
+        .then((response) => {
+          console.log(response);
+        }, (error) => {
+          console.log(error);
+        })
       },
       decrenentCount(type){
         if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
