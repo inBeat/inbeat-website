@@ -120,8 +120,22 @@
     }
   }
   .input-dropdown-wrapper{
+    .mockup-dropdown{ 
+      border: none !important;
+      &:focus {
+        border-color: transparent !important;
+        background-color: #f2e7e7;
+      }
+    }
     .mockup-dropdown__dropdown-list{
-      margin-top: 2.1rem !important;
+      margin-top: 0px !important;
+      top: 100% !important;
+      border-radius: 0px !important;
+      border: none !important;
+      .list-item {
+        border-radius: 0px !important;
+        margin: 0px !important;
+      }
     }
   }
   .influencer-type-dropdown{
