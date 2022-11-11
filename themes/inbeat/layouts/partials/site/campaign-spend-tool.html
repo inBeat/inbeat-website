@@ -68,13 +68,13 @@
                 <div class="title">
                   Your estimated reach will be:
                 </div>
-                <div class="value">26.27K - 2.7M</div>
+                <div class="value">{computedCalculations.reach[0]}</div>
               </div>
             </div>
             <div class="calculation-field">
               {{- partial "icons/influencer.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">26.27K - 2.7M</div>
+                <div class="value">{getComputedNumberOfProfiles.numberOfProfiles[0] + '-' + getComputedNumberOfProfiles.numberOfProfiles[1]}</div>
                 <div class="title">
                   Influencers
                 </div>
@@ -101,7 +101,7 @@
             <div class="calculation-field">
               {{- partial "icons/insta-post.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">26.27K - 2.7M</div>
+                <div class="value"><span v-if="postCount > 0">{getComputedNumberOfProfiles.numberOfPosts[0] + '-' + getComputedNumberOfProfiles.numberOfPosts[1] } </span><span v-if="storyCount > 0">/ {getComputedNumberOfProfiles.numberOfStories[0] + '-' + getComputedNumberOfProfiles.numberOfStories[1]}</span></div>
                 <div class="title">
                   Instagram posts / stories
                 </div>
@@ -297,7 +297,60 @@
         postCount : 1,
         storyCount: 1,
         campaignBudget:'1',
+        rate : [25,43],
         influencerFollowersCount:'1',
+        },
+        computed: {
+            computedCalculations() {
+              let calculations = {}
+              switch(this.selectedInfluencerType.name) {
+              case 'NANO':
+                this.rate = [25,43]
+                break;
+              case 'MICRO':
+                this.rate = [80,450]
+                break;
+              case 'MACRO':
+                this.rate = [5000,10000]
+                break;
+              default:
+                return
+              }
+              // let numberOfProfiles = [] 
+              // let numberOfStories = [] 
+              // let numberOfPosts = [] 
+              // this.rate.forEach(ra => {
+              //   let budget = this.campaignBudget * 1000
+              //   numberOfProfiles.push(Math.round(budget / ra))
+              // });
+              // if(numberOfProfiles){
+              // numberOfProfiles.forEach(profile => {
+              //   let budget = this.campaignBudget * 1000
+              //   let storyCount = profile * this.storyCount
+              //   let postCount = profile * this.postCount
+              //   this.rate.forEach(ra => {
+              //     let budget = this.campaignBudget * 1000
+              //     numberOfProfiles.push(Math.round(budget / ra))
+              //   })
+              //   console.log(this.rate[0])
+              // })
+              // }
+              
+              return {reach: [35,36],numberOfProfiles:numberOfProfiles}
+            },
+            getComputedNumberOfProfiles(){
+              let budget = this.campaignBudget * 1000
+              let stories = budget / this.storyCount
+              let posts = budget / this.postCount
+              let numberOfProfiles = [] 
+              let numberOfStories = [] 
+              let numberOfPosts = [] 
+              this.rate.forEach(ra => {
+                numberOfStories.push(Math.round(stories / ra))
+                numberOfPosts.push(Math.round(posts / ra))
+              });
+              return {numberOfProfiles: numberOfPosts,numberOfStories:numberOfStories,numberOfPosts:numberOfPosts}
+            }
         },
         watch:{
           influencerFollowersCount(va){
@@ -338,7 +391,7 @@
         }
       },
       increamentCount(type){
-        this.getComputedData()
+        // this.getComputedData()
         this[type]++
       },
       getComputedData(){
