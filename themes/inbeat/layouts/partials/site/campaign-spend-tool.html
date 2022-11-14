@@ -203,13 +203,13 @@
         },
         methods:{
           decodeValue(val){
-            if(val >= 20 && val < 200){
+            if(val >= 20 && val < 125){
               val = val - (((val / 10)-1) * 9 )
               this.sliderValue = val + ''
               this.encodeValue(val)
             }
-            else if(val >= 200 && val <= 250){
-              val /=10
+            else if(val >= 125 && val <= 250){
+              val = (val / 25) + 15
               this.sliderValue = val + ''
               this.encodeValue(val)
             }
@@ -230,7 +230,7 @@
               val = ((val - 10) * 9 ) + val
               this.dummyVal = val + ''
             }else if(val >= 20 && val <= 25){
-              val *=10
+              val = (val - 15)*25
               this.dummyVal = val + ''
             }else if(val > 25 && val <= 30){
               let dVal = val * val / 2
@@ -424,8 +424,8 @@
         let roundedValue 
         if((dVal >= 10000 && dVal <= 100000) || (dVal > 200000 && dVal <= 250000)){
           roundedValue = Math.round(dVal/10000)*10000
-        }else if(dVal > 100000 && dVal <= 200000){
-          roundedValue = Math.round(dVal/100000)*100000
+        }else if(dVal > 100000 && dVal <= 250000){
+          roundedValue = Math.round(dVal/25000)*25000
         }else if(dVal >= 250000 && dVal <= 500000){
           roundedValue = Math.round(dVal/50000)*50000
           e.target.value = roundedValue
