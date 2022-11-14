@@ -25,18 +25,18 @@ relatedTools:
     link: free-toolkit
     text: View all
   toolkits:
-    - title: CPM <br> Calculator
-      text: Calculate your cost per 1000 impressions across different channels or multiple campaigns 
-      icon: cpm-toolkit
-      url: cpm-calculator
-    - title: CTR <br> Calculator
-      text:  Calculate your click through rate for your ads & content across different channels or multiple campaigns.
-      icon: ctr-toolkit
-      url: ctr-calculator
-    - title: Bounce Rate <br>Calculator
-      text: Calculate the bounce rate for one or multiple websites or webpages.
-      icon: bounce-rate-free-toolkit
-      url: bounce-rate-calculator
+    - title: Instagram Engagement <br>  Rate Calculator
+      text: Gain insights on influencers with our rapid Instagram engagement checker.
+      icon: freetoolkit-ig-engagement
+      url: engagement-rate-calculator-instagram
+    - title: Instagram Money <br> Calculator
+      text: Evaluate the potential cost for different types of influencer collaborations.
+      icon: freetoolkit-ig-money
+      url: collaboration-cost-calculator-instagram
+    - title: TikTok Engagement <br> Rate Calculator
+      text: Gain insights on influencers with our rapid TikTok engagement checker.
+      icon: freetoolkit-tiktok-engagement
+      url: engagement-rate-calculator-tiktok
 ---
 
 ---
