@@ -258,7 +258,8 @@
             var value = (this.sliderValue-slider.min)/(slider.max-slider.min)*100
             slider.style.background = 'linear-gradient(to right, #000000 0%, #000000 ' + value + '%, rgba(204, 192, 192, 0.2) ' + value + '%, rgba(204, 192, 192, 0.2) 100%)'
             // slider.style.background = 'rgba(204, 192, 192, 0.2)';
-            this.$refs.sliderValue.style.left = value + "%";
+            let incValue = this.sliderValue >=0 && this.sliderValue <= 6 ? 1.4 : this.sliderValue > 6 && this.sliderValue < 14 ? 1 : this.sliderValue >= 20 && this.sliderValue <= 30 ? -1 : 0
+            this.$refs.sliderValue.style.left = Math.round(value + incValue) + "%";
           },
           onBlur(){
            this.showTooltip = false
@@ -280,7 +281,7 @@
           <div ref='sliderValue' class="sliderValue">
             <span v-html="dummyVal + 'K'" :class="{'show': showTooltip}">{sliderValue}</span>
           </div>
-          <ul :class="[{'show': showTooltip},'interval-wrapper']" ><li  v-for="i in sliderIntervals" @click="onIntervalClick(i)" :key="i" class="interval" v-html="i + 'K'"></li></ul>
+          <ul class="interval-wrapper" ><li  v-for="i in sliderIntervals" @click="onIntervalClick(i)" :key="i" class="interval" v-html="i + 'K'"></li></ul>
           <div class="field">
             <input type="range" ref='sliderInput' min="1" max="30" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
           </div>
