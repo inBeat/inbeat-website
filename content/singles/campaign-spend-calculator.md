@@ -9,7 +9,7 @@ subtitle: "Campaign Spend Calculator"
 hero:
   title: Campaign Spend Calculator
   subtitle: >-
-   Calculate what you'll get from the money you spend on influencer marketing, so you can launch campaigns with confidence. Play around with the numbers and see how it changes your results!
+   Calculate campaign spend for an influencer marketing campaign & estimate it’s results
 whatwedo:
     title: UGC Platform
     text: inBeat’s UGC studio is a fully managed platform that pairs social media creators & brands to generate high quality UGC at scale. 

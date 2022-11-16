@@ -484,7 +484,7 @@
     display: block;
     margin-top: 3rem;
     max-height: 250px;
-    overflow-y: scroll;
+    overflow-y: auto;
     &::-webkit-scrollbar {
       width: 2px;
     }

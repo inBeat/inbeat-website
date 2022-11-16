@@ -32,7 +32,7 @@
         font-size: 30px;
         line-height: 36px;
         letter-spacing: -0.3px;
-        color: #414141;
+        color: #000000;
         padding-bottom: 16px;
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);
       }
@@ -132,6 +132,7 @@
       top: 100% !important;
       border-radius: 0px !important;
       border: none !important;
+      overflow-y: none !important;
       .list-item {
         border-radius: 0px !important;
         margin: 0px !important;
@@ -181,9 +182,6 @@
       }
     }
   }
-.range{
-
-  }
   .sliderValue{
     position: relative;
     width: 100%;
@@ -192,7 +190,6 @@
     position: absolute;
     top: 37px;
     width: fit-content;
-    // height: 19px;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
@@ -202,12 +199,14 @@
     padding: 4px 6px;
     border-radius: 4px;
     text-align: center;
-    transform: translateX(-50%) scale(0);
+    transform: translateX(-50%) translateY(2px);
+    opacity: 0;
     transform-origin: top;
-    transition: transform 0.3s ease-in-out;
+    transition: $transition_default;
   }
   .sliderValue span.show{
-    transform: translateX(-50%) scale(1);
+    transform: translateX(-50%) translateY(0px);
+    opacity: 1;
     color: #ffffff;
   }
   .sliderValue span:after{

@@ -68,7 +68,7 @@
                 <div class="title">
                   Your estimated reach will be:
                 </div>
-                <div class="value">{computedCalculations.reach[0]}</div>
+                <div class="value">{computedCalculations.reach[0]} - { computedCalculations.reach[1]}</div>
               </div>
             </div>
             <div class="calculation-field">
@@ -141,7 +141,7 @@
         },
         methods: {
         openDropdown(e){
-        this.isOpenDropdown = true
+        this.isOpenDropdown = !this.isOpenDropdown
           window.addEventListener('click', (event)=>{
             if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
                 this.closeDropdown()
@@ -337,7 +337,7 @@
               // })
               // }
 
-              return {reach: [35,36]}
+              return {reach: this.rate}
             },
             getComputedNumberOfProfiles(){
               let budget = this.campaignBudget * 1000
