@@ -117,7 +117,6 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script>
       Vue.component('dropdown', {
         data: function () {
@@ -376,6 +375,7 @@
           this.setInfluencerCount(e.name)
         }
       },
+
       setInfluencerCount(type){
         switch(type) {
             case 'NANO':
@@ -395,20 +395,20 @@
         // this.getComputedData()
         this[type]++
       },
-      getComputedData(){
-        axios.post('http://inzpire.me/api/v1/campaign-spend-calculator/calculate', {
-          budget: 1000,
-          currency: 'EUR',
-          followers:1000,
-          posts:2,
-          stories:1,
-        })
-        .then((response) => {
-          console.log(response);
-        }, (error) => {
-          console.log(error);
-        })
-      },
+      // getComputedData(){
+      //   axios.post('http://inzpire.me/api/v1/campaign-spend-calculator/calculate', {
+      //     budget: 1000,
+      //     currency: 'EUR',
+      //     followers:1000,
+      //     posts:2,
+      //     stories:1,
+      //   })
+      //   .then((response) => {
+      //     console.log(response);
+      //   }, (error) => {
+      //     console.log(error);
+      //   })
+      // },
       decrenentCount(type){
         if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
           return
@@ -433,7 +433,8 @@
         }else{
           roundedValue = Math.round(dVal/1000)*1000
         }
-        this[type] = roundedValue / 1000 + ''
+        this[type] = roundedValue / 1000 + '';
+        this.calculateValues();
       },
       checkIfNumber(event) {
         const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
@@ -443,6 +444,25 @@
         let value = this[type] * 1000 + ''
         return value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
       },
+      calculateValues() {
+        fetch('https://campignspencalculator.pulkitagarwal15.repl.co/calculate', {
+          method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            budget: 1000,
+            currency: 'EUR',
+            followers:1000,
+            posts:2,
+            stories:1,
+          }),
+        }).then(_ => _.json())
+        .then(response => {
+          console.log(response);
+        })
+      }
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
