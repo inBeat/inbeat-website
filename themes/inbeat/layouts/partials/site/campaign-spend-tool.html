@@ -103,7 +103,7 @@
               <div class="calculation-wrapper">
                 <div class="value"><span v-if="postCount > 0">{abbreviateNumber(calculatedValues.numberOfPosts[0])} - {abbreviateNumber(calculatedValues.numberOfPosts[1])} </span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">{abbreviateNumber(calculatedValues.numberOfStories[0])} - {abbreviateNumber(calculatedValues.numberOfStories[1])}</span></div>
                 <div class="title">
-                  Instagram posts / stories
+                  Instagram <span v-if="postCount > 0">posts</span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">stories</span>
                 </div>
               </div>
             </div>
