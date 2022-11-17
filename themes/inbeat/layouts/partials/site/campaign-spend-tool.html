@@ -452,7 +452,7 @@
         })
       },
       abbreviateNumber(number){  
-        const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
+        const SI_SYMBOL = ["", "K", "M", "B", "T", "P", "E"];
         // what tier? (determines SI symbol)
         var tier = Math.log10(Math.abs(number)) / 3 | 0;           
         if(tier == 0) return number;
