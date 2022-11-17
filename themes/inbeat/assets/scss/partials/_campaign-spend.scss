@@ -446,3 +446,101 @@
 // .range input[type="range"]::-ms-fill-upper {  
 // background-color: #ddd;
 // }
+
+.slider-container{
+  
+  .noUi-handle,
+  [disabled].noUi-handle,
+  [disabled].noUi-target {
+    cursor: default;
+  }
+  .noUi-target {
+    background: none;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    height: auto;
+    padding-top: 0.5rem;
+  }
+  .noUi-base {
+    height: 0.5rem;
+  }
+  .noUi-connects {
+    background-color: #F0EBEB;
+    border-radius: 4px;
+    height: 4px;
+  }
+  .noUi-connect,
+  [disabled] .noUi-connect {
+    background-color: #000000;
+  }
+  .noUi-horizontal .noUi-handle {
+    cursor: pointer;
+    background-color: #ffffff;
+    border-color: #000000;
+    border-radius: 9999px;
+    border-width: 4px;
+    box-shadow: 0 2px 8px rgba(16, 42, 67, 0.2);
+    height: 16px;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    right: -8px;
+    top: -6px;
+    width: 16px;
+  }
+  .noUi-horizontal .noUi-handle:after,
+  .noUi-horizontal .noUi-handle:before {
+    content: none;
+  }
+  .noUi-pips {
+    height: 1rem;
+    margin-top: -30px;
+    padding: 0;
+    position: relative;
+    color: rgba(0,0,0,0.5);
+  }
+  .noUi-marker {
+    display: none;
+  }
+  .noUi-value {
+    --text-opacity: 1;
+    color: #627d98;
+    color: rgba(98, 125, 152, var(--text-opacity));
+    cursor: pointer;
+    font-family: Open Sans, sans-serif;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    line-height: 1.25;
+  }
+  .noUi-value-horizontal {
+    transform: translate(-50%);
+  }
+  .noUi-value-horizontal:nth-child(2) {
+    transform: translate(0);
+  }
+  .noUi-value-horizontal:last-child {
+    transform: translate(-100%);
+  }
+  .noUi-tooltip {
+    top: 24px;
+    background: #000000;
+    color: #ffffff;
+    bottom: unset;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+  .noUi-tooltip:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #000000 transparent;
+    top: -18px;
+    left: 50%;
+    z-index: -1;
+    transform: translateX(-50%);
+  }
+}

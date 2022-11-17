@@ -26,7 +26,8 @@
                 </div>
               </div>     
             </div>
-            <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider>
+            <!-- <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider> -->
+            <no-ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount" ref='first'></no-ui-slider>
           </div>
           <div class="post-story-count-controller">
             <div class="controller-wrapper">
@@ -117,6 +118,7 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.2/nouislider.min.js"></script>
 <script>
       Vue.component('dropdown', {
         data: function () {
@@ -287,6 +289,101 @@
         </div>
     `
     })
+    Vue.component('no-ui-slider', {
+  template: 
+  `
+  <div class='slider-container'>
+    <div ref='slider' class='slider'></div>
+  </div>
+  `,
+  props:{
+          value:{
+            type: Number,
+            default :'1',
+          },// regular "value" prop to v-model become alive
+        },
+  watch:{
+    value(newValue, oldValue){
+      // Prevent infinit loop with common noUilSlider event
+      if(this.$refs.slider.noUiSlider.get() != newValue){
+          this.$refs.slider.noUiSlider.set(newValue); // Set value manually
+      }     
+    }
+  },
+  mounted(){
+    
+    // Create a slider from ref
+    noUiSlider.create(this.$refs.slider, {
+      start: this.value,
+      step: 1000,
+      connect: 'lower',
+      tooltips: [
+        {
+          to: function(e) {
+            // return r()(e)
+            return `${Math.round(e/1000)}K`;
+          },
+          from: function(e) {
+            return 'K'
+          }
+        },
+      ],
+      // range: { 'min': 10, 'max': 100 }
+      // connect: true,
+    // behaviour: 'tap',
+    // start: [500, 4000],
+    range: 
+    //   {
+    //     // Starting at 500, step the value by 500,
+    //     // until 4000 is reached. From there, step by 1000.
+    //     'min': [1],
+    //     '16.66%': [5, 1],
+    //     '33.33%': [10, 5],
+    //     '50%': [50, 5],
+    //     '66.66%': [100, 5],
+    //     '83.33%': [250, 5],
+    //     'max': [500]
+    // },
+      {
+        "min":[1000],
+        "16.66%":[5000,1000],
+        "33.33%":[10000,5000],
+        "50%":[50000,5000],
+        "66.66%":[100000,5000],
+        "83.33%":[250000,5000],
+        "max":[500000]
+      },
+                pips: {
+                    mode: "range",
+                    format: {
+                        to: function(e) {
+                            // return r()(e)
+                          return `${Math.round(e/1000)}K`;
+                        },
+                        from: function(e) {
+                            return 'K'
+                        }
+                    },
+                    density: -1
+                }
+              });
+    
+    // Emit regular "input" event with
+    this.$refs.slider.noUiSlider.on(
+
+
+      'update', (values, handle) => {
+        this.$emit('input', Math.round(values[handle]) ) 
+        console.log(values[handle],'han')
+      }
+        );
+   },
+  methods:{
+    setValue(value){
+      this.$refs.slider.noUiSlider.set(value);
+    }
+  }
+    })
     var app = new Vue({
       el: '#ib_campaign-spend-calculator',
       data: {
@@ -298,7 +395,7 @@
         storyCount: 1,
         campaignBudget:'1',
         rate : [25,43],
-        influencerFollowersCount:'1',
+        influencerFollowersCount: 1000,
         calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
         },
         // computed: {
@@ -355,14 +452,15 @@
         // },
         watch:{
           influencerFollowersCount(va){
+            let dva = va / 1000
               switch(true) {
-              case va >=1 && va <= 5:
+              case dva >=1 && dva <= 5:
                 this.selectedInfluencerType = {name:'NANO',code:'NANO'}
                 break;
-              case va >= 5 && va <= 50:
+              case dva >= 5 && dva <= 50:
               this.selectedInfluencerType = {name:'MICRO',code:'MICRO'}
                 break;
-              case va >=  50 && va <= 250:
+              case dva >=  50 && dva <= 250:
               this.selectedInfluencerType = {name:'MACRO',code:'MACRO'}
                 break;
               default:
@@ -382,16 +480,16 @@
       setInfluencerCount(type){
         switch(type) {
             case 'NANO':
-              this.influencerFollowersCount = '5'
+              this.influencerFollowersCount = '5' * 1000
               break;
             case 'MICRO':
-            this.influencerFollowersCount = '50'
+            this.influencerFollowersCount = '50' * 1000
               break;
             case 'MACRO':
-            this.influencerFollowersCount = '250'
+            this.influencerFollowersCount = '250' * 1000
               break;
             default:
-            this.influencerFollowersCount = '1'
+            this.influencerFollowersCount = '1' * 1000
         }
       },
       increamentCount(type){
@@ -421,7 +519,7 @@
         }else{
           roundedValue = Math.round(dVal/1000)*1000
         }
-        this[type] = roundedValue / 1000 + '';
+        this[type] = roundedValue;
         this.calculateValues();
       },
       checkIfNumber(event) {
@@ -429,7 +527,8 @@
         return !event.key.match(regex) && event.preventDefault();
       },
       getInputValue(type){
-        let value = this[type] * 1000 + ''
+        let value = this[type] + ''
+        console.log(type,this[type],value,'get')
         return value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
       },
       calculateValues() {
@@ -442,7 +541,7 @@
           body: JSON.stringify({
             currency: this.selectedCurrency.code,
             budget: this.campaignBudget * 1000,
-            followers:this.influencerFollowersCount * 1000,
+            followers:this.influencerFollowersCount,
             posts:this.postCount,
             stories:this.storyCount,
           }),
@@ -466,6 +565,14 @@
         this.calculateValues()
       }
     },
+    // beforeCreate(){
+    //   // this.calculateValues()
+    //   this.calculateValues()
+    // },
+    mounted(){
+      // console.log(this.calculatedValues,'2')
+    },
+
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
