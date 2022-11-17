@@ -27,7 +27,7 @@
               </div>     
             </div>
             <!-- <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider> -->
-            <no-ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount" ref='first'></no-ui-slider>
+            <no-ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></no-ui-slider>
           </div>
           <div class="post-story-count-controller">
             <div class="controller-wrapper">
@@ -509,15 +509,11 @@
         let dVal = e.target.value.replace(',','')
         dVal =  dVal > 500000 ? 500000 : dVal < 1000 ? 1000 : dVal
         let roundedValue 
-        if((dVal >= 10000 && dVal <= 100000) || (dVal > 200000 && dVal <= 250000)){
-          roundedValue = Math.round(dVal/10000)*10000
-        }else if(dVal > 100000 && dVal <= 250000){
-          roundedValue = Math.round(dVal/25000)*25000
-        }else if(dVal >= 250000 && dVal <= 500000){
-          roundedValue = Math.round(dVal/50000)*50000
-          e.target.value = roundedValue
-        }else{
+        if((dVal >= 1000 && dVal <= 50000)){
           roundedValue = Math.round(dVal/1000)*1000
+        }
+        else{
+          roundedValue = Math.round(dVal/5000)*5000
         }
         this[type] = roundedValue;
         this.calculateValues();
