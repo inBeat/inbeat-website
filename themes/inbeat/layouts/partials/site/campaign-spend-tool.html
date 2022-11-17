@@ -74,7 +74,7 @@
             <div class="calculation-field">
               {{- partial "icons/influencer.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{getComputedNumberOfProfiles.numberOfProfiles[0] + '-' + getComputedNumberOfProfiles.numberOfProfiles[1]}</div>
+                <div class="value">{abbreviateNumber(calculatedValues.numberOfProfiles[0]) + '-' + abbreviateNumber(calculatedValues.numberOfProfiles[1])}</div>
                 <div class="title">
                   Influencers
                 </div>
@@ -83,7 +83,7 @@
             <div class="calculation-field">
               {{- partial "icons/engagement-spend.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">26.27K - 2.7M</div>
+                <div class="value">{abbreviateNumber(calculatedValues.totalEngagements[0])} - {abbreviateNumber(calculatedValues.totalEngagements[1])}</div>
                 <div class="title">
                   Engagement
                 </div>
@@ -92,7 +92,7 @@
             <div class="calculation-field">
               {{- partial "icons/impression.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">26.27K - 2.7M</div>
+                <div class="value">{abbreviateNumber(calculatedValues.totalImpressions[0])} - {abbreviateNumber(calculatedValues.totalImpressions[1])}</div>
                 <div class="title">
                   Impressions
                 </div>
@@ -101,7 +101,7 @@
             <div class="calculation-field">
               {{- partial "icons/insta-post.html" -}}
               <div class="calculation-wrapper">
-                <div class="value"><span v-if="postCount > 0">{getComputedNumberOfProfiles.numberOfPosts[0] + '-' + getComputedNumberOfProfiles.numberOfPosts[1] } </span><span v-if="storyCount > 0">/ {getComputedNumberOfProfiles.numberOfStories[0] + '-' + getComputedNumberOfProfiles.numberOfStories[1]}</span></div>
+                <div class="value"><span v-if="postCount > 0">{abbreviateNumber(calculatedValues.numberOfPosts[0])} - {abbreviateNumber(calculatedValues.numberOfPosts[1])} </span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">{abbreviateNumber(calculatedValues.numberOfStories[0])} - {abbreviateNumber(calculatedValues.numberOfStories[1])}</span></div>
                 <div class="title">
                   Instagram posts / stories
                 </div>
