@@ -9,11 +9,11 @@
                 <div class="input-dropdown-wrapper">
                   <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'campaignBudget')" :value="getInputValue('campaignBudget')"> 
                   <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
-                  @option-select="optionSelect($event)"></dropdown>
+                  @option-select="optionSelect($event,'selectedCurrency')"></dropdown>
                 </div>
               </div>     
             </div>
-            <slider v-model="campaignBudget"></slider>
+            <slider v-model="campaignBudget" @input="sliderValueUpdate"></slider>
           </div>
           <div class="slider-control-wrapper">
             <div class="controls-wrapper" >
@@ -22,11 +22,11 @@
                 <div class="input-dropdown-wrapper influencer-type-dropdown">
                   <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
                   <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
-                  @option-select="optionSelect($event,'influencerType')"></dropdown>
+                  @option-select="optionSelect($event,'selectedInfluencerType')"></dropdown>
                 </div>
               </div>     
             </div>
-            <slider v-model="influencerFollowersCount"></slider>
+            <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider>
           </div>
           <div class="post-story-count-controller">
             <div class="controller-wrapper">
@@ -290,7 +290,7 @@
     var app = new Vue({
       el: '#ib_campaign-spend-calculator',
       data: {
-        currencyOptions:[{name:'EUR',code:'EUR'},{name:'GPB',code:'GPB'},{name:'USD',code:'USD'}],
+        currencyOptions:[{name:'EUR',code:'EUR'},{name:'GBP',code:'GBP'},{name:'USD',code:'USD'}],
         selectedCurrency:{name:'EUR',code:'EUR'},
         influencerOptions:[{name:'NANO',code:'NANO'},{name:'MICRO',code:'MICRO'},{name:'MACRO',code:'MACRO'}],
         selectedInfluencerType:{name:'NANO',code:'NANO'},
@@ -372,9 +372,11 @@
         },
     methods:{
       optionSelect(e,type){
-        if(type === 'influencerType'){
+        if(type === 'selectedInfluencerType'){
           this.setInfluencerCount(e.name)
         }
+        this[type] = e
+        this.calculateValues();
       },
 
       setInfluencerCount(type){
@@ -394,6 +396,7 @@
       },
       increamentCount(type){
         this[type]++
+        this.calculateValues();
       },
       decrenentCount(type){
         if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
@@ -402,6 +405,7 @@
         if(this[type] > 0){
           this[type]--
         }
+        this.calculateValues();
       },
       onChange(e,type){
         let dVal = e.target.value.replace(',','')
@@ -444,6 +448,7 @@
           }),
         }).then(_ => _.json())
         .then(response => {
+          console.log('hell',this.selectedCurrency.code)
           this.calculatedValues = response
         })
       },
@@ -458,6 +463,9 @@
         var scaled = number / scale;
         return scaled.toFixed(0) + suffix;
       },
+      sliderValueUpdate(){
+        this.calculateValues()
+      }
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
