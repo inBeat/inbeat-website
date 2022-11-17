@@ -301,58 +301,58 @@
         influencerFollowersCount:'1',
         calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
         },
-        computed: {
-            computedCalculations() {
-              let calculations = {}
-              switch(this.selectedInfluencerType.name) {
-              case 'NANO':
-                this.rate = [25,43]
-                break;
-              case 'MICRO':
-                this.rate = [80,450]
-                break;
-              case 'MACRO':
-                this.rate = [5000,10000]
-                break;
-              default:
-                return
-              }
-              // let numberOfProfiles = [] 
-              // let numberOfStories = [] 
-              // let numberOfPosts = [] 
-              // this.rate.forEach(ra => {
-              //   let budget = this.campaignBudget * 1000
-              //   numberOfProfiles.push(Math.round(budget / ra))
-              // });
-              // if(numberOfProfiles){
-              // numberOfProfiles.forEach(profile => {
-              //   let budget = this.campaignBudget * 1000
-              //   let storyCount = profile * this.storyCount
-              //   let postCount = profile * this.postCount
-              //   this.rate.forEach(ra => {
-              //     let budget = this.campaignBudget * 1000
-              //     numberOfProfiles.push(Math.round(budget / ra))
-              //   })
-              //   console.log(this.rate[0])
-              // })
-              // }
+        // computed: {
+        //     computedCalculations() {
+        //       let calculations = {}
+        //       switch(this.selectedInfluencerType.name) {
+        //       case 'NANO':
+        //         this.rate = [25,43]
+        //         break;
+        //       case 'MICRO':
+        //         this.rate = [80,450]
+        //         break;
+        //       case 'MACRO':
+        //         this.rate = [5000,10000]
+        //         break;
+        //       default:
+        //         return
+        //       }
+        //       // let numberOfProfiles = [] 
+        //       // let numberOfStories = [] 
+        //       // let numberOfPosts = [] 
+        //       // this.rate.forEach(ra => {
+        //       //   let budget = this.campaignBudget * 1000
+        //       //   numberOfProfiles.push(Math.round(budget / ra))
+        //       // });
+        //       // if(numberOfProfiles){
+        //       // numberOfProfiles.forEach(profile => {
+        //       //   let budget = this.campaignBudget * 1000
+        //       //   let storyCount = profile * this.storyCount
+        //       //   let postCount = profile * this.postCount
+        //       //   this.rate.forEach(ra => {
+        //       //     let budget = this.campaignBudget * 1000
+        //       //     numberOfProfiles.push(Math.round(budget / ra))
+        //       //   })
+        //       //   console.log(this.rate[0])
+        //       // })
+        //       // }
 
-              return {reach: this.rate}
-            },
-            getComputedNumberOfProfiles(){
-              let budget = this.campaignBudget * 1000
-              let stories = budget / this.storyCount
-              let posts = budget / this.postCount
-              let numberOfProfiles = [] 
-              let numberOfStories = [] 
-              let numberOfPosts = [] 
-              this.rate.forEach(ra => {
-                numberOfStories.push(Math.round(stories / ra))
-                numberOfPosts.push(Math.round(posts / ra))
-              });
-              return {numberOfProfiles: numberOfPosts,numberOfStories:numberOfStories,numberOfPosts:numberOfPosts}
-            },
-        },
+        //       return {reach: this.rate}
+        //     },
+        //     getComputedNumberOfProfiles(){
+        //       let budget = this.campaignBudget * 1000
+        //       let stories = budget / this.storyCount
+        //       let posts = budget / this.postCount
+        //       let numberOfProfiles = [] 
+        //       let numberOfStories = [] 
+        //       let numberOfPosts = [] 
+        //       this.rate.forEach(ra => {
+        //         numberOfStories.push(Math.round(stories / ra))
+        //         numberOfPosts.push(Math.round(posts / ra))
+        //       });
+        //       return {numberOfProfiles: numberOfPosts,numberOfStories:numberOfStories,numberOfPosts:numberOfPosts}
+        //     },
+        // },
         watch:{
           influencerFollowersCount(va){
               switch(true) {
@@ -448,7 +448,6 @@
           }),
         }).then(_ => _.json())
         .then(response => {
-          console.log('hell',this.selectedCurrency.code)
           this.calculatedValues = response
         })
       },
