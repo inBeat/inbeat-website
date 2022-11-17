@@ -68,7 +68,7 @@
                 <div class="title">
                   Your estimated reach will be:
                 </div>
-                <div class="value">{computedCalculations.reach[0]} - { computedCalculations.reach[1]}</div>
+                <div class="value">{abbreviateNumber(calculatedValues.totalReach[0])} - {abbreviateNumber(calculatedValues.totalReach[1])}</div>
               </div>
             </div>
             <div class="calculation-field">
@@ -299,6 +299,7 @@
         campaignBudget:'1',
         rate : [25,43],
         influencerFollowersCount:'1',
+        calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
         },
         computed: {
             computedCalculations() {
@@ -350,7 +351,7 @@
                 numberOfPosts.push(Math.round(posts / ra))
               });
               return {numberOfProfiles: numberOfPosts,numberOfStories:numberOfStories,numberOfPosts:numberOfPosts}
-            }
+            },
         },
         watch:{
           influencerFollowersCount(va){
@@ -392,23 +393,8 @@
         }
       },
       increamentCount(type){
-        // this.getComputedData()
         this[type]++
       },
-      // getComputedData(){
-      //   axios.post('http://inzpire.me/api/v1/campaign-spend-calculator/calculate', {
-      //     budget: 1000,
-      //     currency: 'EUR',
-      //     followers:1000,
-      //     posts:2,
-      //     stories:1,
-      //   })
-      //   .then((response) => {
-      //     console.log(response);
-      //   }, (error) => {
-      //     console.log(error);
-      //   })
-      // },
       decrenentCount(type){
         if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
           return
@@ -450,17 +436,28 @@
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            budget: 1000,
-            currency: 'EUR',
-            followers:1000,
-            posts:2,
-            stories:1,
+            currency: this.selectedCurrency.code,
+            budget: this.campaignBudget * 1000,
+            followers:this.influencerFollowersCount * 1000,
+            posts:this.postCount,
+            stories:this.storyCount,
           }),
         }).then(_ => _.json())
         .then(response => {
-          console.log(response);
+          this.calculatedValues = response
         })
-      }
+      },
+      abbreviateNumber(number){  
+        const SI_SYMBOL = ["", "k", "M", "B", "T", "P", "E"];
+        // what tier? (determines SI symbol)
+        var tier = Math.log10(Math.abs(number)) / 3 | 0;           
+        if(tier == 0) return number;
+        tier = tier > 6 ? 6 : tier
+        var suffix = SI_SYMBOL[tier];
+        var scale = Math.pow(10, tier * 3);
+        var scaled = number / scale;
+        return scaled.toFixed(1) + suffix;
+      },
     },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
