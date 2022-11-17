@@ -13,7 +13,7 @@
                 </div>
               </div>     
             </div>
-            <slider v-model="campaignBudget" @input="sliderValueUpdate"></slider>
+            <ui-slider v-model="campaignBudget" @input="sliderValueUpdate"></ui-slider>
           </div>
           <div class="slider-control-wrapper">
             <div class="controls-wrapper" >
@@ -27,7 +27,7 @@
               </div>     
             </div>
             <!-- <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider> -->
-            <no-ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></no-ui-slider>
+            <ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></ui-slider>
           </div>
           <div class="post-story-count-controller">
             <div class="controller-wrapper">
@@ -289,7 +289,7 @@
         </div>
     `
     })
-    Vue.component('no-ui-slider', {
+    Vue.component('ui-slider', {
   template: 
   `
   <div class='slider-container'>
@@ -297,11 +297,11 @@
   </div>
   `,
   props:{
-          value:{
-            type: Number,
-            default :'1',
-          },// regular "value" prop to v-model become alive
-        },
+    value:{
+      type: Number,
+      default :'5000',
+    },// regular "value" prop to v-model become alive
+  },
   watch:{
     value(newValue, oldValue){
       // Prevent infinit loop with common noUilSlider event
@@ -320,7 +320,6 @@
       tooltips: [
         {
           to: function(e) {
-            // return r()(e)
             return `${Math.round(e/1000)}K`;
           },
           from: function(e) {
@@ -328,22 +327,7 @@
           }
         },
       ],
-      // range: { 'min': 10, 'max': 100 }
-      // connect: true,
-    // behaviour: 'tap',
-    // start: [500, 4000],
     range: 
-    //   {
-    //     // Starting at 500, step the value by 500,
-    //     // until 4000 is reached. From there, step by 1000.
-    //     'min': [1],
-    //     '16.66%': [5, 1],
-    //     '33.33%': [10, 5],
-    //     '50%': [50, 5],
-    //     '66.66%': [100, 5],
-    //     '83.33%': [250, 5],
-    //     'max': [500]
-    // },
       {
         "min":[1000],
         "16.66%":[5000,1000],
@@ -353,30 +337,28 @@
         "83.33%":[250000,5000],
         "max":[500000]
       },
-                pips: {
-                    mode: "range",
-                    format: {
-                        to: function(e) {
-                            // return r()(e)
-                          return `${Math.round(e/1000)}K`;
-                        },
-                        from: function(e) {
-                            return 'K'
-                        }
-                    },
-                    density: -1
-                }
-              });
+      pips: {
+          mode: "range",
+          format: {
+              to: function(e) {
+                  // return r()(e)
+                return `${Math.round(e/1000)}K`;
+              },
+              from: function(e) {
+                  return 'K'
+              }
+          },
+          density: -1
+      }
+    });
     
     // Emit regular "input" event with
     this.$refs.slider.noUiSlider.on(
-
-
       'update', (values, handle) => {
         this.$emit('input', Math.round(values[handle]) ) 
-        console.log(values[handle],'han')
+        // console.log(values[handle],'han')
       }
-        );
+    );
    },
   methods:{
     setValue(value){
@@ -540,7 +522,7 @@
           },
           body: JSON.stringify({
             currency: this.selectedCurrency.code,
-            budget: this.campaignBudget * 1000,
+            budget: this.campaignBudget,
             followers:this.influencerFollowersCount,
             posts:this.postCount,
             stories:this.storyCount,
