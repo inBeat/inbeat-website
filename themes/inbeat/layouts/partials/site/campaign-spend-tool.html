@@ -419,9 +419,7 @@
       },
       onChange(e,type){
         let dVal = e.target.value.replace(',','')
-        if(dVal > 500000){
-          e.target.value = 500000
-        }
+        dVal =  dVal > 500000 ? 500000 : dVal < 1000 ? 1000 : dVal
         let roundedValue 
         if((dVal >= 10000 && dVal <= 100000) || (dVal > 200000 && dVal <= 250000)){
           roundedValue = Math.round(dVal/10000)*10000
