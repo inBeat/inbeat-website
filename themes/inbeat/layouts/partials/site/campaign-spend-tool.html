@@ -26,7 +26,6 @@
                 </div>
               </div>     
             </div>
-            <!-- <slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></slider> -->
             <ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></ui-slider>
           </div>
           <div class="post-story-count-controller">
@@ -178,203 +177,84 @@
         </div>
     `
     })
-   Vue.component('slider', {
-        data: function () {
-            return {
-                sliderValue : this.value,
-                showTooltip: false,
-                // sliderIntervals:['1K','5K','10K','50K','100K','250K','500K'],
-                sliderIntervals:[1,5,10,50,100,250,500],
-                dummyVal:this.value,
-                increatmentIntervalValue: 9
-            }
-        },
-        props:{
-          value:{
-            type: String,
-            default :1,
-          }
-        },
-        watch:{
-          value(value){
-            this.decodeValue(value)
-            // this.sliderValue = value
-            this.updateTooltipPosition()
-          },
-        },
-        methods:{
-          decodeValue(val){
-            if(val >= 20 && val < 125){
-              val = val - (((val / 10)-1) * 9 )
-              this.sliderValue = val + ''
-              this.encodeValue(val)
-            }
-            else if(val >= 125 && val <= 250){
-              val = (val / 25) + 15
-              this.sliderValue = val + ''
-              this.encodeValue(val)
-            }
-            else if(val >= 300 && val <= 500){
-              val = val / 10
-              let multi = val === 30 ? 4 : val === 35 ? 8 :val === 40 ? 12 :val === 45 ? 16: val === 50 ? 20: 4 
-              val = val - multi
-              this.sliderValue = val + ''
-              this.encodeValue(val)
-            }else{
-              this.sliderValue = val + ''
-              this.encodeValue(val)
-            }
-            this.updateTooltipPosition()
-          },
-          encodeValue(val){
-            if(val > 10 && val < 20){
-              val = ((val - 10) * 9 ) + val
-              this.dummyVal = val + ''
-            }else if(val >= 20 && val <= 25){
-              val = (val - 15)*25
-              this.dummyVal = val + ''
-            }else if(val > 25 && val <= 30){
-              let dVal = val * val / 2
-              val = val === 26 || val === 27 ? dVal - val : dVal + val
-              val = Math.round(((val)) / 50)*50
-              this.dummyVal = val + ''
-            }
-            else{
-              this.dummyVal = this.sliderValue
-            }
-          },
-          sliderValueChange(e){
-            let val = Math.round(e.target.value)
-            this.encodeValue(val)
-            this.updateTooltipPosition(e)
-            this.updateSliderValue()
-             this.showTooltip = true
-          },
-          updateSliderValue(){
-            this.$emit('update:modelValue',this.dummyVal)
-            this.$emit('input',this.dummyVal)
-          },
-          updateTooltipPosition(e){
-            let slider = this.$refs.sliderInput
-            var value = (this.sliderValue-slider.min)/(slider.max-slider.min)*100
-            slider.style.background = 'linear-gradient(to right, #000000 0%, #000000 ' + value + '%, rgba(204, 192, 192, 0.2) ' + value + '%, rgba(204, 192, 192, 0.2) 100%)'
-            // slider.style.background = 'rgba(204, 192, 192, 0.2)';
-            let incValue = this.sliderValue >=0 && this.sliderValue <= 6 ? 1.4 : this.sliderValue > 6 && this.sliderValue < 14 ? 1 : this.sliderValue >= 20 && this.sliderValue <= 30 ? -1 : 0
-            this.$refs.sliderValue.style.left = Math.round(value + incValue) + "%";
-          },
-          onBlur(){
-           this.showTooltip = false
-          },
-          onFocus(){
-            this.showTooltip = true
-          },
-          onIntervalClick(value){
-            this.decodeValue(value)
-            this.updateSliderValue()
-          },
-        },
-        mounted(){
-          this.updateTooltipPosition()
-        },
-
-        template:  `
-        <div class="range"  @mouseover='onFocus' @mouseleave='onBlur'>
-          <div ref='sliderValue' class="sliderValue">
-            <span v-html="dummyVal + 'K'" :class="{'show': showTooltip}">{sliderValue}</span>
-          </div>
-          <ul class="interval-wrapper" ><li  v-for="i in sliderIntervals" @click="onIntervalClick(i)" :key="i" class="interval" v-html="i + 'K'"></li></ul>
-          <div class="field">
-            <input type="range" ref='sliderInput' min="1" max="30" @input='sliderValueChange' v-model='sliderValue' steps="1" @mouseLeave="onBlur" @focus="onFocus">
-          </div>
-        </div>
-    `
-    })
     Vue.component('ui-slider', {
-  template: 
-  `
-  <div class='slider-container'>
-    <div ref='slider' class='slider'></div>
-  </div>
-  `,
-  props:{
-    value:{
-      type: Number,
-      default :'5000',
-    },// regular "value" prop to v-model become alive
-  },
-  watch:{
-    value(newValue, oldValue){
-      // Prevent infinit loop with common noUilSlider event
-      if(this.$refs.slider.noUiSlider.get() != newValue){
-          this.$refs.slider.noUiSlider.set(newValue); // Set value manually
-      }     
-    }
-  },
-  mounted(){
-    
-    // Create a slider from ref
-    noUiSlider.create(this.$refs.slider, {
-      start: this.value,
-      step: 1000,
-      connect: 'lower',
-      tooltips: [
-        {
-          to: function(e) {
-            return `${Math.round(e/1000)}K`;
-          },
-          from: function(e) {
-            return 'K'
-          }
-        },
-      ],
-    range: 
-      {
-        "min":[1000],
-        "16.66%":[5000,1000],
-        "33.33%":[10000,5000],
-        "50%":[50000,5000],
-        "66.66%":[100000,5000],
-        "83.33%":[250000,5000],
-        "max":[500000]
+      template: 
+      `
+      <div class='slider-container'>
+        <div ref='slider' class='slider'></div>
+      </div>
+      `,
+      props:{
+        value:{
+          type: Number,
+          default :'5000',
+        },// regular "value" prop to v-model become alive
       },
-      pips: {
-          mode: "range",
-          format: {
+      watch:{
+        value(newValue, oldValue){
+          // Prevent infinit loop with common noUilSlider event
+          if(this.$refs.slider.noUiSlider.get() != newValue){
+              this.$refs.slider.noUiSlider.set(newValue); // Set value manually
+          }     
+        }
+      },
+      mounted(){
+        noUiSlider.create(this.$refs.slider, {
+          start: this.value,
+          step: 1000,
+          connect: 'lower',
+          tooltips: [
+            {
               to: function(e) {
-                  // return r()(e)
+                return `${Math.round(e/1000)}K`;
+              },
+              from: function(e) {
+                return 'K'
+              }
+            },
+          ],
+        range: 
+          {
+            "min":[1000],
+            "16.66%":[5000,1000],
+            "33.33%":[10000,5000],
+            "50%":[50000,5000],
+            "66.66%":[100000,5000],
+            "83.33%":[250000,5000],
+            "max":[500000]
+          },
+        pips: 
+          {
+            mode: "range",
+            format: {
+              to: function(e) {
                 return `${Math.round(e/1000)}K`;
               },
               from: function(e) {
                   return 'K'
               }
-          },
-          density: -1
+            },
+            density: -1
+          }
+        });
+        this.$refs.slider.noUiSlider.on(
+          'update', (values, handle) => {
+            this.$emit('input', Math.round(values[handle]) ) 
+          }
+        );
+        let pipeValues = this.$refs.slider.querySelectorAll('.noUi-value-large');
+        let sli = this.$refs.slider;
+        [...pipeValues].forEach(function(ele) {
+          ele.addEventListener('click',() =>{
+            sli.noUiSlider.set(ele.getAttribute('data-value'))
+          })
+        })  
+      },
+      methods:{
+        setValue(value){
+          this.$refs.slider.noUiSlider.set(value);
+        }
       }
-    });
-    
-    // Emit regular "input" event with
-    this.$refs.slider.noUiSlider.on(
-      'update', (values, handle) => {
-        this.$emit('input', Math.round(values[handle]) ) 
-        // console.log(values[handle],'han')
-      }
-    );
-    let pipeValues = this.$refs.slider.querySelectorAll('.noUi-value-large');
-    let sli = this.$refs.slider;
-    [...pipeValues].forEach(function(ele) {
-      ele.addEventListener('click',() =>{
-        sli.noUiSlider.set(ele.getAttribute('data-value'))
-      })
-    })  
-    
-
-    
-   },
-  methods:{
-    setValue(value){
-      this.$refs.slider.noUiSlider.set(value);
-    }
-  }
     })
     var app = new Vue({
       el: '#ib_campaign-spend-calculator',
@@ -390,58 +270,6 @@
         influencerFollowersCount: 1000,
         calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
         },
-        // computed: {
-        //     computedCalculations() {
-        //       let calculations = {}
-        //       switch(this.selectedInfluencerType.name) {
-        //       case 'NANO':
-        //         this.rate = [25,43]
-        //         break;
-        //       case 'MICRO':
-        //         this.rate = [80,450]
-        //         break;
-        //       case 'MACRO':
-        //         this.rate = [5000,10000]
-        //         break;
-        //       default:
-        //         return
-        //       }
-        //       // let numberOfProfiles = [] 
-        //       // let numberOfStories = [] 
-        //       // let numberOfPosts = [] 
-        //       // this.rate.forEach(ra => {
-        //       //   let budget = this.campaignBudget * 1000
-        //       //   numberOfProfiles.push(Math.round(budget / ra))
-        //       // });
-        //       // if(numberOfProfiles){
-        //       // numberOfProfiles.forEach(profile => {
-        //       //   let budget = this.campaignBudget * 1000
-        //       //   let storyCount = profile * this.storyCount
-        //       //   let postCount = profile * this.postCount
-        //       //   this.rate.forEach(ra => {
-        //       //     let budget = this.campaignBudget * 1000
-        //       //     numberOfProfiles.push(Math.round(budget / ra))
-        //       //   })
-        //       //   console.log(this.rate[0])
-        //       // })
-        //       // }
-
-        //       return {reach: this.rate}
-        //     },
-        //     getComputedNumberOfProfiles(){
-        //       let budget = this.campaignBudget * 1000
-        //       let stories = budget / this.storyCount
-        //       let posts = budget / this.postCount
-        //       let numberOfProfiles = [] 
-        //       let numberOfStories = [] 
-        //       let numberOfPosts = [] 
-        //       this.rate.forEach(ra => {
-        //         numberOfStories.push(Math.round(stories / ra))
-        //         numberOfPosts.push(Math.round(posts / ra))
-        //       });
-        //       return {numberOfProfiles: numberOfPosts,numberOfStories:numberOfStories,numberOfPosts:numberOfPosts}
-        //     },
-        // },
         watch:{
           influencerFollowersCount(va){
             let dva = va / 1000
@@ -551,13 +379,6 @@
       sliderValueUpdate(){
         this.calculateValues()
       }
-    },
-    // beforeCreate(){
-    //   // this.calculateValues()
-    //   this.calculateValues()
-    // },
-    mounted(){
-      // console.log(this.calculatedValues,'2')
     },
 
       // To make sure there's no conflict with Hugo templating
