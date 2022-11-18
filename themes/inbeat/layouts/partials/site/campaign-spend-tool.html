@@ -359,6 +359,16 @@
         // console.log(values[handle],'han')
       }
     );
+    let pipeValues = this.$refs.slider.querySelectorAll('.noUi-value-large');
+    let sli = this.$refs.slider;
+    [...pipeValues].forEach(function(ele) {
+      ele.addEventListener('click',() =>{
+        sli.noUiSlider.set(ele.getAttribute('data-value'))
+      })
+    })  
+    
+
+    
    },
   methods:{
     setValue(value){
@@ -375,7 +385,7 @@
         selectedInfluencerType:{name:'NANO',code:'NANO'},
         postCount : 1,
         storyCount: 1,
-        campaignBudget:'1',
+        campaignBudget:1,
         rate : [25,43],
         influencerFollowersCount: 1000,
         calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
