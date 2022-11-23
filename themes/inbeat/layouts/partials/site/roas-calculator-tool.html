@@ -13,9 +13,9 @@
         </div>
         <div class="row" id="cpm_calculator-section">
             <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
+                <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)"></input-row>
         </div>
-            <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button>
+            <!-- <button v-if="activeTab === 'advance'" @click="addCampaign" class="add-campaign_button col-xs-12">&#43; Add another campaign</button> -->
             <div class="refresh-button_wrapper" @click="refresh">
                 {{- partial "icons/refresh.html" -}}
                 <span class="--tooltip">Clear & Start Over</span>
@@ -36,6 +36,7 @@
         data: function () {
             return {
                 roasValue : this.values.roas,
+                isRevenueAvaliable:false,
                 adRevenueValue: this.values.adRevenue,
                 adSpendValue: this.values.adSpend,
                 lastUpdatedField: '',
@@ -140,28 +141,6 @@
         focus(e){
             e.target.parentElement.parentElement.classList.add('--active_input-box')
         },
-        deleteRow(e){
-            this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
-        },
-        openDropdown(e){
-            this.$refs.dropdown.classList.toggle('active')
-            window.addEventListener('click', (event)=>{
-                if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
-                    this.closeDropdown()
-                }
-            });
-        },
-        closeDropdown(e){
-            this.$refs.dropdown.classList.remove('active')
-        },
-        selectOption(option){
-            this.$emit('select-option',{name: this.campaign, platform: option, values:{
-                        roas:this.roasValue,
-                        adSpend: this.adSpendValue,
-                        adRevenue: this.adRevenueValue 
-            }})
-            this.selectedOption = option
-        },
         getImgUrl(pic) {
             return '/icons/'+pic+'.svg'
         },
@@ -212,24 +191,16 @@
 
         template:  `
         <div>
-    <div class="toolbox" v-if="tab === 'advance'" >
-        <div class="dropdown-wrapper">
-            <div class="dropdown"  @click.prevent="openDropdown" ref="dropdown">     
-               <img :src="getImgUrl(selectedOption.icon)">
-                <a href="javascript:void(0)" v-html="selectedOption.name">
-                    Campaign
-                </a>
-                <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 0.5L6.5 5.5L12 0.5" stroke="black" stroke-opacity="0.25"/>
-                </svg>
+    <div class="toolbox">
+        <label class="toggle">
+            <div class="toggle-wrpper">
+              <input class="toggle-input" type="checkbox" v-model="isRevenueAvaliable">
+              <div class="toggle-track">
+                  <div class="toggle-control"></div>
+              </div>
             </div>
-            <ul class="dropdown-list">
-                <li class="list-item" v-for="option in options" @click="selectOption(option)">
-                    <img :src="getImgUrl(option.icon)">
-                    <p class="list-title"  v-html="option.name"></p>
-                </li>            
-            </ul>
-        </div>
+            <span class="toggle-label">I don't know my revenue</span> 
+        </label>
         <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
     </div>
     <div class="row cpm__input-row">
@@ -243,7 +214,9 @@
                 </div>
                 <div class="input-wrapper" :class="{'--border':adSpendValue}">
                     <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adSpend')" :value="adSpendText" type="text" placeholder="1,000"  ref="adSpend" :size="getInputSize('adSpend')">
-                    {{- partial "icons/doller.html" -}}
+                    <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z" fill="black" fill-opacity="0.5"/>
+                    </svg>
                 </div>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adSpendValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
@@ -264,7 +237,9 @@
                 </div>
                 <div class="input-wrapper" :class="{'--border':adRevenueValue}">
                     <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adRevenue')" :value="adRevenueText"  type="text" placeholder="50,000" ref="adRevenue">
-                    {{- partial "icons/doller.html" -}}
+                    <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z" fill="black" fill-opacity="0.5"/>
+                    </svg>
                 </div>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adRevenueValue)" @mouseleave="copied = false">
                     {{- partial "icons/copy-button.html" -}}
@@ -331,24 +306,6 @@
           }
         },
     methods:{
-        addCampaign(){
-            for(let i = 0; i<=this.campaigns.length - 1;i++){
-                if(JSON.stringify(this.campaigns[i].values) !== JSON.stringify(this.dummyCampains[i].values) || JSON.stringify(this.campaigns[i].platform) !== JSON.stringify(this.dummyCampains[i].platform)){
-                    this.campaigns[i].values = this.dummyCampains[i].values
-                    this.campaigns[i].platform = this.dummyCampains[i].platform
-                }
-            }
-            this.campaigns.push({name:`Campaign ${++this.ind}`,platform:{name:`Campaign ${this.ind}`,icon:'dot'},values: { adRevenue:null, roas:null, adSpend:null}})
-            console.log(this.campaigns)
-        },
-        selectOption(e){
-            // this.campaigns = JSON.parse(JSON.stringify(this.campaigns))
-            for(let i = 0; i<=this.campaigns.length - 1;i++){
-                if(this.campaigns[i].name === e.name ){
-                    this.dummyCampains[i].platform = e.platform
-                }
-            }
-        },
         refresh(){
             this.campaigns = [{name:'Campaign 1',platform:{name:'Campaign 1',icon:'dot'},values: { adRevenue:null, roas:null, adSpend:null }}]
             this.isRefresh = !this.isRefresh
