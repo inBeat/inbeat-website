@@ -192,103 +192,178 @@
         template:  `
         <div>
     <div class="toolbox">
-        <label class="toggle">
-            <div class="toggle-wrpper">
-              <input class="toggle-input" type="checkbox" v-model="isRevenueAvaliable">
-              <div class="toggle-track">
-                  <div class="toggle-control"></div>
-              </div>
-            </div>
-            <span class="toggle-label">I don't know my revenue</span> 
-        </label>
-        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
+      <label class="toggle">
+        <div class="toggle-wrpper">
+          <input class="toggle-input" type="checkbox" v-model="isRevenueAvaliable" />
+          <div class="toggle-track">
+            <div class="toggle-control"></div>
+          </div>
+        </div>
+        <span class="toggle-label">I don't know my revenue</span>
+      </label>
     </div>
     <div class="row cpm__input-row">
-        <div class="col-xs-12 col-md-4">
-            <div class="calculator_input-box ">
-                <div class="header --green">
-                    Ad spend <span class="question-circle --green_bg">
-                        {{- partial "icons/question-mark.html" -}}
-                    </span>
-                    <span class="--tooltip">The total cost or budget <br> for the campaign</span>
-                </div>
-                <div class="input-wrapper" :class="{'--border':adSpendValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adSpend')" :value="adSpendText" type="text" placeholder="1,000"  ref="adSpend" :size="getInputSize('adSpend')">
-                    <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z" fill="black" fill-opacity="0.5"/>
-                    </svg>
-                </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adSpendValue)" @mouseleave="copied = false">
-                    {{- partial "icons/copy-button.html" -}}
-                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                </div>
-            </div>
+      <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box ">
+          <div class="header --green">
+            Ad spend <span class="question-circle --green_bg">
+              {{- partial "icons/question-mark.html" -}}
+            </span>
+            <span class="--tooltip">The total cost or budget <br> for the campaign</span>
+          </div>
+          <div class="input-wrapper" :class="{ '--border': adSpendValue }">
+            <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adSpend')" :value="adSpendText"
+              type="text" placeholder="1,000" ref="adSpend" :size="getInputSize('adSpend')" />
+            <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z"
+                fill="black" fill-opacity="0.5" />
+            </svg>
+          </div>
+          <div class="copy-button_wrapper hide-sm" @click="copyValue($event, adSpendValue)" @mouseleave="copied = false">
+            {{- partial "icons/copy-button.html" -}}
+            <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+            <span v-else class="--tooltip --sucess">Copied
+              {{- partial "icons/check.html" -}}
+            </span>
+          </div>
         </div>
-        <div class="col-xs-12 col-md-4">
-            <div class="calculator_input-box">
-                <div class="header --yellow">
-                    Ad revenue <span class="question-circle --yellow_bg">
-                        {{- partial "icons/question-mark.html" -}}
-                    </span>
-                    <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
-                </div>
-                <div class="input-wrapper" :class="{'--border':adRevenueValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adRevenue')" :value="adRevenueText"  type="text" placeholder="50,000" ref="adRevenue">
-                    <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z" fill="black" fill-opacity="0.5"/>
-                    </svg>
-                </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adRevenueValue)" @mouseleave="copied = false">
-                    {{- partial "icons/copy-button.html" -}}
-                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                </div>
-            </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="calculator_input-box">
-                    <div class="header --pink" title="ROAS">
-                        ROAS <span class="question-circle --pink_bg">
-                            {{- partial "icons/question-mark.html" -}}
-                        </span>
-                        <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
-                    </div>
-                    <div class="input-wrapper" :class="{'--border':roasValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'roas')" :value="roasText" type="text" placeholder="20" :size="getInputSize('roas')" ref="roas">
-                        {{- partial "icons/percentage.html" -}}
-                    </div>
-                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)" @mouseleave="copied = false">
-                        {{- partial "icons/copy-button.html" -}}
-                        <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                    </div>
-                </div>
-                </div>
-            </div>
-            <div v-if='roasValue' :class="['roas-progress-bar','col-xs-12',{'safe' : roasValue > 800,'warning' : roasValue >= 400 && roasValue < 800,'danger' : roasValue < 400 || roasValue === null }]"><div class="progress-wrap"><span v-html="roasValue ? roasValue + '%' : '0%'" ></span> <div class="bar"><div class="target"><small>Target (800%)</small><br>$8,000+</div> <div class="progress" :style="{width: (roasValue/10) + '%'}"></div></div></div></div>
-            <div class="col-md-12 col-xs-12 footer">
-                <span v-if="roasValue > 800" class='safe value'>
-                    Nice work! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>.</br> If you're getting over 800% ROAS, you're probably in a good spot!
-                </span>
-                <span v-if="roasValue >= 400 && roasValue < 800" class='warning value'>
-                    Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>. This is not great but it's fair. </br>You need to make more than you spend on ads. You should aim for 800%
-                </span>
-                <span v-if="roasValue < 400 && roasValue !== null" class='danger value'>
-                    Danger! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>. This is not good.</br> You need to make more than you spend on ads. </br>If you are receiving any less than 400% ROAS, you may be losing money.
-                </span>
-                <span v-if="roasValue === null">
-                    <span class="footer-heading">Fill in any 2 fields</span><br>
-            The value of the third will appear
-                </span>
-            </div>
-            </div>
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box">
+          <div class="header --yellow">
+            Ad revenue <span class="question-circle --yellow_bg">
+              {{- partial "icons/question-mark.html" -}}
+            </span>
+            <span class="--tooltip">The total advertising impressions <br /> over the life of the campaign</span>
+          </div>
+          <div class="input-wrapper" :class="{ '--border': adRevenueValue }">
+            <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adRevenue')" :value="adRevenueText"
+              type="text" placeholder="50,000" ref="adRevenue" />
+            <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z"
+                fill="black" fill-opacity="0.5" />
+            </svg>
+          </div>
+          <div class="copy-button_wrapper hide-sm" @click="copyValue($event, adRevenueValue)"
+            @mouseleave="copied = false">
+            {{- partial "icons/copy-button.html" -}}
+            <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+            <span v-else class="--tooltip --sucess">Copied
+              {{- partial "icons/check.html" -}}
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box">
+          <div class="header --pink" title="ROAS">
+            ROAS <span class="question-circle --pink_bg">
+              {{- partial "icons/question-mark.html" -}}
+            </span>
+            <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
+          </div>
+          <div class="input-wrapper" :class="{ '--border': roasValue }">
+            <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'roas')" :value="roasText" type="text"
+              placeholder="20" :size="getInputSize('roas')" ref="roas" />
+            {{- partial "icons/percentage.html" -}}
+          </div>
+          <div class="copy-button_wrapper hide-sm" @click="copyValue($event, roasValue)" @mouseleave="copied = false">
+            {{- partial "icons/copy-button.html" -}}
+            <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+            <span v-else class="--tooltip --sucess">Copied
+              {{- partial "icons/check.html" -}}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row cpm__input-row" v-if="this.tab === 'advance'">
+      <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box ">
+          <div class="header --green">
+            Profit margin <span class="question-circle --green_bg">
+              {{- partial "icons/question-mark.html" -}}
+            </span>
+            <span class="--tooltip">The total cost or budget <br> for the campaign</span>
+          </div>
+          <div class="input-wrapper" :class="{ '--border': adSpendValue }">
+            <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adSpend')" :value="adSpendText"
+              type="text" placeholder="1,000" ref="adSpend" :size="getInputSize('adSpend')" />
+            <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z"
+                fill="black" fill-opacity="0.5" />
+            </svg>
+          </div>
+          <div class="copy-button_wrapper hide-sm" @click="copyValue($event, adSpendValue)" @mouseleave="copied = false">
+            {{- partial "icons/copy-button.html" -}}
+            <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+            <span v-else class="--tooltip --sucess">Copied
+              {{- partial "icons/check.html" -}}
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <div class="calculator_input-box">
+          <div class="header --yellow">
+            Return on Investment (ROI) <span class="question-circle --yellow_bg">
+              {{- partial "icons/question-mark.html" -}}
+            </span>
+            <span class="--tooltip">The total advertising impressions <br /> over the life of the campaign</span>
+          </div>
+          <div class="input-wrapper" :class="{ '--border': adRevenueValue }">
+            <input @focus="focus" @blur="blur" @input="calculateROAS($event, 'adRevenue')" :value="adRevenueText"
+              type="text" placeholder="50,000" ref="adRevenue" />
+            <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M9.36 10.76C9.36 8.186 7.542 7.628 5.616 7.088V2.966C6.858 3.164 7.506 3.956 7.506 5.612H9.108C9.108 3.146 7.884 1.832 5.616 1.634V0.247999H4.5V1.634C2.304 1.796 0.972 3.038 0.972 4.928C0.972 7.268 2.754 7.916 4.5 8.42V12.884C3.096 12.686 2.358 11.786 2.358 10.04H0.756C0.774 12.596 2.106 14.036 4.5 14.234V15.782H5.616V14.234C7.92 14.054 9.36 12.74 9.36 10.76ZM2.592 4.838C2.592 3.704 3.258 3.074 4.5 2.948V6.782C3.276 6.422 2.592 6.026 2.592 4.838ZM5.616 8.726C6.93 9.122 7.74 9.536 7.74 10.814C7.74 12.02 7.002 12.758 5.616 12.902V8.726Z"
+                fill="black" fill-opacity="0.5" />
+            </svg>
+          </div>
+          <div class="copy-button_wrapper hide-sm" @click="copyValue($event, adRevenueValue)"
+            @mouseleave="copied = false">
+            {{- partial "icons/copy-button.html" -}}
+            <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+            <span v-else class="--tooltip --sucess">Copied
+              {{- partial "icons/check.html" -}}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div v-if='roasValue'
+      :class="['roas-progress-bar', 'col-xs-12', { 'safe': roasValue > 800, 'warning': roasValue >= 400 && roasValue < 800, 'danger': roasValue < 400 || roasValue === null }]">
+      <div class="progress-wrap"><span v-html="roasValue ? roasValue + '%' : '0%'"></span>
+        <div class="bar">
+          <div class="target"><small>Target (800%)</small><br>$8,000+</div>
+          <div class="progress" :style="{ width: (roasValue / 10) + '%' }"></div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-12 col-xs-12 footer">
+      <span v-if="roasValue > 800" class='safe value'>
+        Nice work! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'"></span>.<br /> If you're getting over
+        800% ROAS, you're probably in a good spot!
+      </span>
+      <span v-if="roasValue >= 400 && roasValue < 800" class='warning value'>
+        Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'"></span>. This is not great but it's fair.
+        <br />You
+        need to make more than you spend on ads. You should aim for 800%
+      </span>
+      <span v-if="roasValue < 400 && roasValue !== null" class='danger value'>
+        Danger! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'"></span>. This is not good.<br /> You need
+        to
+        make more than you spend on ads. <br />If you are receiving any less than 400% ROAS, you may be losing money.
+      </span>
+      <span v-if="roasValue === null">
+        <span class="footer-heading">Fill in any 2 fields</span><br>
+        The value of the third will appear
+      </span>
+    </div>
+  </div>
     `
     })
     var app = new Vue({
