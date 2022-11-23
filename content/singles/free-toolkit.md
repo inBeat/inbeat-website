@@ -37,7 +37,7 @@ toolkits:
     - title: Campaign Spend <br> Calculator
       text: Calculate campaign spend for an influencer marketing campaign & estimate it’s results
       icon: freetoolkit-spend-calculator
-      url: campaign-spend-calculator
+      url: influencer-marketing-roi-calculator
   - AdMockupGenerators:
     subtitle: Ad mockup generators
     tools:

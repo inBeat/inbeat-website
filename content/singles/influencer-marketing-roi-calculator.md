@@ -2,12 +2,12 @@
 title: inBeat
 description: >-
   Inbeat
-slug: campaign-spend-calculator
-layout: campaign-spend-calculator
-title: Campaign Spend Calculator
-subtitle: "Campaign Spend Calculator"
+slug: influencer-marketing-roi-calculator
+layout: influencer-marketing-roi-calculator
+title: Influencer Marketing ROI Calculator
+subtitle: "Influencer Marketing ROI Calculator"
 hero:
-  title: Campaign Spend Calculator
+  title: Influencer Marketing ROI Calculator
   subtitle: >-
    Calculate campaign spend for an influencer marketing campaign & estimate it’s results
 whatwedo:
