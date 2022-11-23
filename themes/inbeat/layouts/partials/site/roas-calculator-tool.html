@@ -111,7 +111,7 @@
                         this.calculateOtherField('adRevenue')
                     }
                     else if(this.adRevenueValue && this.roasValue && fieldName !== 'adSpend'){
-                        // update adSpend
+                        // update adSpendroasValue
                         this.calculateOtherField('adSpend')
                     }
                 }
@@ -272,12 +272,19 @@
                 </div>
                 </div>
             </div>
-            <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
-                <span v-if="roasValue && adRevenueValue || adRevenueValue && adSpendValue || roasValue && adSpendValue">
-                    Use advanced mode to compare the costs of <br> multiple campaigns.
+            <div v-if='roasValue' :class="['roas-progress-bar','col-xs-12',{'safe' : roasValue > 800,'warning' : roasValue >= 400 && roasValue < 800,'danger' : roasValue < 400 || roasValue === null }]"><div class="progress-wrap"><span v-html="roasValue ? roasValue + '%' : '0%'" ></span> <div class="bar"><div class="target"><small>Target (800%)</small><br>$8,000+</div> <div class="progress" :style="{width: (roasValue/10) + '%'}"></div></div></div></div>
+            <div class="col-md-12 col-xs-12 footer">
+                <span v-if="roasValue > 800" class='safe value'>
+                    Nice work! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>.</br> If you're getting over 800% ROAS, you're probably in a good spot!
                 </span>
-                <span v-else >
-                <span class="footer-heading">Fill in any 2 fields</span><br>
+                <span v-if="roasValue >= 400 && roasValue < 800" class='warning value'>
+                    Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>. This is not great but it's fair. </br>You need to make more than you spend on ads. You should aim for 800%
+                </span>
+                <span v-if="roasValue < 400 && roasValue !== null" class='danger value'>
+                    Danger! Your ROAS is <span v-html="roasValue ? roasValue + '%' : '0%'" ></span>. This is not good.</br> You need to make more than you spend on ads. </br>If you are receiving any less than 400% ROAS, you may be losing money.
+                </span>
+                <span v-if="roasValue === null">
+                    <span class="footer-heading">Fill in any 2 fields</span><br>
             The value of the third will appear
                 </span>
             </div>
