@@ -119,16 +119,16 @@
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'roas': 
-                    this.roasValue = ((this.adSpendValue / (this.adRevenueValue/1000))).toFixed(2);
+                    this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
                     this.updateValue()
                     break;
                 case 'adRevenue':
                     this.updateValue()
-                    this.adRevenueValue = ((this.adSpendValue / this.roasValue) * 1000).toFixed(0);
+                    this.adRevenueValue = (this.adSpendValue * (this.roasValue/100)).toFixed(0);
                     break;
                 case 'adSpend':
                     this.updateValue()
-                    this.adSpendValue = ((this.adRevenueValue / 1000) * this.roasValue).toFixed(0);
+                    this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
                     break;
                 }
                 this.lastUpdatedField = fieldName;
