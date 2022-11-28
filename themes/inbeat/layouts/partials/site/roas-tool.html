@@ -35,13 +35,13 @@
                     <div class="roas-input-box --with-toggle">
                         <div class="wrapper">
                             <div class="header --green">
-                                Ad Revenue <span class="question-circle --green_bg">
+                                {isRevenueAvaliable ? 'Ad Revenue' : 'Ad Revenue Target'} <span class="question-circle --green_bg">
                                     {{- partial "icons/question-mark.html" -}}
                                 </span>
                                 <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                             </div>
                             <div class="input-wrapper" :class="{'--border':inlineValue}">     
-                                    <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="adRevenueValue" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
+                                    <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="isRevenueAvaliable ? adRevenueValue : expectedRevenueText" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
                                     <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                                         {{- partial "icons/copy-button.html" -}}
                                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -135,11 +135,6 @@
 
                 </div>
             </div>
-
-            <!-- <div v-for="(campaign,i) in campaigns" :key="campaign + Math.random()" :class="['col-xs-12',{'--advance': activeTab === 'active'}]" style="padding: 0;">
-                <input-row @value-change="valueChange($event)" :values="campaign.values" :campaign="campaign.name" :platform="campaign.platform" :refresh="isRefresh" :tab="activeTab" @delete-row="deleteRow($event)" @select-option="selectOption($event)"></input-row>
-        </div> -->
-        <!-- <inline-input v-model="inlineValue"></inline-input>$ -->
             <div class="refresh-button_wrapper" @click="refresh">
                 {{- partial "icons/refresh.html" -}}
                 <span class="--tooltip">Clear & Start Over</span>
