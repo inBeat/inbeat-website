@@ -81,7 +81,7 @@
                             Profit Margin
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input @blur="blur"  background="none" v-model="profitMarginValue" placeholder="500" @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
+                            <inline-input @blur="blur"  background="none" v-model="profitMarginValue" placeholder="200" @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -96,7 +96,7 @@
                             Return on investment (ROI)
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input @blur="blur"  background="none" v-model="roiValue" placeholder="500" @input="calculateROAS($event, 'roi')"></inline-input><span class="doller-sign">$</span>
+                            <inline-input @blur="blur"  background="none" v-model="roiValue" placeholder="100" @input="calculateROAS($event, 'roi')"></inline-input><span class="doller-sign">$</span>
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roiValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
