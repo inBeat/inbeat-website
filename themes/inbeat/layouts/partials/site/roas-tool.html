@@ -107,9 +107,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="switch-mode-wrapper">
+                <div class="switch-mode-wrapper" v-if="activeTab === 'simple'">
                     Calculate Return On Investment (ROI) <br /> using <span @click="switchTab('advance')">ROI Mode</span> 
                 </div>
+                <div class="switch-mode-wrapper" v-else>
+                  Switch back to <span @click="switchTab('simple')">Simple Mode</span> 
+              </div>
             </div>
             <div class="col-md-7 graph-section-wrapper">
                 <div class="roas-progress-wrapper">

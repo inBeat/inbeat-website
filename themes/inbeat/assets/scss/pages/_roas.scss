@@ -146,6 +146,7 @@ $--inactive-border: #D9D9D9;
     display: flex;
     flex-direction: column;
     gap: 48px;
+    min-height: 620px;
     .roas-progress-wrapper{
       background: #FFFFFF;
       border: 1px solid #DCDCDC;
