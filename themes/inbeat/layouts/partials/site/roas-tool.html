@@ -22,7 +22,7 @@
                             <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input background="none" v-model="adSpendValue" placeholder="200"  @input="calculateROAS($event, 'adSpend')"></inline-input><span class="doller-sign">$</span>         
+                            <inline-input @blur="blur" background="none" v-model="adSpendValue" placeholder="200"  @input="calculateROAS($event, 'adSpend')"></inline-input><span class="doller-sign">$</span>         
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -41,7 +41,7 @@
                                 <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                             </div>
                             <div class="input-wrapper" :class="{'--border':inlineValue}">     
-                                    <inline-input :read-only="!isRevenueAvaliable" background="none" v-model="adRevenueValue" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
+                                    <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="adRevenueValue" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
                                     <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                                         {{- partial "icons/copy-button.html" -}}
                                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -53,7 +53,7 @@
                         </div>
                             <label class="toggle">
                                 <div class="toggle-wrpper">
-                                  <input class="toggle-input" type="checkbox" v-model="isRevenueAvaliable" @change="toggleRevenuAvaliable"/>
+                                  <input @blur="blur" class="toggle-input" type="checkbox" v-model="isRevenueAvaliable" @change="toggleRevenuAvaliable"/>
                                   <div class="toggle-track">
                                     <div class="toggle-control"></div>
                                   </div>
@@ -66,7 +66,7 @@
                             ROAS 
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input :read-only="!isRevenueAvaliable"  background="none" v-model="roasValue" placeholder="500" @input="calculateROAS($event, 'roas')"></inline-input><span class="doller-sign">%</span>
+                            <inline-input  @blur="blur" :read-only="!isRevenueAvaliable"  background="none" v-model="roasValue" placeholder="500" @input="calculateROAS($event, 'roas')"></inline-input><span class="doller-sign">%</span>
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -81,7 +81,7 @@
                             Profit Margin
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input :read-only="!isRevenueAvaliable"  background="none" v-model="profitMarginValue" placeholder="500" @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
+                            <inline-input @blur="blur"  background="none" v-model="profitMarginValue" placeholder="500" @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -96,7 +96,7 @@
                             Return on investment (ROI)
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
-                            <inline-input :read-only="!isRevenueAvaliable"  background="none" v-model="roiValue" placeholder="500" @input="calculateROAS($event, 'roi')"></inline-input><span class="doller-sign">$</span>
+                            <inline-input @blur="blur"  background="none" v-model="roiValue" placeholder="500" @input="calculateROAS($event, 'roi')"></inline-input><span class="doller-sign">$</span>
                             <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roiValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -247,6 +247,7 @@ methods: {
     e.target.style.borderRadius = this.borderRadius;
   },
   removeTextFocus(e) {
+    this.$emit('blur',e)
     e.target.style.background = '';
     e.target.style.padding = '';
     e.target.style.margin = '';
@@ -256,237 +257,6 @@ methods: {
 template:  `
 
   <div class="inline-input__wrapper" :contenteditable="!readOnly" @input="onUpdateValue($event)" @keydown='onkeyDown($event)' @focus="onTextFocus" @blur="removeTextFocus" v-html="getValue" @keydown.stop="" :placeholder="placeholder"></div>
-    `
-    })
-    Vue.component('input-row', {
-        data: function () {
-            return {
-                cpmValue : this.values.cpm,
-                impressionsValue: this.values.impressions,
-                totalCostValue: this.values.totalCost,
-                lastUpdatedField: '',
-                options : [{name:this.campaign,icon:'dot'},{name:'Facebook',icon:'facebook'},{name:'Google',icon:'google'},{name:'TikTok',icon:'tiktok'},{name:'Pinterest',icon:'pinterest'},{name:'Snapchat',icon:'snapchat'},{name:'Twitter',icon:'twitter'}],
-                selectedOption : this.platform.name.includes('Campaign') ? {name:this.campaign,icon:'dot'} : this.platform,
-                copied: false,
-            }
-        },
-        props:{
-            campaign:{
-                type: String
-            },
-            refresh:{
-                type: Boolean
-            },
-            tab:{
-                type: String
-            },
-            platform:{
-                type: Object
-            },
-            values:{
-                type: Object,
-                default:function(){
-                    return {
-                        cpm:null,
-                        impressions:null,
-                        totalCost:null
-                    }
-                }
-            }
-        },
-        methods:{
-        calculateCPM(e, fieldName){
-        },
-        calculateOtherField(fieldName) {
-            switch(fieldName){
-                case 'cpm': 
-                    this.cpmValue = ((this.totalCostValue / (this.impressionsValue/1000))).toFixed(2);
-                    this.updateValue()
-                    break;
-                case 'impressions':
-                    this.updateValue()
-                    this.impressionsValue = ((this.totalCostValue / this.cpmValue) * 1000).toFixed(0);
-                    break;
-                case 'totalCost':
-                    this.updateValue()
-                    this.totalCostValue = ((this.impressionsValue / 1000) * this.cpmValue).toFixed(0);
-                    break;
-                }
-                this.lastUpdatedField = fieldName;
-        },  
-        blur(e){
-            e.target.parentElement.parentElement.classList.remove('--active_input-box')
-            this.lastUpdatedField = '';
-        },
-        focus(e){
-            e.target.parentElement.parentElement.classList.add('--active_input-box')
-        },
-        deleteRow(e){
-            this.$emit('delete-row',{name: this.campaign, platform: this.selectedOption})
-        },
-        openDropdown(e){
-            this.$refs.dropdown.classList.toggle('active')
-            window.addEventListener('click', (event)=>{
-                if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
-                    this.closeDropdown()
-                }
-            });
-        },
-        closeDropdown(e){
-            this.$refs.dropdown.classList.remove('active')
-        },
-        selectOption(option){
-            this.$emit('select-option',{name: this.campaign, platform: option, values:{
-                        cpm:this.cpmValue,
-                        totalCost: this.totalCostValue,
-                        impressions: this.impressionsValue 
-            }})
-            this.selectedOption = option
-        },
-        getImgUrl(pic) {
-            return '/icons/'+pic+'.svg'
-        },
-        getInputSize(fieldName){
-            if(this[`${fieldName}Text`] && this[`${fieldName}Text`].length >= 1){
-                return this[`${fieldName}Text`].length
-            } else{
-                 return fieldName === 'totalCost' ? 5 :  fieldName === 'cpm' ? 2 :  1
-            }
-        },
-        updateValue(){
-            if(this.tab === 'advance'){
-                this.$emit('value-change',{
-                        name: this.campaign,
-                        cpm:this.cpmValue,
-                        totalCost: this.totalCostValue,
-                        impressions: this.impressionsValue
-                })
-            }
-            return
-        }
-      },
-      watch: {
-        refresh(){
-            this.cpmValue = null
-            this.impressionsValue = null
-            this.totalCostValue = null
-            this.lastUpdatedField = ''
-        }
-      },
-      computed: {
-        cpmText() {
-            if(this.cpmValue && this.cpmValue !== 'NaN'){
-                let replaceWith = this.cpmValue.toString().includes('.') ? '' : ','
-                return this.cpmValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, replaceWith)
-            }
-            else{
-                return this.cpmValue = null
-            }
-        },
-        impressionsText() {
-            return this.impressionsValue && this.impressionsValue !== 'NaN'  ? this.impressionsValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") : this.impressionsValue = null;
-        },
-        totalCostText() {
-            return this.totalCostValue && this.totalCostValue !== 'NaN' ? this.totalCostValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","): this.totalCostValue = null;
-        },
-      },
-
-        template:  `
-        <div>
-    <div class="toolbox" v-if="tab === 'advance'" >
-        <div class="dropdown-wrapper">
-            <div class="dropdown"  @click.prevent="openDropdown" ref="dropdown">     
-               <img :src="getImgUrl(selectedOption.icon)">
-                <a href="javascript:void(0)" v-html="selectedOption.name">
-                    Campaign
-                </a>
-                <svg class="dropdown-icon" width="13" height="7" viewBox="0 0 13 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 0.5L6.5 5.5L12 0.5" stroke="black" stroke-opacity="0.25"/>
-                </svg>
-            </div>
-            <ul class="dropdown-list">
-                <li class="list-item" v-for="option in options" @click="selectOption(option)">
-                    <img :src="getImgUrl(option.icon)">
-                    <p class="list-title"  v-html="option.name"></p>
-                </li>            
-            </ul>
-        </div>
-        <p v-if="campaign != 'Campaign 1'" @click="deleteRow($event)" class="delete-button">Delete</p>
-    </div>
-    <div class="row cpm__input-row">
-        <div class="col-xs-12 col-md-4">
-            <div class="calculator_input-box ">
-                <div class="header --green">
-                    Total Cost <span class="question-circle --green_bg">
-                        {{- partial "icons/question-mark.html" -}}
-                    </span>
-                    <span class="--tooltip">The total cost or budget <br> for the campaign</span>
-                </div>
-                <div class="input-wrapper" :class="{'--border':totalCostValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'totalCost')" :value="totalCostText" type="text" placeholder="1,000"  ref="totalCost" :size="getInputSize('totalCost')">
-                    {{- partial "icons/doller.html" -}}
-                </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
-                    {{- partial "icons/copy-button.html" -}}
-                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-md-4">
-            <div class="calculator_input-box">
-                <div class="header --yellow">
-                    Impressions <span class="question-circle --yellow_bg">
-                        {{- partial "icons/question-mark.html" -}}
-                    </span>
-                    <span class="--tooltip">The total advertising impressions </br> over the life of the campaign</span>
-                </div>
-                <div class="input-wrapper" :class="{'--border':impressionsValue}">
-                    <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'impressions')" :value="impressionsText"  type="text" placeholder="50,000" ref="impressions">
-                </div>
-                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,impressionsValue)" @mouseleave="copied = false">
-                    {{- partial "icons/copy-button.html" -}}
-                    <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                </div>
-            </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <div class="calculator_input-box">
-                    <div class="header --pink" title="CPM">
-                        CPM <span class="question-circle --pink_bg">
-                            {{- partial "icons/question-mark.html" -}}
-                        </span>
-                        <span class="--tooltip">The cost of the campaign <br> per 1,000 ad exposures</span>
-                    </div>
-                    <div class="input-wrapper" :class="{'--border':cpmValue}">
-                        <input @focus="focus" @blur="blur" @input="calculateCPM($event, 'cpm')" :value="cpmText" type="text" placeholder="20" :size="getInputSize('cpm')" ref="cpm">
-                        {{- partial "icons/doller.html" -}}
-                    </div>
-                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,cpmValue)" @mouseleave="copied = false">
-                        {{- partial "icons/copy-button.html" -}}
-                        <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
-                    <span v-else class="--tooltip --sucess">Copied 
-                        {{- partial "icons/check.html" -}}
-                        </span>
-                    </div>
-                </div>
-                </div>
-            </div>
-            <div v-if="tab === 'simple'" class="col-md-12 col-xs-12 footer">
-                <span v-if="cpmValue && impressionsValue || impressionsValue && totalCostValue || cpmValue && totalCostValue">
-                    Use advanced mode to compare the costs of <br> multiple campaigns.
-                </span>
-                <span v-else >
-                <span class="footer-heading">Fill in any 2 fields</span><br>
-            The value of the third will appear
-                </span>
-            </div>
-            </div>
     `
     })
     var app = new Vue({
@@ -517,15 +287,13 @@ template:  `
         refresh(){
 
         },
-        updateValue(){
-            console.log('hh')
-        },
         calculateROAS(e, fieldName){
-            if((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue ) &&  (!this.roiValue && !this.profitMarginValue || !this.profitMarginValue && !this.adSpendValue || !this.roiValue && !this.adSpendValue )){
-                this.updateValue()
+            // debugger
+            if((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue )){
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
+              console.log('le')
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
@@ -569,25 +337,22 @@ template:  `
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'roas': 
-                    if(!this.isRevenueAvaliable){
+                    if(this.isRevenueAvaliable){
                       this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
                     }else{
                       this.roasValue = '800'
                     }
                     this.calculateExpectedValues();
-                    this.updateValue()
                     break;
                 case 'adRevenue':
                     this.calculateExpectedValues();
-                    if(!this.isRevenueAvaliable){
+                    if(this.isRevenueAvaliable){
                       this.adRevenueValue = (this.adSpendValue * (this.roasValue/100)).toFixed(0);
                     }else{
                       this.adRevenueValue = this.expectedRevenueText
                     }
                     break;
                 case 'adSpend':
-                    console.log('hrkk')
-                    this.updateValue()
                     this.calculateExpectedValues();
                     this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
                 case 'profitMargin':
@@ -611,6 +376,9 @@ template:  `
           }else{
             this.calculateOtherField('roas')
           }
+        },
+        blur(){
+          this.lastUpdatedField = ''
         }
     },
       // To make sure there's no conflict with Hugo templating
