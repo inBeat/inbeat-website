@@ -305,15 +305,15 @@ template:  `
                         this.calculateOtherField('adSpend')
                     }
                 } else {
-                    if(this.adSpendValue && this.adRevenueValue){
+                    if((this.adSpendValue && this.adRevenueValue) && (fieldName !== 'profitMargin' && fieldName !== 'roi')){
                         // update ROAS
                         this.calculateOtherField('roas')
                     }
-                    else if(this.adSpendValue && this.roasValue && fieldName !== 'adRevenue'){ 
+                    else if(this.adSpendValue && this.roasValue && fieldName !== 'adRevenue' && (fieldName !== 'profitMargin' && fieldName !== 'roi')){ 
                         // update adRevenue
                         this.calculateOtherField('adRevenue')
                     }
-                    else if(this.adRevenueValue && this.roasValue && fieldName !== 'adSpend'){
+                    else if(this.adRevenueValue && this.roasValue && fieldName !== 'adSpend' && (fieldName !== 'profitMargin' && fieldName !== 'roi')){
                         // update adSpendroasValue
                         this.calculateOtherField('adSpend')
                     }
@@ -382,6 +382,16 @@ template:  `
         blur(){
           this.lastUpdatedField = ''
         }
+    },
+    watch: {
+      adSpendValue(){
+        if(this.activeTab === 'advance' && this.profitMarginValue && this.adRevenueValue){
+          this.calculateOtherField('roi')
+        }
+        else if(this.activeTab === 'advance' && this.roi && this.adRevenueValue){
+          this.calculateOtherField('profitMargin')
+        }
+      },
     },
     computed: {
     compVal: {
