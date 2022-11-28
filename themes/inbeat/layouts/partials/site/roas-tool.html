@@ -11,8 +11,8 @@
                 <span class="--tooltip">Use advanced mode to compare <br> the costs of multiple campaigns.</span>
             </div>
         </div>
-        <div class="row" id="cpm_calculator-section">
-            <div class="col-md-5 roas-left-controls">
+        <div id="roas-calculator-section">
+            <div class="roas-left-controls">
                 <div class="roas-control-wrapper">
                     <div class="roas-input-box">
                         <div class="header --pink">
@@ -114,7 +114,7 @@
                   Switch back to <span @click="switchTab('simple')">Simple Mode</span> 
               </div>
             </div>
-            <div class="col-md-7 graph-section-wrapper">
+            <div class="graph-section-wrapper">
                 <div class="roas-progress-wrapper">
                     <div :class="['roas-progress-bar', 'col-xs-12', { 'safe': roasValue >= 800, 'warning': roasValue >= 400 && roasValue < 800, 'danger': roasValue < 400 || roasValue === null }]">
                     <div class="progress-wrap">
