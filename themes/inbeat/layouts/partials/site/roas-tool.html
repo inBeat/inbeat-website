@@ -41,7 +41,7 @@
                                 <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                             </div>
                             <div class="input-wrapper" :class="{'--border':inlineValue}">     
-                                    <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="isRevenueAvaliable ? adRevenueValue : expectedRevenueText" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
+                                    <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="compVal" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
                                     <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
                                         {{- partial "icons/copy-button.html" -}}
                                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
@@ -291,7 +291,6 @@ template:  `
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
-              console.log('le')
                 // update lastUpdatedField
                 this.calculateOtherField(this.lastUpdatedField)
             } else {
@@ -379,6 +378,24 @@ template:  `
           this.lastUpdatedField = ''
         }
     },
+    computed: {
+    compVal: {
+      get () {
+        if (this.isRevenueAvaliable) {
+          return this.adRevenueValue
+        } else {
+          return this.expectedRevenueText
+        }
+      },
+      set (val) {
+        if (this.isRevenueAvaliable) {
+          this.adRevenueValue = val
+        } else {
+          this.expectedRevenueText = val
+        }
+      }
+    }
+  },
       // To make sure there's no conflict with Hugo templating
       delimiters: ['{', '}'],
     });
