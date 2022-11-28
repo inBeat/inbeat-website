@@ -201,8 +201,8 @@ $--inactive-border: #D9D9D9;
           }
         }
         .progress-wrap .bar {
-          background: #ddd;
-          height: 4px;
+          background: #ECECEC;
+          height: 2px;
           width: 100%;
           margin-left: 8px;
           position: relative
@@ -248,7 +248,7 @@ $--inactive-border: #D9D9D9;
         
         .progress-wrap .bar .progress {
           min-width: 12px;
-          height: 4px;
+          height: 2px;
           max-width: 100%;
           background: #000000;
         }
