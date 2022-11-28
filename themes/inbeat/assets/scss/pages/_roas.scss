@@ -20,8 +20,7 @@ $--inactive-border: #D9D9D9;
     }
   }
   .roas-left-controls{
-    padding-right: 86px;
-    padding-left: 0px;
+    flex: 1 1 0;
     .roas-control-wrapper{
       display: flex;
       flex-direction: column;
@@ -146,15 +145,18 @@ $--inactive-border: #D9D9D9;
     justify-content: space-between;
   }
   .graph-section-wrapper{
+    flex: 1 1 0;
     background: #FFFFFF;
     border: 1px solid #DCDCDC;
     box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
     border-radius: 1px;
-    padding: 48px 48px 60px 48px;
+    padding: 48px;
     display: flex;
     flex-direction: column;
     gap: 48px;
     min-height: 620px;
+    box-sizing: border-box;
+
     transition: border 0.3s ease-in-out;
     &:hover {
       border: 1px solid rgba(0, 0, 0, 0.25);
@@ -279,6 +281,7 @@ $--inactive-border: #D9D9D9;
     line-height: 22px;
     text-align: center;
     color: rgba(0, 0, 0, 0.4);
+    margin-top: 32px;
     span {
       cursor: pointer;
       text-decoration: underline;
