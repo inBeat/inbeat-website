@@ -1,12 +1,14 @@
 $--green: #13825D;
 $--inactive-border: #D9D9D9;
+.inline-input__wrapper{
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+}
 .inline-input__wrapper[contenteditable='true'] {
     outline: none !important;
     cursor: text;
     display: inline-block;
-    font-weight: 500;
-    font-size: 32px;
-    line-height: 38px;
     letter-spacing: -0.4px;
     color: #000000;
     &:empty {
@@ -264,6 +266,10 @@ $--inactive-border: #D9D9D9;
     line-height: 22px;
     text-align: center;
     color: rgba(0, 0, 0, 0.4);
+    span {
+      cursor: pointer;
+      text-decoration: underline;
+    }
 }
 
 .toggle{
