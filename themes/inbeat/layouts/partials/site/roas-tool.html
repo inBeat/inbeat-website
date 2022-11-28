@@ -340,7 +340,7 @@ template:  `
                     if(this.isRevenueAvaliable){
                       this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
                     }else{
-                      this.roasValue = '800'
+                      this.roasValue = '800.00'
                     }
                     this.calculateExpectedValues();
                     break;
@@ -366,7 +366,7 @@ template:  `
         }, 
         toggleRevenuAvaliable(e){
           if(!this.isRevenueAvaliable){
-              this.roasValue = '800';
+              this.roasValue = '800.00';
               if(this.adSpendValue){
                   this.calculateOtherField('adRevenue')
               }else{

@@ -4,13 +4,13 @@ $--inactive-border: #D9D9D9;
   font-weight: 500;
   font-size: 32px;
   line-height: 38px;
+  letter-spacing: -0.4px;
+  color: #000000;
 }
 .inline-input__wrapper[contenteditable='true'] {
     outline: none !important;
     cursor: text;
     display: inline-block;
-    letter-spacing: -0.4px;
-    color: #000000;
     &:empty {
       &:before {
         content: attr(placeholder);
