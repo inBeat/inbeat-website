@@ -287,7 +287,7 @@ template:  `
         },
         calculateROAS(e, fieldName){
             // debugger
-            if((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue )){
+            if((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue ) &&  (!this.roiValue && !this.profitMarginValue || !this.profitMarginValue && !this.adSpendValue || !this.roiValue && !this.adSpendValue )){
                 return // do not calculate anything
             }
             if(this.lastUpdatedField){
@@ -352,12 +352,17 @@ template:  `
                 case 'adSpend':
                     this.calculateExpectedValues();
                     this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
-                case 'profitMargin':
-                    this.profitMarginValue = (this.adSpendValue + this.roiValue);
-                case 'roi':
-                  console.log('hello')
-                  this.roiValue = (this.adSpendValue - this.profitMargin);
                     break;
+                case 'profitMargin':
+                    let adSpend = +this.adSpendValue
+                    let roi = +this.roiValue
+                    this.profitMarginValue = ( adSpend + roi) + '';
+                    break;
+                case 'roi':
+                  let adSpend2 = +this.adSpendValue
+                  let profitMargin = +this.profitMarginValue
+                  this.roiValue = (adSpend2 - profitMargin) + '';
+                  break;
                 }
                 this.lastUpdatedField = fieldName;
         }, 
