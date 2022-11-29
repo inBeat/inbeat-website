@@ -23,7 +23,7 @@
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
                             <inline-input @blur="blur" background="none" v-model="adSpendValue" placeholder="200"  @input="calculateROAS($event, 'adSpend')"></inline-input><span class="doller-sign">$</span>         
-                            <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
+                            <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adSpendValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                                 <span v-else class="--tooltip --sucess">Copied 
@@ -42,7 +42,7 @@
                             </div>
                             <div class="input-wrapper" :class="{'--border':inlineValue}">     
                                     <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="compVal" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
-                                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,totalCostValue)" @mouseleave="copied = false">
+                                    <div class="copy-button_wrapper hide-sm" @click="copyValue($event,compVal)" @mouseleave="copied = false">
                                         {{- partial "icons/copy-button.html" -}}
                                         <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                                         <span v-else class="--tooltip --sucess">Copied 
@@ -82,7 +82,7 @@
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
                             <inline-input @blur="blur"  background="none" v-model="profitMarginValue" placeholder="200" @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
-                            <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)" @mouseleave="copied = false">
+                            <div class="copy-button_wrapper hide-sm" @click="copyValue($event,profitMarginValue)" @mouseleave="copied = false">
                                 {{- partial "icons/copy-button.html" -}}
                                 <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
                                 <span v-else class="--tooltip --sucess">Copied 
