@@ -135,7 +135,7 @@
                   <line-chart :valuesdata="getDataValue"></line-chart>
                 </div>
             </div>
-            <div class="refresh-button_wrapper" @click="refresh">
+            <div class="refresh-button_wrapper roas-refresh" @click="refresh">
                 {{- partial "icons/refresh.html" -}}
                 <span class="--tooltip">Clear & Start Over</span>
             </div>
@@ -333,7 +333,12 @@ template:  `
             }
         },
         refresh(){
-
+          this.adSpendValue = null
+          this.adRevenueValue = null
+          this.roasValue = null
+          this.profitMarginValue = null
+          this.roiValue = null
+          this.activeTab = 'simple'
         },
         calculateROAS(e, fieldName){
             // debugger
