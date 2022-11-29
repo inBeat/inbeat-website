@@ -56,10 +56,6 @@ https://www.inbeat.co/features/influencer-tracking-software/ https://www.inbeat.
 https://www.inbeat.co/articles/finding-micro-influencers-in-2021/ https://www.inbeat.co/articles/how-to-find-influencers 301!
 https://www.inbeat.co/articles/top-influencer-marketing-agencies-2020/ https://www.inbeat.co/articles/top-20-influencer-marketing-agencies-2022/ 301!
 https://www.inbeat.co/articles/the-ultimate-guide-to-tiktok-music-marketing/  https://www.inbeat.co/articles/tiktok-music-marketing/ 301!
-/blog/* https://blog.inbeat.co/blog/:splat 200
-/content/* https://blog.inbeat.co/content/:splat 200
-/assets/* https://blog.inbeat.co/assets/:splat 200
-/public/* https://blog.inbeat.co/public/:splat 200
 
 # Redirect default Netlify subdomain to primary domain
 
