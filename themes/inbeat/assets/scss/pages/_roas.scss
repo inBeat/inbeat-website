@@ -53,6 +53,20 @@ $--inactive-border: #D9D9D9;
           &.--black{
             color: #000000;
           }
+          .question-circle{
+            cursor: pointer;
+            &:hover{
+              opacity: 1;
+            .--tooltip{
+              opacity: 1;
+            }
+            }
+            .--tooltip{
+              bottom: 155%;
+              margin-left: -69px;
+            }
+            position: relative;
+          }
         }
         .input-wrapper{
           display: flex;

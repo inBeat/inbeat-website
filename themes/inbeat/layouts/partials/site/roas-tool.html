@@ -7,8 +7,8 @@
             <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}" @click="switchTab('advance')">
                 With ROI  <span class="question-circle --gray_bg">
                     {{- partial "icons/question-mark.html" -}}
-                </span>
-                <span class="--tooltip">Use advanced mode to compare <br> the costs of multiple campaigns.</span>
+                  </span>
+                  <span class="--tooltip">Calculate your ROI if you know </br> what your profit margin is</span>
             </div>
         </div>
         <div id="roas-calculator-section">
@@ -18,8 +18,8 @@
                         <div class="header --pink">
                             Ad Spend <span class="question-circle --pink_bg">
                                 {{- partial "icons/question-mark.html" -}}
+                                <span class="--tooltip"> How much did you </br> spend in total?</span>
                             </span>
-                            <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                         </div>
                         <div class="input-wrapper" :class="{'--border':inlineValue}">
                             <inline-input @blur="blur" background="none" v-model="adSpendValue" placeholder="200"  @input="calculateROAS($event, 'adSpend')"></inline-input><span class="doller-sign">$</span>         
@@ -37,8 +37,8 @@
                             <div class="header --green">
                                 {isRevenueAvaliable ? 'Ad Revenue' : 'Ad Revenue Target'} <span class="question-circle --green_bg">
                                     {{- partial "icons/question-mark.html" -}}
+                                    <span class="--tooltip"> How much did you </br> make in total?</span>
                                 </span>
-                                <span class="--tooltip">The total cost or budget <br> for the campaign</span>
                             </div>
                             <div class="input-wrapper" :class="{'--border':inlineValue}">     
                                     <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="compVal" placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span class="doller-sign">$</span>
@@ -132,7 +132,7 @@
                   </div>
                 </div>
                 <div class="roas-graph-wrapper">
-
+                  <line-chart :valuesdata="getDataValue"></line-chart>
                 </div>
             </div>
             <div class="refresh-button_wrapper" @click="refresh">
@@ -148,8 +148,58 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
+<script src="https://unpkg.com/vue-chartjs@2.8.7/dist/vue-chartjs.full.min.js"></script>
+
 {{- partial "site/trueValueMixin.html" -}}
 <script>
+  Vue.component('line-chart', {
+  extends: VueChartJs.Bar,
+  mounted () {
+    let scales =  {
+         xAxes: [{
+             categorySpacing: 24
+         }],
+         yAxes: [{
+             type: "linear",
+             display: true,
+             position: "left",
+             id: "y-axis-1",
+         }]
+     }
+this.defaultOptions.scales = scales
+    this.renderChart({
+      labels: ['Ad Spend', 'Revenue Target', 'Ad Revenue'],
+      datasets: [
+        {
+          label: 'ROAS',
+          backgroundColor: ['#FFD2E1','#FCDBB2','#D6EBE4'],
+          data: this.valuesdata
+        }
+      ],
+    } ,{responsive: true, maintainAspectRatio: false})
+   
+  },
+ watch: {
+  valuesdata: {
+    handler: function(newValue) {
+      // console.log(newValue, this.localValue);
+      if (newValue) {
+        
+      }
+    },
+    immediate: true,
+  },
+},
+  props: {
+    valuesdata: {
+    type: Array,
+    default: ()=>{
+      return [200,1600,800]
+    },
+  },
+},
+  
+})
     Vue.component('inline-input',{
         mixins: [trueValueMixin],
 
@@ -408,6 +458,24 @@ template:  `
         } else {
           this.expectedRevenueText = val
         }
+      }
+    },
+    getDataValue(){
+      let data = []
+      console
+      if(this.adRevenueValue){
+        data.push(this.adRevenueValue *1)
+      }
+      if(this.expectedRevenueText){
+        data.push(this.expectedRevenueText *1)
+      }
+      if(this.adRevenueValue){
+        data.push(this.adRevenueValue *1)
+      }
+      if(data.length < 1){
+        return [200,1600,800]
+      }else{
+        return data
       }
     }
   },
