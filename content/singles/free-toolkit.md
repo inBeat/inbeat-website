@@ -81,5 +81,9 @@ toolkits:
       text: Calculate the bounce rate for one or multiple websites or webpages.
       icon: bounce-rate-calculator
       url: bounce-rate-calculator
+    - title: ROAS <br> Calculator
+      text: Calculate or estimate your return on ad spend to give you an overview on the effectiveness & return on investment of paid campaigns.
+      icon: roas-calculator
+      url: return-on-ad-spend-calculator
   
 ---
