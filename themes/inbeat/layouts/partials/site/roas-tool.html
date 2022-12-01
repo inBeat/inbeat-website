@@ -160,6 +160,7 @@
             <div class="ib-graph__bars">
               <div class="ib-graph__bar" v-for="bar in bars" :key="bar.label" v-show="bar.hidden !== true">
                 <div class="ib-graph__bar-label">{bar.label}</div>
+                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip};bottom: ${bar.progress/2}%`">{bar.value}$</div>
                 <div class="ib-graph__bar-progress"
                   :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
                 </div>
@@ -363,6 +364,7 @@
           color: '#FFD2E1',
           // color2: 'rgba(255, 210, 225, 0.4)',
           color2: '#FFEDF3',
+          colorTooltip: '#A84969',
           hidden: false,
         },
         {
@@ -372,6 +374,7 @@
           color: '#FCDBB2',
           // color2: 'rgba(252, 219, 178, 0.4)',
           color2: '#FEF1E0',
+          colorTooltip: '#C27210',
           hidden: false,
         },
         {
@@ -381,6 +384,7 @@
           color: '#D6EBE4',
           // color2: 'rgba(198, 227, 218, 0.4)',
           color2: '#E8F4F0',
+          colorTooltip: '#58907E',
           hidden: false,
         },
       ]
