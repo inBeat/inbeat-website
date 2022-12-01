@@ -487,11 +487,13 @@ $--inactive-border: #D9D9D9;
     }
     .ib-graph__bar-label {
       position: absolute;
-      bottom: -32px;
+      bottom: -12px;
+      transform: translateY(100%);
       font-weight: 400;
+      // white-space: nowrap;
 
       font-size: 14px;
-      line-height: 22px;
+      line-height: 16px;
       text-align: center;
       color: rgba(0, 0, 0, 0.4);
       text-align: center;
