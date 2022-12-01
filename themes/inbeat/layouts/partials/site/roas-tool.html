@@ -161,7 +161,7 @@
               <div class="ib-graph__bar" v-for="bar in bars" :key="bar.label" v-show="bar.hidden !== true">
                 <div class="ib-graph__bar-label">{bar.label}</div>
                 <div class="ib-graph__bar-progress"
-                  :style="`height: ${bar.progress}%; background: linear-gradient(180deg, ${bar.color2} 0%, ${bar.color} 100%);`">
+                  :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
                 </div>
               </div>
             </div>
@@ -362,7 +362,7 @@
           progress: 20,
           color: '#FFD2E1',
           // color2: 'rgba(255, 210, 225, 0.4)',
-          color2: '#FFF4F7',
+          color2: '#FFEDF3',
           hidden: false,
         },
         {

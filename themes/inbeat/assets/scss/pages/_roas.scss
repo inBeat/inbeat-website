@@ -464,7 +464,8 @@ $--inactive-border: #D9D9D9;
       bottom: 0px;
       width: 100%;
       background-color: #ffffff;
-      background: linear-gradient(180deg, rgba(252, 219, 178, 0.4) 0%, #FCDBB2 100%);
+      background: linear-gradient(180deg, var(--color-opacity) 0%, var(--color-solid) 100%);
+      transition: all 0.5s ease-in-out;
     }
     .ib-graph__bar-label {
       position: absolute;
