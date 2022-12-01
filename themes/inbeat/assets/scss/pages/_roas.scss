@@ -455,17 +455,14 @@ $--inactive-border: #D9D9D9;
     padding: 0px 24px;
     height: 100%;
     z-index: 1;
-    .ib-graph__bar {
-      flex: 1 1 0;
-      position: relative;
-    }
+
     .ib-graph__bar-progress {
       position: absolute;
       bottom: 0px;
       width: 100%;
       background-color: #ffffff;
       background: linear-gradient(180deg, var(--color-opacity) 0%, var(--color-solid) 100%);
-      transition: all 0.5s ease-in-out;
+      transition: height 0.5s ease-in-out;
     }
     .ib-graph__bar-label {
       position: absolute;
@@ -478,6 +475,15 @@ $--inactive-border: #D9D9D9;
       color: rgba(0, 0, 0, 0.4);
       text-align: center;
       width: 100%;
+    }
+    .ib-graph__bar {
+      flex: 1 1 0;
+      position: relative;
+      &:hover {
+        .ib-graph__bar-progress {
+          background: var(--color-solid);
+        }
+      }
     }
   }
 }
