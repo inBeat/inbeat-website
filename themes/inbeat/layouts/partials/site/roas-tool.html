@@ -128,7 +128,7 @@
           Switch back to <span @click="switchTab('simple')">Simple Mode</span>
         </div>
       </div>
-      <div class="graph-section-wrapper">
+      <div class="graph-section-wrapper" id="roas-results">
         <div class="roas-progress-wrapper">
           <div
             :class="['roas-progress-bar', 'col-xs-12', { 'safe': roasValue >= 800, 'warning': roasValue >= 400 && roasValue < 800, 'danger': roasValue < 400 || roasValue === null }]">
@@ -169,6 +169,7 @@
           </div>
           <!-- <line-chart :valuesdata="getDataValue"></line-chart> -->
         </div>
+        <div class="roas-save-png-btn" @click="savePng">Save as PNG</div>
       </div>
       <div class="refresh-button_wrapper roas-refresh" @click="refresh">
         {{- partial "icons/refresh.html" -}}
@@ -184,6 +185,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
 <!-- <script src="https://unpkg.com/vue-chartjs@2.8.7/dist/vue-chartjs.full.min.js"></script> -->
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 {{- partial "site/trueValueMixin.html" -}}
 <script>
@@ -568,6 +570,16 @@
             // this.bars[barIndex].tooltipCords = null;
           });
         });
+      },
+      savePng() {
+        var preview = document.getElementById('roas-results');
+        html2canvas(preview)
+        .then(function(canvas){
+          var link = document.createElement('a');
+            link.download = 'roas-results.png';
+            link.href = canvas.toDataURL();
+            link.click();
+        })
       }
     },
     watch: {
