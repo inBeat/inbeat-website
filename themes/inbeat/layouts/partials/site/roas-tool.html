@@ -121,11 +121,28 @@
             </div>
           </div>
         </div>
-        <div class="switch-mode-wrapper" v-if="activeTab === 'simple'">
-          Calculate Return On Investment (ROI) <br /> using <span @click="switchTab('advance')">ROI Mode</span>
+        <div v-if="this.isRevenueAvaliable && this.adRevenueValue" class="switch-mode-wrapper --results">
+          <div v-if="roasValue >= 800">
+            <div class="roas-result-heading --green">Great work!</div>
+            <div class="roas-result-description">If you're  over 800% ROAS, <br/> you're most likely doing good!</div>
+          </div>
+          <div v-else-if="roasValue >= 400">
+            <div class="roas-result-heading --yellow">Fair</div>
+            <div class="roas-result-description">A ratio over 800% ROAS is a good benchmark. <br/>This campaign could be improved</div>
+          </div>
+          <div v-else>
+            <div class="roas-result-heading --red">Not Good</div>
+            <div class="roas-result-description">A ratio over 800% ROAS is a good benchmark. <br/>
+              This campaign could be improved</div>
+          </div>
         </div>
-        <div class="switch-mode-wrapper" v-else>
-          Switch back to <span @click="switchTab('simple')">Simple Mode</span>
+        <div class="switch-mode-wrapper" v-else >
+          <div v-if="activeTab === 'simple'">
+            Calculate Return On Investment (ROI) <br /> using <span @click="switchTab('advance')">ROI Mode</span>
+          </div>
+          <div v-else>
+            Switch back to <span @click="switchTab('simple')">Simple Mode</span>
+          </div>
         </div>
       </div>
       <div class="graph-section-wrapper" id="roas-results">
