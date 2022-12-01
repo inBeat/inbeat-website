@@ -158,10 +158,10 @@
               </div>
             </div>
             <div class="ib-graph__bars">
-              <div class="ib-graph__bar" v-for="bar in bars" :key="bar.label" v-show="bar.hidden !== true">
+              <div class="ib-graph__bar" v-for="(bar,i) in bars" :key="bar.label" v-show="bar.hidden !== true">
                 <div class="ib-graph__bar-label">{bar.label}</div>
-                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip};bottom: ${bar.progress/2}%`">{bar.value}$</div>
-                <div class="ib-graph__bar-progress"
+                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip};${bar.tooltipCords ? 'bottom:' + bar.tooltipCords.bottom + 'px; left:' + bar.tooltipCords.left + 'px;' :'bottom:' + bar.progress/2 + '%; transform: translate(-50%,50%)'}`">{bar.value}$</div>
+                <div class="ib-graph__bar-progress" :ref="`ib-graph-bar-${i}`"
                   :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
                 </div>
               </div>
@@ -365,6 +365,7 @@
           // color2: 'rgba(255, 210, 225, 0.4)',
           color2: '#FFEDF3',
           colorTooltip: '#A84969',
+          tooltipCords: null,
           hidden: false,
         },
         {
@@ -375,6 +376,7 @@
           // color2: 'rgba(252, 219, 178, 0.4)',
           color2: '#FEF1E0',
           colorTooltip: '#C27210',
+          tooltipCords: null,
           hidden: false,
         },
         {
@@ -385,9 +387,15 @@
           // color2: 'rgba(198, 227, 218, 0.4)',
           color2: '#E8F4F0',
           colorTooltip: '#58907E',
+          tooltipCords: null,
           hidden: false,
         },
       ]
+    },
+    mounted() {
+      this.observeGraphTooltip(0);
+      this.observeGraphTooltip(1);
+      this.observeGraphTooltip(2);
     },
     methods: {
       switchTab(tab) {
@@ -541,6 +549,25 @@
           graphInterval * 3,
           graphInterval * 4
         ]
+      },
+      observeGraphTooltip(barIndex) {
+        let containerEl = this.$refs[`ib-graph-bar-${barIndex}`][0];
+        console.log(containerEl);
+        containerEl.addEventListener('mouseover', () => {
+          containerEl.addEventListener('mousemove', (e) => {
+            // console.log(e)
+            let rects = containerEl.getBoundingClientRect();
+            let left = e.clientX - rects.x;
+            let bottom = rects.bottom - e.clientY;
+            // console.log(left, bottom);
+            this.bars[barIndex].tooltipCords = {bottom: bottom, left: left};
+          });
+          containerEl.addEventListener('mouseleave', () => {
+            containerEl.removeEventListener('mousemove', () => {});
+			      containerEl.removeEventListener('mouseleave', () => {});
+            this.bars[barIndex].tooltipCords = null;
+          });
+        });
       }
     },
     watch: {
