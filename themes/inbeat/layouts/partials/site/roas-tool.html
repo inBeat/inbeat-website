@@ -557,15 +557,15 @@
           containerEl.addEventListener('mousemove', (e) => {
             // console.log(e)
             let rects = containerEl.getBoundingClientRect();
-            let left = e.clientX - rects.x;
-            let bottom = rects.bottom - e.clientY;
+            let left = e.clientX - rects.x - 8;
+            let bottom = rects.bottom - e.clientY + 8;
             // console.log(left, bottom);
             this.bars[barIndex].tooltipCords = {bottom: bottom, left: left};
           });
           containerEl.addEventListener('mouseleave', () => {
             containerEl.removeEventListener('mousemove', () => {});
 			      containerEl.removeEventListener('mouseleave', () => {});
-            this.bars[barIndex].tooltipCords = null;
+            // this.bars[barIndex].tooltipCords = null;
           });
         });
       }
