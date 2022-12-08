@@ -487,6 +487,9 @@
           case 'roas':
             if (this.isRevenueAvaliable) {
               this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
+              if(this.roasValue === 'Infinity'){
+              this.roasValue = '0.00'
+            }
             } else {
               this.roasValue = '800.00'
             }
@@ -496,6 +499,9 @@
             this.calculateExpectedValues();
             if (this.isRevenueAvaliable) {
               this.adRevenueValue = (this.adSpendValue * (this.roasValue / 100)).toFixed(0);
+              if(this.adRevenueValue === 'Infinity'){
+              this.adRevenueValue = '0'
+            }
             } else {
               this.adRevenueValue = this.expectedRevenueText
             }
@@ -503,6 +509,9 @@
           case 'adSpend':
             this.calculateExpectedValues();
             this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
+            if(this.adSpendValue === 'Infinity'){
+              this.adSpendValue = '0'
+            }
             break;
           case 'profitMargin':
             let adSpend = +this.adSpendValue
