@@ -161,7 +161,7 @@
               <div class="bar">
                 <!-- <div class="target"><span class="expected-revenue">{expectedRevenueText}$</span><small>Target (800%)</small></div> -->
                 <div class="target"><span class="expected-revenue">800%</span><small>Target</small></div>
-                <div class="progress" :style="{ width: (roasValue / 10) + '%' }"></div>
+                <div :class="['progress',{'--safe':roasValue > 800},{'--warning':roasValue > 400 && roasValue < 800},{'--danger':roasValue < 400}]" :style="{ width: (roasValue / 10) + '%' }"></div>
               </div>
             </div>
           </div>
@@ -201,59 +201,9 @@
 {{- else -}}
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 {{- end -}}
-<!-- <script src="https://unpkg.com/vue-chartjs@2.8.7/dist/vue-chartjs.full.min.js"></script> -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
 {{- partial "site/trueValueMixin.html" -}}
 <script>
-  // Vue.component('line-chart', {
-  //   extends: VueChartJs.Bar,
-  //   mounted() {
-  //     let scales = {
-  //       xAxes: [{
-  //         categorySpacing: 24
-  //       }],
-  //       yAxes: [{
-  //         type: "linear",
-  //         display: true,
-  //         position: "left",
-  //         id: "y-axis-1",
-  //       }]
-  //     }
-  //     this.defaultOptions.scales = scales
-  //     this.renderChart({
-  //       labels: ['Ad Spend', 'Revenue Target', 'Ad Revenue'],
-  //       datasets: [
-  //         {
-  //           label: 'ROAS',
-  //           backgroundColor: ['#FFD2E1', '#FCDBB2', '#D6EBE4'],
-  //           data: this.valuesdata
-  //         }
-  //       ],
-  //     }, { responsive: true, maintainAspectRatio: false })
-
-  //   },
-  //   watch: {
-  //     valuesdata: {
-  //       handler: function (newValue) {
-  //         // console.log(newValue, this.localValue);
-  //         if (newValue) {
-
-  //         }
-  //       },
-  //       immediate: true,
-  //     },
-  //   },
-  //   props: {
-  //     valuesdata: {
-  //       type: Array,
-  //       default: () => {
-  //         return [200, 1600, 800]
-  //       },
-  //     },
-  //   },
-
-  // })
   Vue.component('inline-input', {
     mixins: [trueValueMixin],
 

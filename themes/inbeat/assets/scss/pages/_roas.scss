@@ -593,3 +593,12 @@ $--inactive-border: #D9D9D9;
 
   color: #000000;
 }
+.--safe {
+  background: $green !important;
+}
+.--warning {
+  background: $yellow !important;
+}
+.--danger {
+  background: $red !important;
+}
