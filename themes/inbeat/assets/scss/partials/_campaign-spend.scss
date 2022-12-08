@@ -42,6 +42,11 @@
     }
     .calculator-output{
         padding: 32px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        box-sizing: border-box;
         @include breakpoint(md-down){
           margin-top: 24px;
           padding: 24px;
@@ -50,7 +55,7 @@
           display: flex;
           align-items: center;
           justify-content: space-between;
-          padding: 24px 0px;
+          padding: 50px 0px;
           border-bottom:1px solid rgba(0, 0, 0, 0.1);
           &:last-child{
             border-bottom: none;
@@ -323,12 +328,16 @@
   border-radius: 1px;
   padding: 24px;
   .controller-wrapper{
-    &:first-child{
-      padding-bottom: 20px;
-      border-bottom: 1px solid #DCDCDC;
-    }
+    padding-bottom: 18px;
+    border-bottom: 1px solid #DCDCDC;
+    // &:first-child{
+    // }
     &:last-child{
-      padding-top: 20px;
+      padding-bottom: 0px;
+      border: none;
+    }
+    &:not(:first-child) {
+      padding-top: 18px;
     }
     .d-flex{
       display: flex;

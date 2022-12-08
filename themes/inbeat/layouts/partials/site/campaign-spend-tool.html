@@ -31,6 +31,20 @@
           <div class="post-story-count-controller">
             <div class="controller-wrapper">
               <div class="d-flex">
+                {{- partial "icons/story-spend.html" -}}
+                <span>{storyCount} Stories / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
+                  {{- partial "icons/minus.html" -}}
+                </div>
+                <div class="btn" @click="increamentCount('storyCount')">
+                  {{- partial "icons/plus.html" -}}
+                </div>
+              </div>
+            </div>
+            <div class="controller-wrapper">
+              <div class="d-flex">
                 {{- partial "icons/post-spend.html" -}}
                 <span>{postCount} Posts / influencer</span>
               </div>
@@ -45,17 +59,16 @@
             </div>
             <div class="controller-wrapper">
               <div class="d-flex">
-                {{- partial "icons/story-spend.html" -}}
-                <span>{storyCount} Stories / influencer</span>
+                {{- partial "icons/cost-video.html" -}}
+                <span>{videoCount} Videos / influencer</span>
               </div>
               <div class="increament-decreament-wrapper">
-                <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
+                <div :class="[{'--disabled' : videoCount <= 0},'btn']" @click="decrenentCount('videoCount')">
                   {{- partial "icons/minus.html" -}}
                 </div>
-                <div class="btn" @click="increamentCount('storyCount')">
+                <div class="btn" @click="increamentCount('videoCount')">
                   {{- partial "icons/plus.html" -}}
                 </div>
-
               </div>
             </div>
           </div>
@@ -98,15 +111,15 @@
                 </div>
               </div>
             </div>
-            <div class="calculation-field">
+            <!-- <div class="calculation-field">
               {{- partial "icons/insta-post.html" -}}
               <div class="calculation-wrapper">
                 <div class="value"><span v-if="postCount > 0">{abbreviateNumber(calculatedValues.numberOfPosts[0])} - {abbreviateNumber(calculatedValues.numberOfPosts[1])} </span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">{abbreviateNumber(calculatedValues.numberOfStories[0])} - {abbreviateNumber(calculatedValues.numberOfStories[1])}</span></div>
-                <div class="title">
+                <div class="title"> 
                   Instagram <span v-if="postCount > 0">posts</span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">stories</span>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -264,7 +277,8 @@
         influencerOptions:[{name:'NANO',code:'NANO'},{name:'MICRO',code:'MICRO'},{name:'MACRO',code:'MACRO'}],
         selectedInfluencerType:{name:'NANO',code:'NANO'},
         postCount : 1,
-        storyCount: 1,
+        storyCount: 0,
+        videoCount: 1,
         campaignBudget:1,
         rate : [25,43],
         influencerFollowersCount: 1000,
