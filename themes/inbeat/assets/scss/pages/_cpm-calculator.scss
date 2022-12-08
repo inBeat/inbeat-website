@@ -102,6 +102,10 @@ $pink: #B85172;
     flex-wrap: wrap;
     padding: 96px;
     gap:96px;
+    
+    @include breakpoint(sm-down) {
+        gap: 48px;
+    }
 }
 #cpm_calculator-section, #cpm_calculator-section-advance, #roas-calculator-section{
     position: relative;

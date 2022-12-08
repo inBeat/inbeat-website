@@ -172,6 +172,10 @@ $--inactive-border: #D9D9D9;
     box-sizing: border-box;
     position: relative;
     transition: border 0.3s ease-in-out;
+    @include breakpoint(sm-down) {
+      padding: 16px;
+      min-height: 550px;
+    }
     &:hover {
       border: 1px solid rgba(0, 0, 0, 0.25);
       .roas-save-png-btn {
@@ -184,6 +188,9 @@ $--inactive-border: #D9D9D9;
       box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.05);
       border-radius: 4px;
       padding: 38px;
+      @include breakpoint(sm-down) {
+        padding: 16px;
+      }
       .roas-progress-bar {
         margin-top: 16px; 
         position: relative;
@@ -400,6 +407,9 @@ $--inactive-border: #D9D9D9;
 .roas-refresh{
   right: 12px !important;
   bottom: 12px !important;
+  @include breakpoint(sm-down) {
+    display: none !important;
+  }
 }
 
 
