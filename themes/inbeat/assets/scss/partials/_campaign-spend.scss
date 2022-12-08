@@ -66,8 +66,11 @@
             flex-direction: column;
             gap: 4px;
             text-align: right;
+            &:first-child{
+              gap: 16px;
+            }
             .title{
-              font-weight: 300;
+              font-weight: 400;
               font-size: 14px;
               line-height: 22px;
               color: rgba(0, 0, 0, 0.9);
