@@ -553,3 +553,50 @@ freetoolkit__mockup:
           targeting, placement, budget, goal, optimization... If what you are looking for is inspiration to
           create top-performing ads, we created [Ad Collection](https://www.adcollection.co/), a library with all the top Instagram ads we
           studied.
+roas_calculator:
+  - question: What is ROAS?
+    answer: >-
+        ROAS, or return on ad spend, is a metric that measures the efficiency of an advertising
+        campaign. It is calculated by dividing the total revenue generated from the campaign by the total
+        amount spent on advertising
+  - question: What is the ROAS calculation formula?
+    answer: >- 
+          The ROAS formula is as follows:</br>
+          ROAS = Total Revenue / Total Ad Spend</br>
+          For example, if your advertising campaign generated $500 in revenue and you spent $100 on
+          ad spend, your ROAS would be 500/100 = 5.</br>
+          This means that you got 5 times in return compared to the investment you made. Needless to
+          say, this is a good ROAS.
+  - question: What is a good ROAS?
+    answer: >-
+          The ideal ROAS will vary significantly depending on your business and the goals of your
+          advertising campaign. In general, a good ROAS is one that generates a positive return on
+          investment (ROI), meaning that the revenue generated from the campaign is higher than the
+          cost of the ad spend.</br>
+          In short, any ROAS higher than the score of 1 should be considered good.
+  - question: How do I use the ROAS Calculator?
+    answer: >-
+          To use the inBeat ROAS Calculator, you will need to input the following information:</br>
+          &#x25CF; The total amount spent on your advertising campaign.<br>
+          &#x25CF; The total revenue generated from the campaign<br>
+          &#x25CF; Once you enter this information, the calculator automatically shows your ROAS and displays the result.<br>
+  - question: What are some factors that can influence my ROAS metric?
+    answer: >-
+          There are many factors that can influence your ROAS metric. Some of them include:</br>
+          &#x25CF; The target audience for your advertising campaign<br>
+          &#x25CF; The type of ads you are using (e.g. display ads, search ads, etc.)<br>
+          &#x25CF; The effectiveness of your ad copy and visuals<br>
+          &#x25CF; The overall performance of your website or landing page<br>
+          &#x25CF; The competitiveness of your industry<br>
+          &#x25CF; The seasonality of your business<br>
+          The short answer is - it depends.
+  - question: How do I calculate my breakeven ROAS?
+    answer: >-
+          To calculate your break-even ROAS, you will need to know the total cost of your advertising
+          campaign and the total profit generated from the campaign. Once you have this information, you
+          can use the following formula to calculate your break-even ROAS:
+          Break Even ROAS = Total Cost / Total Profit</br>
+          For example, if your advertising campaign cost $5,000 and generates $10,000 in profit, your
+          break-even ROAS would be 500/1000 = 0.5. This means that to break even on your advertising
+          campaign, you need a ROAS of at least 0.5.
+
