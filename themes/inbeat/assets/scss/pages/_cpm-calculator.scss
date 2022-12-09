@@ -100,7 +100,7 @@ $pink: #B85172;
 #roas-calculator-section {
     display: flex;
     flex-wrap: wrap;
-    padding: 96px;
+    padding: 96px !important;
     gap:96px;
     
     @include breakpoint(sm-down) {
