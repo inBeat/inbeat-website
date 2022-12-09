@@ -81,13 +81,13 @@
                 <div class="title">
                   Your estimated reach is
                 </div>
-                <div class="value">{abbreviateNumber(getComputedValues.reachRange[0])} - {abbreviateNumber(getComputedValues.reachRange[1])}</div>
+                <div class="value">{getComputedValues.reachRange[0] === getComputedValues.reachRange[1] ? getComputedValues.reachRange[0] : abbreviateNumber(getComputedValues.reachRange[0]) + ' - ' + abbreviateNumber(getComputedValues.reachRange[1])}</div>
               </div>
             </div>
             <div class="calculation-field">
               {{- partial "icons/influencer.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(getComputedValues.influencersRange[0]) + '-' + abbreviateNumber(getComputedValues.influencersRange[1])}</div>
+                <div class="value">{getComputedValues.influencersRange[0] === getComputedValues.influencersRange[1] ? getComputedValues.influencersRange[0] : abbreviateNumber(getComputedValues.influencersRange[0]) + ' - ' + abbreviateNumber(getComputedValues.influencersRange[1])}</div>
                 <div class="title">
                   Number of Influencers
                 </div>
@@ -96,7 +96,7 @@
             <div class="calculation-field">
               {{- partial "icons/engagement-spend.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(getComputedValues.engagementRange[0])} - {abbreviateNumber(getComputedValues.engagementRange[1])}</div>
+                <div class="value">{getComputedValues.engagementRange[0] === getComputedValues.engagementRange[1] ? getComputedValues.engagementRange[0] : abbreviateNumber(getComputedValues.engagementRange[0]) + ' - ' + abbreviateNumber(getComputedValues.engagementRange[1])}</div>
                 <div class="title">
                   Engagement
                 </div>
@@ -105,7 +105,7 @@
             <div class="calculation-field">
               {{- partial "icons/impression.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(getComputedValues.impressionRange[0])} - {abbreviateNumber(getComputedValues.impressionRange[1])}</div>
+                <div class="value">{getComputedValues.impressionRange[0] === getComputedValues.impressionRange[1] ? getComputedValues.impressionRange[0] : abbreviateNumber(getComputedValues.impressionRange[0]) + ' - ' + abbreviateNumber(getComputedValues.impressionRange[1])}</div>
                 <div class="title">
                   Impressions
                 </div>
