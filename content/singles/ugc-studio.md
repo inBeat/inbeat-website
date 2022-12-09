@@ -11,7 +11,7 @@ hero:
   cta:
     text: >-
       <span>Book a demo — it's free</span>
-    link: https://calendly.com/inbeat-co/creator-studio-demo
+    link: https://teaminbeat.typeform.com/to/tbkVXc2b
 banner:
   show: false
 discoverInfluencer:
