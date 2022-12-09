@@ -286,12 +286,24 @@ $--inactive-border: #D9D9D9;
           background: #EFEFEF;
           transform: translate(-50%, -4px)
         }
+        .progress-wrap .bar .target.--safe:after {
+          background: $green;
+        }
         
         .progress-wrap .bar .progress {
           min-width: 12px;
           height: 2px;
           max-width: 100%;
           background: #000000;
+          &.--safe {
+            background: $green !important;
+          }
+          &.--warning {
+            background: $yellow !important;
+          }
+          &.--danger {
+            background: $red !important;
+          }
         }
         
         
@@ -592,13 +604,4 @@ $--inactive-border: #D9D9D9;
   text-align: center;
 
   color: #000000;
-}
-.--safe {
-  background: $green !important;
-}
-.--warning {
-  background: $yellow !important;
-}
-.--danger {
-  background: $red !important;
 }

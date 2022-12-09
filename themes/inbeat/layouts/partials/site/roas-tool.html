@@ -46,7 +46,7 @@
               </div>
               <div class="input-wrapper" :class="{'--border':inlineValue}">
                 <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="compVal"
-                  placeholder="8,000" @input="calculateROAS($event, 'adRevenue')"></inline-input><span
+                  placeholder="1,200" @input="calculateROAS($event, 'adRevenue')"></inline-input><span
                   class="doller-sign">$</span>
                 <div class="copy-button_wrapper hide-sm" @click="copyValue($event,compVal)"
                   @mouseleave="copied = false">
@@ -75,7 +75,7 @@
             </div>
             <div class="input-wrapper" :class="{'--border':inlineValue}">
               <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="roasValue"
-                placeholder="500" @input="calculateROAS($event, 'roas')"></inline-input><span
+                placeholder="600" @input="calculateROAS($event, 'roas')"></inline-input><span
                 class="doller-sign">%</span>
               <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)"
                 @mouseleave="copied = false">
@@ -160,8 +160,8 @@
               </div>
               <div class="bar">
                 <!-- <div class="target"><span class="expected-revenue">{expectedRevenueText}$</span><small>Target (800%)</small></div> -->
-                <div class="target"><span class="expected-revenue">800%</span><small>Target</small></div>
-                <div :class="['progress',{'--safe':roasValue > 800},{'--warning':roasValue > 400 && roasValue < 800},{'--danger':roasValue < 400}]" :style="{ width: (roasValue / 10) + '%' }"></div>
+                <div class="target" :class="{'--safe':roasValue >= 800}"><span class="expected-revenue">800%</span><small>Target</small></div>
+                <div :class="['progress',{'--safe':roasValue >= 800},{'--warning':roasValue > 400 && roasValue < 800},{'--danger':roasValue < 400}]" :style="{ width: (roasValue / 10) + '%' }"></div>
               </div>
             </div>
           </div>
@@ -323,12 +323,12 @@
       expectedRevenueText: null,
       profitMarginValue: null,
       roiValue: null,
-      levels: [0, 250, 500, 750, 1000],
+      levels: [0, 400, 800, 1200, 1600],
       bars: {
         adSpend: {
           label: 'Ad Spend',
-          value: 300,
-          progress: 20,
+          value: 200,
+          progress: 13,
           color: '#FFD2E1',
           // color2: 'rgba(255, 210, 225, 0.4)',
           color2: '#FFEDF3',
@@ -341,7 +341,7 @@
         },
         revenueTarget: {
           label: 'Revenue Target',
-          value: 1000,
+          value: 1600,
           progress: 100,
           color: '#FCDBB2',
           // color2: 'rgba(252, 219, 178, 0.4)',
@@ -355,8 +355,8 @@
         },
         adRevenue: {
           label: 'Ad Revenue',
-          value: 750,
-          progress: 80,
+          value: 1200,
+          progress: 75,
           color: '#D6EBE4',
           // color2: 'rgba(198, 227, 218, 0.4)',
           color2: '#E8F4F0',
