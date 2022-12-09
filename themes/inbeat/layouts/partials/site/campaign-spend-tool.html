@@ -263,8 +263,8 @@
     var app = new Vue({
       el: '#ib_campaign-spend-calculator',
       data: {
-        currencyOptions:[{name:'EUR',code:'EUR'},{name:'GBP',code:'GBP'},{name:'USD',code:'USD'}],
-        selectedCurrency:{name:'EUR',code:'EUR'},
+        currencyOptions:[{name:'USD',code:'USD'},{name:'EUR',code:'EUR'},{name:'GBP',code:'GBP'}],
+        selectedCurrency:{name:'USD',code:'USD'},
         influencerOptions:[{name:'NANO',code:'NANO'},{name:'MICRO',code:'MICRO'},{name:'MACRO',code:'MACRO'}],
         selectedInfluencerType:{name:'NANO',code:'NANO'},
         postCount : 1,
@@ -298,7 +298,7 @@
       getComputedValues(){
         let baseCost = (this.influencerFollowersCount *10) / 100
         let costPerInfluencer = (baseCost * (this.basePriceMedia.story * this.storyCount)) + (baseCost * (this.basePriceMedia.post * this.postCount)) + (baseCost * (this.basePriceMedia.video * this.videoCount))
-        let amountOfInfluencer =Math.round((this.campaignBudget) / costPerInfluencer)
+        let amountOfInfluencer =Math.round((this.selectedCurrency.name === 'EUR'? this.campaignBudget * 0.95 : this.selectedCurrency.name === 'GBP' ? this.campaignBudget * 0.82 : this.campaignBudget) / costPerInfluencer)
         let influencersRange =[]
         influencersRange.push(amountOfInfluencer - Math.round(((amountOfInfluencer * 20) / 100)))
         influencersRange.push(amountOfInfluencer + Math.round(((amountOfInfluencer * 20) / 100)))
