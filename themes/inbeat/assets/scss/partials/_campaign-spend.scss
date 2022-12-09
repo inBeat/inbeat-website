@@ -41,7 +41,7 @@
       background: #F9F7F7;
     }
     .calculator-output{
-        padding: 32px;
+        padding: 50px 32px 50px 32px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -57,18 +57,21 @@
           justify-content: space-between;
           padding: 50px 0px;
           border-bottom:1px solid rgba(0, 0, 0, 0.1);
+          @include breakpoint(sm-down){
+            padding: 36px 0px;
+          }
           &:last-child{
             border-bottom: none;
             padding-bottom: 0;
+            @include breakpoint(sm-down){
+              padding-bottom: 24px;
+            }
           }
           .calculation-wrapper{
             display: flex;
             flex-direction: column;
             gap: 4px;
             text-align: right;
-            &:first-child{
-              gap: 16px;
-            }
             .title{
               font-weight: 400;
               font-size: 14px;

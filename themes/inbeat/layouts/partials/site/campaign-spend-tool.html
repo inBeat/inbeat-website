@@ -81,13 +81,13 @@
                 <div class="title">
                   Your estimated reach is
                 </div>
-                <div class="value">{abbreviateNumber(calculatedValues.totalReach[0])} - {abbreviateNumber(calculatedValues.totalReach[1])}</div>
+                <div class="value">{abbreviateNumber(getComputedValues.reachRange[0])} - {abbreviateNumber(getComputedValues.reachRange[1])}</div>
               </div>
             </div>
             <div class="calculation-field">
               {{- partial "icons/influencer.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(calculatedValues.numberOfProfiles[0]) + '-' + abbreviateNumber(calculatedValues.numberOfProfiles[1])}</div>
+                <div class="value">{abbreviateNumber(getComputedValues.influencersRange[0]) + '-' + abbreviateNumber(getComputedValues.influencersRange[1])}</div>
                 <div class="title">
                   Number of Influencers
                 </div>
@@ -96,7 +96,7 @@
             <div class="calculation-field">
               {{- partial "icons/engagement-spend.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(calculatedValues.totalEngagements[0])} - {abbreviateNumber(calculatedValues.totalEngagements[1])}</div>
+                <div class="value">{abbreviateNumber(getComputedValues.engagementRange[0])} - {abbreviateNumber(getComputedValues.engagementRange[1])}</div>
                 <div class="title">
                   Engagement
                 </div>
@@ -105,21 +105,12 @@
             <div class="calculation-field">
               {{- partial "icons/impression.html" -}}
               <div class="calculation-wrapper">
-                <div class="value">{abbreviateNumber(calculatedValues.totalImpressions[0])} - {abbreviateNumber(calculatedValues.totalImpressions[1])}</div>
+                <div class="value">{abbreviateNumber(getComputedValues.impressionRange[0])} - {abbreviateNumber(getComputedValues.impressionRange[1])}</div>
                 <div class="title">
                   Impressions
                 </div>
               </div>
             </div>
-            <!-- <div class="calculation-field">
-              {{- partial "icons/insta-post.html" -}}
-              <div class="calculation-wrapper">
-                <div class="value"><span v-if="postCount > 0">{abbreviateNumber(calculatedValues.numberOfPosts[0])} - {abbreviateNumber(calculatedValues.numberOfPosts[1])} </span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">{abbreviateNumber(calculatedValues.numberOfStories[0])} - {abbreviateNumber(calculatedValues.numberOfStories[1])}</span></div>
-                <div class="title"> 
-                  Instagram <span v-if="postCount > 0">posts</span><span v-if="storyCount > 0 && postCount > 0">/</span><span v-if="storyCount > 0">stories</span>
-                </div>
-              </div>
-            </div> -->
           </div>
         </div>
       </div>
@@ -279,6 +270,7 @@
         postCount : 1,
         storyCount: 0,
         videoCount: 1,
+        basePriceMedia:{story:0.5,post:1,video:1.5},
         campaignBudget:1,
         rate : [25,43],
         influencerFollowersCount: 1000,
@@ -302,6 +294,27 @@
               }
           }
         },
+    computed: {
+      getComputedValues(){
+        let baseCost = (this.influencerFollowersCount *10) / 100
+        let costPerInfluencer = (baseCost * (this.basePriceMedia.story * this.storyCount)) + (baseCost * (this.basePriceMedia.post * this.postCount)) + (baseCost * (this.basePriceMedia.video * this.videoCount))
+        let amountOfInfluencer =Math.round((this.campaignBudget) / costPerInfluencer)
+        let influencersRange =[]
+        influencersRange.push(amountOfInfluencer - Math.round(((amountOfInfluencer * 20) / 100)))
+        influencersRange.push(amountOfInfluencer + Math.round(((amountOfInfluencer * 20) / 100)))
+        let audience = (this.influencerFollowersCount * amountOfInfluencer) * (this.postCount + this.storyCount + this.videoCount)
+        let engagementRange = []
+        let impressionRange  = []
+        let reachRange  = []
+        engagementRange.push(Math.round(((audience * 8) / 100)))
+        engagementRange.push(Math.round(((audience * 12) / 100)))
+        impressionRange.push(Math.round(((audience * 80) / 100)))
+        impressionRange.push(Math.round(((audience * 150) / 100)))
+        reachRange.push(Math.round(((audience * 40) / 100)))
+        reachRange.push(Math.round(((audience * 900) / 100)))
+        return {influencersRange,engagementRange,impressionRange,reachRange}
+      }
+    },
     methods:{
       optionSelect(e,type){
         if(type === 'selectedInfluencerType'){
