@@ -175,16 +175,15 @@
               </div>
             </div>
             <div class="ib-graph__bars">
-              <div class="ib-graph__bar" v-for="(bar,i) in bars" :key="bar.label" v-show="bar.hidden !== true">
+              <div class="ib-graph__bar" v-for="(bar,name,i) in bars" :key="`bar-${name}`" v-show="bar.hidden !== true">
                 <div class="ib-graph__bar-label">{bar.label}</div>
-                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip};${bar.tooltipCords ? 'bottom:' + bar.tooltipCords.bottom + 'px; left:' + bar.tooltipCords.left + 'px;' :'bottom:' + bar.progress/2 + '%; transform: translate(-50%,50%)'}`">{bar.value}$</div>
-                <div class="ib-graph__bar-progress" :ref="`ib-graph-bar-${i}`"
+                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip}; bottom: ${ bar.tooltipCords.bottom }px; left: ${ bar.tooltipCords.left }px;`">{bar.value}$</div>
+                <div class="ib-graph__bar-progress" :ref="`ib-graph-bar-${name}`"
                   :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
                 </div>
               </div>
             </div>
           </div>
-          <!-- <line-chart :valuesdata="getDataValue"></line-chart> -->
         </div>
         <div class="roas-save-png-btn" @click="savePng">Save as PNG</div>
       </div>
@@ -325,8 +324,8 @@
       profitMarginValue: null,
       roiValue: null,
       levels: [0, 250, 500, 750, 1000],
-      bars: [
-        {
+      bars: {
+        adSpend: {
           label: 'Ad Spend',
           value: 300,
           progress: 20,
@@ -334,10 +333,13 @@
           // color2: 'rgba(255, 210, 225, 0.4)',
           color2: '#FFEDF3',
           colorTooltip: '#A84969',
-          tooltipCords: null,
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
           hidden: false,
         },
-        {
+        revenueTarget: {
           label: 'Revenue Target',
           value: 1000,
           progress: 100,
@@ -345,10 +347,13 @@
           // color2: 'rgba(252, 219, 178, 0.4)',
           color2: '#FEF1E0',
           colorTooltip: '#C27210',
-          tooltipCords: null,
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
           hidden: false,
         },
-        {
+        adRevenue: {
           label: 'Ad Revenue',
           value: 750,
           progress: 80,
@@ -356,15 +361,18 @@
           // color2: 'rgba(198, 227, 218, 0.4)',
           color2: '#E8F4F0',
           colorTooltip: '#58907E',
-          tooltipCords: null,
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
           hidden: false,
         },
-      ]
+      },
     },
     mounted() {
-      this.observeGraphTooltip(0);
-      this.observeGraphTooltip(1);
-      this.observeGraphTooltip(2);
+      this.observeGraphTooltip('adSpend');
+      this.observeGraphTooltip('revenueTarget');
+      this.observeGraphTooltip('adRevenue');
     },
     methods: {
       switchTab(tab) {
@@ -485,13 +493,10 @@
             this.adSpendValue = '200'
             this.calculateOtherField('adRevenue')
           }
-          // this.$nextTick( () => {
-          //   this.adRevenueValue = 0;
-          // })
-          this.bars[2].hidden = true;
+          this.bars.adRevenue.hidden = true;
         } else {
           this.calculateOtherField('roas')
-          this.bars[2].hidden = false;
+          this.bars[adRevenue].hidden = false;
           // this.adRevenueValue = this.expectedRevenueText;
         }
       },
@@ -505,18 +510,18 @@
         let maxRange = Math.max(effectiveAdRevenue, effectiveAdRevenueTarget);
         let graphRange = Math.ceil(maxRange / 100) * 100; // in multiple of 100.
         let graphInterval = graphRange / 4;
-        this.bars[0] = {
-          ...this.bars[0],
+        this.bars.adSpend = {
+          ...this.bars.adSpend,
           value: effectiveAdSpend,
           progress: (effectiveAdSpend/graphRange) * 100
         }
-        this.bars[1] = {
-          ...this.bars[1],
+        this.bars.revenueTarget = {
+          ...this.bars.revenueTarget,
           value: effectiveAdRevenueTarget,
           progress: (effectiveAdRevenueTarget/graphRange) * 100
         }
-        this.bars[2] = {
-          ...this.bars[2],
+        this.bars.adRevenue = {
+          ...this.bars.adRevenue,
           value: effectiveAdRevenue,
           progress: (effectiveAdRevenue/graphRange) * 100
         }
@@ -533,17 +538,14 @@
         console.log(containerEl);
         containerEl.addEventListener('mouseover', () => {
           containerEl.addEventListener('mousemove', (e) => {
-            // console.log(e)
             let rects = containerEl.getBoundingClientRect();
             let left = e.clientX - rects.x - 8;
             let bottom = rects.bottom - e.clientY + 8;
-            // console.log(left, bottom);
             this.bars[barIndex].tooltipCords = {bottom: bottom, left: left};
           });
           containerEl.addEventListener('mouseleave', () => {
             containerEl.removeEventListener('mousemove', () => {});
 			      containerEl.removeEventListener('mouseleave', () => {});
-            // this.bars[barIndex].tooltipCords = null;
           });
         });
       },
