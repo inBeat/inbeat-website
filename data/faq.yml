@@ -381,6 +381,93 @@ cpm_calculator:
     answer: >-
       For marketers, calculating CPM and comparing CPM between campaigns is a good insight into 
       ad quality, performance, and potential, as well as targeting relevancy.
+campaignSpend_calculator:
+  - question: What is an influencer campaign ROI calculator?
+    answer: >-
+          An influencer campaign ROI calculator is a tool that helps you gauge the potential profit from
+          your influencer marketing campaign.
+  - question: Who can use inBeat’s influencer campaign ROI calculator?
+    answer: >-
+      Anyone wanting to assess and interpret the ROI of their influencer marketing efforts can use
+      inBeat’s influencer campaign ROI calculator. Whether you’re an agency or influencer marketer,
+      you can use these results to set up a better budget according to your campaign goals
+  - question: How do I use the influencer campaign ROI calculator?
+    answer: >-
+      <b>inBeat influencer campaign ROI calculator is easy to use. All you have to do is insert your
+       campaign info:<br></b>
+       &#x25CF; Available budget (including gifted products and other incentives)<br>
+       &#x25CF; Average followers per influencer<br>
+       &#x25CF; Number of posts per influencer<br>
+       &#x25CF; Number of stories per influencer<br>
+      <b>Based on these variables, the calculator will render the estimated results below:<br></b>
+       &#x25CF; Reach<br>
+       &#x25CF; Influencer ROI<br>
+       &#x25CF; Engagement<br>
+       &#x25CF; Impressions<br>
+       &#x25CF; ROI of influencer marketing from posts and stories<br>
+  - question: How does the influencer campaign ROI calculator help me?
+    answer: >-
+      Calculating the ROI of influencer marketing campaigns is one of the biggest challenges for
+      marketers. You can tackle it using our influencer campaign ROI calculator. Leverage the
+      estimated results of your influencer marketing efforts to:<br>
+      &#x25CF; <b>Adjust the variables of your campaign better:</b> You can change the budget, pick
+      different types of influencers, choose different influencer content, or other influencer
+      marketing platforms.
+      <br>
+      &#x25CF; <b>Justify your budget on influencers:</b> Use these results to prove that your influencer
+      marketing campaign demands specific expenses.
+      <br>
+      &#x25CF; <b>Assess your social marketing strategy:</b> Compare the actual results of your campaign
+      to these estimates, to understand how well it performed.
+      <br>
+  - question: How do I use the influencer campaign ROI calculator to pay influencers?
+    answer: >-
+      Use the influencer campaign ROI calculator to understand the budget and types of influencers
+      that would work best for your campaign. Then, split the available funds to these content
+      creators.<br>
+      Keep in mind that influencers’ content is priced differently depending on their reach,
+      engagement rate, and type of content. For example, a micro - influencer’s Instagram post can
+      cost $100-$500 and $1,500 on TikTok.<br>
+      To assess the correct influencer fees, use some of our other free tools:<br>
+      &#x25CF; [Instagram engagement rate calculator](https://www.inbeat.co/engagement-rate-calculator-instagram/)<br>
+      &#x25CF; [TikTok engagement rate calculator](https://www.inbeat.co/engagement-rate-calculator-tiktok/)<br>
+      &#x25CF; [Instagram money calculator](https://www.inbeat.co/collaboration-cost-calculator-instagram/)<br>
+  - question: How do you calculate ROI on an influencer campaign?
+    answer: >-
+      To calculate the ROI from an influencer campaign, divide the revenue your content creators
+      brought you by the cost of your campaign. Multiply the result by 100 to obtain the percentage of
+      ROI.<br>
+      Let’s say an influencer’s post costs $100. Using personalized promo codes or affiliate links, you
+      tracked that the people who read that post bought $500 worth of products from your website. In
+      this case, your ROI is (500/100) x 100 = 500%.<br>
+  - question: What are the most common KPIs in influencer marketing?
+    answer: >-
+      Influencer marketers use the following key performance indicators (KPIs) to measure their
+      campaign performance:<br>
+          &#x25CF; <b>Reach:</b> The number of followers who saw the posted content throughout the social channels.<br>
+          &#x25CF; <b>Impressions:</b> The number of times that people saw those social posts.<br>
+          &#x25CF; <b>Cost per impression:</b> The price for each impression across all social media platforms you used.<br>
+          &#x25CF; <b>Engagement:</b>  The number and quality of interactions between potential customers and said post. Use engagement metrics to assess the cost per engagement that lead you there.<br>
+          &#x25CF; <b>Conversion rates:</b>  Total number of sessions or visitors divided by the total number of conversions.<br>
+          &#x25CF; <b>ROI:</b>  The profit brought to you by a specific marketing strategy or tool – in this case, it could be a content creator or a type of message. It could also be direct sales measured with custom URLs.<br>
+      <b>Pro tip: </b> A savvy influencer marketing agency like inBeat will know which KPIs to keep track of.If you need extra assistance, let's schedule a [free call here](https://inbeat.agency/book-a-call/).
+  - question: What is a good ROI for social media influencers?
+    answer: >-
+      Studies show that influencer marketing ROI reaches up to 11 times the ROI from banner ads. But that’s just one specific outdoor advertising tool. Compared to other marketing tactics, the average ROI from influencer marketing is 520% or $5.2 of profit for each $1 you feed your influencer marketing budget. <br>
+      Even so, your investment in influencer marketing will be worthwhile, regardless of the marketing channels you choose.
+  - question: What is a good influencer marketing ROI for social media ads?
+    answer: >-
+      You can repurpose your influencers’ content in ads across social media channels. A good ROI for social media advertising would be 300%. inBeat can help you run a more extensive influencer marketing program. <br>
+  - question: How do you calculate ROI for influencers’ social media posts?
+    answer: >-
+      There are different ways to calculate ROI based on your influencers’ social media posts. You can do it manually:<br>
+        &#x25CF; <b>Gross ROI:</b> Divide the value brought by individual influencers by the total costs of your campaign. <br>
+        &#x25CF; <b>Net ROI: </b>Subtract your campaign costs from the value brought by your influencers’ content. Divide this value by your expenses to get the net ratio.<br>
+      Alternatively, you can use our influencer campaign ROI calculator for faster and more precise
+      results.
+  - question: Is your influencer campaign ROI calculator free?
+    answer: >-
+      Yes, inBeat’s influencer marketing ROI calculator is free, just like the other tools in our toolkit. Check them out [here](https://www.inbeat.co/free-toolkit/) to find out how they can help you build the best influencer marketing strategy
 ctr_calculator:
   - question: What Does CTR Mean?
     answer: >-

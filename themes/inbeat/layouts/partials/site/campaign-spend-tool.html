@@ -1,0 +1,414 @@
+<section class="container mobile-adjusted" id="ib_campaign-spend-calculator">
+      <div class="calc-row">
+        <div class="calculator-input-section calc-col">
+          <!-- <div class="title">Insert Campaign Info</div> -->
+          <div class="slider-control-wrapper">
+            <div class="controls-wrapper">
+              <div class="ib-spend-control-wrapper">
+                <h5>Your campaign budget</h5>
+                <div class="input-dropdown-wrapper">
+                  <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'campaignBudget')" :value="getInputValue('campaignBudget')"> 
+                  <dropdown :options="currencyOptions" :optionselected="selectedCurrency"
+                  @option-select="optionSelect($event,'selectedCurrency')"></dropdown>
+                </div>
+              </div>     
+            </div>
+            <ui-slider v-model="campaignBudget" @input="sliderValueUpdate"></ui-slider>
+          </div>
+          <div class="slider-control-wrapper" style="margin-top:44px">
+            <div class="controls-wrapper" >
+              <div class="ib-spend-control-wrapper">
+                <h5>Avg. followers per influencer</h5>
+                <div class="input-dropdown-wrapper influencer-type-dropdown">
+                  <input type="text" class="ib-spend-input" @keydown="checkIfNumber"  @change="onChange($event,'influencerFollowersCount')" :value="getInputValue('influencerFollowersCount')"> 
+                  <dropdown :options="influencerOptions" :optionselected="selectedInfluencerType"
+                  @option-select="optionSelect($event,'selectedInfluencerType')"></dropdown>
+                </div>
+              </div>     
+            </div>
+            <ui-slider @input="sliderValueUpdate" v-model="influencerFollowersCount"></ui-slider>
+          </div>
+          <div class="post-story-count-controller">
+            <div class="controller-wrapper">
+              <div class="d-flex">
+                {{- partial "icons/story-spend.html" -}}
+                <span>{storyCount} Stories / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : storyCount <= 0},'btn']" @click="decrenentCount('storyCount')">
+                  {{- partial "icons/minus.html" -}}
+                </div>
+                <div class="btn" @click="increamentCount('storyCount')">
+                  {{- partial "icons/plus.html" -}}
+                </div>
+              </div>
+            </div>
+            <div class="controller-wrapper">
+              <div class="d-flex">
+                {{- partial "icons/post-spend.html" -}}
+                <span>{postCount} Posts / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : postCount <= 0 },'btn']" @click="decrenentCount('postCount')">
+                  {{- partial "icons/minus.html" -}}
+                </div>
+                <div class="btn" @click="increamentCount('postCount')">
+                  {{- partial "icons/plus.html" -}}
+                </div>
+              </div>
+            </div>
+            <div class="controller-wrapper">
+              <div class="d-flex">
+                {{- partial "icons/cost-video.html" -}}
+                <span>{videoCount} Videos / influencer</span>
+              </div>
+              <div class="increament-decreament-wrapper">
+                <div :class="[{'--disabled' : videoCount <= 0},'btn']" @click="decrenentCount('videoCount')">
+                  {{- partial "icons/minus.html" -}}
+                </div>
+                <div class="btn" @click="increamentCount('videoCount')">
+                  {{- partial "icons/plus.html" -}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="calculator-output-wrap calc-col">
+          <div class="calculator-output">
+            <div class="estimate-reach-field calculation-field">
+              {{- partial "icons/estimate-reach.html" -}}
+              <div class="calculation-wrapper">
+                <div class="title">
+                  Your estimated reach is
+                </div>
+                <div class="value">{getComputedValues.reachRange[0] === getComputedValues.reachRange[1] ? getComputedValues.reachRange[0] : abbreviateNumber(getComputedValues.reachRange[0]) + ' - ' + abbreviateNumber(getComputedValues.reachRange[1])}</div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/influencer.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">{getComputedValues.influencersRange[0] === getComputedValues.influencersRange[1] ? getComputedValues.influencersRange[0] : abbreviateNumber(getComputedValues.influencersRange[0]) + ' - ' + abbreviateNumber(getComputedValues.influencersRange[1])}</div>
+                <div class="title">
+                  Number of Influencers
+                </div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/engagement-spend.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">{getComputedValues.engagementRange[0] === getComputedValues.engagementRange[1] ? getComputedValues.engagementRange[0] : abbreviateNumber(getComputedValues.engagementRange[0]) + ' - ' + abbreviateNumber(getComputedValues.engagementRange[1])}</div>
+                <div class="title">
+                  Engagement
+                </div>
+              </div>
+            </div>
+            <div class="calculation-field">
+              {{- partial "icons/impression.html" -}}
+              <div class="calculation-wrapper">
+                <div class="value">{getComputedValues.impressionRange[0] === getComputedValues.impressionRange[1] ? getComputedValues.impressionRange[0] : abbreviateNumber(getComputedValues.impressionRange[0]) + ' - ' + abbreviateNumber(getComputedValues.impressionRange[1])}</div>
+                <div class="title">
+                  Impressions
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.2/nouislider.min.js"></script>
+<script>
+      Vue.component('dropdown', {
+        data: function () {
+            return {
+                selectedOption:this.optionselected,
+                isOpenDropdown: false
+            }
+        },
+        props:{
+            options: {
+              type: Array,
+            },
+            optionselected:{
+              type: Object
+            }
+        },
+        watch:{
+          optionselected(value){
+            this.selectedOption = value
+          }
+        },
+        methods: {
+        openDropdown(e){
+        this.isOpenDropdown = !this.isOpenDropdown
+          window.addEventListener('click', (event)=>{
+            if (this.$refs.dropdown && !this.$refs.dropdown.contains(event.target)){
+                this.closeDropdown()
+            }
+          });
+        },
+        closeDropdown(e){
+            this.isOpenDropdown = false
+        },
+        selectOption(option){
+            this.selectedOption = option
+            this.$emit('option-select', this.selectedOption);
+            
+        },
+        },
+
+        template:  `
+        <div class="mockup_dropdown-wrapper input-dropdown-wrapper">      
+            <div class="mockup-dropdown input-dropdown"  @click.prevent="openDropdown" ref="dropdown"  tabindex="1">     
+                    <a href="javascript:void(0)" v-html="selectedOption.name">
+                        Select CTA
+                    </a>
+                    <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1L5.4698 5L10 1" stroke="black"/>
+                    </svg>
+                </div>
+                <ul class="mockup-dropdown__dropdown-list" v-show="isOpenDropdown">
+                    <li class="list-item" v-for="option in options" @click="selectOption(option)">
+                        <p class="list-title"  v-html="option.name"></p>
+                    </li>            
+                </ul>
+            </div>
+        </div>
+    `
+    })
+    Vue.component('ui-slider', {
+      template: 
+      `
+      <div class='slider-container'>
+        <div ref='slider' class='slider'></div>
+      </div>
+      `,
+      props:{
+        value:{
+          type: Number,
+          default :'5000',
+        },// regular "value" prop to v-model become alive
+      },
+      watch:{
+        value(newValue, oldValue){
+          // Prevent infinit loop with common noUilSlider event
+          if(this.$refs.slider.noUiSlider.get() != newValue){
+              this.$refs.slider.noUiSlider.set(newValue); // Set value manually
+          }     
+        }
+      },
+      mounted(){
+        noUiSlider.create(this.$refs.slider, {
+          start: this.value,
+          step: 1000,
+          connect: 'lower',
+          tooltips: [
+            {
+              to: function(e) {
+                return `${Math.round(e/1000)}K`;
+              },
+              from: function(e) {
+                return 'K'
+              }
+            },
+          ],
+        range: 
+          {
+            "min":[1000],
+            "16.66%":[5000,1000],
+            "33.33%":[10000,5000],
+            "50%":[50000,5000],
+            "66.66%":[100000,5000],
+            "83.33%":[250000,5000],
+            "max":[500000]
+          },
+        pips: 
+          {
+            mode: "range",
+            format: {
+              to: function(e) {
+                return `${Math.round(e/1000)}K`;
+              },
+              from: function(e) {
+                  return 'K'
+              }
+            },
+            density: -1
+          }
+        });
+        this.$refs.slider.noUiSlider.on(
+          'update', (values, handle) => {
+            this.$emit('input', Math.round(values[handle]) ) 
+          }
+        );
+        let pipeValues = this.$refs.slider.querySelectorAll('.noUi-value-large');
+        let sli = this.$refs.slider;
+        [...pipeValues].forEach(function(ele) {
+          ele.addEventListener('click',() =>{
+            sli.noUiSlider.set(ele.getAttribute('data-value'))
+          })
+        })  
+      },
+      methods:{
+        setValue(value){
+          this.$refs.slider.noUiSlider.set(value);
+        }
+      }
+    })
+    var app = new Vue({
+      el: '#ib_campaign-spend-calculator',
+      data: {
+        currencyOptions:[{name:'USD',code:'USD'},{name:'EUR',code:'EUR'},{name:'GBP',code:'GBP'}],
+        selectedCurrency:{name:'USD',code:'USD'},
+        influencerOptions:[{name:'NANO',code:'NANO'},{name:'MICRO',code:'MICRO'},{name:'MACRO',code:'MACRO'}],
+        selectedInfluencerType:{name:'NANO',code:'NANO'},
+        postCount : 1,
+        storyCount: 0,
+        videoCount: 1,
+        basePriceMedia:{story:0.5,post:1,video:1.5},
+        campaignBudget:1,
+        rate : [25,43],
+        influencerFollowersCount: 1000,
+        calculatedValues: {"numberOfProfiles":[18,31],"numberOfPosts":[18,31],"numberOfStories":[18,31],"totalEngagements":[2000,3000],"totalReach":[10000,18000],"totalImpressions":[27000,47000]}
+        },
+        watch:{
+          influencerFollowersCount(va){
+            let dva = va / 1000
+              switch(true) {
+              case dva >=1 && dva <= 5:
+                this.selectedInfluencerType = {name:'NANO',code:'NANO'}
+                break;
+              case dva >= 5 && dva <= 50:
+              this.selectedInfluencerType = {name:'MICRO',code:'MICRO'}
+                break;
+              case dva >=  50 && dva <= 250:
+              this.selectedInfluencerType = {name:'MACRO',code:'MACRO'}
+                break;
+              default:
+                return
+              }
+          }
+        },
+    computed: {
+      getComputedValues(){
+        let baseCost = (this.influencerFollowersCount *10) / 100
+        let costPerInfluencer = (baseCost * (this.basePriceMedia.story * this.storyCount)) + (baseCost * (this.basePriceMedia.post * this.postCount)) + (baseCost * (this.basePriceMedia.video * this.videoCount))
+        let amountOfInfluencer =Math.round((this.selectedCurrency.name === 'EUR'? this.campaignBudget * 0.95 : this.selectedCurrency.name === 'GBP' ? this.campaignBudget * 0.82 : this.campaignBudget) / costPerInfluencer)
+        let influencersRange =[]
+        influencersRange.push(amountOfInfluencer - Math.round(((amountOfInfluencer * 20) / 100)))
+        influencersRange.push(amountOfInfluencer + Math.round(((amountOfInfluencer * 20) / 100)))
+        let audience = (this.influencerFollowersCount * amountOfInfluencer) * (this.postCount + this.storyCount + this.videoCount)
+        let engagementRange = []
+        let impressionRange  = []
+        let reachRange  = []
+        engagementRange.push(Math.round(((audience * 8) / 100)))
+        engagementRange.push(Math.round(((audience * 12) / 100)))
+        impressionRange.push(Math.round(((audience * 80) / 100)))
+        impressionRange.push(Math.round(((audience * 150) / 100)))
+        reachRange.push(Math.round(((audience * 40) / 100)))
+        reachRange.push(Math.round(((audience * 900) / 100)))
+        return {influencersRange,engagementRange,impressionRange,reachRange}
+      }
+    },
+    methods:{
+      optionSelect(e,type){
+        if(type === 'selectedInfluencerType'){
+          this.setInfluencerCount(e.name)
+        }
+        this[type] = e
+        this.calculateValues();
+      },
+
+      setInfluencerCount(type){
+        switch(type) {
+            case 'NANO':
+              this.influencerFollowersCount = '5' * 1000
+              break;
+            case 'MICRO':
+            this.influencerFollowersCount = '50' * 1000
+              break;
+            case 'MACRO':
+            this.influencerFollowersCount = '250' * 1000
+              break;
+            default:
+            this.influencerFollowersCount = '1' * 1000
+        }
+      },
+      increamentCount(type){
+        this[type]++
+        this.calculateValues();
+      },
+      decrenentCount(type){
+        if((type === 'postCount' && this.storyCount === 0 && this.postCount ===1) || (type === 'storyCount' && this.postCount === 0 && this.storyCount ===1)){
+          return
+        }
+        if(this[type] > 0){
+          this[type]--
+        }
+        this.calculateValues();
+      },
+      onChange(e,type){
+        let dVal = e.target.value.replace(',','')
+        dVal =  dVal > 500000 ? 500000 : dVal < 1000 ? 1000 : dVal
+        let roundedValue 
+        if((dVal >= 1000 && dVal <= 50000)){
+          roundedValue = Math.round(dVal/1000)*1000
+        }
+        else{
+          roundedValue = Math.round(dVal/5000)*5000
+        }
+        this[type] = roundedValue;
+        this.calculateValues();
+      },
+      checkIfNumber(event) {
+        const regex = new RegExp(/(^[0-9]*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+        return !event.key.match(regex) && event.preventDefault();
+      },
+      getInputValue(type){
+        let value = this[type] + ''
+        return value.replace(/[^0-9]/g, '').replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+      },
+      calculateValues() {
+        fetch('https://campignspencalculator.pulkitagarwal15.repl.co/calculate', {
+          method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            currency: this.selectedCurrency.code,
+            budget: this.campaignBudget,
+            followers:this.influencerFollowersCount,
+            posts:this.postCount,
+            stories:this.storyCount,
+          }),
+        }).then(_ => _.json())
+        .then(response => {
+          this.calculatedValues = response
+        })
+      },
+      abbreviateNumber(number){  
+        const SI_SYMBOL = ["", "K", "M", "B", "T", "P", "E"];
+        // what tier? (determines SI symbol)
+        var tier = Math.log10(Math.abs(number)) / 3 | 0;           
+        if(tier == 0) return number;
+        tier = tier > 6 ? 6 : tier
+        var suffix = SI_SYMBOL[tier];
+        var scale = Math.pow(10, tier * 3);
+        var scaled = number / scale;
+        return +scaled.toFixed(1) + suffix;
+      },
+      sliderValueUpdate(){
+        this.calculateValues()
+      }
+    },
+
+      // To make sure there's no conflict with Hugo templating
+      delimiters: ['{', '}'],
+    });
+    </script>

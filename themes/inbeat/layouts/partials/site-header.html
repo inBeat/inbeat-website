@@ -91,7 +91,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+													<a href="{{- $.Site.BaseURL -}}{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>

@@ -34,6 +34,10 @@ toolkits:
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
+    - title: Influencer Marketing <br> ROI Calculator
+      text: Calculate campaign spend for an influencer marketing campaign & estimate it’s results
+      icon: freetoolkit-spend-calculator
+      url: influencer-marketing-roi-calculator
   - AdMockupGenerators:
     subtitle: Ad mockup generators
     tools:
