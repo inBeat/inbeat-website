@@ -177,9 +177,9 @@
             <div class="ib-graph__bars">
               <div class="ib-graph__bar" v-for="(bar,name,i) in bars" :key="`bar-${name}`" v-show="bar.hidden !== true">
                 <div class="ib-graph__bar-label">{bar.label}</div>
-                <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip}; bottom: ${ bar.tooltipCords.bottom }px; left: ${ bar.tooltipCords.left }px;`">{bar.value}$</div>
                 <div class="ib-graph__bar-progress" :ref="`ib-graph-bar-${name}`"
                   :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
+                  <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip}; bottom: ${ bar.tooltipCords.bottom }px; left: ${ bar.tooltipCords.left }px;`">{bar.value}$</div>
                 </div>
               </div>
             </div>

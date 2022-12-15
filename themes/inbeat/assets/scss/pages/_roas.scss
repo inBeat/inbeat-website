@@ -507,6 +507,12 @@ $--inactive-border: #D9D9D9;
       background-color: #ffffff;
       background: linear-gradient(180deg, var(--color-opacity) 0%, var(--color-solid) 100%);
       transition: height 0.5s ease-in-out;
+      &:hover {
+          background: var(--color-solid);
+        .ib-graph__bar-value {
+          opacity: 1;
+        }
+      }
     }
     .ib-graph__bar-value {
       position: absolute;
@@ -546,14 +552,7 @@ $--inactive-border: #D9D9D9;
       flex: 1 1 0;
       position: relative;
       cursor: pointer;
-      &:hover {
-        .ib-graph__bar-progress {
-          background: var(--color-solid);
-        }
-        .ib-graph__bar-value {
-          opacity: 1;
-        }
-      }
+      
     }
   }
 }
