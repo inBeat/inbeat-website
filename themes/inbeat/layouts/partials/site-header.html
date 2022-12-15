@@ -57,7 +57,7 @@
 									{{ with .announcement }}
 									<div style="background-color:#{{ .color }}" class="col-sm-6 col-md-6 column announcement">
 										<h2>{{ .topText }}</h2>
-										<h1 style="margin-bottom: 72px">{{ .title }}</h1>
+										<p style="margin-bottom: 72px" class="announcement-title">{{ .title }}</p>
 										<a href="{{ .cta.link }}" style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank">{{ .cta.text }}</a>
 									</div>
 									{{ end }} {{- end -}}
@@ -91,7 +91,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+													<a href="{{- $.Site.BaseURL -}}{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>
@@ -114,7 +114,7 @@
 									{{ with .announcement }}
 									<div style="background-color:#{{ .color }}" class="col-sm-4 col-md-4 column announcement">
 										<h2>{{ .topText }}</h2>
-										<h1>{{ .title }}</h1>
+										<p class="announcement-title">{{ .title }}</p>
 										<a href="{{ .cta.link }}" style="background-color:#{{ .cta.color }}" title="{{ .cta.title }}" class="btn btn-lg" target="_blank">{{ .cta.text }}</a>
 									</div>
 									{{ end }} {{- end -}}

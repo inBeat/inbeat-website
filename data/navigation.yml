@@ -110,7 +110,7 @@ resources:
         link: '/engagement-rate-calculator-instagram/'
         target: '_self'
       - name: Fake follower checker
-        link: 'fake-follower-checker/'
+        link: '/fake-follower-checker/'
         target: '_self'
       - name: Collaboration cost calculator
         link: '/collaboration-cost-calculator-instagram/'
