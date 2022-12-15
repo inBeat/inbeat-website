@@ -170,7 +170,7 @@
           <div class="ib-graph">
             <div class="ib-graph__left-axis"></div>
             <div class="ib-graph__horizontal-levels">
-              <div class="ib-graph__level" v-for="level of levels" :key="level">
+              <div class="ib-graph__level" v-for="level of levels" :key="level +Math.random()">
                 <div class="ib-graph__level-label">{level}</div>
               </div>
             </div>
@@ -445,7 +445,8 @@
           case 'roas':
             if (this.isRevenueAvaliable) {
               this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
-              if(this.roasValue === 'Infinity'){
+              console.log(this.roasValue === 'NaN',typeof NaN)
+              if(this.roasValue === 'Infinity' || this.roasValue === 'NaN'){
               this.roasValue = '0.00'
             }
             } else {
@@ -457,7 +458,7 @@
             this.calculateExpectedValues();
             if (this.isRevenueAvaliable) {
               this.adRevenueValue = (this.adSpendValue * (this.roasValue / 100)).toFixed(0);
-              if(this.adRevenueValue === 'Infinity'){
+              if(this.adRevenueValue === 'Infinity' || this.adRevenueValue === 'NaN'){
               this.adRevenueValue = '0'
             }
             } else {
@@ -467,7 +468,7 @@
           case 'adSpend':
             this.calculateExpectedValues();
             this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
-            if(this.adSpendValue === 'Infinity'){
+            if(this.adSpendValue === 'Infinity' || this.adSpendValue === 'NaN' ){
               this.adSpendValue = '0'
             }
             break;
