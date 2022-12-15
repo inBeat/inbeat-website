@@ -265,15 +265,21 @@
         return arrayPadding.join(' ');
       },
       getValue() {
-        return this.value ? this.value.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",") : null
+        return this.value ? this.value.toString().substring(0,9).replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",") : null
       }
     },
     methods: {
       onUpdateValue(evt) {
+        // console.log(this.getValue , 'jii')
         const newValue = evt.target.innerText.replace(/,/g, '');
+        if(newValue.length > 9){
+          // console.log('hll')
+          this.updateValue(newValue.substring(0, 9));
+          return
+        }
         const range = document.getSelection().getRangeAt(0);
         const pos = range.endOffset;
-        this.updateValue(newValue);
+        this.updateValue(newValue.length > 9 ? newValue.substring(0, 9):newValue);
         this.$nextTick(() => {
           const newRange = document.createRange();
           const selection = window.getSelection();
@@ -287,6 +293,9 @@
         });
       },
       onkeyDown(event) {
+        if(this.value && this.value.length === 9){
+          event.preventDefault()
+        }
         const regex = new RegExp(/(^\d*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
         return !event.key.match(regex) && event.preventDefault();
       },
@@ -395,6 +404,10 @@
         this.expectedRevenueText = null
       },
       calculateROAS(e, fieldName) {
+        if(e.length >= 9){
+          e = e.substring(0,9)
+        }
+        // console.log(e)
         // debugger
         if ((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue) && (!this.roiValue && !this.profitMarginValue || !this.profitMarginValue && !this.adSpendValue || !this.roiValue && !this.adSpendValue)) {
           return // do not calculate anything
@@ -445,7 +458,6 @@
           case 'roas':
             if (this.isRevenueAvaliable) {
               this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
-              console.log(this.roasValue === 'NaN',typeof NaN)
               if(this.roasValue === 'Infinity' || this.roasValue === 'NaN'){
               this.roasValue = '0.00'
             }
@@ -536,7 +548,6 @@
       },
       observeGraphTooltip(barIndex) {
         let containerEl = this.$refs[`ib-graph-bar-${barIndex}`][0];
-        console.log(containerEl);
         containerEl.addEventListener('mouseover', () => {
           containerEl.addEventListener('mousemove', (e) => {
             let rects = containerEl.getBoundingClientRect();
