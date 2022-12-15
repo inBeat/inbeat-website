@@ -528,10 +528,10 @@
         }
         this.levels = [
           0,
-          graphInterval * 1,
-          graphInterval * 2,
-          graphInterval * 3,
-          graphInterval * 4
+          (graphInterval * 1).toString().substring(0,5) * 1,
+          (graphInterval * 2).toString().substring(0,5) * 1,
+          (graphInterval * 3).toString().substring(0,5) * 1,
+          (graphInterval * 4).toString().substring(0,5) * 1
         ]
       },
       observeGraphTooltip(barIndex) {
