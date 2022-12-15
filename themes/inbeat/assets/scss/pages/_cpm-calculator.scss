@@ -100,7 +100,17 @@ $pink: #B85172;
         }
     }
 }
-#cpm_calculator-section, #cpm_calculator-section-advance{
+#roas-calculator-section {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 96px !important;
+    gap:96px;
+    
+    @include breakpoint(sm-down) {
+        gap: 48px;
+    }
+}
+#cpm_calculator-section, #cpm_calculator-section-advance, #roas-calculator-section{
     position: relative;
     margin-top: 33px;
     // margin-top: 50px;

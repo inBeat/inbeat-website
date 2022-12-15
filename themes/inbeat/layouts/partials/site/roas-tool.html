@@ -1,0 +1,626 @@
+<section class="container mobile-adjusted" id="cpm__calculator">
+  <div>
+    <div class="calculator-toggle">
+      <div class="calculator-type" id="cpm_calculator-simple-toggle" :class="{'--active': activeTab === 'simple'}"
+        @click="switchTab('simple')">
+        Simple Mode
+      </div>
+      <div class="calculator-type" id="cpm_calculator-advance-toggle" :class="{'--active': activeTab === 'advance'}"
+        @click="switchTab('advance')">
+        With ROI <span class="question-circle --gray_bg">
+          {{- partial "icons/question-mark.html" -}}
+        </span>
+        <span class="--tooltip">Calculate your ROI if you know </br> what your profit margin is</span>
+      </div>
+    </div>
+    <div id="roas-calculator-section">
+      <div class="roas-left-controls">
+        <div class="roas-control-wrapper">
+          <div class="roas-input-box">
+            <div class="header --pink">
+              Ad Spend <span class="question-circle --pink_bg">
+                {{- partial "icons/question-mark.html" -}}
+                <span class="--tooltip"> How much did you </br> spend in total?</span>
+              </span>
+            </div>
+            <div class="input-wrapper" :class="{'--border':inlineValue}">
+              <inline-input @blur="blur" background="none" v-model="adSpendValue" placeholder="200"
+                @input="calculateROAS($event, 'adSpend')"></inline-input><span class="doller-sign">$</span>
+              <div class="copy-button_wrapper hide-sm" @click="copyValue($event,adSpendValue)"
+                @mouseleave="copied = false">
+                {{- partial "icons/copy-button.html" -}}
+                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                <span v-else class="--tooltip --sucess">Copied
+                  {{- partial "icons/check.html" -}}
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="roas-input-box --with-toggle">
+            <div class="wrapper">
+              <div class="header --green">
+                {isRevenueAvaliable ? 'Ad Revenue' : 'Ad Revenue Target'} <span class="question-circle --green_bg">
+                  {{- partial "icons/question-mark.html" -}}
+                  <span class="--tooltip"> How much did you </br> make in total?</span>
+                </span>
+              </div>
+              <div class="input-wrapper" :class="{'--border':inlineValue}">
+                <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="compVal"
+                  placeholder="1,200" @input="calculateROAS($event, 'adRevenue')"></inline-input><span
+                  class="doller-sign">$</span>
+                <div class="copy-button_wrapper hide-sm" @click="copyValue($event,compVal)"
+                  @mouseleave="copied = false">
+                  {{- partial "icons/copy-button.html" -}}
+                  <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                  <span v-else class="--tooltip --sucess">Copied
+                    {{- partial "icons/check.html" -}}
+                  </span>
+                </div>
+              </div>
+            </div>
+            <label class="toggle">
+              <div class="toggle-wrpper">
+                <input @blur="blur" class="toggle-input" type="checkbox" v-model="isRevenueAvaliable"
+                  @change="toggleRevenuAvaliable" />
+                <div class="toggle-track">
+                  <div class="toggle-control"></div>
+                </div>
+              </div>
+              <span class="toggle-label">I know my revenue</span>
+            </label>
+          </div>
+          <div class="roas-input-box">
+            <div class="header --black">
+              ROAS
+            </div>
+            <div class="input-wrapper" :class="{'--border':inlineValue}">
+              <inline-input @blur="blur" :read-only="!isRevenueAvaliable" background="none" v-model="roasValue"
+                placeholder="600" @input="calculateROAS($event, 'roas')"></inline-input><span
+                class="doller-sign">%</span>
+              <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roasValue)"
+                @mouseleave="copied = false">
+                {{- partial "icons/copy-button.html" -}}
+                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                <span v-else class="--tooltip --sucess">Copied
+                  {{- partial "icons/check.html" -}}
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="roas-input-box" v-if="activeTab === 'advance'">
+            <div class="header --black">
+              Profit Margin
+            </div>
+            <div class="input-wrapper" :class="{'--border':inlineValue}">
+              <inline-input @blur="blur" background="none" v-model="profitMarginValue" placeholder="200"
+                @input="calculateROAS($event, 'profitMargin')"></inline-input><span class="doller-sign">$</span>
+              <div class="copy-button_wrapper hide-sm" @click="copyValue($event,profitMarginValue)"
+                @mouseleave="copied = false">
+                {{- partial "icons/copy-button.html" -}}
+                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                <span v-else class="--tooltip --sucess">Copied
+                  {{- partial "icons/check.html" -}}
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="roas-input-box" v-if="activeTab === 'advance'">
+            <div class="header --black">
+              Return on investment (ROI)
+            </div>
+            <div class="input-wrapper" :class="{'--border':inlineValue}">
+              <inline-input @blur="blur" background="none" v-model="roiValue" placeholder="100"
+                @input="calculateROAS($event, 'roi')"></inline-input><span class="doller-sign">$</span>
+              <div class="copy-button_wrapper hide-sm" @click="copyValue($event,roiValue)" @mouseleave="copied = false">
+                {{- partial "icons/copy-button.html" -}}
+                <span v-if="!copied" class="--tooltip">Copy to clipboard</span>
+                <span v-else class="--tooltip --sucess">Copied
+                  {{- partial "icons/check.html" -}}
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div v-if="this.isRevenueAvaliable && this.adRevenueValue" class="switch-mode-wrapper --results">
+          <div v-if="roasValue >= 800">
+            <div class="roas-result-heading --green">Great work!</div>
+            <div class="roas-result-description">If you're  over 800% ROAS, <br/> you're most likely doing good!</div>
+          </div>
+          <div v-else-if="roasValue >= 400">
+            <div class="roas-result-heading --yellow">Fair</div>
+            <div class="roas-result-description">A ratio over 800% ROAS is a good benchmark. <br/>This campaign could be improved</div>
+          </div>
+          <div v-else>
+            <div class="roas-result-heading --red">Not Good</div>
+            <div class="roas-result-description">A ratio over 800% ROAS is a good benchmark. <br/>
+              This campaign could be improved</div>
+          </div>
+        </div>
+        <div class="switch-mode-wrapper" v-else >
+          <div v-if="activeTab === 'simple'">
+            Calculate Return On Investment (ROI) <br /> using <span @click="switchTab('advance')">ROI Mode</span>
+          </div>
+          <div v-else>
+            Switch back to <span @click="switchTab('simple')">Simple Mode</span>
+          </div>
+        </div>
+      </div>
+      <div class="graph-section-wrapper" id="roas-results">
+        <div class="roas-progress-wrapper">
+          <div
+            :class="['roas-progress-bar', 'col-xs-12', { 'safe': roasValue >= 800, 'warning': roasValue >= 400 && roasValue < 800, 'danger': roasValue < 400 || roasValue === null }]">
+            <div class="progress-wrap">
+              <div class="progress-value-wrapper">
+                <div class="value-wrapper">
+                  <span class="value">
+                    <div class="title"><span class="circle"></span><span class="title-value">ROAS</span></div>{roasValue
+                    ? roasValue: '0%'}
+                  </span><span class="percentage">%</span>
+                </div>
+              </div>
+              <div class="bar">
+                <!-- <div class="target"><span class="expected-revenue">{expectedRevenueText}$</span><small>Target (800%)</small></div> -->
+                <div class="target" :class="{'--safe':roasValue >= 800}"><span class="expected-revenue">800%</span><small>Target</small></div>
+                <div :class="['progress',{'--safe':roasValue >= 800},{'--warning':roasValue > 400 && roasValue < 800},{'--danger':roasValue < 400}]" :style="{ width: (roasValue / 10) + '%' }"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="roas-graph-wrapper">
+          <div class="ib-graph">
+            <div class="ib-graph__left-axis"></div>
+            <div class="ib-graph__horizontal-levels">
+              <div class="ib-graph__level" v-for="level of levels" :key="level +Math.random()">
+                <div class="ib-graph__level-label">{level}</div>
+              </div>
+            </div>
+            <div class="ib-graph__bars">
+              <div class="ib-graph__bar" v-for="(bar,name,i) in bars" :key="`bar-${name}`" v-show="bar.hidden !== true">
+                <div class="ib-graph__bar-label">{bar.label}</div>
+                <div class="ib-graph__bar-progress" :ref="`ib-graph-bar-${name}`"
+                  :style="`height: ${bar.progress}%; --color-solid: ${bar.color}; --color-opacity: ${bar.color2};`">
+                  <div class="ib-graph__bar-value" :style="`background: ${bar.colorTooltip}; bottom: ${ bar.tooltipCords.bottom }px; left: ${ bar.tooltipCords.left }px;`">{bar.value}$</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="roas-save-png-btn" @click="savePng">Save as PNG</div>
+      </div>
+      <div class="refresh-button_wrapper roas-refresh" @click="refresh">
+        {{- partial "icons/refresh.html" -}}
+        <span class="--tooltip">Clear & Start Over</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" integrity="sha512-BNaRQnYJYiPSqHHDb58B0yaPfCu+Wgds8Gp/gU33kqBtgNS4tSPHuGibyoeqMV/TJlSKda6FXzoEyYGjTe+vXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{{- partial "site/trueValueMixin.html" -}}
+<script>
+  Vue.component('inline-input', {
+    mixins: [trueValueMixin],
+
+    props: {
+      value: {
+        type: String,
+        default: '',
+      },
+      background: {
+        type: String,
+        default: 'rgba(0, 0, 0, 0.02)',
+      },
+      padding: {
+        type: String,
+        default: '4px 8px',
+      },
+      margin: {
+        type: String,
+        default: '-4px -8px',
+      },
+      borderRadius: {
+        type: String,
+        default: '4px',
+      },
+      readOnly: {
+        type: Boolean,
+        default: false,
+      },
+      placeholder: {
+        type: String,
+        default: '',
+      },
+    },
+    // created() {
+    //   this.$refs.editable.innerText = this.modelValue;
+    // },
+    data() {
+      return {
+        localValue: '',
+      };
+    },
+    // watch: {
+    //   modelValue: {
+    //     handler: function(newValue) {
+    //       // console.log(newValue, this.localValue);
+    //       console.log({newValue,l:this.localValue},'this')
+    //       if (newValue && newValue !== this.localValue) {
+    //         this.localValue = newValue.replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",");
+    //       }
+    //     },
+    //     immediate: true,
+    //   },
+    // },
+    computed: {
+      calculateMargin() {
+        var newPadding = this.padding.split(' ');
+        var arrayPadding = newPadding.map(function (x) {
+          return '-' + x;
+        });
+        return arrayPadding.join(' ');
+      },
+      getValue() {
+        return this.value ? this.value.toString().substring(0,9).replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",") : null
+      }
+    },
+    methods: {
+      onUpdateValue(evt) {
+        // console.log(this.getValue , 'jii')
+        const newValue = evt.target.innerText.replace(/,/g, '');
+        if(newValue.length > 9){
+          // console.log('hll')
+          this.updateValue(newValue.substring(0, 9));
+          return
+        }
+        const range = document.getSelection().getRangeAt(0);
+        const pos = range.endOffset;
+        this.updateValue(newValue.length > 9 ? newValue.substring(0, 9):newValue);
+        this.$nextTick(() => {
+          const newRange = document.createRange();
+          const selection = window.getSelection();
+          const node = this.$el.childNodes[0];
+          if (node) {
+            newRange.setStart(node, node && pos > node.length ? 0 : pos);
+            newRange.collapse(true);
+            selection.removeAllRanges();
+            selection.addRange(newRange);
+          }
+        });
+      },
+      onkeyDown(event) {
+        if(this.value && this.value.length === 9){
+          event.preventDefault()
+        }
+        const regex = new RegExp(/(^\d*$)|(Backspace|Tab|Delete|ArrowLeft|ArrowRight)/);
+        return !event.key.match(regex) && event.preventDefault();
+      },
+      onTextFocus(e) {
+        e.target.style.color = this.color;
+        e.target.style.background = this.background;
+        e.target.style.padding = this.padding;
+        e.target.style.margin = this.calculateMargin;
+        e.target.style.borderRadius = this.borderRadius;
+      },
+      removeTextFocus(e) {
+        this.$emit('blur', e)
+        e.target.style.background = '';
+        e.target.style.padding = '';
+        e.target.style.margin = '';
+        e.target.style.borderRadius = '';
+      },
+    },
+    template: `
+      <div class="inline-input__wrapper" :contenteditable="!readOnly" @input="onUpdateValue($event)" @keydown='onkeyDown($event)' @focus="onTextFocus" @blur="removeTextFocus" v-html="getValue" @keydown.stop="" :placeholder="placeholder"></div>
+    `
+  })
+  var app = new Vue({
+    el: '#cpm__calculator',
+    data: {
+      activeTab: 'simple',
+      roasValue: null,
+      inlineValue: '1000',
+      isRevenueAvaliable: true,
+      adRevenueValue: null,
+      adSpendValue: null,
+      lastUpdatedField: '',
+      copied: false,
+      expectedRevenueText: null,
+      profitMarginValue: null,
+      roiValue: null,
+      levels: [0, 400, 800, 1200, 1600],
+      bars: {
+        adSpend: {
+          label: 'Ad Spend',
+          value: 200,
+          progress: 13,
+          color: '#FFD2E1',
+          // color2: 'rgba(255, 210, 225, 0.4)',
+          color2: '#FFEDF3',
+          colorTooltip: '#A84969',
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
+          hidden: false,
+        },
+        revenueTarget: {
+          label: 'Revenue Target',
+          value: 1600,
+          progress: 100,
+          color: '#FCDBB2',
+          // color2: 'rgba(252, 219, 178, 0.4)',
+          color2: '#FEF1E0',
+          colorTooltip: '#C27210',
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
+          hidden: false,
+        },
+        adRevenue: {
+          label: 'Ad Revenue',
+          value: 1200,
+          progress: 75,
+          color: '#D6EBE4',
+          // color2: 'rgba(198, 227, 218, 0.4)',
+          color2: '#E8F4F0',
+          colorTooltip: '#58907E',
+          tooltipCords: {
+            left: '50',
+            bottom: '50'
+          },
+          hidden: false,
+        },
+      },
+    },
+    mounted() {
+      this.observeGraphTooltip('adSpend');
+      this.observeGraphTooltip('revenueTarget');
+      this.observeGraphTooltip('adRevenue');
+    },
+    methods: {
+      switchTab(tab) {
+        this.activeTab = tab
+      },
+      copyValue(e, value) {
+        this.copied = true
+        if (value) {
+          navigator.clipboard.writeText(value)
+        }
+      },
+      refresh() {
+        this.adSpendValue = null
+        this.adRevenueValue = null
+        this.roasValue = null
+        this.profitMarginValue = null
+        this.roiValue = null
+        this.activeTab = 'simple'
+        this.isRevenueAvaliable = true
+        this.expectedRevenueText = null
+      },
+      calculateROAS(e, fieldName) {
+        if(e.length >= 9){
+          e = e.substring(0,9)
+        }
+        // console.log(e)
+        // debugger
+        if ((!this.roasValue && !this.adRevenueValue || !this.adRevenueValue && !this.adSpendValue || !this.roasValue && !this.adSpendValue) && (!this.roiValue && !this.profitMarginValue || !this.profitMarginValue && !this.adSpendValue || !this.roiValue && !this.adSpendValue)) {
+          return // do not calculate anything
+        }
+        if (this.lastUpdatedField) {
+          // update lastUpdatedField
+          this.calculateOtherField(this.lastUpdatedField)
+        } else {
+          if (fieldName === 'roas') {
+            // Not allowed
+            if (!this.adRevenueValue) {
+              this.calculateOtherField('adRevenue')
+            }
+            else if (!this.adSpendValue) {
+              this.calculateOtherField('adSpend')
+            } else {
+              this.calculateOtherField('adSpend')
+            }
+          } else {
+            if ((this.adSpendValue && this.adRevenueValue) && (fieldName !== 'profitMargin' && fieldName !== 'roi')) {
+              // update ROAS
+              this.calculateOtherField('roas')
+            }
+            else if (this.adSpendValue && this.roasValue && fieldName !== 'adRevenue' && (fieldName !== 'profitMargin' && fieldName !== 'roi')) {
+              // update adRevenue
+              this.calculateOtherField('adRevenue')
+            }
+            else if (this.adRevenueValue && this.roasValue && fieldName !== 'adSpend' && (fieldName !== 'profitMargin' && fieldName !== 'roi')) {
+              // update adSpendroasValue
+              this.calculateOtherField('adSpend')
+            }
+            else if (this.roiValue && this.adSpendValue && fieldName !== 'profitMargin') {
+              // update adSpendroasValue
+              this.calculateOtherField('profitMargin')
+            }
+            else if (this.adSpendValue && this.profitMarginValue && fieldName !== 'roi') {
+              // update adSpendroasValue
+              this.calculateOtherField('roi')
+            }
+          }
+        }
+      },
+      calculateExpectedValues() {
+        this.expectedRevenueText = ((this.adSpendValue * 800) / 100).toFixed(2)
+      },
+      calculateOtherField(fieldName) {
+        switch (fieldName) {
+          case 'roas':
+            if (this.isRevenueAvaliable) {
+              this.roasValue = ((this.adRevenueValue / this.adSpendValue) * 100).toFixed(2);
+              if(this.roasValue === 'Infinity' || this.roasValue === 'NaN'){
+              this.roasValue = '0.00'
+            }
+            } else {
+              this.roasValue = '800.00'
+            }
+            this.calculateExpectedValues();
+            break;
+          case 'adRevenue':
+            this.calculateExpectedValues();
+            if (this.isRevenueAvaliable) {
+              this.adRevenueValue = (this.adSpendValue * (this.roasValue / 100)).toFixed(0);
+              if(this.adRevenueValue === 'Infinity' || this.adRevenueValue === 'NaN'){
+              this.adRevenueValue = '0'
+            }
+            } else {
+              this.adRevenueValue = this.expectedRevenueText
+            }
+            break;
+          case 'adSpend':
+            this.calculateExpectedValues();
+            this.adSpendValue = ((this.adRevenueValue / this.roasValue) * 100).toFixed(0);
+            if(this.adSpendValue === 'Infinity' || this.adSpendValue === 'NaN' ){
+              this.adSpendValue = '0'
+            }
+            break;
+          case 'profitMargin':
+            let adSpend = +this.adSpendValue
+            let roi = +this.roiValue
+            this.profitMarginValue = (adSpend + roi) + '';
+            break;
+          case 'roi':
+            let adSpend2 = +this.adSpendValue
+            let profitMargin = +this.profitMarginValue
+            this.roiValue = (adSpend2 - profitMargin) + '';
+            break;
+        }
+        this.lastUpdatedField = fieldName;
+      },
+      toggleRevenuAvaliable(e) {
+        if (!this.isRevenueAvaliable) {
+          this.roasValue = '800.00';
+          if (this.adSpendValue) {
+            this.calculateOtherField('adRevenue')
+          } else {
+            this.adSpendValue = '200'
+            this.calculateOtherField('adRevenue')
+          }
+          this.bars.adRevenue.hidden = true;
+        } else {
+          this.calculateOtherField('roas')
+          this.bars[adRevenue].hidden = false;
+          // this.adRevenueValue = this.expectedRevenueText;
+        }
+      },
+      blur() {
+        this.lastUpdatedField = ''
+      },
+      updateGraph() {
+        let effectiveAdSpend = this.adSpendValue ? parseInt(this.adSpendValue) : 0;
+        let effectiveAdRevenue = this.adRevenueValue ? parseInt(this.adRevenueValue) : 0;
+        let effectiveAdRevenueTarget = effectiveAdSpend * 8;
+        let maxRange = Math.max(effectiveAdRevenue, effectiveAdRevenueTarget);
+        let graphRange = Math.ceil(maxRange / 100) * 100; // in multiple of 100.
+        let graphInterval = graphRange / 4;
+        this.bars.adSpend = {
+          ...this.bars.adSpend,
+          value: effectiveAdSpend,
+          progress: (effectiveAdSpend/graphRange) * 100
+        }
+        this.bars.revenueTarget = {
+          ...this.bars.revenueTarget,
+          value: effectiveAdRevenueTarget,
+          progress: (effectiveAdRevenueTarget/graphRange) * 100
+        }
+        this.bars.adRevenue = {
+          ...this.bars.adRevenue,
+          value: effectiveAdRevenue,
+          progress: (effectiveAdRevenue/graphRange) * 100
+        }
+        this.levels = [
+          0,
+          (graphInterval * 1).toString().substring(0,5) * 1,
+          (graphInterval * 2).toString().substring(0,5) * 1,
+          (graphInterval * 3).toString().substring(0,5) * 1,
+          (graphInterval * 4).toString().substring(0,5) * 1
+        ]
+      },
+      observeGraphTooltip(barIndex) {
+        let containerEl = this.$refs[`ib-graph-bar-${barIndex}`][0];
+        containerEl.addEventListener('mouseover', () => {
+          containerEl.addEventListener('mousemove', (e) => {
+            let rects = containerEl.getBoundingClientRect();
+            let left = e.clientX - rects.x - 8;
+            let bottom = rects.bottom - e.clientY + 8;
+            this.bars[barIndex].tooltipCords = {bottom: bottom, left: left};
+          });
+          containerEl.addEventListener('mouseleave', () => {
+            containerEl.removeEventListener('mousemove', () => {});
+			      containerEl.removeEventListener('mouseleave', () => {});
+          });
+        });
+      },
+      savePng() {
+        var preview = document.getElementById('roas-results');
+        html2canvas(preview)
+        .then(function(canvas){
+          var link = document.createElement('a');
+            link.download = 'roas-results.png';
+            link.href = canvas.toDataURL();
+            link.click();
+        })
+      }
+    },
+    watch: {
+      adSpendValue() {
+        if (this.activeTab === 'advance' && this.profitMarginValue && this.adRevenueValue) {
+          this.calculateOtherField('roi')
+        }
+        else if (this.activeTab === 'advance' && this.roi && this.adRevenueValue) {
+          this.calculateOtherField('profitMargin')
+        }
+        this.updateGraph();
+      },
+    },
+    computed: {
+      compVal: {
+        get() {
+          if (this.isRevenueAvaliable) {
+            return this.adRevenueValue
+          } else {
+            return this.expectedRevenueText
+          }
+        },
+        set(val) {
+          if (this.isRevenueAvaliable) {
+            this.adRevenueValue = val
+          } else {
+            this.expectedRevenueText = val
+          }
+          this.updateGraph();
+        }
+      },
+      // getDataValue() {
+      //   let data = []
+      //   console
+      //   if (this.adRevenueValue) {
+      //     data.push(this.adRevenueValue * 1)
+      //   }
+      //   if (this.expectedRevenueText) {
+      //     data.push(this.expectedRevenueText * 1)
+      //   }
+      //   if (this.adRevenueValue) {
+      //     data.push(this.adRevenueValue * 1)
+      //   }
+      //   if (data.length < 1) {
+      //     return [200, 1600, 800]
+      //   } else {
+      //     return data
+      //   }
+      // }
+    },
+    // To make sure there's no conflict with Hugo templating
+    delimiters: ['{', '}'],
+  });
+</script>
