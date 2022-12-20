@@ -1,0 +1,19 @@
+{{- define "main" -}}
+<div id="engagement-rate">
+  <section class="container mobile-adjusted page-top" id="engagement-header">
+    <h1>{{- .Params.title -}}</h1>
+    <p>{{- .Params.subtitle | markdownify -}}</p>
+  </section>
+  <section id="engagement-calculator" class="container mobile-adjusted">
+    <h1>{{- .Params.title -}}</h1>
+  </section>
+
+  {{- partial "site/ugc-global.html" . -}}
+</div>
+
+<script>
+  var app = new Vue({
+    el: '#engagement-rate-chrome-extension',
+  });
+</script>
+{{- end -}}
