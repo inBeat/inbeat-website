@@ -1,11 +1,11 @@
 ---
-title: Instagram Engagement Rate Calculator | inBeat
+title: Engagement Rate Chrome Extension | inBeat
 description: >-
-  Calculate your Instagram influencer’s social engagement by using our free engagement rate calculator online. It’s fast, efficient and doesn’t require your email.
-slug: engagement-rate-calculator-chrome-extension
+  Calculate Engagement Rate directly on Instagram, add profiles to a list & export it to a csv file!
+slug: engagement-rate-chrome-extension
 layout: engagement-rate-chrome-extension
-title: Instagram Engagement Rate Calculator
-subtitle: "Analyze Instagram influencers: follower count,<br> engagement rate, popular content and more."
+title: Engagement Rate Chrome Extension
+subtitle: "Calculate Engagement Rate directly on Instagram, <br> add profiles to a list & export it to a csv file!"
 platform: instagram
 whatwedo:
   title: Creator Studio
