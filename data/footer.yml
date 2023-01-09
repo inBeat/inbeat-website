@@ -36,8 +36,8 @@
       link: free-toolkit
       external: false
     - anchor: AdCollection
-      link: categories/podcasts
-      external: false
+      link: 'https://www.adcollection.co/'
+      external: true
 
   col3:
     # - anchor: Instagram & TikTok influencer database

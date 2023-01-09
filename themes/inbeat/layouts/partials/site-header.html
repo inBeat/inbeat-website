@@ -91,7 +91,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{- $.Site.BaseURL -}}{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>
@@ -174,7 +174,7 @@
 							</li>
 							{{- range .pages -}}
 							<li>
-								<a href="{{- $.Site.BaseURL -}}{{- .link -}}">{{ .name }}</a>
+								<a href="{{- .link -}}">{{ .name }}</a>
 								<p>{{ .description }}</p>
 							</li>
 							{{ end }}
@@ -182,7 +182,7 @@
 						{{- end -}}
 					</div>
 				</li>
-				<li><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a></li>
+				<li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
 				<li class="dropdown-item">
 					<div class="dropdown">
 						<a>Resources</a>
@@ -201,7 +201,7 @@
 							</li>
 							{{- range .pages -}}
 							<li>
-								<a href="{{- $.Site.BaseURL -}}{{- .link -}}">{{ .name }}</a>
+								<a href="{{- .link -}}">{{ .name }}</a>
 								<p>{{ .description }}</p>
 							</li>
 							{{ end }}
@@ -209,7 +209,7 @@
 						{{- end -}}
 					</div>
 				</li>
-				<li><a href="{{- $.Site.BaseURL -}}/ugc-studio" title="UGC Studio">UGC Studio</a></li>
+				<li><a href="{{- $.Site.BaseURL -}}ugc-studio" title="UGC Studio">UGC Studio</a></li>
 			</ul>
 
 			<div class="cta">
