@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Malaysia In 2022
+title: Top 10 Lifestyle Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #holiday #sudio.
+  Find top lifestyle Instagram influencers in Malaysia in 2023. Most popular hashtags: #ootd #holiday #sudio.
 platform: Instagram
 hits: 111
 text_top: Discover the best Instagram influencers on inBeat.

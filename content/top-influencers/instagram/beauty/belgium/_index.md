@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Belgium In 2022
+title: Top 10 Beauty Instagram Influencers In Belgium in 2023
 description: >-
-  Find top beauty Instagram influencers in Belgium in 2022. Most popular hashtags: #fashionblogger #ootd #outfitinspiration #fashion.
+  Find top beauty Instagram influencers in Belgium in 2023. Most popular hashtags: #fashionblogger #ootd #outfitinspiration #fashion.
 platform: Instagram
 hits: 176
 text_top: Identify the top-rated Instagram accounts on inBeat.

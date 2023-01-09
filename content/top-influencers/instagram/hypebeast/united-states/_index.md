@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In United States In 2022
+title: Top 10 Hypebeast Instagram Influencers In United States in 2023
 description: >-
-  Find top hypebeast Instagram influencers in United States in 2022. Most popular hashtags: #hypebeast #kenyanmemes #gainwithwestandmugweru.
+  Find top hypebeast Instagram influencers in United States in 2023. Most popular hashtags: #hypebeast #kenyanmemes #gainwithwestandmugweru.
 platform: Instagram
 hits: 899
 text_top: See the top-rated Instagram profiles on inBeat.

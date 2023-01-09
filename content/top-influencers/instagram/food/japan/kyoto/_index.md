@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Kyoto In 2022
+title: Top 10 Food Instagram Influencers In Kyoto in 2023
 description: >-
-  Find top food Instagram influencers in Kyoto in 2022. Most popular hashtags: #kyoto #tokyo #cafe #japan.
+  Find top food Instagram influencers in Kyoto in 2023. Most popular hashtags: #kyoto #tokyo #cafe #japan.
 platform: Instagram
 hits: 35
 text_top: See the best Instagram profiles on inBeat.

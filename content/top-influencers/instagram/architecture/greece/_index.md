@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Greece In 2022
+title: Top 10 Architecture Instagram Influencers In Greece in 2023
 description: >-
-  Find top architecture Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #architecture #sea.
+  Find top architecture Instagram influencers in Greece in 2023. Most popular hashtags: #greece #summer #architecture #sea.
 platform: Instagram
 hits: 93
 text_top: Analyze the top-rated Instagram accounts on inBeat.

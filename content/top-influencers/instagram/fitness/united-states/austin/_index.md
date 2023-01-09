@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Austin In 2022
+title: Top 10 Fitness Instagram Influencers In Austin in 2023
 description: >-
-  Find top fitness Instagram influencers in Austin in 2022. Most popular hashtags: #austin #fitness #atx #austintexas.
+  Find top fitness Instagram influencers in Austin in 2023. Most popular hashtags: #austin #fitness #atx #austintexas.
 platform: Instagram
 hits: 274
 text_top: Analyze the best Instagram profiles on inBeat.

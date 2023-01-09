@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Milan In 2022
+title: Top 10 Lifestyle TikTok Influencers In Milan in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Milan in 2022. Most popular hashtags: #milano #perte #lifestyle #viral.
+  Find top lifestyle TikTok influencers in Milan in 2023. Most popular hashtags: #milano #perte #lifestyle #viral.
 platform: TikTok
 hits: 9
 text_top: Analyze the best TikTok accounts on inBeat.
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
   - username: "zimmi_te"
     fullname: >-
       zimmi_te
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
 ---

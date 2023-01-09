@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In New York In 2022
+title: Top 10 Hypebeast TikTok Influencers In New York in 2023
 description: >-
-  Find top hypebeast TikTok influencers in New York in 2022. Most popular hashtags: #foryou #fyp #hypebeast #foryoupage.
+  Find top hypebeast TikTok influencers in New York in 2023. Most popular hashtags: #foryou #fyp #hypebeast #foryoupage.
 platform: TikTok
 hits: 14
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Italy In 2022
+title: Top 10 Models Instagram Influencers In Italy in 2023
 description: >-
-  Find top models Instagram influencers in Italy in 2022. Most popular hashtags: #fashion #model #fashionstyle.
+  Find top models Instagram influencers in Italy in 2023. Most popular hashtags: #fashion #model #fashionstyle.
 platform: Instagram
 hits: 1699
 text_top: See the top-rated Instagram profiles on inBeat.

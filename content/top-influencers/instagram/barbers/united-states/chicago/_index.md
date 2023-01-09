@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Chicago In 2022
+title: Top 10 Barbers Instagram Influencers In Chicago in 2023
 description: >-
-  Find top barbers Instagram influencers in Chicago in 2022. Most popular hashtags: #barber #chicagobarber #barbershopconnect.
+  Find top barbers Instagram influencers in Chicago in 2023. Most popular hashtags: #barber #chicagobarber #barbershopconnect.
 platform: Instagram
 hits: 47
 text_top: See the most popular Instagram profiles on inBeat.

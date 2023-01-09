@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Brazil In 2022
+title: Top 10 Music Instagram Influencers In Brazil in 2023
 description: >-
-  Find top music Instagram influencers in Brazil in 2022. Most popular hashtags: #video #like4likes #longhairmanstyle.
+  Find top music Instagram influencers in Brazil in 2023. Most popular hashtags: #video #like4likes #longhairmanstyle.
 platform: Instagram
 hits: 4262
 text_top: Identify the most popular Instagram profiles on inBeat.

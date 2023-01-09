@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Boston In 2022
+title: Top 10 Fashion TikTok Influencers In Boston in 2023
 description: >-
-  Find top fashion TikTok influencers in Boston in 2022. Most popular hashtags: #fashion #fyp #boston #foryou.
+  Find top fashion TikTok influencers in Boston in 2023. Most popular hashtags: #fashion #fyp #boston #foryou.
 platform: TikTok
 hits: 35
 text_top: Analyze the most popular TikTok influencers on inBeat.

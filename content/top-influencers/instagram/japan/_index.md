@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Japan In 2022
+title: Top 10 Instagram Influencers In Japan in 2023
 description: >-
-  Find top Instagram influencers in Japan in 2022. Most popular hashtags: #happy #love #mallu.
+  Find top Instagram influencers in Japan in 2023. Most popular hashtags: #happy #love #mallu.
 platform: Instagram
 hits: 11641
 text_top: Discover the top-rated Instagram influencers on inBeat.

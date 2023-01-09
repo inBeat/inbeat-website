@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In South Korea In 2022
+title: Top 10 Skincare Instagram Influencers In South Korea in 2023
 description: >-
-  Find top skincare Instagram influencers in South Korea in 2022. Most popular hashtags: #skincare #kbeauty #makeup #ootd.
+  Find top skincare Instagram influencers in South Korea in 2023. Most popular hashtags: #skincare #kbeauty #makeup #ootd.
 platform: Instagram
 hits: 45
 text_top: Identify the best Instagram influencers on inBeat.

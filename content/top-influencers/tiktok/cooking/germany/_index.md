@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Germany In 2022
+title: Top 10 Cooking TikTok Influencers In Germany in 2023
 description: >-
-  Find top cooking TikTok influencers in Germany in 2022. Most popular hashtags: #foryou #cooking #lecker #yummy.
+  Find top cooking TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #cooking #lecker #yummy.
 platform: TikTok
 hits: 72
 text_top: Analyze the best TikTok accounts on inBeat.

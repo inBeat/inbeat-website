@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In 2022
+title: Top 10 Hypebeast TikTok Influencers in 2023
 description: >-
-  Find top hypebeast TikTok influencers in 2022. Most popular hashtags: #fyp #hypebeast #sneakers #sneakerhead.
+  Find top hypebeast TikTok influencers in 2023. Most popular hashtags: #fyp #hypebeast #sneakers #sneakerhead.
 platform: TikTok
 hits: 375
 text_top: See the top-rated TikTok profiles on inBeat.

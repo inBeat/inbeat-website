@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Los Angeles In 2022
+title: Top 10 Models Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top models Instagram influencers in Los Angeles in 2022. Most popular hashtags: #love #halloween #model.
+  Find top models Instagram influencers in Los Angeles in 2023. Most popular hashtags: #love #halloween #model.
 platform: Instagram
 hits: 976
 text_top: Discover the top-rated Instagram influencers on inBeat.

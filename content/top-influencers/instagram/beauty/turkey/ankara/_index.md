@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Ankara In 2022
+title: Top 10 Beauty Instagram Influencers In Ankara in 2023
 description: >-
-  Find top beauty Instagram influencers in Ankara in 2022. Most popular hashtags: #turkey #ankara #beauty.
+  Find top beauty Instagram influencers in Ankara in 2023. Most popular hashtags: #turkey #ankara #beauty.
 platform: Instagram
 hits: 52
 text_top: Identify the top-rated Instagram accounts on inBeat.

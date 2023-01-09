@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United States In 2022
+title: Top 10 Cooking Instagram Influencers In United States in 2023
 description: >-
-  Find top cooking Instagram influencers in United States in 2022. Most popular hashtags: #photography #girl #outdoors.
+  Find top cooking Instagram influencers in United States in 2023. Most popular hashtags: #photography #girl #outdoors.
 platform: Instagram
 hits: 8161
 text_top: See the top-rated Instagram profiles on inBeat.
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.072255
     id: ck8sxovdei4os0j78xrt9j44s
     verified: false
-    hashtags: "#siswimsearch2022, #dallas, #model, #photography"
+    hashtags: "#siswimsearch2023, #dallas, #model, #photography"
   - username: "mrslonnn"
     fullname: >-
       Shalonda H.

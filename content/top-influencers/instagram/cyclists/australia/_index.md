@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Australia In 2022
+title: Top 10 Cyclists Instagram Influencers In Australia in 2023
 description: >-
-  Find top cyclists Instagram influencers in Australia in 2022. Most popular hashtags: #offseason #cycling #foodie.
+  Find top cyclists Instagram influencers in Australia in 2023. Most popular hashtags: #offseason #cycling #foodie.
 platform: Instagram
 hits: 34
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Jason Roberts
     bio: >-
-      Chef | Cyclist | Author USA Chef Cycle 2022 #NoKidHungry ♡ life + people ✨ @gdayneighbour 🚴🏼‍♂️ @novebikes
+      Chef | Cyclist | Author USA Chef Cycle 2023 #NoKidHungry ♡ life + people ✨ @gdayneighbour 🚴🏼‍♂️ @novebikes
     location: "Australia"
     followers: 65889
     engagement: 50

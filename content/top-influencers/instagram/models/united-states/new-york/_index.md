@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In New York In 2022
+title: Top 10 Models Instagram Influencers In New York in 2023
 description: >-
-  Find top models Instagram influencers in New York in 2022. Most popular hashtags: #model #malemodel #quarantine.
+  Find top models Instagram influencers in New York in 2023. Most popular hashtags: #model #malemodel #quarantine.
 platform: Instagram
 hits: 964
 text_top: Analyze the most popular Instagram influencers on inBeat.

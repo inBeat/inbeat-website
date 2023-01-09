@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In India In 2022
+title: Top 10 Models TikTok Influencers In India in 2023
 description: >-
-  Find top models TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #duet #tiktok.
+  Find top models TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #duet #tiktok.
 platform: TikTok
 hits: 826
 text_top: Discover the most popular TikTok accounts on inBeat.

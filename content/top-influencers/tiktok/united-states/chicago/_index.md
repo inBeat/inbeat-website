@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Chicago In 2022
+title: Top 10 TikTok Influencers In Chicago in 2023
 description: >-
-  Find top TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #foryou #duet.
+  Find top TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
 hits: 1158
 text_top: Identify the most popular TikTok accounts on inBeat.

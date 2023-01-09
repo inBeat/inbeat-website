@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Finland In 2022
+title: Top 10 Architecture Instagram Influencers In Finland in 2023
 description: >-
-  Find top architecture Instagram influencers in Finland in 2022. Most popular hashtags: #architecture #helsinki #archilovers #finland.
+  Find top architecture Instagram influencers in Finland in 2023. Most popular hashtags: #architecture #helsinki #archilovers #finland.
 platform: Instagram
 hits: 21
 text_top: Analyze the best Instagram accounts on inBeat.

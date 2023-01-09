@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Chile In 2022
+title: Top 10 Comedians Instagram Influencers In Chile in 2023
 description: >-
-  Find top comedians Instagram influencers in Chile in 2022. Most popular hashtags: #humor #comedia #apruebo.
+  Find top comedians Instagram influencers in Chile in 2023. Most popular hashtags: #humor #comedia #apruebo.
 platform: Instagram
 hits: 41
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Rome In 2022
+title: Top 10 Health Instagram Influencers In Rome in 2023
 description: >-
-  Find top health Instagram influencers in Rome in 2022. Most popular hashtags: #italy #beauty #rome #health.
+  Find top health Instagram influencers in Rome in 2023. Most popular hashtags: #italy #beauty #rome #health.
 platform: Instagram
 hits: 33
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Las Vegas In 2022
+title: Top 10 Photographers TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top photographers TikTok influencers in Las Vegas in 2022. Most popular hashtags: #photographer #fyp #lasvegas #foryou.
+  Find top photographers TikTok influencers in Las Vegas in 2023. Most popular hashtags: #photographer #fyp #lasvegas #foryou.
 platform: TikTok
 hits: 16
 text_top: See the most popular TikTok profiles on inBeat.

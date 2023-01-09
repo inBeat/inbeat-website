@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Houston In 2022
+title: Top 10 Vegan TikTok Influencers In Houston in 2023
 description: >-
-  Find top vegan TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #houston #vegan #foryou.
+  Find top vegan TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #vegan #foryou.
 platform: TikTok
 hits: 7
 text_top: Analyze the top-rated TikTok influencers on inBeat.

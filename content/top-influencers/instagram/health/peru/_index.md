@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Peru In 2022
+title: Top 10 Health Instagram Influencers In Peru in 2023
 description: >-
-  Find top health Instagram influencers in Peru in 2022. Most popular hashtags: #motivation #love #peru.
+  Find top health Instagram influencers in Peru in 2023. Most popular hashtags: #motivation #love #peru.
 platform: Instagram
 hits: 54
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Milan In 2022
+title: Top 10 Skincare TikTok Influencers In Milan in 2023
 description: >-
-  Find top skincare TikTok influencers in Milan in 2022. Most popular hashtags: #skincare #makeup #perte #beauty.
+  Find top skincare TikTok influencers in Milan in 2023. Most popular hashtags: #skincare #makeup #perte #beauty.
 platform: TikTok
 hits: 5
 text_top: Discover the most popular TikTok influencers on inBeat.

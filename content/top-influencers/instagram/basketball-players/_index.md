@@ -1,7 +1,7 @@
 ---
-title: Top 10 Basketball Players Instagram Influencers In 2022
+title: Top 10 Basketball Players Instagram Influencers in 2023
 description: >-
-  Find top basketball players Instagram influencers in 2022. Most popular hashtags: #basketball #repost #bball.
+  Find top basketball players Instagram influencers in 2023. Most popular hashtags: #basketball #repost #bball.
 platform: Instagram
 hits: 521
 text_top: Analyze the best Instagram influencers on inBeat.

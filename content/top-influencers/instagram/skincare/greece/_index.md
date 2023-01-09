@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Greece In 2022
+title: Top 10 Skincare Instagram Influencers In Greece in 2023
 description: >-
-  Find top skincare Instagram influencers in Greece in 2022. Most popular hashtags: #skincare #giveaway #giveawaygreece #makeup.
+  Find top skincare Instagram influencers in Greece in 2023. Most popular hashtags: #skincare #giveaway #giveawaygreece #makeup.
 platform: Instagram
 hits: 75
 text_top: Identify the top-rated Instagram profiles on inBeat.

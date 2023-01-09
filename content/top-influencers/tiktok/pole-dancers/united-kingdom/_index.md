@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Pole Dancers TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top pole dancers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryoupage #foryou #poledancer.
+  Find top pole dancers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #foryou #poledancer.
 platform: TikTok
 hits: 9
 text_top: Identify the most popular TikTok influencers on inBeat.

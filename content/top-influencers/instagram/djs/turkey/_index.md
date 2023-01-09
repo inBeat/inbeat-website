@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Turkey In 2022
+title: Top 10 Djs Instagram Influencers In Turkey in 2023
 description: >-
-  Find top djs Instagram influencers in Turkey in 2022. Most popular hashtags: #dj #housemusic #tb #djlife.
+  Find top djs Instagram influencers in Turkey in 2023. Most popular hashtags: #dj #housemusic #tb #djlife.
 platform: Instagram
 hits: 15
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       chota singga
     bio: >-
-      Singga Bolda Veere @sandeep_shikar_wala admin page Gurdaspuria jatt Punjabi Artist🎤 Contact 9592022068 for paid DM For any enquiry
+      Singga Bolda Veere @sandeep_shikar_wala admin page Gurdaspuria jatt Punjabi Artist🎤 Contact 9592023068 for paid DM For any enquiry
     location: "Turkey"
     followers: 17106
     engagement: 302

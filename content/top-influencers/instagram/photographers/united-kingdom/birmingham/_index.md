@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Birmingham In 2022
+title: Top 10 Photographers Instagram Influencers In Birmingham in 2023
 description: >-
-  Find top photographers Instagram influencers in Birmingham in 2022. Most popular hashtags: #birmingham #photography #travel #ig.
+  Find top photographers Instagram influencers in Birmingham in 2023. Most popular hashtags: #birmingham #photography #travel #ig.
 platform: Instagram
 hits: 24
 text_top: Identify the most popular Instagram accounts on inBeat.
@@ -49,7 +49,7 @@ profiles:
     bio: >-
       Photographer. Daydreamer. Enjoy life ✌️ 📍Birmingham, UK DM me, let’s go shoot together! Prints are available below.
     location: "United Kingdom"
-    followers: 2022
+    followers: 2023
     engagement: 2292
     commentsToLikes: 0.071547
     id: ckap6quk2h1jm0i78ov9j0iv6

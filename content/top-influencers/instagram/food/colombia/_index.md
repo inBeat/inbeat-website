@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Colombia In 2022
+title: Top 10 Food Instagram Influencers In Colombia in 2023
 description: >-
-  Find top food Instagram influencers in Colombia in 2022. Most popular hashtags: #publicidad #foodporn #colombia.
+  Find top food Instagram influencers in Colombia in 2023. Most popular hashtags: #publicidad #foodporn #colombia.
 platform: Instagram
 hits: 109
 text_top: Discover the top-rated Instagram influencers on inBeat.

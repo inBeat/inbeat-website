@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Germany In 2022
+title: Top 10 Stylists Instagram Influencers In Germany in 2023
 description: >-
-  Find top stylists Instagram influencers in Germany in 2022. Most popular hashtags: #ootd #streetstyle #fashionblogger.
+  Find top stylists Instagram influencers in Germany in 2023. Most popular hashtags: #ootd #streetstyle #fashionblogger.
 platform: Instagram
 hits: 421
 text_top: Identify the best Instagram profiles on inBeat.

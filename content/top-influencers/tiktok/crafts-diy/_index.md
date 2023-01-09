@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crafts And Diy TikTok Influencers In 2022
+title: Top 10 Crafts And Diy TikTok Influencers in 2023
 description: >-
-  Find top crafts and diy TikTok influencers in 2022. Most popular hashtags: #diy #fyp #crafts #craft.
+  Find top crafts and diy TikTok influencers in 2023. Most popular hashtags: #diy #fyp #crafts #craft.
 platform: TikTok
 hits: 39
 text_top: Identify the most popular TikTok accounts on inBeat.

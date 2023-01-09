@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Indonesia In 2022
+title: Top 10 Illustrators Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top illustrators Instagram influencers in Indonesia in 2022. Most popular hashtags: #art #artwork #illustration #drawing.
+  Find top illustrators Instagram influencers in Indonesia in 2023. Most popular hashtags: #art #artwork #illustration #drawing.
 platform: Instagram
 hits: 100
 text_top: Analyze the best Instagram accounts on inBeat.
@@ -39,7 +39,7 @@ profiles:
     location: "Indonesia"
     followers: 145069
     engagement: 166
-    commentsToLikes: 0.020228
+    commentsToLikes: 0.020238
     id: ck9wfjp9ap4qz0j78ptojspeh
     verified: false
     hashtags: "#indonesia, #hip500, #tiktokindo, #muserid"

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In France In 2022
+title: Top 10 Mma Fighters Instagram Influencers In France in 2023
 description: >-
-  Find top mma fighters Instagram influencers in France in 2022. Most popular hashtags: #mma #mmafighter #fight #fighter.
+  Find top mma fighters Instagram influencers in France in 2023. Most popular hashtags: #mma #mmafighter #fight #fighter.
 platform: Instagram
 hits: 11
 text_top: Discover the top-rated Instagram influencers on inBeat.
@@ -87,7 +87,7 @@ profiles:
     location: "France"
     followers: 6505
     engagement: 652
-    commentsToLikes: 0.020221
+    commentsToLikes: 0.020231
     id: ck5cad62ud7fn0i11j2r0fwtj
     verified: false
     hashtags: "#hemtopteam, #ebd8, #roadtothebelt"

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In France In 2022
+title: Top 10 Models Instagram Influencers In France in 2023
 description: >-
-  Find top models Instagram influencers in France in 2022. Most popular hashtags: #fashion #paris #france.
+  Find top models Instagram influencers in France in 2023. Most popular hashtags: #fashion #paris #france.
 platform: Instagram
 hits: 2000
 text_top: Identify the top-rated Instagram influencers on inBeat.

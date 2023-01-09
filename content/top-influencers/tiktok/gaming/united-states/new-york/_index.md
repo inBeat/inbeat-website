@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In New York In 2022
+title: Top 10 Gaming TikTok Influencers In New York in 2023
 description: >-
-  Find top gaming TikTok influencers in New York in 2022. Most popular hashtags: #fyp #foryou #gaming #newyork.
+  Find top gaming TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #gaming #newyork.
 platform: TikTok
 hits: 43
 text_top: Discover the most popular TikTok profiles on inBeat.

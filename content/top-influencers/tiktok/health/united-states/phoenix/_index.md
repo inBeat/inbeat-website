@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Phoenix In 2022
+title: Top 10 Health TikTok Influencers In Phoenix in 2023
 description: >-
-  Find top health TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #arizona #duet #foryou.
+  Find top health TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #arizona #duet #foryou.
 platform: TikTok
 hits: 9
 text_top: See the most popular TikTok profiles on inBeat.

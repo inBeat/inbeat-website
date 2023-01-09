@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In France In 2022
+title: Top 10 Nutrition TikTok Influencers In France in 2023
 description: >-
-  Find top nutrition TikTok influencers in France in 2022. Most popular hashtags: #nutrition #pourtoi #fitness #sport.
+  Find top nutrition TikTok influencers in France in 2023. Most popular hashtags: #nutrition #pourtoi #fitness #sport.
 platform: TikTok
 hits: 11
 text_top: Identify the top-rated TikTok profiles on inBeat.

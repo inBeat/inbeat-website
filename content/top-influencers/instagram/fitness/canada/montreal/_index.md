@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Montreal In 2022
+title: Top 10 Fitness Instagram Influencers In Montreal in 2023
 description: >-
-  Find top fitness Instagram influencers in Montreal in 2022. Most popular hashtags: #fitness #montreal #canada #fitnessmotivation.
+  Find top fitness Instagram influencers in Montreal in 2023. Most popular hashtags: #fitness #montreal #canada #fitnessmotivation.
 platform: Instagram
 hits: 64
 text_top: Identify the best Instagram accounts on inBeat.

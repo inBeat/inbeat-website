@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Los Angeles In 2022
+title: Top 10 Fitness Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top fitness Instagram influencers in Los Angeles in 2022. Most popular hashtags: #fitness #fitnessmotivation #losangeles #artist.
+  Find top fitness Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #fitnessmotivation #losangeles #artist.
 platform: Instagram
 hits: 649
 text_top: Identify the most popular Instagram influencers on inBeat.

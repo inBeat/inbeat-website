@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Chile In 2022
+title: Top 10 Bakers Instagram Influencers In Chile in 2023
 description: >-
-  Find top bakers Instagram influencers in Chile in 2022. Most popular hashtags: #chile #happy #picoftheday #yamaha.
+  Find top bakers Instagram influencers in Chile in 2023. Most popular hashtags: #chile #happy #picoftheday #yamaha.
 platform: Instagram
 hits: 9
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Chicago In 2022
+title: Top 10 Bloggers TikTok Influencers In Chicago in 2023
 description: >-
-  Find top bloggers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #momsoftiktok #foryoupage #blogger.
+  Find top bloggers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #momsoftiktok #foryoupage #blogger.
 platform: TikTok
 hits: 5
 text_top: Analyze the top-rated TikTok influencers on inBeat.

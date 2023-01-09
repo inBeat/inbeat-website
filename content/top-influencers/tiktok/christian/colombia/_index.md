@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Colombia In 2022
+title: Top 10 Christian TikTok Influencers In Colombia in 2023
 description: >-
-  Find top christian TikTok influencers in Colombia in 2022. Most popular hashtags: #christiangirl #jesus #jovenescristianos #cristianos.
+  Find top christian TikTok influencers in Colombia in 2023. Most popular hashtags: #christiangirl #jesus #jovenescristianos #cristianos.
 platform: TikTok
 hits: 29
 text_top: See the best TikTok accounts on inBeat.

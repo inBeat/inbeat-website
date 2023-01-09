@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Venezuela In 2022
+title: Top 10 Beauty Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top beauty Instagram influencers in Venezuela in 2022. Most popular hashtags: #makeup #makeupartist #beauty #halloween.
+  Find top beauty Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #makeupartist #beauty #halloween.
 platform: Instagram
 hits: 113
 text_top: Discover the most popular Instagram profiles on inBeat.
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.034458
     id: ck5q62a96vmbq0i11siwz24d9
     verified: false
-    hashtags: "#calendario, #islademargarita, #calendario2022, #bikini"
+    hashtags: "#calendario, #islademargarita, #calendario2023, #bikini"
   - username: "dannasm"
     fullname: >-
       Danna Solórzano

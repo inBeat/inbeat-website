@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Austin In 2022
+title: Top 10 Fitness TikTok Influencers In Austin in 2023
 description: >-
-  Find top fitness TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #fitness #foryou #duet.
+  Find top fitness TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #fitness #foryou #duet.
 platform: TikTok
 hits: 62
 text_top: Analyze the top-rated TikTok accounts on inBeat.

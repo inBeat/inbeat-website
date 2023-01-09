@@ -1,7 +1,7 @@
 ---
-title: Top 10 Environmental TikTok Influencers In 2022
+title: Top 10 Environmental TikTok Influencers in 2023
 description: >-
-  Find top environmental TikTok influencers in 2022. Most popular hashtags: #climatechange #environmentalist #duet #sustainable.
+  Find top environmental TikTok influencers in 2023. Most popular hashtags: #climatechange #environmentalist #duet #sustainable.
 platform: TikTok
 hits: 40
 text_top: Discover the best TikTok profiles on inBeat.

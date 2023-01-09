@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Turkey In 2022
+title: Top 10 Health Instagram Influencers In Turkey in 2023
 description: >-
-  Find top health Instagram influencers in Turkey in 2022. Most popular hashtags: #blogger #tbt #details.
+  Find top health Instagram influencers in Turkey in 2023. Most popular hashtags: #blogger #tbt #details.
 platform: Instagram
 hits: 364
 text_top: See the top-rated Instagram influencers on inBeat.

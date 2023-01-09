@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In South Africa In 2022
+title: Top 10 Painters Instagram Influencers In South Africa in 2023
 description: >-
-  Find top painters Instagram influencers in South Africa in 2022. Most popular hashtags: #africa #safari #southafrica #wildlife.
+  Find top painters Instagram influencers in South Africa in 2023. Most popular hashtags: #africa #safari #southafrica #wildlife.
 platform: Instagram
 hits: 11
 text_top: Analyze the best Instagram accounts on inBeat.

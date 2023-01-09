@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Chile In 2022
+title: Top 10 Health Instagram Influencers In Chile in 2023
 description: >-
-  Find top health Instagram influencers in Chile in 2022. Most popular hashtags: #instagood #chile #love #summer.
+  Find top health Instagram influencers in Chile in 2023. Most popular hashtags: #instagood #chile #love #summer.
 platform: Instagram
 hits: 57
 text_top: Discover the top-rated Instagram accounts on inBeat.

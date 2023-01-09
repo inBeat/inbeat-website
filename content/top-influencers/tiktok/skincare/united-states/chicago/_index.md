@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Chicago In 2022
+title: Top 10 Skincare TikTok Influencers In Chicago in 2023
 description: >-
-  Find top skincare TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #skincare #foryou #chicago.
+  Find top skincare TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #skincare #foryou #chicago.
 platform: TikTok
 hits: 17
 text_top: See the top-rated TikTok influencers on inBeat.

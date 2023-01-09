@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Francisco In 2022
+title: Top 10 Nutrition Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top nutrition Instagram influencers in San Francisco in 2022. Most popular hashtags: #love #nutrition #smile #happy.
+  Find top nutrition Instagram influencers in San Francisco in 2023. Most popular hashtags: #love #nutrition #smile #happy.
 platform: Instagram
 hits: 10
 text_top: See the best Instagram influencers on inBeat.

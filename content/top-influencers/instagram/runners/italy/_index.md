@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Italy In 2022
+title: Top 10 Runners Instagram Influencers In Italy in 2023
 description: >-
-  Find top runners Instagram influencers in Italy in 2022. Most popular hashtags: #run #running #runningmotivation #trailrunning.
+  Find top runners Instagram influencers in Italy in 2023. Most popular hashtags: #run #running #runningmotivation #trailrunning.
 platform: Instagram
 hits: 148
 text_top: See the most popular Instagram influencers on inBeat.

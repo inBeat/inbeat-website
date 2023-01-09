@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Austria In 2022
+title: Top 10 Stylists Instagram Influencers In Austria in 2023
 description: >-
-  Find top stylists Instagram influencers in Austria in 2022. Most popular hashtags: #fashion #fashionblogger #ootd #styling.
+  Find top stylists Instagram influencers in Austria in 2023. Most popular hashtags: #fashion #fashionblogger #ootd #styling.
 platform: Instagram
 hits: 29
 text_top: Identify the top-rated Instagram influencers on inBeat.

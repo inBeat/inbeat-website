@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Indonesia In 2022
+title: Top 10 Gardening Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top gardening Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #gardening #garden #gardeninspiration.
+  Find top gardening Instagram influencers in Indonesia in 2023. Most popular hashtags: #dirumahaja #gardening #garden #gardeninspiration.
 platform: Instagram
 hits: 11
 text_top: Identify the best Instagram influencers on inBeat.

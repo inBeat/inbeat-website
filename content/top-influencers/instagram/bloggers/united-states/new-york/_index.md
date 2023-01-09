@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In New York In 2022
+title: Top 10 Bloggers Instagram Influencers In New York in 2023
 description: >-
-  Find top bloggers Instagram influencers in New York in 2022. Most popular hashtags: #blogger #newyork #influencer #newyorkcity.
+  Find top bloggers Instagram influencers in New York in 2023. Most popular hashtags: #blogger #newyork #influencer #newyorkcity.
 platform: Instagram
 hits: 271
 text_top: See the top-rated Instagram accounts on inBeat.

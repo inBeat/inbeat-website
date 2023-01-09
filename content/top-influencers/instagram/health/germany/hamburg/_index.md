@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Hamburg In 2022
+title: Top 10 Health Instagram Influencers In Hamburg in 2023
 description: >-
-  Find top health Instagram influencers in Hamburg in 2022. Most popular hashtags: #fitness #hamburg #ootd #health.
+  Find top health Instagram influencers in Hamburg in 2023. Most popular hashtags: #fitness #hamburg #ootd #health.
 platform: Instagram
 hits: 145
 text_top: Discover the best Instagram accounts on inBeat.

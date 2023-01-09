@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Berlin In 2022
+title: Top 10 Architecture Instagram Influencers In Berlin in 2023
 description: >-
-  Find top architecture Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #architecture #ig #photooftheday.
+  Find top architecture Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #architecture #ig #photooftheday.
 platform: Instagram
 hits: 169
 text_top: Analyze the most popular Instagram influencers on inBeat.

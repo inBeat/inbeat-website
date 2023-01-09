@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In New York In 2022
+title: Top 10 Lifestyle Instagram Influencers In New York in 2023
 description: >-
-  Find top lifestyle Instagram influencers in New York in 2022. Most popular hashtags: #newyork #fashion #halloween.
+  Find top lifestyle Instagram influencers in New York in 2023. Most popular hashtags: #newyork #fashion #halloween.
 platform: Instagram
 hits: 598
 text_top: Identify the top-rated Instagram influencers on inBeat.

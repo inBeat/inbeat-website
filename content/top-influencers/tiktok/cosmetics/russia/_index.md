@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Russia In 2022
+title: Top 10 Cosmetics TikTok Influencers In Russia in 2023
 description: >-
-  Find top cosmetics TikTok influencers in Russia in 2022. Most popular hashtags: #makeup #fyp #vsco #vscogirl.
+  Find top cosmetics TikTok influencers in Russia in 2023. Most popular hashtags: #makeup #fyp #vsco #vscogirl.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok profiles on inBeat.

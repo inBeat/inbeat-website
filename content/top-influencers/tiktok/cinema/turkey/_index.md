@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Turkey In 2022
+title: Top 10 Cinema TikTok Influencers In Turkey in 2023
 description: >-
-  Find top cinema TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #fyp #foryoupage #tiktok.
+  Find top cinema TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #fyp #foryoupage #tiktok.
 platform: TikTok
 hits: 14
 text_top: Analyze the most popular TikTok influencers on inBeat.

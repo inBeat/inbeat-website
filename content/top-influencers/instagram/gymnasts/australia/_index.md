@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Australia In 2022
+title: Top 10 Gymnasts Instagram Influencers In Australia in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Australia in 2022. Most popular hashtags: #gymnastics #gymnast #teenmodel.
+  Find top gymnasts Instagram influencers in Australia in 2023. Most popular hashtags: #gymnastics #gymnast #teenmodel.
 platform: Instagram
 hits: 69
 text_top: Discover the top-rated Instagram influencers on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Georgia Godwin
     bio: >-
-      22•Elite Gymnast•Australia🇦🇺 2022 Olympics quota spot 🔒 2018-Comm Games AA-2nd Team/Bars-3rd 2014,15,18,19-SNR AUS Champ 🇦🇺🇯🇵🇺🇸🇮🇹🇫🇷🇪🇸🇬🇧🇨🇦🇧🇪
+      22•Elite Gymnast•Australia🇦🇺 2023 Olympics quota spot 🔒 2018-Comm Games AA-2nd Team/Bars-3rd 2014,15,18,19-SNR AUS Champ 🇦🇺🇯🇵🇺🇸🇮🇹🇫🇷🇪🇸🇬🇧🇨🇦🇧🇪
     location: "Australia"
     followers: 9271
     engagement: 877

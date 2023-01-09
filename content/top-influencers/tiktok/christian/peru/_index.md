@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Peru In 2022
+title: Top 10 Christian TikTok Influencers In Peru in 2023
 description: >-
-  Find top christian TikTok influencers in Peru in 2022. Most popular hashtags: #parati #peru #fyp #viral.
+  Find top christian TikTok influencers in Peru in 2023. Most popular hashtags: #parati #peru #fyp #viral.
 platform: TikTok
 hits: 28
 text_top: Analyze the top-rated TikTok influencers on inBeat.

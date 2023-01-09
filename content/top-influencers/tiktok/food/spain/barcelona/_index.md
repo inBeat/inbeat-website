@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Barcelona In 2022
+title: Top 10 Food TikTok Influencers In Barcelona in 2023
 description: >-
-  Find top food TikTok influencers in Barcelona in 2022. Most popular hashtags: #food #fyp #foryou #parati.
+  Find top food TikTok influencers in Barcelona in 2023. Most popular hashtags: #food #fyp #foryou #parati.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok accounts on inBeat.

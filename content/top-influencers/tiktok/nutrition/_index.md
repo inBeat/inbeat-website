@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In 2022
+title: Top 10 Nutrition TikTok Influencers in 2023
 description: >-
-  Find top nutrition TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #learnontiktok #duet.
+  Find top nutrition TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #learnontiktok #duet.
 platform: TikTok
 hits: 550
 text_top: Identify the best TikTok profiles on inBeat.

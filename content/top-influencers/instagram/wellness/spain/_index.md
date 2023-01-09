@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Spain In 2022
+title: Top 10 Wellness Instagram Influencers In Spain in 2023
 description: >-
-  Find top wellness Instagram influencers in Spain in 2022. Most popular hashtags: #workout #barcelona #fitness.
+  Find top wellness Instagram influencers in Spain in 2023. Most popular hashtags: #workout #barcelona #fitness.
 platform: Instagram
 hits: 72
 text_top: See the top-rated Instagram accounts on inBeat.

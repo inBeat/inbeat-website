@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In South Korea In 2022
+title: Top 10 Dancers Instagram Influencers In South Korea in 2023
 description: >-
-  Find top dancers Instagram influencers in South Korea in 2022. Most popular hashtags: #dance #choreography #selfie.
+  Find top dancers Instagram influencers in South Korea in 2023. Most popular hashtags: #dance #choreography #selfie.
 platform: Instagram
 hits: 188
 text_top: See the top-rated Instagram influencers on inBeat.

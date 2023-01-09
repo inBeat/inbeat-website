@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tennis Players TikTok Influencers In 2022
+title: Top 10 Tennis Players TikTok Influencers in 2023
 description: >-
-  Find top tennis players TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #tennis #sport.
+  Find top tennis players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #tennis #sport.
 platform: TikTok
 hits: 33
 text_top: Identify the most popular TikTok accounts on inBeat.

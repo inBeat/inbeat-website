@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Seoul In 2022
+title: Top 10 Photographers Instagram Influencers In Seoul in 2023
 description: >-
-  Find top photographers Instagram influencers in Seoul in 2022. Most popular hashtags: #leicam7 #500px #halloween.
+  Find top photographers Instagram influencers in Seoul in 2023. Most popular hashtags: #leicam7 #500px #halloween.
 platform: Instagram
 hits: 36
 text_top: Analyze the most popular Instagram profiles on inBeat.

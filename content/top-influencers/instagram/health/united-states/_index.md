@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In United States In 2022
+title: Top 10 Health Instagram Influencers In United States in 2023
 description: >-
-  Find top health Instagram influencers in United States in 2022. Most popular hashtags: #ootdmagazine #igfashion #nyxcosmetics.
+  Find top health Instagram influencers in United States in 2023. Most popular hashtags: #ootdmagazine #igfashion #nyxcosmetics.
 platform: Instagram
 hits: 13459
 text_top: Analyze the best Instagram profiles on inBeat.

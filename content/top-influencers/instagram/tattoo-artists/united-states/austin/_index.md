@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Austin In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Austin in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Austin in 2022. Most popular hashtags: #tattoo #tattooartist #austin #texas.
+  Find top tattoo-artists Instagram influencers in Austin in 2023. Most popular hashtags: #tattoo #tattooartist #austin #texas.
 platform: Instagram
 hits: 32
 text_top: Discover the best Instagram profiles on inBeat.

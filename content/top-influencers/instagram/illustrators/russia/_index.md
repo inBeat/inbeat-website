@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Russia In 2022
+title: Top 10 Illustrators Instagram Influencers In Russia in 2023
 description: >-
-  Find top illustrators Instagram influencers in Russia in 2022. Most popular hashtags: #illustration #drawing #sketch.
+  Find top illustrators Instagram influencers in Russia in 2023. Most popular hashtags: #illustration #drawing #sketch.
 platform: Instagram
 hits: 217
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Drummers Instagram Influencers In 2022
+title: Top 10 Drummers Instagram Influencers in 2023
 description: >-
-  Find top drummers Instagram influencers in 2022. Most popular hashtags: #drums #drummer #dirumahaja.
+  Find top drummers Instagram influencers in 2023. Most popular hashtags: #drums #drummer #dirumahaja.
 platform: Instagram
 hits: 1685
 text_top: Discover the best Instagram accounts on inBeat.

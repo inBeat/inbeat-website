@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Spain In 2022
+title: Top 10 Boxers Instagram Influencers In Spain in 2023
 description: >-
-  Find top boxers Instagram influencers in Spain in 2022. Most popular hashtags: #boxer #dogsofinstagram #boxerdog #dog.
+  Find top boxers Instagram influencers in Spain in 2023. Most popular hashtags: #boxer #dogsofinstagram #boxerdog #dog.
 platform: Instagram
 hits: 33
 text_top: Discover the top-rated Instagram influencers on inBeat.

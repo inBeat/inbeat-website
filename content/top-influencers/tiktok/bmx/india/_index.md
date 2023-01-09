@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In India In 2022
+title: Top 10 Bmx TikTok Influencers In India in 2023
 description: >-
-  Find top bmx TikTok influencers in India in 2022. Most popular hashtags: #bmxboy #bmx #team8e #trending.
+  Find top bmx TikTok influencers in India in 2023. Most popular hashtags: #bmxboy #bmx #team8e #trending.
 platform: TikTok
 hits: 31
 text_top: Analyze the top-rated TikTok profiles on inBeat.

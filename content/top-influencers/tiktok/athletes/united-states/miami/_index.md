@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Miami In 2022
+title: Top 10 Athletes TikTok Influencers In Miami in 2023
 description: >-
-  Find top athletes TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #athlete #miami #foryou.
+  Find top athletes TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #athlete #miami #foryou.
 platform: TikTok
 hits: 20
 text_top: Discover the most popular TikTok profiles on inBeat.

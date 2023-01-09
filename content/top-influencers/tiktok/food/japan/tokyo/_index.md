@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Tokyo In 2022
+title: Top 10 Food TikTok Influencers In Tokyo in 2023
 description: >-
-  Find top food TikTok influencers in Tokyo in 2022. Most popular hashtags: #food #fyp #japan #foryou.
+  Find top food TikTok influencers in Tokyo in 2023. Most popular hashtags: #food #fyp #japan #foryou.
 platform: TikTok
 hits: 4
 text_top: Analyze the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Belgium In 2022
+title: Top 10 Gymnasts TikTok Influencers In Belgium in 2023
 description: >-
-  Find top gymnasts TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #foryou #foryoupage #gymnastics.
+  Find top gymnasts TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #foryoupage #gymnastics.
 platform: TikTok
 hits: 13
 text_top: Identify the top-rated TikTok accounts on inBeat.

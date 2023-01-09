@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In 2022
+title: Top 10 Bloggers TikTok Influencers in 2023
 description: >-
-  Find top bloggers TikTok influencers in 2022. Most popular hashtags: #fyp #duet #quarantinelife #petsoftiktok.
+  Find top bloggers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #quarantinelife #petsoftiktok.
 platform: TikTok
 hits: 565
 text_top: Discover the top-rated TikTok accounts on inBeat.

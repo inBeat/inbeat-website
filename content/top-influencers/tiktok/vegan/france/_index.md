@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In France In 2022
+title: Top 10 Vegan TikTok Influencers In France in 2023
 description: >-
-  Find top vegan TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #fyp #foryou #vegan.
+  Find top vegan TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #foryou #vegan.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok influencers on inBeat.

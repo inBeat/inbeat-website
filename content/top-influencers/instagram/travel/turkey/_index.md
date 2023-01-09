@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Turkey In 2022
+title: Top 10 Travel Instagram Influencers In Turkey in 2023
 description: >-
-  Find top travel Instagram influencers in Turkey in 2022. Most popular hashtags: #travelblogger #gezgin #gezilecekyerler.
+  Find top travel Instagram influencers in Turkey in 2023. Most popular hashtags: #travelblogger #gezgin #gezilecekyerler.
 platform: Instagram
 hits: 1445
 text_top: Analyze the top-rated Instagram influencers on inBeat.

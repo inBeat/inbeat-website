@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Las Vegas In 2022
+title: Top 10 Christian Instagram Influencers In Las Vegas in 2023
 description: >-
-  Find top christian Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #christian #youtube #quarantine.
+  Find top christian Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #christian #youtube #quarantine.
 platform: Instagram
 hits: 16
 text_top: See the most popular Instagram profiles on inBeat.

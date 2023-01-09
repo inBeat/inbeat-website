@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Bali In 2022
+title: Top 10 Yoga Instagram Influencers In Bali in 2023
 description: >-
-  Find top yoga Instagram influencers in Bali in 2022. Most popular hashtags: #bali #yoga #yogateacher #yogapractice.
+  Find top yoga Instagram influencers in Bali in 2023. Most popular hashtags: #bali #yoga #yogateacher #yogapractice.
 platform: Instagram
 hits: 84
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Atlanta In 2022
+title: Top 10 Models TikTok Influencers In Atlanta in 2023
 description: >-
-  Find top models TikTok influencers in Atlanta in 2022. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
+  Find top models TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryou #foryoupage #atlanta.
 platform: TikTok
 hits: 24
 text_top: Identify the most popular TikTok influencers on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       Katie Nageotte
     bio: >-
-      Pole vault professional. Tiktok amateur. Training for 2022 Olympics 🇺🇸.
+      Pole vault professional. Tiktok amateur. Training for 2023 Olympics 🇺🇸.
     location: "United States"
     followers: 30100
     engagement: 754

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Austin In 2022
+title: Top 10 Food TikTok Influencers In Austin in 2023
 description: >-
-  Find top food TikTok influencers in Austin in 2022. Most popular hashtags: #austin #texas #fyp #atx.
+  Find top food TikTok influencers in Austin in 2023. Most popular hashtags: #austin #texas #fyp #atx.
 platform: TikTok
 hits: 132
 text_top: Identify the top-rated TikTok accounts on inBeat.

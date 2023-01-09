@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Russia In 2022
+title: Top 10 Hypebeast Instagram Influencers In Russia in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Russia in 2022. Most popular hashtags: #hypebeast #moodygrams #highsnobiety #artofvisuals.
+  Find top hypebeast Instagram influencers in Russia in 2023. Most popular hashtags: #hypebeast #moodygrams #highsnobiety #artofvisuals.
 platform: Instagram
 hits: 22
 text_top: Identify the best Instagram influencers on inBeat.

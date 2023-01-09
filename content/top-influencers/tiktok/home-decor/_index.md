@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In 2022
+title: Top 10 Home Decor TikTok Influencers in 2023
 description: >-
-  Find top home decor TikTok influencers in 2022. Most popular hashtags: #homedecor #tiktokartists #fyp #familydinner.
+  Find top home decor TikTok influencers in 2023. Most popular hashtags: #homedecor #tiktokartists #fyp #familydinner.
 platform: TikTok
 hits: 1873
 text_top: Discover the top-rated TikTok accounts on inBeat.

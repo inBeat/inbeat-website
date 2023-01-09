@@ -1,7 +1,7 @@
 ---
-title: Top 10 Violin Instagram Influencers In 2022
+title: Top 10 Violin Instagram Influencers in 2023
 description: >-
-  Find top violin Instagram influencers in 2022. Most popular hashtags: #music #violin #iran.
+  Find top violin Instagram influencers in 2023. Most popular hashtags: #music #violin #iran.
 platform: Instagram
 hits: 127
 text_top: Discover the top-rated Instagram profiles on inBeat.

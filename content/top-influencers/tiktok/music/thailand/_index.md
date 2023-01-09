@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Thailand In 2022
+title: Top 10 Music TikTok Influencers In Thailand in 2023
 description: >-
-  Find top music TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #duet #music #foryoupage.
+  Find top music TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #duet #music #foryoupage.
 platform: TikTok
 hits: 15
 text_top: Analyze the top-rated TikTok influencers on inBeat.

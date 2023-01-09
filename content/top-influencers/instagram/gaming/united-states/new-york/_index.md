@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In New York In 2022
+title: Top 10 Gaming Instagram Influencers In New York in 2023
 description: >-
-  Find top gaming Instagram influencers in New York in 2022. Most popular hashtags: #gaming #gamer #newyorkcity #newyork.
+  Find top gaming Instagram influencers in New York in 2023. Most popular hashtags: #gaming #gamer #newyorkcity #newyork.
 platform: Instagram
 hits: 44
 text_top: Identify the best Instagram influencers on inBeat.

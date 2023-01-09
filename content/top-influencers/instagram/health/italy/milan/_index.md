@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Milan In 2022
+title: Top 10 Health Instagram Influencers In Milan in 2023
 description: >-
-  Find top health Instagram influencers in Milan in 2022. Most popular hashtags: #health #love #smile #nature.
+  Find top health Instagram influencers in Milan in 2023. Most popular hashtags: #health #love #smile #nature.
 platform: Instagram
 hits: 104
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United States In 2022
+title: Top 10 Fashion TikTok Influencers In United States in 2023
 description: >-
-  Find top fashion TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #foryou #biden2020.
+  Find top fashion TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryou #biden2020.
 platform: TikTok
 hits: 8817
 text_top: See the best TikTok influencers on inBeat.

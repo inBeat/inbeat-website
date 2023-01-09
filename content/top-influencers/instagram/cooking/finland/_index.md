@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Finland In 2022
+title: Top 10 Cooking Instagram Influencers In Finland in 2023
 description: >-
-  Find top cooking Instagram influencers in Finland in 2022. Most popular hashtags: #finland #food #cooking #autumn.
+  Find top cooking Instagram influencers in Finland in 2023. Most popular hashtags: #finland #food #cooking #autumn.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram profiles on inBeat.

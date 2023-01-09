@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Switzerland In 2022
+title: Top 10 Cooking TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top cooking TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #foryou #cooking #funny.
+  Find top cooking TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #foryou #cooking #funny.
 platform: TikTok
 hits: 17
 text_top: Analyze the top-rated TikTok accounts on inBeat.

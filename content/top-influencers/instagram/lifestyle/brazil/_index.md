@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Brazil In 2022
+title: Top 10 Lifestyle Instagram Influencers In Brazil in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #praia #lookdodia.
+  Find top lifestyle Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #praia #lookdodia.
 platform: Instagram
 hits: 4086
 text_top: Discover the best Instagram profiles on inBeat.

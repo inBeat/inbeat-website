@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Dallas In 2022
+title: Top 10 Travel TikTok Influencers In Dallas in 2023
 description: >-
-  Find top travel TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #texas #travel #dallas.
+  Find top travel TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #texas #travel #dallas.
 platform: TikTok
 hits: 36
 text_top: Identify the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Brazil In 2022
+title: Top 10 Gaming TikTok Influencers In Brazil in 2023
 description: >-
-  Find top gaming TikTok influencers in Brazil in 2022. Most popular hashtags: #gaming #fyp #foryou #gamer.
+  Find top gaming TikTok influencers in Brazil in 2023. Most popular hashtags: #gaming #fyp #foryou #gamer.
 platform: TikTok
 hits: 25
 text_top: See the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In France In 2022
+title: Top 10 Nail Artists Instagram Influencers In France in 2023
 description: >-
-  Find top nail artists Instagram influencers in France in 2022. Most popular hashtags: #nails #nailsofinstagram #nailsonfleek #nailstagram.
+  Find top nail artists Instagram influencers in France in 2023. Most popular hashtags: #nails #nailsofinstagram #nailsonfleek #nailstagram.
 platform: Instagram
 hits: 42
 text_top: See the most popular Instagram profiles on inBeat.

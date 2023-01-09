@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Chicago In 2022
+title: Top 10 Gaming Instagram Influencers In Chicago in 2023
 description: >-
-  Find top gaming Instagram influencers in Chicago in 2022. Most popular hashtags: #gaming #chicago #chicagobulls #espn.
+  Find top gaming Instagram influencers in Chicago in 2023. Most popular hashtags: #gaming #chicago #chicagobulls #espn.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram accounts on inBeat.

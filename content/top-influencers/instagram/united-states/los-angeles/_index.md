@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Los Angeles In 2022
+title: Top 10 Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top Instagram influencers in Los Angeles in 2022. Most popular hashtags: #ootd #california #fashionstyle.
+  Find top Instagram influencers in Los Angeles in 2023. Most popular hashtags: #ootd #california #fashionstyle.
 platform: Instagram
 hits: 7857
 text_top: Identify the most popular Instagram accounts on inBeat.

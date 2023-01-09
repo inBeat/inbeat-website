@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In 2022
+title: Top 10 Home Decor Instagram Influencers in 2023
 description: >-
-  Find top home decor Instagram influencers in 2022. Most popular hashtags: #ootd #decor #ad.
+  Find top home decor Instagram influencers in 2023. Most popular hashtags: #ootd #decor #ad.
 platform: Instagram
 hits: 8080
 text_top: Analyze the best Instagram influencers on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       || Audrey & Lana ||
     bio: >-
-      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2022) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
+      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2023) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
     location: "France"
     followers: 19795
     engagement: 557

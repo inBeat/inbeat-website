@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Japan In 2022
+title: Top 10 Cinema Instagram Influencers In Japan in 2023
 description: >-
-  Find top cinema Instagram influencers in Japan in 2022. Most popular hashtags: #cinematography #japan #sonyalpha.
+  Find top cinema Instagram influencers in Japan in 2023. Most popular hashtags: #cinematography #japan #sonyalpha.
 platform: Instagram
 hits: 90
 text_top: Identify the best Instagram influencers on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       AB Photographs
     bio: >-
-      Above & Beyond [est 2010] @ab_cinema - Open trip 2020 / 2022 Dec: Japan Oct: Ausie|Europe Nov: NY|Seattle - Info@abphotographs.com 08176705800
+      Above & Beyond [est 2010] @ab_cinema - Open trip 2020 / 2023 Dec: Japan Oct: Ausie|Europe Nov: NY|Seattle - Info@abphotographs.com 08176705800
     location: "Japan"
     followers: 11273
     engagement: 95

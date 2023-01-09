@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Dallas In 2022
+title: Top 10 Mothers Instagram Influencers In Dallas in 2023
 description: >-
-  Find top mothers Instagram influencers in Dallas in 2022. Most popular hashtags: #mothersday #happymothersday #mother.
+  Find top mothers Instagram influencers in Dallas in 2023. Most popular hashtags: #mothersday #happymothersday #mother.
 platform: Instagram
 hits: 47
 text_top: See the best Instagram accounts on inBeat.
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021875
     id: ck0ucc2xjgjt30i19ovubex62
     verified: true
-    hashtags: "#siswimsearch2022, #feelgoodfuel"
+    hashtags: "#siswimsearch2023, #feelgoodfuel"
   - username: "we.the.birds"
     fullname: >-
       WE THE BIRDS

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In India In 2022
+title: Top 10 Vegan Instagram Influencers In India in 2023
 description: >-
-  Find top vegan Instagram influencers in India in 2022. Most popular hashtags: #vegan #love #reelsinstagram.
+  Find top vegan Instagram influencers in India in 2023. Most popular hashtags: #vegan #love #reelsinstagram.
 platform: Instagram
 hits: 600
 text_top: Identify the most popular Instagram accounts on inBeat.

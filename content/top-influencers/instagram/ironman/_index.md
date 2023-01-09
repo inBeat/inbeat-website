@@ -1,7 +1,7 @@
 ---
-title: Top 10 Ironman Instagram Influencers In 2022
+title: Top 10 Ironman Instagram Influencers in 2023
 description: >-
-  Find top ironman Instagram influencers in 2022. Most popular hashtags: #triathlon #running #triathlete #cyclinglife.
+  Find top ironman Instagram influencers in 2023. Most popular hashtags: #triathlon #running #triathlete #cyclinglife.
 platform: Instagram
 hits: 2257
 text_top: Identify the best Instagram accounts on inBeat.

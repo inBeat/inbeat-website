@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Malaysia In 2022
+title: Top 10 Bakers Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top bakers Instagram influencers in Malaysia in 2022. Most popular hashtags: #food #foodie #foodporn #breakfast.
+  Find top bakers Instagram influencers in Malaysia in 2023. Most popular hashtags: #food #foodie #foodporn #breakfast.
 platform: Instagram
 hits: 18
 text_top: See the most popular Instagram profiles on inBeat.

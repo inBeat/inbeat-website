@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Germany In 2022
+title: Top 10 Barbers Instagram Influencers In Germany in 2023
 description: >-
-  Find top barbers Instagram influencers in Germany in 2022. Most popular hashtags: #fashion #instagood #love #barber.
+  Find top barbers Instagram influencers in Germany in 2023. Most popular hashtags: #fashion #instagood #love #barber.
 platform: Instagram
 hits: 84
 text_top: See the most popular Instagram accounts on inBeat.

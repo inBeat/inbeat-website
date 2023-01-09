@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Canada In 2022
+title: Top 10 Christian TikTok Influencers In Canada in 2023
 description: >-
-  Find top christian TikTok influencers in Canada in 2022. Most popular hashtags: #duet #fyp #greenscreen #jesus.
+  Find top christian TikTok influencers in Canada in 2023. Most popular hashtags: #duet #fyp #greenscreen #jesus.
 platform: TikTok
 hits: 134
 text_top: See the most popular TikTok profiles on inBeat.

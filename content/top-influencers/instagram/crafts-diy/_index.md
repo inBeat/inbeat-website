@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crafts And Diy Instagram Influencers In 2022
+title: Top 10 Crafts And Diy Instagram Influencers in 2023
 description: >-
-  Find top crafts and diy Instagram influencers in 2022. Most popular hashtags: #diy #craft #handmade #diycrafts.
+  Find top crafts and diy Instagram influencers in 2023. Most popular hashtags: #diy #craft #handmade #diycrafts.
 platform: Instagram
 hits: 51
 text_top: Identify the top-rated Instagram profiles on inBeat.

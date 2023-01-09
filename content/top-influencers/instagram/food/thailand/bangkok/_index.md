@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Bangkok In 2022
+title: Top 10 Food Instagram Influencers In Bangkok in 2023
 description: >-
-  Find top food Instagram influencers in Bangkok in 2022. Most popular hashtags: #food #foodstagram #thailand #foodporn.
+  Find top food Instagram influencers in Bangkok in 2023. Most popular hashtags: #food #foodstagram #thailand #foodporn.
 platform: Instagram
 hits: 18
 text_top: Identify the best Instagram accounts on inBeat.

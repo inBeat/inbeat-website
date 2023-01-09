@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Poland In 2022
+title: Top 10 Travel TikTok Influencers In Poland in 2023
 description: >-
-  Find top travel TikTok influencers in Poland in 2022. Most popular hashtags: #polska #dc #podr #tiktoktravel.
+  Find top travel TikTok influencers in Poland in 2023. Most popular hashtags: #polska #dc #podr #tiktoktravel.
 platform: TikTok
 hits: 75
 text_top: Discover the most popular TikTok accounts on inBeat.

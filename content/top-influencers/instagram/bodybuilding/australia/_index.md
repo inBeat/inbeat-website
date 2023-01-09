@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Australia In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Australia in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Australia in 2022. Most popular hashtags: #bodybuilding #fitness #gym #workout.
+  Find top bodybuilding Instagram influencers in Australia in 2023. Most popular hashtags: #bodybuilding #fitness #gym #workout.
 platform: Instagram
 hits: 78
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Canada In 2022
+title: Top 10 Golfers Instagram Influencers In Canada in 2023
 description: >-
-  Find top golfers Instagram influencers in Canada in 2022. Most popular hashtags: #golf #instagolf #golflife #golfstagram.
+  Find top golfers Instagram influencers in Canada in 2023. Most popular hashtags: #golf #instagolf #golflife #golfstagram.
 platform: Instagram
 hits: 8
 text_top: Discover the most popular Instagram profiles on inBeat.

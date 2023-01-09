@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Switzerland In 2022
+title: Top 10 Christian Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top christian Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #schweiz #zurich #travel.
+  Find top christian Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #schweiz #zurich #travel.
 platform: Instagram
 hits: 43
 text_top: Analyze the most popular Instagram influencers on inBeat.

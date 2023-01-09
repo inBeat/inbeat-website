@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Sydney In 2022
+title: Top 10 Travel TikTok Influencers In Sydney in 2023
 description: >-
-  Find top travel TikTok influencers in Sydney in 2022. Most popular hashtags: #travel #sydney #australia #fyp.
+  Find top travel TikTok influencers in Sydney in 2023. Most popular hashtags: #travel #sydney #australia #fyp.
 platform: TikTok
 hits: 35
 text_top: Analyze the most popular TikTok influencers on inBeat.

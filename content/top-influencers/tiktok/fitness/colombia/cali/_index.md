@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Cali In 2022
+title: Top 10 Fitness TikTok Influencers In Cali in 2023
 description: >-
-  Find top fitness TikTok influencers in Cali in 2022. Most popular hashtags: #fitness #colombia #viral #fyp.
+  Find top fitness TikTok influencers in Cali in 2023. Most popular hashtags: #fitness #colombia #viral #fyp.
 platform: TikTok
 hits: 4
 text_top: Analyze the best TikTok accounts on inBeat.

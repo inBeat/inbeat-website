@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Peru In 2022
+title: Top 10 Makeup TikTok Influencers In Peru in 2023
 description: >-
-  Find top makeup TikTok influencers in Peru in 2022. Most popular hashtags: #makeup #parati #peru #fyp.
+  Find top makeup TikTok influencers in Peru in 2023. Most popular hashtags: #makeup #parati #peru #fyp.
 platform: TikTok
 hits: 52
 text_top: Analyze the most popular TikTok accounts on inBeat.

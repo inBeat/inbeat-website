@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Seattle In 2022
+title: Top 10 Food TikTok Influencers In Seattle in 2023
 description: >-
-  Find top food TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #food #foryou #seattle.
+  Find top food TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #food #foryou #seattle.
 platform: TikTok
 hits: 54
 text_top: Analyze the top-rated TikTok profiles on inBeat.

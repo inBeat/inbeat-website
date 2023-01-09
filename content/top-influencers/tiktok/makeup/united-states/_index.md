@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In United States In 2022
+title: Top 10 Makeup TikTok Influencers In United States in 2023
 description: >-
-  Find top makeup TikTok influencers in United States in 2022. Most popular hashtags: #duet #greenscreen #happyhalloween #ohno.
+  Find top makeup TikTok influencers in United States in 2023. Most popular hashtags: #duet #greenscreen #happyhalloween #ohno.
 platform: TikTok
 hits: 8379
 text_top: Analyze the best TikTok profiles on inBeat.
@@ -122,7 +122,7 @@ profiles:
       Monsters and Makeup 💄 🎨 IG : @crisalexmua YT : @crisalex Etsy : CrisAlexShop
     location: "United States"
     followers: 62700
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.074422
     id: ck8w48f7r88vb0j78arjvfq4v
     verified: false

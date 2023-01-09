@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Malaysia In 2022
+title: Top 10 Athletes Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top athletes Instagram influencers in Malaysia in 2022. Most popular hashtags: #staysafe #fitness #kitajagakita.
+  Find top athletes Instagram influencers in Malaysia in 2023. Most popular hashtags: #staysafe #fitness #kitajagakita.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram profiles on inBeat.

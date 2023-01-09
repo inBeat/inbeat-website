@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Japan In 2022
+title: Top 10 Fitness Instagram Influencers In Japan in 2023
 description: >-
-  Find top fitness Instagram influencers in Japan in 2022. Most popular hashtags: #fitness #workout #abs.
+  Find top fitness Instagram influencers in Japan in 2023. Most popular hashtags: #fitness #workout #abs.
 platform: Instagram
 hits: 198
 text_top: Analyze the most popular Instagram influencers on inBeat.

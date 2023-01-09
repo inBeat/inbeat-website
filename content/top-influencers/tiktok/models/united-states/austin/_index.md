@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Austin In 2022
+title: Top 10 Models TikTok Influencers In Austin in 2023
 description: >-
-  Find top models TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #model #foryou #fashion.
+  Find top models TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #model #foryou #fashion.
 platform: TikTok
 hits: 56
 text_top: Analyze the best TikTok influencers on inBeat.

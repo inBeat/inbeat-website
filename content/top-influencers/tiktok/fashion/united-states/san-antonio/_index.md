@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Antonio In 2022
+title: Top 10 Fashion TikTok Influencers In San Antonio in 2023
 description: >-
-  Find top fashion TikTok influencers in San Antonio in 2022. Most popular hashtags: #fyp #foryou #fashion #sanantonio.
+  Find top fashion TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #foryou #fashion #sanantonio.
 platform: TikTok
 hits: 7
 text_top: Discover the top-rated TikTok accounts on inBeat.

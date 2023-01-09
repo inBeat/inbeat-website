@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Chile In 2022
+title: Top 10 Guitar Instagram Influencers In Chile in 2023
 description: >-
-  Find top guitar Instagram influencers in Chile in 2022. Most popular hashtags: #guitarplayer #chile #repost.
+  Find top guitar Instagram influencers in Chile in 2023. Most popular hashtags: #guitarplayer #chile #repost.
 platform: Instagram
 hits: 31
 text_top: Discover the most popular Instagram profiles on inBeat.

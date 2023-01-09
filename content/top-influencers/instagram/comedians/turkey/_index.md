@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Turkey In 2022
+title: Top 10 Comedians Instagram Influencers In Turkey in 2023
 description: >-
-  Find top comedians Instagram influencers in Turkey in 2022. Most popular hashtags: #evdekal #sketch #comedia #komedi.
+  Find top comedians Instagram influencers in Turkey in 2023. Most popular hashtags: #evdekal #sketch #comedia #komedi.
 platform: Instagram
 hits: 10
 text_top: Identify the top-rated Instagram influencers on inBeat.

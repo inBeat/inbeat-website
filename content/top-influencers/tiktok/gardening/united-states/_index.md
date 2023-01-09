@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In United States In 2022
+title: Top 10 Gardening TikTok Influencers In United States in 2023
 description: >-
-  Find top gardening TikTok influencers in United States in 2022. Most popular hashtags: #fyp #gardening #plants #garden.
+  Find top gardening TikTok influencers in United States in 2023. Most popular hashtags: #fyp #gardening #plants #garden.
 platform: TikTok
 hits: 783
 text_top: Discover the top-rated TikTok profiles on inBeat.

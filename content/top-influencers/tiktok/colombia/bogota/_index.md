@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Bogotá In 2022
+title: Top 10 TikTok Influencers In Bogotá in 2023
 description: >-
-  Find top TikTok influencers in Bogotá in 2022. Most popular hashtags: #colombia #fyp #parati.
+  Find top TikTok influencers in Bogotá in 2023. Most popular hashtags: #colombia #fyp #parati.
 platform: TikTok
 hits: 92
 text_top: See the best TikTok influencers on inBeat.

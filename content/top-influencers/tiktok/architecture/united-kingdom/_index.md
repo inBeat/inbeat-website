@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In United Kingdom In 2022
+title: Top 10 Architecture TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top architecture TikTok influencers in United Kingdom in 2022. Most popular hashtags: #architecture #fyp #tfbornthisway #jdwonderland.
+  Find top architecture TikTok influencers in United Kingdom in 2023. Most popular hashtags: #architecture #fyp #tfbornthisway #jdwonderland.
 platform: TikTok
 hits: 42
 text_top: See the best TikTok accounts on inBeat.

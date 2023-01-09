@@ -1,7 +1,7 @@
 ---
-title: Top 10 Badminton Players TikTok Influencers In 2022
+title: Top 10 Badminton Players TikTok Influencers in 2023
 description: >-
-  Find top badminton players TikTok influencers in 2022. Most popular hashtags: #badminton #fyp #badmintonskills #foryou.
+  Find top badminton players TikTok influencers in 2023. Most popular hashtags: #badminton #fyp #badmintonskills #foryou.
 platform: TikTok
 hits: 14
 text_top: See the most popular TikTok influencers on inBeat.

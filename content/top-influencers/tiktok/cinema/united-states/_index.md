@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United States In 2022
+title: Top 10 Cinema TikTok Influencers In United States in 2023
 description: >-
-  Find top cinema TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #foryoupage #funny.
+  Find top cinema TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #foryoupage #funny.
 platform: TikTok
 hits: 631
 text_top: See the top-rated TikTok profiles on inBeat.

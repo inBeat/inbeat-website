@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Russia In 2022
+title: Top 10 Dancers TikTok Influencers In Russia in 2023
 description: >-
-  Find top dancers TikTok influencers in Russia in 2022. Most popular hashtags: #kpop #blackpink #bts #dance.
+  Find top dancers TikTok influencers in Russia in 2023. Most popular hashtags: #kpop #blackpink #bts #dance.
 platform: TikTok
 hits: 31
 text_top: Discover the best TikTok influencers on inBeat.

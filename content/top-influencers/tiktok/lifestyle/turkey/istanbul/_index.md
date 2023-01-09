@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Istanbul In 2022
+title: Top 10 Lifestyle TikTok Influencers In Istanbul in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Istanbul in 2022. Most popular hashtags: #istanbul #lifestyle #tiktokturkey #bmw.
+  Find top lifestyle TikTok influencers in Istanbul in 2023. Most popular hashtags: #istanbul #lifestyle #tiktokturkey #bmw.
 platform: TikTok
 hits: 5
 text_top: Analyze the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Chicago In 2022
+title: Top 10 Bloggers Instagram Influencers In Chicago in 2023
 description: >-
-  Find top bloggers Instagram influencers in Chicago in 2022. Most popular hashtags: #chicagoblogger #ad #chicagofood.
+  Find top bloggers Instagram influencers in Chicago in 2023. Most popular hashtags: #chicagoblogger #ad #chicagofood.
 platform: Instagram
 hits: 118
 text_top: Identify the best Instagram influencers on inBeat.

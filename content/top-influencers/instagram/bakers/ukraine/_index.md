@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Ukraine In 2022
+title: Top 10 Bakers Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top bakers Instagram influencers in Ukraine in 2022. Most popular hashtags: #bikersofinstagram #motolove #bmxstreet.
+  Find top bakers Instagram influencers in Ukraine in 2023. Most popular hashtags: #bikersofinstagram #motolove #bmxstreet.
 platform: Instagram
 hits: 19
 text_top: Analyze the best Instagram accounts on inBeat.

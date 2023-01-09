@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In South Africa In 2022
+title: Top 10 Fitness Instagram Influencers In South Africa in 2023
 description: >-
-  Find top fitness Instagram influencers in South Africa in 2022. Most popular hashtags: #love #style #photooftheday.
+  Find top fitness Instagram influencers in South Africa in 2023. Most popular hashtags: #love #style #photooftheday.
 platform: Instagram
 hits: 118
 text_top: Analyze the most popular Instagram influencers on inBeat.

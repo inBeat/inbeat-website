@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Australia In 2022
+title: Top 10 Lifestyle Instagram Influencers In Australia in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Australia in 2022. Most popular hashtags: #sydneyinfluencer #sydneylocal #sydneyblogger.
+  Find top lifestyle Instagram influencers in Australia in 2023. Most popular hashtags: #sydneyinfluencer #sydneylocal #sydneyblogger.
 platform: Instagram
 hits: 572
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Porto In 2022
+title: Top 10 Fitness Instagram Influencers In Porto in 2023
 description: >-
-  Find top fitness Instagram influencers in Porto in 2022. Most popular hashtags: #portugal #porto #fitness #summer.
+  Find top fitness Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #porto #fitness #summer.
 platform: Instagram
 hits: 16
 text_top: See the top-rated Instagram accounts on inBeat.

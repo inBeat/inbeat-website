@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Argentina In 2022
+title: Top 10 Gaming TikTok Influencers In Argentina in 2023
 description: >-
-  Find top gaming TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #foryou #gaming.
+  Find top gaming TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #foryou #gaming.
 platform: TikTok
 hits: 35
 text_top: Identify the most popular TikTok accounts on inBeat.

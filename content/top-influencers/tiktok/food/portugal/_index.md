@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Portugal In 2022
+title: Top 10 Food TikTok Influencers In Portugal in 2023
 description: >-
-  Find top food TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #foryou #portugal #viral.
+  Find top food TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryou #portugal #viral.
 platform: TikTok
 hits: 11
 text_top: See the most popular TikTok accounts on inBeat.

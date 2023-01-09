@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In United States In 2022
+title: Top 10 Crossfit TikTok Influencers In United States in 2023
 description: >-
-  Find top crossfit TikTok influencers in United States in 2022. Most popular hashtags: #crossfit #fyp #workout #fitness.
+  Find top crossfit TikTok influencers in United States in 2023. Most popular hashtags: #crossfit #fyp #workout #fitness.
 platform: TikTok
 hits: 159
 text_top: Analyze the top-rated TikTok accounts on inBeat.

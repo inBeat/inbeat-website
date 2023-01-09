@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In New York In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In New York in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in New York in 2022. Most popular hashtags: #newyork #graphicdesigner #photoshop #art.
+  Find top graphic-designers Instagram influencers in New York in 2023. Most popular hashtags: #newyork #graphicdesigner #photoshop #art.
 platform: Instagram
 hits: 87
 text_top: See the top-rated Instagram profiles on inBeat.

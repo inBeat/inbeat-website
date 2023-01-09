@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Miami In 2022
+title: Top 10 Travel Instagram Influencers In Miami in 2023
 description: >-
-  Find top travel Instagram influencers in Miami in 2022. Most popular hashtags: #miami #travel #florida #beach.
+  Find top travel Instagram influencers in Miami in 2023. Most popular hashtags: #miami #travel #florida #beach.
 platform: Instagram
 hits: 661
 text_top: Discover the best Instagram accounts on inBeat.

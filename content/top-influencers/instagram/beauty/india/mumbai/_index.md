@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Mumbai In 2022
+title: Top 10 Beauty Instagram Influencers In Mumbai in 2023
 description: >-
-  Find top beauty Instagram influencers in Mumbai in 2022. Most popular hashtags: #mumbai #love #beauty #instagood.
+  Find top beauty Instagram influencers in Mumbai in 2023. Most popular hashtags: #mumbai #love #beauty #instagood.
 platform: Instagram
 hits: 779
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bangkok In 2022
+title: Top 10 Fitness Instagram Influencers In Bangkok in 2023
 description: >-
-  Find top fitness Instagram influencers in Bangkok in 2022. Most popular hashtags: #fitness #thailand #bangkok #workout.
+  Find top fitness Instagram influencers in Bangkok in 2023. Most popular hashtags: #fitness #thailand #bangkok #workout.
 platform: Instagram
 hits: 12
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Los Angeles In 2022
+title: Top 10 Makeup TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top makeup TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #makeup #losangeles #foryoupage.
+  Find top makeup TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #makeup #losangeles #foryoupage.
 platform: TikTok
 hits: 113
 text_top: See the top-rated TikTok accounts on inBeat.

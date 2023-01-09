@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In United Kingdom In 2022
+title: Top 10 Wellness Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top wellness Instagram influencers in United Kingdom in 2022. Most popular hashtags: #fitness #london #workout.
+  Find top wellness Instagram influencers in United Kingdom in 2023. Most popular hashtags: #fitness #london #workout.
 platform: Instagram
 hits: 260
 text_top: Identify the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Austria In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Austria in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Austria in 2022. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #austria.
+  Find top bodybuilding Instagram influencers in Austria in 2023. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #austria.
 platform: Instagram
 hits: 23
 text_top: Discover the top-rated Instagram influencers on inBeat.

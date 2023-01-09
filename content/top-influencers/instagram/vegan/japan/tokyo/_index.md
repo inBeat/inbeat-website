@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Tokyo In 2022
+title: Top 10 Vegan Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top vegan Instagram influencers in Tokyo in 2022. Most popular hashtags: #vegan #tokyo #pr #stayhome.
+  Find top vegan Instagram influencers in Tokyo in 2023. Most popular hashtags: #vegan #tokyo #pr #stayhome.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram accounts on inBeat.

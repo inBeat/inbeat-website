@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In New Delhi In 2022
+title: Top 10 Photographers Instagram Influencers In New Delhi in 2023
 description: >-
-  Find top photographers Instagram influencers in New Delhi in 2022. Most popular hashtags: #portrait #portraitphotography #photography #photooftheday.
+  Find top photographers Instagram influencers in New Delhi in 2023. Most popular hashtags: #portrait #portraitphotography #photography #photooftheday.
 platform: Instagram
 hits: 94
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Russia In 2022
+title: Top 10 Christian TikTok Influencers In Russia in 2023
 description: >-
-  Find top christian TikTok influencers in Russia in 2022. Most popular hashtags: #cristianoronaldo #psg #juventus #realmadrid.
+  Find top christian TikTok influencers in Russia in 2023. Most popular hashtags: #cristianoronaldo #psg #juventus #realmadrid.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok accounts on inBeat.

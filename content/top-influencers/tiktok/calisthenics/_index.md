@@ -1,7 +1,7 @@
 ---
-title: Top 10 Calisthenics TikTok Influencers In 2022
+title: Top 10 Calisthenics TikTok Influencers in 2023
 description: >-
-  Find top calisthenics TikTok influencers in 2022. Most popular hashtags: #calisthenics #fitness #handstand #handstands.
+  Find top calisthenics TikTok influencers in 2023. Most popular hashtags: #calisthenics #fitness #handstand #handstands.
 platform: TikTok
 hits: 352
 text_top: See the most popular TikTok profiles on inBeat.

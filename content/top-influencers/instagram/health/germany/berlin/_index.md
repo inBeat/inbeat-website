@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Berlin In 2022
+title: Top 10 Health Instagram Influencers In Berlin in 2023
 description: >-
-  Find top health Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #love #health #fitness.
+  Find top health Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #love #health #fitness.
 platform: Instagram
 hits: 222
 text_top: Identify the best Instagram accounts on inBeat.

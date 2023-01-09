@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In 2022
+title: Top 10 Hair Dressers Instagram Influencers in 2023
 description: >-
-  Find top hair dressers Instagram influencers in 2022. Most popular hashtags: #hairstyles #beauty #makeup.
+  Find top hair dressers Instagram influencers in 2023. Most popular hashtags: #hairstyles #beauty #makeup.
 platform: Instagram
 hits: 469
 text_top: Identify the top-rated Instagram profiles on inBeat.

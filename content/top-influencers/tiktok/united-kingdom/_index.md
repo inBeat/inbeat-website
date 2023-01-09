@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In United Kingdom In 2022
+title: Top 10 TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #duet #foryoupage.
+  Find top TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 11999
 text_top: Identify the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Poland In 2022
+title: Top 10 Fitness TikTok Influencers In Poland in 2023
 description: >-
-  Find top fitness TikTok influencers in Poland in 2022. Most popular hashtags: #fitness #dc #fyp #dlaciebie.
+  Find top fitness TikTok influencers in Poland in 2023. Most popular hashtags: #fitness #dc #fyp #dlaciebie.
 platform: TikTok
 hits: 31
 text_top: See the most popular TikTok influencers on inBeat.

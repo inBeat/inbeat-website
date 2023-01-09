@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Portugal In 2022
+title: Top 10 TikTok Influencers In Portugal in 2023
 description: >-
-  Find top TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #fy #foryou.
+  Find top TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #fy #foryou.
 platform: TikTok
 hits: 455
 text_top: Analyze the top-rated TikTok accounts on inBeat.

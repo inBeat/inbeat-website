@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Mumbai In 2022
+title: Top 10 TikTok Influencers In Mumbai in 2023
 description: >-
-  Find top TikTok influencers in Mumbai in 2022. Most popular hashtags: #duet #foryou #tidelagaodaaghatao #tiktok.
+  Find top TikTok influencers in Mumbai in 2023. Most popular hashtags: #duet #foryou #tidelagaodaaghatao #tiktok.
 platform: TikTok
 hits: 619
 text_top: Analyze the top-rated TikTok accounts on inBeat.

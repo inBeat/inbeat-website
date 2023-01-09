@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Cali In 2022
+title: Top 10 Instagram Influencers In Cali in 2023
 description: >-
-  Find top Instagram influencers in Cali in 2022. Most popular hashtags: #tbt #cali #medellin.
+  Find top Instagram influencers in Cali in 2023. Most popular hashtags: #tbt #cali #medellin.
 platform: Instagram
 hits: 436
 text_top: See the best Instagram influencers on inBeat.

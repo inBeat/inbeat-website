@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Russia In 2022
+title: Top 10 Divers Instagram Influencers In Russia in 2023
 description: >-
-  Find top divers Instagram influencers in Russia in 2022. Most popular hashtags: #russia #life #travel #nature.
+  Find top divers Instagram influencers in Russia in 2023. Most popular hashtags: #russia #life #travel #nature.
 platform: Instagram
 hits: 21
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -123,7 +123,7 @@ profiles:
     location: "Russia"
     followers: 6417
     engagement: 720
-    commentsToLikes: 0.020223
+    commentsToLikes: 0.020233
     id: ck0w6pcyq9o2q0i19h7gqt5ul
     verified: false
     hashtags: "#driftpickup, #zhiguli, #turbo, #horsvarka"

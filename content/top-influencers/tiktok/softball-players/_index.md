@@ -1,7 +1,7 @@
 ---
-title: Top 10 Softball-Players TikTok Influencers In 2022
+title: Top 10 Softball-Players TikTok Influencers in 2023
 description: >-
-  Find top softball-players TikTok influencers in 2022. Most popular hashtags: #fyp #softball #softballplayer #foryoupage.
+  Find top softball-players TikTok influencers in 2023. Most popular hashtags: #fyp #softball #softballplayer #foryoupage.
 platform: TikTok
 hits: 24
 text_top: Identify the most popular TikTok accounts on inBeat.

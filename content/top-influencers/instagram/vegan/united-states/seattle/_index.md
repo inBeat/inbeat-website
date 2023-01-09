@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Seattle In 2022
+title: Top 10 Vegan Instagram Influencers In Seattle in 2023
 description: >-
-  Find top vegan Instagram influencers in Seattle in 2022. Most popular hashtags: #vegan #seattle #love #plantbased.
+  Find top vegan Instagram influencers in Seattle in 2023. Most popular hashtags: #vegan #seattle #love #plantbased.
 platform: Instagram
 hits: 35
 text_top: Discover the top-rated Instagram profiles on inBeat.

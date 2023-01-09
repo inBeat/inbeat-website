@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Lisbon In 2022
+title: Top 10 Food Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top food Instagram influencers in Lisbon in 2022. Most popular hashtags: #portugal #food #lisbon #lisboa.
+  Find top food Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #food #lisbon #lisboa.
 platform: Instagram
 hits: 31
 text_top: Identify the most popular Instagram accounts on inBeat.

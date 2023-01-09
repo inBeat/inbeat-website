@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Turkey In 2022
+title: Top 10 Models TikTok Influencers In Turkey in 2023
 description: >-
-  Find top models TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #tiktok #turkey #foryou.
+  Find top models TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #tiktok #turkey #foryou.
 platform: TikTok
 hits: 39
 text_top: Identify the best TikTok influencers on inBeat.

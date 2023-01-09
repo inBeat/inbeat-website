@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Spain In 2022
+title: Top 10 Vegan TikTok Influencers In Spain in 2023
 description: >-
-  Find top vegan TikTok influencers in Spain in 2022. Most popular hashtags: #vegan #fyp #humor #parati.
+  Find top vegan TikTok influencers in Spain in 2023. Most popular hashtags: #vegan #fyp #humor #parati.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok influencers on inBeat.

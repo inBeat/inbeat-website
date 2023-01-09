@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Poland In 2022
+title: Top 10 Music Instagram Influencers In Poland in 2023
 description: >-
-  Find top music Instagram influencers in Poland in 2022. Most popular hashtags: #summer #mirrorselfie #polska.
+  Find top music Instagram influencers in Poland in 2023. Most popular hashtags: #summer #mirrorselfie #polska.
 platform: Instagram
 hits: 402
 text_top: Discover the most popular Instagram influencers on inBeat.
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.031387
     id: ck15sfmoqcrvt0i199br3ujmp
     verified: false
-    hashtags: "#newmusiccomingsoon, #music, #adamkubera, #matura2022"
+    hashtags: "#newmusiccomingsoon, #music, #adamkubera, #matura2023"
   - username: "romaastemberg"
     fullname: >-
       Roma Astemberg 🌸

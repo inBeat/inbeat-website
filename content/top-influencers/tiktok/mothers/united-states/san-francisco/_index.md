@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In San Francisco In 2022
+title: Top 10 Mothers TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top mothers TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #duet #funny #foryou.
+  Find top mothers TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #duet #funny #foryou.
 platform: TikTok
 hits: 5
 text_top: See the most popular TikTok profiles on inBeat.
@@ -35,7 +35,7 @@ profiles:
     fullname: >-
       Gold Caviar
     bio: >-
-      I tattoo & do other things Venmo: goldcaviar SF, CA BOOKS CLOSED until June 2022
+      I tattoo & do other things Venmo: goldcaviar SF, CA BOOKS CLOSED until June 2023
     location: "United States"
     followers: 209900
     engagement: 1501

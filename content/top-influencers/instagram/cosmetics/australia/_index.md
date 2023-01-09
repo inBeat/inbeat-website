@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Australia In 2022
+title: Top 10 Cosmetics Instagram Influencers In Australia in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Australia in 2022. Most popular hashtags: #beforeandafter #sydneymua #graphicliner.
+  Find top cosmetics Instagram influencers in Australia in 2023. Most popular hashtags: #beforeandafter #sydneymua #graphicliner.
 platform: Instagram
 hits: 142
 text_top: Discover the most popular Instagram accounts on inBeat.

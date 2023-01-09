@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In 2022
+title: Top 10 TikTok Influencers in 2023
 description: >-
-  Find top TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #dance #foryou.
+  Find top TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #dance #foryou.
 platform: TikTok
 hits: 245275
 text_top: Identify the best TikTok accounts on inBeat.

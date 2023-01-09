@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Greece In 2022
+title: Top 10 Beauty Instagram Influencers In Greece in 2023
 description: >-
-  Find top beauty Instagram influencers in Greece in 2022. Most popular hashtags: #giveaway #giveawaygr #greece.
+  Find top beauty Instagram influencers in Greece in 2023. Most popular hashtags: #giveaway #giveawaygr #greece.
 platform: Instagram
 hits: 581
 text_top: See the top-rated Instagram profiles on inBeat.

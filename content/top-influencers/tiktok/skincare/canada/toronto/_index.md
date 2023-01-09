@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Toronto In 2022
+title: Top 10 Skincare TikTok Influencers In Toronto in 2023
 description: >-
-  Find top skincare TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #skincare #foryou #toronto.
+  Find top skincare TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #skincare #foryou #toronto.
 platform: TikTok
 hits: 33
 text_top: Analyze the most popular TikTok accounts on inBeat.

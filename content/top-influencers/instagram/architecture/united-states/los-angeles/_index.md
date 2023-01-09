@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Los Angeles In 2022
+title: Top 10 Architecture Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top architecture Instagram influencers in Los Angeles in 2022. Most popular hashtags: #architecture #losangeles #california #design.
+  Find top architecture Instagram influencers in Los Angeles in 2023. Most popular hashtags: #architecture #losangeles #california #design.
 platform: Instagram
 hits: 202
 text_top: Discover the best Instagram accounts on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       Kara Mann
     bio: >-
-      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Text Me 312 847 2022
+      Interior Design + Architecture Chicago + Los Angeles Maker @kept.home Text Me 312 847 2023
     location: "United States"
     followers: 33947
     engagement: 176

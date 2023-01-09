@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In India In 2022
+title: Top 10 Barbers Instagram Influencers In India in 2023
 description: >-
-  Find top barbers Instagram influencers in India in 2022. Most popular hashtags: #barber #fashion #barbershop #style.
+  Find top barbers Instagram influencers in India in 2023. Most popular hashtags: #barber #fashion #barbershop #style.
 platform: Instagram
 hits: 57
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       DETAILS
     bio: >-
-      2022 #live #love #laugh 💈Natural 🇬🇧🇯🇲 Subscribe to YouTube Channel
+      2023 #live #love #laugh 💈Natural 🇬🇧🇯🇲 Subscribe to YouTube Channel
     location: "India"
     followers: 20743
     engagement: 556

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Cali In 2022
+title: Top 10 Lifestyle Instagram Influencers In Cali in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Cali in 2022. Most popular hashtags: #lifestyle #colombia #cali #calicolombia.
+  Find top lifestyle Instagram influencers in Cali in 2023. Most popular hashtags: #lifestyle #colombia #cali #calicolombia.
 platform: Instagram
 hits: 47
 text_top: Identify the best Instagram accounts on inBeat.

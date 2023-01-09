@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Italy In 2022
+title: Top 10 Cyclists Instagram Influencers In Italy in 2023
 description: >-
-  Find top cyclists Instagram influencers in Italy in 2022. Most popular hashtags: #cyclinglife #cyclist #cycling.
+  Find top cyclists Instagram influencers in Italy in 2023. Most popular hashtags: #cyclinglife #cyclist #cycling.
 platform: Instagram
 hits: 98
 text_top: See the top-rated Instagram influencers on inBeat.

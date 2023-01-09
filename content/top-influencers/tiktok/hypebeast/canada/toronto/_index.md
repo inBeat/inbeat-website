@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Toronto In 2022
+title: Top 10 Hypebeast TikTok Influencers In Toronto in 2023
 description: >-
-  Find top hypebeast TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #hypebeast #sneakers #toronto.
+  Find top hypebeast TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #hypebeast #sneakers #toronto.
 platform: TikTok
 hits: 10
 text_top: Identify the most popular TikTok influencers on inBeat.

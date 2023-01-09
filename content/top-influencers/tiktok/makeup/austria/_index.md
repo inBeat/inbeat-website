@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Austria In 2022
+title: Top 10 Makeup TikTok Influencers In Austria in 2023
 description: >-
-  Find top makeup TikTok influencers in Austria in 2022. Most popular hashtags: #makeup #foryou #viral #fyp.
+  Find top makeup TikTok influencers in Austria in 2023. Most popular hashtags: #makeup #foryou #viral #fyp.
 platform: TikTok
 hits: 38
 text_top: Discover the top-rated TikTok influencers on inBeat.

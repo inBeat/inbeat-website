@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Izmir In 2022
+title: Top 10 Nutrition Instagram Influencers In Izmir in 2023
 description: >-
-  Find top nutrition Instagram influencers in Izmir in 2022. Most popular hashtags: #izmir #istanbul #diyetisyen.
+  Find top nutrition Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #istanbul #diyetisyen.
 platform: Instagram
 hits: 5
 text_top: See the best Instagram profiles on inBeat.

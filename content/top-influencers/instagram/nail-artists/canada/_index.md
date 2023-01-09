@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Canada In 2022
+title: Top 10 Nail Artists Instagram Influencers In Canada in 2023
 description: >-
-  Find top nail artists Instagram influencers in Canada in 2022. Most popular hashtags: #nails #nailart #nailsofinstagram #nailsalon.
+  Find top nail artists Instagram influencers in Canada in 2023. Most popular hashtags: #nails #nailart #nailsofinstagram #nailsalon.
 platform: Instagram
 hits: 23
 text_top: See the most popular Instagram accounts on inBeat.

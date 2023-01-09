@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In France In 2022
+title: Top 10 Boxers TikTok Influencers In France in 2023
 description: >-
-  Find top boxers TikTok influencers in France in 2022. Most popular hashtags: #boxer #foryou #pourtoi #viral.
+  Find top boxers TikTok influencers in France in 2023. Most popular hashtags: #boxer #foryou #pourtoi #viral.
 platform: TikTok
 hits: 12
 text_top: Discover the top-rated TikTok influencers on inBeat.

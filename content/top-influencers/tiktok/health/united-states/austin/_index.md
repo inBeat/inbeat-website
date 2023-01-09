@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Austin In 2022
+title: Top 10 Health TikTok Influencers In Austin in 2023
 description: >-
-  Find top health TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #health #duet #foryou.
+  Find top health TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #health #duet #foryou.
 platform: TikTok
 hits: 45
 text_top: Discover the best TikTok accounts on inBeat.

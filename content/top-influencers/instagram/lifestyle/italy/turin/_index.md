@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Turin In 2022
+title: Top 10 Lifestyle Instagram Influencers In Turin in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Turin in 2022. Most popular hashtags: #torino #instagood #makeup #style.
+  Find top lifestyle Instagram influencers in Turin in 2023. Most popular hashtags: #torino #instagood #makeup #style.
 platform: Instagram
 hits: 22
 text_top: Identify the top-rated Instagram influencers on inBeat.

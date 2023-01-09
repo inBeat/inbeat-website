@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Brazil In 2022
+title: Top 10 Illustrators Instagram Influencers In Brazil in 2023
 description: >-
-  Find top illustrators Instagram influencers in Brazil in 2022. Most popular hashtags: #illustration #art #digitalart #digitalpainting.
+  Find top illustrators Instagram influencers in Brazil in 2023. Most popular hashtags: #illustration #art #digitalart #digitalpainting.
 platform: Instagram
 hits: 155
 text_top: Identify the best Instagram accounts on inBeat.

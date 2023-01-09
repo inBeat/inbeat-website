@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Morocco In 2022
+title: Top 10 Beauty TikTok Influencers In Morocco in 2023
 description: >-
-  Find top beauty TikTok influencers in Morocco in 2022. Most popular hashtags: #morocco #tiktok #beauty #maroc.
+  Find top beauty TikTok influencers in Morocco in 2023. Most popular hashtags: #morocco #tiktok #beauty #maroc.
 platform: TikTok
 hits: 16
 text_top: Discover the best TikTok profiles on inBeat.

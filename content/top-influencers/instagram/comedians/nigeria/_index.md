@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Nigeria In 2022
+title: Top 10 Comedians Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top comedians Instagram influencers in Nigeria in 2022. Most popular hashtags: #comedy #funnymemes #fun.
+  Find top comedians Instagram influencers in Nigeria in 2023. Most popular hashtags: #comedy #funnymemes #fun.
 platform: Instagram
 hits: 32
 text_top: Analyze the top-rated Instagram influencers on inBeat.

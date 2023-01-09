@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Las Vegas In 2022
+title: Top 10 Vegan Instagram Influencers In Las Vegas in 2023
 description: >-
-  Find top vegan Instagram influencers in Las Vegas in 2022. Most popular hashtags: #vegan #lasvegas #foodie.
+  Find top vegan Instagram influencers in Las Vegas in 2023. Most popular hashtags: #vegan #lasvegas #foodie.
 platform: Instagram
 hits: 49
 text_top: Identify the top-rated Instagram influencers on inBeat.

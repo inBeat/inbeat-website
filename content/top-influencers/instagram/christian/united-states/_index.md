@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In United States In 2022
+title: Top 10 Christian Instagram Influencers In United States in 2023
 description: >-
-  Find top christian Instagram influencers in United States in 2022. Most popular hashtags: #halloween #jeepwrangler #photography.
+  Find top christian Instagram influencers in United States in 2023. Most popular hashtags: #halloween #jeepwrangler #photography.
 platform: Instagram
 hits: 3807
 text_top: Analyze the best Instagram influencers on inBeat.

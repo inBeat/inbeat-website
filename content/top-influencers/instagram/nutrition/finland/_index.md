@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Finland In 2022
+title: Top 10 Nutrition Instagram Influencers In Finland in 2023
 description: >-
-  Find top nutrition Instagram influencers in Finland in 2022. Most popular hashtags: #nutrition #fitness #weekend #healthyliving.
+  Find top nutrition Instagram influencers in Finland in 2023. Most popular hashtags: #nutrition #fitness #weekend #healthyliving.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram accounts on inBeat.
@@ -111,7 +111,7 @@ profiles:
     location: "Finland"
     followers: 37376
     engagement: 491
-    commentsToLikes: 0.052022
+    commentsToLikes: 0.052023
     id: ck5zzznbhcop40i14yk9kmsm5
     verified: false
     hashtags: "#hyvinvointi, #tiedenaiset, #vastuullisuus, #terveys"

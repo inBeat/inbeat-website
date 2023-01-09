@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Norway In 2022
+title: Top 10 Crossfit Instagram Influencers In Norway in 2023
 description: >-
-  Find top crossfit Instagram influencers in Norway in 2022. Most popular hashtags: #crossfit #nocco #nanox.
+  Find top crossfit Instagram influencers in Norway in 2023. Most popular hashtags: #crossfit #nocco #nanox.
 platform: Instagram
 hits: 63
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Greece In 2022
+title: Top 10 Travel Instagram Influencers In Greece in 2023
 description: >-
-  Find top travel Instagram influencers in Greece in 2022. Most popular hashtags: #ig #greece #visitgreece #cyclades.
+  Find top travel Instagram influencers in Greece in 2023. Most popular hashtags: #ig #greece #visitgreece #cyclades.
 platform: Instagram
 hits: 696
 text_top: Identify the best Instagram profiles on inBeat.

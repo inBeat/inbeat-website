@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Indonesia In 2022
+title: Top 10 Cooking TikTok Influencers In Indonesia in 2023
 description: >-
-  Find top cooking TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryoupage #samasamabelajar #foryou.
+  Find top cooking TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryoupage #samasamabelajar #foryou.
 platform: TikTok
 hits: 30
 text_top: Identify the top-rated TikTok accounts on inBeat.

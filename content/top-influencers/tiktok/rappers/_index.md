@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In 2022
+title: Top 10 Rappers TikTok Influencers in 2023
 description: >-
-  Find top rappers TikTok influencers in 2022. Most popular hashtags: #duet #fyp #greenscreen #foryoupage.
+  Find top rappers TikTok influencers in 2023. Most popular hashtags: #duet #fyp #greenscreen #foryoupage.
 platform: TikTok
 hits: 1003
 text_top: Discover the best TikTok accounts on inBeat.

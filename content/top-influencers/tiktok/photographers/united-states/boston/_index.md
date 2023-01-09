@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Boston In 2022
+title: Top 10 Photographers TikTok Influencers In Boston in 2023
 description: >-
-  Find top photographers TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #photographer #foryoupage #photography.
+  Find top photographers TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #photographer #foryoupage #photography.
 platform: TikTok
 hits: 10
 text_top: Identify the top-rated TikTok accounts on inBeat.

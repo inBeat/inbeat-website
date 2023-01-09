@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In United States In 2022
+title: Top 10 Vegan TikTok Influencers In United States in 2023
 description: >-
-  Find top vegan TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #greenscreen #biden.
+  Find top vegan TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #greenscreen #biden.
 platform: TikTok
 hits: 1028
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Fashion TikTok Influencers In United Arab Emirates in 2023
 description: >-
-  Find top fashion TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #fyp #foryou #fashion.
+  Find top fashion TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fyp #foryou #fashion.
 platform: TikTok
 hits: 60
 text_top: Analyze the top-rated TikTok influencers on inBeat.

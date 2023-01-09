@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Brazil In 2022
+title: Top 10 Gaming Instagram Influencers In Brazil in 2023
 description: >-
-  Find top gaming Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #redhead #csgo.
+  Find top gaming Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #redhead #csgo.
 platform: Instagram
 hits: 146
 text_top: See the top-rated Instagram accounts on inBeat.

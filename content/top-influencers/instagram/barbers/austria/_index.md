@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Austria In 2022
+title: Top 10 Barbers Instagram Influencers In Austria in 2023
 description: >-
-  Find top barbers Instagram influencers in Austria in 2022. Most popular hashtags: #barber #fashion #austria #hairstyle.
+  Find top barbers Instagram influencers in Austria in 2023. Most popular hashtags: #barber #fashion #austria #hairstyle.
 platform: Instagram
 hits: 12
 text_top: See the best Instagram profiles on inBeat.

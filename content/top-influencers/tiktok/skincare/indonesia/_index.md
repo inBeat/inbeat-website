@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Indonesia In 2022
+title: Top 10 Skincare TikTok Influencers In Indonesia in 2023
 description: >-
-  Find top skincare TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #skincare #foryou #foryoupage.
+  Find top skincare TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #skincare #foryou #foryoupage.
 platform: TikTok
 hits: 94
 text_top: Identify the most popular TikTok accounts on inBeat.

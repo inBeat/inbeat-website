@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers TikTok Influencers In United States In 2022
+title: Top 10 Golfers TikTok Influencers In United States in 2023
 description: >-
-  Find top golfers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #golf #foryoupage.
+  Find top golfers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #golf #foryoupage.
 platform: TikTok
 hits: 135
 text_top: Identify the most popular TikTok profiles on inBeat.

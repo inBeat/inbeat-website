@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Austria In 2022
+title: Top 10 Gaming TikTok Influencers In Austria in 2023
 description: >-
-  Find top gaming TikTok influencers in Austria in 2022. Most popular hashtags: #foryou #gaming #fyp #fy.
+  Find top gaming TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #gaming #fyp #fy.
 platform: TikTok
 hits: 19
 text_top: Discover the top-rated TikTok accounts on inBeat.

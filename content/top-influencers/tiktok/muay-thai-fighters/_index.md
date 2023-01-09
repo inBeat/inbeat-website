@@ -1,7 +1,7 @@
 ---
-title: Top 10 Muay Thai Fighters TikTok Influencers In 2022
+title: Top 10 Muay Thai Fighters TikTok Influencers in 2023
 description: >-
-  Find top muay thai fighters TikTok influencers in 2022. Most popular hashtags: #fighter #muaythai #kickboxing #fyp.
+  Find top muay thai fighters TikTok influencers in 2023. Most popular hashtags: #fighter #muaythai #kickboxing #fyp.
 platform: TikTok
 hits: 26
 text_top: Identify the most popular TikTok profiles on inBeat.
@@ -123,7 +123,7 @@ profiles:
     location: "Canada"
     followers: 18100
     engagement: 1597
-    commentsToLikes: 0.020221
+    commentsToLikes: 0.020231
     id: ckcji6ly5cn750j23aupt2c46
     verified: false
     hashtags: "#kickboxing, #motivation, #girlpower, #workout"

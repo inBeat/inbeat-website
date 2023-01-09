@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Switzerland In 2022
+title: Top 10 Mothers TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top mothers TikTok influencers in Switzerland in 2022. Most popular hashtags: #foryou #fyp #foryoupage #viral.
+  Find top mothers TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fyp #foryoupage #viral.
 platform: TikTok
 hits: 11
 text_top: See the best TikTok accounts on inBeat.

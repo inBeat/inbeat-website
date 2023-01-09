@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Australia In 2022
+title: Top 10 Guitar Instagram Influencers In Australia in 2023
 description: >-
-  Find top guitar Instagram influencers in Australia in 2022. Most popular hashtags: #guitarist #guitar #metal.
+  Find top guitar Instagram influencers in Australia in 2023. Most popular hashtags: #guitarist #guitar #metal.
 platform: Instagram
 hits: 76
 text_top: Identify the most popular Instagram profiles on inBeat.

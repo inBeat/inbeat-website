@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In San Francisco In 2022
+title: Top 10 Makeup TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top makeup TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #makeup #sanfrancisco #foryou.
+  Find top makeup TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #makeup #sanfrancisco #foryou.
 platform: TikTok
 hits: 28
 text_top: Analyze the top-rated TikTok accounts on inBeat.

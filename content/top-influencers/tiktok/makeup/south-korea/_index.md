@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Korea In 2022
+title: Top 10 Makeup TikTok Influencers In South Korea in 2023
 description: >-
-  Find top makeup TikTok influencers in South Korea in 2022. Most popular hashtags: #makeup #fyp #halloween #pov.
+  Find top makeup TikTok influencers in South Korea in 2023. Most popular hashtags: #makeup #fyp #halloween #pov.
 platform: TikTok
 hits: 46
 text_top: See the best TikTok accounts on inBeat.

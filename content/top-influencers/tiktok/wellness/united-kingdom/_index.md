@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness TikTok Influencers In United Kingdom In 2022
+title: Top 10 Wellness TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top wellness TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #wellness #london #foryoupage.
+  Find top wellness TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #wellness #london #foryoupage.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Surf Instagram Influencers In 2022
+title: Top 10 Surf Instagram Influencers in 2023
 description: >-
-  Find top surf Instagram influencers in 2022. Most popular hashtags: #surf #surftrip #waves.
+  Find top surf Instagram influencers in 2023. Most popular hashtags: #surf #surftrip #waves.
 platform: Instagram
 hits: 8421
 text_top: Discover the best Instagram profiles on inBeat.

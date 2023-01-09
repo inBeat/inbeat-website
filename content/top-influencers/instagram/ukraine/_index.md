@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Ukraine In 2022
+title: Top 10 Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top Instagram influencers in Ukraine in 2022. Most popular hashtags: #artofinstagram #duende #photography.
+  Find top Instagram influencers in Ukraine in 2023. Most popular hashtags: #artofinstagram #duende #photography.
 platform: Instagram
 hits: 3438
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Singapore In 2022
+title: Top 10 Architecture Instagram Influencers In Singapore in 2023
 description: >-
-  Find top architecture Instagram influencers in Singapore in 2022. Most popular hashtags: #architecture #singapore #travel #beautifuldestinations.
+  Find top architecture Instagram influencers in Singapore in 2023. Most popular hashtags: #architecture #singapore #travel #beautifuldestinations.
 platform: Instagram
 hits: 17
 text_top: Analyze the best Instagram accounts on inBeat.

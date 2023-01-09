@@ -1,7 +1,7 @@
 ---
-title: Top 10 Basketball Players TikTok Influencers In 2022
+title: Top 10 Basketball Players TikTok Influencers in 2023
 description: >-
-  Find top basketball players TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #foryoupage #basketball.
+  Find top basketball players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #foryoupage #basketball.
 platform: TikTok
 hits: 105
 text_top: See the best TikTok profiles on inBeat.

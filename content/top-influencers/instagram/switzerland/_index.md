@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Switzerland In 2022
+title: Top 10 Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #fashion #foryou.
+  Find top Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #fashion #foryou.
 platform: Instagram
 hits: 2421
 text_top: Analyze the most popular Instagram profiles on inBeat.

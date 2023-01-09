@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In France In 2022
+title: Top 10 Makeup Instagram Influencers In France in 2023
 description: >-
-  Find top makeup Instagram influencers in France in 2022. Most popular hashtags: #makeup #anastasiabeverlyhills #makeupartist #makeuplover.
+  Find top makeup Instagram influencers in France in 2023. Most popular hashtags: #makeup #anastasiabeverlyhills #makeupartist #makeuplover.
 platform: Instagram
 hits: 1877
 text_top: Identify the top-rated Instagram accounts on inBeat.

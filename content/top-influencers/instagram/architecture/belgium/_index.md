@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Belgium In 2022
+title: Top 10 Architecture Instagram Influencers In Belgium in 2023
 description: >-
-  Find top architecture Instagram influencers in Belgium in 2022. Most popular hashtags: #architecture #minimalism #contemporaryart #bluesky.
+  Find top architecture Instagram influencers in Belgium in 2023. Most popular hashtags: #architecture #minimalism #contemporaryart #bluesky.
 platform: Instagram
 hits: 36
 text_top: Discover the most popular Instagram accounts on inBeat.
@@ -99,7 +99,7 @@ profiles:
     location: "Belgium"
     followers: 5365
     engagement: 914
-    commentsToLikes: 0.202230
+    commentsToLikes: 0.202330
     id: ck139tp5ln2bj0i190g37u7tz
     verified: false
     hashtags: "#discoverunder10k, #passionpasport, #traveleurope, #visitghent"

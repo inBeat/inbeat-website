@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Berlin In 2022
+title: Top 10 Fashion Instagram Influencers In Berlin in 2023
 description: >-
-  Find top fashion Instagram influencers in Berlin in 2022. Most popular hashtags: #fashion #berlin #fashionblogger #love.
+  Find top fashion Instagram influencers in Berlin in 2023. Most popular hashtags: #fashion #berlin #fashionblogger #love.
 platform: Instagram
 hits: 942
 text_top: Analyze the best Instagram accounts on inBeat.

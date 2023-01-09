@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Los Angeles In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Los Angeles in 2022. Most popular hashtags: #tattoo #fyp #losangeles #tattoos.
+  Find top tattoo-artists TikTok influencers in Los Angeles in 2023. Most popular hashtags: #tattoo #fyp #losangeles #tattoos.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok accounts on inBeat.

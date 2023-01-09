@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Ireland In 2022
+title: Top 10 Vegan TikTok Influencers In Ireland in 2023
 description: >-
-  Find top vegan TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #irish #duet #vegan.
+  Find top vegan TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #irish #duet #vegan.
 platform: TikTok
 hits: 11
 text_top: Discover the best TikTok profiles on inBeat.

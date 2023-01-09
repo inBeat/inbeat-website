@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In United States In 2022
+title: Top 10 Lifestyle Instagram Influencers In United States in 2023
 description: >-
-  Find top lifestyle Instagram influencers in United States in 2022. Most popular hashtags: #ad #ootd #outfits.
+  Find top lifestyle Instagram influencers in United States in 2023. Most popular hashtags: #ad #ootd #outfits.
 platform: Instagram
 hits: 9038
 text_top: Identify the top-rated Instagram accounts on inBeat.

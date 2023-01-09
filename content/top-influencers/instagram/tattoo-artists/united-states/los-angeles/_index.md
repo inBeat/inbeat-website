@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Los Angeles In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #tattooartist #blackwork.
+  Find top tattoo-artists Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #tattooartist #blackwork.
 platform: Instagram
 hits: 131
 text_top: Discover the most popular Instagram profiles on inBeat.

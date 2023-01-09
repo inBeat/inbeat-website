@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Peru In 2022
+title: Top 10 Cooking Instagram Influencers In Peru in 2023
 description: >-
-  Find top cooking Instagram influencers in Peru in 2022. Most popular hashtags: #style #love #smile #art.
+  Find top cooking Instagram influencers in Peru in 2023. Most popular hashtags: #style #love #smile #art.
 platform: Instagram
 hits: 23
 text_top: Identify the most popular Instagram profiles on inBeat.

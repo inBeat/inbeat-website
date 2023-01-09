@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Bali In 2022
+title: Top 10 Food Instagram Influencers In Bali in 2023
 description: >-
-  Find top food Instagram influencers in Bali in 2022. Most popular hashtags: #bali #baliindonesia #balilife #foodbali.
+  Find top food Instagram influencers in Bali in 2023. Most popular hashtags: #bali #baliindonesia #balilife #foodbali.
 platform: Instagram
 hits: 78
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Dallas In 2022
+title: Top 10 Christian TikTok Influencers In Dallas in 2023
 description: >-
-  Find top christian TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #christian #greenscreen #duet.
+  Find top christian TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #christian #greenscreen #duet.
 platform: TikTok
 hits: 27
 text_top: Discover the best TikTok accounts on inBeat.

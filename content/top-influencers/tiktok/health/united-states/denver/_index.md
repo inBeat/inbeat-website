@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Denver In 2022
+title: Top 10 Health TikTok Influencers In Denver in 2023
 description: >-
-  Find top health TikTok influencers in Denver in 2022. Most popular hashtags: #foryoupage #denver #funny #foryou.
+  Find top health TikTok influencers in Denver in 2023. Most popular hashtags: #foryoupage #denver #funny #foryou.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok profiles on inBeat.

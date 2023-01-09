@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Chile In 2022
+title: Top 10 Health TikTok Influencers In Chile in 2023
 description: >-
-  Find top health TikTok influencers in Chile in 2022. Most popular hashtags: #fyp #foryou #parati #chile.
+  Find top health TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #foryou #parati #chile.
 platform: TikTok
 hits: 11
 text_top: See the best TikTok influencers on inBeat.

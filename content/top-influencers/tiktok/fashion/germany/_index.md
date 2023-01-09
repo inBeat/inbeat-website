@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Germany In 2022
+title: Top 10 Fashion TikTok Influencers In Germany in 2023
 description: >-
-  Find top fashion TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #fashion #tiktoktipps.
+  Find top fashion TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #fashion #tiktoktipps.
 platform: TikTok
 hits: 249
 text_top: Identify the most popular TikTok accounts on inBeat.

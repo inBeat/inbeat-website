@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Indonesia In 2022
+title: Top 10 Vegan Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top vegan Instagram influencers in Indonesia in 2022. Most popular hashtags: #indonesia #happy #vegan.
+  Find top vegan Instagram influencers in Indonesia in 2023. Most popular hashtags: #indonesia #happy #vegan.
 platform: Instagram
 hits: 77
 text_top: Identify the best Instagram accounts on inBeat.

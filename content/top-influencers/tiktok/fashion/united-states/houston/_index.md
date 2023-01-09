@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Houston In 2022
+title: Top 10 Fashion TikTok Influencers In Houston in 2023
 description: >-
-  Find top fashion TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #foryou #fashion #greenscreen.
+  Find top fashion TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #foryou #fashion #greenscreen.
 platform: TikTok
 hits: 34
 text_top: Analyze the top-rated TikTok accounts on inBeat.

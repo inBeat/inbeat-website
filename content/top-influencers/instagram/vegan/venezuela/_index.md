@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Venezuela In 2022
+title: Top 10 Vegan Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top vegan Instagram influencers in Venezuela in 2022. Most popular hashtags: #tbt #venezuela #goodvibes #healthylifestyle.
+  Find top vegan Instagram influencers in Venezuela in 2023. Most popular hashtags: #tbt #venezuela #goodvibes #healthylifestyle.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram profiles on inBeat.

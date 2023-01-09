@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Portugal In 2022
+title: Top 10 Makeup TikTok Influencers In Portugal in 2023
 description: >-
-  Find top makeup TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #makeup #foryou #fy.
+  Find top makeup TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #makeup #foryou #fy.
 platform: TikTok
 hits: 22
 text_top: Identify the most popular TikTok accounts on inBeat.

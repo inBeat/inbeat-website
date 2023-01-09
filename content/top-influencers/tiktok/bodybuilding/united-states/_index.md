@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In United States In 2022
+title: Top 10 Bodybuilding TikTok Influencers In United States in 2023
 description: >-
-  Find top bodybuilding TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #viral #bodybuilding.
+  Find top bodybuilding TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #viral #bodybuilding.
 platform: TikTok
 hits: 248
 text_top: Discover the top-rated TikTok accounts on inBeat.

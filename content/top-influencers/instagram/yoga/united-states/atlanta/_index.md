@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Atlanta In 2022
+title: Top 10 Yoga Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top yoga Instagram influencers in Atlanta in 2022. Most popular hashtags: #yoga #fitness #atlanta #fashion.
+  Find top yoga Instagram influencers in Atlanta in 2023. Most popular hashtags: #yoga #fitness #atlanta #fashion.
 platform: Instagram
 hits: 49
 text_top: Discover the most popular Instagram profiles on inBeat.

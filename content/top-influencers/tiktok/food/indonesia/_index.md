@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Indonesia In 2022
+title: Top 10 Food TikTok Influencers In Indonesia in 2023
 description: >-
-  Find top food TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top food TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
 hits: 63
 text_top: Analyze the best TikTok influencers on inBeat.

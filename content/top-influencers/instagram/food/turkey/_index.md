@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Turkey In 2022
+title: Top 10 Food Instagram Influencers In Turkey in 2023
 description: >-
-  Find top food Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #travel #travelblogger #gezilecekyerler.
+  Find top food Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #travel #travelblogger #gezilecekyerler.
 platform: Instagram
 hits: 703
 text_top: Identify the top-rated Instagram accounts on inBeat.

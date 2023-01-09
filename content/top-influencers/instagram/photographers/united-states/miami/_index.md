@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Miami In 2022
+title: Top 10 Photographers Instagram Influencers In Miami in 2023
 description: >-
-  Find top photographers Instagram influencers in Miami in 2022. Most popular hashtags: #miami #photography #fashion #miamiphotographer.
+  Find top photographers Instagram influencers in Miami in 2023. Most popular hashtags: #miami #photography #fashion #miamiphotographer.
 platform: Instagram
 hits: 339
 text_top: Analyze the most popular Instagram influencers on inBeat.

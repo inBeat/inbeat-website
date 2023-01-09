@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Ukraine In 2022
+title: Top 10 Dancers Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top dancers Instagram influencers in Ukraine in 2022. Most popular hashtags: #dance #dancer #love.
+  Find top dancers Instagram influencers in Ukraine in 2023. Most popular hashtags: #dance #dancer #love.
 platform: Instagram
 hits: 121
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Artists Instagram Influencers In 2022
+title: Top 10 Makeup Artists Instagram Influencers in 2023
 description: >-
-  Find top makeup artists Instagram influencers in 2022. Most popular hashtags: #makeup #makeupaddict #anastasiabeverlyhills #plouisebase.
+  Find top makeup artists Instagram influencers in 2023. Most popular hashtags: #makeup #makeupaddict #anastasiabeverlyhills #plouisebase.
 platform: Instagram
 hits: 4087
 text_top: Identify the best Instagram accounts on inBeat.

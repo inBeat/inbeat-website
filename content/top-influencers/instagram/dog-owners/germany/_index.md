@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In Germany In 2022
+title: Top 10 Dog Owners Instagram Influencers In Germany in 2023
 description: >-
-  Find top dog owners Instagram influencers in Germany in 2022. Most popular hashtags: #love #dog #dogowner #instadog.
+  Find top dog owners Instagram influencers in Germany in 2023. Most popular hashtags: #love #dog #dogowner #instadog.
 platform: Instagram
 hits: 19
 text_top: See the most popular Instagram profiles on inBeat.

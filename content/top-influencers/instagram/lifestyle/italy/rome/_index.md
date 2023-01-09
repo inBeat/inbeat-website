@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Rome In 2022
+title: Top 10 Lifestyle Instagram Influencers In Rome in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Rome in 2022. Most popular hashtags: #italy #lifestyle #rome #love.
+  Find top lifestyle Instagram influencers in Rome in 2023. Most popular hashtags: #italy #lifestyle #rome #love.
 platform: Instagram
 hits: 146
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Claytano
     bio: >-
-      ➡️ NCAA Hockey Player ➡️ Pro Gamer and YouTuber ➡️ CEO/Founder Ennovative Inc ➡️ @Forbes 30 under 30 Nominee 2022 @mlo.shoes @introvertedextrovert.co
+      ➡️ NCAA Hockey Player ➡️ Pro Gamer and YouTuber ➡️ CEO/Founder Ennovative Inc ➡️ @Forbes 30 under 30 Nominee 2023 @mlo.shoes @introvertedextrovert.co
     location: "Italy"
     followers: 14467
     engagement: 336

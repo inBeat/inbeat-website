@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Porto In 2022
+title: Top 10 TikTok Influencers In Porto in 2023
 description: >-
-  Find top TikTok influencers in Porto in 2022. Most popular hashtags: #fyp #foryou #foryoupage #portugal.
+  Find top TikTok influencers in Porto in 2023. Most popular hashtags: #fyp #foryou #foryoupage #portugal.
 platform: TikTok
 hits: 48
 text_top: See the top-rated TikTok influencers on inBeat.

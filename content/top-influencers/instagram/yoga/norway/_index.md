@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Norway In 2022
+title: Top 10 Yoga Instagram Influencers In Norway in 2023
 description: >-
-  Find top yoga Instagram influencers in Norway in 2022. Most popular hashtags: #yoga #balance #yogainspiration #yogaeverywhere.
+  Find top yoga Instagram influencers in Norway in 2023. Most popular hashtags: #yoga #balance #yogainspiration #yogaeverywhere.
 platform: Instagram
 hits: 34
 text_top: Identify the most popular Instagram accounts on inBeat.

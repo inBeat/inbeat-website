@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Malaysia In 2022
+title: Top 10 Christian Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top christian Instagram influencers in Malaysia in 2022. Most popular hashtags: #malaysia #cmco #exploretocreate.
+  Find top christian Instagram influencers in Malaysia in 2023. Most popular hashtags: #malaysia #cmco #exploretocreate.
 platform: Instagram
 hits: 12
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Liam | 粘悦馨
     bio: >-
-      @sheenaliam Timesnewromance.info@gmail.com @naughton_gallery 17.9.2020 - 31.01.2022
+      @sheenaliam Timesnewromance.info@gmail.com @naughton_gallery 17.9.2020 - 31.01.2023
     location: "Malaysia"
     followers: 307319
     engagement: 323

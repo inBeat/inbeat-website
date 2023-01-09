@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Dallas In 2022
+title: Top 10 Models Instagram Influencers In Dallas in 2023
 description: >-
-  Find top models Instagram influencers in Dallas in 2022. Most popular hashtags: #model #beauty #fashion.
+  Find top models Instagram influencers in Dallas in 2023. Most popular hashtags: #model #beauty #fashion.
 platform: Instagram
 hits: 222
 text_top: Analyze the top-rated Instagram profiles on inBeat.
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.072255
     id: ck8sxovdei4os0j78xrt9j44s
     verified: false
-    hashtags: "#siswimsearch2022, #dallas, #model, #photography"
+    hashtags: "#siswimsearch2023, #dallas, #model, #photography"
   - username: "thecheydawn"
     fullname: >-
       Chey Dawn

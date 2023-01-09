@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Bali In 2022
+title: Top 10 Travel Instagram Influencers In Bali in 2023
 description: >-
-  Find top travel Instagram influencers in Bali in 2022. Most popular hashtags: #bali #travel #balilife #indonesia.
+  Find top travel Instagram influencers in Bali in 2023. Most popular hashtags: #bali #travel #balilife #indonesia.
 platform: Instagram
 hits: 402
 text_top: See the top-rated Instagram profiles on inBeat.

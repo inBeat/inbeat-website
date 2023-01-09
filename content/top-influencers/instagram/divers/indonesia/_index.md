@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Indonesia In 2022
+title: Top 10 Divers Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top divers Instagram influencers in Indonesia in 2022. Most popular hashtags: #diindonesiaaja #marcmyway #nickywoophoto.
+  Find top divers Instagram influencers in Indonesia in 2023. Most popular hashtags: #diindonesiaaja #marcmyway #nickywoophoto.
 platform: Instagram
 hits: 85
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Finland In 2022
+title: Top 10 Home Decor Instagram Influencers In Finland in 2023
 description: >-
-  Find top home decor Instagram influencers in Finland in 2022. Most popular hashtags: #homedecor #olohuone #livingroom #scandinavianhome.
+  Find top home decor Instagram influencers in Finland in 2023. Most popular hashtags: #homedecor #olohuone #livingroom #scandinavianhome.
 platform: Instagram
 hits: 48
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Essi Vehkala
     bio: >-
-      〰️ interiorlover | family | lifestyle ✍🏻 blogger & content creator ♡ mom of two & 👰🏻 7/2022 📍Finland | Jyväskylä ✉️ essi.vehkala@gmail.com
+      〰️ interiorlover | family | lifestyle ✍🏻 blogger & content creator ♡ mom of two & 👰🏻 7/2023 📍Finland | Jyväskylä ✉️ essi.vehkala@gmail.com
     location: "Finland"
     followers: 13405
     engagement: 602

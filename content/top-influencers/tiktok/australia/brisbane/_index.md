@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Brisbane In 2022
+title: Top 10 TikTok Influencers In Brisbane in 2023
 description: >-
-  Find top TikTok influencers in Brisbane in 2022. Most popular hashtags: #fyp #duet #brisbane #foryoupage.
+  Find top TikTok influencers in Brisbane in 2023. Most popular hashtags: #fyp #duet #brisbane #foryoupage.
 platform: TikTok
 hits: 183
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bangkok In 2022
+title: Top 10 Beauty Instagram Influencers In Bangkok in 2023
 description: >-
-  Find top beauty Instagram influencers in Bangkok in 2022. Most popular hashtags: #thailand #beauty #bangkok #travel.
+  Find top beauty Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #beauty #bangkok #travel.
 platform: Instagram
 hits: 14
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -39,7 +39,7 @@ profiles:
     location: "Thailand"
     followers: 6308
     engagement: 697
-    commentsToLikes: 0.120229
+    commentsToLikes: 0.120239
     id: ckf5riz4ecu4x0j23rpeeyhem
     verified: false
     hashtags: "#underwear, #jakarta, #eventos, #style"

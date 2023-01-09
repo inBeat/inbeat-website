@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In San Diego In 2022
+title: Top 10 Photographers Instagram Influencers In San Diego in 2023
 description: >-
-  Find top photographers Instagram influencers in San Diego in 2022. Most popular hashtags: #padres #sandiego #american.
+  Find top photographers Instagram influencers in San Diego in 2023. Most popular hashtags: #padres #sandiego #american.
 platform: Instagram
 hits: 139
 text_top: See the most popular Instagram influencers on inBeat.

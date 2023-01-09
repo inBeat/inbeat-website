@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Austria In 2022
+title: Top 10 Architecture Instagram Influencers In Austria in 2023
 description: >-
-  Find top architecture Instagram influencers in Austria in 2022. Most popular hashtags: #moodygrams #vienna #wien #igersvienna.
+  Find top architecture Instagram influencers in Austria in 2023. Most popular hashtags: #moodygrams #vienna #wien #igersvienna.
 platform: Instagram
 hits: 54
 text_top: See the top-rated Instagram influencers on inBeat.

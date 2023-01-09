@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Brazil In 2022
+title: Top 10 Cyclists Instagram Influencers In Brazil in 2023
 description: >-
-  Find top cyclists Instagram influencers in Brazil in 2022. Most popular hashtags: #ciclismo #cycling #cyclist #roadbike.
+  Find top cyclists Instagram influencers in Brazil in 2023. Most popular hashtags: #ciclismo #cycling #cyclist #roadbike.
 platform: Instagram
 hits: 36
 text_top: Discover the best Instagram profiles on inBeat.

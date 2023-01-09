@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Spain In 2022
+title: Top 10 Beauty Instagram Influencers In Spain in 2023
 description: >-
-  Find top beauty Instagram influencers in Spain in 2022. Most popular hashtags: #sorteoespan #shein #sheingals.
+  Find top beauty Instagram influencers in Spain in 2023. Most popular hashtags: #sorteoespan #shein #sheingals.
 platform: Instagram
 hits: 1522
 text_top: Identify the best Instagram accounts on inBeat.

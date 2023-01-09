@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Porto In 2022
+title: Top 10 Lifestyle Instagram Influencers In Porto in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Porto in 2022. Most popular hashtags: #portugal #picoftheday #ootd #instadaily.
+  Find top lifestyle Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #picoftheday #ootd #instadaily.
 platform: Instagram
 hits: 49
 text_top: Identify the most popular Instagram influencers on inBeat.

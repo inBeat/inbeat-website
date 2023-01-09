@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Melbourne In 2022
+title: Top 10 Lifestyle Instagram Influencers In Melbourne in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Melbourne in 2022. Most popular hashtags: #melbourneblogger #melbourne #lifestyle.
+  Find top lifestyle Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourneblogger #melbourne #lifestyle.
 platform: Instagram
 hits: 115
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Toronto In 2022
+title: Top 10 Makeup Instagram Influencers In Toronto in 2023
 description: >-
-  Find top makeup Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #makeup #torontomakeupartist #torontomua.
+  Find top makeup Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #makeup #torontomakeupartist #torontomua.
 platform: Instagram
 hits: 167
 text_top: Analyze the most popular Instagram influencers on inBeat.

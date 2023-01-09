@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Mumbai In 2022
+title: Top 10 Fitness Instagram Influencers In Mumbai in 2023
 description: >-
-  Find top fitness Instagram influencers in Mumbai in 2022. Most popular hashtags: #fitness #india #mumbai #instagood.
+  Find top fitness Instagram influencers in Mumbai in 2023. Most popular hashtags: #fitness #india #mumbai #instagood.
 platform: Instagram
 hits: 567
 text_top: Discover the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Bangkok In 2022
+title: Top 10 Bloggers Instagram Influencers In Bangkok in 2023
 description: >-
-  Find top bloggers Instagram influencers in Bangkok in 2022. Most popular hashtags: #thailand #amazingthailand #adayinthailand #sonyalpha.
+  Find top bloggers Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #amazingthailand #adayinthailand #sonyalpha.
 platform: Instagram
 hits: 9
 text_top: Analyze the best Instagram influencers on inBeat.

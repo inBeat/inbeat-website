@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In 2022
+title: Top 10 Dancers TikTok Influencers in 2023
 description: >-
-  Find top dancers TikTok influencers in 2022. Most popular hashtags: #dance #foryou #fyp #tiktok.
+  Find top dancers TikTok influencers in 2023. Most popular hashtags: #dance #foryou #fyp #tiktok.
 platform: TikTok
 hits: 4280
 text_top: See the top-rated TikTok accounts on inBeat.

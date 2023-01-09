@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Porto In 2022
+title: Top 10 Food Instagram Influencers In Porto in 2023
 description: >-
-  Find top food Instagram influencers in Porto in 2022. Most popular hashtags: #porto #style #photooftheday #love.
+  Find top food Instagram influencers in Porto in 2023. Most popular hashtags: #porto #style #photooftheday #love.
 platform: Instagram
 hits: 14
 text_top: Analyze the top-rated Instagram accounts on inBeat.

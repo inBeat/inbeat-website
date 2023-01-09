@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Austin In 2022
+title: Top 10 Vegan TikTok Influencers In Austin in 2023
 description: >-
-  Find top vegan TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #vegan #duet #foryoupage.
+  Find top vegan TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #vegan #duet #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok profiles on inBeat.

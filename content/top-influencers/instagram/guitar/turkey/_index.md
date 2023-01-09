@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Turkey In 2022
+title: Top 10 Guitar Instagram Influencers In Turkey in 2023
 description: >-
-  Find top guitar Instagram influencers in Turkey in 2022. Most popular hashtags: #music #guitar #musician #bass.
+  Find top guitar Instagram influencers in Turkey in 2023. Most popular hashtags: #music #guitar #musician #bass.
 platform: Instagram
 hits: 143
 text_top: Discover the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Bali In 2022
+title: Top 10 Stylists Instagram Influencers In Bali in 2023
 description: >-
-  Find top stylists Instagram influencers in Bali in 2022. Most popular hashtags: #bali #ootd #photoshoot #stylist.
+  Find top stylists Instagram influencers in Bali in 2023. Most popular hashtags: #bali #ootd #photoshoot #stylist.
 platform: Instagram
 hits: 18
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Japan In 2022
+title: Top 10 Lifestyle Instagram Influencers In Japan in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Japan in 2022. Most popular hashtags: #pr #fashion #lifestyle.
+  Find top lifestyle Instagram influencers in Japan in 2023. Most popular hashtags: #pr #fashion #lifestyle.
 platform: Instagram
 hits: 195
 text_top: See the top-rated Instagram accounts on inBeat.

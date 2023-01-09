@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Los Angeles In 2022
+title: Top 10 Bloggers TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top bloggers TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #losangeles #fashion #foryoupage.
+  Find top bloggers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #fashion #foryoupage.
 platform: TikTok
 hits: 11
 text_top: Discover the top-rated TikTok influencers on inBeat.

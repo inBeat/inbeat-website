@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Brisbane In 2022
+title: Top 10 Models Instagram Influencers In Brisbane in 2023
 description: >-
-  Find top models Instagram influencers in Brisbane in 2022. Most popular hashtags: #brisbane #model #brisbanephotographer.
+  Find top models Instagram influencers in Brisbane in 2023. Most popular hashtags: #brisbane #model #brisbanephotographer.
 platform: Instagram
 hits: 71
 text_top: See the top-rated Instagram accounts on inBeat.

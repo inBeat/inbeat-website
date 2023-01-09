@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Poland In 2022
+title: Top 10 Skincare Instagram Influencers In Poland in 2023
 description: >-
-  Find top skincare Instagram influencers in Poland in 2022. Most popular hashtags: #makijaz #makija #makeup #makeuplover.
+  Find top skincare Instagram influencers in Poland in 2023. Most popular hashtags: #makijaz #makija #makeup #makeuplover.
 platform: Instagram
 hits: 446
 text_top: Identify the top-rated Instagram accounts on inBeat.

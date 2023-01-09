@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Greece In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Greece in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Greece in 2022. Most popular hashtags: #tattoo #athens #greece #tattooideas.
+  Find top tattoo-artists Instagram influencers in Greece in 2023. Most popular hashtags: #tattoo #athens #greece #tattooideas.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram accounts on inBeat.

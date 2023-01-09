@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Russia In 2022
+title: Top 10 Fashion TikTok Influencers In Russia in 2023
 description: >-
-  Find top fashion TikTok influencers in Russia in 2022. Most popular hashtags: #fashion #ootd #photooftheday #foryou.
+  Find top fashion TikTok influencers in Russia in 2023. Most popular hashtags: #fashion #ootd #photooftheday #foryou.
 platform: TikTok
 hits: 52
 text_top: Discover the best TikTok influencers on inBeat.

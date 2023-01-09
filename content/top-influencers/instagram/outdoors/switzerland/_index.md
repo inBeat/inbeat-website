@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Switzerland In 2022
+title: Top 10 Outdoors Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top outdoors Instagram influencers in Switzerland in 2022. Most popular hashtags: #swissalps #switzerland #artofvisuals #visitswitzerland.
+  Find top outdoors Instagram influencers in Switzerland in 2023. Most popular hashtags: #swissalps #switzerland #artofvisuals #visitswitzerland.
 platform: Instagram
 hits: 262
 text_top: Discover the top-rated Instagram accounts on inBeat.

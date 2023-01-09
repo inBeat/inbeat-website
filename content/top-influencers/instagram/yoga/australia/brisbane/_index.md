@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Brisbane In 2022
+title: Top 10 Yoga Instagram Influencers In Brisbane in 2023
 description: >-
-  Find top yoga Instagram influencers in Brisbane in 2022. Most popular hashtags: #love #australia #brisbane #yoga.
+  Find top yoga Instagram influencers in Brisbane in 2023. Most popular hashtags: #love #australia #brisbane #yoga.
 platform: Instagram
 hits: 13
 text_top: Identify the most popular Instagram influencers on inBeat.

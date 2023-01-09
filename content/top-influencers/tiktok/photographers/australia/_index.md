@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Australia In 2022
+title: Top 10 Photographers TikTok Influencers In Australia in 2023
 description: >-
-  Find top photographers TikTok influencers in Australia in 2022. Most popular hashtags: #photography #photoshoot #fyp #photographer.
+  Find top photographers TikTok influencers in Australia in 2023. Most popular hashtags: #photography #photoshoot #fyp #photographer.
 platform: TikTok
 hits: 51
 text_top: See the best TikTok influencers on inBeat.

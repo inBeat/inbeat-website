@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Colombia In 2022
+title: Top 10 Comedians Instagram Influencers In Colombia in 2023
 description: >-
-  Find top comedians Instagram influencers in Colombia in 2022. Most popular hashtags: #comedia #colombia #tbt.
+  Find top comedians Instagram influencers in Colombia in 2023. Most popular hashtags: #comedia #colombia #tbt.
 platform: Instagram
 hits: 115
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Poland In 2022
+title: Top 10 Hypebeast Instagram Influencers In Poland in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Poland in 2022. Most popular hashtags: #hypebeast #poland #fashion #style.
+  Find top hypebeast Instagram influencers in Poland in 2023. Most popular hashtags: #hypebeast #poland #fashion #style.
 platform: Instagram
 hits: 23
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Italy In 2022
+title: Top 10 Athletes TikTok Influencers In Italy in 2023
 description: >-
-  Find top athletes TikTok influencers in Italy in 2022. Most popular hashtags: #perte #workout #fitness #foryoupage.
+  Find top athletes TikTok influencers in Italy in 2023. Most popular hashtags: #perte #workout #fitness #foryoupage.
 platform: TikTok
 hits: 21
 text_top: See the most popular TikTok profiles on inBeat.

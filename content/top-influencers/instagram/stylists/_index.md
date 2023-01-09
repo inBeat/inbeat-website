@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In 2022
+title: Top 10 Stylists Instagram Influencers in 2023
 description: >-
-  Find top stylists Instagram influencers in 2022. Most popular hashtags: #ad #hoping #netaporter.
+  Find top stylists Instagram influencers in 2023. Most popular hashtags: #ad #hoping #netaporter.
 platform: Instagram
 hits: 10290
 text_top: Identify the most popular Instagram influencers on inBeat.

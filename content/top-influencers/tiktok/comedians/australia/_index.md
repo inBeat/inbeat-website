@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Australia In 2022
+title: Top 10 Comedians TikTok Influencers In Australia in 2023
 description: >-
-  Find top comedians TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #comedy #foryou #duet.
+  Find top comedians TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #comedy #foryou #duet.
 platform: TikTok
 hits: 24
 text_top: Discover the best TikTok profiles on inBeat.

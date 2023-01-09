@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In San Diego In 2022
+title: Top 10 Yoga TikTok Influencers In San Diego in 2023
 description: >-
-  Find top yoga TikTok influencers in San Diego in 2022. Most popular hashtags: #sandiego #fyp #yoga #funny.
+  Find top yoga TikTok influencers in San Diego in 2023. Most popular hashtags: #sandiego #fyp #yoga #funny.
 platform: TikTok
 hits: 9
 text_top: Discover the best TikTok accounts on inBeat.

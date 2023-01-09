@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Belgium In 2022
+title: Top 10 Lingerie Instagram Influencers In Belgium in 2023
 description: >-
-  Find top lingerie Instagram influencers in Belgium in 2022. Most popular hashtags: #lingerie #model #belgium #body.
+  Find top lingerie Instagram influencers in Belgium in 2023. Most popular hashtags: #lingerie #model #belgium #body.
 platform: Instagram
 hits: 29
 text_top: See the most popular Instagram accounts on inBeat.

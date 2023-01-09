@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Chile In 2022
+title: Top 10 Models Instagram Influencers In Chile in 2023
 description: >-
-  Find top models Instagram influencers in Chile in 2022. Most popular hashtags: #makeupartist #corsalovers #nyxcosmetics.
+  Find top models Instagram influencers in Chile in 2023. Most popular hashtags: #makeupartist #corsalovers #nyxcosmetics.
 platform: Instagram
 hits: 136
 text_top: See the best Instagram profiles on inBeat.

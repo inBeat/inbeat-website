@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Turkey In 2022
+title: Top 10 Cinema Instagram Influencers In Turkey in 2023
 description: >-
-  Find top cinema Instagram influencers in Turkey in 2022. Most popular hashtags: #tbt #photooftheday #photography.
+  Find top cinema Instagram influencers in Turkey in 2023. Most popular hashtags: #tbt #photooftheday #photography.
 platform: Instagram
 hits: 251
 text_top: See the top-rated Instagram accounts on inBeat.

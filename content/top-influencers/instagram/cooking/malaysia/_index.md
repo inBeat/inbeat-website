@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Malaysia In 2022
+title: Top 10 Cooking Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top cooking Instagram influencers in Malaysia in 2022. Most popular hashtags: #cooking #staysafe #stayhome #love.
+  Find top cooking Instagram influencers in Malaysia in 2023. Most popular hashtags: #cooking #staysafe #stayhome #love.
 platform: Instagram
 hits: 53
 text_top: Identify the top-rated Instagram influencers on inBeat.

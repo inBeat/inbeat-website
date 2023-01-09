@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Nigeria In 2022
+title: Top 10 Photographers Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top photographers Instagram influencers in Nigeria in 2022. Most popular hashtags: #portrait #lagosphotographer #abujaphotographer #lagos.
+  Find top photographers Instagram influencers in Nigeria in 2023. Most popular hashtags: #portrait #lagosphotographer #abujaphotographer #lagos.
 platform: Instagram
 hits: 65
 text_top: Identify the best Instagram influencers on inBeat.

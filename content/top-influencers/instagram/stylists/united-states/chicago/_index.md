@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Chicago In 2022
+title: Top 10 Stylists Instagram Influencers In Chicago in 2023
 description: >-
-  Find top stylists Instagram influencers in Chicago in 2022. Most popular hashtags: #stylist #fashion #fashionphotography.
+  Find top stylists Instagram influencers in Chicago in 2023. Most popular hashtags: #stylist #fashion #fashionphotography.
 platform: Instagram
 hits: 71
 text_top: See the top-rated Instagram accounts on inBeat.

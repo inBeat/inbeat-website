@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Malaysia In 2022
+title: Top 10 TikTok Influencers In Malaysia in 2023
 description: >-
-  Find top TikTok influencers in Malaysia in 2022. Most popular hashtags: #duet #shouldbeme #foryou #foryoupage.
+  Find top TikTok influencers in Malaysia in 2023. Most popular hashtags: #duet #shouldbeme #foryou #foryoupage.
 platform: TikTok
 hits: 483
 text_top: Analyze the most popular TikTok influencers on inBeat.

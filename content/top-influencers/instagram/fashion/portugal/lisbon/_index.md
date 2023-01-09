@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Lisbon In 2022
+title: Top 10 Fashion Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top fashion Instagram influencers in Lisbon in 2022. Most popular hashtags: #portugal #fashion #lisbon #blogger.
+  Find top fashion Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #fashion #lisbon #blogger.
 platform: Instagram
 hits: 78
 text_top: Discover the top-rated Instagram influencers on inBeat.

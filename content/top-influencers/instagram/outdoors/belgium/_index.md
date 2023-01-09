@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Belgium In 2022
+title: Top 10 Outdoors Instagram Influencers In Belgium in 2023
 description: >-
-  Find top outdoors Instagram influencers in Belgium in 2022. Most popular hashtags: #outdoors #nature #photography #belgium.
+  Find top outdoors Instagram influencers in Belgium in 2023. Most popular hashtags: #outdoors #nature #photography #belgium.
 platform: Instagram
 hits: 45
 text_top: See the most popular Instagram accounts on inBeat.

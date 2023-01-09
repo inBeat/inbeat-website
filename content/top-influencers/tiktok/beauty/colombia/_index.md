@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Colombia In 2022
+title: Top 10 Beauty TikTok Influencers In Colombia in 2023
 description: >-
-  Find top beauty TikTok influencers in Colombia in 2022. Most popular hashtags: #beauty #fyp #foryou #viral.
+  Find top beauty TikTok influencers in Colombia in 2023. Most popular hashtags: #beauty #fyp #foryou #viral.
 platform: TikTok
 hits: 23
 text_top: Identify the most popular TikTok influencers on inBeat.

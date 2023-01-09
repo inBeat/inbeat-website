@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In 2022
+title: Top 10 Crossfit TikTok Influencers in 2023
 description: >-
-  Find top crossfit TikTok influencers in 2022. Most popular hashtags: #fyp #crossfit #foryou #duet.
+  Find top crossfit TikTok influencers in 2023. Most popular hashtags: #fyp #crossfit #foryou #duet.
 platform: TikTok
 hits: 371
 text_top: Identify the top-rated TikTok accounts on inBeat.

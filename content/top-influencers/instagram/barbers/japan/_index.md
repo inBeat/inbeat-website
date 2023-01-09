@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Japan In 2022
+title: Top 10 Barbers Instagram Influencers In Japan in 2023
 description: >-
-  Find top barbers Instagram influencers in Japan in 2022. Most popular hashtags: #barber #barbershop #tokyo #vintage.
+  Find top barbers Instagram influencers in Japan in 2023. Most popular hashtags: #barber #barbershop #tokyo #vintage.
 platform: Instagram
 hits: 21
 text_top: Identify the best Instagram influencers on inBeat.

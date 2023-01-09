@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Norway In 2022
+title: Top 10 Food TikTok Influencers In Norway in 2023
 description: >-
-  Find top food TikTok influencers in Norway in 2022. Most popular hashtags: #fyp #food #foryou #foryoupage.
+  Find top food TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
 hits: 36
 text_top: Analyze the most popular TikTok accounts on inBeat.

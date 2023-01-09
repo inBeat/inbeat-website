@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Istanbul In 2022
+title: Top 10 Models Instagram Influencers In Istanbul in 2023
 description: >-
-  Find top models Instagram influencers in Istanbul in 2022. Most popular hashtags: #model #istanbul #smile #travel.
+  Find top models Instagram influencers in Istanbul in 2023. Most popular hashtags: #model #istanbul #smile #travel.
 platform: Instagram
 hits: 196
 text_top: Discover the most popular Instagram influencers on inBeat.

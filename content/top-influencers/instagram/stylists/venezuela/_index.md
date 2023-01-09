@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Venezuela In 2022
+title: Top 10 Stylists Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top stylists Instagram influencers in Venezuela in 2022. Most popular hashtags: #makeup #venezuela #stylist #model.
+  Find top stylists Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #venezuela #stylist #model.
 platform: Instagram
 hits: 16
 text_top: Identify the top-rated Instagram profiles on inBeat.

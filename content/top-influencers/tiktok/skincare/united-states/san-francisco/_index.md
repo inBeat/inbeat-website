@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In San Francisco In 2022
+title: Top 10 Skincare TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top skincare TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #california #sanfrancisco #bayarea.
+  Find top skincare TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #california #sanfrancisco #bayarea.
 platform: TikTok
 hits: 13
 text_top: Analyze the best TikTok influencers on inBeat.

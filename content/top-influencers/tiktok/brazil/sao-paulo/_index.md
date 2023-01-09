@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Sao Paulo In 2022
+title: Top 10 TikTok Influencers In Sao Paulo in 2023
 description: >-
-  Find top TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #fyp #dueto #fy #foryou.
+  Find top TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #fyp #dueto #fy #foryou.
 platform: TikTok
 hits: 192
 text_top: Identify the top-rated TikTok influencers on inBeat.

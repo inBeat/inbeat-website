@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In San Francisco In 2022
+title: Top 10 Health TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top health TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fyp #california #foryoupage.
+  Find top health TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #fyp #california #foryoupage.
 platform: TikTok
 hits: 11
 text_top: Discover the top-rated TikTok accounts on inBeat.

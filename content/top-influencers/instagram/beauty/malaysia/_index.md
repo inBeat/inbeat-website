@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Malaysia In 2022
+title: Top 10 Beauty Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top beauty Instagram influencers in Malaysia in 2022. Most popular hashtags: #explore #tiktok #tiktokmalaysia.
+  Find top beauty Instagram influencers in Malaysia in 2023. Most popular hashtags: #explore #tiktok #tiktokmalaysia.
 platform: Instagram
 hits: 236
 text_top: Analyze the top-rated Instagram accounts on inBeat.

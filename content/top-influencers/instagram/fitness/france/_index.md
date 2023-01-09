@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In France In 2022
+title: Top 10 Fitness Instagram Influencers In France in 2023
 description: >-
-  Find top fitness Instagram influencers in France in 2022. Most popular hashtags: #fit #fitness #confinement #fitfrenchies.
+  Find top fitness Instagram influencers in France in 2023. Most popular hashtags: #fit #fitness #confinement #fitfrenchies.
 platform: Instagram
 hits: 1092
 text_top: Analyze the most popular Instagram influencers on inBeat.

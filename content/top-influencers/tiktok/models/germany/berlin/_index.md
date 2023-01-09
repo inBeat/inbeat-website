@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Berlin In 2022
+title: Top 10 Models TikTok Influencers In Berlin in 2023
 description: >-
-  Find top models TikTok influencers in Berlin in 2022. Most popular hashtags: #berlin #foryou #fyp #model.
+  Find top models TikTok influencers in Berlin in 2023. Most popular hashtags: #berlin #foryou #fyp #model.
 platform: TikTok
 hits: 15
 text_top: Identify the most popular TikTok influencers on inBeat.

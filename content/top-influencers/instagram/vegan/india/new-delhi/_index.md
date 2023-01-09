@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In New Delhi In 2022
+title: Top 10 Vegan Instagram Influencers In New Delhi in 2023
 description: >-
-  Find top vegan Instagram influencers in New Delhi in 2022. Most popular hashtags: #vegan #delhi #delhigram #sodelhi.
+  Find top vegan Instagram influencers in New Delhi in 2023. Most popular hashtags: #vegan #delhi #delhigram #sodelhi.
 platform: Instagram
 hits: 21
 text_top: Discover the top-rated Instagram accounts on inBeat.

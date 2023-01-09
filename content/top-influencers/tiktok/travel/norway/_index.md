@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Norway In 2022
+title: Top 10 Travel TikTok Influencers In Norway in 2023
 description: >-
-  Find top travel TikTok influencers in Norway in 2022. Most popular hashtags: #travel #norway #fyp #norge.
+  Find top travel TikTok influencers in Norway in 2023. Most popular hashtags: #travel #norway #fyp #norge.
 platform: TikTok
 hits: 18
 text_top: Discover the most popular TikTok accounts on inBeat.

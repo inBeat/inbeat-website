@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Nigeria In 2022
+title: Top 10 Christian Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top christian Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #tiktok #endpolicebrutality.
+  Find top christian Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #tiktok #endpolicebrutality.
 platform: Instagram
 hits: 19
 text_top: See the top-rated Instagram profiles on inBeat.

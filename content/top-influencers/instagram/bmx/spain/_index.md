@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Spain In 2022
+title: Top 10 Bmx Instagram Influencers In Spain in 2023
 description: >-
-  Find top bmx Instagram influencers in Spain in 2022. Most popular hashtags: #bmx #barcelona #photography #bmxlife.
+  Find top bmx Instagram influencers in Spain in 2023. Most popular hashtags: #bmx #barcelona #photography #bmxlife.
 platform: Instagram
 hits: 43
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Australia In 2022
+title: Top 10 Bakers Instagram Influencers In Australia in 2023
 description: >-
-  Find top bakers Instagram influencers in Australia in 2022. Most popular hashtags: #bread #homemade #chocolate.
+  Find top bakers Instagram influencers in Australia in 2023. Most popular hashtags: #bread #homemade #chocolate.
 platform: Instagram
 hits: 116
 text_top: See the top-rated Instagram profiles on inBeat.

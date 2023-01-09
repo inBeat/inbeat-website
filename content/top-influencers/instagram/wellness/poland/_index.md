@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Poland In 2022
+title: Top 10 Wellness Instagram Influencers In Poland in 2023
 description: >-
-  Find top wellness Instagram influencers in Poland in 2022. Most popular hashtags: #wellness #fitness #girl #strajkkobiet.
+  Find top wellness Instagram influencers in Poland in 2023. Most popular hashtags: #wellness #fitness #girl #strajkkobiet.
 platform: Instagram
 hits: 33
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Germany In 2022
+title: Top 10 Food Instagram Influencers In Germany in 2023
 description: >-
-  Find top food Instagram influencers in Germany in 2022. Most popular hashtags: #autumnvibes #outfitinspiration #autumn #gewinnspiel.
+  Find top food Instagram influencers in Germany in 2023. Most popular hashtags: #autumnvibes #outfitinspiration #autumn #gewinnspiel.
 platform: Instagram
 hits: 1980
 text_top: See the best Instagram accounts on inBeat.

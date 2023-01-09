@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Denver In 2022
+title: Top 10 Food Instagram Influencers In Denver in 2023
 description: >-
-  Find top food Instagram influencers in Denver in 2022. Most popular hashtags: #food #denver #denverfoodie #colorado.
+  Find top food Instagram influencers in Denver in 2023. Most popular hashtags: #food #denver #denverfoodie #colorado.
 platform: Instagram
 hits: 54
 text_top: Identify the most popular Instagram profiles on inBeat.

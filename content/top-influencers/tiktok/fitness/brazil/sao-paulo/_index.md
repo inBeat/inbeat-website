@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Sao Paulo In 2022
+title: Top 10 Fitness TikTok Influencers In Sao Paulo in 2023
 description: >-
-  Find top fitness TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #saopaulo #brasil #riodejaneiro #fitness.
+  Find top fitness TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #brasil #riodejaneiro #fitness.
 platform: TikTok
 hits: 16
 text_top: Discover the best TikTok influencers on inBeat.

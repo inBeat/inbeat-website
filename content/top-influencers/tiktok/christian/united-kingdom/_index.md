@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In United Kingdom In 2022
+title: Top 10 Christian TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top christian TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top christian TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
 hits: 144
 text_top: Identify the top-rated TikTok influencers on inBeat.

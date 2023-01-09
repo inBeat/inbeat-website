@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Dallas In 2022
+title: Top 10 Comedians TikTok Influencers In Dallas in 2023
 description: >-
-  Find top comedians TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #comedy #foryoupage.
+  Find top comedians TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #comedy #foryoupage.
 platform: TikTok
 hits: 7
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In South Africa In 2022
+title: Top 10 Illustrators Instagram Influencers In South Africa in 2023
 description: >-
-  Find top illustrators Instagram influencers in South Africa in 2022. Most popular hashtags: #illustration #southafrica #art #digitalart.
+  Find top illustrators Instagram influencers in South Africa in 2023. Most popular hashtags: #illustration #southafrica #art #digitalart.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram accounts on inBeat.

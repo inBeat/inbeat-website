@@ -1,7 +1,7 @@
 ---
-title: Top 10 Environmental Instagram Influencers In 2022
+title: Top 10 Environmental Instagram Influencers in 2023
 description: >-
-  Find top environmental Instagram influencers in 2022. Most popular hashtags: #games #gamer #gamergirl.
+  Find top environmental Instagram influencers in 2023. Most popular hashtags: #games #gamer #gamergirl.
 platform: Instagram
 hits: 279
 text_top: Identify the most popular Instagram profiles on inBeat.

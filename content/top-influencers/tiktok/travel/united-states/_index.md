@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In United States In 2022
+title: Top 10 Travel TikTok Influencers In United States in 2023
 description: >-
-  Find top travel TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #funny #stitch.
+  Find top travel TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #funny #stitch.
 platform: TikTok
 hits: 5244
 text_top: See the most popular TikTok profiles on inBeat.

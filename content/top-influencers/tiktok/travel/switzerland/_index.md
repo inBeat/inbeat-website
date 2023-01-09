@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Switzerland In 2022
+title: Top 10 Travel TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top travel TikTok influencers in Switzerland in 2022. Most popular hashtags: #switzerland #fyp #travel #viral.
+  Find top travel TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #fyp #travel #viral.
 platform: TikTok
 hits: 67
 text_top: See the best TikTok profiles on inBeat.

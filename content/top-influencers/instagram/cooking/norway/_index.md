@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Norway In 2022
+title: Top 10 Cooking Instagram Influencers In Norway in 2023
 description: >-
-  Find top cooking Instagram influencers in Norway in 2022. Most popular hashtags: #norway #nature #norge #oslo.
+  Find top cooking Instagram influencers in Norway in 2023. Most popular hashtags: #norway #nature #norge #oslo.
 platform: Instagram
 hits: 74
 text_top: Analyze the top-rated Instagram influencers on inBeat.

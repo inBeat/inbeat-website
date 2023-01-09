@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Miami In 2022
+title: Top 10 Comedians Instagram Influencers In Miami in 2023
 description: >-
-  Find top comedians Instagram influencers in Miami in 2022. Most popular hashtags: #miami #comedy #comedian #funny.
+  Find top comedians Instagram influencers in Miami in 2023. Most popular hashtags: #miami #comedy #comedian #funny.
 platform: Instagram
 hits: 33
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Chiang Mai In 2022
+title: Top 10 Fashion Instagram Influencers In Chiang Mai in 2023
 description: >-
-  Find top fashion Instagram influencers in Chiang Mai in 2022. Most popular hashtags: #thailand #fashion #love.
+  Find top fashion Instagram influencers in Chiang Mai in 2023. Most popular hashtags: #thailand #fashion #love.
 platform: Instagram
 hits: 4
 text_top: Identify the most popular Instagram profiles on inBeat.

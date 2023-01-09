@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Lisbon In 2022
+title: Top 10 TikTok Influencers In Lisbon in 2023
 description: >-
-  Find top TikTok influencers in Lisbon in 2022. Most popular hashtags: #portugal #fyp #lisbon #foryou.
+  Find top TikTok influencers in Lisbon in 2023. Most popular hashtags: #portugal #fyp #lisbon #foryou.
 platform: TikTok
 hits: 33
 text_top: See the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In United States In 2022
+title: Top 10 Bloggers TikTok Influencers In United States in 2023
 description: >-
-  Find top bloggers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryoupage #greenscreen #fashion.
+  Find top bloggers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryoupage #greenscreen #fashion.
 platform: TikTok
 hits: 188
 text_top: Analyze the most popular TikTok profiles on inBeat.

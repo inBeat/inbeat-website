@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Los Angeles In 2022
+title: Top 10 Lifestyle TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Los Angeles in 2022. Most popular hashtags: #lifestyle #foryou #losangeles #foryoupage.
+  Find top lifestyle TikTok influencers in Los Angeles in 2023. Most popular hashtags: #lifestyle #foryou #losangeles #foryoupage.
 platform: TikTok
 hits: 29
 text_top: Identify the best TikTok influencers on inBeat.

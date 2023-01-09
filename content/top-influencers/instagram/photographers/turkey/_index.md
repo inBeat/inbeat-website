@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Turkey In 2022
+title: Top 10 Photographers Instagram Influencers In Turkey in 2023
 description: >-
-  Find top photographers Instagram influencers in Turkey in 2022. Most popular hashtags: #portrait #earth #portraitpage.
+  Find top photographers Instagram influencers in Turkey in 2023. Most popular hashtags: #portrait #earth #portraitpage.
 platform: Instagram
 hits: 648
 text_top: Discover the top-rated Instagram influencers on inBeat.

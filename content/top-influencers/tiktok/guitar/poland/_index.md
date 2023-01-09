@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Poland In 2022
+title: Top 10 Guitar TikTok Influencers In Poland in 2023
 description: >-
-  Find top guitar TikTok influencers in Poland in 2022. Most popular hashtags: #dlaciebie #foryou #dc #viral.
+  Find top guitar TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #foryou #dc #viral.
 platform: TikTok
 hits: 13
 text_top: See the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners TikTok Influencers In United States In 2022
+title: Top 10 Runners TikTok Influencers In United States in 2023
 description: >-
-  Find top runners TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #funny #foryou.
+  Find top runners TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #funny #foryou.
 platform: TikTok
 hits: 198
 text_top: Discover the best TikTok influencers on inBeat.

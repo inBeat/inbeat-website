@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In United Kingdom In 2022
+title: Top 10 Fashion Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top fashion Instagram influencers in United Kingdom in 2022. Most popular hashtags: #ad #pltstyle #blogger.
+  Find top fashion Instagram influencers in United Kingdom in 2023. Most popular hashtags: #ad #pltstyle #blogger.
 platform: Instagram
 hits: 3554
 text_top: Analyze the most popular Instagram influencers on inBeat.

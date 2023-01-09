@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bali In 2022
+title: Top 10 Lifestyle Instagram Influencers In Bali in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Bali in 2022. Most popular hashtags: #bali #balilife #lifestyle #baliindonesia.
+  Find top lifestyle Instagram influencers in Bali in 2023. Most popular hashtags: #bali #balilife #lifestyle #baliindonesia.
 platform: Instagram
 hits: 138
 text_top: Identify the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Italy In 2022
+title: Top 10 Bodybuilding TikTok Influencers In Italy in 2023
 description: >-
-  Find top bodybuilding TikTok influencers in Italy in 2022. Most popular hashtags: #fitness #bodybuilding #workout #motivation.
+  Find top bodybuilding TikTok influencers in Italy in 2023. Most popular hashtags: #fitness #bodybuilding #workout #motivation.
 platform: TikTok
 hits: 14
 text_top: Analyze the best TikTok influencers on inBeat.

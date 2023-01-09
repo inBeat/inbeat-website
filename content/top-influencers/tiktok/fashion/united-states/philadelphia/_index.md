@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Philadelphia In 2022
+title: Top 10 Fashion TikTok Influencers In Philadelphia in 2023
 description: >-
-  Find top fashion TikTok influencers in Philadelphia in 2022. Most popular hashtags: #fyp #fashion #foryou #duet.
+  Find top fashion TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #fashion #foryou #duet.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok profiles on inBeat.

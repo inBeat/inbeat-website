@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Las Vegas In 2022
+title: Top 10 Bloggers Instagram Influencers In Las Vegas in 2023
 description: >-
-  Find top bloggers Instagram influencers in Las Vegas in 2022. Most popular hashtags: #lasvegas #blogger #lasvegasstrip #love.
+  Find top bloggers Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #blogger #lasvegasstrip #love.
 platform: Instagram
 hits: 69
 text_top: Analyze the top-rated Instagram accounts on inBeat.

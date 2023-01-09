@@ -1,7 +1,7 @@
 ---
-title: Top 10 Songwriters Instagram Influencers In 2022
+title: Top 10 Songwriters Instagram Influencers in 2023
 description: >-
-  Find top songwriters Instagram influencers in 2022. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
+  Find top songwriters Instagram influencers in 2023. Most popular hashtags: #garmin #ealiaaj #ambassadricevirginmobile.
 platform: Instagram
 hits: 4091
 text_top: Discover the best Instagram influencers on inBeat.
@@ -51,7 +51,7 @@ profiles:
     location: "United States"
     followers: 53537
     engagement: 342
-    commentsToLikes: 0.020227
+    commentsToLikes: 0.020237
     id: ck5c3y7290a0q0i11fk4e359n
     verified: true
     hashtags: "#primecuts, #luckreunion, #saveourstages"

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Chile In 2022
+title: Top 10 Fitness TikTok Influencers In Chile in 2023
 description: >-
-  Find top fitness TikTok influencers in Chile in 2022. Most popular hashtags: #parati #foryou #viral #fitness.
+  Find top fitness TikTok influencers in Chile in 2023. Most popular hashtags: #parati #foryou #viral #fitness.
 platform: TikTok
 hits: 21
 text_top: Discover the most popular TikTok influencers on inBeat.

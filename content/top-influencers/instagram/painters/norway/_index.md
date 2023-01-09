@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Norway In 2022
+title: Top 10 Painters Instagram Influencers In Norway in 2023
 description: >-
-  Find top painters Instagram influencers in Norway in 2022. Most popular hashtags: #norway #portrait #nature #artoftheday.
+  Find top painters Instagram influencers in Norway in 2023. Most popular hashtags: #norway #portrait #nature #artoftheday.
 platform: Instagram
 hits: 16
 text_top: See the best Instagram influencers on inBeat.

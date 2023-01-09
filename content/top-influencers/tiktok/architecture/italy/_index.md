@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Italy In 2022
+title: Top 10 Architecture TikTok Influencers In Italy in 2023
 description: >-
-  Find top architecture TikTok influencers in Italy in 2022. Most popular hashtags: #architecture #travel #italy #sunset.
+  Find top architecture TikTok influencers in Italy in 2023. Most popular hashtags: #architecture #travel #italy #sunset.
 platform: TikTok
 hits: 10
 text_top: Identify the most popular TikTok profiles on inBeat.

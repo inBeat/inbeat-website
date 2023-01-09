@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Phoenix In 2022
+title: Top 10 Food TikTok Influencers In Phoenix in 2023
 description: >-
-  Find top food TikTok influencers in Phoenix in 2022. Most popular hashtags: #food #fyp #duet #foryou.
+  Find top food TikTok influencers in Phoenix in 2023. Most popular hashtags: #food #fyp #duet #foryou.
 platform: TikTok
 hits: 21
 text_top: See the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Dallas In 2022
+title: Top 10 Photographers TikTok Influencers In Dallas in 2023
 description: >-
-  Find top photographers TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #photographer #dallas #photoshoot.
+  Find top photographers TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #photographer #dallas #photoshoot.
 platform: TikTok
 hits: 13
 text_top: Discover the top-rated TikTok accounts on inBeat.

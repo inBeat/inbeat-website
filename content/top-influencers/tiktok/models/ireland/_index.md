@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Ireland In 2022
+title: Top 10 Models TikTok Influencers In Ireland in 2023
 description: >-
-  Find top models TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #foryou #model #viral.
+  Find top models TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #model #viral.
 platform: TikTok
 hits: 9
 text_top: See the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Singapore In 2022
+title: Top 10 Dancers Instagram Influencers In Singapore in 2023
 description: >-
-  Find top dancers Instagram influencers in Singapore in 2022. Most popular hashtags: #dance #singapore #dancers #sgdance.
+  Find top dancers Instagram influencers in Singapore in 2023. Most popular hashtags: #dance #singapore #dancers #sgdance.
 platform: Instagram
 hits: 15
 text_top: See the most popular Instagram accounts on inBeat.

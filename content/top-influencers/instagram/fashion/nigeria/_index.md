@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Nigeria In 2022
+title: Top 10 Fashion Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top fashion Instagram influencers in Nigeria in 2022. Most popular hashtags: #explore #endsars #explorepage.
+  Find top fashion Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #endsars #explorepage.
 platform: Instagram
 hits: 211
 text_top: Analyze the most popular Instagram profiles on inBeat.

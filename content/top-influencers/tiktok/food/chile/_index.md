@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Chile In 2022
+title: Top 10 Food TikTok Influencers In Chile in 2023
 description: >-
-  Find top food TikTok influencers in Chile in 2022. Most popular hashtags: #fyp #chile #parati #food.
+  Find top food TikTok influencers in Chile in 2023. Most popular hashtags: #fyp #chile #parati #food.
 platform: TikTok
 hits: 19
 text_top: See the most popular TikTok profiles on inBeat.

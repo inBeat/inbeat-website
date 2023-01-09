@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Nigeria In 2022
+title: Top 10 TikTok Influencers In Nigeria in 2023
 description: >-
-  Find top TikTok influencers in Nigeria in 2022. Most popular hashtags: #foryou #foryoupage #fyp #duet.
+  Find top TikTok influencers in Nigeria in 2023. Most popular hashtags: #foryou #foryoupage #fyp #duet.
 platform: TikTok
 hits: 175
 text_top: Identify the best TikTok influencers on inBeat.

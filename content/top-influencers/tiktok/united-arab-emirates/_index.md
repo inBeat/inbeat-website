@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 TikTok Influencers In United Arab Emirates in 2023
 description: >-
-  Find top TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #duet #dubai #foryou.
+  Find top TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #duet #dubai #foryou.
 platform: TikTok
 hits: 1150
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Durban In 2022
+title: Top 10 Food TikTok Influencers In Durban in 2023
 description: >-
-  Find top food TikTok influencers in Durban in 2022. Most popular hashtags: #viral #fyp #tiktok #tiktoksa.
+  Find top food TikTok influencers in Durban in 2023. Most popular hashtags: #viral #fyp #tiktok #tiktoksa.
 platform: TikTok
 hits: 4
 text_top: See the most popular TikTok profiles on inBeat.

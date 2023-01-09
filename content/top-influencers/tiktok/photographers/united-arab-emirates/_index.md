@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Photographers TikTok Influencers In United Arab Emirates in 2023
 description: >-
-  Find top photographers TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #fyp #foryoupage #foryou.
+  Find top photographers TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok accounts on inBeat.

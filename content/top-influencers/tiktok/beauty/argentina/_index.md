@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Argentina In 2022
+title: Top 10 Beauty TikTok Influencers In Argentina in 2023
 description: >-
-  Find top beauty TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #argentina #foryou.
+  Find top beauty TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #argentina #foryou.
 platform: TikTok
 hits: 36
 text_top: Discover the best TikTok accounts on inBeat.

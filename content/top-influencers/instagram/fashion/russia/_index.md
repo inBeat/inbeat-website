@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Russia In 2022
+title: Top 10 Fashion Instagram Influencers In Russia in 2023
 description: >-
-  Find top fashion Instagram influencers in Russia in 2022. Most popular hashtags: #topkidsmodel #fashionmodel #topface.
+  Find top fashion Instagram influencers in Russia in 2023. Most popular hashtags: #topkidsmodel #fashionmodel #topface.
 platform: Instagram
 hits: 1473
 text_top: Discover the top-rated Instagram influencers on inBeat.

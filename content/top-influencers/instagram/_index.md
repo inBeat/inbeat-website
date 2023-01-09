@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In 2022
+title: Top 10 Instagram Influencers in 2023
 description: >-
-  Find top Instagram influencers from In 2022. Most popular hashtags: #nature #homesweethome #stayandwander.
+  Find top Instagram influencers from in 2023. Most popular hashtags: #nature #homesweethome #stayandwander.
 platform: Instagram
 hits: 699725
 text_top: Analyze the best Instagram profiles on inBeat.

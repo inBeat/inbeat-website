@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In 2022
+title: Top 10 Graphic-Designers Instagram Influencers in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in 2022. Most popular hashtags: #portrait #artlovers #portraitdrawing.
+  Find top graphic-designers Instagram influencers in 2023. Most popular hashtags: #portrait #artlovers #portraitdrawing.
 platform: Instagram
 hits: 1573
 text_top: Analyze the top-rated Instagram accounts on inBeat.

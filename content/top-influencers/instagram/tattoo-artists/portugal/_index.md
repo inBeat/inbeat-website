@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Portugal In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Portugal in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Portugal in 2022. Most popular hashtags: #tattoo #art #inked.
+  Find top tattoo-artists Instagram influencers in Portugal in 2023. Most popular hashtags: #tattoo #art #inked.
 platform: Instagram
 hits: 12
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Barcelona In 2022
+title: Top 10 Models Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top models Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #model #fashion #photooftheday.
+  Find top models Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #model #fashion #photooftheday.
 platform: Instagram
 hits: 201
 text_top: Identify the best Instagram profiles on inBeat.

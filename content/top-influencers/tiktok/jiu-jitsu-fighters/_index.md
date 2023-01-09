@@ -1,7 +1,7 @@
 ---
-title: Top 10 Jiu-Jitsu Fighters TikTok Influencers In 2022
+title: Top 10 Jiu-Jitsu Fighters TikTok Influencers in 2023
 description: >-
-  Find top jiu-jitsu fighters TikTok influencers in 2022. Most popular hashtags: #jiujitsu #fyp #mma #muaythai.
+  Find top jiu-jitsu fighters TikTok influencers in 2023. Most popular hashtags: #jiujitsu #fyp #mma #muaythai.
 platform: TikTok
 hits: 71
 text_top: Identify the best TikTok influencers on inBeat.

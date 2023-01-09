@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Greece In 2022
+title: Top 10 Fitness Instagram Influencers In Greece in 2023
 description: >-
-  Find top fitness Instagram influencers in Greece in 2022. Most popular hashtags: #summer #fitness #greece #staysafe.
+  Find top fitness Instagram influencers in Greece in 2023. Most popular hashtags: #summer #fitness #greece #staysafe.
 platform: Instagram
 hits: 174
 text_top: Discover the best Instagram accounts on inBeat.

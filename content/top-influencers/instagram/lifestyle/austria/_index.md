@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Austria In 2022
+title: Top 10 Lifestyle Instagram Influencers In Austria in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Austria in 2022. Most popular hashtags: #vienna #travel #blogger.
+  Find top lifestyle Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #travel #blogger.
 platform: Instagram
 hits: 186
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In 2022
+title: Top 10 Stylists TikTok Influencers in 2023
 description: >-
-  Find top stylists TikTok influencers in 2022. Most popular hashtags: #duet #foryou #makeup #tiktok.
+  Find top stylists TikTok influencers in 2023. Most popular hashtags: #duet #foryou #makeup #tiktok.
 platform: TikTok
 hits: 494
 text_top: Analyze the top-rated TikTok accounts on inBeat.

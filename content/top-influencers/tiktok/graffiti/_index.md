@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graffiti TikTok Influencers In 2022
+title: Top 10 Graffiti TikTok Influencers in 2023
 description: >-
-  Find top graffiti TikTok influencers in 2022. Most popular hashtags: #graffiti #art #streetart #painting.
+  Find top graffiti TikTok influencers in 2023. Most popular hashtags: #graffiti #art #streetart #painting.
 platform: TikTok
 hits: 207
 text_top: See the top-rated TikTok accounts on inBeat.

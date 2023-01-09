@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Seoul In 2022
+title: Top 10 Fashion Instagram Influencers In Seoul in 2023
 description: >-
-  Find top fashion Instagram influencers in Seoul in 2022. Most popular hashtags: #fashion #korea #ootd #model.
+  Find top fashion Instagram influencers in Seoul in 2023. Most popular hashtags: #fashion #korea #ootd #model.
 platform: Instagram
 hits: 38
 text_top: Analyze the most popular Instagram influencers on inBeat.
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.032625
     id: ck6tmfenv7qwp0j71tjf90a73
     verified: false
-    hashtags: "#lottehomeshopping, #2022ss, #youtube, #mcmstory"
+    hashtags: "#lottehomeshopping, #2023ss, #youtube, #mcmstory"
   - username: "charmstudio_official"
     fullname: >-
       참스튜디오

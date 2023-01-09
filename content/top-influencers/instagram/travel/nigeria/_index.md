@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Nigeria In 2022
+title: Top 10 Travel Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top travel Instagram influencers in Nigeria in 2022. Most popular hashtags: #beauty #explorepage #portrait #bellanaijaweddings.
+  Find top travel Instagram influencers in Nigeria in 2023. Most popular hashtags: #beauty #explorepage #portrait #bellanaijaweddings.
 platform: Instagram
 hits: 40
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Kingdom In 2022
+title: Top 10 Divers Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top divers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #love #wearediversity #equality #blm.
+  Find top divers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #love #wearediversity #equality #blm.
 platform: Instagram
 hits: 233
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Las Vegas In 2022
+title: Top 10 Makeup Instagram Influencers In Las Vegas in 2023
 description: >-
-  Find top makeup Instagram influencers in Las Vegas in 2022. Most popular hashtags: #makeup #lasvegas #fashion #model.
+  Find top makeup Instagram influencers in Las Vegas in 2023. Most popular hashtags: #makeup #lasvegas #fashion #model.
 platform: Instagram
 hits: 172
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Turkey In 2022
+title: Top 10 Fashion TikTok Influencers In Turkey in 2023
 description: >-
-  Find top fashion TikTok influencers in Turkey in 2022. Most popular hashtags: #fashion #fyp #ke #foryou.
+  Find top fashion TikTok influencers in Turkey in 2023. Most popular hashtags: #fashion #fyp #ke #foryou.
 platform: TikTok
 hits: 32
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Medellín In 2022
+title: Top 10 Fitness Instagram Influencers In Medellín in 2023
 description: >-
-  Find top fitness Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #fitness #colombia #fitnessmotivation.
+  Find top fitness Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #fitness #colombia #fitnessmotivation.
 platform: Instagram
 hits: 54
 text_top: Analyze the best Instagram accounts on inBeat.

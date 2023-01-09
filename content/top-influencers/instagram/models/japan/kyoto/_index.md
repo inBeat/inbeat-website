@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Kyoto In 2022
+title: Top 10 Models Instagram Influencers In Kyoto in 2023
 description: >-
-  Find top models Instagram influencers in Kyoto in 2022. Most popular hashtags: #kyoto #model #japan #fashion.
+  Find top models Instagram influencers in Kyoto in 2023. Most popular hashtags: #kyoto #model #japan #fashion.
 platform: Instagram
 hits: 25
 text_top: See the top-rated Instagram accounts on inBeat.

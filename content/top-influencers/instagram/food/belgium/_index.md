@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Belgium In 2022
+title: Top 10 Food Instagram Influencers In Belgium in 2023
 description: >-
-  Find top food Instagram influencers in Belgium in 2022. Most popular hashtags: #belgianblogger #fashion #outfit #fashionblogger.
+  Find top food Instagram influencers in Belgium in 2023. Most popular hashtags: #belgianblogger #fashion #outfit #fashionblogger.
 platform: Instagram
 hits: 111
 text_top: Discover the top-rated Instagram influencers on inBeat.

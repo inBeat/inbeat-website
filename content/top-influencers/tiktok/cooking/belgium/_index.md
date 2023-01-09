@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Belgium In 2022
+title: Top 10 Cooking TikTok Influencers In Belgium in 2023
 description: >-
-  Find top cooking TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #foryou #foryoupage #fy.
+  Find top cooking TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
 hits: 14
 text_top: Analyze the most popular TikTok influencers on inBeat.

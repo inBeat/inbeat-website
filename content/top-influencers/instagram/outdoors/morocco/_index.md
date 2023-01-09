@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Morocco In 2022
+title: Top 10 Outdoors Instagram Influencers In Morocco in 2023
 description: >-
-  Find top outdoors Instagram influencers in Morocco in 2022. Most popular hashtags: #nature #photography #outdoors #travel.
+  Find top outdoors Instagram influencers in Morocco in 2023. Most popular hashtags: #nature #photography #outdoors #travel.
 platform: Instagram
 hits: 13
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Judo Fighters Instagram Influencers In 2022
+title: Top 10 Judo Fighters Instagram Influencers in 2023
 description: >-
-  Find top judo fighters Instagram influencers in 2022. Most popular hashtags: #judo #judobelarusteam #ippongear #kukoljteam.
+  Find top judo fighters Instagram influencers in 2023. Most popular hashtags: #judo #judobelarusteam #ippongear #kukoljteam.
 platform: Instagram
 hits: 3
 text_top: Analyze the most popular Instagram influencers on inBeat.

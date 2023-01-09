@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Norway In 2022
+title: Top 10 Health TikTok Influencers In Norway in 2023
 description: >-
-  Find top health TikTok influencers in Norway in 2022. Most popular hashtags: #foryou #foryoupage #fyp #norway.
+  Find top health TikTok influencers in Norway in 2023. Most popular hashtags: #foryou #foryoupage #fyp #norway.
 platform: TikTok
 hits: 10
 text_top: Identify the best TikTok influencers on inBeat.

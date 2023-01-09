@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In 2022
+title: Top 10 Chefs Instagram Influencers in 2023
 description: >-
-  Find top chefs Instagram influencers in 2022. Most popular hashtags: #food #love #cheflife.
+  Find top chefs Instagram influencers in 2023. Most popular hashtags: #food #love #cheflife.
 platform: Instagram
 hits: 5178
 text_top: Discover the best Instagram accounts on inBeat.

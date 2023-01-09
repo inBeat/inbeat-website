@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Thailand In 2022
+title: Top 10 Guitar Instagram Influencers In Thailand in 2023
 description: >-
-  Find top guitar Instagram influencers in Thailand in 2022. Most popular hashtags: #getsunova #getsunova2 #kristperawat.
+  Find top guitar Instagram influencers in Thailand in 2023. Most popular hashtags: #getsunova #getsunova2 #kristperawat.
 platform: Instagram
 hits: 18
 text_top: Discover the best Instagram accounts on inBeat.

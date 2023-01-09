@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Chicago In 2022
+title: Top 10 Fitness Instagram Influencers In Chicago in 2023
 description: >-
-  Find top fitness Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #fitness #model #love.
+  Find top fitness Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #fitness #model #love.
 platform: Instagram
 hits: 239
 text_top: Identify the most popular Instagram accounts on inBeat.

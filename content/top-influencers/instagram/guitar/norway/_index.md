@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Norway In 2022
+title: Top 10 Guitar Instagram Influencers In Norway in 2023
 description: >-
-  Find top guitar Instagram influencers in Norway in 2022. Most popular hashtags: #norway #guitar #picoftheday #blackmetal.
+  Find top guitar Instagram influencers in Norway in 2023. Most popular hashtags: #norway #guitar #picoftheday #blackmetal.
 platform: Instagram
 hits: 12
 text_top: Discover the best Instagram profiles on inBeat.

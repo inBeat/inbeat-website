@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Barcelona In 2022
+title: Top 10 Makeup Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top makeup Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #makeup #model #photooftheday.
+  Find top makeup Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #makeup #model #photooftheday.
 platform: Instagram
 hits: 128
 text_top: Identify the best Instagram accounts on inBeat.
@@ -47,7 +47,7 @@ profiles:
     fullname: >-
       🌸Raisie 🌸
     bio: >-
-      50% Soft🐻 50% bad ass🌸 • Seoul April 2022 📍 🇰🇷 •@suicidegirls official 🎀 • @charliez__angelz Squad • MUA/ 메이크업 아티스트 💄 Works & collabs DM/EMAIL💌
+      50% Soft🐻 50% bad ass🌸 • Seoul April 2023 📍 🇰🇷 •@suicidegirls official 🎀 • @charliez__angelz Squad • MUA/ 메이크업 아티스트 💄 Works & collabs DM/EMAIL💌
     location: "Spain"
     followers: 41393
     engagement: 779

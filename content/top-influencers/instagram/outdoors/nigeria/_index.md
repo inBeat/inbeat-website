@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Nigeria In 2022
+title: Top 10 Outdoors Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top outdoors Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #beauty #photography #portrait.
+  Find top outdoors Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #beauty #photography #portrait.
 platform: Instagram
 hits: 15
 text_top: Identify the most popular Instagram influencers on inBeat.

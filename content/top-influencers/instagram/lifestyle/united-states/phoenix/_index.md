@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Phoenix In 2022
+title: Top 10 Lifestyle Instagram Influencers In Phoenix in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Phoenix in 2022. Most popular hashtags: #liketkit #model #fitness.
+  Find top lifestyle Instagram influencers in Phoenix in 2023. Most popular hashtags: #liketkit #model #fitness.
 platform: Instagram
 hits: 79
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Berlin In 2022
+title: Top 10 Beauty TikTok Influencers In Berlin in 2023
 description: >-
-  Find top beauty TikTok influencers in Berlin in 2022. Most popular hashtags: #foryou #berlin #beauty #fyp.
+  Find top beauty TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #berlin #beauty #fyp.
 platform: TikTok
 hits: 9
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Switzerland In 2022
+title: Top 10 Cinema TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top cinema TikTok influencers in Switzerland in 2022. Most popular hashtags: #viral #switzerland #foryou #fyp.
+  Find top cinema TikTok influencers in Switzerland in 2023. Most popular hashtags: #viral #switzerland #foryou #fyp.
 platform: TikTok
 hits: 11
 text_top: Analyze the best TikTok profiles on inBeat.

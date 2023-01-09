@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Philadelphia In 2022
+title: Top 10 Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top Instagram influencers in Philadelphia in 2022. Most popular hashtags: #philadelphia #flyeaglesfly #gobirds.
+  Find top Instagram influencers in Philadelphia in 2023. Most popular hashtags: #philadelphia #flyeaglesfly #gobirds.
 platform: Instagram
 hits: 782
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Los Angeles In 2022
+title: Top 10 Vegan TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top vegan TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #vegan #foryou #losangeles.
+  Find top vegan TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #vegan #foryou #losangeles.
 platform: TikTok
 hits: 35
 text_top: Analyze the most popular TikTok profiles on inBeat.

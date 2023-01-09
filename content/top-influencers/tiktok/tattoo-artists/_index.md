@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in 2022. Most popular hashtags: #duet #fyp #tattooartist #tattoo.
+  Find top tattoo-artists TikTok influencers in 2023. Most popular hashtags: #duet #fyp #tattooartist #tattoo.
 platform: TikTok
 hits: 533
 text_top: Analyze the top-rated TikTok profiles on inBeat.

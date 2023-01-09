@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Seattle In 2022
+title: Top 10 Beauty TikTok Influencers In Seattle in 2023
 description: >-
-  Find top beauty TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #foryou #beauty #foryoupage.
+  Find top beauty TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #foryou #beauty #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Malaysia In 2022
+title: Top 10 Photographers Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top photographers Instagram influencers in Malaysia in 2022. Most popular hashtags: #portraits #ig #pursuitofportraits.
+  Find top photographers Instagram influencers in Malaysia in 2023. Most popular hashtags: #portraits #ig #pursuitofportraits.
 platform: Instagram
 hits: 44
 text_top: Analyze the best Instagram profiles on inBeat.

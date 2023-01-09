@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Colombia In 2022
+title: Top 10 Fashion Instagram Influencers In Colombia in 2023
 description: >-
-  Find top fashion Instagram influencers in Colombia in 2022. Most popular hashtags: #outfit #barranquilla #colombia.
+  Find top fashion Instagram influencers in Colombia in 2023. Most popular hashtags: #outfit #barranquilla #colombia.
 platform: Instagram
 hits: 309
 text_top: Identify the most popular Instagram influencers on inBeat.

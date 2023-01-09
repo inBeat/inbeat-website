@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United States In 2022
+title: Top 10 Athletes Instagram Influencers In United States in 2023
 description: >-
-  Find top athletes Instagram influencers in United States in 2022. Most popular hashtags: #fall #fitness #beach.
+  Find top athletes Instagram influencers in United States in 2023. Most popular hashtags: #fall #fitness #beach.
 platform: Instagram
 hits: 3168
 text_top: See the most popular Instagram accounts on inBeat.

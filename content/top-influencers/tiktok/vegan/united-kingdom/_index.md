@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In United Kingdom In 2022
+title: Top 10 Vegan TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top vegan TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryoupage #vegan #foryou.
+  Find top vegan TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #vegan #foryou.
 platform: TikTok
 hits: 214
 text_top: Analyze the top-rated TikTok influencers on inBeat.

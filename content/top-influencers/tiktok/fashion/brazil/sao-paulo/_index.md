@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Sao Paulo In 2022
+title: Top 10 Fashion TikTok Influencers In Sao Paulo in 2023
 description: >-
-  Find top fashion TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #foryou #fyp #fashion #brasil.
+  Find top fashion TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #foryou #fyp #fashion #brasil.
 platform: TikTok
 hits: 9
 text_top: Analyze the best TikTok accounts on inBeat.

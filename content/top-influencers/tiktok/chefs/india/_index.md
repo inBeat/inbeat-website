@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In India In 2022
+title: Top 10 Chefs TikTok Influencers In India in 2023
 description: >-
-  Find top chefs TikTok influencers in India in 2022. Most popular hashtags: #tiktok #tiktokchef #tiktokindia #viral.
+  Find top chefs TikTok influencers in India in 2023. Most popular hashtags: #tiktok #tiktokchef #tiktokindia #viral.
 platform: TikTok
 hits: 85
 text_top: Discover the most popular TikTok profiles on inBeat.

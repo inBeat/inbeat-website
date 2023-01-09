@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Italy In 2022
+title: Top 10 Christian TikTok Influencers In Italy in 2023
 description: >-
-  Find top christian TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #fyp #neiperte.
+  Find top christian TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #fyp #neiperte.
 platform: TikTok
 hits: 65
 text_top: Discover the most popular TikTok profiles on inBeat.

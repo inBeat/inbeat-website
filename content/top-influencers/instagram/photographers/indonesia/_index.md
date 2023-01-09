@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Indonesia In 2022
+title: Top 10 Photographers Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top photographers Instagram influencers in Indonesia in 2022. Most popular hashtags: #bandung #bandungbanget #jawabarat.
+  Find top photographers Instagram influencers in Indonesia in 2023. Most popular hashtags: #bandung #bandungbanget #jawabarat.
 platform: Instagram
 hits: 613
 text_top: Analyze the most popular Instagram profiles on inBeat.
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.027972
     id: ck5hsmbvzwtnl0i11512wp7od
     verified: false
-    hashtags: "#fw2022, #2020, #ss20, #february"
+    hashtags: "#fw2023, #2020, #ss20, #february"
   - username: "laelypassions"
     fullname: >-
       Laely Indah Lestari d.f

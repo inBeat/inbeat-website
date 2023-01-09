@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Chicago In 2022
+title: Top 10 Barbers TikTok Influencers In Chicago in 2023
 description: >-
-  Find top barbers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #barber #foryou #foryoupage.
+  Find top barbers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #barber #foryou #foryoupage.
 platform: TikTok
 hits: 16
 text_top: Discover the top-rated TikTok accounts on inBeat.

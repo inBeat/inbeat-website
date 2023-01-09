@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Canada In 2022
+title: Top 10 Hypebeast Instagram Influencers In Canada in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Canada in 2022. Most popular hashtags: #hypebeast #artofvisuals #way2ill #highsnobiety.
+  Find top hypebeast Instagram influencers in Canada in 2023. Most popular hashtags: #hypebeast #artofvisuals #way2ill #highsnobiety.
 platform: Instagram
 hits: 56
 text_top: Discover the most popular Instagram influencers on inBeat.

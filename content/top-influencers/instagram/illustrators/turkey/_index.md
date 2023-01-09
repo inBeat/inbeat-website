@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Turkey In 2022
+title: Top 10 Illustrators Instagram Influencers In Turkey in 2023
 description: >-
-  Find top illustrators Instagram influencers in Turkey in 2022. Most popular hashtags: #illustration #art #drawing.
+  Find top illustrators Instagram influencers in Turkey in 2023. Most popular hashtags: #illustration #art #drawing.
 platform: Instagram
 hits: 61
 text_top: Identify the top-rated Instagram accounts on inBeat.

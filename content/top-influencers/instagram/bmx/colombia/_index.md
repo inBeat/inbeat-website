@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Colombia In 2022
+title: Top 10 Bmx Instagram Influencers In Colombia in 2023
 description: >-
-  Find top bmx Instagram influencers in Colombia in 2022. Most popular hashtags: #bmx #bmxlife #bmxfreestyle #tbt.
+  Find top bmx Instagram influencers in Colombia in 2023. Most popular hashtags: #bmx #bmxlife #bmxfreestyle #tbt.
 platform: Instagram
 hits: 20
 text_top: Identify the best Instagram accounts on inBeat.

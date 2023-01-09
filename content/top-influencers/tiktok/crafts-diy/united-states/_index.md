@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crafts And Diy TikTok Influencers In United States In 2022
+title: Top 10 Crafts And Diy TikTok Influencers In United States in 2023
 description: >-
-  Find top crafts and diy TikTok influencers in United States in 2022. Most popular hashtags: #diy #fyp #foryou #crafts.
+  Find top crafts and diy TikTok influencers in United States in 2023. Most popular hashtags: #diy #fyp #foryou #crafts.
 platform: TikTok
 hits: 31
 text_top: Identify the best TikTok influencers on inBeat.

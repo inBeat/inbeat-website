@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Chicago In 2022
+title: Top 10 Christian Instagram Influencers In Chicago in 2023
 description: >-
-  Find top christian Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #losangeles #christian.
+  Find top christian Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #losangeles #christian.
 platform: Instagram
 hits: 28
 text_top: See the top-rated Instagram accounts on inBeat.

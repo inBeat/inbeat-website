@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Miami In 2022
+title: Top 10 Hypebeast Instagram Influencers In Miami in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Miami in 2022. Most popular hashtags: #hypebeast #miami #travel #miamiphotographer.
+  Find top hypebeast Instagram influencers in Miami in 2023. Most popular hashtags: #hypebeast #miami #travel #miamiphotographer.
 platform: Instagram
 hits: 37
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Dallas In 2022
+title: Top 10 Bloggers Instagram Influencers In Dallas in 2023
 description: >-
-  Find top bloggers Instagram influencers in Dallas in 2022. Most popular hashtags: #dallasblogger #liketkit #blogger #fall.
+  Find top bloggers Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #liketkit #blogger #fall.
 platform: Instagram
 hits: 108
 text_top: Identify the most popular Instagram influencers on inBeat.

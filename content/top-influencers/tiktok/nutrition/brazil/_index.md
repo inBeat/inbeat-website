@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Brazil In 2022
+title: Top 10 Nutrition TikTok Influencers In Brazil in 2023
 description: >-
-  Find top nutrition TikTok influencers in Brazil in 2022. Most popular hashtags: #nutricionista #emagrecimento #nutri #saude.
+  Find top nutrition TikTok influencers in Brazil in 2023. Most popular hashtags: #nutricionista #emagrecimento #nutri #saude.
 platform: TikTok
 hits: 16
 text_top: See the most popular TikTok accounts on inBeat.

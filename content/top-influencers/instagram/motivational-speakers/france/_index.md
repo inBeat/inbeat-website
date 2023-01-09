@@ -1,7 +1,7 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In France In 2022
+title: Top 10 Motivational Speakers Instagram Influencers In France in 2023
 description: >-
-  Find top motivational speakers Instagram influencers in France in 2022. Most popular hashtags: #motivation #fitness #mountains.
+  Find top motivational speakers Instagram influencers in France in 2023. Most popular hashtags: #motivation #fitness #mountains.
 platform: Instagram
 hits: 21
 text_top: See the most popular Instagram influencers on inBeat.

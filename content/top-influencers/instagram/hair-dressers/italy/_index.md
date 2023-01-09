@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Italy In 2022
+title: Top 10 Hair Dressers Instagram Influencers In Italy in 2023
 description: >-
-  Find top hair dressers Instagram influencers in Italy in 2022. Most popular hashtags: #beauty #dress #photooftheday #girl.
+  Find top hair dressers Instagram influencers in Italy in 2023. Most popular hashtags: #beauty #dress #photooftheday #girl.
 platform: Instagram
 hits: 18
 text_top: Discover the best Instagram accounts on inBeat.

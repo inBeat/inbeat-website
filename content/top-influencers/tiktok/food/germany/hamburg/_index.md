@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Hamburg In 2022
+title: Top 10 Food TikTok Influencers In Hamburg in 2023
 description: >-
-  Find top food TikTok influencers in Hamburg in 2022. Most popular hashtags: #hamburg #foryou #foryoupage #viral.
+  Find top food TikTok influencers in Hamburg in 2023. Most popular hashtags: #hamburg #foryou #foryoupage #viral.
 platform: TikTok
 hits: 15
 text_top: See the best TikTok profiles on inBeat.

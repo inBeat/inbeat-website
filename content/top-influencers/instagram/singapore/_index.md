@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Singapore In 2022
+title: Top 10 Instagram Influencers In Singapore in 2023
 description: >-
-  Find top Instagram influencers in Singapore in 2022. Most popular hashtags: #sp #tokyobustexpress #beautifuldestinations.
+  Find top Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #tokyobustexpress #beautifuldestinations.
 platform: Instagram
 hits: 688
 text_top: Analyze the most popular Instagram profiles on inBeat.

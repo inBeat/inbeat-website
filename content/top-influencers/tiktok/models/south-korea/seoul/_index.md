@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Seoul In 2022
+title: Top 10 Models TikTok Influencers In Seoul in 2023
 description: >-
-  Find top models TikTok influencers in Seoul in 2022. Most popular hashtags: #model #fyp #korea #foryou.
+  Find top models TikTok influencers in Seoul in 2023. Most popular hashtags: #model #fyp #korea #foryou.
 platform: TikTok
 hits: 5
 text_top: Analyze the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Russia In 2022
+title: Top 10 Music Instagram Influencers In Russia in 2023
 description: >-
-  Find top music Instagram influencers in Russia in 2022. Most popular hashtags: #singer #music #voice.
+  Find top music Instagram influencers in Russia in 2023. Most popular hashtags: #singer #music #voice.
 platform: Instagram
 hits: 1173
 text_top: Analyze the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cricket Players Instagram Influencers In 2022
+title: Top 10 Cricket Players Instagram Influencers in 2023
 description: >-
-  Find top cricket players Instagram influencers in 2022. Most popular hashtags: #afghanistan #cricket #love.
+  Find top cricket players Instagram influencers in 2023. Most popular hashtags: #afghanistan #cricket #love.
 platform: Instagram
 hits: 52
 text_top: Analyze the best Instagram profiles on inBeat.

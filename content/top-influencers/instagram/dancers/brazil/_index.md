@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Brazil In 2022
+title: Top 10 Dancers Instagram Influencers In Brazil in 2023
 description: >-
-  Find top dancers Instagram influencers in Brazil in 2022. Most popular hashtags: #dance #foto #dancer.
+  Find top dancers Instagram influencers in Brazil in 2023. Most popular hashtags: #dance #foto #dancer.
 platform: Instagram
 hits: 673
 text_top: Identify the top-rated Instagram profiles on inBeat.

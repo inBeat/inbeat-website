@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Chile In 2022
+title: Top 10 Travel Instagram Influencers In Chile in 2023
 description: >-
-  Find top travel Instagram influencers in Chile in 2022. Most popular hashtags: #travelgram #chile #love.
+  Find top travel Instagram influencers in Chile in 2023. Most popular hashtags: #travelgram #chile #love.
 platform: Instagram
 hits: 249
 text_top: Discover the best Instagram accounts on inBeat.

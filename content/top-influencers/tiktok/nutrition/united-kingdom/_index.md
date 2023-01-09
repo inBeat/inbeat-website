@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In United Kingdom In 2022
+title: Top 10 Nutrition TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top nutrition TikTok influencers in United Kingdom in 2022. Most popular hashtags: #nutrition #fyp #health #learnontiktok.
+  Find top nutrition TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nutrition #fyp #health #learnontiktok.
 platform: TikTok
 hits: 26
 text_top: Discover the top-rated TikTok profiles on inBeat.

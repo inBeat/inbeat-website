@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Vancouver In 2022
+title: Top 10 Lifestyle Instagram Influencers In Vancouver in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Vancouver in 2022. Most popular hashtags: #beautifuldestinations #explorecanada #smpliving.
+  Find top lifestyle Instagram influencers in Vancouver in 2023. Most popular hashtags: #beautifuldestinations #explorecanada #smpliving.
 platform: Instagram
 hits: 116
 text_top: Analyze the best Instagram accounts on inBeat.

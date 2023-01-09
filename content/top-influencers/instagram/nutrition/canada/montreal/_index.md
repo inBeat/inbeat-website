@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Montreal In 2022
+title: Top 10 Nutrition Instagram Influencers In Montreal in 2023
 description: >-
-  Find top nutrition Instagram influencers in Montreal in 2022. Most popular hashtags: #fitness #nutrition #montreal #lifestyle.
+  Find top nutrition Instagram influencers in Montreal in 2023. Most popular hashtags: #fitness #nutrition #montreal #lifestyle.
 platform: Instagram
 hits: 7
 text_top: Identify the most popular Instagram profiles on inBeat.

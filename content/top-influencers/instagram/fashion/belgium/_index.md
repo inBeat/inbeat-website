@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Belgium In 2022
+title: Top 10 Fashion Instagram Influencers In Belgium in 2023
 description: >-
-  Find top fashion Instagram influencers in Belgium in 2022. Most popular hashtags: #girlsgoneloavies #fashion #outfitinspiration #lifestyle.
+  Find top fashion Instagram influencers in Belgium in 2023. Most popular hashtags: #girlsgoneloavies #fashion #outfitinspiration #lifestyle.
 platform: Instagram
 hits: 205
 text_top: Analyze the top-rated Instagram influencers on inBeat.

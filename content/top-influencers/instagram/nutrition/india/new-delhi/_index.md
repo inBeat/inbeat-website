@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In New Delhi In 2022
+title: Top 10 Nutrition Instagram Influencers In New Delhi in 2023
 description: >-
-  Find top nutrition Instagram influencers in New Delhi in 2022. Most popular hashtags: #fashion #newdelhi #model #instagood.
+  Find top nutrition Instagram influencers in New Delhi in 2023. Most popular hashtags: #fashion #newdelhi #model #instagood.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram accounts on inBeat.

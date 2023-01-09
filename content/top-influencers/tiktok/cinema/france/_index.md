@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In France In 2022
+title: Top 10 Cinema TikTok Influencers In France in 2023
 description: >-
-  Find top cinema TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #cinema #humour.
+  Find top cinema TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #cinema #humour.
 platform: TikTok
 hits: 46
 text_top: See the best TikTok accounts on inBeat.

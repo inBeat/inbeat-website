@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Dallas In 2022
+title: Top 10 Athletes TikTok Influencers In Dallas in 2023
 description: >-
-  Find top athletes TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #funny #basketball #athlete.
+  Find top athletes TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #funny #basketball #athlete.
 platform: TikTok
 hits: 8
 text_top: Identify the most popular TikTok profiles on inBeat.

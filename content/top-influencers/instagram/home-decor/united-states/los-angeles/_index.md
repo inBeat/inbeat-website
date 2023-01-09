@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2022
+title: Top 10 Home Decor Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top home decor Instagram influencers in Los Angeles in 2022. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
+  Find top home decor Instagram influencers in Los Angeles in 2023. Most popular hashtags: #homedecor #realestate #interiordesign #losangeles.
 platform: Instagram
 hits: 115
 text_top: Identify the top-rated Instagram influencers on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Wedding Photography
     bio: >-
-      Now booking 2022 weddings & events 🌎 wide!
+      Now booking 2023 weddings & events 🌎 wide!
     location: "United States"
     followers: 7084
     engagement: 72

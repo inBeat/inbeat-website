@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Colombia In 2022
+title: Top 10 Fashion TikTok Influencers In Colombia in 2023
 description: >-
-  Find top fashion TikTok influencers in Colombia in 2022. Most popular hashtags: #foryou #fashion #viral #parati.
+  Find top fashion TikTok influencers in Colombia in 2023. Most popular hashtags: #foryou #fashion #viral #parati.
 platform: TikTok
 hits: 47
 text_top: Identify the top-rated TikTok accounts on inBeat.

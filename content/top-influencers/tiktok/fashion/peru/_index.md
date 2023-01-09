@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Peru In 2022
+title: Top 10 Fashion TikTok Influencers In Peru in 2023
 description: >-
-  Find top fashion TikTok influencers in Peru in 2022. Most popular hashtags: #peru #fashion #foryou #tiktokfashion.
+  Find top fashion TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fashion #foryou #tiktokfashion.
 platform: TikTok
 hits: 28
 text_top: Analyze the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Venezuela In 2022
+title: Top 10 Christian TikTok Influencers In Venezuela in 2023
 description: >-
-  Find top christian TikTok influencers in Venezuela in 2022. Most popular hashtags: #fyp #parati #dios.
+  Find top christian TikTok influencers in Venezuela in 2023. Most popular hashtags: #fyp #parati #dios.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok accounts on inBeat.

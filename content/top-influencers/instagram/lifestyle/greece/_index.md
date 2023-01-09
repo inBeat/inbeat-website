@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Greece In 2022
+title: Top 10 Lifestyle Instagram Influencers In Greece in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Greece in 2022. Most popular hashtags: #greece #photooftheday #travel #instapic.
+  Find top lifestyle Instagram influencers in Greece in 2023. Most popular hashtags: #greece #photooftheday #travel #instapic.
 platform: Instagram
 hits: 153
 text_top: See the best Instagram influencers on inBeat.

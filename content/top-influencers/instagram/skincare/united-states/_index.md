@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United States In 2022
+title: Top 10 Skincare Instagram Influencers In United States in 2023
 description: >-
-  Find top skincare Instagram influencers in United States in 2022. Most popular hashtags: #love #liketkit #skincare.
+  Find top skincare Instagram influencers in United States in 2023. Most popular hashtags: #love #liketkit #skincare.
 platform: Instagram
 hits: 3376
 text_top: Identify the most popular Instagram accounts on inBeat.

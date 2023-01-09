@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chile In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Chile in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Chile in 2022. Most popular hashtags: #tattooartist #tattoo #tatuaje #tattoos.
+  Find top tattoo-artists Instagram influencers in Chile in 2023. Most popular hashtags: #tattooartist #tattoo #tatuaje #tattoos.
 platform: Instagram
 hits: 24
 text_top: Discover the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Miami In 2022
+title: Top 10 Makeup Instagram Influencers In Miami in 2023
 description: >-
-  Find top makeup Instagram influencers in Miami in 2022. Most popular hashtags: #miami #makeup #model #miamibeach.
+  Find top makeup Instagram influencers in Miami in 2023. Most popular hashtags: #miami #makeup #model #miamibeach.
 platform: Instagram
 hits: 418
 text_top: Analyze the best Instagram accounts on inBeat.

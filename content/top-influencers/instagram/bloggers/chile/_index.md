@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Chile In 2022
+title: Top 10 Bloggers Instagram Influencers In Chile in 2023
 description: >-
-  Find top bloggers Instagram influencers in Chile in 2022. Most popular hashtags: #instachile #chile #chilegram #urbandecaychile.
+  Find top bloggers Instagram influencers in Chile in 2023. Most popular hashtags: #instachile #chile #chilegram #urbandecaychile.
 platform: Instagram
 hits: 37
 text_top: Analyze the most popular Instagram influencers on inBeat.

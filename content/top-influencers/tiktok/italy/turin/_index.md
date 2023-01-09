@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Turin In 2022
+title: Top 10 TikTok Influencers In Turin in 2023
 description: >-
-  Find top TikTok influencers in Turin in 2022. Most popular hashtags: #perte #foryou #viral #duetto.
+  Find top TikTok influencers in Turin in 2023. Most popular hashtags: #perte #foryou #viral #duetto.
 platform: TikTok
 hits: 20
 text_top: Discover the best TikTok accounts on inBeat.

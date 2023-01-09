@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top graphic-designers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #graphicdesign #fyp #art #foryoupage.
+  Find top graphic-designers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #graphicdesign #fyp #art #foryoupage.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok accounts on inBeat.

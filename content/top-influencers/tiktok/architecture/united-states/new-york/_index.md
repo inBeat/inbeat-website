@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In New York In 2022
+title: Top 10 Architecture TikTok Influencers In New York in 2023
 description: >-
-  Find top architecture TikTok influencers in New York in 2022. Most popular hashtags: #newyork #fyp #architecture #foryou.
+  Find top architecture TikTok influencers in New York in 2023. Most popular hashtags: #newyork #fyp #architecture #foryou.
 platform: TikTok
 hits: 10
 text_top: Analyze the most popular TikTok profiles on inBeat.

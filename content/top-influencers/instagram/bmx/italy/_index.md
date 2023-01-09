@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Italy In 2022
+title: Top 10 Bmx Instagram Influencers In Italy in 2023
 description: >-
-  Find top bmx Instagram influencers in Italy in 2022. Most popular hashtags: #bmx #sport #gopro #skate.
+  Find top bmx Instagram influencers in Italy in 2023. Most popular hashtags: #bmx #sport #gopro #skate.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram accounts on inBeat.

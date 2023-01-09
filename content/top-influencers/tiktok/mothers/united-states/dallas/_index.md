@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Dallas In 2022
+title: Top 10 Mothers TikTok Influencers In Dallas in 2023
 description: >-
-  Find top mothers TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #duet #funny #trump.
+  Find top mothers TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #funny #trump.
 platform: TikTok
 hits: 7
 text_top: Analyze the top-rated TikTok profiles on inBeat.

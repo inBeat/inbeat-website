@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Atlanta In 2022
+title: Top 10 Health Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top health Instagram influencers in Atlanta in 2022. Most popular hashtags: #love #health #atlanta.
+  Find top health Instagram influencers in Atlanta in 2023. Most popular hashtags: #love #health #atlanta.
 platform: Instagram
 hits: 160
 text_top: Analyze the best Instagram accounts on inBeat.

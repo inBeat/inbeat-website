@@ -1,7 +1,7 @@
 ---
-title: Top 10 Softball-Players Instagram Influencers In 2022
+title: Top 10 Softball-Players Instagram Influencers in 2023
 description: >-
-  Find top softball-players Instagram influencers in 2022. Most popular hashtags: #softball #tiktok #softballplayer.
+  Find top softball-players Instagram influencers in 2023. Most popular hashtags: #softball #tiktok #softballplayer.
 platform: Instagram
 hits: 27
 text_top: Analyze the top-rated Instagram accounts on inBeat.

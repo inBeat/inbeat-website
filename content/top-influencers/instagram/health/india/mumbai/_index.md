@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Mumbai In 2022
+title: Top 10 Health Instagram Influencers In Mumbai in 2023
 description: >-
-  Find top health Instagram influencers in Mumbai in 2022. Most popular hashtags: #fitness #health #love #mumbai.
+  Find top health Instagram influencers in Mumbai in 2023. Most popular hashtags: #fitness #health #love #mumbai.
 platform: Instagram
 hits: 294
 text_top: Identify the top-rated Instagram profiles on inBeat.

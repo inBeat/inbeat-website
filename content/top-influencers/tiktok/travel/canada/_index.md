@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Canada In 2022
+title: Top 10 Travel TikTok Influencers In Canada in 2023
 description: >-
-  Find top travel TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #travel #canada #toronto.
+  Find top travel TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #travel #canada #toronto.
 platform: TikTok
 hits: 679
 text_top: See the top-rated TikTok profiles on inBeat.

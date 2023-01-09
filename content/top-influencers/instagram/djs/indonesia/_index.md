@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Indonesia In 2022
+title: Top 10 Djs Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top djs Instagram influencers in Indonesia in 2022. Most popular hashtags: #freefire #storywakekinian #storywakeren #quotes.
+  Find top djs Instagram influencers in Indonesia in 2023. Most popular hashtags: #freefire #storywakekinian #storywakeren #quotes.
 platform: Instagram
 hits: 96
 text_top: See the best Instagram influencers on inBeat.

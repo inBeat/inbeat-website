@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Turkey In 2022
+title: Top 10 Cosmetics Instagram Influencers In Turkey in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Turkey in 2022. Most popular hashtags: #makeup #beauty #cosmetics #fashion.
+  Find top cosmetics Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #beauty #cosmetics #fashion.
 platform: Instagram
 hits: 109
 text_top: Identify the most popular Instagram accounts on inBeat.

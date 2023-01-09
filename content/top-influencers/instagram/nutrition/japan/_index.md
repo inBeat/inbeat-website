@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Japan In 2022
+title: Top 10 Nutrition Instagram Influencers In Japan in 2023
 description: >-
-  Find top nutrition Instagram influencers in Japan in 2022. Most popular hashtags: #fitness #japan #yoga.
+  Find top nutrition Instagram influencers in Japan in 2023. Most popular hashtags: #fitness #japan #yoga.
 platform: Instagram
 hits: 12
 text_top: Discover the best Instagram influencers on inBeat.

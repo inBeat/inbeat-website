@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Indonesia in 2022. Most popular hashtags: #tattoo #tattooartist #tattooed #tattoos.
+  Find top tattoo-artists Instagram influencers in Indonesia in 2023. Most popular hashtags: #tattoo #tattooartist #tattooed #tattoos.
 platform: Instagram
 hits: 25
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Morocco In 2022
+title: Top 10 Skincare Instagram Influencers In Morocco in 2023
 description: >-
-  Find top skincare Instagram influencers in Morocco in 2022. Most popular hashtags: #morocco #skincare #fashion #casablanca.
+  Find top skincare Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #skincare #fashion #casablanca.
 platform: Instagram
 hits: 29
 text_top: Analyze the best Instagram accounts on inBeat.

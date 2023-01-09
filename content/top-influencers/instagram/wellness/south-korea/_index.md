@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In South Korea In 2022
+title: Top 10 Wellness Instagram Influencers In South Korea in 2023
 description: >-
-  Find top wellness Instagram influencers in South Korea in 2022. Most popular hashtags: #ifbbpro #seoul #repost.
+  Find top wellness Instagram influencers in South Korea in 2023. Most popular hashtags: #ifbbpro #seoul #repost.
 platform: Instagram
 hits: 8
 text_top: See the top-rated Instagram profiles on inBeat.

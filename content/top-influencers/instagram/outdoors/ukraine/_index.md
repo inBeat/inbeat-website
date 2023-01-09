@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Ukraine In 2022
+title: Top 10 Outdoors Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top outdoors Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukraine #outdoors #nature #instagood.
+  Find top outdoors Instagram influencers in Ukraine in 2023. Most popular hashtags: #ukraine #outdoors #nature #instagood.
 platform: Instagram
 hits: 19
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Poland In 2022
+title: Top 10 Vegan TikTok Influencers In Poland in 2023
 description: >-
-  Find top vegan TikTok influencers in Poland in 2022. Most popular hashtags: #dc #fyp #dlaciebie #vegan.
+  Find top vegan TikTok influencers in Poland in 2023. Most popular hashtags: #dc #fyp #dlaciebie #vegan.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok influencers on inBeat.

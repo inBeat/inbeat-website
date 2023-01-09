@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Miami In 2022
+title: Top 10 Models TikTok Influencers In Miami in 2023
 description: >-
-  Find top models TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #foryou #miami #model.
+  Find top models TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryou #miami #model.
 platform: TikTok
 hits: 86
 text_top: See the top-rated TikTok influencers on inBeat.

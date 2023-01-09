@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In 2022
+title: Top 10 Golfers Instagram Influencers in 2023
 description: >-
-  Find top golfers Instagram influencers in 2022. Most popular hashtags: #golf #golfer #golfswing.
+  Find top golfers Instagram influencers in 2023. Most popular hashtags: #golf #golfer #golfswing.
 platform: Instagram
 hits: 501
 text_top: Identify the top-rated Instagram accounts on inBeat.

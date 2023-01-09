@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Boston In 2022
+title: Top 10 Models TikTok Influencers In Boston in 2023
 description: >-
-  Find top models TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #foryou #model #foryoupage.
+  Find top models TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #foryou #model #foryoupage.
 platform: TikTok
 hits: 13
 text_top: Analyze the best TikTok influencers on inBeat.

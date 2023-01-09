@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In India In 2022
+title: Top 10 Comedians Instagram Influencers In India in 2023
 description: >-
-  Find top comedians Instagram influencers in India in 2022. Most popular hashtags: #comedy #love #tiktok.
+  Find top comedians Instagram influencers in India in 2023. Most popular hashtags: #comedy #love #tiktok.
 platform: Instagram
 hits: 97
 text_top: Discover the top-rated Instagram accounts on inBeat.

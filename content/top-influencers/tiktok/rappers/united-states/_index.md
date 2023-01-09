@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In United States In 2022
+title: Top 10 Rappers TikTok Influencers In United States in 2023
 description: >-
-  Find top rappers TikTok influencers in United States in 2022. Most popular hashtags: #duet #greenscreen #jesus.
+  Find top rappers TikTok influencers in United States in 2023. Most popular hashtags: #duet #greenscreen #jesus.
 platform: TikTok
 hits: 569
 text_top: See the top-rated TikTok influencers on inBeat.

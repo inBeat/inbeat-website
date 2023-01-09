@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Houston In 2022
+title: Top 10 Models Instagram Influencers In Houston in 2023
 description: >-
-  Find top models Instagram influencers in Houston in 2022. Most popular hashtags: #houston #model #follow #texas.
+  Find top models Instagram influencers in Houston in 2023. Most popular hashtags: #houston #model #follow #texas.
 platform: Instagram
 hits: 212
 text_top: See the top-rated Instagram profiles on inBeat.

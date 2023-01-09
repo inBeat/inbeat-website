@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Japan In 2022
+title: Top 10 Travel Instagram Influencers In Japan in 2023
 description: >-
-  Find top travel Instagram influencers in Japan in 2022. Most popular hashtags: #japan #travel #trip.
+  Find top travel Instagram influencers in Japan in 2023. Most popular hashtags: #japan #travel #trip.
 platform: Instagram
 hits: 656
 text_top: Identify the top-rated Instagram accounts on inBeat.

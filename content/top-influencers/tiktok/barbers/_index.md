@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In 2022
+title: Top 10 Barbers TikTok Influencers in 2023
 description: >-
-  Find top barbers TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #duet.
+  Find top barbers TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #duet.
 platform: TikTok
 hits: 853
 text_top: Analyze the top-rated TikTok accounts on inBeat.

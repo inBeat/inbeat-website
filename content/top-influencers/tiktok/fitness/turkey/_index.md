@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Turkey In 2022
+title: Top 10 Fitness TikTok Influencers In Turkey in 2023
 description: >-
-  Find top fitness TikTok influencers in Turkey in 2022. Most popular hashtags: #fitness #ke #spor #muaythai.
+  Find top fitness TikTok influencers in Turkey in 2023. Most popular hashtags: #fitness #ke #spor #muaythai.
 platform: TikTok
 hits: 39
 text_top: Analyze the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Sydney In 2022
+title: Top 10 Instagram Influencers In Sydney in 2023
 description: >-
-  Find top Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #gifted #beachgirl.
+  Find top Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #gifted #beachgirl.
 platform: Instagram
 hits: 1854
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Travel Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top travel Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #travel #maldives.
+  Find top travel Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #travel #maldives.
 platform: Instagram
 hits: 385
 text_top: Analyze the most popular Instagram profiles on inBeat.

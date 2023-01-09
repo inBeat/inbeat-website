@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Greece In 2022
+title: Top 10 Stylists Instagram Influencers In Greece in 2023
 description: >-
-  Find top stylists Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #love.
+  Find top stylists Instagram influencers in Greece in 2023. Most popular hashtags: #greece #summer #love.
 platform: Instagram
 hits: 86
 text_top: Identify the most popular Instagram profiles on inBeat.

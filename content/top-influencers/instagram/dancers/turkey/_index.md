@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Turkey In 2022
+title: Top 10 Dancers Instagram Influencers In Turkey in 2023
 description: >-
-  Find top dancers Instagram influencers in Turkey in 2022. Most popular hashtags: #turkey #photo #photography #summer.
+  Find top dancers Instagram influencers in Turkey in 2023. Most popular hashtags: #turkey #photo #photography #summer.
 platform: Instagram
 hits: 85
 text_top: See the best Instagram influencers on inBeat.

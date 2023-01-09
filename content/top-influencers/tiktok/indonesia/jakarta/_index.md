@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Jakarta In 2022
+title: Top 10 TikTok Influencers In Jakarta in 2023
 description: >-
-  Find top TikTok influencers in Jakarta in 2022. Most popular hashtags: #fyp #duet #zoommyface.
+  Find top TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #duet #zoommyface.
 platform: TikTok
 hits: 117
 text_top: Analyze the best TikTok influencers on inBeat.

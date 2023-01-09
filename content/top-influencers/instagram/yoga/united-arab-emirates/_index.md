@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Yoga Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top yoga Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #yoga #yogainspiration #yogaeverydamnday #fitness.
+  Find top yoga Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #yoga #yogainspiration #yogaeverydamnday #fitness.
 platform: Instagram
 hits: 41
 text_top: Identify the most popular Instagram accounts on inBeat.

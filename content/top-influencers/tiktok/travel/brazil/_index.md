@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Brazil In 2022
+title: Top 10 Travel TikTok Influencers In Brazil in 2023
 description: >-
-  Find top travel TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #tiktoktravel #fyp #travel.
+  Find top travel TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #tiktoktravel #fyp #travel.
 platform: TikTok
 hits: 207
 text_top: Identify the best TikTok accounts on inBeat.

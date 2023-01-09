@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Morocco In 2022
+title: Top 10 Architecture Instagram Influencers In Morocco in 2023
 description: >-
-  Find top architecture Instagram influencers in Morocco in 2022. Most popular hashtags: #architecture #travel #morocco #photography.
+  Find top architecture Instagram influencers in Morocco in 2023. Most popular hashtags: #architecture #travel #morocco #photography.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram influencers on inBeat.

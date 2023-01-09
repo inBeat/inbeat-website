@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Italy In 2022
+title: Top 10 Gardening Instagram Influencers In Italy in 2023
 description: >-
-  Find top gardening Instagram influencers in Italy in 2022. Most popular hashtags: #gardening #giardino #garden #flowers.
+  Find top gardening Instagram influencers in Italy in 2023. Most popular hashtags: #gardening #giardino #garden #flowers.
 platform: Instagram
 hits: 55
 text_top: See the best Instagram accounts on inBeat.

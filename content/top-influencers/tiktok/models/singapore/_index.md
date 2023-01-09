@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Singapore In 2022
+title: Top 10 Models TikTok Influencers In Singapore in 2023
 description: >-
-  Find top models TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #tiktoksg #foryou #model.
+  Find top models TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #tiktoksg #foryou #model.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok influencers on inBeat.

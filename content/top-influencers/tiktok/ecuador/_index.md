@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Ecuador In 2022
+title: Top 10 TikTok Influencers In Ecuador in 2023
 description: >-
-  Find top TikTok influencers in Ecuador in 2022. Most popular hashtags: #fyp #foryou #parati.
+  Find top TikTok influencers in Ecuador in 2023. Most popular hashtags: #fyp #foryou #parati.
 platform: TikTok
 hits: 684
 text_top: Discover the best TikTok accounts on inBeat.

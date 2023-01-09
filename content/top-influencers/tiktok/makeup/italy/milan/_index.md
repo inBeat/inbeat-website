@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Milan In 2022
+title: Top 10 Makeup TikTok Influencers In Milan in 2023
 description: >-
-  Find top makeup TikTok influencers in Milan in 2022. Most popular hashtags: #perte #fyp #foryou #makeup.
+  Find top makeup TikTok influencers in Milan in 2023. Most popular hashtags: #perte #fyp #foryou #makeup.
 platform: TikTok
 hits: 19
 text_top: Analyze the most popular TikTok influencers on inBeat.
@@ -50,7 +50,7 @@ profiles:
       milan, italy ♡ ig: im.domitilla ♡
     location: "Italy"
     followers: 110500
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.022346
     id: ck8s5i8exfxau0j78dyuxgjag
     verified: false

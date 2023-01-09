@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In 2022
+title: Top 10 Fashion Instagram Influencers in 2023
 description: >-
-  Find top fashion Instagram influencers in 2022. Most popular hashtags: #streetstyle #fashionblogger #lifestyle.
+  Find top fashion Instagram influencers in 2023. Most popular hashtags: #streetstyle #fashionblogger #lifestyle.
 platform: Instagram
 hits: 130319
 text_top: Discover the most popular Instagram influencers on inBeat.

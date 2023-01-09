@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Belgium In 2022
+title: Top 10 Gaming Instagram Influencers In Belgium in 2023
 description: >-
-  Find top gaming Instagram influencers in Belgium in 2022. Most popular hashtags: #gaming #gamer #gamergirl #videogames.
+  Find top gaming Instagram influencers in Belgium in 2023. Most popular hashtags: #gaming #gamer #gamergirl #videogames.
 platform: Instagram
 hits: 14
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Toronto In 2022
+title: Top 10 Health Instagram Influencers In Toronto in 2023
 description: >-
-  Find top health Instagram influencers in Toronto in 2022. Most popular hashtags: #fitness #toronto #health.
+  Find top health Instagram influencers in Toronto in 2023. Most popular hashtags: #fitness #toronto #health.
 platform: Instagram
 hits: 115
 text_top: Identify the most popular Instagram accounts on inBeat.

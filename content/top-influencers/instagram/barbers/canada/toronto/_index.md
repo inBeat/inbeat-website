@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Toronto In 2022
+title: Top 10 Barbers Instagram Influencers In Toronto in 2023
 description: >-
-  Find top barbers Instagram influencers in Toronto in 2022. Most popular hashtags: #barber #toronto #canada #barberlife.
+  Find top barbers Instagram influencers in Toronto in 2023. Most popular hashtags: #barber #toronto #canada #barberlife.
 platform: Instagram
 hits: 12
 text_top: Identify the best Instagram accounts on inBeat.

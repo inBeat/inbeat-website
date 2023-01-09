@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Ukraine In 2022
+title: Top 10 Wellness Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top wellness Instagram influencers in Ukraine in 2022. Most popular hashtags: #wellness #relax #health.
+  Find top wellness Instagram influencers in Ukraine in 2023. Most popular hashtags: #wellness #relax #health.
 platform: Instagram
 hits: 12
 text_top: Discover the best Instagram accounts on inBeat.
@@ -75,7 +75,7 @@ profiles:
     location: "Ukraine"
     followers: 82276
     engagement: 323
-    commentsToLikes: 0.020229
+    commentsToLikes: 0.020239
     id: ck5q0hsnd62660i11p589wwvk
     verified: false
     hashtags: "#nailsmag, #nailsmagazines, #nailsofinstagram, #ukraine"

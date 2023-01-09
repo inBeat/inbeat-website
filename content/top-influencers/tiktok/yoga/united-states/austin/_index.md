@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Austin In 2022
+title: Top 10 Yoga TikTok Influencers In Austin in 2023
 description: >-
-  Find top yoga TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
+  Find top yoga TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #yoga #foryou #foryoupage.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok profiles on inBeat.

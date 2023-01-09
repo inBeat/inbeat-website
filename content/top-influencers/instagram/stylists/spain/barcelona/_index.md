@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Barcelona In 2022
+title: Top 10 Stylists Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top stylists Instagram influencers in Barcelona in 2022. Most popular hashtags: #beauty #style #hairstyle.
+  Find top stylists Instagram influencers in Barcelona in 2023. Most popular hashtags: #beauty #style #hairstyle.
 platform: Instagram
 hits: 44
 text_top: See the most popular Instagram profiles on inBeat.

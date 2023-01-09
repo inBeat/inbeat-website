@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In India In 2022
+title: Top 10 Gardening TikTok Influencers In India in 2023
 description: >-
-  Find top gardening TikTok influencers in India in 2022. Most popular hashtags: #tiktokindia #tiktok #gardening #foryou.
+  Find top gardening TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #tiktok #gardening #foryou.
 platform: TikTok
 hits: 18
 text_top: Identify the top-rated TikTok profiles on inBeat.

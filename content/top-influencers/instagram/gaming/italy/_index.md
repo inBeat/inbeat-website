@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Italy In 2022
+title: Top 10 Gaming Instagram Influencers In Italy in 2023
 description: >-
-  Find top gaming Instagram influencers in Italy in 2022. Most popular hashtags: #gaming #gamer #gamergirl #twitch.
+  Find top gaming Instagram influencers in Italy in 2023. Most popular hashtags: #gaming #gamer #gamergirl #twitch.
 platform: Instagram
 hits: 90
 text_top: Discover the best Instagram profiles on inBeat.

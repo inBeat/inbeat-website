@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In France In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In France in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #tattoo #artist.
+  Find top tattoo-artists TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #tattoo #artist.
 platform: TikTok
 hits: 14
 text_top: Identify the best TikTok influencers on inBeat.

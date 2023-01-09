@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Russia In 2022
+title: Top 10 Stylists Instagram Influencers In Russia in 2023
 description: >-
-  Find top stylists Instagram influencers in Russia in 2022. Most popular hashtags: #istanbul #katerock #lifewear.
+  Find top stylists Instagram influencers in Russia in 2023. Most popular hashtags: #istanbul #katerock #lifewear.
 platform: Instagram
 hits: 531
 text_top: Discover the top-rated Instagram accounts on inBeat.

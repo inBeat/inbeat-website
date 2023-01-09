@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Toronto In 2022
+title: Top 10 Christian TikTok Influencers In Toronto in 2023
 description: >-
-  Find top christian TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #foryou #toronto #christian.
+  Find top christian TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryou #toronto #christian.
 platform: TikTok
 hits: 14
 text_top: Analyze the most popular TikTok accounts on inBeat.

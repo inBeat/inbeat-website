@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Russia In 2022
+title: Top 10 Cinema Instagram Influencers In Russia in 2023
 description: >-
-  Find top cinema Instagram influencers in Russia in 2022. Most popular hashtags: #film #model #covid.
+  Find top cinema Instagram influencers in Russia in 2023. Most popular hashtags: #film #model #covid.
 platform: Instagram
 hits: 230
 text_top: Analyze the most popular Instagram influencers on inBeat.

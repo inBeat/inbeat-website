@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Norway In 2022
+title: Top 10 Gymnasts Instagram Influencers In Norway in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Norway in 2022. Most popular hashtags: #gymnastics #motivation #crossfit #workout.
+  Find top gymnasts Instagram influencers in Norway in 2023. Most popular hashtags: #gymnastics #motivation #crossfit #workout.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram accounts on inBeat.

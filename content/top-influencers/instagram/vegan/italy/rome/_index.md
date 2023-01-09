@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Rome In 2022
+title: Top 10 Vegan Instagram Influencers In Rome in 2023
 description: >-
-  Find top vegan Instagram influencers in Rome in 2022. Most popular hashtags: #vegan #rome #italy #roma.
+  Find top vegan Instagram influencers in Rome in 2023. Most popular hashtags: #vegan #rome #italy #roma.
 platform: Instagram
 hits: 15
 text_top: Discover the top-rated Instagram profiles on inBeat.

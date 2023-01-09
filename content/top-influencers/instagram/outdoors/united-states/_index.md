@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In United States In 2022
+title: Top 10 Outdoors Instagram Influencers In United States in 2023
 description: >-
-  Find top outdoors Instagram influencers in United States in 2022. Most popular hashtags: #deerseason #fishing #hunting.
+  Find top outdoors Instagram influencers in United States in 2023. Most popular hashtags: #deerseason #fishing #hunting.
 platform: Instagram
 hits: 5670
 text_top: See the top-rated Instagram accounts on inBeat.

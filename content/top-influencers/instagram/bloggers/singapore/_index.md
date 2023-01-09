@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Singapore In 2022
+title: Top 10 Bloggers Instagram Influencers In Singapore in 2023
 description: >-
-  Find top bloggers Instagram influencers in Singapore in 2022. Most popular hashtags: #singapore #beauty #singaporeinsiders #sg.
+  Find top bloggers Instagram influencers in Singapore in 2023. Most popular hashtags: #singapore #beauty #singaporeinsiders #sg.
 platform: Instagram
 hits: 9
 text_top: Identify the top-rated Instagram accounts on inBeat.

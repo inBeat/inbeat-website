@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Morocco In 2022
+title: Top 10 Crossfit Instagram Influencers In Morocco in 2023
 description: >-
-  Find top crossfit Instagram influencers in Morocco in 2022. Most popular hashtags: #maroc #fitness #motivation #photography.
+  Find top crossfit Instagram influencers in Morocco in 2023. Most popular hashtags: #maroc #fitness #motivation #photography.
 platform: Instagram
 hits: 8
 text_top: Analyze the best Instagram influencers on inBeat.

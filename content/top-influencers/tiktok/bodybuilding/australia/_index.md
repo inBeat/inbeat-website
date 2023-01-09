@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Australia In 2022
+title: Top 10 Bodybuilding TikTok Influencers In Australia in 2023
 description: >-
-  Find top bodybuilding TikTok influencers in Australia in 2022. Most popular hashtags: #bodybuilding #fitness #gym #fyp.
+  Find top bodybuilding TikTok influencers in Australia in 2023. Most popular hashtags: #bodybuilding #fitness #gym #fyp.
 platform: TikTok
 hits: 19
 text_top: See the most popular TikTok influencers on inBeat.

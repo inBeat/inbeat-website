@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Toronto In 2022
+title: Top 10 Lifestyle Instagram Influencers In Toronto in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #lifestyle #ad #canada.
+  Find top lifestyle Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #lifestyle #ad #canada.
 platform: Instagram
 hits: 253
 text_top: Discover the best Instagram accounts on inBeat.

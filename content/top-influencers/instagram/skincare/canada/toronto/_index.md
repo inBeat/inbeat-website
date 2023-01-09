@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Toronto In 2022
+title: Top 10 Skincare Instagram Influencers In Toronto in 2023
 description: >-
-  Find top skincare Instagram influencers in Toronto in 2022. Most popular hashtags: #skincare #skincareroutine #toronto #makeup.
+  Find top skincare Instagram influencers in Toronto in 2023. Most popular hashtags: #skincare #skincareroutine #toronto #makeup.
 platform: Instagram
 hits: 78
 text_top: Discover the most popular Instagram accounts on inBeat.

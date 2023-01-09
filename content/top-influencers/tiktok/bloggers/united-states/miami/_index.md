@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Miami In 2022
+title: Top 10 Bloggers TikTok Influencers In Miami in 2023
 description: >-
-  Find top bloggers TikTok influencers in Miami in 2022. Most popular hashtags: #miami #travel #fyp #blogger.
+  Find top bloggers TikTok influencers in Miami in 2023. Most popular hashtags: #miami #travel #fyp #blogger.
 platform: TikTok
 hits: 9
 text_top: Analyze the most popular TikTok accounts on inBeat.

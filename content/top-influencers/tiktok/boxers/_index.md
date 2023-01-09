@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In 2022
+title: Top 10 Boxers TikTok Influencers in 2023
 description: >-
-  Find top boxers TikTok influencers in 2022. Most popular hashtags: #fyp #duet #foryou #foryoupage.
+  Find top boxers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
 platform: TikTok
 hits: 428
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Barcelona In 2022
+title: Top 10 Vegan Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top vegan Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #love #vegan #spain.
+  Find top vegan Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #love #vegan #spain.
 platform: Instagram
 hits: 46
 text_top: See the most popular Instagram accounts on inBeat.

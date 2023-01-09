@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Phoenix In 2022
+title: Top 10 Vegan Instagram Influencers In Phoenix in 2023
 description: >-
-  Find top vegan Instagram influencers in Phoenix in 2022. Most popular hashtags: #vegan #phoenix #az #arizona.
+  Find top vegan Instagram influencers in Phoenix in 2023. Most popular hashtags: #vegan #phoenix #az #arizona.
 platform: Instagram
 hits: 30
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In 2022
+title: Top 10 Comedians Instagram Influencers in 2023
 description: >-
-  Find top comedians Instagram influencers in 2022. Most popular hashtags: #ad #galaxys20 #reklama.
+  Find top comedians Instagram influencers in 2023. Most popular hashtags: #ad #galaxys20 #reklama.
 platform: Instagram
 hits: 3676
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In United States In 2022
+title: Top 10 Lingerie Instagram Influencers In United States in 2023
 description: >-
-  Find top lingerie Instagram influencers in United States in 2022. Most popular hashtags: #highheelslover #longlegs #nylons.
+  Find top lingerie Instagram influencers in United States in 2023. Most popular hashtags: #highheelslover #longlegs #nylons.
 platform: Instagram
 hits: 876
 text_top: See the best Instagram accounts on inBeat.

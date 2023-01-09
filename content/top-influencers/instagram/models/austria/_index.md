@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Austria In 2022
+title: Top 10 Models Instagram Influencers In Austria in 2023
 description: >-
-  Find top models Instagram influencers in Austria in 2022. Most popular hashtags: #beauty #model #ootd #shooting.
+  Find top models Instagram influencers in Austria in 2023. Most popular hashtags: #beauty #model #ootd #shooting.
 platform: Instagram
 hits: 146
 text_top: See the top-rated Instagram profiles on inBeat.

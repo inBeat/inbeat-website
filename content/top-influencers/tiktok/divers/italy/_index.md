@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Italy In 2022
+title: Top 10 Divers TikTok Influencers In Italy in 2023
 description: >-
-  Find top divers TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #viral #duetto.
+  Find top divers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #viral #duetto.
 platform: TikTok
 hits: 241
 text_top: Analyze the most popular TikTok influencers on inBeat.

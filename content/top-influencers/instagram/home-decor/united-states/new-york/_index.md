@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In New York In 2022
+title: Top 10 Home Decor Instagram Influencers In New York in 2023
 description: >-
-  Find top home decor Instagram influencers in New York in 2022. Most popular hashtags: #newyork #homedecor #photography #travel.
+  Find top home decor Instagram influencers in New York in 2023. Most popular hashtags: #newyork #homedecor #photography #travel.
 platform: Instagram
 hits: 138
 text_top: Discover the best Instagram influencers on inBeat.

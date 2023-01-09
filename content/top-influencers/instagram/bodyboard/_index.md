@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodyboard Instagram Influencers In 2022
+title: Top 10 Bodyboard Instagram Influencers in 2023
 description: >-
-  Find top bodyboard Instagram influencers in 2022. Most popular hashtags: #bodyboard #bodyboarding #surf.
+  Find top bodyboard Instagram influencers in 2023. Most popular hashtags: #bodyboard #bodyboarding #surf.
 platform: Instagram
 hits: 249
 text_top: Analyze the best Instagram profiles on inBeat.

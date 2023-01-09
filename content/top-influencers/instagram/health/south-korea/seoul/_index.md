@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Seoul In 2022
+title: Top 10 Health Instagram Influencers In Seoul in 2023
 description: >-
-  Find top health Instagram influencers in Seoul in 2022. Most popular hashtags: #ootd #cafe #music.
+  Find top health Instagram influencers in Seoul in 2023. Most popular hashtags: #ootd #cafe #music.
 platform: Instagram
 hits: 4
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Chicago In 2022
+title: Top 10 Photographers TikTok Influencers In Chicago in 2023
 description: >-
-  Find top photographers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #photographer #greenscreen.
+  Find top photographers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #photographer #greenscreen.
 platform: TikTok
 hits: 29
 text_top: See the most popular TikTok influencers on inBeat.

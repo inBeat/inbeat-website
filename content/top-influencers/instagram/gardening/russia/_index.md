@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Russia In 2022
+title: Top 10 Gardening Instagram Influencers In Russia in 2023
 description: >-
-  Find top gardening Instagram influencers in Russia in 2022. Most popular hashtags: #gardening #garden #flowers #mygarden.
+  Find top gardening Instagram influencers in Russia in 2023. Most popular hashtags: #gardening #garden #flowers #mygarden.
 platform: Instagram
 hits: 17
 text_top: Analyze the best Instagram profiles on inBeat.

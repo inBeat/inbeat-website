@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Ukraine In 2022
+title: Top 10 Food Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top food Instagram influencers in Ukraine in 2022. Most popular hashtags: #instagood #me #beautiful.
+  Find top food Instagram influencers in Ukraine in 2023. Most popular hashtags: #instagood #me #beautiful.
 platform: Instagram
 hits: 121
 text_top: Discover the top-rated Instagram accounts on inBeat.

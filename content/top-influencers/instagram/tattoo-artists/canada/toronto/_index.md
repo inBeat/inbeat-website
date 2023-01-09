@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Toronto in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Toronto in 2022. Most popular hashtags: #tattoo #tattooartist #torontotattoo #toronto.
+  Find top tattoo-artists Instagram influencers in Toronto in 2023. Most popular hashtags: #tattoo #tattooartist #torontotattoo #toronto.
 platform: Instagram
 hits: 33
 text_top: See the best Instagram accounts on inBeat.

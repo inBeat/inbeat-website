@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Jakarta In 2022
+title: Top 10 Vegan Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top vegan Instagram influencers in Jakarta in 2022. Most popular hashtags: #vegan #instagram #motivation.
+  Find top vegan Instagram influencers in Jakarta in 2023. Most popular hashtags: #vegan #instagram #motivation.
 platform: Instagram
 hits: 4
 text_top: Discover the most popular Instagram accounts on inBeat.

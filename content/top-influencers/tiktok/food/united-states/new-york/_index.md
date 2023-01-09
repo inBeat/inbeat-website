@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In New York In 2022
+title: Top 10 Food TikTok Influencers In New York in 2023
 description: >-
-  Find top food TikTok influencers in New York in 2022. Most popular hashtags: #fyp #food #newyork #foryou.
+  Find top food TikTok influencers in New York in 2023. Most popular hashtags: #fyp #food #newyork #foryou.
 platform: TikTok
 hits: 178
 text_top: Analyze the best TikTok influencers on inBeat.

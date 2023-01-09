@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Brazil In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Brazil in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #bodybuilding #lifestyle.
+  Find top bodybuilding Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #bodybuilding #lifestyle.
 platform: Instagram
 hits: 344
 text_top: See the best Instagram accounts on inBeat.

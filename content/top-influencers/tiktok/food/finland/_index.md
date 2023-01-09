@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Finland In 2022
+title: Top 10 Food TikTok Influencers In Finland in 2023
 description: >-
-  Find top food TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #finland #tiktoksuomi #suomi.
+  Find top food TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #finland #tiktoksuomi #suomi.
 platform: TikTok
 hits: 12
 text_top: Analyze the best TikTok accounts on inBeat.

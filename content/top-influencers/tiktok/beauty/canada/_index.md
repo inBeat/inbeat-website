@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Canada In 2022
+title: Top 10 Beauty TikTok Influencers In Canada in 2023
 description: >-
-  Find top beauty TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #fallfashion #beauty #foryou.
+  Find top beauty TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #fallfashion #beauty #foryou.
 platform: TikTok
 hits: 1298
 text_top: Identify the best TikTok accounts on inBeat.

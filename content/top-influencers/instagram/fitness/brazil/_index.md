@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Brazil In 2022
+title: Top 10 Fitness Instagram Influencers In Brazil in 2023
 description: >-
-  Find top fitness Instagram influencers in Brazil in 2022. Most popular hashtags: #modelo #fitness #praia.
+  Find top fitness Instagram influencers in Brazil in 2023. Most popular hashtags: #modelo #fitness #praia.
 platform: Instagram
 hits: 2572
 text_top: Analyze the top-rated Instagram influencers on inBeat.

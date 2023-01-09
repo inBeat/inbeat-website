@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In South Africa In 2022
+title: Top 10 Beauty Instagram Influencers In South Africa in 2023
 description: >-
-  Find top beauty Instagram influencers in South Africa in 2022. Most popular hashtags: #ootd #fashionblogger #styleinspo #styleblogger.
+  Find top beauty Instagram influencers in South Africa in 2023. Most popular hashtags: #ootd #fashionblogger #styleinspo #styleblogger.
 platform: Instagram
 hits: 295
 text_top: Discover the most popular Instagram influencers on inBeat.

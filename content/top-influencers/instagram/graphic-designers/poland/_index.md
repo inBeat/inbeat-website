@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Poland In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Poland in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Poland in 2022. Most popular hashtags: #stayhome #illustration #cats #polishgirl.
+  Find top graphic-designers Instagram influencers in Poland in 2023. Most popular hashtags: #stayhome #illustration #cats #polishgirl.
 platform: Instagram
 hits: 19
 text_top: Discover the best Instagram accounts on inBeat.

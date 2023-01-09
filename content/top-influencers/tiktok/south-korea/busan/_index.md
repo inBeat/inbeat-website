@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Busan In 2022
+title: Top 10 TikTok Influencers In Busan in 2023
 description: >-
-  Find top TikTok influencers in Busan in 2022. Most popular hashtags: #korea #busan #fyp #seoul.
+  Find top TikTok influencers in Busan in 2023. Most popular hashtags: #korea #busan #fyp #seoul.
 platform: TikTok
 hits: 10
 text_top: Identify the best TikTok accounts on inBeat.

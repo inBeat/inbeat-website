@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Lisbon In 2022
+title: Top 10 Beauty Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top beauty Instagram influencers in Lisbon in 2022. Most popular hashtags: #beauty #portugal #fashion #makeup.
+  Find top beauty Instagram influencers in Lisbon in 2023. Most popular hashtags: #beauty #portugal #fashion #makeup.
 platform: Instagram
 hits: 35
 text_top: Discover the top-rated Instagram influencers on inBeat.

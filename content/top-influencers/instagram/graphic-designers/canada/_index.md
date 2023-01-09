@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Canada In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Canada in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Canada in 2022. Most popular hashtags: #canada #toronto #art #beautiful.
+  Find top graphic-designers Instagram influencers in Canada in 2023. Most popular hashtags: #canada #toronto #art #beautiful.
 platform: Instagram
 hits: 60
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Bali In 2022
+title: Top 10 TikTok Influencers In Bali in 2023
 description: >-
-  Find top TikTok influencers in Bali in 2022. Most popular hashtags: #fyp #duet #foryoupage #bali.
+  Find top TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #duet #foryoupage #bali.
 platform: TikTok
 hits: 112
 text_top: Identify the best TikTok accounts on inBeat.

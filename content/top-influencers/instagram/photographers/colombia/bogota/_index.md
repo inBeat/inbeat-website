@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Bogotá In 2022
+title: Top 10 Photographers Instagram Influencers In Bogotá in 2023
 description: >-
-  Find top photographers Instagram influencers in Bogotá in 2022. Most popular hashtags: #photography #photographer #bogota #colombia.
+  Find top photographers Instagram influencers in Bogotá in 2023. Most popular hashtags: #photography #photographer #bogota #colombia.
 platform: Instagram
 hits: 40
 text_top: See the top-rated Instagram influencers on inBeat.

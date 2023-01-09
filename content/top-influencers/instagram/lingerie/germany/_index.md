@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Germany In 2022
+title: Top 10 Lingerie Instagram Influencers In Germany in 2023
 description: >-
-  Find top lingerie Instagram influencers in Germany in 2022. Most popular hashtags: #lingerie #portrait #sensual #portraitphotography.
+  Find top lingerie Instagram influencers in Germany in 2023. Most popular hashtags: #lingerie #portrait #sensual #portraitphotography.
 platform: Instagram
 hits: 211
 text_top: See the top-rated Instagram influencers on inBeat.

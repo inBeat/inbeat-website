@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rugby Players Instagram Influencers In 2022
+title: Top 10 Rugby Players Instagram Influencers in 2023
 description: >-
-  Find top rugby players Instagram influencers in 2022. Most popular hashtags: #blackouttuesday #rugby #malemodel.
+  Find top rugby players Instagram influencers in 2023. Most popular hashtags: #blackouttuesday #rugby #malemodel.
 platform: Instagram
 hits: 248
 text_top: Discover the top-rated Instagram influencers on inBeat.

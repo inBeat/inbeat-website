@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In South Africa In 2022
+title: Top 10 Travel Instagram Influencers In South Africa in 2023
 description: >-
-  Find top travel Instagram influencers in South Africa in 2022. Most popular hashtags: #capetown #southafrica #travel #photography.
+  Find top travel Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #southafrica #travel #photography.
 platform: Instagram
 hits: 273
 text_top: Analyze the most popular Instagram profiles on inBeat.

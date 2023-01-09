@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Austin In 2022
+title: Top 10 Bloggers TikTok Influencers In Austin in 2023
 description: >-
-  Find top bloggers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #atx #texas #dogsoftiktok.
+  Find top bloggers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #atx #texas #dogsoftiktok.
 platform: TikTok
 hits: 6
 text_top: Discover the most popular TikTok accounts on inBeat.

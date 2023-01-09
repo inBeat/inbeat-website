@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Belgium In 2022
+title: Top 10 Makeup TikTok Influencers In Belgium in 2023
 description: >-
-  Find top makeup TikTok influencers in Belgium in 2022. Most popular hashtags: #makeup #foryou #fyp #pourtoi.
+  Find top makeup TikTok influencers in Belgium in 2023. Most popular hashtags: #makeup #foryou #fyp #pourtoi.
 platform: TikTok
 hits: 53
 text_top: See the top-rated TikTok profiles on inBeat.
@@ -35,7 +35,7 @@ profiles:
     fullname: >-
       Kaylee
     bio: >-
-      🇧🇪 1-ste Eredame Miss Vlaams - Brabant 2022 🇧🇪 Kandidate Miss Belgium 2022
+      🇧🇪 1-ste Eredame Miss Vlaams - Brabant 2023 🇧🇪 Kandidate Miss Belgium 2023
     location: "Belgium"
     followers: 170900
     engagement: 2062

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Venezuela In 2022
+title: Top 10 Fitness TikTok Influencers In Venezuela in 2023
 description: >-
-  Find top fitness TikTok influencers in Venezuela in 2022. Most popular hashtags: #fitness #parati #foryou #fyp.
+  Find top fitness TikTok influencers in Venezuela in 2023. Most popular hashtags: #fitness #parati #foryou #fyp.
 platform: TikTok
 hits: 13
 text_top: Identify the most popular TikTok influencers on inBeat.

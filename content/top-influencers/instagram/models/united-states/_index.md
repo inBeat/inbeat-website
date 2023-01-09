@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In United States In 2022
+title: Top 10 Models Instagram Influencers In United States in 2023
 description: >-
-  Find top models Instagram influencers in United States in 2022. Most popular hashtags: #prettygirls #model #modelsearch.
+  Find top models Instagram influencers in United States in 2023. Most popular hashtags: #prettygirls #model #modelsearch.
 platform: Instagram
 hits: 11607
 text_top: Discover the top-rated Instagram influencers on inBeat.

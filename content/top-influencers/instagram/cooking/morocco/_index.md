@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Morocco In 2022
+title: Top 10 Cooking Instagram Influencers In Morocco in 2023
 description: >-
-  Find top cooking Instagram influencers in Morocco in 2022. Most popular hashtags: #morocco #ramadan #stayhome #staysafe.
+  Find top cooking Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #ramadan #stayhome #staysafe.
 platform: Instagram
 hits: 67
 text_top: Analyze the most popular Instagram accounts on inBeat.

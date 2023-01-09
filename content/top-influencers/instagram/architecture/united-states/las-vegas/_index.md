@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Las Vegas In 2022
+title: Top 10 Architecture Instagram Influencers In Las Vegas in 2023
 description: >-
-  Find top architecture Instagram influencers in Las Vegas in 2022. Most popular hashtags: #architecture #lasvegas #travel #photooftheday.
+  Find top architecture Instagram influencers in Las Vegas in 2023. Most popular hashtags: #architecture #lasvegas #travel #photooftheday.
 platform: Instagram
 hits: 23
 text_top: See the best Instagram accounts on inBeat.

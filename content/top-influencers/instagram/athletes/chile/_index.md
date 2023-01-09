@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Chile In 2022
+title: Top 10 Athletes Instagram Influencers In Chile in 2023
 description: >-
-  Find top athletes Instagram influencers in Chile in 2022. Most popular hashtags: #fitness #fitnessmotivation #training #chile.
+  Find top athletes Instagram influencers in Chile in 2023. Most popular hashtags: #fitness #fitnessmotivation #training #chile.
 platform: Instagram
 hits: 20
 text_top: Discover the top-rated Instagram accounts on inBeat.

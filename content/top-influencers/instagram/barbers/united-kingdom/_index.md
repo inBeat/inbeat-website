@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United Kingdom In 2022
+title: Top 10 Barbers Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top barbers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #barberlife #mensfashion #hair #barbershopconnect.
+  Find top barbers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #barberlife #mensfashion #hair #barbershopconnect.
 platform: Instagram
 hits: 138
 text_top: See the top-rated Instagram accounts on inBeat.

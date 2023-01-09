@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In South Africa In 2022
+title: Top 10 Runners Instagram Influencers In South Africa in 2023
 description: >-
-  Find top runners Instagram influencers in South Africa in 2022. Most popular hashtags: #southafrica #sponsored #capetown.
+  Find top runners Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #sponsored #capetown.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.011731
     id: ck8t0slaft5d90j78enhg9vbi
     verified: false
-    hashtags: "#tokyo2022, #trainingcamp, #everestbasecamp, #stellenbosch"
+    hashtags: "#tokyo2023, #trainingcamp, #everestbasecamp, #stellenbosch"
   - username: "nicolene.pb"
     fullname: >-
       Nicolene Limsnukan

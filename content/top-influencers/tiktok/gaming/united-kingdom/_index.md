@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In United Kingdom In 2022
+title: Top 10 Gaming TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top gaming TikTok influencers in United Kingdom in 2022. Most popular hashtags: #foryou #gaming #foryoupage #fyp.
+  Find top gaming TikTok influencers in United Kingdom in 2023. Most popular hashtags: #foryou #gaming #foryoupage #fyp.
 platform: TikTok
 hits: 481
 text_top: Discover the top-rated TikTok influencers on inBeat.

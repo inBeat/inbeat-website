@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Chicago in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #tattoo #tattooartist #duet.
+  Find top tattoo-artists TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #tattoo #tattooartist #duet.
 platform: TikTok
 hits: 6
 text_top: Analyze the most popular TikTok accounts on inBeat.
@@ -14,7 +14,7 @@ profiles:
       17 year old tattoo artist Chicago 📍 Snapchat: edwin69-69 Cashapp: $EdwinTatts
     location: "United States"
     followers: 10600
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.009515
     id: ckc7tb15vxqvf0j236l9kvpct
     verified: false

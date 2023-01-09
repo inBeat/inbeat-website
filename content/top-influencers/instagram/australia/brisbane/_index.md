@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Brisbane In 2022
+title: Top 10 Instagram Influencers In Brisbane in 2023
 description: >-
-  Find top Instagram influencers in Brisbane in 2022. Most popular hashtags: #brisbane #australia #blogger.
+  Find top Instagram influencers in Brisbane in 2023. Most popular hashtags: #brisbane #australia #blogger.
 platform: Instagram
 hits: 705
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Lisbon In 2022
+title: Top 10 Photographers Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top photographers Instagram influencers in Lisbon in 2022. Most popular hashtags: #shooters #35mm #forevermagazine.
+  Find top photographers Instagram influencers in Lisbon in 2023. Most popular hashtags: #shooters #35mm #forevermagazine.
 platform: Instagram
 hits: 35
 text_top: Analyze the top-rated Instagram influencers on inBeat.

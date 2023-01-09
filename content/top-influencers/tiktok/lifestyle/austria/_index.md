@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Austria In 2022
+title: Top 10 Lifestyle TikTok Influencers In Austria in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Austria in 2022. Most popular hashtags: #austria #foryou #vienna #viral.
+  Find top lifestyle TikTok influencers in Austria in 2023. Most popular hashtags: #austria #foryou #vienna #viral.
 platform: TikTok
 hits: 12
 text_top: Identify the best TikTok accounts on inBeat.

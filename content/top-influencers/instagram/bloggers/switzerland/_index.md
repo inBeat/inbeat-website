@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Switzerland In 2022
+title: Top 10 Bloggers Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top bloggers Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #blogger #swissblogger #swissinfluencer.
+  Find top bloggers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #blogger #swissblogger #swissinfluencer.
 platform: Instagram
 hits: 118
 text_top: Identify the most popular Instagram profiles on inBeat.

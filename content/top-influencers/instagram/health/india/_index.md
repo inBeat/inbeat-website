@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In India In 2022
+title: Top 10 Health Instagram Influencers In India in 2023
 description: >-
-  Find top health Instagram influencers in India in 2022. Most popular hashtags: #instagram #throwback #love.
+  Find top health Instagram influencers in India in 2023. Most popular hashtags: #instagram #throwback #love.
 platform: Instagram
 hits: 2079
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Singapore In 2022
+title: Top 10 Photographers Instagram Influencers In Singapore in 2023
 description: >-
-  Find top photographers Instagram influencers in Singapore in 2022. Most popular hashtags: #yourshotphotographer #voyaged #passionpassport.
+  Find top photographers Instagram influencers in Singapore in 2023. Most popular hashtags: #yourshotphotographer #voyaged #passionpassport.
 platform: Instagram
 hits: 19
 text_top: Discover the top-rated Instagram accounts on inBeat.
@@ -75,7 +75,7 @@ profiles:
     location: "Singapore"
     followers: 21358
     engagement: 183
-    commentsToLikes: 0.020223
+    commentsToLikes: 0.020233
     id: ck14ihwyofhg30i19gzusp79h
     verified: false
     hashtags: ""

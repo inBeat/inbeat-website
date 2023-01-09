@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In San Francisco In 2022
+title: Top 10 Home Decor Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top home decor Instagram influencers in San Francisco in 2022. Most popular hashtags: #homedecor #sanfrancisco #flowers #ltkhome.
+  Find top home decor Instagram influencers in San Francisco in 2023. Most popular hashtags: #homedecor #sanfrancisco #flowers #ltkhome.
 platform: Instagram
 hits: 29
 text_top: Analyze the top-rated Instagram influencers on inBeat.

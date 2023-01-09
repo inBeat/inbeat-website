@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Jakarta In 2022
+title: Top 10 Food TikTok Influencers In Jakarta in 2023
 description: >-
-  Find top food TikTok influencers in Jakarta in 2022. Most popular hashtags: #fyp #foryou #food #jakarta.
+  Find top food TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryou #food #jakarta.
 platform: TikTok
 hits: 10
 text_top: See the top-rated TikTok profiles on inBeat.

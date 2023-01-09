@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In United Kingdom In 2022
+title: Top 10 Bodybuilding TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top bodybuilding TikTok influencers in United Kingdom in 2022. Most popular hashtags: #bodybuilding #workout #fitness #fyp.
+  Find top bodybuilding TikTok influencers in United Kingdom in 2023. Most popular hashtags: #bodybuilding #workout #fitness #fyp.
 platform: TikTok
 hits: 37
 text_top: Analyze the most popular TikTok accounts on inBeat.

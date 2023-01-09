@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In South Africa In 2022
+title: Top 10 Bloggers Instagram Influencers In South Africa in 2023
 description: >-
-  Find top bloggers Instagram influencers in South Africa in 2022. Most popular hashtags: #capetown #southafrica #love.
+  Find top bloggers Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #southafrica #love.
 platform: Instagram
 hits: 32
 text_top: See the top-rated Instagram influencers on inBeat.

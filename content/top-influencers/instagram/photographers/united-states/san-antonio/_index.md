@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In San Antonio In 2022
+title: Top 10 Photographers Instagram Influencers In San Antonio in 2023
 description: >-
-  Find top photographers Instagram influencers in San Antonio in 2022. Most popular hashtags: #sanantonio #sanantoniophotographer #photographer #austin.
+  Find top photographers Instagram influencers in San Antonio in 2023. Most popular hashtags: #sanantonio #sanantoniophotographer #photographer #austin.
 platform: Instagram
 hits: 19
 text_top: See the top-rated Instagram accounts on inBeat.

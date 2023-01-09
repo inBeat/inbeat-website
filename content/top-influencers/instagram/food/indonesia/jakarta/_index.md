@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Jakarta In 2022
+title: Top 10 Food Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top food Instagram influencers in Jakarta in 2022. Most popular hashtags: #dirumahaja #food #indonesia #instafood.
+  Find top food Instagram influencers in Jakarta in 2023. Most popular hashtags: #dirumahaja #food #indonesia #instafood.
 platform: Instagram
 hits: 121
 text_top: Discover the best Instagram profiles on inBeat.

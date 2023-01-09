@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Toronto In 2022
+title: Top 10 Athletes Instagram Influencers In Toronto in 2023
 description: >-
-  Find top athletes Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #athlete #tbt.
+  Find top athletes Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #athlete #tbt.
 platform: Instagram
 hits: 50
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Barcelona In 2022
+title: Top 10 Fitness TikTok Influencers In Barcelona in 2023
 description: >-
-  Find top fitness TikTok influencers in Barcelona in 2022. Most popular hashtags: #fitness #parati #viral #foryou.
+  Find top fitness TikTok influencers in Barcelona in 2023. Most popular hashtags: #fitness #parati #viral #foryou.
 platform: TikTok
 hits: 4
 text_top: Discover the best TikTok accounts on inBeat.

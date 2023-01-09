@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Austria In 2022
+title: Top 10 Yoga Instagram Influencers In Austria in 2023
 description: >-
-  Find top yoga Instagram influencers in Austria in 2022. Most popular hashtags: #yoga #yogainspiration #yogapractice #yogateacher.
+  Find top yoga Instagram influencers in Austria in 2023. Most popular hashtags: #yoga #yogainspiration #yogapractice #yogateacher.
 platform: Instagram
 hits: 44
 text_top: See the best Instagram influencers on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       MARCEL CLEMENTI
     bio: >-
-      International Yoga Teacher 🌎 @ognxyoga | @zwoelferhorn 🎥 Youtube 30+ classes ☀️ Weekly Live Classes Mon & Wed 🇦🇹 THE 200h YOGA TEACHER TRAINING 2022 ↓
+      International Yoga Teacher 🌎 @ognxyoga | @zwoelferhorn 🎥 Youtube 30+ classes ☀️ Weekly Live Classes Mon & Wed 🇦🇹 THE 200h YOGA TEACHER TRAINING 2023 ↓
     location: "Austria"
     followers: 62222
     engagement: 452

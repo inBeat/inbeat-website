@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Nigeria In 2022
+title: Top 10 Models Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top models Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #explore #exploremore.
+  Find top models Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #explore #exploremore.
 platform: Instagram
 hits: 131
 text_top: See the best Instagram profiles on inBeat.

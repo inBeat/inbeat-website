@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Italy In 2022
+title: Top 10 Makeup TikTok Influencers In Italy in 2023
 description: >-
-  Find top makeup TikTok influencers in Italy in 2022. Most popular hashtags: #makeup #perte #fyp #halloween.
+  Find top makeup TikTok influencers in Italy in 2023. Most popular hashtags: #makeup #perte #fyp #halloween.
 platform: TikTok
 hits: 298
 text_top: See the most popular TikTok influencers on inBeat.

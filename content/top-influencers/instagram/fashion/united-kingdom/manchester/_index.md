@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Manchester In 2022
+title: Top 10 Fashion Instagram Influencers In Manchester in 2023
 description: >-
-  Find top fashion Instagram influencers in Manchester in 2022. Most popular hashtags: #fashion #manchester #instagood.
+  Find top fashion Instagram influencers in Manchester in 2023. Most popular hashtags: #fashion #manchester #instagood.
 platform: Instagram
 hits: 122
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Italy In 2022
+title: Top 10 Yoga Instagram Influencers In Italy in 2023
 description: >-
-  Find top yoga Instagram influencers in Italy in 2022. Most popular hashtags: #autumn #yogainspiration #yogapractice #yogaitalia.
+  Find top yoga Instagram influencers in Italy in 2023. Most popular hashtags: #autumn #yogainspiration #yogapractice #yogaitalia.
 platform: Instagram
 hits: 257
 text_top: Identify the most popular Instagram profiles on inBeat.

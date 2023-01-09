@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Canada In 2022
+title: Top 10 Boxers TikTok Influencers In Canada in 2023
 description: >-
-  Find top boxers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryoupage #boxer #foryou.
+  Find top boxers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #boxer #foryou.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok influencers on inBeat.

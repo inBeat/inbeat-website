@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Milan In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Milan in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Milan in 2022. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
+  Find top tattoo-artists Instagram influencers in Milan in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #milano.
 platform: Instagram
 hits: 50
 text_top: Discover the best Instagram accounts on inBeat.

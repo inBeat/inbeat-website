@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Russia In 2022
+title: Top 10 Guitar Instagram Influencers In Russia in 2023
 description: >-
-  Find top guitar Instagram influencers in Russia in 2022. Most popular hashtags: #saxophone #coversong #snowbikegirls.
+  Find top guitar Instagram influencers in Russia in 2023. Most popular hashtags: #saxophone #coversong #snowbikegirls.
 platform: Instagram
 hits: 78
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Spain In 2022
+title: Top 10 Cinema Instagram Influencers In Spain in 2023
 description: >-
-  Find top cinema Instagram influencers in Spain in 2022. Most popular hashtags: #tendermag #pellicolamag #magazine35mm.
+  Find top cinema Instagram influencers in Spain in 2023. Most popular hashtags: #tendermag #pellicolamag #magazine35mm.
 platform: Instagram
 hits: 174
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Las Vegas In 2022
+title: Top 10 Comedians TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top comedians TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #foryou #comedy #viral.
+  Find top comedians TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #foryou #comedy #viral.
 platform: TikTok
 hits: 14
 text_top: Discover the most popular TikTok profiles on inBeat.

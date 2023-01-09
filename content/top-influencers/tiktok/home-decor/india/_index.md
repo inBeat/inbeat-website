@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In India In 2022
+title: Top 10 Home Decor TikTok Influencers In India in 2023
 description: >-
-  Find top home decor TikTok influencers in India in 2022. Most popular hashtags: #homedecor #foryoupage #foryou #love.
+  Find top home decor TikTok influencers in India in 2023. Most popular hashtags: #homedecor #foryoupage #foryou #love.
 platform: TikTok
 hits: 21
 text_top: Discover the most popular TikTok influencers on inBeat.

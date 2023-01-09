@@ -1,7 +1,7 @@
 ---
-title: Top 10 Handball Players TikTok Influencers In 2022
+title: Top 10 Handball Players TikTok Influencers in 2023
 description: >-
-  Find top handball players TikTok influencers in 2022. Most popular hashtags: #handball #handballworld #handballplayers #foryou.
+  Find top handball players TikTok influencers in 2023. Most popular hashtags: #handball #handballworld #handballplayers #foryou.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok influencers on inBeat.

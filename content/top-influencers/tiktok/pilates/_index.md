@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pilates TikTok Influencers In 2022
+title: Top 10 Pilates TikTok Influencers in 2023
 description: >-
-  Find top pilates TikTok influencers in 2022. Most popular hashtags: #pilates #workout #fitness #pilatesworkout.
+  Find top pilates TikTok influencers in 2023. Most popular hashtags: #pilates #workout #fitness #pilatesworkout.
 platform: TikTok
 hits: 293
 text_top: Identify the top-rated TikTok profiles on inBeat.

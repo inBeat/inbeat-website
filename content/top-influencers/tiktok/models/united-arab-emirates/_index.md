@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Models TikTok Influencers In United Arab Emirates in 2023
 description: >-
-  Find top models TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #foryou #foryoupage #dubai #trending.
+  Find top models TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #foryou #foryoupage #dubai #trending.
 platform: TikTok
 hits: 38
 text_top: Discover the best TikTok accounts on inBeat.

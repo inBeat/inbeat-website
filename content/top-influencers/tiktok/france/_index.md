@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In France In 2022
+title: Top 10 TikTok Influencers In France in 2023
 description: >-
-  Find top TikTok influencers in France in 2022. Most popular hashtags: #fyp #humour #duo.
+  Find top TikTok influencers in France in 2023. Most popular hashtags: #fyp #humour #duo.
 platform: TikTok
 hits: 5468
 text_top: Discover the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Japan In 2022
+title: Top 10 Painters Instagram Influencers In Japan in 2023
 description: >-
-  Find top painters Instagram influencers in Japan in 2022. Most popular hashtags: #art #drawing #artwork.
+  Find top painters Instagram influencers in Japan in 2023. Most popular hashtags: #art #drawing #artwork.
 platform: Instagram
 hits: 49
 text_top: Analyze the most popular Instagram accounts on inBeat.

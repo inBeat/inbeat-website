@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Seattle In 2022
+title: Top 10 Fashion TikTok Influencers In Seattle in 2023
 description: >-
-  Find top fashion TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #fashion #foryou #seattle.
+  Find top fashion TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #fashion #foryou #seattle.
 platform: TikTok
 hits: 53
 text_top: Analyze the most popular TikTok influencers on inBeat.

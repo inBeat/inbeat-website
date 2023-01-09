@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Poland In 2022
+title: Top 10 Hair Dressers Instagram Influencers In Poland in 2023
 description: >-
-  Find top hair dressers Instagram influencers in Poland in 2022. Most popular hashtags: #hair #hairstyle #fashion #polishgirl.
+  Find top hair dressers Instagram influencers in Poland in 2023. Most popular hashtags: #hair #hairstyle #fashion #polishgirl.
 platform: Instagram
 hits: 18
 text_top: Discover the top-rated Instagram influencers on inBeat.

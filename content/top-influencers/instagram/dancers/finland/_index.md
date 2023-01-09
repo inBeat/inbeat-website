@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Finland In 2022
+title: Top 10 Dancers Instagram Influencers In Finland in 2023
 description: >-
-  Find top dancers Instagram influencers in Finland in 2022. Most popular hashtags: #finland #dancer #dance #helsinki.
+  Find top dancers Instagram influencers in Finland in 2023. Most popular hashtags: #finland #dancer #dance #helsinki.
 platform: Instagram
 hits: 21
 text_top: Analyze the most popular Instagram accounts on inBeat.

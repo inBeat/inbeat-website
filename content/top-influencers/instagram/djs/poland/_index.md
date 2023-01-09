@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Poland In 2022
+title: Top 10 Djs Instagram Influencers In Poland in 2023
 description: >-
-  Find top djs Instagram influencers in Poland in 2022. Most popular hashtags: #dj #summer #polishgirl #beautiful.
+  Find top djs Instagram influencers in Poland in 2023. Most popular hashtags: #dj #summer #polishgirl #beautiful.
 platform: Instagram
 hits: 24
 text_top: See the most popular Instagram influencers on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Sunrise Festival
     bio: >-
-      🇵🇱Poland - Podczele 23-26 July 2022 Tickets:⤵️
+      🇵🇱Poland - Podczele 23-26 July 2023 Tickets:⤵️
     location: "Poland"
     followers: 49299
     engagement: 227

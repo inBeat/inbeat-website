@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cat Owners Instagram Influencers In 2022
+title: Top 10 Cat Owners Instagram Influencers in 2023
 description: >-
-  Find top cat owners Instagram influencers in 2022. Most popular hashtags: #cats #cat #cutecatskittens.
+  Find top cat owners Instagram influencers in 2023. Most popular hashtags: #cats #cat #cutecatskittens.
 platform: Instagram
 hits: 184
 text_top: See the best Instagram profiles on inBeat.

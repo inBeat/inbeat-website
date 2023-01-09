@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Toronto In 2022
+title: Top 10 Mothers TikTok Influencers In Toronto in 2023
 description: >-
-  Find top mothers TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #foryou #duet #toronto.
+  Find top mothers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryou #duet #toronto.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok accounts on inBeat.

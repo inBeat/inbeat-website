@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Australia In 2022
+title: Top 10 Health Instagram Influencers In Australia in 2023
 description: >-
-  Find top health Instagram influencers in Australia in 2022. Most popular hashtags: #makeup #ootd #australia.
+  Find top health Instagram influencers in Australia in 2023. Most popular hashtags: #makeup #ootd #australia.
 platform: Instagram
 hits: 743
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Peru In 2022
+title: Top 10 Lifestyle Instagram Influencers In Peru in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Peru in 2022. Most popular hashtags: #ootd #publicidad #girl #outfits.
+  Find top lifestyle Instagram influencers in Peru in 2023. Most popular hashtags: #ootd #publicidad #girl #outfits.
 platform: Instagram
 hits: 100
 text_top: See the best Instagram profiles on inBeat.

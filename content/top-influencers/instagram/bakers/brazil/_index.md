@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Brazil In 2022
+title: Top 10 Bakers Instagram Influencers In Brazil in 2023
 description: >-
-  Find top bakers Instagram influencers in Brazil in 2022. Most popular hashtags: #foodphotography #pastry #baker #instafood.
+  Find top bakers Instagram influencers in Brazil in 2023. Most popular hashtags: #foodphotography #pastry #baker #instafood.
 platform: Instagram
 hits: 138
 text_top: Discover the top-rated Instagram accounts on inBeat.

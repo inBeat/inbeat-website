@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Japan In 2022
+title: Top 10 Health Instagram Influencers In Japan in 2023
 description: >-
-  Find top health Instagram influencers in Japan in 2022. Most popular hashtags: #fashion #ootd #pr.
+  Find top health Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #ootd #pr.
 platform: Instagram
 hits: 205
 text_top: Discover the most popular Instagram influencers on inBeat.

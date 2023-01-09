@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Australia In 2022
+title: Top 10 Gardening Instagram Influencers In Australia in 2023
 description: >-
-  Find top gardening Instagram influencers in Australia in 2022. Most popular hashtags: #growyourown #gardeningaustralia #urbanorganicgardener #gardening.
+  Find top gardening Instagram influencers in Australia in 2023. Most popular hashtags: #growyourown #gardeningaustralia #urbanorganicgardener #gardening.
 platform: Instagram
 hits: 65
 text_top: Analyze the best Instagram influencers on inBeat.

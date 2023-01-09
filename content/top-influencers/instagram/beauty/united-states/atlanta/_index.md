@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Atlanta In 2022
+title: Top 10 Beauty Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2022. Most popular hashtags: #beauty #explore #atlanta #melanin.
+  Find top beauty Instagram influencers in Atlanta in 2023. Most popular hashtags: #beauty #explore #atlanta #melanin.
 platform: Instagram
 hits: 330
 text_top: Identify the most popular Instagram influencers on inBeat.

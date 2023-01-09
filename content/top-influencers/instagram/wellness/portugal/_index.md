@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Portugal In 2022
+title: Top 10 Wellness Instagram Influencers In Portugal in 2023
 description: >-
-  Find top wellness Instagram influencers in Portugal in 2022. Most popular hashtags: #fitness #wellness #lifestyle #fitnessmotivation.
+  Find top wellness Instagram influencers in Portugal in 2023. Most popular hashtags: #fitness #wellness #lifestyle #fitnessmotivation.
 platform: Instagram
 hits: 18
 text_top: Discover the most popular Instagram profiles on inBeat.

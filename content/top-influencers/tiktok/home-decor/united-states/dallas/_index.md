@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Dallas In 2022
+title: Top 10 Home Decor TikTok Influencers In Dallas in 2023
 description: >-
-  Find top home decor TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #homedecor #foryou #dallas.
+  Find top home decor TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #homedecor #foryou #dallas.
 platform: TikTok
 hits: 14
 text_top: See the best TikTok accounts on inBeat.

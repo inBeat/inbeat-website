@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Osaka In 2022
+title: Top 10 Beauty Instagram Influencers In Osaka in 2023
 description: >-
-  Find top beauty Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #pr #genic #ootd.
+  Find top beauty Instagram influencers in Osaka in 2023. Most popular hashtags: #osaka #pr #genic #ootd.
 platform: Instagram
 hits: 44
 text_top: Discover the top-rated Instagram influencers on inBeat.

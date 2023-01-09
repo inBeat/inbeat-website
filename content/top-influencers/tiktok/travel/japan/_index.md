@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Japan In 2022
+title: Top 10 Travel TikTok Influencers In Japan in 2023
 description: >-
-  Find top travel TikTok influencers in Japan in 2022. Most popular hashtags: #tiktok #travel #japan #tiktokjapan.
+  Find top travel TikTok influencers in Japan in 2023. Most popular hashtags: #tiktok #travel #japan #tiktokjapan.
 platform: TikTok
 hits: 25
 text_top: Identify the top-rated TikTok influencers on inBeat.

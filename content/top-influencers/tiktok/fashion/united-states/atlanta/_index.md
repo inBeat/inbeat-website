@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Atlanta In 2022
+title: Top 10 Fashion TikTok Influencers In Atlanta in 2023
 description: >-
-  Find top fashion TikTok influencers in Atlanta in 2022. Most popular hashtags: #atlanta #fyp #fashion #fy.
+  Find top fashion TikTok influencers in Atlanta in 2023. Most popular hashtags: #atlanta #fyp #fashion #fy.
 platform: TikTok
 hits: 33
 text_top: Identify the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Peru In 2022
+title: Top 10 Dancers Instagram Influencers In Peru in 2023
 description: >-
-  Find top dancers Instagram influencers in Peru in 2022. Most popular hashtags: #dance #reggaeton #dancer #love.
+  Find top dancers Instagram influencers in Peru in 2023. Most popular hashtags: #dance #reggaeton #dancer #love.
 platform: Instagram
 hits: 41
 text_top: Analyze the top-rated Instagram influencers on inBeat.

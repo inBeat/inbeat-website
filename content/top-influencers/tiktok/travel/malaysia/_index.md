@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Malaysia In 2022
+title: Top 10 Travel TikTok Influencers In Malaysia in 2023
 description: >-
-  Find top travel TikTok influencers in Malaysia in 2022. Most popular hashtags: #fyp #malaysia #travel #foryou.
+  Find top travel TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #malaysia #travel #foryou.
 platform: TikTok
 hits: 19
 text_top: Identify the best TikTok profiles on inBeat.

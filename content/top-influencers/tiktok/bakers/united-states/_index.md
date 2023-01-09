@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers TikTok Influencers In United States In 2022
+title: Top 10 Bakers TikTok Influencers In United States in 2023
 description: >-
-  Find top bakers TikTok influencers in United States in 2022. Most popular hashtags: #duet #foryou #greenscreen #fyp.
+  Find top bakers TikTok influencers in United States in 2023. Most popular hashtags: #duet #foryou #greenscreen #fyp.
 platform: TikTok
 hits: 1013
 text_top: Identify the best TikTok profiles on inBeat.

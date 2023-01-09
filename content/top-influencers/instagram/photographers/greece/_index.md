@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Greece In 2022
+title: Top 10 Photographers Instagram Influencers In Greece in 2023
 description: >-
-  Find top photographers Instagram influencers in Greece in 2022. Most popular hashtags: #fashion #greece #editorial #photoshoot.
+  Find top photographers Instagram influencers in Greece in 2023. Most popular hashtags: #fashion #greece #editorial #photoshoot.
 platform: Instagram
 hits: 202
 text_top: Identify the top-rated Instagram profiles on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       Safiye Bingöl
     bio: >-
-      photographer of love / visual storyteller / educator bookings for 2022 + 2022 🧡
+      photographer of love / visual storyteller / educator bookings for 2023 + 2023 🧡
     location: "Greece"
     followers: 32864
     engagement: 451

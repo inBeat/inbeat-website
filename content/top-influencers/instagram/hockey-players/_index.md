@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hockey Players Instagram Influencers In 2022
+title: Top 10 Hockey Players Instagram Influencers in 2023
 description: >-
-  Find top hockey players Instagram influencers in 2022. Most popular hashtags: #hockey #girldad #readyforsport.
+  Find top hockey players Instagram influencers in 2023. Most popular hashtags: #hockey #girldad #readyforsport.
 platform: Instagram
 hits: 130
 text_top: Identify the best Instagram profiles on inBeat.

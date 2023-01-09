@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Japan In 2022
+title: Top 10 Divers Instagram Influencers In Japan in 2023
 description: >-
-  Find top divers Instagram influencers in Japan in 2022. Most popular hashtags: #diving #diver #underwaterworld #underwaterphotography.
+  Find top divers Instagram influencers in Japan in 2023. Most popular hashtags: #diving #diver #underwaterworld #underwaterphotography.
 platform: Instagram
 hits: 45
 text_top: Discover the most popular Instagram profiles on inBeat.

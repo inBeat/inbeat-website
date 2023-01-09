@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Miami In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Miami in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Miami in 2022. Most popular hashtags: #tattoo #miami #inked #tattoos.
+  Find top tattoo-artists Instagram influencers in Miami in 2023. Most popular hashtags: #tattoo #miami #inked #tattoos.
 platform: Instagram
 hits: 47
 text_top: Discover the top-rated Instagram influencers on inBeat.

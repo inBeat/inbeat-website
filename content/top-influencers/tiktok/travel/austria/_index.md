@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Austria In 2022
+title: Top 10 Travel TikTok Influencers In Austria in 2023
 description: >-
-  Find top travel TikTok influencers in Austria in 2022. Most popular hashtags: #austria #travel #fyp #foryou.
+  Find top travel TikTok influencers in Austria in 2023. Most popular hashtags: #austria #travel #fyp #foryou.
 platform: TikTok
 hits: 37
 text_top: Discover the top-rated TikTok accounts on inBeat.

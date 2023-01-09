@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Denver In 2022
+title: Top 10 Instagram Influencers In Denver in 2023
 description: >-
-  Find top Instagram influencers in Denver in 2022. Most popular hashtags: #motivation #denver #tattoo.
+  Find top Instagram influencers in Denver in 2023. Most popular hashtags: #motivation #denver #tattoo.
 platform: Instagram
 hits: 1246
 text_top: Identify the most popular Instagram accounts on inBeat.

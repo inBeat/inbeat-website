@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United States In 2022
+title: Top 10 Hair Dressers Instagram Influencers In United States in 2023
 description: >-
-  Find top hair dressers Instagram influencers in United States in 2022. Most popular hashtags: #modernsalon #behindthechair #americansalon #crafthairdresser.
+  Find top hair dressers Instagram influencers in United States in 2023. Most popular hashtags: #modernsalon #behindthechair #americansalon #crafthairdresser.
 platform: Instagram
 hits: 127
 text_top: Discover the best Instagram influencers on inBeat.

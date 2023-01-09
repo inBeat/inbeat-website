@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Lifestyle Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top lifestyle Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #dubaibeautyblogger.
+  Find top lifestyle Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #dubaibeautyblogger.
 platform: Instagram
 hits: 288
 text_top: Identify the most popular Instagram accounts on inBeat.

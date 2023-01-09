@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Bali In 2022
+title: Top 10 Rappers Instagram Influencers In Bali in 2023
 description: >-
-  Find top rappers Instagram influencers in Bali in 2022. Most popular hashtags: #dirumahaja #indomusikgram #rapper #hiphop.
+  Find top rappers Instagram influencers in Bali in 2023. Most popular hashtags: #dirumahaja #indomusikgram #rapper #hiphop.
 platform: Instagram
 hits: 5
 text_top: Discover the top-rated Instagram profiles on inBeat.

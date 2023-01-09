@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Australia In 2022
+title: Top 10 Rappers Instagram Influencers In Australia in 2023
 description: >-
-  Find top rappers Instagram influencers in Australia in 2022. Most popular hashtags: #hiphop #music #newmusic.
+  Find top rappers Instagram influencers in Australia in 2023. Most popular hashtags: #hiphop #music #newmusic.
 platform: Instagram
 hits: 26
 text_top: Analyze the top-rated Instagram profiles on inBeat.

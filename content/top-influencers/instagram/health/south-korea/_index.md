@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In South Korea In 2022
+title: Top 10 Health Instagram Influencers In South Korea in 2023
 description: >-
-  Find top health Instagram influencers in South Korea in 2022. Most popular hashtags: #daily #healthyfood #diet.
+  Find top health Instagram influencers in South Korea in 2023. Most popular hashtags: #daily #healthyfood #diet.
 platform: Instagram
 hits: 54
 text_top: Discover the most popular Instagram profiles on inBeat.

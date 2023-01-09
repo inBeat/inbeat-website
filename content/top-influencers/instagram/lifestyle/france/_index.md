@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In France In 2022
+title: Top 10 Lifestyle Instagram Influencers In France in 2023
 description: >-
-  Find top lifestyle Instagram influencers in France in 2022. Most popular hashtags: #lookoftheday #fashion #concours #fashionstyle.
+  Find top lifestyle Instagram influencers in France in 2023. Most popular hashtags: #lookoftheday #fashion #concours #fashionstyle.
 platform: Instagram
 hits: 2277
 text_top: Discover the most popular Instagram accounts on inBeat.

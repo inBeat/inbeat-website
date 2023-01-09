@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Chicago In 2022
+title: Top 10 Athletes TikTok Influencers In Chicago in 2023
 description: >-
-  Find top athletes TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #athlete #sports #foryou.
+  Find top athletes TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #athlete #sports #foryou.
 platform: TikTok
 hits: 15
 text_top: Discover the top-rated TikTok influencers on inBeat.

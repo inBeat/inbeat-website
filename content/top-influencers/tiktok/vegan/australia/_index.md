@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Australia In 2022
+title: Top 10 Vegan TikTok Influencers In Australia in 2023
 description: >-
-  Find top vegan TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #vegan #foryou #love.
+  Find top vegan TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #vegan #foryou #love.
 platform: TikTok
 hits: 67
 text_top: Identify the best TikTok profiles on inBeat.

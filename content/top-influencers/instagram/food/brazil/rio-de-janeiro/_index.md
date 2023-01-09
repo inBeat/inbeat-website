@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Food Instagram Influencers In Rio De Janeiro in 2023
 description: >-
-  Find top food Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #food #gastronomia #riodejaneiro #love.
+  Find top food Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #food #gastronomia #riodejaneiro #love.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram accounts on inBeat.

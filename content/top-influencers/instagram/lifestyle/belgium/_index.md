@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Belgium In 2022
+title: Top 10 Lifestyle Instagram Influencers In Belgium in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Belgium in 2022. Most popular hashtags: #ootd #fashion #collab #belgianblogger.
+  Find top lifestyle Instagram influencers in Belgium in 2023. Most popular hashtags: #ootd #fashion #collab #belgianblogger.
 platform: Instagram
 hits: 99
 text_top: Discover the most popular Instagram profiles on inBeat.

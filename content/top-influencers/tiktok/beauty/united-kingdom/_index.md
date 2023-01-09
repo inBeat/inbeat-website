@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United Kingdom In 2022
+title: Top 10 Beauty TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top beauty TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryoupage #halloween #makeup.
+  Find top beauty TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #halloween #makeup.
 platform: TikTok
 hits: 792
 text_top: See the top-rated TikTok accounts on inBeat.

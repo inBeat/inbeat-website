@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In 2022
+title: Top 10 Yoga Instagram Influencers in 2023
 description: >-
-  Find top yoga Instagram influencers in 2022. Most popular hashtags: #yoga #yogaeverydamnday #yogaeveryday.
+  Find top yoga Instagram influencers in 2023. Most popular hashtags: #yoga #yogaeverydamnday #yogaeveryday.
 platform: Instagram
 hits: 8663
 text_top: Identify the most popular Instagram influencers on inBeat.

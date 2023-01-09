@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Fashion Instagram Influencers In Rio De Janeiro in 2023
 description: >-
-  Find top fashion Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #tbt #fashion #lifestyle.
+  Find top fashion Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #tbt #fashion #lifestyle.
 platform: Instagram
 hits: 44
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Japan In 2022
+title: Top 10 Yoga Instagram Influencers In Japan in 2023
 description: >-
-  Find top yoga Instagram influencers in Japan in 2022. Most popular hashtags: #yoga #yogi #yogainstructor.
+  Find top yoga Instagram influencers in Japan in 2023. Most popular hashtags: #yoga #yogi #yogainstructor.
 platform: Instagram
 hits: 113
 text_top: See the most popular Instagram profiles on inBeat.

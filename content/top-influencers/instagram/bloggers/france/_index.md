@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In France In 2022
+title: Top 10 Bloggers Instagram Influencers In France in 2023
 description: >-
-  Find top bloggers Instagram influencers in France in 2022. Most popular hashtags: #ootd #frenchgirl #concours.
+  Find top bloggers Instagram influencers in France in 2023. Most popular hashtags: #ootd #frenchgirl #concours.
 platform: Instagram
 hits: 937
 text_top: See the top-rated Instagram accounts on inBeat.

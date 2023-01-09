@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Dallas In 2022
+title: Top 10 Home Decor Instagram Influencers In Dallas in 2023
 description: >-
-  Find top home decor Instagram influencers in Dallas in 2022. Most popular hashtags: #homedecor #dallasblogger #dallasfoodie #ad.
+  Find top home decor Instagram influencers in Dallas in 2023. Most popular hashtags: #homedecor #dallasblogger #dallasfoodie #ad.
 platform: Instagram
 hits: 66
 text_top: Identify the best Instagram influencers on inBeat.

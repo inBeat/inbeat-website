@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Montreal In 2022
+title: Top 10 Food Instagram Influencers In Montreal in 2023
 description: >-
-  Find top food Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #foodstagram #mtlfoodie #mtlfood.
+  Find top food Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #foodstagram #mtlfoodie #mtlfood.
 platform: Instagram
 hits: 50
 text_top: See the top-rated Instagram accounts on inBeat.

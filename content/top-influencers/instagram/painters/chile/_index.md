@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Chile In 2022
+title: Top 10 Painters Instagram Influencers In Chile in 2023
 description: >-
-  Find top painters Instagram influencers in Chile in 2022. Most popular hashtags: #pazinterior #amor #chile #artist.
+  Find top painters Instagram influencers in Chile in 2023. Most popular hashtags: #pazinterior #amor #chile #artist.
 platform: Instagram
 hits: 16
 text_top: Analyze the top-rated Instagram influencers on inBeat.

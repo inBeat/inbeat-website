@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Brazil In 2022
+title: Top 10 Crossfit TikTok Influencers In Brazil in 2023
 description: >-
-  Find top crossfit TikTok influencers in Brazil in 2022. Most popular hashtags: #crossfit #fyp #fitness #workout.
+  Find top crossfit TikTok influencers in Brazil in 2023. Most popular hashtags: #crossfit #fyp #fitness #workout.
 platform: TikTok
 hits: 28
 text_top: Identify the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Chicago In 2022
+title: Top 10 Cosmetics Instagram Influencers In Chicago in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #cosmetics #makeup #beauty.
+  Find top cosmetics Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #cosmetics #makeup #beauty.
 platform: Instagram
 hits: 44
 text_top: Identify the best Instagram influencers on inBeat.

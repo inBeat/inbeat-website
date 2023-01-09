@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Denver In 2022
+title: Top 10 Photographers TikTok Influencers In Denver in 2023
 description: >-
-  Find top photographers TikTok influencers in Denver in 2022. Most popular hashtags: #fyp #photography #colorado #photographer.
+  Find top photographers TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #photography #colorado #photographer.
 platform: TikTok
 hits: 8
 text_top: Identify the best TikTok accounts on inBeat.

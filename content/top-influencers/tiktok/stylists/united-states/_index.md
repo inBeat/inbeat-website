@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In United States In 2022
+title: Top 10 Stylists TikTok Influencers In United States in 2023
 description: >-
-  Find top stylists TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #makeup #greenscreen.
+  Find top stylists TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #makeup #greenscreen.
 platform: TikTok
 hits: 197
 text_top: Identify the most popular TikTok accounts on inBeat.

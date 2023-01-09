@@ -1,7 +1,7 @@
 ---
-title: Top 10 Triathlon Athletes Instagram Influencers In 2022
+title: Top 10 Triathlon Athletes Instagram Influencers in 2023
 description: >-
-  Find top triathlon athletes Instagram influencers in 2022. Most popular hashtags: #triathletes #compressport #sunday #giuliomolinari.
+  Find top triathlon athletes Instagram influencers in 2023. Most popular hashtags: #triathletes #compressport #sunday #giuliomolinari.
 platform: Instagram
 hits: 2
 text_top: See the top-rated Instagram influencers on inBeat.

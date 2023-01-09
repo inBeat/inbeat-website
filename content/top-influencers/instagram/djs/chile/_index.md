@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Chile In 2022
+title: Top 10 Djs Instagram Influencers In Chile in 2023
 description: >-
-  Find top djs Instagram influencers in Chile in 2022. Most popular hashtags: #instachile #music #chile.
+  Find top djs Instagram influencers in Chile in 2023. Most popular hashtags: #instachile #music #chile.
 platform: Instagram
 hits: 21
 text_top: Identify the best Instagram influencers on inBeat.

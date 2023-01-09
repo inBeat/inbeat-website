@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Turkey In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Turkey in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Turkey in 2022. Most popular hashtags: #bodybuilding #istanbul #instagood #turkey.
+  Find top bodybuilding Instagram influencers in Turkey in 2023. Most popular hashtags: #bodybuilding #istanbul #instagood #turkey.
 platform: Instagram
 hits: 47
 text_top: Identify the best Instagram profiles on inBeat.

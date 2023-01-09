@@ -1,7 +1,7 @@
 ---
-title: Top 10 Marathon TikTok Influencers In 2022
+title: Top 10 Marathon TikTok Influencers in 2023
 description: >-
-  Find top marathon TikTok influencers in 2022. Most popular hashtags: #fyp #runner #foryou #duet.
+  Find top marathon TikTok influencers in 2023. Most popular hashtags: #fyp #runner #foryou #duet.
 platform: TikTok
 hits: 130
 text_top: See the best TikTok profiles on inBeat.

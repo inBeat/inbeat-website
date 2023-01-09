@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Greece In 2022
+title: Top 10 Djs Instagram Influencers In Greece in 2023
 description: >-
-  Find top djs Instagram influencers in Greece in 2022. Most popular hashtags: #dj #skg #hiphop.
+  Find top djs Instagram influencers in Greece in 2023. Most popular hashtags: #dj #skg #hiphop.
 platform: Instagram
 hits: 10
 text_top: Identify the most popular Instagram influencers on inBeat.

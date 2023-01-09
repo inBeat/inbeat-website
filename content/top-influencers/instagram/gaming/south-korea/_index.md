@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In South Korea In 2022
+title: Top 10 Gaming Instagram Influencers In South Korea in 2023
 description: >-
-  Find top gaming Instagram influencers in South Korea in 2022. Most popular hashtags: #gaming #gamer #naming.
+  Find top gaming Instagram influencers in South Korea in 2023. Most popular hashtags: #gaming #gamer #naming.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram profiles on inBeat.

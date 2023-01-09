@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In 2022
+title: Top 10 Architecture TikTok Influencers in 2023
 description: >-
-  Find top architecture TikTok influencers in 2022. Most popular hashtags: #architecture #fyp #design #foryou.
+  Find top architecture TikTok influencers in 2023. Most popular hashtags: #architecture #fyp #design #foryou.
 platform: TikTok
 hits: 253
 text_top: See the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Los Angeles In 2022
+title: Top 10 Rappers TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top rappers TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #losangeles #viral #foryou.
+  Find top rappers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #viral #foryou.
 platform: TikTok
 hits: 17
 text_top: See the most popular TikTok profiles on inBeat.

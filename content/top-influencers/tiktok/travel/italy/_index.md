@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Italy In 2022
+title: Top 10 Travel TikTok Influencers In Italy in 2023
 description: >-
-  Find top travel TikTok influencers in Italy in 2022. Most popular hashtags: #travel #fyp #italy #italia.
+  Find top travel TikTok influencers in Italy in 2023. Most popular hashtags: #travel #fyp #italy #italia.
 platform: TikTok
 hits: 244
 text_top: Identify the most popular TikTok profiles on inBeat.
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013053
     id: ck83zg6s80gw80j78hpnfd334
     verified: true
-    hashtags: "#valespo, #adv, #ad, #huaweipsmart2022"
+    hashtags: "#valespo, #adv, #ad, #huaweipsmart2023"
   - username: "warrior_singhni1984"
     fullname: >-
       WARRIOR_SINGHNI1984💙

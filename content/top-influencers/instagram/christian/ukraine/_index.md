@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Ukraine In 2022
+title: Top 10 Christian Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top christian Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukraine #autumn #summer.
+  Find top christian Instagram influencers in Ukraine in 2023. Most popular hashtags: #ukraine #autumn #summer.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram profiles on inBeat.

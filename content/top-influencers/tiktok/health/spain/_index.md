@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Spain In 2022
+title: Top 10 Health TikTok Influencers In Spain in 2023
 description: >-
-  Find top health TikTok influencers in Spain in 2022. Most popular hashtags: #fyp #foryoupage #foryou #parati.
+  Find top health TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #foryoupage #foryou #parati.
 platform: TikTok
 hits: 45
 text_top: Identify the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Toronto In 2022
+title: Top 10 Stylists Instagram Influencers In Toronto in 2023
 description: >-
-  Find top stylists Instagram influencers in Toronto in 2022. Most popular hashtags: #fashion #toronto #style #stylist.
+  Find top stylists Instagram influencers in Toronto in 2023. Most popular hashtags: #fashion #toronto #style #stylist.
 platform: Instagram
 hits: 45
 text_top: Discover the most popular Instagram profiles on inBeat.

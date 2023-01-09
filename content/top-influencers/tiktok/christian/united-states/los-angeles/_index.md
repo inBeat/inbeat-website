@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Los Angeles In 2022
+title: Top 10 Christian TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top christian TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #duet #foryou #christian.
+  Find top christian TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #duet #foryou #christian.
 platform: TikTok
 hits: 18
 text_top: See the top-rated TikTok accounts on inBeat.

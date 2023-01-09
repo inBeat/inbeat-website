@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Japan In 2022
+title: Top 10 Vegan Instagram Influencers In Japan in 2023
 description: >-
-  Find top vegan Instagram influencers in Japan in 2022. Most popular hashtags: #vegan #stayhome #pr #plantbased.
+  Find top vegan Instagram influencers in Japan in 2023. Most popular hashtags: #vegan #stayhome #pr #plantbased.
 platform: Instagram
 hits: 68
 text_top: Identify the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Turkey In 2022
+title: Top 10 Nutrition Instagram Influencers In Turkey in 2023
 description: >-
-  Find top nutrition Instagram influencers in Turkey in 2022. Most popular hashtags: #sag #istanbul #tatil.
+  Find top nutrition Instagram influencers in Turkey in 2023. Most popular hashtags: #sag #istanbul #tatil.
 platform: Instagram
 hits: 61
 text_top: Identify the best Instagram profiles on inBeat.

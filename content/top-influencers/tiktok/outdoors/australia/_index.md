@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Australia In 2022
+title: Top 10 Outdoors TikTok Influencers In Australia in 2023
 description: >-
-  Find top outdoors TikTok influencers in Australia in 2022. Most popular hashtags: #australia #outdoors #travel #fyp.
+  Find top outdoors TikTok influencers in Australia in 2023. Most popular hashtags: #australia #outdoors #travel #fyp.
 platform: TikTok
 hits: 31
 text_top: Discover the top-rated TikTok accounts on inBeat.

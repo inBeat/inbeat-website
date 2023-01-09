@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In 2022
+title: Top 10 Beauty Instagram Influencers in 2023
 description: >-
-  Find top beauty Instagram influencers in 2022. Most popular hashtags: #ootd #liketkit #ltkunder50.
+  Find top beauty Instagram influencers in 2023. Most popular hashtags: #ootd #liketkit #ltkunder50.
 platform: Instagram
 hits: 104251
 text_top: See the top-rated Instagram influencers on inBeat.

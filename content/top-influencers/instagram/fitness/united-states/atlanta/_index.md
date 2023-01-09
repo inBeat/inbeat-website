@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Atlanta In 2022
+title: Top 10 Fitness Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top fitness Instagram influencers in Atlanta in 2022. Most popular hashtags: #fitness #atlanta #gym #workout.
+  Find top fitness Instagram influencers in Atlanta in 2023. Most popular hashtags: #fitness #atlanta #gym #workout.
 platform: Instagram
 hits: 229
 text_top: Discover the best Instagram influencers on inBeat.

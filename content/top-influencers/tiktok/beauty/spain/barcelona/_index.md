@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Barcelona In 2022
+title: Top 10 Beauty TikTok Influencers In Barcelona in 2023
 description: >-
-  Find top beauty TikTok influencers in Barcelona in 2022. Most popular hashtags: #barcelona #fyp #viral #parati.
+  Find top beauty TikTok influencers in Barcelona in 2023. Most popular hashtags: #barcelona #fyp #viral #parati.
 platform: TikTok
 hits: 7
 text_top: See the top-rated TikTok influencers on inBeat.

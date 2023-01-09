@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Ukraine In 2022
+title: Top 10 TikTok Influencers In Ukraine in 2023
 description: >-
-  Find top TikTok influencers in Ukraine in 2022. Most popular hashtags: #pcz #fyp #aestheticvideo.
+  Find top TikTok influencers in Ukraine in 2023. Most popular hashtags: #pcz #fyp #aestheticvideo.
 platform: TikTok
 hits: 756
 text_top: Discover the best TikTok accounts on inBeat.
@@ -14,7 +14,7 @@ profiles:
       Художник illustrator 🎨 Odessa Email: allalisovaa@gmail.com
     location: "Ukraine"
     followers: 223800
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.029861
     id: ckb9dg7ex0oo80j23sxh3500f
     verified: false

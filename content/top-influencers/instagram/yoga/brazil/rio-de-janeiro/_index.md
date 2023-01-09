@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Yoga Instagram Influencers In Rio De Janeiro in 2023
 description: >-
-  Find top yoga Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #yoga #goodvibes #tbt #errejota.
+  Find top yoga Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #yoga #goodvibes #tbt #errejota.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram influencers on inBeat.

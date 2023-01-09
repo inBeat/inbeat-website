@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Chicago In 2022
+title: Top 10 Skincare Instagram Influencers In Chicago in 2023
 description: >-
-  Find top skincare Instagram influencers in Chicago in 2022. Most popular hashtags: #skincare #skincaretips #365skincare #quarantine.
+  Find top skincare Instagram influencers in Chicago in 2023. Most popular hashtags: #skincare #skincaretips #365skincare #quarantine.
 platform: Instagram
 hits: 77
 text_top: Analyze the most popular Instagram influencers on inBeat.

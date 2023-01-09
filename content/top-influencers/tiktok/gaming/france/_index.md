@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In France In 2022
+title: Top 10 Gaming TikTok Influencers In France in 2023
 description: >-
-  Find top gaming TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #gaming #fortnite #foryou.
+  Find top gaming TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #gaming #fortnite #foryou.
 platform: TikTok
 hits: 120
 text_top: Analyze the top-rated TikTok profiles on inBeat.

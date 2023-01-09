@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Colombia In 2022
+title: Top 10 Bloggers Instagram Influencers In Colombia in 2023
 description: >-
-  Find top bloggers Instagram influencers in Colombia in 2022. Most popular hashtags: #makeup #colombia #makeupartist #maquillaje.
+  Find top bloggers Instagram influencers in Colombia in 2023. Most popular hashtags: #makeup #colombia #makeupartist #maquillaje.
 platform: Instagram
 hits: 74
 text_top: See the top-rated Instagram influencers on inBeat.

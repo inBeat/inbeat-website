@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Izmir In 2022
+title: Top 10 TikTok Influencers In Izmir in 2023
 description: >-
-  Find top TikTok influencers in Izmir in 2022. Most popular hashtags: #ke #izmir #fyp.
+  Find top TikTok influencers in Izmir in 2023. Most popular hashtags: #ke #izmir #fyp.
 platform: TikTok
 hits: 356
 text_top: Identify the most popular TikTok profiles on inBeat.

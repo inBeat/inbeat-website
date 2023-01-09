@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Italy In 2022
+title: Top 10 TikTok Influencers In Italy in 2023
 description: >-
-  Find top TikTok influencers in Italy in 2022. Most popular hashtags: #duet #foryou #duetto.
+  Find top TikTok influencers in Italy in 2023. Most popular hashtags: #duet #foryou #duetto.
 platform: TikTok
 hits: 3954
 text_top: Identify the best TikTok influencers on inBeat.

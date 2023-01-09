@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Brazil In 2022
+title: Top 10 Photographers Instagram Influencers In Brazil in 2023
 description: >-
-  Find top photographers Instagram influencers in Brazil in 2022. Most popular hashtags: #portraitvision #portrait #alternativegirl.
+  Find top photographers Instagram influencers in Brazil in 2023. Most popular hashtags: #portraitvision #portrait #alternativegirl.
 platform: Instagram
 hits: 979
 text_top: Discover the most popular Instagram profiles on inBeat.

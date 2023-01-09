@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In India In 2022
+title: Top 10 Beauty Instagram Influencers In India in 2023
 description: >-
-  Find top beauty Instagram influencers in India in 2022. Most popular hashtags: #ootd #fashionblogger #indianfashionblogger #indianblogger.
+  Find top beauty Instagram influencers in India in 2023. Most popular hashtags: #ootd #fashionblogger #indianfashionblogger #indianblogger.
 platform: Instagram
 hits: 5376
 text_top: Analyze the best Instagram accounts on inBeat.

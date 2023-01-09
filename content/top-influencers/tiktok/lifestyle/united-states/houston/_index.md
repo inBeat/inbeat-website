@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Houston In 2022
+title: Top 10 Lifestyle TikTok Influencers In Houston in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #houston #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #foryou #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Analyze the most popular TikTok accounts on inBeat.

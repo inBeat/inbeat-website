@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Poland In 2022
+title: Top 10 Crossfit Instagram Influencers In Poland in 2023
 description: >-
-  Find top crossfit Instagram influencers in Poland in 2022. Most popular hashtags: #crossfit #fitness #trening #polishgirl.
+  Find top crossfit Instagram influencers in Poland in 2023. Most popular hashtags: #crossfit #fitness #trening #polishgirl.
 platform: Instagram
 hits: 42
 text_top: Identify the best Instagram profiles on inBeat.

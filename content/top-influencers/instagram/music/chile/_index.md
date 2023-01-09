@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Chile In 2022
+title: Top 10 Music Instagram Influencers In Chile in 2023
 description: >-
-  Find top music Instagram influencers in Chile in 2022. Most popular hashtags: #musica #musicachilena #chile.
+  Find top music Instagram influencers in Chile in 2023. Most popular hashtags: #musica #musicachilena #chile.
 platform: Instagram
 hits: 248
 text_top: Identify the most popular Instagram profiles on inBeat.

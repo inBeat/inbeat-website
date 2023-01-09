@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In United Kingdom In 2022
+title: Top 10 Gardening Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top gardening Instagram influencers in United Kingdom in 2022. Most popular hashtags: #ediblegarden #gardensofinstagram #gardenersworld.
+  Find top gardening Instagram influencers in United Kingdom in 2023. Most popular hashtags: #ediblegarden #gardensofinstagram #gardenersworld.
 platform: Instagram
 hits: 303
 text_top: Analyze the most popular Instagram accounts on inBeat.

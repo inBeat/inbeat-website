@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Ireland In 2022
+title: Top 10 Makeup TikTok Influencers In Ireland in 2023
 description: >-
-  Find top makeup TikTok influencers in Ireland in 2022. Most popular hashtags: #makeup #fyp #foryou #halloween.
+  Find top makeup TikTok influencers in Ireland in 2023. Most popular hashtags: #makeup #fyp #foryou #halloween.
 platform: TikTok
 hits: 50
 text_top: Analyze the top-rated TikTok influencers on inBeat.

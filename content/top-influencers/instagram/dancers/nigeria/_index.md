@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Nigeria In 2022
+title: Top 10 Dancers Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top dancers Instagram influencers in Nigeria in 2022. Most popular hashtags: #explore #endsars #explorepage.
+  Find top dancers Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #endsars #explorepage.
 platform: Instagram
 hits: 34
 text_top: See the best Instagram accounts on inBeat.
@@ -83,7 +83,7 @@ profiles:
     fullname: >-
       🌈Celestial Steppers 🤸‍♀️💃
     bio: >-
-      Celestial Church of Christ Dancers 💃🕺 #Celestialsteppers For Booking/ Sponsorship/ Videoshoots/ Adverts/ Enquiries 💰💵 📞💬Call/WhatsApp +2348089242022
+      Celestial Church of Christ Dancers 💃🕺 #Celestialsteppers For Booking/ Sponsorship/ Videoshoots/ Adverts/ Enquiries 💰💵 📞💬Call/WhatsApp +2348089242023
     location: "Nigeria"
     followers: 22795
     engagement: 344

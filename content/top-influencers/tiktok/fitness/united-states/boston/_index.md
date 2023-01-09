@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Boston In 2022
+title: Top 10 Fitness TikTok Influencers In Boston in 2023
 description: >-
-  Find top fitness TikTok influencers in Boston in 2022. Most popular hashtags: #fitness #boston #fyp #massachusetts.
+  Find top fitness TikTok influencers in Boston in 2023. Most popular hashtags: #fitness #boston #fyp #massachusetts.
 platform: TikTok
 hits: 19
 text_top: Identify the most popular TikTok influencers on inBeat.

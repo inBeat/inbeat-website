@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United States In 2022
+title: Top 10 Crossfit Instagram Influencers In United States in 2023
 description: >-
-  Find top crossfit Instagram influencers in United States in 2022. Most popular hashtags: #crossfit #fitness #motivation.
+  Find top crossfit Instagram influencers in United States in 2023. Most popular hashtags: #crossfit #fitness #motivation.
 platform: Instagram
 hits: 882
 text_top: See the top-rated Instagram influencers on inBeat.

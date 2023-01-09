@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In South Africa In 2022
+title: Top 10 Food Instagram Influencers In South Africa in 2023
 description: >-
-  Find top food Instagram influencers in South Africa in 2022. Most popular hashtags: #giveaway #southafrica #summervibes.
+  Find top food Instagram influencers in South Africa in 2023. Most popular hashtags: #giveaway #southafrica #summervibes.
 platform: Instagram
 hits: 109
 text_top: Identify the most popular Instagram profiles on inBeat.

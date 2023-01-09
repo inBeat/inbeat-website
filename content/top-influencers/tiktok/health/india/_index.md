@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In India In 2022
+title: Top 10 Health TikTok Influencers In India in 2023
 description: >-
-  Find top health TikTok influencers in India in 2022. Most popular hashtags: #duet #foryou #tiktok #foryoupage.
+  Find top health TikTok influencers in India in 2023. Most popular hashtags: #duet #foryou #tiktok #foryoupage.
 platform: TikTok
 hits: 808
 text_top: See the best TikTok influencers on inBeat.

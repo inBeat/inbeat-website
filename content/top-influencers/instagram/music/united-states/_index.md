@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In United States In 2022
+title: Top 10 Music Instagram Influencers In United States in 2023
 description: >-
-  Find top music Instagram influencers in United States in 2022. Most popular hashtags: #contrasts #streetportraiture #lifeandpeople.
+  Find top music Instagram influencers in United States in 2023. Most popular hashtags: #contrasts #streetportraiture #lifeandpeople.
 platform: Instagram
 hits: 14671
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Seoul In 2022
+title: Top 10 Lifestyle Instagram Influencers In Seoul in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Seoul in 2022. Most popular hashtags: #seoul #korea #lifestyle #ootd.
+  Find top lifestyle Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #lifestyle #ootd.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram influencers on inBeat.

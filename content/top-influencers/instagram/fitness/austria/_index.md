@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Austria In 2022
+title: Top 10 Fitness Instagram Influencers In Austria in 2023
 description: >-
-  Find top fitness Instagram influencers in Austria in 2022. Most popular hashtags: #austria #vienna #weekend.
+  Find top fitness Instagram influencers in Austria in 2023. Most popular hashtags: #austria #vienna #weekend.
 platform: Instagram
 hits: 207
 text_top: Discover the best Instagram influencers on inBeat.

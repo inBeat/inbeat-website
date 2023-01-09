@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Ukraine In 2022
+title: Top 10 Yoga Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top yoga Instagram influencers in Ukraine in 2022. Most popular hashtags: #yoga #stretching #sport.
+  Find top yoga Instagram influencers in Ukraine in 2023. Most popular hashtags: #yoga #stretching #sport.
 platform: Instagram
 hits: 45
 text_top: Analyze the best Instagram accounts on inBeat.

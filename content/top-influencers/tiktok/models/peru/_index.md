@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Peru In 2022
+title: Top 10 Models TikTok Influencers In Peru in 2023
 description: >-
-  Find top models TikTok influencers in Peru in 2022. Most popular hashtags: #model #peru #fashion #fyp.
+  Find top models TikTok influencers in Peru in 2023. Most popular hashtags: #model #peru #fashion #fyp.
 platform: TikTok
 hits: 22
 text_top: See the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Austin In 2022
+title: Top 10 Barbers TikTok Influencers In Austin in 2023
 description: >-
-  Find top barbers TikTok influencers in Austin in 2022. Most popular hashtags: #fyp #barber #haircut #xyzbca.
+  Find top barbers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #barber #haircut #xyzbca.
 platform: TikTok
 hits: 9
 text_top: Identify the most popular TikTok influencers on inBeat.

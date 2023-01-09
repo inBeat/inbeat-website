@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Chicago In 2022
+title: Top 10 Food TikTok Influencers In Chicago in 2023
 description: >-
-  Find top food TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #foryou #food.
+  Find top food TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #foryou #food.
 platform: TikTok
 hits: 111
 text_top: Analyze the most popular TikTok accounts on inBeat.

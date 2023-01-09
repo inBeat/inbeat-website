@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In Russia In 2022
+title: Top 10 Painters TikTok Influencers In Russia in 2023
 description: >-
-  Find top painters TikTok influencers in Russia in 2022. Most popular hashtags: #art #fyp #painting #artist.
+  Find top painters TikTok influencers in Russia in 2023. Most popular hashtags: #art #fyp #painting #artist.
 platform: TikTok
 hits: 16
 text_top: See the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Boxers TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top boxers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #boxer #boxing #fyp #training.
+  Find top boxers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #boxer #boxing #fyp #training.
 platform: TikTok
 hits: 46
 text_top: Identify the best TikTok influencers on inBeat.

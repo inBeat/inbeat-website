@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Indonesia In 2022
+title: Top 10 Skincare Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top skincare Instagram influencers in Indonesia in 2022. Most popular hashtags: #lfl #endorse #endorsement.
+  Find top skincare Instagram influencers in Indonesia in 2023. Most popular hashtags: #lfl #endorse #endorsement.
 platform: Instagram
 hits: 818
 text_top: Analyze the most popular Instagram accounts on inBeat.

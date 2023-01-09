@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Greece In 2022
+title: Top 10 Vegan Instagram Influencers In Greece in 2023
 description: >-
-  Find top vegan Instagram influencers in Greece in 2022. Most popular hashtags: #vegan #greece #healthylifestyle #love.
+  Find top vegan Instagram influencers in Greece in 2023. Most popular hashtags: #vegan #greece #healthylifestyle #love.
 platform: Instagram
 hits: 49
 text_top: Identify the top-rated Instagram influencers on inBeat.

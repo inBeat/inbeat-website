@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Germany In 2022
+title: Top 10 Food TikTok Influencers In Germany in 2023
 description: >-
-  Find top food TikTok influencers in Germany in 2022. Most popular hashtags: #food #lecker #fyp.
+  Find top food TikTok influencers in Germany in 2023. Most popular hashtags: #food #lecker #fyp.
 platform: TikTok
 hits: 321
 text_top: Analyze the top-rated TikTok profiles on inBeat.

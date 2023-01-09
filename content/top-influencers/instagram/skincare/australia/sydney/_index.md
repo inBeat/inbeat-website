@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Sydney In 2022
+title: Top 10 Skincare Instagram Influencers In Sydney in 2023
 description: >-
-  Find top skincare Instagram influencers in Sydney in 2022. Most popular hashtags: #skincare #sydney #australia #sydneyaustralia.
+  Find top skincare Instagram influencers in Sydney in 2023. Most popular hashtags: #skincare #sydney #australia #sydneyaustralia.
 platform: Instagram
 hits: 56
 text_top: See the most popular Instagram accounts on inBeat.

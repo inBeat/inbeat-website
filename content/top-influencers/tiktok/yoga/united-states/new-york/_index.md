@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In New York In 2022
+title: Top 10 Yoga TikTok Influencers In New York in 2023
 description: >-
-  Find top yoga TikTok influencers in New York in 2022. Most popular hashtags: #fyp #yoga #newyork #foryou.
+  Find top yoga TikTok influencers in New York in 2023. Most popular hashtags: #fyp #yoga #newyork #foryou.
 platform: TikTok
 hits: 13
 text_top: Discover the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In 2022
+title: Top 10 Athletes TikTok Influencers in 2023
 description: >-
-  Find top athletes TikTok influencers in 2022. Most popular hashtags: #fyp #viral #foryoupage #foryou.
+  Find top athletes TikTok influencers in 2023. Most popular hashtags: #fyp #viral #foryoupage #foryou.
 platform: TikTok
 hits: 1237
 text_top: See the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Nigeria In 2022
+title: Top 10 Beauty TikTok Influencers In Nigeria in 2023
 description: >-
-  Find top beauty TikTok influencers in Nigeria in 2022. Most popular hashtags: #fyp #beauty #makeup #duet.
+  Find top beauty TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #beauty #makeup #duet.
 platform: TikTok
 hits: 21
 text_top: Identify the most popular TikTok profiles on inBeat.

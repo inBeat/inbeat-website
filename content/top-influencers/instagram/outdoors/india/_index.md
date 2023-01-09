@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In India In 2022
+title: Top 10 Outdoors Instagram Influencers In India in 2023
 description: >-
-  Find top outdoors Instagram influencers in India in 2022. Most popular hashtags: #india #earthfocus #travelrealindia #kerala.
+  Find top outdoors Instagram influencers in India in 2023. Most popular hashtags: #india #earthfocus #travelrealindia #kerala.
 platform: Instagram
 hits: 698
 text_top: Discover the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Norway In 2022
+title: Top 10 Lifestyle Instagram Influencers In Norway in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Norway in 2022. Most popular hashtags: #hiking #visitnorway #naturephotography.
+  Find top lifestyle Instagram influencers in Norway in 2023. Most popular hashtags: #hiking #visitnorway #naturephotography.
 platform: Instagram
 hits: 81
 text_top: Discover the most popular Instagram profiles on inBeat.

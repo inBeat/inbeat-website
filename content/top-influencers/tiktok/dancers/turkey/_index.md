@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Turkey In 2022
+title: Top 10 Dancers TikTok Influencers In Turkey in 2023
 description: >-
-  Find top dancers TikTok influencers in Turkey in 2022. Most popular hashtags: #ke #dance #fyp #foryou.
+  Find top dancers TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #dance #fyp #foryou.
 platform: TikTok
 hits: 24
 text_top: Discover the most popular TikTok influencers on inBeat.

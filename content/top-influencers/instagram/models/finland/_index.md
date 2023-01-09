@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Finland In 2022
+title: Top 10 Models Instagram Influencers In Finland in 2023
 description: >-
-  Find top models Instagram influencers in Finland in 2022. Most popular hashtags: #tb #model #portrait.
+  Find top models Instagram influencers in Finland in 2023. Most popular hashtags: #tb #model #portrait.
 platform: Instagram
 hits: 55
 text_top: Analyze the most popular Instagram accounts on inBeat.

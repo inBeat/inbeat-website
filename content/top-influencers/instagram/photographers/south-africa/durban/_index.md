@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Durban In 2022
+title: Top 10 Photographers Instagram Influencers In Durban in 2023
 description: >-
-  Find top photographers Instagram influencers in Durban in 2022. Most popular hashtags: #photography #fashion #photoshoot #photooftheday.
+  Find top photographers Instagram influencers in Durban in 2023. Most popular hashtags: #photography #fashion #photoshoot #photooftheday.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram influencers on inBeat.

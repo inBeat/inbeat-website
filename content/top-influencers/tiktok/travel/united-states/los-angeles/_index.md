@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Los Angeles In 2022
+title: Top 10 Travel TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top travel TikTok influencers in Los Angeles in 2022. Most popular hashtags: #travel #fyp #losangeles #foryou.
+  Find top travel TikTok influencers in Los Angeles in 2023. Most popular hashtags: #travel #fyp #losangeles #foryou.
 platform: TikTok
 hits: 167
 text_top: Analyze the best TikTok accounts on inBeat.

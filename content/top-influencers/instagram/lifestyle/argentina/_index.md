@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Argentina In 2022
+title: Top 10 Lifestyle Instagram Influencers In Argentina in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Argentina in 2022. Most popular hashtags: #sorteo #ootd #style #beauty.
+  Find top lifestyle Instagram influencers in Argentina in 2023. Most popular hashtags: #sorteo #ootd #style #beauty.
 platform: Instagram
 hits: 244
 text_top: Identify the most popular Instagram influencers on inBeat.

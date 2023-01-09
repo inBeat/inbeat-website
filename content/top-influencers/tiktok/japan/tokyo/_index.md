@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Tokyo In 2022
+title: Top 10 TikTok Influencers In Tokyo in 2023
 description: >-
-  Find top TikTok influencers in Tokyo in 2022. Most popular hashtags: #tiktok #foryou #tiktok3.
+  Find top TikTok influencers in Tokyo in 2023. Most popular hashtags: #tiktok #foryou #tiktok3.
 platform: TikTok
 hits: 64
 text_top: Discover the top-rated TikTok accounts on inBeat.

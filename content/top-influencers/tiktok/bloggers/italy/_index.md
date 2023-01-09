@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Italy In 2022
+title: Top 10 Bloggers TikTok Influencers In Italy in 2023
 description: >-
-  Find top bloggers TikTok influencers in Italy in 2022. Most popular hashtags: #imparacontiktok #italia #perte #foryou.
+  Find top bloggers TikTok influencers in Italy in 2023. Most popular hashtags: #imparacontiktok #italia #perte #foryou.
 platform: TikTok
 hits: 18
 text_top: Identify the best TikTok profiles on inBeat.
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.022076
     id: ckcoxcv3e9skn0j237wjyzqwf
     verified: false
-    hashtags: "#duetto, #mfw2022, #styletipsforyou, #zarahaul"
+    hashtags: "#duetto, #mfw2023, #styletipsforyou, #zarahaul"
   - username: "beninigiulia"
     fullname: >-
       Giulia Benini

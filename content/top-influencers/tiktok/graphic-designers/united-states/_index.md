@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In United States In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In United States in 2023
 description: >-
-  Find top graphic-designers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #graphicdesign #art #halloween.
+  Find top graphic-designers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #graphicdesign #art #halloween.
 platform: TikTok
 hits: 168
 text_top: Identify the most popular TikTok profiles on inBeat.

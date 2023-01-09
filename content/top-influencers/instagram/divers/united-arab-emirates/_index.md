@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Divers Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top divers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #positivevibes #reading.
+  Find top divers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #positivevibes #reading.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram profiles on inBeat.

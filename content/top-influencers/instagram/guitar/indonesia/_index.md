@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Indonesia In 2022
+title: Top 10 Guitar Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top guitar Instagram influencers in Indonesia in 2022. Most popular hashtags: #indomusikgram #guitar #guitarist #cover.
+  Find top guitar Instagram influencers in Indonesia in 2023. Most popular hashtags: #indomusikgram #guitar #guitarist #cover.
 platform: Instagram
 hits: 211
 text_top: Analyze the top-rated Instagram influencers on inBeat.

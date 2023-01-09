@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Poland In 2022
+title: Top 10 Makeup Instagram Influencers In Poland in 2023
 description: >-
-  Find top makeup Instagram influencers in Poland in 2022. Most popular hashtags: #anastasiabeverlyhills #wakeupandmakeup #makeupartist #bperfectcosmetics.
+  Find top makeup Instagram influencers in Poland in 2023. Most popular hashtags: #anastasiabeverlyhills #wakeupandmakeup #makeupartist #bperfectcosmetics.
 platform: Instagram
 hits: 1777
 text_top: Analyze the top-rated Instagram profiles on inBeat.

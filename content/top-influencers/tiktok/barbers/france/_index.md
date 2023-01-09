@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In France In 2022
+title: Top 10 Barbers TikTok Influencers In France in 2023
 description: >-
-  Find top barbers TikTok influencers in France in 2022. Most popular hashtags: #barber #pourtoi #confinement #coiffeur.
+  Find top barbers TikTok influencers in France in 2023. Most popular hashtags: #barber #pourtoi #confinement #coiffeur.
 platform: TikTok
 hits: 25
 text_top: Analyze the best TikTok profiles on inBeat.

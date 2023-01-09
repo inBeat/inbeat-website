@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Toronto In 2022
+title: Top 10 Models Instagram Influencers In Toronto in 2023
 description: >-
-  Find top models Instagram influencers in Toronto in 2022. Most popular hashtags: #model #toronto #fashion #style.
+  Find top models Instagram influencers in Toronto in 2023. Most popular hashtags: #model #toronto #fashion #style.
 platform: Instagram
 hits: 185
 text_top: See the top-rated Instagram profiles on inBeat.

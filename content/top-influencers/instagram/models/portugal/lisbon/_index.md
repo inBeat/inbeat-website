@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Lisbon In 2022
+title: Top 10 Models Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top models Instagram influencers in Lisbon in 2022. Most popular hashtags: #portugal #model #photography.
+  Find top models Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #model #photography.
 platform: Instagram
 hits: 29
 text_top: See the top-rated Instagram accounts on inBeat.

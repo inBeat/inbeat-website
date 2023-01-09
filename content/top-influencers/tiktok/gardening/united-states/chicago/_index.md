@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Chicago In 2022
+title: Top 10 Gardening TikTok Influencers In Chicago in 2023
 description: >-
-  Find top gardening TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #plants #cottagecore #gardening.
+  Find top gardening TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #plants #cottagecore #gardening.
 platform: TikTok
 hits: 4
 text_top: Analyze the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Portugal In 2022
+title: Top 10 Beauty TikTok Influencers In Portugal in 2023
 description: >-
-  Find top beauty TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #foryoupage #foryou #portugal.
+  Find top beauty TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryoupage #foryou #portugal.
 platform: TikTok
 hits: 13
 text_top: See the most popular TikTok accounts on inBeat.

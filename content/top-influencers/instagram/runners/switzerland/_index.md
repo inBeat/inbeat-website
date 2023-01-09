@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Switzerland In 2022
+title: Top 10 Runners Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top runners Instagram influencers in Switzerland in 2022. Most popular hashtags: #running #mountains #training #friends.
+  Find top runners Instagram influencers in Switzerland in 2023. Most popular hashtags: #running #mountains #training #friends.
 platform: Instagram
 hits: 23
 text_top: Identify the best Instagram profiles on inBeat.
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.012180
     id: ck5cbwhdtgak70i11zpg39uae
     verified: false
-    hashtags: "#demenagement, #love, #2022, #strong"
+    hashtags: "#demenagement, #love, #2023, #strong"
   - username: "gipfelistuermer"
     fullname: >-
       Timo | On Run Crew

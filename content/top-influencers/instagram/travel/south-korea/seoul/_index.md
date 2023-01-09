@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Seoul In 2022
+title: Top 10 Travel Instagram Influencers In Seoul in 2023
 description: >-
-  Find top travel Instagram influencers in Seoul in 2022. Most popular hashtags: #seoul #korea #travel #koreatravel.
+  Find top travel Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #travel #koreatravel.
 platform: Instagram
 hits: 44
 text_top: Discover the top-rated Instagram accounts on inBeat.

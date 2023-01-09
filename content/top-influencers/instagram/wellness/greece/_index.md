@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Greece In 2022
+title: Top 10 Wellness Instagram Influencers In Greece in 2023
 description: >-
-  Find top wellness Instagram influencers in Greece in 2022. Most popular hashtags: #greece #wellness #summer2020 #vegan.
+  Find top wellness Instagram influencers in Greece in 2023. Most popular hashtags: #greece #wellness #summer2020 #vegan.
 platform: Instagram
 hits: 26
 text_top: Analyze the most popular Instagram influencers on inBeat.

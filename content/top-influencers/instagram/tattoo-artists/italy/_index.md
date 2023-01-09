@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Italy In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Italy in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Italy in 2022. Most popular hashtags: #hairmenstyle #fashionmenswear #menwithstreetstyle.
+  Find top tattoo-artists Instagram influencers in Italy in 2023. Most popular hashtags: #hairmenstyle #fashionmenswear #menwithstreetstyle.
 platform: Instagram
 hits: 206
 text_top: See the top-rated Instagram accounts on inBeat.

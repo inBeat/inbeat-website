@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Spain In 2022
+title: Top 10 Makeup Instagram Influencers In Spain in 2023
 description: >-
-  Find top makeup Instagram influencers in Spain in 2022. Most popular hashtags: #makeupartist #makeup #halloweenmakeup #maquillalia.
+  Find top makeup Instagram influencers in Spain in 2023. Most popular hashtags: #makeupartist #makeup #halloweenmakeup #maquillalia.
 platform: Instagram
 hits: 899
 text_top: Discover the best Instagram accounts on inBeat.

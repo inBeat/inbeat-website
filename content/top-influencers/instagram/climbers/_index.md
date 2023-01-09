@@ -1,7 +1,7 @@
 ---
-title: Top 10 Climbers Instagram Influencers In 2022
+title: Top 10 Climbers Instagram Influencers in 2023
 description: >-
-  Find top climbers Instagram influencers in 2022. Most popular hashtags: #climbing #adventure #climbers.
+  Find top climbers Instagram influencers in 2023. Most popular hashtags: #climbing #adventure #climbers.
 platform: Instagram
 hits: 776
 text_top: Identify the most popular Instagram accounts on inBeat.
@@ -83,7 +83,7 @@ profiles:
     fullname: >-
       𝐘𝐎𝐆𝐀•   𝐁𝐲 𝐋𝐢𝐧𝐝𝐬𝐚𝐲
     bio: >-
-      ↳ RYT500 • RPYT • Reiki I • Mindfulness • 🇨🇦 ↳ Mama2022 • Kombucha Life • Mountain Climber ↳ Sky above, earth below, peace within. ↳ 𝐂𝐡𝐞𝐜𝐤 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭!⇣
+      ↳ RYT500 • RPYT • Reiki I • Mindfulness • 🇨🇦 ↳ Mama2023 • Kombucha Life • Mountain Climber ↳ Sky above, earth below, peace within. ↳ 𝐂𝐡𝐞𝐜𝐤 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭!⇣
     location: "Canada"
     followers: 10107
     engagement: 758

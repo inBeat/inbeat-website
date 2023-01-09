@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Turkey In 2022
+title: Top 10 Beauty TikTok Influencers In Turkey in 2023
 description: >-
-  Find top beauty TikTok influencers in Turkey in 2022. Most popular hashtags: #beauty #tiktok #foryou #fyp.
+  Find top beauty TikTok influencers in Turkey in 2023. Most popular hashtags: #beauty #tiktok #foryou #fyp.
 platform: TikTok
 hits: 25
 text_top: See the best TikTok accounts on inBeat.

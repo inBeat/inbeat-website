@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Belgium In 2022
+title: Top 10 Bloggers Instagram Influencers In Belgium in 2023
 description: >-
-  Find top bloggers Instagram influencers in Belgium in 2022. Most popular hashtags: #belgianblogger #ad #ootd #belgium.
+  Find top bloggers Instagram influencers in Belgium in 2023. Most popular hashtags: #belgianblogger #ad #ootd #belgium.
 platform: Instagram
 hits: 69
 text_top: Discover the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Russia In 2022
+title: Top 10 Home Decor Instagram Influencers In Russia in 2023
 description: >-
-  Find top home decor Instagram influencers in Russia in 2022. Most popular hashtags: #homedecor #design #interior #interiordesign.
+  Find top home decor Instagram influencers in Russia in 2023. Most popular hashtags: #homedecor #design #interior #interiordesign.
 platform: Instagram
 hits: 82
 text_top: Analyze the top-rated Instagram influencers on inBeat.

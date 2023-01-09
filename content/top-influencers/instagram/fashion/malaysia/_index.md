@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Malaysia In 2022
+title: Top 10 Fashion Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top fashion Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #sudiomoments #sudio.
+  Find top fashion Instagram influencers in Malaysia in 2023. Most popular hashtags: #ootd #sudiomoments #sudio.
 platform: Instagram
 hits: 149
 text_top: Identify the best Instagram profiles on inBeat.

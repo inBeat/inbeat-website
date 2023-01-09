@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Portugal In 2022
+title: Top 10 Djs Instagram Influencers In Portugal in 2023
 description: >-
-  Find top djs Instagram influencers in Portugal in 2022. Most popular hashtags: #portugal #motivation #lisboa #music.
+  Find top djs Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #motivation #lisboa #music.
 platform: Instagram
 hits: 9
 text_top: Identify the best Instagram influencers on inBeat.

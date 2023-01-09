@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Argentina In 2022
+title: Top 10 Instagram Influencers In Argentina in 2023
 description: >-
-  Find top Instagram influencers in Argentina in 2022. Most popular hashtags: #sorteo #argentina #forgirlsbygirls.
+  Find top Instagram influencers in Argentina in 2023. Most popular hashtags: #sorteo #argentina #forgirlsbygirls.
 platform: Instagram
 hits: 7933
 text_top: See the most popular Instagram profiles on inBeat.

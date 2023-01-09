@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In 2022
+title: Top 10 Chefs TikTok Influencers in 2023
 description: >-
-  Find top chefs TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #duet #chef.
+  Find top chefs TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #duet #chef.
 platform: TikTok
 hits: 1071
 text_top: Discover the best TikTok influencers on inBeat.

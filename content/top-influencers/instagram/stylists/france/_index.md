@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In France In 2022
+title: Top 10 Stylists Instagram Influencers In France in 2023
 description: >-
-  Find top stylists Instagram influencers in France in 2022. Most popular hashtags: #fashionstyle #coat #fashionblogger.
+  Find top stylists Instagram influencers in France in 2023. Most popular hashtags: #fashionstyle #coat #fashionblogger.
 platform: Instagram
 hits: 450
 text_top: Identify the best Instagram profiles on inBeat.

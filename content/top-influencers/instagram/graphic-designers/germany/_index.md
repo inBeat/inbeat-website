@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Germany in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Germany in 2022. Most popular hashtags: #happy #art #stayandwander.
+  Find top graphic-designers Instagram influencers in Germany in 2023. Most popular hashtags: #happy #art #stayandwander.
 platform: Instagram
 hits: 51
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Japan In 2022
+title: Top 10 Crossfit Instagram Influencers In Japan in 2023
 description: >-
-  Find top crossfit Instagram influencers in Japan in 2022. Most popular hashtags: #crossfaith #repost #candystripper #rompus.
+  Find top crossfit Instagram influencers in Japan in 2023. Most popular hashtags: #crossfaith #repost #candystripper #rompus.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram accounts on inBeat.

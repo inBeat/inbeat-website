@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Japan In 2022
+title: Top 10 Home Decor Instagram Influencers In Japan in 2023
 description: >-
-  Find top home decor Instagram influencers in Japan in 2022. Most popular hashtags: #homedecor #interior #nature #interiordesign.
+  Find top home decor Instagram influencers in Japan in 2023. Most popular hashtags: #homedecor #interior #nature #interiordesign.
 platform: Instagram
 hits: 20
 text_top: Analyze the most popular Instagram influencers on inBeat.

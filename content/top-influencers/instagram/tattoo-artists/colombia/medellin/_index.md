@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Medellín in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Medellín in 2022. Most popular hashtags: #tattoo #medellin #tattoos #tattooartist.
+  Find top tattoo-artists Instagram influencers in Medellín in 2023. Most popular hashtags: #tattoo #medellin #tattoos #tattooartist.
 platform: Instagram
 hits: 13
 text_top: Identify the most popular Instagram profiles on inBeat.

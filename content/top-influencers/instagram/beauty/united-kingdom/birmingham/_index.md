@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Birmingham In 2022
+title: Top 10 Beauty Instagram Influencers In Birmingham in 2023
 description: >-
-  Find top beauty Instagram influencers in Birmingham in 2022. Most popular hashtags: #beauty #makeup #fashion #explorepage.
+  Find top beauty Instagram influencers in Birmingham in 2023. Most popular hashtags: #beauty #makeup #fashion #explorepage.
 platform: Instagram
 hits: 26
 text_top: See the most popular Instagram profiles on inBeat.

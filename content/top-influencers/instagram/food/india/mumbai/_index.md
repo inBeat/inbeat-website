@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Mumbai In 2022
+title: Top 10 Food Instagram Influencers In Mumbai in 2023
 description: >-
-  Find top food Instagram influencers in Mumbai in 2022. Most popular hashtags: #food #mumbaifoodie #mumbai #foodie.
+  Find top food Instagram influencers in Mumbai in 2023. Most popular hashtags: #food #mumbaifoodie #mumbai #foodie.
 platform: Instagram
 hits: 1075
 text_top: Analyze the best Instagram influencers on inBeat.

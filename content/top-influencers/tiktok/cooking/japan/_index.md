@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Japan In 2022
+title: Top 10 Cooking TikTok Influencers In Japan in 2023
 description: >-
-  Find top cooking TikTok influencers in Japan in 2022. Most popular hashtags: #cooking #tiktok #food #japan.
+  Find top cooking TikTok influencers in Japan in 2023. Most popular hashtags: #cooking #tiktok #food #japan.
 platform: TikTok
 hits: 15
 text_top: See the best TikTok profiles on inBeat.

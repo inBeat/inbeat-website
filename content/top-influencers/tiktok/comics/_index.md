@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comics TikTok Influencers In 2022
+title: Top 10 Comics TikTok Influencers in 2023
 description: >-
-  Find top comics TikTok influencers in 2022. Most popular hashtags: #fyp #duet #comic #foryoupage.
+  Find top comics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #comic #foryoupage.
 platform: TikTok
 hits: 1162
 text_top: Identify the most popular TikTok accounts on inBeat.

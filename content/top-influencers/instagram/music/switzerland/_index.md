@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Switzerland In 2022
+title: Top 10 Music Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top music Instagram influencers in Switzerland in 2022. Most popular hashtags: #view #sport #switzerland.
+  Find top music Instagram influencers in Switzerland in 2023. Most popular hashtags: #view #sport #switzerland.
 platform: Instagram
 hits: 158
 text_top: Discover the top-rated Instagram profiles on inBeat.

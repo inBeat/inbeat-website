@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Venezuela In 2022
+title: Top 10 Divers TikTok Influencers In Venezuela in 2023
 description: >-
-  Find top divers TikTok influencers in Venezuela in 2022. Most popular hashtags: #parati #foryou #fy #tiktok.
+  Find top divers TikTok influencers in Venezuela in 2023. Most popular hashtags: #parati #foryou #fy #tiktok.
 platform: TikTok
 hits: 8
 text_top: Identify the most popular TikTok influencers on inBeat.

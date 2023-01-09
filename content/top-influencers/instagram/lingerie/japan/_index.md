@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Japan In 2022
+title: Top 10 Lingerie Instagram Influencers In Japan in 2023
 description: >-
-  Find top lingerie Instagram influencers in Japan in 2022. Most popular hashtags: #lingerie #sexy #japanesegirl #cosplay.
+  Find top lingerie Instagram influencers in Japan in 2023. Most popular hashtags: #lingerie #sexy #japanesegirl #cosplay.
 platform: Instagram
 hits: 58
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Montreal In 2022
+title: Top 10 Christian TikTok Influencers In Montreal in 2023
 description: >-
-  Find top christian TikTok influencers in Montreal in 2022. Most popular hashtags: #duet #greenscreen #fyp #montreal.
+  Find top christian TikTok influencers in Montreal in 2023. Most popular hashtags: #duet #greenscreen #fyp #montreal.
 platform: TikTok
 hits: 6
 text_top: Analyze the top-rated TikTok accounts on inBeat.

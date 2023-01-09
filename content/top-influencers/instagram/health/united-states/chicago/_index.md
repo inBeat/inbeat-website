@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Chicago In 2022
+title: Top 10 Health Instagram Influencers In Chicago in 2023
 description: >-
-  Find top health Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #health #fashion.
+  Find top health Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #health #fashion.
 platform: Instagram
 hits: 149
 text_top: Discover the top-rated Instagram profiles on inBeat.

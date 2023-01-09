@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Turkey In 2022
+title: Top 10 Bakers Instagram Influencers In Turkey in 2023
 description: >-
-  Find top bakers Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #turkey #food #foodporn.
+  Find top bakers Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #turkey #food #foodporn.
 platform: Instagram
 hits: 110
 text_top: See the best Instagram influencers on inBeat.

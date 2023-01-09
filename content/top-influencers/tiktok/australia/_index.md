@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Australia In 2022
+title: Top 10 TikTok Influencers In Australia in 2023
 description: >-
-  Find top TikTok influencers in Australia in 2022. Most popular hashtags: #duet #fyp #australia #foryou.
+  Find top TikTok influencers in Australia in 2023. Most popular hashtags: #duet #fyp #australia #foryou.
 platform: TikTok
 hits: 4186
 text_top: See the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Seattle In 2022
+title: Top 10 Photographers Instagram Influencers In Seattle in 2023
 description: >-
-  Find top photographers Instagram influencers in Seattle in 2022. Most popular hashtags: #seattlephotographer #seattle #seattleblogger.
+  Find top photographers Instagram influencers in Seattle in 2023. Most popular hashtags: #seattlephotographer #seattle #seattleblogger.
 platform: Instagram
 hits: 129
 text_top: Identify the most popular Instagram profiles on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Megan | Seattle Photographer
     bio: >-
-      Here for your moments not my portfolio Weddings + engagements + maternity 📍Seattle, WA | booking 2022 + 2022 email: hello@meganjnealy.photography
+      Here for your moments not my portfolio Weddings + engagements + maternity 📍Seattle, WA | booking 2023 + 2023 email: hello@meganjnealy.photography
     location: "United States"
     followers: 10010
     engagement: 505

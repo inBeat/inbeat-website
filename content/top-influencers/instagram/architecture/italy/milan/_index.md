@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Milan In 2022
+title: Top 10 Architecture Instagram Influencers In Milan in 2023
 description: >-
-  Find top architecture Instagram influencers in Milan in 2022. Most popular hashtags: #milano #architecture #milan #italy.
+  Find top architecture Instagram influencers in Milan in 2023. Most popular hashtags: #milano #architecture #milan #italy.
 platform: Instagram
 hits: 200
 text_top: See the top-rated Instagram accounts on inBeat.

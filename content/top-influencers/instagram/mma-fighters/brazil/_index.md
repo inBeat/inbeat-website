@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In Brazil In 2022
+title: Top 10 Mma Fighters Instagram Influencers In Brazil in 2023
 description: >-
-  Find top mma fighters Instagram influencers in Brazil in 2022. Most popular hashtags: #mma #jiujitsu #brasil #ufc.
+  Find top mma fighters Instagram influencers in Brazil in 2023. Most popular hashtags: #mma #jiujitsu #brasil #ufc.
 platform: Instagram
 hits: 26
 text_top: Discover the best Instagram influencers on inBeat.

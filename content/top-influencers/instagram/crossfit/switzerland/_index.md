@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Switzerland In 2022
+title: Top 10 Crossfit Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top crossfit Instagram influencers in Switzerland in 2022. Most popular hashtags: #crossfit #workout #training #fitness.
+  Find top crossfit Instagram influencers in Switzerland in 2023. Most popular hashtags: #crossfit #workout #training #fitness.
 platform: Instagram
 hits: 23
 text_top: Discover the best Instagram accounts on inBeat.

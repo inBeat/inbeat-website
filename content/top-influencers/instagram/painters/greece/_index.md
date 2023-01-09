@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Greece In 2022
+title: Top 10 Painters Instagram Influencers In Greece in 2023
 description: >-
-  Find top painters Instagram influencers in Greece in 2022. Most popular hashtags: #painting #contemporaryart #drawing #greece.
+  Find top painters Instagram influencers in Greece in 2023. Most popular hashtags: #painting #contemporaryart #drawing #greece.
 platform: Instagram
 hits: 23
 text_top: Identify the top-rated Instagram profiles on inBeat.

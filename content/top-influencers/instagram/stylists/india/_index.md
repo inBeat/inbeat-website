@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In India In 2022
+title: Top 10 Stylists Instagram Influencers In India in 2023
 description: >-
-  Find top stylists Instagram influencers in India in 2022. Most popular hashtags: #fashion #staysafe #style #instadaily.
+  Find top stylists Instagram influencers in India in 2023. Most popular hashtags: #fashion #staysafe #style #instadaily.
 platform: Instagram
 hits: 746
 text_top: Identify the best Instagram influencers on inBeat.

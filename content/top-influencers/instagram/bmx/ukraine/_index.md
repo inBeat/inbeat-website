@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Ukraine In 2022
+title: Top 10 Bmx Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top bmx Instagram influencers in Ukraine in 2022. Most popular hashtags: #bmxstreet #bmxlife #ridebmx #bmx.
+  Find top bmx Instagram influencers in Ukraine in 2023. Most popular hashtags: #bmxstreet #bmxlife #ridebmx #bmx.
 platform: Instagram
 hits: 16
 text_top: Identify the top-rated Instagram accounts on inBeat.

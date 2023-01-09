@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In New York In 2022
+title: Top 10 Skincare Instagram Influencers In New York in 2023
 description: >-
-  Find top skincare Instagram influencers in New York in 2022. Most popular hashtags: #skincare #newyork #beauty #selflove.
+  Find top skincare Instagram influencers in New York in 2023. Most popular hashtags: #skincare #newyork #beauty #selflove.
 platform: Instagram
 hits: 187
 text_top: See the most popular Instagram influencers on inBeat.

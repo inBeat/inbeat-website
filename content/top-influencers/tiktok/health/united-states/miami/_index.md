@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Miami In 2022
+title: Top 10 Health TikTok Influencers In Miami in 2023
 description: >-
-  Find top health TikTok influencers in Miami in 2022. Most popular hashtags: #health #miami #fyp #foryoupage.
+  Find top health TikTok influencers in Miami in 2023. Most popular hashtags: #health #miami #fyp #foryoupage.
 platform: TikTok
 hits: 47
 text_top: See the top-rated TikTok accounts on inBeat.

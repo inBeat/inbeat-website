@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In United Kingdom In 2022
+title: Top 10 Lifestyle TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top lifestyle TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top lifestyle TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
 hits: 105
 text_top: Analyze the best TikTok accounts on inBeat.

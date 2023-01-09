@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In 2022
+title: Top 10 Outdoors Instagram Influencers in 2023
 description: >-
-  Find top outdoors Instagram influencers in 2022. Most popular hashtags: #nature #fishing #aseasonalshift.
+  Find top outdoors Instagram influencers in 2023. Most popular hashtags: #nature #fishing #aseasonalshift.
 platform: Instagram
 hits: 15757
 text_top: Analyze the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Canada In 2022
+title: Top 10 Skincare Instagram Influencers In Canada in 2023
 description: >-
-  Find top skincare Instagram influencers in Canada in 2022. Most popular hashtags: #ootd #ad #fashionblogger.
+  Find top skincare Instagram influencers in Canada in 2023. Most popular hashtags: #ootd #ad #fashionblogger.
 platform: Instagram
 hits: 221
 text_top: Identify the most popular Instagram profiles on inBeat.

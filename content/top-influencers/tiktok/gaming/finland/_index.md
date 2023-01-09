@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Finland In 2022
+title: Top 10 Gaming TikTok Influencers In Finland in 2023
 description: >-
-  Find top gaming TikTok influencers in Finland in 2022. Most popular hashtags: #foryou #fyp #gaming #funny.
+  Find top gaming TikTok influencers in Finland in 2023. Most popular hashtags: #foryou #fyp #gaming #funny.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok influencers on inBeat.

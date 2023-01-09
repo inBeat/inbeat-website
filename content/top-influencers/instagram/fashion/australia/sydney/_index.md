@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Sydney In 2022
+title: Top 10 Fashion Instagram Influencers In Sydney in 2023
 description: >-
-  Find top fashion Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #fashion #beauty.
+  Find top fashion Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #fashion #beauty.
 platform: Instagram
 hits: 193
 text_top: Analyze the most popular Instagram accounts on inBeat.

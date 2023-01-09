@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie TikTok Influencers In 2022
+title: Top 10 Lingerie TikTok Influencers in 2023
 description: >-
-  Find top lingerie TikTok influencers in 2022. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
+  Find top lingerie TikTok influencers in 2023. Most popular hashtags: #fyp #lingerie #foryou #foryoupage.
 platform: TikTok
 hits: 55
 text_top: See the best TikTok profiles on inBeat.

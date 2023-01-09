@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Spain In 2022
+title: Top 10 Christian Instagram Influencers In Spain in 2023
 description: >-
-  Find top christian Instagram influencers in Spain in 2022. Most popular hashtags: #love #picoftheday #nature.
+  Find top christian Instagram influencers in Spain in 2023. Most popular hashtags: #love #picoftheday #nature.
 platform: Instagram
 hits: 224
 text_top: Identify the top-rated Instagram influencers on inBeat.

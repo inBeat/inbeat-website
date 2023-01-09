@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Colombia In 2022
+title: Top 10 Cyclists Instagram Influencers In Colombia in 2023
 description: >-
-  Find top cyclists Instagram influencers in Colombia in 2022. Most popular hashtags: #cycling #cyclinglife #cyclingphotos #ciclismo.
+  Find top cyclists Instagram influencers in Colombia in 2023. Most popular hashtags: #cycling #cyclinglife #cyclingphotos #ciclismo.
 platform: Instagram
 hits: 20
 text_top: Discover the most popular Instagram profiles on inBeat.
@@ -74,7 +74,7 @@ profiles:
       • Ciclista Aficionado. • Strava: Juan Tobon. • Ingeniero Civil. • @bicistore_co • @bicistore_medellin •📍 Medellín, Antioquia.
     location: "Colombia"
     followers: 10311
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.023371
     id: ck5zs17thxmpe0i14zx3hzfcx
     verified: false

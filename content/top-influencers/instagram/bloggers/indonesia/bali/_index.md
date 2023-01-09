@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Bali In 2022
+title: Top 10 Bloggers Instagram Influencers In Bali in 2023
 description: >-
-  Find top bloggers Instagram influencers in Bali in 2022. Most popular hashtags: #bali #baliindonesia #travelphotography #travelblogger.
+  Find top bloggers Instagram influencers in Bali in 2023. Most popular hashtags: #bali #baliindonesia #travelphotography #travelblogger.
 platform: Instagram
 hits: 46
 text_top: See the best Instagram accounts on inBeat.

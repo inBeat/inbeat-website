@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Thailand In 2022
+title: Top 10 Makeup TikTok Influencers In Thailand in 2023
 description: >-
-  Find top makeup TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #makeup #foryoupage #dance.
+  Find top makeup TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #makeup #foryoupage #dance.
 platform: TikTok
 hits: 26
 text_top: Analyze the best TikTok accounts on inBeat.

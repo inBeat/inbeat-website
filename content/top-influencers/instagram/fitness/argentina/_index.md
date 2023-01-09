@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Argentina In 2022
+title: Top 10 Fitness Instagram Influencers In Argentina in 2023
 description: >-
-  Find top fitness Instagram influencers in Argentina in 2022. Most popular hashtags: #fitness #sorteo #instagood.
+  Find top fitness Instagram influencers in Argentina in 2023. Most popular hashtags: #fitness #sorteo #instagood.
 platform: Instagram
 hits: 223
 text_top: See the best Instagram profiles on inBeat.

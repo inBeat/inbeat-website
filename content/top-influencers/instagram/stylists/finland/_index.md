@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Finland In 2022
+title: Top 10 Stylists Instagram Influencers In Finland in 2023
 description: >-
-  Find top stylists Instagram influencers in Finland in 2022. Most popular hashtags: #ootd #fashion #secondhand #beautiful.
+  Find top stylists Instagram influencers in Finland in 2023. Most popular hashtags: #ootd #fashion #secondhand #beautiful.
 platform: Instagram
 hits: 14
 text_top: Analyze the best Instagram influencers on inBeat.

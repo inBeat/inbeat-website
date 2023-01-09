@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Argentina in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Argentina in 2022. Most popular hashtags: #love #argentina #lettering.
+  Find top graphic-designers Instagram influencers in Argentina in 2023. Most popular hashtags: #love #argentina #lettering.
 platform: Instagram
 hits: 11
 text_top: See the top-rated Instagram accounts on inBeat.

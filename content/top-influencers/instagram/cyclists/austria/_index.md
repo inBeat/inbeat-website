@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Austria In 2022
+title: Top 10 Cyclists Instagram Influencers In Austria in 2023
 description: >-
-  Find top cyclists Instagram influencers in Austria in 2022. Most popular hashtags: #fromwhereiride #outsideisfree #cycling #roadslikethese.
+  Find top cyclists Instagram influencers in Austria in 2023. Most popular hashtags: #fromwhereiride #outsideisfree #cycling #roadslikethese.
 platform: Instagram
 hits: 14
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Lisbon In 2022
+title: Top 10 Fitness Instagram Influencers In Lisbon in 2023
 description: >-
-  Find top fitness Instagram influencers in Lisbon in 2022. Most popular hashtags: #fashion #fitness #portugal #lisbon.
+  Find top fitness Instagram influencers in Lisbon in 2023. Most popular hashtags: #fashion #fitness #portugal #lisbon.
 platform: Instagram
 hits: 23
 text_top: Discover the best Instagram accounts on inBeat.

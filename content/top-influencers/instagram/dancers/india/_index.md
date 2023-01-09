@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In India In 2022
+title: Top 10 Dancers Instagram Influencers In India in 2023
 description: >-
-  Find top dancers Instagram influencers in India in 2022. Most popular hashtags: #dance #reels #love.
+  Find top dancers Instagram influencers in India in 2023. Most popular hashtags: #dance #reels #love.
 platform: Instagram
 hits: 1244
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Tokyo In 2022
+title: Top 10 Skincare Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top skincare Instagram influencers in Tokyo in 2022. Most popular hashtags: #skincare #tokyo #fashion #pr.
+  Find top skincare Instagram influencers in Tokyo in 2023. Most popular hashtags: #skincare #tokyo #fashion #pr.
 platform: Instagram
 hits: 79
 text_top: Identify the best Instagram influencers on inBeat.

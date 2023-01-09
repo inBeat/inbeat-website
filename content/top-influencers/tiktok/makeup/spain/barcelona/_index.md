@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Barcelona In 2022
+title: Top 10 Makeup TikTok Influencers In Barcelona in 2023
 description: >-
-  Find top makeup TikTok influencers in Barcelona in 2022. Most popular hashtags: #makeup #halloween #fyp #makeupartist.
+  Find top makeup TikTok influencers in Barcelona in 2023. Most popular hashtags: #makeup #halloween #fyp #makeupartist.
 platform: TikTok
 hits: 5
 text_top: Identify the most popular TikTok accounts on inBeat.

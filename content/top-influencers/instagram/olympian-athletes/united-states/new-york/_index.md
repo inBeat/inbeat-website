@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In New York In 2022
+title: Top 10 Olympian Athletes Instagram Influencers In New York in 2023
 description: >-
-  Find top olympian athletes Instagram influencers in New York in 2022. Most popular hashtags: #love #fitness #athlete #sponsored.
+  Find top olympian athletes Instagram influencers in New York in 2023. Most popular hashtags: #love #fitness #athlete #sponsored.
 platform: Instagram
 hits: 7
 text_top: Analyze the best Instagram profiles on inBeat.
@@ -35,7 +35,7 @@ profiles:
     fullname: >-
       Priscilla Loomis OLY
     bio: >-
-      Wife & Olympian🇦🇬 Follow The Wild & Fun Journey to Tokyo 2022 • @newyorkac @prateeyecare For Business & Press Inquires: sschirru@dynamicallybpr.com
+      Wife & Olympian🇦🇬 Follow The Wild & Fun Journey to Tokyo 2023 • @newyorkac @prateeyecare For Business & Press Inquires: sschirru@dynamicallybpr.com
     location: "United States"
     followers: 12883
     engagement: 287

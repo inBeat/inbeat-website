@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Austria In 2022
+title: Top 10 Dancers Instagram Influencers In Austria in 2023
 description: >-
-  Find top dancers Instagram influencers in Austria in 2022. Most popular hashtags: #dancer #dance #ballet #vienna.
+  Find top dancers Instagram influencers in Austria in 2023. Most popular hashtags: #dancer #dance #ballet #vienna.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram profiles on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       Alex Asl
     bio: >-
-      🇬🇷🇦🇹🇷🇸|Dancer|Self-development|Maslting Business profile: @alexaslbusiness Back again 1 July 2022 My sarcasm is very strong Manager: @marin_maryjane
+      🇬🇷🇦🇹🇷🇸|Dancer|Self-development|Maslting Business profile: @alexaslbusiness Back again 1 July 2023 My sarcasm is very strong Manager: @marin_maryjane
     location: "Austria"
     followers: 2209
     engagement: 2134

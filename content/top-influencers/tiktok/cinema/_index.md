@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema TikTok Influencers In 2022
+title: Top 10 Cinema TikTok Influencers in 2023
 description: >-
-  Find top cinema TikTok influencers in 2022. Most popular hashtags: #foryou #cinematic #fyp #duet.
+  Find top cinema TikTok influencers in 2023. Most popular hashtags: #foryou #cinematic #fyp #duet.
 platform: TikTok
 hits: 1358
 text_top: See the best TikTok accounts on inBeat.

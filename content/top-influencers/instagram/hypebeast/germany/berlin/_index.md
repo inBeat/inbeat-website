@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Berlin In 2022
+title: Top 10 Hypebeast Instagram Influencers In Berlin in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Berlin in 2022. Most popular hashtags: #hypebeast #berlin #model #fashion.
+  Find top hypebeast Instagram influencers in Berlin in 2023. Most popular hashtags: #hypebeast #berlin #model #fashion.
 platform: Instagram
 hits: 34
 text_top: See the most popular Instagram influencers on inBeat.

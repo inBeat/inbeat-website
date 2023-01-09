@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In India In 2022
+title: Top 10 Yoga TikTok Influencers In India in 2023
 description: >-
-  Find top yoga TikTok influencers in India in 2022. Most popular hashtags: #tiktok #foryoupage #fyp #trending.
+  Find top yoga TikTok influencers in India in 2023. Most popular hashtags: #tiktok #foryoupage #fyp #trending.
 platform: TikTok
 hits: 230
 text_top: Analyze the most popular TikTok profiles on inBeat.

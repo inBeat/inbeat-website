@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In India In 2022
+title: Top 10 Vegan TikTok Influencers In India in 2023
 description: >-
-  Find top vegan TikTok influencers in India in 2022. Most popular hashtags: #vegan #love #fyp #tiktokchef.
+  Find top vegan TikTok influencers in India in 2023. Most popular hashtags: #vegan #love #fyp #tiktokchef.
 platform: TikTok
 hits: 18
 text_top: See the most popular TikTok profiles on inBeat.

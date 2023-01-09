@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In France In 2022
+title: Top 10 Fashion Instagram Influencers In France in 2023
 description: >-
-  Find top fashion Instagram influencers in France in 2022. Most popular hashtags: #fashion #concours #giveaway.
+  Find top fashion Instagram influencers in France in 2023. Most popular hashtags: #fashion #concours #giveaway.
 platform: Instagram
 hits: 3074
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Scrapbooking TikTok Influencers In 2022
+title: Top 10 Scrapbooking TikTok Influencers in 2023
 description: >-
-  Find top scrapbooking TikTok influencers in 2022. Most popular hashtags: #scrapbooking #fyp #foryou #art.
+  Find top scrapbooking TikTok influencers in 2023. Most popular hashtags: #scrapbooking #fyp #foryou #art.
 platform: TikTok
 hits: 30
 text_top: Identify the most popular TikTok accounts on inBeat.

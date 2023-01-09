@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Belgium In 2022
+title: Top 10 Lifestyle TikTok Influencers In Belgium in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Belgium in 2022. Most popular hashtags: #foryou #fyp #pourtoi #viral.
+  Find top lifestyle TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #pourtoi #viral.
 platform: TikTok
 hits: 9
 text_top: Discover the most popular TikTok influencers on inBeat.

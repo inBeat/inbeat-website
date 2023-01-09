@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Bali In 2022
+title: Top 10 Home Decor Instagram Influencers In Bali in 2023
 description: >-
-  Find top home decor Instagram influencers in Bali in 2022. Most popular hashtags: #homedecor #bali #interiordesign #interior.
+  Find top home decor Instagram influencers in Bali in 2023. Most popular hashtags: #homedecor #bali #interiordesign #interior.
 platform: Instagram
 hits: 23
 text_top: Discover the best Instagram accounts on inBeat.
@@ -99,7 +99,7 @@ profiles:
     location: "Indonesia"
     followers: 42641
     engagement: 93
-    commentsToLikes: 0.202262
+    commentsToLikes: 0.202362
     id: ck55odiq285j70i11o7ijy1qq
     verified: false
     hashtags: "#homedecor, #ruangkeluarga, #inspirasirumah, #designinspirasi"

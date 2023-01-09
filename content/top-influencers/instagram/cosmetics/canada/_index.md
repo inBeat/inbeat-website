@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Canada In 2022
+title: Top 10 Cosmetics Instagram Influencers In Canada in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Canada in 2022. Most popular hashtags: #makeup #beauty #cosmetics #instamakeup.
+  Find top cosmetics Instagram influencers in Canada in 2023. Most popular hashtags: #makeup #beauty #cosmetics #instamakeup.
 platform: Instagram
 hits: 72
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Turkey In 2022
+title: Top 10 Makeup Instagram Influencers In Turkey in 2023
 description: >-
-  Find top makeup Instagram influencers in Turkey in 2022. Most popular hashtags: #makeup #makeupvideos #makeuptutorial.
+  Find top makeup Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #makeupvideos #makeuptutorial.
 platform: Instagram
 hits: 742
 text_top: Analyze the most popular Instagram accounts on inBeat.

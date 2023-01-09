@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Milan In 2022
+title: Top 10 Rappers Instagram Influencers In Milan in 2023
 description: >-
-  Find top rappers Instagram influencers in Milan in 2022. Most popular hashtags: #rapper #trap #milano #italia.
+  Find top rappers Instagram influencers in Milan in 2023. Most popular hashtags: #rapper #trap #milano #italia.
 platform: Instagram
 hits: 17
 text_top: Identify the most popular Instagram influencers on inBeat.

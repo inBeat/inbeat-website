@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Madrid In 2022
+title: Top 10 Nutrition Instagram Influencers In Madrid in 2023
 description: >-
-  Find top nutrition Instagram influencers in Madrid in 2022. Most popular hashtags: #fitness #nutrition #fit #workout.
+  Find top nutrition Instagram influencers in Madrid in 2023. Most popular hashtags: #fitness #nutrition #fit #workout.
 platform: Instagram
 hits: 34
 text_top: Identify the most popular Instagram influencers on inBeat.

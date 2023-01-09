@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Russia In 2022
+title: Top 10 Beauty Instagram Influencers In Russia in 2023
 description: >-
-  Find top beauty Instagram influencers in Russia in 2022. Most popular hashtags: #makeup #2020 #inst.
+  Find top beauty Instagram influencers in Russia in 2023. Most popular hashtags: #makeup #2020 #inst.
 platform: Instagram
 hits: 2457
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Ukraine In 2022
+title: Top 10 Fashion Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top fashion Instagram influencers in Ukraine in 2022. Most popular hashtags: #ukraine #stylekids #kidsfashion.
+  Find top fashion Instagram influencers in Ukraine in 2023. Most popular hashtags: #ukraine #stylekids #kidsfashion.
 platform: Instagram
 hits: 313
 text_top: Discover the top-rated Instagram profiles on inBeat.

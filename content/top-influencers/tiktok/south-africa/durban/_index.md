@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Durban In 2022
+title: Top 10 TikTok Influencers In Durban in 2023
 description: >-
-  Find top TikTok influencers in Durban in 2022. Most popular hashtags: #duet #foryoupage #viral #foryou.
+  Find top TikTok influencers in Durban in 2023. Most popular hashtags: #duet #foryoupage #viral #foryou.
 platform: TikTok
 hits: 19
 text_top: See the most popular TikTok influencers on inBeat.

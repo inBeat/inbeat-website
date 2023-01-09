@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In India In 2022
+title: Top 10 Nutrition TikTok Influencers In India in 2023
 description: >-
-  Find top nutrition TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #foryou #trending #tiktok.
+  Find top nutrition TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #foryou #trending #tiktok.
 platform: TikTok
 hits: 53
 text_top: Analyze the best TikTok profiles on inBeat.

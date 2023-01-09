@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Canada In 2022
+title: Top 10 Music TikTok Influencers In Canada in 2023
 description: >-
-  Find top music TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #duet.
+  Find top music TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
 hits: 987
 text_top: Identify the best TikTok influencers on inBeat.

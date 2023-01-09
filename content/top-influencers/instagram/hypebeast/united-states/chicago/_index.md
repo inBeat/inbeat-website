@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Chicago In 2022
+title: Top 10 Hypebeast Instagram Influencers In Chicago in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Chicago in 2022. Most popular hashtags: #hypebeast #chicago #portrait #portraitphotography.
+  Find top hypebeast Instagram influencers in Chicago in 2023. Most popular hashtags: #hypebeast #chicago #portrait #portraitphotography.
 platform: Instagram
 hits: 54
 text_top: Analyze the most popular Instagram accounts on inBeat.

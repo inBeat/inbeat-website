@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Los Angeles In 2022
+title: Top 10 Hypebeast TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top hypebeast TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #foryou #hypebeast #losangeles.
+  Find top hypebeast TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #hypebeast #losangeles.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok influencers on inBeat.

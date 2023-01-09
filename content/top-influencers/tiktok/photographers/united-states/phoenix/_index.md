@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Phoenix In 2022
+title: Top 10 Photographers TikTok Influencers In Phoenix in 2023
 description: >-
-  Find top photographers TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #arizona #duet #photography.
+  Find top photographers TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #arizona #duet #photography.
 platform: TikTok
 hits: 5
 text_top: Analyze the most popular TikTok influencers on inBeat.

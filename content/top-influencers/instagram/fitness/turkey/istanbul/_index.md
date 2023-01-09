@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Istanbul In 2022
+title: Top 10 Fitness Instagram Influencers In Istanbul in 2023
 description: >-
-  Find top fitness Instagram influencers in Istanbul in 2022. Most popular hashtags: #fitness #istanbul #fitnessmotivation #fit.
+  Find top fitness Instagram influencers in Istanbul in 2023. Most popular hashtags: #fitness #istanbul #fitnessmotivation #fit.
 platform: Instagram
 hits: 100
 text_top: See the best Instagram profiles on inBeat.

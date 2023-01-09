@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Germany In 2022
+title: Top 10 Health TikTok Influencers In Germany in 2023
 description: >-
-  Find top health TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #funny #healthy.
+  Find top health TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #funny #healthy.
 platform: TikTok
 hits: 121
 text_top: Analyze the best TikTok influencers on inBeat.

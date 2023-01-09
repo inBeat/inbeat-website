@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Spain In 2022
+title: Top 10 Photographers TikTok Influencers In Spain in 2023
 description: >-
-  Find top photographers TikTok influencers in Spain in 2022. Most popular hashtags: #photographer #photography #photomagic #photoshoot.
+  Find top photographers TikTok influencers in Spain in 2023. Most popular hashtags: #photographer #photography #photomagic #photoshoot.
 platform: TikTok
 hits: 15
 text_top: Analyze the most popular TikTok accounts on inBeat.

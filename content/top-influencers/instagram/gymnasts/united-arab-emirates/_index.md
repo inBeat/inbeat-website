@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Gymnasts Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top gymnasts Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #mydubai #gymnastics #calisthenics #dubai.
+  Find top gymnasts Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #mydubai #gymnastics #calisthenics #dubai.
 platform: Instagram
 hits: 12
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In 2022
+title: Top 10 Painters Instagram Influencers in 2023
 description: >-
-  Find top painters Instagram influencers in 2022. Most popular hashtags: #contemporaryart #painting #drawing #contemporarypainting.
+  Find top painters Instagram influencers in 2023. Most popular hashtags: #contemporaryart #painting #drawing #contemporarypainting.
 platform: Instagram
 hits: 4832
 text_top: See the best Instagram profiles on inBeat.

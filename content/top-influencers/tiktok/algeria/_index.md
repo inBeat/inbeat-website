@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Algeria In 2022
+title: Top 10 TikTok Influencers In Algeria in 2023
 description: >-
-  Find top TikTok influencers in Algeria in 2022. Most popular hashtags: #duo #alg #maroc.
+  Find top TikTok influencers in Algeria in 2023. Most popular hashtags: #duo #alg #maroc.
 platform: TikTok
 hits: 559
 text_top: Identify the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In France In 2022
+title: Top 10 Bmx Instagram Influencers In France in 2023
 description: >-
-  Find top bmx Instagram influencers in France in 2022. Most popular hashtags: #bmx #bmxporn #wheelie.
+  Find top bmx Instagram influencers in France in 2023. Most popular hashtags: #bmx #bmxporn #wheelie.
 platform: Instagram
 hits: 90
 text_top: Identify the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In France In 2022
+title: Top 10 Music TikTok Influencers In France in 2023
 description: >-
-  Find top music TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #fyp #humour #foryou.
+  Find top music TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #humour #foryou.
 platform: TikTok
 hits: 324
 text_top: Analyze the most popular TikTok accounts on inBeat.

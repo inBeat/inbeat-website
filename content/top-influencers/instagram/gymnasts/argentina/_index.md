@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Argentina In 2022
+title: Top 10 Gymnasts Instagram Influencers In Argentina in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Argentina in 2022. Most popular hashtags: #gymnastics #gym #training #cuarentena.
+  Find top gymnasts Instagram influencers in Argentina in 2023. Most popular hashtags: #gymnastics #gym #training #cuarentena.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -35,14 +35,14 @@ profiles:
     fullname: >-
       Martu Dominici
     bio: >-
-      Elite gymnast - Argentina 🇦🇷 𝘉𝘦𝘭𝘪𝘦𝘷𝘦 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘥𝘳𝘦𝘢𝘮𝘴 🌟 Tokio 2022 🇯🇵
+      Elite gymnast - Argentina 🇦🇷 𝘉𝘦𝘭𝘪𝘦𝘷𝘦 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘥𝘳𝘦𝘢𝘮𝘴 🌟 Tokio 2023 🇯🇵
     location: "Argentina"
     followers: 27799
     engagement: 1324
     commentsToLikes: 0.016995
     id: ck5c98apjaynt0i11r0syo8bu
     verified: false
-    hashtags: "#stayhome, #stuttgart2019, #provinciaseguros, #tokio2022"
+    hashtags: "#stayhome, #stuttgart2019, #provinciaseguros, #tokio2023"
   - username: "julianjato"
     fullname: >-
       Julian Jato

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Los Angeles In 2022
+title: Top 10 Health Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top health Instagram influencers in Los Angeles in 2022. Most popular hashtags: #fitness #losangeles #health.
+  Find top health Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #losangeles #health.
 platform: Instagram
 hits: 364
 text_top: Analyze the best Instagram influencers on inBeat.
@@ -47,7 +47,7 @@ profiles:
     fullname: >-
       OLIVIATHAI ⬇️✌️🌎❄️🐣
     bio: >-
-      📍Arcadia, CA American Idol XV. UC Berkeley 2022. clearly not a fan of IG grids. certified essential oil specialist. songwriter + comedic livestreamer
+      📍Arcadia, CA American Idol XV. UC Berkeley 2023. clearly not a fan of IG grids. certified essential oil specialist. songwriter + comedic livestreamer
     location: "United States"
     followers: 88380
     engagement: 121

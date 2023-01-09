@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Istanbul In 2022
+title: Top 10 Health Instagram Influencers In Istanbul in 2023
 description: >-
-  Find top health Instagram influencers in Istanbul in 2022. Most popular hashtags: #health #sa #istanbul #instagram.
+  Find top health Instagram influencers in Istanbul in 2023. Most popular hashtags: #health #sa #istanbul #instagram.
 platform: Instagram
 hits: 71
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Toronto In 2022
+title: Top 10 Lifestyle TikTok Influencers In Toronto in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #canada #foryou.
+  Find top lifestyle TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #canada #foryou.
 platform: TikTok
 hits: 17
 text_top: See the most popular TikTok accounts on inBeat.

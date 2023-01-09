@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Osaka In 2022
+title: Top 10 Models Instagram Influencers In Osaka in 2023
 description: >-
-  Find top models Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #model #pr #fashion.
+  Find top models Instagram influencers in Osaka in 2023. Most popular hashtags: #osaka #model #pr #fashion.
 platform: Instagram
 hits: 28
 text_top: Discover the top-rated Instagram accounts on inBeat.

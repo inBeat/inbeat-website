@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In South Africa In 2022
+title: Top 10 Health Instagram Influencers In South Africa in 2023
 description: >-
-  Find top health Instagram influencers in South Africa in 2022. Most popular hashtags: #motivation #model #southafrica.
+  Find top health Instagram influencers in South Africa in 2023. Most popular hashtags: #motivation #model #southafrica.
 platform: Instagram
 hits: 129
 text_top: Identify the top-rated Instagram accounts on inBeat.

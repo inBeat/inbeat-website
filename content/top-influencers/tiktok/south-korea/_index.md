@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In South Korea In 2022
+title: Top 10 TikTok Influencers In South Korea in 2023
 description: >-
-  Find top TikTok influencers in South Korea in 2022. Most popular hashtags: #cambodia #fyp #12345678910.
+  Find top TikTok influencers in South Korea in 2023. Most popular hashtags: #cambodia #fyp #12345678910.
 platform: TikTok
 hits: 846
 text_top: Analyze the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Birmingham In 2022
+title: Top 10 Food Instagram Influencers In Birmingham in 2023
 description: >-
-  Find top food Instagram influencers in Birmingham in 2022. Most popular hashtags: #foodie #fashion #foodblogger #birmingham.
+  Find top food Instagram influencers in Birmingham in 2023. Most popular hashtags: #foodie #fashion #foodblogger #birmingham.
 platform: Instagram
 hits: 29
 text_top: Analyze the best Instagram influencers on inBeat.

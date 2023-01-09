@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Miami In 2022
+title: Top 10 Vegan TikTok Influencers In Miami in 2023
 description: >-
-  Find top vegan TikTok influencers in Miami in 2022. Most popular hashtags: #vegan #fyp #miami #duet.
+  Find top vegan TikTok influencers in Miami in 2023. Most popular hashtags: #vegan #fyp #miami #duet.
 platform: TikTok
 hits: 18
 text_top: Discover the most popular TikTok influencers on inBeat.

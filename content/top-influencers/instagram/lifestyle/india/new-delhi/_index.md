@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In New Delhi In 2022
+title: Top 10 Lifestyle Instagram Influencers In New Delhi in 2023
 description: >-
-  Find top lifestyle Instagram influencers in New Delhi in 2022. Most popular hashtags: #fashion #fashionblogger #fashionstyle #style.
+  Find top lifestyle Instagram influencers in New Delhi in 2023. Most popular hashtags: #fashion #fashionblogger #fashionstyle #style.
 platform: Instagram
 hits: 105
 text_top: Discover the top-rated Instagram influencers on inBeat.

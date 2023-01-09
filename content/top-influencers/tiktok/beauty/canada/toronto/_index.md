@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Toronto In 2022
+title: Top 10 Beauty TikTok Influencers In Toronto in 2023
 description: >-
-  Find top beauty TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #toronto #beauty #foryou.
+  Find top beauty TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #beauty #foryou.
 platform: TikTok
 hits: 34
 text_top: See the best TikTok profiles on inBeat.

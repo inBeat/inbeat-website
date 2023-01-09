@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Philadelphia In 2022
+title: Top 10 Beauty Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top beauty Instagram influencers in Philadelphia in 2022. Most popular hashtags: #beauty #portrait #chicagohairstylist.
+  Find top beauty Instagram influencers in Philadelphia in 2023. Most popular hashtags: #beauty #portrait #chicagohairstylist.
 platform: Instagram
 hits: 42
 text_top: Identify the most popular Instagram profiles on inBeat.

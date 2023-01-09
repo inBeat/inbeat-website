@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Chile In 2022
+title: Top 10 Divers Instagram Influencers In Chile in 2023
 description: >-
-  Find top divers Instagram influencers in Chile in 2022. Most popular hashtags: #cuarentena #diversion #meme #risa.
+  Find top divers Instagram influencers in Chile in 2023. Most popular hashtags: #cuarentena #diversion #meme #risa.
 platform: Instagram
 hits: 37
 text_top: Identify the top-rated Instagram profiles on inBeat.

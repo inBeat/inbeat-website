@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Greece In 2022
+title: Top 10 Nail Artists Instagram Influencers In Greece in 2023
 description: >-
-  Find top nail artists Instagram influencers in Greece in 2022. Most popular hashtags: #greece #nailsofinstagram #nails #love.
+  Find top nail artists Instagram influencers in Greece in 2023. Most popular hashtags: #greece #nailsofinstagram #nails #love.
 platform: Instagram
 hits: 14
 text_top: Discover the top-rated Instagram influencers on inBeat.

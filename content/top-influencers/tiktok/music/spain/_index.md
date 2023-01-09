@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Spain In 2022
+title: Top 10 Music TikTok Influencers In Spain in 2023
 description: >-
-  Find top music TikTok influencers in Spain in 2022. Most popular hashtags: #parati #fyp #viral #humor.
+  Find top music TikTok influencers in Spain in 2023. Most popular hashtags: #parati #fyp #viral #humor.
 platform: TikTok
 hits: 226
 text_top: Discover the most popular TikTok influencers on inBeat.

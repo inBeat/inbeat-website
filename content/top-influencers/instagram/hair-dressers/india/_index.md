@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In India In 2022
+title: Top 10 Hair Dressers Instagram Influencers In India in 2023
 description: >-
-  Find top hair dressers Instagram influencers in India in 2022. Most popular hashtags: #india #love #instagram #photography.
+  Find top hair dressers Instagram influencers in India in 2023. Most popular hashtags: #india #love #instagram #photography.
 platform: Instagram
 hits: 52
 text_top: Analyze the most popular Instagram profiles on inBeat.

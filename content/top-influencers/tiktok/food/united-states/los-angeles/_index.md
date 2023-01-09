@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Los Angeles In 2022
+title: Top 10 Food TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top food TikTok influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #food #fyp #foryou.
+  Find top food TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #food #fyp #foryou.
 platform: TikTok
 hits: 139
 text_top: See the top-rated TikTok influencers on inBeat.

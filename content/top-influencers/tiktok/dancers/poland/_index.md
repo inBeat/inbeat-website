@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Poland In 2022
+title: Top 10 Dancers TikTok Influencers In Poland in 2023
 description: >-
-  Find top dancers TikTok influencers in Poland in 2022. Most popular hashtags: #dlaciebie #foryou #dance #fyp.
+  Find top dancers TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #foryou #dance #fyp.
 platform: TikTok
 hits: 38
 text_top: Analyze the top-rated TikTok profiles on inBeat.

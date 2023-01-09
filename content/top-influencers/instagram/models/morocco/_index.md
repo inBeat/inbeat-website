@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Morocco In 2022
+title: Top 10 Models Instagram Influencers In Morocco in 2023
 description: >-
-  Find top models Instagram influencers in Morocco in 2022. Most popular hashtags: #fashion #model #morocco #ootd.
+  Find top models Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #model #morocco #ootd.
 platform: Instagram
 hits: 151
 text_top: Discover the top-rated Instagram accounts on inBeat.

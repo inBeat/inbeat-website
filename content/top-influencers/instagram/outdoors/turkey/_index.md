@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Turkey In 2022
+title: Top 10 Outdoors Instagram Influencers In Turkey in 2023
 description: >-
-  Find top outdoors Instagram influencers in Turkey in 2022. Most popular hashtags: #outdoors #nature #camping #outdoor.
+  Find top outdoors Instagram influencers in Turkey in 2023. Most popular hashtags: #outdoors #nature #camping #outdoor.
 platform: Instagram
 hits: 159
 text_top: See the best Instagram profiles on inBeat.

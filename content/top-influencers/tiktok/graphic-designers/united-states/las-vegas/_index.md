@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Las Vegas In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top graphic-designers TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #graphicdesign #expressieyourself #foryoupage.
+  Find top graphic-designers TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #graphicdesign #expressieyourself #foryoupage.
 platform: TikTok
 hits: 4
 text_top: Identify the best TikTok accounts on inBeat.

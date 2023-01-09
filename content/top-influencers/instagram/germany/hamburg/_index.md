@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Hamburg In 2022
+title: Top 10 Instagram Influencers In Hamburg in 2023
 description: >-
-  Find top Instagram influencers in Hamburg in 2022. Most popular hashtags: #hamburg #germany #ootd.
+  Find top Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #germany #ootd.
 platform: Instagram
 hits: 2163
 text_top: Analyze the best Instagram profiles on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       Lucy Cat
     bio: >-
-      FB|Twitter|YouTube|Snapchat| ➡️LUCYCATOFFICIAL📌HAMBURG Google: Lucy Cat->Kontaktemail nur für Geschäftsanfragen!🔥LUCY CAT KALENDER 2022 -OUT NOW! ⬇️
+      FB|Twitter|YouTube|Snapchat| ➡️LUCYCATOFFICIAL📌HAMBURG Google: Lucy Cat->Kontaktemail nur für Geschäftsanfragen!🔥LUCY CAT KALENDER 2023 -OUT NOW! ⬇️
     location: "Germany"
     followers: 1146604
     engagement: 636

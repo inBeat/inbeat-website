@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Australia In 2022
+title: Top 10 Djs Instagram Influencers In Australia in 2023
 description: >-
-  Find top djs Instagram influencers in Australia in 2022. Most popular hashtags: #dj #music #letsgo.
+  Find top djs Instagram influencers in Australia in 2023. Most popular hashtags: #dj #music #letsgo.
 platform: Instagram
 hits: 39
 text_top: Discover the most popular Instagram accounts on inBeat.

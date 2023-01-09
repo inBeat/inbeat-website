@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Norway In 2022
+title: Top 10 Chefs Instagram Influencers In Norway in 2023
 description: >-
-  Find top chefs Instagram influencers in Norway in 2022. Most popular hashtags: #norway #michelinguide #oslo #michelin.
+  Find top chefs Instagram influencers in Norway in 2023. Most popular hashtags: #norway #michelinguide #oslo #michelin.
 platform: Instagram
 hits: 9
 text_top: Identify the most popular Instagram accounts on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Christian André Pettersen
     bio: >-
-      Norwegian candidate Bocuse d’or 2019-2022 🇳🇴 Bocuse d’Or Bronze 2019 Forbes 30under30 Live Your Dream www.bycap.no
+      Norwegian candidate Bocuse d’or 2019-2023 🇳🇴 Bocuse d’Or Bronze 2019 Forbes 30under30 Live Your Dream www.bycap.no
     location: "Norway"
     followers: 5856
     engagement: 615

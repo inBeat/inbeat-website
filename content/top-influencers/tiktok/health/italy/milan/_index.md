@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Milan In 2022
+title: Top 10 Health TikTok Influencers In Milan in 2023
 description: >-
-  Find top health TikTok influencers in Milan in 2022. Most popular hashtags: #food #healthy #perte #italy.
+  Find top health TikTok influencers in Milan in 2023. Most popular hashtags: #food #healthy #perte #italy.
 platform: TikTok
 hits: 6
 text_top: Identify the best TikTok accounts on inBeat.

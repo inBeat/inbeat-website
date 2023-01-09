@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In San Francisco In 2022
+title: Top 10 Hypebeast TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top hypebeast TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
+  Find top hypebeast TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
 platform: TikTok
 hits: 4
 text_top: Analyze the most popular TikTok profiles on inBeat.

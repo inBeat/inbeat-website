@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Russia In 2022
+title: Top 10 Cosmetics Instagram Influencers In Russia in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Russia in 2022. Most popular hashtags: #makeup #makeupbyme #matteffect.
+  Find top cosmetics Instagram influencers in Russia in 2023. Most popular hashtags: #makeup #makeupbyme #matteffect.
 platform: Instagram
 hits: 525
 text_top: Identify the best Instagram profiles on inBeat.

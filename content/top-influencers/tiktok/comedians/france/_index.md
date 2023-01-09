@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In France In 2022
+title: Top 10 Comedians TikTok Influencers In France in 2023
 description: >-
-  Find top comedians TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #humour #foryoupage.
+  Find top comedians TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #humour #foryoupage.
 platform: TikTok
 hits: 37
 text_top: Discover the best TikTok accounts on inBeat.

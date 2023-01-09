@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In France In 2022
+title: Top 10 Athletes TikTok Influencers In France in 2023
 description: >-
-  Find top athletes TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #fyp #sport.
+  Find top athletes TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fyp #sport.
 platform: TikTok
 hits: 12
 text_top: Discover the best TikTok profiles on inBeat.

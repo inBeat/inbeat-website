@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Cali In 2022
+title: Top 10 Models Instagram Influencers In Cali in 2023
 description: >-
-  Find top models Instagram influencers in Cali in 2022. Most popular hashtags: #cali #model #colombia #moda.
+  Find top models Instagram influencers in Cali in 2023. Most popular hashtags: #cali #model #colombia #moda.
 platform: Instagram
 hits: 41
 text_top: See the top-rated Instagram influencers on inBeat.

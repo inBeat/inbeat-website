@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Bali In 2022
+title: Top 10 Cosmetics Instagram Influencers In Bali in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Bali in 2022. Most popular hashtags: #bali #love #travel #makeup.
+  Find top cosmetics Instagram influencers in Bali in 2023. Most popular hashtags: #bali #love #travel #makeup.
 platform: Instagram
 hits: 16
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Seoul In 2022
+title: Top 10 Cosmetics Instagram Influencers In Seoul in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Seoul in 2022. Most popular hashtags: #korea #makeup #seoul #kbeauty.
+  Find top cosmetics Instagram influencers in Seoul in 2023. Most popular hashtags: #korea #makeup #seoul #kbeauty.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram influencers on inBeat.

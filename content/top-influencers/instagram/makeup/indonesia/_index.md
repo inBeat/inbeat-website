@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Indonesia In 2022
+title: Top 10 Makeup Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top makeup Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #ootdwithnuabee #nuabee #supportlocalbrand.
+  Find top makeup Instagram influencers in Indonesia in 2023. Most popular hashtags: #dirumahaja #ootdwithnuabee #nuabee #supportlocalbrand.
 platform: Instagram
 hits: 1480
 text_top: Discover the best Instagram influencers on inBeat.

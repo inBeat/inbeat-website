@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Portugal In 2022
+title: Top 10 Nutrition Instagram Influencers In Portugal in 2023
 description: >-
-  Find top nutrition Instagram influencers in Portugal in 2022. Most popular hashtags: #travel #fitness #fit.
+  Find top nutrition Instagram influencers in Portugal in 2023. Most popular hashtags: #travel #fitness #fit.
 platform: Instagram
 hits: 30
 text_top: Analyze the top-rated Instagram accounts on inBeat.

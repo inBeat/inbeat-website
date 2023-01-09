@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Seoul In 2022
+title: Top 10 Architecture Instagram Influencers In Seoul in 2023
 description: >-
-  Find top architecture Instagram influencers in Seoul in 2022. Most popular hashtags: #architecture #korean #theimaged #seoul.
+  Find top architecture Instagram influencers in Seoul in 2023. Most popular hashtags: #architecture #korean #theimaged #seoul.
 platform: Instagram
 hits: 4
 text_top: Analyze the best Instagram accounts on inBeat.

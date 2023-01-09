@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comics Instagram Influencers In 2022
+title: Top 10 Comics Instagram Influencers in 2023
 description: >-
-  Find top comics Instagram influencers in 2022. Most popular hashtags: #comics #captainamerica #cosplay.
+  Find top comics Instagram influencers in 2023. Most popular hashtags: #comics #captainamerica #cosplay.
 platform: Instagram
 hits: 7258
 text_top: Analyze the best Instagram profiles on inBeat.

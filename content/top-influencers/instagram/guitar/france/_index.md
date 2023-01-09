@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In France In 2022
+title: Top 10 Guitar Instagram Influencers In France in 2023
 description: >-
-  Find top guitar Instagram influencers in France in 2022. Most popular hashtags: #music #guitarplayer #gibsonguitar #guitarlife.
+  Find top guitar Instagram influencers in France in 2023. Most popular hashtags: #music #guitarplayer #gibsonguitar #guitarlife.
 platform: Instagram
 hits: 181
 text_top: Discover the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Nigeria In 2022
+title: Top 10 Fitness Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top fitness Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #endpolicebrutality #endswat #staysafe.
+  Find top fitness Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #endpolicebrutality #endswat #staysafe.
 platform: Instagram
 hits: 43
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Brazil In 2022
+title: Top 10 Vegan TikTok Influencers In Brazil in 2023
 description: >-
-  Find top vegan TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #humor #dance.
+  Find top vegan TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #humor #dance.
 platform: TikTok
 hits: 45
 text_top: See the most popular TikTok profiles on inBeat.

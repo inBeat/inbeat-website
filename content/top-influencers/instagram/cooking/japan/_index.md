@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Japan In 2022
+title: Top 10 Cooking Instagram Influencers In Japan in 2023
 description: >-
-  Find top cooking Instagram influencers in Japan in 2022. Most popular hashtags: #fashion #pr #coordinate.
+  Find top cooking Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #pr #coordinate.
 platform: Instagram
 hits: 298
 text_top: Discover the best Instagram influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       N A R U M I
     bio: >-
-      2016.11.22 💒♡ 2022...🌸👼🏻♡ fashion ＆ cooking ㅤㅤㅤㅤㅤ お料理🍚♥️アカウント @naruchin.cooking ゆる〜り🍀 @naruchin.1122
+      2016.11.22 💒♡ 2023...🌸👼🏻♡ fashion ＆ cooking ㅤㅤㅤㅤㅤ お料理🍚♥️アカウント @naruchin.cooking ゆる〜り🍀 @naruchin.1122
     location: "Japan"
     followers: 50865
     engagement: 241

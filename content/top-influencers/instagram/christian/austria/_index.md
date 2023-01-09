@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Austria In 2022
+title: Top 10 Christian Instagram Influencers In Austria in 2023
 description: >-
-  Find top christian Instagram influencers in Austria in 2022. Most popular hashtags: #nature #austria #vienna #love.
+  Find top christian Instagram influencers in Austria in 2023. Most popular hashtags: #nature #austria #vienna #love.
 platform: Instagram
 hits: 69
 text_top: Analyze the most popular Instagram influencers on inBeat.

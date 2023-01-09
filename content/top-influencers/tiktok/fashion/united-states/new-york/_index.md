@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In New York In 2022
+title: Top 10 Fashion TikTok Influencers In New York in 2023
 description: >-
-  Find top fashion TikTok influencers in New York in 2022. Most popular hashtags: #newyork #fyp #fashion #nyc.
+  Find top fashion TikTok influencers in New York in 2023. Most popular hashtags: #newyork #fyp #fashion #nyc.
 platform: TikTok
 hits: 206
 text_top: Discover the top-rated TikTok accounts on inBeat.

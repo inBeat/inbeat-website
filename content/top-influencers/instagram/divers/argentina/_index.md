@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Argentina In 2022
+title: Top 10 Divers Instagram Influencers In Argentina in 2023
 description: >-
-  Find top divers Instagram influencers in Argentina in 2022. Most popular hashtags: #argentina #yomequedoencasa #humor.
+  Find top divers Instagram influencers in Argentina in 2023. Most popular hashtags: #argentina #yomequedoencasa #humor.
 platform: Instagram
 hits: 127
 text_top: Discover the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Portugal In 2022
+title: Top 10 Mothers TikTok Influencers In Portugal in 2023
 description: >-
-  Find top mothers TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #portugal #tiktok #viral.
+  Find top mothers TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #portugal #tiktok #viral.
 platform: TikTok
 hits: 8
 text_top: See the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In South Korea In 2022
+title: Top 10 Guitar Instagram Influencers In South Korea in 2023
 description: >-
-  Find top guitar Instagram influencers in South Korea in 2022. Most popular hashtags: #guitar #youtube #kpop.
+  Find top guitar Instagram influencers in South Korea in 2023. Most popular hashtags: #guitar #youtube #kpop.
 platform: Instagram
 hits: 11
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In 2022
+title: Top 10 Mma Fighters Instagram Influencers in 2023
 description: >-
-  Find top mma fighters Instagram influencers in 2022. Most popular hashtags: #mma #ufc #abudhabi.
+  Find top mma fighters Instagram influencers in 2023. Most popular hashtags: #mma #ufc #abudhabi.
 platform: Instagram
 hits: 247
 text_top: Analyze the most popular Instagram accounts on inBeat.

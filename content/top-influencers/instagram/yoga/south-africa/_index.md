@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In South Africa In 2022
+title: Top 10 Yoga Instagram Influencers In South Africa in 2023
 description: >-
-  Find top yoga Instagram influencers in South Africa in 2022. Most popular hashtags: #love #yogaeverydamnday #yoga.
+  Find top yoga Instagram influencers in South Africa in 2023. Most popular hashtags: #love #yogaeverydamnday #yoga.
 platform: Instagram
 hits: 31
 text_top: Analyze the most popular Instagram profiles on inBeat.

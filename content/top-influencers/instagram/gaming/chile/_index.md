@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Chile In 2022
+title: Top 10 Gaming Instagram Influencers In Chile in 2023
 description: >-
-  Find top gaming Instagram influencers in Chile in 2022. Most popular hashtags: #gamer #gaming #chile #stream.
+  Find top gaming Instagram influencers in Chile in 2023. Most popular hashtags: #gamer #gaming #chile #stream.
 platform: Instagram
 hits: 17
 text_top: Identify the top-rated Instagram accounts on inBeat.

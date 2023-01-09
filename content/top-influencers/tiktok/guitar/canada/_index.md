@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Canada In 2022
+title: Top 10 Guitar TikTok Influencers In Canada in 2023
 description: >-
-  Find top guitar TikTok influencers in Canada in 2022. Most popular hashtags: #guitar #fyp #music #foryou.
+  Find top guitar TikTok influencers in Canada in 2023. Most popular hashtags: #guitar #fyp #music #foryou.
 platform: TikTok
 hits: 82
 text_top: Discover the top-rated TikTok accounts on inBeat.

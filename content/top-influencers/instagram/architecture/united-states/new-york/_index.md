@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In New York In 2022
+title: Top 10 Architecture Instagram Influencers In New York in 2023
 description: >-
-  Find top architecture Instagram influencers in New York in 2022. Most popular hashtags: #architecture #newyork #newyorkcity #nyc.
+  Find top architecture Instagram influencers in New York in 2023. Most popular hashtags: #architecture #newyork #newyorkcity #nyc.
 platform: Instagram
 hits: 314
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Seoul In 2022
+title: Top 10 Models Instagram Influencers In Seoul in 2023
 description: >-
-  Find top models Instagram influencers in Seoul in 2022. Most popular hashtags: #korea #seoul #model.
+  Find top models Instagram influencers in Seoul in 2023. Most popular hashtags: #korea #seoul #model.
 platform: Instagram
 hits: 43
 text_top: Analyze the most popular Instagram accounts on inBeat.

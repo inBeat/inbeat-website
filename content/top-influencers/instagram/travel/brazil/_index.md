@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Brazil In 2022
+title: Top 10 Travel Instagram Influencers In Brazil in 2023
 description: >-
-  Find top travel Instagram influencers in Brazil in 2022. Most popular hashtags: #goodvibes #halloween #gratidao.
+  Find top travel Instagram influencers in Brazil in 2023. Most popular hashtags: #goodvibes #halloween #gratidao.
 platform: Instagram
 hits: 2475
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Brazil In 2022
+title: Top 10 Barbers Instagram Influencers In Brazil in 2023
 description: >-
-  Find top barbers Instagram influencers in Brazil in 2022. Most popular hashtags: #barbershop #barbering #barbearia.
+  Find top barbers Instagram influencers in Brazil in 2023. Most popular hashtags: #barbershop #barbering #barbearia.
 platform: Instagram
 hits: 333
 text_top: Analyze the best Instagram profiles on inBeat.

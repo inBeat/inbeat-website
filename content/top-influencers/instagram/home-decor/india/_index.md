@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In India In 2022
+title: Top 10 Home Decor Instagram Influencers In India in 2023
 description: >-
-  Find top home decor Instagram influencers in India in 2022. Most popular hashtags: #homedecor #instagram #instagood #photography.
+  Find top home decor Instagram influencers in India in 2023. Most popular hashtags: #homedecor #instagram #instagood #photography.
 platform: Instagram
 hits: 331
 text_top: Identify the best Instagram profiles on inBeat.

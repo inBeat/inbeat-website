@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In United States In 2022
+title: Top 10 Travel Instagram Influencers In United States in 2023
 description: >-
-  Find top travel Instagram influencers in United States in 2022. Most popular hashtags: #california #instadaily #ad.
+  Find top travel Instagram influencers in United States in 2023. Most popular hashtags: #california #instadaily #ad.
 platform: Instagram
 hits: 17320
 text_top: Identify the most popular Instagram accounts on inBeat.

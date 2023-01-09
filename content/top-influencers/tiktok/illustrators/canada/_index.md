@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In Canada In 2022
+title: Top 10 Illustrators TikTok Influencers In Canada in 2023
 description: >-
-  Find top illustrators TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #art #artist #illustration.
+  Find top illustrators TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #art #artist #illustration.
 platform: TikTok
 hits: 12
 text_top: See the most popular TikTok accounts on inBeat.

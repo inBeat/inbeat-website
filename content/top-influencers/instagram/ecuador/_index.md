@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Ecuador In 2022
+title: Top 10 Instagram Influencers In Ecuador in 2023
 description: >-
-  Find top Instagram influencers in Ecuador in 2022. Most popular hashtags: #instagood #photography #estilo.
+  Find top Instagram influencers in Ecuador in 2023. Most popular hashtags: #instagood #photography #estilo.
 platform: Instagram
 hits: 25
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Phoenix In 2022
+title: Top 10 Vegan TikTok Influencers In Phoenix in 2023
 description: >-
-  Find top vegan TikTok influencers in Phoenix in 2022. Most popular hashtags: #fyp #duet #vegan #foryou.
+  Find top vegan TikTok influencers in Phoenix in 2023. Most popular hashtags: #fyp #duet #vegan #foryou.
 platform: TikTok
 hits: 4
 text_top: See the best TikTok accounts on inBeat.

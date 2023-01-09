@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Dallas In 2022
+title: Top 10 Health TikTok Influencers In Dallas in 2023
 description: >-
-  Find top health TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #dallas #health.
+  Find top health TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #dallas #health.
 platform: TikTok
 hits: 24
 text_top: Identify the top-rated TikTok profiles on inBeat.
@@ -110,7 +110,7 @@ profiles:
       ⬆️follow me on here & IG⬆️ Just trying to make you laugh venmo:@davison-abrantes
     location: "United States"
     followers: 43900
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.033220
     id: ck81t23qwuvky0j78av0e1n3l
     verified: false

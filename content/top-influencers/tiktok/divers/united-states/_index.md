@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In United States In 2022
+title: Top 10 Divers TikTok Influencers In United States in 2023
 description: >-
-  Find top divers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #greenscreen #duet #stitch.
+  Find top divers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #greenscreen #duet #stitch.
 platform: TikTok
 hits: 523
 text_top: Analyze the top-rated TikTok profiles on inBeat.

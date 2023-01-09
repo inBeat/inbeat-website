@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Japan In 2022
+title: Top 10 Photographers Instagram Influencers In Japan in 2023
 description: >-
-  Find top photographers Instagram influencers in Japan in 2022. Most popular hashtags: #japan #bw #portrait.
+  Find top photographers Instagram influencers in Japan in 2023. Most popular hashtags: #japan #bw #portrait.
 platform: Instagram
 hits: 279
 text_top: Discover the most popular Instagram influencers on inBeat.
@@ -61,7 +61,7 @@ profiles:
     bio: >-
       Julia • Photographer in Tokyo🇷🇺🇪🇸🇧🇷 🇬🇧 • #sonya7riii • Travel photos account @_icyphotos_ Youtube channel ⬇️⬇️⬇️
     location: "Japan"
-    followers: 20224
+    followers: 20234
     engagement: 895
     commentsToLikes: 0.027066
     id: ck5c1kyiive4i0i11svbdfe22

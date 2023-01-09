@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Spain In 2022
+title: Top 10 Nail Artists Instagram Influencers In Spain in 2023
 description: >-
-  Find top nail artists Instagram influencers in Spain in 2022. Most popular hashtags: #nails #picoftheday #beauty.
+  Find top nail artists Instagram influencers in Spain in 2023. Most popular hashtags: #nails #picoftheday #beauty.
 platform: Instagram
 hits: 20
 text_top: Analyze the best Instagram profiles on inBeat.

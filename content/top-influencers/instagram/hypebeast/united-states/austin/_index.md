@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Austin In 2022
+title: Top 10 Hypebeast Instagram Influencers In Austin in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Austin in 2022. Most popular hashtags: #hypebeast #portrait #portraitphotography #fashion.
+  Find top hypebeast Instagram influencers in Austin in 2023. Most popular hashtags: #hypebeast #portrait #portraitphotography #fashion.
 platform: Instagram
 hits: 28
 text_top: See the top-rated Instagram accounts on inBeat.

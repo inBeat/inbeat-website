@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Sydney In 2022
+title: Top 10 Stylists Instagram Influencers In Sydney in 2023
 description: >-
-  Find top stylists Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #stylist #fashion.
+  Find top stylists Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #stylist #fashion.
 platform: Instagram
 hits: 53
 text_top: Analyze the top-rated Instagram influencers on inBeat.

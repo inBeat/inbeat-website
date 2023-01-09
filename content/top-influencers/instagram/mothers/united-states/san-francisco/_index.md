@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In San Francisco In 2022
+title: Top 10 Mothers Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top mothers Instagram influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #love #mother #family.
+  Find top mothers Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #love #mother #family.
 platform: Instagram
 hits: 25
 text_top: Analyze the most popular Instagram accounts on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       𝖊𝖕𝖎𝖈 𝖑𝖔𝖛𝖊 𝖘𝖙𝖔𝖗𝖞 𝖕𝖍𝖔𝖙𝖔𝖌𝖗𝖆𝖕𝖍𝖞
     bio: >-
-      ✖️Relaxed. Real. Rad 🖤 ✖️ @junebugweddings top 50 2019 ✖️2022👉 California, Ireland, Scotland ✖️London, Married, Inked, Dog Mum, Black, 🐆, 🍣
+      ✖️Relaxed. Real. Rad 🖤 ✖️ @junebugweddings top 50 2019 ✖️2023👉 California, Ireland, Scotland ✖️London, Married, Inked, Dog Mum, Black, 🐆, 🍣
     location: "United States"
     followers: 7516
     engagement: 337

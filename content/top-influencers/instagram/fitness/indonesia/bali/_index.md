@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bali In 2022
+title: Top 10 Fitness Instagram Influencers In Bali in 2023
 description: >-
-  Find top fitness Instagram influencers in Bali in 2022. Most popular hashtags: #bali #fitness #indonesia #holiday.
+  Find top fitness Instagram influencers in Bali in 2023. Most popular hashtags: #bali #fitness #indonesia #holiday.
 platform: Instagram
 hits: 68
 text_top: See the best Instagram accounts on inBeat.

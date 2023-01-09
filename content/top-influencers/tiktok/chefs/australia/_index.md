@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Australia In 2022
+title: Top 10 Chefs TikTok Influencers In Australia in 2023
 description: >-
-  Find top chefs TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #chef #foryou #cooking.
+  Find top chefs TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #chef #foryou #cooking.
 platform: TikTok
 hits: 30
 text_top: Identify the top-rated TikTok accounts on inBeat.

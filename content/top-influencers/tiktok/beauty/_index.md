@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In 2022
+title: Top 10 Beauty TikTok Influencers in 2023
 description: >-
-  Find top beauty TikTok influencers in 2022. Most popular hashtags: #foryou #duet #foryoupage #happyhalloween.
+  Find top beauty TikTok influencers in 2023. Most popular hashtags: #foryou #duet #foryoupage #happyhalloween.
 platform: TikTok
 hits: 16225
 text_top: Analyze the best TikTok accounts on inBeat.

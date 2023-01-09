@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In France In 2022
+title: Top 10 Bmx TikTok Influencers In France in 2023
 description: >-
-  Find top bmx TikTok influencers in France in 2022. Most popular hashtags: #bmx #fyp #foryou #pourtoi.
+  Find top bmx TikTok influencers in France in 2023. Most popular hashtags: #bmx #fyp #foryou #pourtoi.
 platform: TikTok
 hits: 15
 text_top: See the best TikTok profiles on inBeat.

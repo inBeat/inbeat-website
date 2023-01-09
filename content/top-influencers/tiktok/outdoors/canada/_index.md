@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Canada In 2022
+title: Top 10 Outdoors TikTok Influencers In Canada in 2023
 description: >-
-  Find top outdoors TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #outdoors #foryou #canada.
+  Find top outdoors TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #outdoors #foryou #canada.
 platform: TikTok
 hits: 135
 text_top: See the best TikTok accounts on inBeat.

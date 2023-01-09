@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Bogotá In 2022
+title: Top 10 Models Instagram Influencers In Bogotá in 2023
 description: >-
-  Find top models Instagram influencers in Bogotá in 2022. Most popular hashtags: #colombia #model #bogota #modelo.
+  Find top models Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #model #bogota #modelo.
 platform: Instagram
 hits: 82
 text_top: See the best Instagram accounts on inBeat.

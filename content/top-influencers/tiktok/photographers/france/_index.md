@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In France In 2022
+title: Top 10 Photographers TikTok Influencers In France in 2023
 description: >-
-  Find top photographers TikTok influencers in France in 2022. Most popular hashtags: #foryou #pourtoi #fyp #foryoupage.
+  Find top photographers TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #fyp #foryoupage.
 platform: TikTok
 hits: 55
 text_top: Discover the most popular TikTok profiles on inBeat.

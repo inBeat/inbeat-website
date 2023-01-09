@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In India In 2022
+title: Top 10 Beauty TikTok Influencers In India in 2023
 description: >-
-  Find top beauty TikTok influencers in India in 2022. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
+  Find top beauty TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
 platform: TikTok
 hits: 1044
 text_top: Discover the best TikTok accounts on inBeat.

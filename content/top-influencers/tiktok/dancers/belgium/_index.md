@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Belgium In 2022
+title: Top 10 Dancers TikTok Influencers In Belgium in 2023
 description: >-
-  Find top dancers TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #dance #foryou #viral.
+  Find top dancers TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #dance #foryou #viral.
 platform: TikTok
 hits: 15
 text_top: See the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Jakarta In 2022
+title: Top 10 Models Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top models Instagram influencers in Jakarta in 2022. Most popular hashtags: #model #jakarta #indonesia #modeling.
+  Find top models Instagram influencers in Jakarta in 2023. Most popular hashtags: #model #jakarta #indonesia #modeling.
 platform: Instagram
 hits: 92
 text_top: Discover the best Instagram profiles on inBeat.

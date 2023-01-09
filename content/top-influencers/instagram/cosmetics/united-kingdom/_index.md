@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In United Kingdom In 2022
+title: Top 10 Cosmetics Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top cosmetics Instagram influencers in United Kingdom in 2022. Most popular hashtags: #creativemakeup #neonmakeup #editorialmakeup.
+  Find top cosmetics Instagram influencers in United Kingdom in 2023. Most popular hashtags: #creativemakeup #neonmakeup #editorialmakeup.
 platform: Instagram
 hits: 426
 text_top: Identify the best Instagram influencers on inBeat.

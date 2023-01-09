@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Colombia In 2022
+title: Top 10 Barbers Instagram Influencers In Colombia in 2023
 description: >-
-  Find top barbers Instagram influencers in Colombia in 2022. Most popular hashtags: #barbershop #cali #photooftheday #photography.
+  Find top barbers Instagram influencers in Colombia in 2023. Most popular hashtags: #barbershop #cali #photooftheday #photography.
 platform: Instagram
 hits: 28
 text_top: Analyze the most popular Instagram profiles on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Andrés Felipe Campo
     bio: >-
-      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2022 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
+      🏆Campeón Mundial, SurAm, PanAm🔥 ❄️Road To Winter Olympics 2023 🙅🏼‍♂️Profesional Del Deporte 📖Administrador 📍Emprendedor 👇🏻Dinero Durmiendo?!💸
     location: "Colombia"
     followers: 12631
     engagement: 272

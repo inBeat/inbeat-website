@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Barcelona In 2022
+title: Top 10 Photographers Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top photographers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #costabrava #portrait.
+  Find top photographers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #costabrava #portrait.
 platform: Instagram
 hits: 161
 text_top: Analyze the top-rated Instagram accounts on inBeat.

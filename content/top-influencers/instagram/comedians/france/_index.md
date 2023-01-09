@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In France In 2022
+title: Top 10 Comedians Instagram Influencers In France in 2023
 description: >-
-  Find top comedians Instagram influencers in France in 2022. Most popular hashtags: #love #humour #standup.
+  Find top comedians Instagram influencers in France in 2023. Most popular hashtags: #love #humour #standup.
 platform: Instagram
 hits: 234
 text_top: Analyze the top-rated Instagram influencers on inBeat.

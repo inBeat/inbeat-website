@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Peru In 2022
+title: Top 10 Food Instagram Influencers In Peru in 2023
 description: >-
-  Find top food Instagram influencers in Peru in 2022. Most popular hashtags: #comidaperuana #peruvianfood #peru.
+  Find top food Instagram influencers in Peru in 2023. Most popular hashtags: #comidaperuana #peruvianfood #peru.
 platform: Instagram
 hits: 64
 text_top: See the top-rated Instagram profiles on inBeat.

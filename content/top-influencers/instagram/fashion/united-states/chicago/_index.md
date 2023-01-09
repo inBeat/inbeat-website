@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Chicago In 2022
+title: Top 10 Fashion Instagram Influencers In Chicago in 2023
 description: >-
-  Find top fashion Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #fashion #model.
+  Find top fashion Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #fashion #model.
 platform: Instagram
 hits: 420
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,5 +1,5 @@
 ---
-title: Top 10 Judo Fighters TikTok Influencers In 2022
+title: Top 10 Judo Fighters TikTok Influencers in 2023
 description: >-
   Find top judo fighters TikTok influencers in 2020.
 platform: TikTok

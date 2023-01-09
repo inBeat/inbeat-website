@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austin In 2022
+title: Top 10 Makeup Instagram Influencers In Austin in 2023
 description: >-
-  Find top makeup Instagram influencers in Austin in 2022. Most popular hashtags: #makeup #beauty #austin #picoftheday.
+  Find top makeup Instagram influencers in Austin in 2023. Most popular hashtags: #makeup #beauty #austin #picoftheday.
 platform: Instagram
 hits: 158
 text_top: See the best Instagram profiles on inBeat.

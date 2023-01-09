@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Tokyo In 2022
+title: Top 10 Travel TikTok Influencers In Tokyo in 2023
 description: >-
-  Find top travel TikTok influencers in Tokyo in 2022. Most popular hashtags: #tiktok #japan #travel #tokyo.
+  Find top travel TikTok influencers in Tokyo in 2023. Most popular hashtags: #tiktok #japan #travel #tokyo.
 platform: TikTok
 hits: 5
 text_top: See the best TikTok profiles on inBeat.

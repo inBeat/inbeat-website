@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Berlin In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Berlin in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Berlin in 2022. Most popular hashtags: #tattoo #tattooartist #berlin #tattoos.
+  Find top tattoo-artists Instagram influencers in Berlin in 2023. Most popular hashtags: #tattoo #tattooartist #berlin #tattoos.
 platform: Instagram
 hits: 70
 text_top: Analyze the most popular Instagram profiles on inBeat.

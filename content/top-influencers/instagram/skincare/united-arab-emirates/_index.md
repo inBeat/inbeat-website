@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Skincare Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top skincare Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #skincare #dubai #mydubai #beauty.
+  Find top skincare Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #skincare #dubai #mydubai #beauty.
 platform: Instagram
 hits: 73
 text_top: Discover the best Instagram profiles on inBeat.

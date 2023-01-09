@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Russia In 2022
+title: Top 10 Models Instagram Influencers In Russia in 2023
 description: >-
-  Find top models Instagram influencers in Russia in 2022. Most popular hashtags: #kidsmodel #summertime #kidsstyle.
+  Find top models Instagram influencers in Russia in 2023. Most popular hashtags: #kidsmodel #summertime #kidsstyle.
 platform: Instagram
 hits: 1284
 text_top: Discover the best Instagram influencers on inBeat.

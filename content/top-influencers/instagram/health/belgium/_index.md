@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Belgium In 2022
+title: Top 10 Health Instagram Influencers In Belgium in 2023
 description: >-
-  Find top health Instagram influencers in Belgium in 2022. Most popular hashtags: #workout #fitgirl #motivation #fitness.
+  Find top health Instagram influencers in Belgium in 2023. Most popular hashtags: #workout #fitgirl #motivation #fitness.
 platform: Instagram
 hits: 77
 text_top: Discover the best Instagram accounts on inBeat.

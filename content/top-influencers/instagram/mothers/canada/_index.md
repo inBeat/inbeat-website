@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Canada In 2022
+title: Top 10 Mothers Instagram Influencers In Canada in 2023
 description: >-
-  Find top mothers Instagram influencers in Canada in 2022. Most popular hashtags: #honestmotherhood #fallvibes #motherhood.
+  Find top mothers Instagram influencers in Canada in 2023. Most popular hashtags: #honestmotherhood #fallvibes #motherhood.
 platform: Instagram
 hits: 827
 text_top: Identify the top-rated Instagram accounts on inBeat.

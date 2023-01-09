@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Birmingham In 2022
+title: Top 10 Food TikTok Influencers In Birmingham in 2023
 description: >-
-  Find top food TikTok influencers in Birmingham in 2022. Most popular hashtags: #fyp #funny #birmingham #food.
+  Find top food TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #funny #birmingham #food.
 platform: TikTok
 hits: 15
 text_top: Discover the top-rated TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Bali In 2022
+title: Top 10 Christian Instagram Influencers In Bali in 2023
 description: >-
-  Find top christian Instagram influencers in Bali in 2022. Most popular hashtags: #bali #dirumahaja #indonesia.
+  Find top christian Instagram influencers in Bali in 2023. Most popular hashtags: #bali #dirumahaja #indonesia.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram influencers on inBeat.

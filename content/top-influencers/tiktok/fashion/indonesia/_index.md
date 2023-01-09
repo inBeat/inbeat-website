@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Indonesia In 2022
+title: Top 10 Fashion TikTok Influencers In Indonesia in 2023
 description: >-
-  Find top fashion TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #fashion #foryou #voiceeffects.
+  Find top fashion TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #fashion #foryou #voiceeffects.
 platform: TikTok
 hits: 68
 text_top: Discover the best TikTok influencers on inBeat.

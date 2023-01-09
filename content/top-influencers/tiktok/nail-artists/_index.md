@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In 2022
+title: Top 10 Nail Artists TikTok Influencers in 2023
 description: >-
-  Find top nail artists TikTok influencers in 2022. Most popular hashtags: #nails #nailtech #fyp #nailart.
+  Find top nail artists TikTok influencers in 2023. Most popular hashtags: #nails #nailtech #fyp #nailart.
 platform: TikTok
 hits: 262
 text_top: Discover the most popular TikTok accounts on inBeat.

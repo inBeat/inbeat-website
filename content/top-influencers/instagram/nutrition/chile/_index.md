@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Chile In 2022
+title: Top 10 Nutrition Instagram Influencers In Chile in 2023
 description: >-
-  Find top nutrition Instagram influencers in Chile in 2022. Most popular hashtags: #chile #saludable #healthyfood.
+  Find top nutrition Instagram influencers in Chile in 2023. Most popular hashtags: #chile #saludable #healthyfood.
 platform: Instagram
 hits: 33
 text_top: Discover the top-rated Instagram profiles on inBeat.
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.013940
     id: ck5ho91cvp5jt0i1181ra6lwf
     verified: true
-    hashtags: "#lubrax, #nutrici, #dakar2022, #mifo"
+    hashtags: "#lubrax, #nutrici, #dakar2023, #mifo"
   - username: "leslie.fredes"
     fullname: >-
       𝑳𝒆𝒔𝒍𝒊𝒆 𝑭𝒓𝒆𝒅𝒆𝒔 ❀

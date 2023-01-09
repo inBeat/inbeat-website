@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Denver In 2022
+title: Top 10 Health Instagram Influencers In Denver in 2023
 description: >-
-  Find top health Instagram influencers in Denver in 2022. Most popular hashtags: #fitness #motivation #fitfam.
+  Find top health Instagram influencers in Denver in 2023. Most popular hashtags: #fitness #motivation #fitfam.
 platform: Instagram
 hits: 52
 text_top: See the best Instagram profiles on inBeat.
@@ -23,7 +23,7 @@ profiles:
     fullname: >-
       Colette Larsen, OD
     bio: >-
-      👁Prison Eye #Doctor for Colorado✈️ Arizona✈️Florida 💪🏼NPC #wellness Debut 2022 🇳🇴/🇮🇹 but 100% 🇺🇸
+      👁Prison Eye #Doctor for Colorado✈️ Arizona✈️Florida 💪🏼NPC #wellness Debut 2023 🇳🇴/🇮🇹 but 100% 🇺🇸
     location: "United States"
     followers: 26220
     engagement: 530

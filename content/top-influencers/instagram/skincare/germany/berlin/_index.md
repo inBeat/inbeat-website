@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Berlin In 2022
+title: Top 10 Skincare Instagram Influencers In Berlin in 2023
 description: >-
-  Find top skincare Instagram influencers in Berlin in 2022. Most popular hashtags: #skincare #beauty #berlin #blogger.
+  Find top skincare Instagram influencers in Berlin in 2023. Most popular hashtags: #skincare #beauty #berlin #blogger.
 platform: Instagram
 hits: 79
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In San Francisco In 2022
+title: Top 10 Barbers TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top barbers TikTok influencers in San Francisco in 2022. Most popular hashtags: #fyp #foryou #barber #duet.
+  Find top barbers TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #foryou #barber #duet.
 platform: TikTok
 hits: 7
 text_top: Identify the best TikTok accounts on inBeat.

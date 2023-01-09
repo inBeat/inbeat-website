@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Capetown In 2022
+title: Top 10 Health Instagram Influencers In Capetown in 2023
 description: >-
-  Find top health Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #southafrica #fitness #health.
+  Find top health Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #fitness #health.
 platform: Instagram
 hits: 27
 text_top: Discover the most popular Instagram profiles on inBeat.

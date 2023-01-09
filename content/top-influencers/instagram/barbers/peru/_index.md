@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Peru In 2022
+title: Top 10 Barbers Instagram Influencers In Peru in 2023
 description: >-
-  Find top barbers Instagram influencers in Peru in 2022. Most popular hashtags: #barbershopconnect #freestyle #nastybarbers #nastyunder10k.
+  Find top barbers Instagram influencers in Peru in 2023. Most popular hashtags: #barbershopconnect #freestyle #nastybarbers #nastyunder10k.
 platform: Instagram
 hits: 16
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Colombia In 2022
+title: Top 10 Architecture Instagram Influencers In Colombia in 2023
 description: >-
-  Find top architecture Instagram influencers in Colombia in 2022. Most popular hashtags: #architecture #nature #colombia #city.
+  Find top architecture Instagram influencers in Colombia in 2023. Most popular hashtags: #architecture #nature #colombia #city.
 platform: Instagram
 hits: 23
 text_top: See the most popular Instagram profiles on inBeat.

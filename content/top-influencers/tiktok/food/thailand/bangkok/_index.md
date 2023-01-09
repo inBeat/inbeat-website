@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Bangkok In 2022
+title: Top 10 Food TikTok Influencers In Bangkok in 2023
 description: >-
-  Find top food TikTok influencers in Bangkok in 2022. Most popular hashtags: #bangkok #foryou #thailand #food.
+  Find top food TikTok influencers in Bangkok in 2023. Most popular hashtags: #bangkok #foryou #thailand #food.
 platform: TikTok
 hits: 8
 text_top: Identify the most popular TikTok profiles on inBeat.

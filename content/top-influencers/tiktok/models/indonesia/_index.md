@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Indonesia In 2022
+title: Top 10 Models TikTok Influencers In Indonesia in 2023
 description: >-
-  Find top models TikTok influencers in Indonesia in 2022. Most popular hashtags: #fyp #model #fashion #style.
+  Find top models TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #model #fashion #style.
 platform: TikTok
 hits: 23
 text_top: Discover the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In 2022
+title: Top 10 Architecture Instagram Influencers in 2023
 description: >-
-  Find top architecture Instagram influencers in 2022. Most popular hashtags: #doglover #sketch #instagood.
+  Find top architecture Instagram influencers in 2023. Most popular hashtags: #doglover #sketch #instagood.
 platform: Instagram
 hits: 8841
 text_top: Discover the best Instagram profiles on inBeat.

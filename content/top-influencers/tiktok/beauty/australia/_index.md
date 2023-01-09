@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Australia In 2022
+title: Top 10 Beauty TikTok Influencers In Australia in 2023
 description: >-
-  Find top beauty TikTok influencers in Australia in 2022. Most popular hashtags: #foryou #duet #fyp #funny.
+  Find top beauty TikTok influencers in Australia in 2023. Most popular hashtags: #foryou #duet #fyp #funny.
 platform: TikTok
 hits: 360
 text_top: Discover the top-rated TikTok profiles on inBeat.

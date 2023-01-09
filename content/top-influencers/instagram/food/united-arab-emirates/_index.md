@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Food Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top food Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #dubaiblogger #dubaiinfluencer.
+  Find top food Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #dubaiblogger #dubaiinfluencer.
 platform: Instagram
 hits: 220
 text_top: Analyze the top-rated Instagram influencers on inBeat.

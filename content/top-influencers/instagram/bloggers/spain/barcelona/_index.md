@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Barcelona In 2022
+title: Top 10 Bloggers Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top bloggers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #blogger #travelgram #spain.
+  Find top bloggers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #blogger #travelgram #spain.
 platform: Instagram
 hits: 57
 text_top: Discover the best Instagram influencers on inBeat.

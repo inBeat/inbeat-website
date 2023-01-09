@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In South Korea In 2022
+title: Top 10 Home Decor Instagram Influencers In South Korea in 2023
 description: >-
-  Find top home decor Instagram influencers in South Korea in 2022. Most popular hashtags: #homedecor #interior #home #daily.
+  Find top home decor Instagram influencers in South Korea in 2023. Most popular hashtags: #homedecor #interior #home #daily.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram accounts on inBeat.
@@ -95,14 +95,14 @@ profiles:
     fullname: >-
       애뽈
     bio: >-
-      <애뽈의 2022 숲소녀 다이어리&달력>프로젝트 오픈했어요!
+      <애뽈의 2023 숲소녀 다이어리&달력>프로젝트 오픈했어요!
     location: "South Korea"
     followers: 227438
     engagement: 426
     commentsToLikes: 0.014060
     id: ck139tr05n2j50i19db61vvga
     verified: false
-    hashtags: "#2022, #draw, #forestgirl, #forestgirlsdiary"
+    hashtags: "#2023, #draw, #forestgirl, #forestgirlsdiary"
   - username: "ladyshome_"
     fullname: >-
       레이디스홈

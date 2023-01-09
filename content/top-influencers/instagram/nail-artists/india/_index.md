@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In India In 2022
+title: Top 10 Nail Artists Instagram Influencers In India in 2023
 description: >-
-  Find top nail artists Instagram influencers in India in 2022. Most popular hashtags: #nailsofinstagram #nailart #nails #love.
+  Find top nail artists Instagram influencers in India in 2023. Most popular hashtags: #nailsofinstagram #nailart #nails #love.
 platform: Instagram
 hits: 49
 text_top: See the best Instagram accounts on inBeat.

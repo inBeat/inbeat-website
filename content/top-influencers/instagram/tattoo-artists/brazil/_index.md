@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Brazil In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Brazil in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Brazil in 2022. Most popular hashtags: #tattoo #blackwork #tatuagem.
+  Find top tattoo-artists Instagram influencers in Brazil in 2023. Most popular hashtags: #tattoo #blackwork #tatuagem.
 platform: Instagram
 hits: 370
 text_top: Discover the most popular Instagram profiles on inBeat.

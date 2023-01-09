@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Finland In 2022
+title: Top 10 Guitar Instagram Influencers In Finland in 2023
 description: >-
-  Find top guitar Instagram influencers in Finland in 2022. Most popular hashtags: #guitar #guitarist #helsinki #rock.
+  Find top guitar Instagram influencers in Finland in 2023. Most popular hashtags: #guitar #guitarist #helsinki #rock.
 platform: Instagram
 hits: 14
 text_top: Analyze the most popular Instagram accounts on inBeat.

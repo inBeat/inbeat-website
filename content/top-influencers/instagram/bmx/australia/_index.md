@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Australia In 2022
+title: Top 10 Bmx Instagram Influencers In Australia in 2023
 description: >-
-  Find top bmx Instagram influencers in Australia in 2022. Most popular hashtags: #bmx #bmxlife #colonybmx #bmxfamily.
+  Find top bmx Instagram influencers in Australia in 2023. Most popular hashtags: #bmx #bmxlife #colonybmx #bmxfamily.
 platform: Instagram
 hits: 65
 text_top: Analyze the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In San Francisco In 2022
+title: Top 10 Health Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top health Instagram influencers in San Francisco in 2022. Most popular hashtags: #health #sanfrancisco #bayarea #fitness.
+  Find top health Instagram influencers in San Francisco in 2023. Most popular hashtags: #health #sanfrancisco #bayarea #fitness.
 platform: Instagram
 hits: 61
 text_top: Identify the best Instagram profiles on inBeat.

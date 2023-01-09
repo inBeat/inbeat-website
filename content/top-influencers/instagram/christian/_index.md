@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In 2022
+title: Top 10 Christian Instagram Influencers in 2023
 description: >-
-  Find top christian Instagram influencers in 2022. Most popular hashtags: #carsofinstagram #photography #tbt.
+  Find top christian Instagram influencers in 2023. Most popular hashtags: #carsofinstagram #photography #tbt.
 platform: Instagram
 hits: 8143
 text_top: Identify the most popular Instagram profiles on inBeat.

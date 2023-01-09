@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Russia In 2022
+title: Top 10 Music TikTok Influencers In Russia in 2023
 description: >-
-  Find top music TikTok influencers in Russia in 2022. Most popular hashtags: #music #techno #foryou.
+  Find top music TikTok influencers in Russia in 2023. Most popular hashtags: #music #techno #foryou.
 platform: TikTok
 hits: 110
 text_top: Analyze the top-rated TikTok profiles on inBeat.

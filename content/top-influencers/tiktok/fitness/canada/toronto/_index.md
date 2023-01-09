@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Toronto In 2022
+title: Top 10 Fitness TikTok Influencers In Toronto in 2023
 description: >-
-  Find top fitness TikTok influencers in Toronto in 2022. Most popular hashtags: #fitness #toronto #fyp #foryou.
+  Find top fitness TikTok influencers in Toronto in 2023. Most popular hashtags: #fitness #toronto #fyp #foryou.
 platform: TikTok
 hits: 43
 text_top: Analyze the most popular TikTok influencers on inBeat.

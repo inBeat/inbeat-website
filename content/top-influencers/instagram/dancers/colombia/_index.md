@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Colombia In 2022
+title: Top 10 Dancers Instagram Influencers In Colombia in 2023
 description: >-
-  Find top dancers Instagram influencers in Colombia in 2022. Most popular hashtags: #happiness #beachvibes #lifestyle.
+  Find top dancers Instagram influencers in Colombia in 2023. Most popular hashtags: #happiness #beachvibes #lifestyle.
 platform: Instagram
 hits: 98
 text_top: Discover the top-rated Instagram accounts on inBeat.

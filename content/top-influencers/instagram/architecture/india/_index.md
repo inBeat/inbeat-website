@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In India In 2022
+title: Top 10 Architecture Instagram Influencers In India in 2023
 description: >-
-  Find top architecture Instagram influencers in India in 2022. Most popular hashtags: #photography #india #instagram #nature.
+  Find top architecture Instagram influencers in India in 2023. Most popular hashtags: #photography #india #instagram #nature.
 platform: Instagram
 hits: 454
 text_top: Analyze the most popular Instagram profiles on inBeat.

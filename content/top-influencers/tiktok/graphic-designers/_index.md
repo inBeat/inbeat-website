@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In 2022
+title: Top 10 Graphic-Designers TikTok Influencers in 2023
 description: >-
-  Find top graphic-designers TikTok influencers in 2022. Most popular hashtags: #fyp #graphicdesign #foryou #art.
+  Find top graphic-designers TikTok influencers in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #art.
 platform: TikTok
 hits: 258
 text_top: Discover the top-rated TikTok influencers on inBeat.

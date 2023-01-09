@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Durban In 2022
+title: Top 10 Health Instagram Influencers In Durban in 2023
 description: >-
-  Find top health Instagram influencers in Durban in 2022. Most popular hashtags: #southafrica #healthy #naturalhair #teamnatural.
+  Find top health Instagram influencers in Durban in 2023. Most popular hashtags: #southafrica #healthy #naturalhair #teamnatural.
 platform: Instagram
 hits: 6
 text_top: Identify the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Slovakia In 2022
+title: Top 10 TikTok Influencers In Slovakia in 2023
 description: >-
-  Find top TikTok influencers in Slovakia in 2022. Most popular hashtags: #fyp #foryou #duet.
+  Find top TikTok influencers in Slovakia in 2023. Most popular hashtags: #fyp #foryou #duet.
 platform: TikTok
 hits: 164
 text_top: See the best TikTok influencers on inBeat.

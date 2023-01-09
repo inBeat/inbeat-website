@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Kyoto In 2022
+title: Top 10 Lifestyle Instagram Influencers In Kyoto in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Kyoto in 2022. Most popular hashtags: #japan #kyoto #lifestyle #nara.
+  Find top lifestyle Instagram influencers in Kyoto in 2023. Most popular hashtags: #japan #kyoto #lifestyle #nara.
 platform: Instagram
 hits: 12
 text_top: Analyze the best Instagram influencers on inBeat.

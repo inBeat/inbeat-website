@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Venezuela In 2022
+title: Top 10 Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #tbt #caracas.
+  Find top Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #tbt #caracas.
 platform: Instagram
 hits: 1141
 text_top: Identify the best Instagram accounts on inBeat.

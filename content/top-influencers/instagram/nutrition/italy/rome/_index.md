@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Rome In 2022
+title: Top 10 Nutrition Instagram Influencers In Rome in 2023
 description: >-
-  Find top nutrition Instagram influencers in Rome in 2022. Most popular hashtags: #italy #italia #nutrition #love.
+  Find top nutrition Instagram influencers in Rome in 2023. Most popular hashtags: #italy #italia #nutrition #love.
 platform: Instagram
 hits: 9
 text_top: See the best Instagram influencers on inBeat.

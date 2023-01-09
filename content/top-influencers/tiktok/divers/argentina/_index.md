@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers TikTok Influencers In Argentina In 2022
+title: Top 10 Divers TikTok Influencers In Argentina in 2023
 description: >-
-  Find top divers TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #diversion #fyp #comedia.
+  Find top divers TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #diversion #fyp #comedia.
 platform: TikTok
 hits: 57
 text_top: Analyze the top-rated TikTok profiles on inBeat.

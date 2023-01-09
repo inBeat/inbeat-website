@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In South Korea In 2022
+title: Top 10 Cooking TikTok Influencers In South Korea in 2023
 description: >-
-  Find top cooking TikTok influencers in South Korea in 2022. Most popular hashtags: #cooking #mukbang #ramen #koreanfood.
+  Find top cooking TikTok influencers in South Korea in 2023. Most popular hashtags: #cooking #mukbang #ramen #koreanfood.
 platform: TikTok
 hits: 15
 text_top: Identify the top-rated TikTok influencers on inBeat.

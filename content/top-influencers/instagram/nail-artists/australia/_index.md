@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Australia In 2022
+title: Top 10 Nail Artists Instagram Influencers In Australia in 2023
 description: >-
-  Find top nail artists Instagram influencers in Australia in 2022. Most popular hashtags: #nails #nailart #makeup #nailsonfleek.
+  Find top nail artists Instagram influencers in Australia in 2023. Most popular hashtags: #nails #nailart #makeup #nailsonfleek.
 platform: Instagram
 hits: 14
 text_top: Discover the best Instagram profiles on inBeat.

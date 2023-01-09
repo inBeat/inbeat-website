@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Switzerland In 2022
+title: Top 10 Mothers Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top mothers Instagram influencers in Switzerland in 2022. Most popular hashtags: #autumn #swiss #schweiz #switzerlandwonderland.
+  Find top mothers Instagram influencers in Switzerland in 2023. Most popular hashtags: #autumn #swiss #schweiz #switzerlandwonderland.
 platform: Instagram
 hits: 101
 text_top: Identify the best Instagram accounts on inBeat.

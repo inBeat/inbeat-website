@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Austria In 2022
+title: Top 10 Christian TikTok Influencers In Austria in 2023
 description: >-
-  Find top christian TikTok influencers in Austria in 2022. Most popular hashtags: #austria #fyp #foryou #funny.
+  Find top christian TikTok influencers in Austria in 2023. Most popular hashtags: #austria #fyp #foryou #funny.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok accounts on inBeat.

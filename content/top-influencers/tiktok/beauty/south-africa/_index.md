@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In South Africa In 2022
+title: Top 10 Beauty TikTok Influencers In South Africa in 2023
 description: >-
-  Find top beauty TikTok influencers in South Africa in 2022. Most popular hashtags: #duet #seemeontrace #viral #tiktoksouthafrica.
+  Find top beauty TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #seemeontrace #viral #tiktoksouthafrica.
 platform: TikTok
 hits: 49
 text_top: Identify the most popular TikTok influencers on inBeat.

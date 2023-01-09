@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Singapore In 2022
+title: Top 10 Lifestyle Instagram Influencers In Singapore in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Singapore in 2022. Most popular hashtags: #sp #singapore #igsg.
+  Find top lifestyle Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #singapore #igsg.
 platform: Instagram
 hits: 45
 text_top: Discover the best Instagram profiles on inBeat.

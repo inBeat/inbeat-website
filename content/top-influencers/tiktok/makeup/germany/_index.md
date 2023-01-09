@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Germany In 2022
+title: Top 10 Makeup TikTok Influencers In Germany in 2023
 description: >-
-  Find top makeup TikTok influencers in Germany in 2022. Most popular hashtags: #makeup #fyp #foryou #viral.
+  Find top makeup TikTok influencers in Germany in 2023. Most popular hashtags: #makeup #fyp #foryou #viral.
 platform: TikTok
 hits: 345
 text_top: Identify the best TikTok influencers on inBeat.

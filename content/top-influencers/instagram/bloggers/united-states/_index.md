@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In United States In 2022
+title: Top 10 Bloggers Instagram Influencers In United States in 2023
 description: >-
-  Find top bloggers Instagram influencers in United States in 2022. Most popular hashtags: #keralagram #malayalam #keralagodsowncountry.
+  Find top bloggers Instagram influencers in United States in 2023. Most popular hashtags: #keralagram #malayalam #keralagodsowncountry.
 platform: Instagram
 hits: 4448
 text_top: Discover the top-rated Instagram influencers on inBeat.

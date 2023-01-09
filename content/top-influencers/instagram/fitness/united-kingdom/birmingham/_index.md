@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Birmingham In 2022
+title: Top 10 Fitness Instagram Influencers In Birmingham in 2023
 description: >-
-  Find top fitness Instagram influencers in Birmingham in 2022. Most popular hashtags: #fitness #workout #birmingham #training.
+  Find top fitness Instagram influencers in Birmingham in 2023. Most popular hashtags: #fitness #workout #birmingham #training.
 platform: Instagram
 hits: 17
 text_top: Identify the top-rated Instagram profiles on inBeat.

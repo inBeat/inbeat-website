@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chicago In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Chicago in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Chicago in 2022. Most popular hashtags: #tattooartist #chicago #art #chicagoartist.
+  Find top tattoo-artists Instagram influencers in Chicago in 2023. Most popular hashtags: #tattooartist #chicago #art #chicagoartist.
 platform: Instagram
 hits: 56
 text_top: Discover the most popular Instagram accounts on inBeat.

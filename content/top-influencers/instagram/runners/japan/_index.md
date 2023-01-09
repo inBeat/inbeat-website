@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In Japan In 2022
+title: Top 10 Runners Instagram Influencers In Japan in 2023
 description: >-
-  Find top runners Instagram influencers in Japan in 2022. Most popular hashtags: #maurten #marathon #running.
+  Find top runners Instagram influencers in Japan in 2023. Most popular hashtags: #maurten #marathon #running.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram influencers on inBeat.

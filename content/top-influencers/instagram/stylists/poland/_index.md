@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Poland In 2022
+title: Top 10 Stylists Instagram Influencers In Poland in 2023
 description: >-
-  Find top stylists Instagram influencers in Poland in 2022. Most popular hashtags: #polishgirl #girl #outfit #fitgirl.
+  Find top stylists Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #girl #outfit #fitgirl.
 platform: Instagram
 hits: 402
 text_top: Discover the top-rated Instagram profiles on inBeat.

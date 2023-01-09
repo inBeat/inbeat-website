@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Portugal In 2022
+title: Top 10 Instagram Influencers In Portugal in 2023
 description: >-
-  Find top Instagram influencers in Portugal in 2022. Most popular hashtags: #portugal #mensfashionreview #visitportugal.
+  Find top Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #mensfashionreview #visitportugal.
 platform: Instagram
 hits: 1643
 text_top: See the best Instagram influencers on inBeat.

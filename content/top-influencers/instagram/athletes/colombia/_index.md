@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Colombia In 2022
+title: Top 10 Athletes Instagram Influencers In Colombia in 2023
 description: >-
-  Find top athletes Instagram influencers in Colombia in 2022. Most popular hashtags: #fitnessmotivation #motivation #fitness.
+  Find top athletes Instagram influencers in Colombia in 2023. Most popular hashtags: #fitnessmotivation #motivation #fitness.
 platform: Instagram
 hits: 31
 text_top: Analyze the best Instagram profiles on inBeat.

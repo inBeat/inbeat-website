@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Italy In 2022
+title: Top 10 Barbers TikTok Influencers In Italy in 2023
 description: >-
-  Find top barbers TikTok influencers in Italy in 2022. Most popular hashtags: #barber #perte #barbershop #hair.
+  Find top barbers TikTok influencers in Italy in 2023. Most popular hashtags: #barber #perte #barbershop #hair.
 platform: TikTok
 hits: 17
 text_top: Discover the top-rated TikTok influencers on inBeat.

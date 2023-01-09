@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Ukraine In 2022
+title: Top 10 Athletes Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top athletes Instagram influencers in Ukraine in 2022. Most popular hashtags: #calisthenics #workout #motivation #ukraine.
+  Find top athletes Instagram influencers in Ukraine in 2023. Most popular hashtags: #calisthenics #workout #motivation #ukraine.
 platform: Instagram
 hits: 26
 text_top: Discover the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Nigeria In 2022
+title: Top 10 Mothers Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top mothers Instagram influencers in Nigeria in 2022. Most popular hashtags: #endsars #wcw #lagos.
+  Find top mothers Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #wcw #lagos.
 platform: Instagram
 hits: 43
 text_top: Discover the best Instagram influencers on inBeat.

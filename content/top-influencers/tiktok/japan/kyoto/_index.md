@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Kyoto In 2022
+title: Top 10 TikTok Influencers In Kyoto in 2023
 description: >-
-  Find top TikTok influencers in Kyoto in 2022. Most popular hashtags: #tiktok #kyoto #japan #tiktoktravel.
+  Find top TikTok influencers in Kyoto in 2023. Most popular hashtags: #tiktok #kyoto #japan #tiktoktravel.
 platform: TikTok
 hits: 14
 text_top: Identify the most popular TikTok influencers on inBeat.

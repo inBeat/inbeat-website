@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Austin In 2022
+title: Top 10 Rappers Instagram Influencers In Austin in 2023
 description: >-
-  Find top rappers Instagram influencers in Austin in 2022. Most popular hashtags: #rapper #hiphop #music #newmusic.
+  Find top rappers Instagram influencers in Austin in 2023. Most popular hashtags: #rapper #hiphop #music #newmusic.
 platform: Instagram
 hits: 38
 text_top: Analyze the top-rated Instagram profiles on inBeat.
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       ✨LINZO ART✨
     bio: >-
-      ✨Shop on my website for originals✨ ⚡️ Commissions open for February 2022⚡️
+      ✨Shop on my website for originals✨ ⚡️ Commissions open for February 2023⚡️
     location: "United States"
     followers: 9238
     engagement: 820

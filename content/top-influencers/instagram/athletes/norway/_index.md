@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Norway In 2022
+title: Top 10 Athletes Instagram Influencers In Norway in 2023
 description: >-
-  Find top athletes Instagram influencers in Norway in 2022. Most popular hashtags: #gym #fitness #muscle.
+  Find top athletes Instagram influencers in Norway in 2023. Most popular hashtags: #gym #fitness #muscle.
 platform: Instagram
 hits: 62
 text_top: Discover the top-rated Instagram influencers on inBeat.

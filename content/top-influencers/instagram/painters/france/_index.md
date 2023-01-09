@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In France In 2022
+title: Top 10 Painters Instagram Influencers In France in 2023
 description: >-
-  Find top painters Instagram influencers in France in 2022. Most popular hashtags: #painting #art #illustration #sketch.
+  Find top painters Instagram influencers in France in 2023. Most popular hashtags: #painting #art #illustration #sketch.
 platform: Instagram
 hits: 291
 text_top: Analyze the most popular Instagram accounts on inBeat.

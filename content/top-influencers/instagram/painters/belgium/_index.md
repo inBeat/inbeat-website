@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Belgium In 2022
+title: Top 10 Painters Instagram Influencers In Belgium in 2023
 description: >-
-  Find top painters Instagram influencers in Belgium in 2022. Most popular hashtags: #painting #contemporaryart #portrait #interiordesign.
+  Find top painters Instagram influencers in Belgium in 2023. Most popular hashtags: #painting #contemporaryart #portrait #interiordesign.
 platform: Instagram
 hits: 19
 text_top: Analyze the most popular Instagram profiles on inBeat.

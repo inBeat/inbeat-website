@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Mumbai In 2022
+title: Top 10 Fashion TikTok Influencers In Mumbai in 2023
 description: >-
-  Find top fashion TikTok influencers in Mumbai in 2022. Most popular hashtags: #foryou #tiktok #tiktokindia #fashion.
+  Find top fashion TikTok influencers in Mumbai in 2023. Most popular hashtags: #foryou #tiktok #tiktokindia #fashion.
 platform: TikTok
 hits: 18
 text_top: Identify the most popular TikTok influencers on inBeat.

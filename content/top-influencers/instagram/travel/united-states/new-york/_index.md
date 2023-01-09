@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In New York In 2022
+title: Top 10 Travel Instagram Influencers In New York in 2023
 description: >-
-  Find top travel Instagram influencers in New York in 2022. Most popular hashtags: #travel #newyork #nyc #newyorkcity.
+  Find top travel Instagram influencers in New York in 2023. Most popular hashtags: #travel #newyork #nyc #newyorkcity.
 platform: Instagram
 hits: 1095
 text_top: Analyze the best Instagram influencers on inBeat.

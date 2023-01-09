@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Vancouver In 2022
+title: Top 10 Fashion Instagram Influencers In Vancouver in 2023
 description: >-
-  Find top fashion Instagram influencers in Vancouver in 2022. Most popular hashtags: #vancouver #fashion #vancouverphotographer.
+  Find top fashion Instagram influencers in Vancouver in 2023. Most popular hashtags: #vancouver #fashion #vancouverphotographer.
 platform: Instagram
 hits: 127
 text_top: See the best Instagram influencers on inBeat.

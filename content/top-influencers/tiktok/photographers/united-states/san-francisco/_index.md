@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In San Francisco In 2022
+title: Top 10 Photographers TikTok Influencers In San Francisco in 2023
 description: >-
-  Find top photographers TikTok influencers in San Francisco in 2022. Most popular hashtags: #sanfrancisco #fyp #travel #photographer.
+  Find top photographers TikTok influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #fyp #travel #photographer.
 platform: TikTok
 hits: 13
 text_top: Identify the best TikTok influencers on inBeat.

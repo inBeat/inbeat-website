@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Canada In 2022
+title: Top 10 Gymnasts Instagram Influencers In Canada in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Canada in 2022. Most popular hashtags: #gymnastics #fun #handstand.
+  Find top gymnasts Instagram influencers in Canada in 2023. Most popular hashtags: #gymnastics #fun #handstand.
 platform: Instagram
 hits: 47
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.075937
     id: ckap9ft6nshwo0i78xk066y3r
     verified: false
-    hashtags: "#tokyo2022, #roadtotokyo2020, #teamcanada, #olympics"
+    hashtags: "#tokyo2023, #roadtotokyo2020, #teamcanada, #olympics"
   - username: "ellieblack_"
     fullname: >-
       Ellie Black

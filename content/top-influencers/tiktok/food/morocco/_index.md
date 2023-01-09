@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Morocco In 2022
+title: Top 10 Food TikTok Influencers In Morocco in 2023
 description: >-
-  Find top food TikTok influencers in Morocco in 2022. Most popular hashtags: #foryou #food #fyp #tiktok.
+  Find top food TikTok influencers in Morocco in 2023. Most popular hashtags: #foryou #food #fyp #tiktok.
 platform: TikTok
 hits: 13
 text_top: Identify the most popular TikTok accounts on inBeat.

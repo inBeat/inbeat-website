@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Italy In 2022
+title: Top 10 Architecture Instagram Influencers In Italy in 2023
 description: >-
-  Find top architecture Instagram influencers in Italy in 2022. Most popular hashtags: #italy #italia #ig #mountains.
+  Find top architecture Instagram influencers in Italy in 2023. Most popular hashtags: #italy #italia #ig #mountains.
 platform: Instagram
 hits: 758
 text_top: Analyze the top-rated Instagram profiles on inBeat.

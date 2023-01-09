@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Toronto In 2022
+title: Top 10 Instagram Influencers In Toronto in 2023
 description: >-
-  Find top Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #heywildlove #torontodrinks.
+  Find top Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #heywildlove #torontodrinks.
 platform: Instagram
 hits: 2270
 text_top: See the top-rated Instagram influencers on inBeat.

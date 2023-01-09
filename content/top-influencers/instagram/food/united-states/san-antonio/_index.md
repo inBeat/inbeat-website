@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In San Antonio In 2022
+title: Top 10 Food Instagram Influencers In San Antonio in 2023
 description: >-
-  Find top food Instagram influencers in San Antonio in 2022. Most popular hashtags: #texas #sanantonio #foodie #travel.
+  Find top food Instagram influencers in San Antonio in 2023. Most popular hashtags: #texas #sanantonio #foodie #travel.
 platform: Instagram
 hits: 20
 text_top: See the most popular Instagram accounts on inBeat.

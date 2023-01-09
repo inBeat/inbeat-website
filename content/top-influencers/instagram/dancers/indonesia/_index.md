@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Indonesia In 2022
+title: Top 10 Dancers Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top dancers Instagram influencers in Indonesia in 2022. Most popular hashtags: #dance #photography #model #bali.
+  Find top dancers Instagram influencers in Indonesia in 2023. Most popular hashtags: #dance #photography #model #bali.
 platform: Instagram
 hits: 133
 text_top: Discover the top-rated Instagram accounts on inBeat.

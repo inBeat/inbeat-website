@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Vegan Instagram Influencers In Rio De Janeiro in 2023
 description: >-
-  Find top vegan Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #vegan #brazil #riodejaneiro.
+  Find top vegan Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #vegan #brazil #riodejaneiro.
 platform: Instagram
 hits: 5
 text_top: Discover the top-rated Instagram profiles on inBeat.

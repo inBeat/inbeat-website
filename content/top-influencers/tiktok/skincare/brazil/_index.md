@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Brazil In 2022
+title: Top 10 Skincare TikTok Influencers In Brazil in 2023
 description: >-
-  Find top skincare TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #fy #skincare.
+  Find top skincare TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #fy #skincare.
 platform: TikTok
 hits: 49
 text_top: Discover the most popular TikTok accounts on inBeat.

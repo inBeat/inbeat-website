@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Istanbul In 2022
+title: Top 10 Beauty Instagram Influencers In Istanbul in 2023
 description: >-
-  Find top beauty Instagram influencers in Istanbul in 2022. Most popular hashtags: #fashion #istanbul #beauty #photography.
+  Find top beauty Instagram influencers in Istanbul in 2023. Most popular hashtags: #fashion #istanbul #beauty #photography.
 platform: Instagram
 hits: 220
 text_top: See the most popular Instagram accounts on inBeat.

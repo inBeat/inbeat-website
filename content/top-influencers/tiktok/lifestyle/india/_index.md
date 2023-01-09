@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In India In 2022
+title: Top 10 Lifestyle TikTok Influencers In India in 2023
 description: >-
-  Find top lifestyle TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #foryou #trending #tiktok.
+  Find top lifestyle TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #foryou #trending #tiktok.
 platform: TikTok
 hits: 193
 text_top: See the best TikTok accounts on inBeat.

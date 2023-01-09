@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In France In 2022
+title: Top 10 Vegan Instagram Influencers In France in 2023
 description: >-
-  Find top vegan Instagram influencers in France in 2022. Most popular hashtags: #shooting #model #france.
+  Find top vegan Instagram influencers in France in 2023. Most popular hashtags: #shooting #model #france.
 platform: Instagram
 hits: 501
 text_top: Analyze the most popular Instagram profiles on inBeat.

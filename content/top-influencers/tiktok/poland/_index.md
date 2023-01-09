@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Poland In 2022
+title: Top 10 TikTok Influencers In Poland in 2023
 description: >-
-  Find top TikTok influencers in Poland in 2022. Most popular hashtags: #dlaciebie #dc #fyp.
+  Find top TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #fyp.
 platform: TikTok
 hits: 1661
 text_top: Analyze the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Venezuela In 2022
+title: Top 10 Comedians TikTok Influencers In Venezuela in 2023
 description: >-
-  Find top comedians TikTok influencers in Venezuela in 2022. Most popular hashtags: #parati #comedia #fyp #foryou.
+  Find top comedians TikTok influencers in Venezuela in 2023. Most popular hashtags: #parati #comedia #fyp #foryou.
 platform: TikTok
 hits: 71
 text_top: Analyze the most popular TikTok profiles on inBeat.

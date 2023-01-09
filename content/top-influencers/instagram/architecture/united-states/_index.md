@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United States In 2022
+title: Top 10 Architecture Instagram Influencers In United States in 2023
 description: >-
-  Find top architecture Instagram influencers in United States in 2022. Most popular hashtags: #architecture #visitmaine #pencildrawing.
+  Find top architecture Instagram influencers in United States in 2023. Most popular hashtags: #architecture #visitmaine #pencildrawing.
 platform: Instagram
 hits: 1994
 text_top: Discover the most popular Instagram influencers on inBeat.

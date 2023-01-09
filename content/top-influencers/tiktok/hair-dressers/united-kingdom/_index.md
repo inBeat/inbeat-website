@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers In United Kingdom In 2022
+title: Top 10 Hair Dressers TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top hair dressers TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #foryoupage #hair.
+  Find top hair dressers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #hair.
 platform: TikTok
 hits: 12
 text_top: Discover the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bogotá In 2022
+title: Top 10 Lifestyle Instagram Influencers In Bogotá in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Bogotá in 2022. Most popular hashtags: #colombia #lifestyle #bogota #medellin.
+  Find top lifestyle Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #lifestyle #bogota #medellin.
 platform: Instagram
 hits: 71
 text_top: Identify the top-rated Instagram profiles on inBeat.

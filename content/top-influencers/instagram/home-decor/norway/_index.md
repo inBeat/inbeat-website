@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Norway In 2022
+title: Top 10 Home Decor Instagram Influencers In Norway in 2023
 description: >-
-  Find top home decor Instagram influencers in Norway in 2022. Most popular hashtags: #interi #interior #livingroom #homedecor.
+  Find top home decor Instagram influencers in Norway in 2023. Most popular hashtags: #interi #interior #livingroom #homedecor.
 platform: Instagram
 hits: 58
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -13,7 +13,7 @@ profiles:
     bio: >-
       💗HomeDecor💗God💗Lifestyle💗Family💗Pets💗Health💗 Posterstore- Code Anettevs30 = 30% discount Bubbleroom- Code ANE10 = 10% discount
     location: "Norway"
-    followers: 12022
+    followers: 12023
     engagement: 405
     commentsToLikes: 0.399633
     id: ck0ty9wkwm3230i19mrwfkgyc

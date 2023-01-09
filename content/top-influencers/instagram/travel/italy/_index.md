@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Italy In 2022
+title: Top 10 Travel Instagram Influencers In Italy in 2023
 description: >-
-  Find top travel Instagram influencers in Italy in 2022. Most popular hashtags: #italy #italia #italytrip.
+  Find top travel Instagram influencers in Italy in 2023. Most popular hashtags: #italy #italia #italytrip.
 platform: Instagram
 hits: 4123
 text_top: Identify the most popular Instagram accounts on inBeat.

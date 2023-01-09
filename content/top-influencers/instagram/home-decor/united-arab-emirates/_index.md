@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Home Decor Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top home decor Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #photography #mydubai #dubai #fashion.
+  Find top home decor Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #photography #mydubai #dubai #fashion.
 platform: Instagram
 hits: 14
 text_top: Identify the best Instagram accounts on inBeat.

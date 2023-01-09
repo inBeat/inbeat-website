@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Chicago In 2022
+title: Top 10 Lifestyle Instagram Influencers In Chicago in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Chicago in 2022. Most popular hashtags: #ad #sponsored #chicago #fashion.
+  Find top lifestyle Instagram influencers in Chicago in 2023. Most popular hashtags: #ad #sponsored #chicago #fashion.
 platform: Instagram
 hits: 254
 text_top: See the most popular Instagram profiles on inBeat.

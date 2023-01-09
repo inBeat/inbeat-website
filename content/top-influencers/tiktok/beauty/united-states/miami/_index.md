@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Miami In 2022
+title: Top 10 Beauty TikTok Influencers In Miami in 2023
 description: >-
-  Find top beauty TikTok influencers in Miami in 2022. Most popular hashtags: #miami #fyp #beauty #foryou.
+  Find top beauty TikTok influencers in Miami in 2023. Most popular hashtags: #miami #fyp #beauty #foryou.
 platform: TikTok
 hits: 62
 text_top: Analyze the top-rated TikTok influencers on inBeat.

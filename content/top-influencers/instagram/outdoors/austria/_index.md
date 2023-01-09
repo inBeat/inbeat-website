@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Austria In 2022
+title: Top 10 Outdoors Instagram Influencers In Austria in 2023
 description: >-
-  Find top outdoors Instagram influencers in Austria in 2022. Most popular hashtags: #austria #nature #mountains #instagood.
+  Find top outdoors Instagram influencers in Austria in 2023. Most popular hashtags: #austria #nature #mountains #instagood.
 platform: Instagram
 hits: 246
 text_top: Discover the top-rated Instagram influencers on inBeat.

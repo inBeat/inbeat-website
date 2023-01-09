@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Las Vegas In 2022
+title: Top 10 Skincare TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top skincare TikTok influencers in Las Vegas in 2022. Most popular hashtags: #fyp #skincare #lasvegas #foryou.
+  Find top skincare TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #skincare #lasvegas #foryou.
 platform: TikTok
 hits: 12
 text_top: See the most popular TikTok influencers on inBeat.

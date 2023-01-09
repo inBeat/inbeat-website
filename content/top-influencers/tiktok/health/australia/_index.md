@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Australia In 2022
+title: Top 10 Health TikTok Influencers In Australia in 2023
 description: >-
-  Find top health TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #mentalhealthmatters #duet #mentalhealth.
+  Find top health TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #mentalhealthmatters #duet #mentalhealth.
 platform: TikTok
 hits: 221
 text_top: Identify the top-rated TikTok accounts on inBeat.

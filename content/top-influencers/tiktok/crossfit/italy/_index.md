@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Italy In 2022
+title: Top 10 Crossfit TikTok Influencers In Italy in 2023
 description: >-
-  Find top crossfit TikTok influencers in Italy in 2022. Most popular hashtags: #perte #crossfit #foryou #fitness.
+  Find top crossfit TikTok influencers in Italy in 2023. Most popular hashtags: #perte #crossfit #foryou #fitness.
 platform: TikTok
 hits: 9
 text_top: Identify the most popular TikTok accounts on inBeat.

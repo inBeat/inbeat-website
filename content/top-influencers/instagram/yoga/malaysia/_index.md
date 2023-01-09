@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Malaysia In 2022
+title: Top 10 Yoga Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top yoga Instagram influencers in Malaysia in 2022. Most popular hashtags: #positivevibes #love #yoga.
+  Find top yoga Instagram influencers in Malaysia in 2023. Most popular hashtags: #positivevibes #love #yoga.
 platform: Instagram
 hits: 19
 text_top: Identify the top-rated Instagram influencers on inBeat.

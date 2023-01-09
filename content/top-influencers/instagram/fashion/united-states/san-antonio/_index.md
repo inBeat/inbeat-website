@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Antonio In 2022
+title: Top 10 Fashion Instagram Influencers In San Antonio in 2023
 description: >-
-  Find top fashion Instagram influencers in San Antonio in 2022. Most popular hashtags: #fashion #sanantonio #fashionblogger #quarantine.
+  Find top fashion Instagram influencers in San Antonio in 2023. Most popular hashtags: #fashion #sanantonio #fashionblogger #quarantine.
 platform: Instagram
 hits: 39
 text_top: Discover the most popular Instagram influencers on inBeat.

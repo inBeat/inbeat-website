@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Philadelphia In 2022
+title: Top 10 Vegan Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top vegan Instagram influencers in Philadelphia in 2022. Most popular hashtags: #vegan #philadelphia #halloween.
+  Find top vegan Instagram influencers in Philadelphia in 2023. Most popular hashtags: #vegan #philadelphia #halloween.
 platform: Instagram
 hits: 16
 text_top: Identify the top-rated Instagram influencers on inBeat.

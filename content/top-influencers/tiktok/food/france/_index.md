@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In France In 2022
+title: Top 10 Food TikTok Influencers In France in 2023
 description: >-
-  Find top food TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #food #foryou #fyp.
+  Find top food TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #food #foryou #fyp.
 platform: TikTok
 hits: 246
 text_top: Identify the top-rated TikTok influencers on inBeat.

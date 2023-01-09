@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Belgium In 2022
+title: Top 10 Guitar Instagram Influencers In Belgium in 2023
 description: >-
-  Find top guitar Instagram influencers in Belgium in 2022. Most popular hashtags: #music #guitar #belgium #photoshoot.
+  Find top guitar Instagram influencers in Belgium in 2023. Most popular hashtags: #music #guitar #belgium #photoshoot.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram accounts on inBeat.

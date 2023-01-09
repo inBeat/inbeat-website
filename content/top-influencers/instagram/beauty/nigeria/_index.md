@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Nigeria In 2022
+title: Top 10 Beauty Instagram Influencers In Nigeria in 2023
 description: >-
-  Find top beauty Instagram influencers in Nigeria in 2022. Most popular hashtags: #explorepage #explore #beauty.
+  Find top beauty Instagram influencers in Nigeria in 2023. Most popular hashtags: #explorepage #explore #beauty.
 platform: Instagram
 hits: 216
 text_top: Analyze the top-rated Instagram accounts on inBeat.

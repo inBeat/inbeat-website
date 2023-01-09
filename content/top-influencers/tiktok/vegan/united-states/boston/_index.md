@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Boston In 2022
+title: Top 10 Vegan TikTok Influencers In Boston in 2023
 description: >-
-  Find top vegan TikTok influencers in Boston in 2022. Most popular hashtags: #fyp #vegan #boston #duet.
+  Find top vegan TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #vegan #boston #duet.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok influencers on inBeat.

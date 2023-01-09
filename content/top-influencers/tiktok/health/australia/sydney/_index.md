@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Sydney In 2022
+title: Top 10 Health TikTok Influencers In Sydney in 2023
 description: >-
-  Find top health TikTok influencers in Sydney in 2022. Most popular hashtags: #sydney #fyp #foryou #foryoupage.
+  Find top health TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 12
 text_top: See the top-rated TikTok influencers on inBeat.

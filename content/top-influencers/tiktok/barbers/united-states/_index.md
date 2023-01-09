@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In United States In 2022
+title: Top 10 Barbers TikTok Influencers In United States in 2023
 description: >-
-  Find top barbers TikTok influencers in United States in 2022. Most popular hashtags: #duet #fyp #barber.
+  Find top barbers TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #barber.
 platform: TikTok
 hits: 418
 text_top: Identify the top-rated TikTok accounts on inBeat.

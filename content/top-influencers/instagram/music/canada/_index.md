@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Canada In 2022
+title: Top 10 Music Instagram Influencers In Canada in 2023
 description: >-
-  Find top music Instagram influencers in Canada in 2022. Most popular hashtags: #cover #music #singer.
+  Find top music Instagram influencers in Canada in 2023. Most popular hashtags: #cover #music #singer.
 platform: Instagram
 hits: 701
 text_top: See the top-rated Instagram accounts on inBeat.

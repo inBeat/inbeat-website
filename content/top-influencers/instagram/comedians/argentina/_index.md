@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Argentina In 2022
+title: Top 10 Comedians Instagram Influencers In Argentina in 2023
 description: >-
-  Find top comedians Instagram influencers in Argentina in 2022. Most popular hashtags: #humor #tbt #argentina.
+  Find top comedians Instagram influencers in Argentina in 2023. Most popular hashtags: #humor #tbt #argentina.
 platform: Instagram
 hits: 119
 text_top: Discover the top-rated Instagram accounts on inBeat.

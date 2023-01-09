@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Belgium In 2022
+title: Top 10 Nutrition Instagram Influencers In Belgium in 2023
 description: >-
-  Find top nutrition Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #workout #motivation #nutrition.
+  Find top nutrition Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #workout #motivation #nutrition.
 platform: Instagram
 hits: 13
 text_top: See the best Instagram accounts on inBeat.

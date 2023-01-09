@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Colombia In 2022
+title: Top 10 Cooking Instagram Influencers In Colombia in 2023
 description: >-
-  Find top cooking Instagram influencers in Colombia in 2022. Most popular hashtags: #colombia #bogota #foodporn #cooking.
+  Find top cooking Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #bogota #foodporn #cooking.
 platform: Instagram
 hits: 24
 text_top: Discover the best Instagram influencers on inBeat.

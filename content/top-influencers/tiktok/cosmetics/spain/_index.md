@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Spain In 2022
+title: Top 10 Cosmetics TikTok Influencers In Spain in 2023
 description: >-
-  Find top cosmetics TikTok influencers in Spain in 2022. Most popular hashtags: #parati #fyp #viral #storytime.
+  Find top cosmetics TikTok influencers in Spain in 2023. Most popular hashtags: #parati #fyp #viral #storytime.
 platform: TikTok
 hits: 8
 text_top: See the best TikTok profiles on inBeat.

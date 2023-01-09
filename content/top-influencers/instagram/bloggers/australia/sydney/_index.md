@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Sydney In 2022
+title: Top 10 Bloggers Instagram Influencers In Sydney in 2023
 description: >-
-  Find top bloggers Instagram influencers in Sydney in 2022. Most popular hashtags: #sydney #blogger #sydneyblogger #sydneyaustralia.
+  Find top bloggers Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #blogger #sydneyblogger #sydneyaustralia.
 platform: Instagram
 hits: 69
 text_top: Identify the best Instagram profiles on inBeat.

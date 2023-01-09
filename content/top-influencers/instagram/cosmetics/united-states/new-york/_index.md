@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In New York In 2022
+title: Top 10 Cosmetics Instagram Influencers In New York in 2023
 description: >-
-  Find top cosmetics Instagram influencers in New York in 2022. Most popular hashtags: #makeup #newyork #cosmetics #love.
+  Find top cosmetics Instagram influencers in New York in 2023. Most popular hashtags: #makeup #newyork #cosmetics #love.
 platform: Instagram
 hits: 84
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In San Francisco In 2022
+title: Top 10 Vegan Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top vegan Instagram influencers in San Francisco in 2022. Most popular hashtags: #vegan #sanfrancisco #plantbased #bayarea.
+  Find top vegan Instagram influencers in San Francisco in 2023. Most popular hashtags: #vegan #sanfrancisco #plantbased #bayarea.
 platform: Instagram
 hits: 37
 text_top: See the most popular Instagram profiles on inBeat.

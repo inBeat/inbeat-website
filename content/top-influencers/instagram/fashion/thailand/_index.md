@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Thailand In 2022
+title: Top 10 Fashion Instagram Influencers In Thailand in 2023
 description: >-
-  Find top fashion Instagram influencers in Thailand in 2022. Most popular hashtags: #quarantine #fashion #thailand.
+  Find top fashion Instagram influencers in Thailand in 2023. Most popular hashtags: #quarantine #fashion #thailand.
 platform: Instagram
 hits: 82
 text_top: Analyze the most popular Instagram influencers on inBeat.

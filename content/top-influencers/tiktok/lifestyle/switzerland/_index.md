@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Switzerland In 2022
+title: Top 10 Lifestyle TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Switzerland in 2022. Most popular hashtags: #foryou #switzerland #fyp #swiss.
+  Find top lifestyle TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #switzerland #fyp #swiss.
 platform: TikTok
 hits: 16
 text_top: Analyze the best TikTok profiles on inBeat.

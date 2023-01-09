@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In San Diego In 2022
+title: Top 10 Beauty Instagram Influencers In San Diego in 2023
 description: >-
-  Find top beauty Instagram influencers in San Diego in 2022. Most popular hashtags: #sandiego #beauty #losangeles #travel.
+  Find top beauty Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #beauty #losangeles #travel.
 platform: Instagram
 hits: 156
 text_top: Analyze the best Instagram influencers on inBeat.

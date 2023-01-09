@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In United States In 2022
+title: Top 10 Lifestyle TikTok Influencers In United States in 2023
 description: >-
-  Find top lifestyle TikTok influencers in United States in 2022. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in United States in 2023. Most popular hashtags: #fyp #aesthetic #foryou #foryoupage.
 platform: TikTok
 hits: 759
 text_top: See the top-rated TikTok profiles on inBeat.

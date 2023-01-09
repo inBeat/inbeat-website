@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Berlin In 2022
+title: Top 10 Cosmetics Instagram Influencers In Berlin in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Berlin in 2022. Most popular hashtags: #blogger #beauty #berlin #autumn.
+  Find top cosmetics Instagram influencers in Berlin in 2023. Most popular hashtags: #blogger #beauty #berlin #autumn.
 platform: Instagram
 hits: 82
 text_top: Identify the best Instagram influencers on inBeat.

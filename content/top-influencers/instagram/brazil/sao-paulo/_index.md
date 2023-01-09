@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Sao Paulo In 2022
+title: Top 10 Instagram Influencers In Sao Paulo in 2023
 description: >-
-  Find top Instagram influencers in Sao Paulo in 2022. Most popular hashtags: #aesthetic #reels #makeupchallenge.
+  Find top Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #aesthetic #reels #makeupchallenge.
 platform: Instagram
 hits: 3423
 text_top: Identify the best Instagram influencers on inBeat.

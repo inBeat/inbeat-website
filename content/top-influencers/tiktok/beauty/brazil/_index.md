@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brazil In 2022
+title: Top 10 Beauty TikTok Influencers In Brazil in 2023
 description: >-
-  Find top beauty TikTok influencers in Brazil in 2022. Most popular hashtags: #fyp #foryou #makeup #fy.
+  Find top beauty TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #makeup #fy.
 platform: TikTok
 hits: 127
 text_top: See the best TikTok profiles on inBeat.

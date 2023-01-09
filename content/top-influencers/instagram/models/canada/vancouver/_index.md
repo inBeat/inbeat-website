@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Vancouver In 2022
+title: Top 10 Models Instagram Influencers In Vancouver in 2023
 description: >-
-  Find top models Instagram influencers in Vancouver in 2022. Most popular hashtags: #model #photography #style #fashion.
+  Find top models Instagram influencers in Vancouver in 2023. Most popular hashtags: #model #photography #style #fashion.
 platform: Instagram
 hits: 81
 text_top: Discover the best Instagram influencers on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       Makeup Artist | Calgary
     bio: >-
-      S i m r a n S a r o y a ♥ Certified Makeup & Hair Artist ♥ Bridal & NonBridal Calendar Open 2022-22 📆 ♥ @bdlashesofficial Retailer ♥ @admirebysg 🧿
+      S i m r a n S a r o y a ♥ Certified Makeup & Hair Artist ♥ Bridal & NonBridal Calendar Open 2023-22 📆 ♥ @bdlashesofficial Retailer ♥ @admirebysg 🧿
     location: "Canada"
     followers: 4441
     engagement: 558

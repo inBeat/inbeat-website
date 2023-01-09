@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Austria In 2022
+title: Top 10 Yoga TikTok Influencers In Austria in 2023
 description: >-
-  Find top yoga TikTok influencers in Austria in 2022. Most popular hashtags: #foryou #foryoupage #fyp #yoga.
+  Find top yoga TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #foryoupage #fyp #yoga.
 platform: TikTok
 hits: 10
 text_top: Analyze the most popular TikTok accounts on inBeat.

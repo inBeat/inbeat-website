@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In South Africa In 2022
+title: Top 10 Dancers TikTok Influencers In South Africa in 2023
 description: >-
-  Find top dancers TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #dance #duet #foryou.
+  Find top dancers TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #dance #duet #foryou.
 platform: TikTok
 hits: 26
 text_top: Identify the most popular TikTok accounts on inBeat.

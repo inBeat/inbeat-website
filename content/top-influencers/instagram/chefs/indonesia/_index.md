@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Indonesia In 2022
+title: Top 10 Chefs Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top chefs Instagram influencers in Indonesia in 2022. Most popular hashtags: #dirumahaja #berbagiresep #instafood #stayathome.
+  Find top chefs Instagram influencers in Indonesia in 2023. Most popular hashtags: #dirumahaja #berbagiresep #instafood #stayathome.
 platform: Instagram
 hits: 65
 text_top: Analyze the most popular Instagram profiles on inBeat.

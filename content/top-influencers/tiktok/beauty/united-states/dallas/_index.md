@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Dallas In 2022
+title: Top 10 Beauty TikTok Influencers In Dallas in 2023
 description: >-
-  Find top beauty TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #beauty #greenscreen.
+  Find top beauty TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #beauty #greenscreen.
 platform: TikTok
 hits: 21
 text_top: Identify the top-rated TikTok influencers on inBeat.

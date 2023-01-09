@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Austria In 2022
+title: Top 10 Health Instagram Influencers In Austria in 2023
 description: >-
-  Find top health Instagram influencers in Austria in 2022. Most popular hashtags: #giveaway #gymshark #girlswholift #austria.
+  Find top health Instagram influencers in Austria in 2023. Most popular hashtags: #giveaway #gymshark #girlswholift #austria.
 platform: Instagram
 hits: 142
 text_top: Analyze the best Instagram profiles on inBeat.

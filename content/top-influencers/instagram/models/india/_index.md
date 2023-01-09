@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In India In 2022
+title: Top 10 Models Instagram Influencers In India in 2023
 description: >-
-  Find top models Instagram influencers in India in 2022. Most popular hashtags: #instagram #mumbai #keralagodsowncountry.
+  Find top models Instagram influencers in India in 2023. Most popular hashtags: #instagram #mumbai #keralagodsowncountry.
 platform: Instagram
 hits: 3849
 text_top: Identify the top-rated Instagram accounts on inBeat.

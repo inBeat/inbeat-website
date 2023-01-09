@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Malaysia In 2022
+title: Top 10 Fashion TikTok Influencers In Malaysia in 2023
 description: >-
-  Find top fashion TikTok influencers in Malaysia in 2022. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
+  Find top fashion TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
 platform: TikTok
 hits: 17
 text_top: Identify the top-rated TikTok accounts on inBeat.

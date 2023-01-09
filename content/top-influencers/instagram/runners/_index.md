@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In 2022
+title: Top 10 Runners Instagram Influencers in 2023
 description: >-
-  Find top runners Instagram influencers in 2022. Most popular hashtags: #makeup #trailrunning #fitness.
+  Find top runners Instagram influencers in 2023. Most popular hashtags: #makeup #trailrunning #fitness.
 platform: Instagram
 hits: 3203
 text_top: Discover the top-rated Instagram profiles on inBeat.

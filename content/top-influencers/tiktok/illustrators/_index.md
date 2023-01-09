@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In 2022
+title: Top 10 Illustrators TikTok Influencers in 2023
 description: >-
-  Find top illustrators TikTok influencers in 2022. Most popular hashtags: #fyp #art #drawing #artist.
+  Find top illustrators TikTok influencers in 2023. Most popular hashtags: #fyp #art #drawing #artist.
 platform: TikTok
 hits: 157
 text_top: Analyze the best TikTok profiles on inBeat.
@@ -50,7 +50,7 @@ profiles:
       Художник illustrator 🎨 Odessa Email: allalisovaa@gmail.com
     location: "Ukraine"
     followers: 223800
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.029861
     id: ckb9dg7ex0oo80j23sxh3500f
     verified: false

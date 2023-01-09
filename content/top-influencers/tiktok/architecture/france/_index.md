@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In France In 2022
+title: Top 10 Architecture TikTok Influencers In France in 2023
 description: >-
-  Find top architecture TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #architecture #paris #foryou.
+  Find top architecture TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #architecture #paris #foryou.
 platform: TikTok
 hits: 15
 text_top: Analyze the top-rated TikTok influencers on inBeat.

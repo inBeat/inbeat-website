@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Germany In 2022
+title: Top 10 Dancers Instagram Influencers In Germany in 2023
 description: >-
-  Find top dancers Instagram influencers in Germany in 2022. Most popular hashtags: #dance #weekend #portrait.
+  Find top dancers Instagram influencers in Germany in 2023. Most popular hashtags: #dance #weekend #portrait.
 platform: Instagram
 hits: 393
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Capetown In 2022
+title: Top 10 Fashion Instagram Influencers In Capetown in 2023
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #fashion #photooftheday #summer.
+  Find top fashion Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #fashion #photooftheday #summer.
 platform: Instagram
 hits: 45
 text_top: See the most popular Instagram accounts on inBeat.
@@ -38,7 +38,7 @@ profiles:
       God over everything👑 African giant 🦅 🇳🇬
     location: "South Africa"
     followers: 2156
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.062886
     id: ckaorxq4lp8oe0i78qob8mdk5
     verified: false

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Los Angeles In 2022
+title: Top 10 Fitness TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top fitness TikTok influencers in Los Angeles in 2022. Most popular hashtags: #losangeles #fitness #workout #fyp.
+  Find top fitness TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fitness #workout #fyp.
 platform: TikTok
 hits: 73
 text_top: Discover the top-rated TikTok influencers on inBeat.

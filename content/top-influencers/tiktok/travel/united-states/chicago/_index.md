@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chicago In 2022
+title: Top 10 Travel TikTok Influencers In Chicago in 2023
 description: >-
-  Find top travel TikTok influencers in Chicago in 2022. Most popular hashtags: #chicago #travel #fyp #foryou.
+  Find top travel TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #travel #fyp #foryou.
 platform: TikTok
 hits: 88
 text_top: Discover the most popular TikTok accounts on inBeat.

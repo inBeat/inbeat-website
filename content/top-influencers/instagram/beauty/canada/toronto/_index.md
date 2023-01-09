@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Toronto In 2022
+title: Top 10 Beauty Instagram Influencers In Toronto in 2023
 description: >-
-  Find top beauty Instagram influencers in Toronto in 2022. Most popular hashtags: #toronto #beauty #nature #glow.
+  Find top beauty Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #beauty #nature #glow.
 platform: Instagram
 hits: 235
 text_top: Discover the top-rated Instagram accounts on inBeat.

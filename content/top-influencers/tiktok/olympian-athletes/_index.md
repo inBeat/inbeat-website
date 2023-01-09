@@ -1,7 +1,7 @@
 ---
-title: Top 10 Olympian Athletes TikTok Influencers In 2022
+title: Top 10 Olympian Athletes TikTok Influencers in 2023
 description: >-
-  Find top olympian athletes TikTok influencers in 2022. Most popular hashtags: #fyp #foryou #foryoupage #fitness.
+  Find top olympian athletes TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #foryoupage #fitness.
 platform: TikTok
 hits: 10
 text_top: Analyze the top-rated TikTok profiles on inBeat.

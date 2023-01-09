@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Brazil In 2022
+title: Top 10 Instagram Influencers In Brazil in 2023
 description: >-
-  Find top Instagram influencers in Brazil in 2022. Most popular hashtags: #challenge #maquiagembrasil #challengemakeup.
+  Find top Instagram influencers in Brazil in 2023. Most popular hashtags: #challenge #maquiagembrasil #challengemakeup.
 platform: Instagram
 hits: 82063
 text_top: Discover the best Instagram profiles on inBeat.

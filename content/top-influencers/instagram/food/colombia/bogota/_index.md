@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Bogotá In 2022
+title: Top 10 Food Instagram Influencers In Bogotá in 2023
 description: >-
-  Find top food Instagram influencers in Bogotá in 2022. Most popular hashtags: #bogota #colombia #food #love.
+  Find top food Instagram influencers in Bogotá in 2023. Most popular hashtags: #bogota #colombia #food #love.
 platform: Instagram
 hits: 17
 text_top: Identify the best Instagram accounts on inBeat.

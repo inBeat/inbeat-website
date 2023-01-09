@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Poland In 2022
+title: Top 10 Bakers Instagram Influencers In Poland in 2023
 description: >-
-  Find top bakers Instagram influencers in Poland in 2022. Most popular hashtags: #wypieki #domowewypieki #ciasto #foodphotography.
+  Find top bakers Instagram influencers in Poland in 2023. Most popular hashtags: #wypieki #domowewypieki #ciasto #foodphotography.
 platform: Instagram
 hits: 85
 text_top: Identify the top-rated Instagram accounts on inBeat.

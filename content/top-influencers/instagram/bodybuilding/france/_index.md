@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In France In 2022
+title: Top 10 Bodybuilding Instagram Influencers In France in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in France in 2022. Most popular hashtags: #fitness #bodybuilding #gym #workout.
+  Find top bodybuilding Instagram influencers in France in 2023. Most popular hashtags: #fitness #bodybuilding #gym #workout.
 platform: Instagram
 hits: 159
 text_top: Discover the most popular Instagram accounts on inBeat.

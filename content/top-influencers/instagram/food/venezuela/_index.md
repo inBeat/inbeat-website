@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Venezuela In 2022
+title: Top 10 Food Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top food Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #caracas #foodporn #model.
+  Find top food Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #foodporn #model.
 platform: Instagram
 hits: 65
 text_top: Analyze the most popular Instagram profiles on inBeat.

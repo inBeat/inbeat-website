@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United States In 2022
+title: Top 10 Cinema Instagram Influencers In United States in 2023
 description: >-
-  Find top cinema Instagram influencers in United States in 2022. Most popular hashtags: #moodygram #moodygrams #portraits.
+  Find top cinema Instagram influencers in United States in 2023. Most popular hashtags: #moodygram #moodygrams #portraits.
 platform: Instagram
 hits: 2339
 text_top: Discover the best Instagram influencers on inBeat.

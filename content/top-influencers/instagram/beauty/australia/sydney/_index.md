@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Sydney In 2022
+title: Top 10 Beauty Instagram Influencers In Sydney in 2023
 description: >-
-  Find top beauty Instagram influencers in Sydney in 2022. Most popular hashtags: #beauty #australia #fashion #makeup.
+  Find top beauty Instagram influencers in Sydney in 2023. Most popular hashtags: #beauty #australia #fashion #makeup.
 platform: Instagram
 hits: 130
 text_top: Analyze the top-rated Instagram accounts on inBeat.

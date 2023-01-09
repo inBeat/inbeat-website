@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Venezuela In 2022
+title: Top 10 Makeup Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top makeup Instagram influencers in Venezuela in 2022. Most popular hashtags: #makeup #makeupartist #venezuela #soymuavzla.
+  Find top makeup Instagram influencers in Venezuela in 2023. Most popular hashtags: #makeup #makeupartist #venezuela #soymuavzla.
 platform: Instagram
 hits: 178
 text_top: Analyze the most popular Instagram influencers on inBeat.

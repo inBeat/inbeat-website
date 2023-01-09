@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In United Kingdom In 2022
+title: Top 10 Health TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top health TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #mentalhealth #foryoupage #mentalhealthmatters.
+  Find top health TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #mentalhealth #foryoupage #mentalhealthmatters.
 platform: TikTok
 hits: 462
 text_top: See the best TikTok profiles on inBeat.

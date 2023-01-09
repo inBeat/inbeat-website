@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Milan In 2022
+title: Top 10 Models Instagram Influencers In Milan in 2023
 description: >-
-  Find top models Instagram influencers in Milan in 2022. Most popular hashtags: #love #model #fashion.
+  Find top models Instagram influencers in Milan in 2023. Most popular hashtags: #love #model #fashion.
 platform: Instagram
 hits: 468
 text_top: Identify the top-rated Instagram influencers on inBeat.

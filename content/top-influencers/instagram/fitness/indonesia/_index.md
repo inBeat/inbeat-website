@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Indonesia In 2022
+title: Top 10 Fitness Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top fitness Instagram influencers in Indonesia in 2022. Most popular hashtags: #ubud #workout #influencer.
+  Find top fitness Instagram influencers in Indonesia in 2023. Most popular hashtags: #ubud #workout #influencer.
 platform: Instagram
 hits: 277
 text_top: Analyze the most popular Instagram accounts on inBeat.

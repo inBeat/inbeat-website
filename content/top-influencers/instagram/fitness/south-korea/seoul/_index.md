@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Seoul In 2022
+title: Top 10 Fitness Instagram Influencers In Seoul in 2023
 description: >-
-  Find top fitness Instagram influencers in Seoul in 2022. Most popular hashtags: #fitness #seoul #ootd #korean.
+  Find top fitness Instagram influencers in Seoul in 2023. Most popular hashtags: #fitness #seoul #ootd #korean.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Austin In 2022
+title: Top 10 Barbers Instagram Influencers In Austin in 2023
 description: >-
-  Find top barbers Instagram influencers in Austin in 2022. Most popular hashtags: #barber #barbershopconnect #btconeshot2020 #hair.
+  Find top barbers Instagram influencers in Austin in 2023. Most popular hashtags: #barber #barbershopconnect #btconeshot2020 #hair.
 platform: Instagram
 hits: 11
 text_top: Identify the top-rated Instagram profiles on inBeat.

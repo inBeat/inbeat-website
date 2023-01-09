@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Norway In 2022
+title: Top 10 Christian Instagram Influencers In Norway in 2023
 description: >-
-  Find top christian Instagram influencers in Norway in 2022. Most popular hashtags: #norway #norge #nature #mittnorge.
+  Find top christian Instagram influencers in Norway in 2023. Most popular hashtags: #norway #norge #nature #mittnorge.
 platform: Instagram
 hits: 59
 text_top: Identify the most popular Instagram accounts on inBeat.

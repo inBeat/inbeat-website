@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Canada In 2022
+title: Top 10 Barbers TikTok Influencers In Canada in 2023
 description: >-
-  Find top barbers TikTok influencers in Canada in 2022. Most popular hashtags: #barber #fyp #haircut #foryoupage.
+  Find top barbers TikTok influencers in Canada in 2023. Most popular hashtags: #barber #fyp #haircut #foryoupage.
 platform: TikTok
 hits: 44
 text_top: Discover the top-rated TikTok profiles on inBeat.

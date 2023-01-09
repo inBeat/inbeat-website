@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Canada In 2022
+title: Top 10 Fashion Instagram Influencers In Canada in 2023
 description: >-
-  Find top fashion Instagram influencers in Canada in 2022. Most popular hashtags: #fashionblogger #ootd #torontoblogger.
+  Find top fashion Instagram influencers in Canada in 2023. Most popular hashtags: #fashionblogger #ootd #torontoblogger.
 platform: Instagram
 hits: 1229
 text_top: Analyze the top-rated Instagram accounts on inBeat.

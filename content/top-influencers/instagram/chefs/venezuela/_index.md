@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Venezuela In 2022
+title: Top 10 Chefs Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top chefs Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #receta #caracas.
+  Find top chefs Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #receta #caracas.
 platform: Instagram
 hits: 24
 text_top: See the top-rated Instagram accounts on inBeat.
@@ -123,7 +123,7 @@ profiles:
     location: "Venezuela"
     followers: 1055189
     engagement: 29
-    commentsToLikes: 0.062022
+    commentsToLikes: 0.062023
     id: ck6u28ik4qcqj0j71lbegrt14
     verified: false
     hashtags: "#postre, #dulce, #amai26, #tkn"

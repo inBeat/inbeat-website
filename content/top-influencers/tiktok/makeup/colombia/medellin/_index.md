@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Medellín In 2022
+title: Top 10 Makeup TikTok Influencers In Medellín in 2023
 description: >-
-  Find top makeup TikTok influencers in Medellín in 2022. Most popular hashtags: #makeup #parati #colombia #trend.
+  Find top makeup TikTok influencers in Medellín in 2023. Most popular hashtags: #makeup #parati #colombia #trend.
 platform: TikTok
 hits: 6
 text_top: Analyze the best TikTok influencers on inBeat.

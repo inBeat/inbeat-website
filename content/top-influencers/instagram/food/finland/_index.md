@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Finland In 2022
+title: Top 10 Food Instagram Influencers In Finland in 2023
 description: >-
-  Find top food Instagram influencers in Finland in 2022. Most popular hashtags: #instablogit #hanko #helsinki.
+  Find top food Instagram influencers in Finland in 2023. Most popular hashtags: #instablogit #hanko #helsinki.
 platform: Instagram
 hits: 83
 text_top: See the best Instagram influencers on inBeat.

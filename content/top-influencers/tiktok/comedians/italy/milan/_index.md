@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Milan In 2022
+title: Top 10 Comedians TikTok Influencers In Milan in 2023
 description: >-
-  Find top comedians TikTok influencers in Milan in 2022. Most popular hashtags: #perte #foryou #comedia #duetto.
+  Find top comedians TikTok influencers in Milan in 2023. Most popular hashtags: #perte #foryou #comedia #duetto.
 platform: TikTok
 hits: 4
 text_top: Discover the most popular TikTok influencers on inBeat.

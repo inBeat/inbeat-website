@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Venezuela In 2022
+title: Top 10 Guitar Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top guitar Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #guitar #musica #music.
+  Find top guitar Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #guitar #musica #music.
 platform: Instagram
 hits: 11
 text_top: Discover the top-rated Instagram influencers on inBeat.

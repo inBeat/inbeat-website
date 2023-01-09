@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Fashion Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top fashion Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #mydubai #uae.
+  Find top fashion Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #mydubai #uae.
 platform: Instagram
 hits: 427
 text_top: Analyze the most popular Instagram accounts on inBeat.

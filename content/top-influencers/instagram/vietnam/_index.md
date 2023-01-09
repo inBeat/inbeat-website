@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Vietnam In 2022
+title: Top 10 Instagram Influencers In Vietnam in 2023
 description: >-
-  Find top Instagram influencers in Vietnam in 2022. Most popular hashtags: #coffeelover #hoian #nguyendynasty.
+  Find top Instagram influencers in Vietnam in 2023. Most popular hashtags: #coffeelover #hoian #nguyendynasty.
 platform: Instagram
 hits: 18
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Canada In 2022
+title: Top 10 Cinema Instagram Influencers In Canada in 2023
 description: >-
-  Find top cinema Instagram influencers in Canada in 2022. Most popular hashtags: #cinematography #cinematographer #canada.
+  Find top cinema Instagram influencers in Canada in 2023. Most popular hashtags: #cinematography #cinematographer #canada.
 platform: Instagram
 hits: 185
 text_top: Analyze the most popular Instagram influencers on inBeat.

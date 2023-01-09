@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Greece In 2022
+title: Top 10 Instagram Influencers In Greece in 2023
 description: >-
-  Find top Instagram influencers in Greece in 2022. Most popular hashtags: #greece #summer #moments.
+  Find top Instagram influencers in Greece in 2023. Most popular hashtags: #greece #summer #moments.
 platform: Instagram
 hits: 2486
 text_top: Analyze the best Instagram influencers on inBeat.

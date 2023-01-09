@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Argentina In 2022
+title: Top 10 Chefs Instagram Influencers In Argentina in 2023
 description: >-
-  Find top chefs Instagram influencers in Argentina in 2022. Most popular hashtags: #tarta #chocolate #love.
+  Find top chefs Instagram influencers in Argentina in 2023. Most popular hashtags: #tarta #chocolate #love.
 platform: Instagram
 hits: 75
 text_top: Identify the top-rated Instagram profiles on inBeat.
@@ -51,7 +51,7 @@ profiles:
     location: "Argentina"
     followers: 17243
     engagement: 399
-    commentsToLikes: 0.020222
+    commentsToLikes: 0.020232
     id: ck5q69ddqwi9p0i1140rpwr68
     verified: false
     hashtags: "#michelinstar, #michelinguide, #gastronomia, #gastronomy"

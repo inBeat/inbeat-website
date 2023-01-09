@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Phoenix In 2022
+title: Top 10 Nutrition Instagram Influencers In Phoenix in 2023
 description: >-
-  Find top nutrition Instagram influencers in Phoenix in 2022. Most popular hashtags: #fitness #workout #fitnessmotivation #personaltrainer.
+  Find top nutrition Instagram influencers in Phoenix in 2023. Most popular hashtags: #fitness #workout #fitnessmotivation #personaltrainer.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram profiles on inBeat.

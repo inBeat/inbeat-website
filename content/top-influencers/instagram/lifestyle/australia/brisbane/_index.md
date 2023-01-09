@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Brisbane In 2022
+title: Top 10 Lifestyle Instagram Influencers In Brisbane in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Brisbane in 2022. Most popular hashtags: #style #queensland #goldcoast.
+  Find top lifestyle Instagram influencers in Brisbane in 2023. Most popular hashtags: #style #queensland #goldcoast.
 platform: Instagram
 hits: 56
 text_top: Analyze the best Instagram profiles on inBeat.

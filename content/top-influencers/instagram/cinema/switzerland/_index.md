@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Switzerland In 2022
+title: Top 10 Cinema Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top cinema Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #photography #zurich #cinematic.
+  Find top cinema Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #photography #zurich #cinematic.
 platform: Instagram
 hits: 36
 text_top: Identify the best Instagram profiles on inBeat.

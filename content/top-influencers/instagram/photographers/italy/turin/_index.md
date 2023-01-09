@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Turin In 2022
+title: Top 10 Photographers Instagram Influencers In Turin in 2023
 description: >-
-  Find top photographers Instagram influencers in Turin in 2022. Most popular hashtags: #ig #portrait #italy #italian.
+  Find top photographers Instagram influencers in Turin in 2023. Most popular hashtags: #ig #portrait #italy #italian.
 platform: Instagram
 hits: 20
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.012517
     id: ck6txe9cbxc040j71kf61g862
     verified: false
-    hashtags: "#ai2022, #mfw, #woman, #fw2022"
+    hashtags: "#ai2023, #mfw, #woman, #fw2023"
   - username: "simococco"
     fullname: >-
       Simo | Photo & Hiking

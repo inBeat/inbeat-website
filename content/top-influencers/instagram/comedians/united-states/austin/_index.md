@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Austin In 2022
+title: Top 10 Comedians Instagram Influencers In Austin in 2023
 description: >-
-  Find top comedians Instagram influencers in Austin in 2022. Most popular hashtags: #comedian #comedy #quarantine #podcast.
+  Find top comedians Instagram influencers in Austin in 2023. Most popular hashtags: #comedian #comedy #quarantine #podcast.
 platform: Instagram
 hits: 22
 text_top: Discover the most popular Instagram profiles on inBeat.

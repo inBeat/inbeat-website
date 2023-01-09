@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Switzerland In 2022
+title: Top 10 Illustrators Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top illustrators Instagram influencers in Switzerland in 2022. Most popular hashtags: #illustration #illustrator #procreate.
+  Find top illustrators Instagram influencers in Switzerland in 2023. Most popular hashtags: #illustration #illustrator #procreate.
 platform: Instagram
 hits: 18
 text_top: See the top-rated Instagram accounts on inBeat.

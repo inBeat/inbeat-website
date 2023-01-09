@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Toronto In 2022
+title: Top 10 TikTok Influencers In Toronto in 2023
 description: >-
-  Find top TikTok influencers in Toronto in 2022. Most popular hashtags: #fyp #foryoupage #foryou #toronto.
+  Find top TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryoupage #foryou #toronto.
 platform: TikTok
 hits: 1016
 text_top: Analyze the best TikTok influencers on inBeat.

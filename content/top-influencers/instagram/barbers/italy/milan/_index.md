@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Milan In 2022
+title: Top 10 Barbers Instagram Influencers In Milan in 2023
 description: >-
-  Find top barbers Instagram influencers in Milan in 2022. Most popular hashtags: #barber #milano #model #love.
+  Find top barbers Instagram influencers in Milan in 2023. Most popular hashtags: #barber #milano #model #love.
 platform: Instagram
 hits: 25
 text_top: Discover the top-rated Instagram accounts on inBeat.

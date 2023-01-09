@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Ireland In 2022
+title: Top 10 Travel TikTok Influencers In Ireland in 2023
 description: >-
-  Find top travel TikTok influencers in Ireland in 2022. Most popular hashtags: #travel #ireland #fyp #foryoupage.
+  Find top travel TikTok influencers in Ireland in 2023. Most popular hashtags: #travel #ireland #fyp #foryoupage.
 platform: TikTok
 hits: 26
 text_top: Discover the top-rated TikTok accounts on inBeat.

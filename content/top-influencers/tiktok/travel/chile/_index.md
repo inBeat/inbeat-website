@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chile In 2022
+title: Top 10 Travel TikTok Influencers In Chile in 2023
 description: >-
-  Find top travel TikTok influencers in Chile in 2022. Most popular hashtags: #travel #chile #parati #foryou.
+  Find top travel TikTok influencers in Chile in 2023. Most popular hashtags: #travel #chile #parati #foryou.
 platform: TikTok
 hits: 29
 text_top: Analyze the top-rated TikTok accounts on inBeat.

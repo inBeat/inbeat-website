@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Turkey In 2022
+title: Top 10 Instagram Influencers In Turkey in 2023
 description: >-
-  Find top Instagram influencers in Turkey in 2022. Most popular hashtags: #stayhome #evdekal #evdekalt.
+  Find top Instagram influencers in Turkey in 2023. Most popular hashtags: #stayhome #evdekal #evdekalt.
 platform: Instagram
 hits: 15318
 text_top: Analyze the most popular Instagram profiles on inBeat.

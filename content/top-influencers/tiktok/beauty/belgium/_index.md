@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Belgium In 2022
+title: Top 10 Beauty TikTok Influencers In Belgium in 2023
 description: >-
-  Find top beauty TikTok influencers in Belgium in 2022. Most popular hashtags: #foryou #fyp #foryoupage #funny.
+  Find top beauty TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #foryoupage #funny.
 platform: TikTok
 hits: 29
 text_top: Identify the most popular TikTok profiles on inBeat.

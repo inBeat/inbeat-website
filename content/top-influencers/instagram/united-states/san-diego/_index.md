@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In San Diego In 2022
+title: Top 10 Instagram Influencers In San Diego in 2023
 description: >-
-  Find top Instagram influencers in San Diego in 2022. Most popular hashtags: #ad #thecassaraexperience #visitcarlsbad.
+  Find top Instagram influencers in San Diego in 2023. Most popular hashtags: #ad #thecassaraexperience #visitcarlsbad.
 platform: Instagram
 hits: 2063
 text_top: See the top-rated Instagram influencers on inBeat.

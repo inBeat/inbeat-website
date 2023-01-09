@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Konya In 2022
+title: Top 10 Instagram Influencers In Konya in 2023
 description: >-
-  Find top Instagram influencers in Konya in 2022. Most popular hashtags: #konya #tbt #mevlana.
+  Find top Instagram influencers in Konya in 2023. Most popular hashtags: #konya #tbt #mevlana.
 platform: Instagram
 hits: 300
 text_top: Identify the most popular Instagram accounts on inBeat.

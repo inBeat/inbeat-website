@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Miami In 2022
+title: Top 10 Barbers Instagram Influencers In Miami in 2023
 description: >-
-  Find top barbers Instagram influencers in Miami in 2022. Most popular hashtags: #fade #barber #haircut #barbershopconnect.
+  Find top barbers Instagram influencers in Miami in 2023. Most popular hashtags: #fade #barber #haircut #barbershopconnect.
 platform: Instagram
 hits: 59
 text_top: Identify the most popular Instagram accounts on inBeat.

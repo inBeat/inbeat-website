@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Austin In 2022
+title: Top 10 Christian TikTok Influencers In Austin in 2023
 description: >-
-  Find top christian TikTok influencers in Austin in 2022. Most popular hashtags: #christian #duet #fyp #jesus.
+  Find top christian TikTok influencers in Austin in 2023. Most popular hashtags: #christian #duet #fyp #jesus.
 platform: TikTok
 hits: 56
 text_top: Discover the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Rio De Janeiro In 2022
+title: Top 10 Photographers Instagram Influencers In Rio De Janeiro in 2023
 description: >-
-  Find top photographers Instagram influencers in Rio De Janeiro in 2022. Most popular hashtags: #riodejaneiro #brazil #photography.
+  Find top photographers Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #riodejaneiro #brazil #photography.
 platform: Instagram
 hits: 17
 text_top: Discover the best Instagram profiles on inBeat.

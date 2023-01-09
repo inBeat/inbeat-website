@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Tokyo In 2022
+title: Top 10 Lifestyle Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Tokyo in 2022. Most popular hashtags: #japan #tokyo #japantravel #visitjapan.
+  Find top lifestyle Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #tokyo #japantravel #visitjapan.
 platform: Instagram
 hits: 55
 text_top: See the best Instagram profiles on inBeat.

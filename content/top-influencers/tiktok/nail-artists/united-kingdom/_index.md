@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In United Kingdom In 2022
+title: Top 10 Nail Artists TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top nail artists TikTok influencers in United Kingdom in 2022. Most popular hashtags: #nails #nailart #foryoupage #fyp.
+  Find top nail artists TikTok influencers in United Kingdom in 2023. Most popular hashtags: #nails #nailart #foryoupage #fyp.
 platform: TikTok
 hits: 22
 text_top: Analyze the top-rated TikTok profiles on inBeat.

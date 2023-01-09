@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Canada In 2022
+title: Top 10 Makeup TikTok Influencers In Canada in 2023
 description: >-
-  Find top makeup TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #happyhalloween #halloween2020 #halloween.
+  Find top makeup TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #happyhalloween #halloween2020 #halloween.
 platform: TikTok
 hits: 877
 text_top: Discover the top-rated TikTok profiles on inBeat.

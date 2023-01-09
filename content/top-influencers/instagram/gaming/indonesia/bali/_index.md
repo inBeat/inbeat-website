@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Bali In 2022
+title: Top 10 Gaming Instagram Influencers In Bali in 2023
 description: >-
-  Find top gaming Instagram influencers in Bali in 2022. Most popular hashtags: #bali #ngakak #lucu #jakarta.
+  Find top gaming Instagram influencers in Bali in 2023. Most popular hashtags: #bali #ngakak #lucu #jakarta.
 platform: Instagram
 hits: 9
 text_top: See the best Instagram profiles on inBeat.

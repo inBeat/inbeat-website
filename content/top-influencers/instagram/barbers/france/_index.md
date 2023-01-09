@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In France In 2022
+title: Top 10 Barbers Instagram Influencers In France in 2023
 description: >-
-  Find top barbers Instagram influencers in France in 2022. Most popular hashtags: #barber #barbershop #thebarberpost.
+  Find top barbers Instagram influencers in France in 2023. Most popular hashtags: #barber #barbershop #thebarberpost.
 platform: Instagram
 hits: 135
 text_top: Discover the top-rated Instagram influencers on inBeat.

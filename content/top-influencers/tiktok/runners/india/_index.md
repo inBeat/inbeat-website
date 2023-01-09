@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners TikTok Influencers In India In 2022
+title: Top 10 Runners TikTok Influencers In India in 2023
 description: >-
-  Find top runners TikTok influencers in India in 2022. Most popular hashtags: #foryou #runner #army #tiktokindia.
+  Find top runners TikTok influencers in India in 2023. Most popular hashtags: #foryou #runner #army #tiktokindia.
 platform: TikTok
 hits: 25
 text_top: Analyze the best TikTok accounts on inBeat.

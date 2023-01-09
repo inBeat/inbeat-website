@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Switzerland In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Switzerland in 2022. Most popular hashtags: #bodybuilding #fitness #motivation #fitnessmodel.
+  Find top bodybuilding Instagram influencers in Switzerland in 2023. Most popular hashtags: #bodybuilding #fitness #motivation #fitnessmodel.
 platform: Instagram
 hits: 33
 text_top: Analyze the best Instagram profiles on inBeat.

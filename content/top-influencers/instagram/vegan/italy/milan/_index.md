@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Milan In 2022
+title: Top 10 Vegan Instagram Influencers In Milan in 2023
 description: >-
-  Find top vegan Instagram influencers in Milan in 2022. Most popular hashtags: #vegan #milano #love #milan.
+  Find top vegan Instagram influencers in Milan in 2023. Most popular hashtags: #vegan #milano #love #milan.
 platform: Instagram
 hits: 48
 text_top: Discover the most popular Instagram accounts on inBeat.

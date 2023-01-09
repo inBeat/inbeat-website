@@ -1,7 +1,7 @@
 ---
-title: Top 10 Guitar TikTok Influencers In United Kingdom In 2022
+title: Top 10 Guitar TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top guitar TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #guitarist #guitar #foryou.
+  Find top guitar TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #guitarist #guitar #foryou.
 platform: TikTok
 hits: 125
 text_top: Identify the best TikTok profiles on inBeat.

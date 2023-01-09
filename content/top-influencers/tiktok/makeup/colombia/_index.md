@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Colombia In 2022
+title: Top 10 Makeup TikTok Influencers In Colombia in 2023
 description: >-
-  Find top makeup TikTok influencers in Colombia in 2022. Most popular hashtags: #makeup #parati #colombia #maquillaje.
+  Find top makeup TikTok influencers in Colombia in 2023. Most popular hashtags: #makeup #parati #colombia #maquillaje.
 platform: TikTok
 hits: 82
 text_top: Discover the top-rated TikTok profiles on inBeat.

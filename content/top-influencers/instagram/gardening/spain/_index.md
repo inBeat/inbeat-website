@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Spain In 2022
+title: Top 10 Gardening Instagram Influencers In Spain in 2023
 description: >-
-  Find top gardening Instagram influencers in Spain in 2022. Most popular hashtags: #nature #gardening #love #plants.
+  Find top gardening Instagram influencers in Spain in 2023. Most popular hashtags: #nature #gardening #love #plants.
 platform: Instagram
 hits: 10
 text_top: See the most popular Instagram accounts on inBeat.

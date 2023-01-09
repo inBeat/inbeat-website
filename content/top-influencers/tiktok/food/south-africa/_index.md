@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In South Africa In 2022
+title: Top 10 Food TikTok Influencers In South Africa in 2023
 description: >-
-  Find top food TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #viral #food #foryoupage.
+  Find top food TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #viral #food #foryoupage.
 platform: TikTok
 hits: 56
 text_top: Discover the top-rated TikTok accounts on inBeat.
@@ -123,7 +123,7 @@ profiles:
     location: "South Africa"
     followers: 14300
     engagement: 2222
-    commentsToLikes: 0.022022
+    commentsToLikes: 0.022023
     id: ckbf6r9g6wffi0j23e3u76upp
     verified: false
     hashtags: "#liketoseemore, #kamoblackskits, #stay, #kamoskits"

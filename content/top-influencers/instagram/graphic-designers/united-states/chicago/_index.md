@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Chicago In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Chicago in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Chicago in 2022. Most popular hashtags: #chicago #losangeles #lakers #nba.
+  Find top graphic-designers Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #losangeles #lakers #nba.
 platform: Instagram
 hits: 21
 text_top: See the most popular Instagram influencers on inBeat.

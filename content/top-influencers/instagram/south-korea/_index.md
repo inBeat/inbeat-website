@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In South Korea In 2022
+title: Top 10 Instagram Influencers In South Korea in 2023
 description: >-
-  Find top Instagram influencers in South Korea in 2022. Most popular hashtags: #kai #superm #ad.
+  Find top Instagram influencers in South Korea in 2023. Most popular hashtags: #kai #superm #ad.
 platform: Instagram
 hits: 4889
 text_top: See the most popular Instagram influencers on inBeat.

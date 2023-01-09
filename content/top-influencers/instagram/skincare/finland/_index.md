@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Finland In 2022
+title: Top 10 Skincare Instagram Influencers In Finland in 2023
 description: >-
-  Find top skincare Instagram influencers in Finland in 2022. Most popular hashtags: #skincare #makeup #helsinki #skincareroutine.
+  Find top skincare Instagram influencers in Finland in 2023. Most popular hashtags: #skincare #makeup #helsinki #skincareroutine.
 platform: Instagram
 hits: 19
 text_top: Discover the top-rated Instagram profiles on inBeat.

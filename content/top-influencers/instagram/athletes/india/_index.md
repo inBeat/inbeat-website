@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In India In 2022
+title: Top 10 Athletes Instagram Influencers In India in 2023
 description: >-
-  Find top athletes Instagram influencers in India in 2022. Most popular hashtags: #fitness #fashion #ootd.
+  Find top athletes Instagram influencers in India in 2023. Most popular hashtags: #fitness #fashion #ootd.
 platform: Instagram
 hits: 265
 text_top: Discover the best Instagram profiles on inBeat.

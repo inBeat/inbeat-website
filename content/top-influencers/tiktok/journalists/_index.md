@@ -1,7 +1,7 @@
 ---
-title: Top 10 Journalists TikTok Influencers In 2022
+title: Top 10 Journalists TikTok Influencers in 2023
 description: >-
-  Find top journalists TikTok influencers in 2022. Most popular hashtags: #biden #nepali #duet.
+  Find top journalists TikTok influencers in 2023. Most popular hashtags: #biden #nepali #duet.
 platform: TikTok
 hits: 117
 text_top: Analyze the top-rated TikTok accounts on inBeat.

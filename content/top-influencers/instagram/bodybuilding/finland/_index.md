@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Finland In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Finland in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Finland in 2022. Most popular hashtags: #bodybuilding #fitness #ifbb #finland.
+  Find top bodybuilding Instagram influencers in Finland in 2023. Most popular hashtags: #bodybuilding #fitness #ifbb #finland.
 platform: Instagram
 hits: 10
 text_top: See the best Instagram accounts on inBeat.

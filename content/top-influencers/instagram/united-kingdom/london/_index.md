@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In London In 2022
+title: Top 10 Instagram Influencers In London in 2023
 description: >-
-  Find top Instagram influencers in London in 2022. Most popular hashtags: #london #streetwear #art.
+  Find top Instagram influencers in London in 2023. Most popular hashtags: #london #streetwear #art.
 platform: Instagram
 hits: 7096
 text_top: Discover the best Instagram accounts on inBeat.

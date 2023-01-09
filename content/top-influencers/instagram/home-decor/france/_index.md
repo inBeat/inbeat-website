@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In France In 2022
+title: Top 10 Home Decor Instagram Influencers In France in 2023
 description: >-
-  Find top home decor Instagram influencers in France in 2022. Most popular hashtags: #homedecor #homesweethome #deco #decoration.
+  Find top home decor Instagram influencers in France in 2023. Most popular hashtags: #homedecor #homesweethome #deco #decoration.
 platform: Instagram
 hits: 571
 text_top: Analyze the top-rated Instagram accounts on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       || Audrey & Lana ||
     bio: >-
-      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2022) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
+      • Ma vie de maman ♾ ♡ Lana 6 ans ♡ Bébé (avril 2023) • Strasbourg, 🇫🇷 #kids #family #fashion #homedecor Lien direct 🔛
     location: "France"
     followers: 19795
     engagement: 557

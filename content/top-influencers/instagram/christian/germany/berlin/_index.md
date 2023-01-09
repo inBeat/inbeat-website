@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Berlin In 2022
+title: Top 10 Christian Instagram Influencers In Berlin in 2023
 description: >-
-  Find top christian Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #selfie #sport.
+  Find top christian Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #selfie #sport.
 platform: Instagram
 hits: 65
 text_top: Discover the best Instagram accounts on inBeat.

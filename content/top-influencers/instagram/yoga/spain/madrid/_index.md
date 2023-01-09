@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Madrid In 2022
+title: Top 10 Yoga Instagram Influencers In Madrid in 2023
 description: >-
-  Find top yoga Instagram influencers in Madrid in 2022. Most popular hashtags: #yoga #madrid #yogapractice #yogaonline.
+  Find top yoga Instagram influencers in Madrid in 2023. Most popular hashtags: #yoga #madrid #yogapractice #yogaonline.
 platform: Instagram
 hits: 37
 text_top: Analyze the most popular Instagram influencers on inBeat.

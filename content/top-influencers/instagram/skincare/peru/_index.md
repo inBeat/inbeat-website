@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Peru In 2022
+title: Top 10 Skincare Instagram Influencers In Peru in 2023
 description: >-
-  Find top skincare Instagram influencers in Peru in 2022. Most popular hashtags: #skincare #makeup #peru #beauty.
+  Find top skincare Instagram influencers in Peru in 2023. Most popular hashtags: #skincare #makeup #peru #beauty.
 platform: Instagram
 hits: 12
 text_top: Analyze the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In United Arab Emirates In 2022
+title: Top 10 Health TikTok Influencers In United Arab Emirates in 2023
 description: >-
-  Find top health TikTok influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #healthy #love #mydubai.
+  Find top health TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #healthy #love #mydubai.
 platform: TikTok
 hits: 33
 text_top: See the top-rated TikTok accounts on inBeat.

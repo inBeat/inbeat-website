@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In United States In 2022
+title: Top 10 Painters TikTok Influencers In United States in 2023
 description: >-
-  Find top painters TikTok influencers in United States in 2022. Most popular hashtags: #fyp #painting #welldone.
+  Find top painters TikTok influencers in United States in 2023. Most popular hashtags: #fyp #painting #welldone.
 platform: TikTok
 hits: 832
 text_top: Analyze the most popular TikTok influencers on inBeat.

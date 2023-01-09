@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Argentina In 2022
+title: Top 10 Dancers TikTok Influencers In Argentina in 2023
 description: >-
-  Find top dancers TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #dancer #fyp #dance.
+  Find top dancers TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #dancer #fyp #dance.
 platform: TikTok
 hits: 20
 text_top: Discover the most popular TikTok influencers on inBeat.

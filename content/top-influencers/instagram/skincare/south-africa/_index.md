@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In South Africa In 2022
+title: Top 10 Skincare Instagram Influencers In South Africa in 2023
 description: >-
-  Find top skincare Instagram influencers in South Africa in 2022. Most popular hashtags: #skincare #southafrica #skin #kbeauty.
+  Find top skincare Instagram influencers in South Africa in 2023. Most popular hashtags: #skincare #southafrica #skin #kbeauty.
 platform: Instagram
 hits: 68
 text_top: See the best Instagram influencers on inBeat.

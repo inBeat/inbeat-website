@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In United Kingdom In 2022
+title: Top 10 Boxers Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top boxers Instagram influencers in United Kingdom in 2022. Most popular hashtags: #boxing #workout #training.
+  Find top boxers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #boxing #workout #training.
 platform: Instagram
 hits: 120
 text_top: Discover the most popular Instagram profiles on inBeat.

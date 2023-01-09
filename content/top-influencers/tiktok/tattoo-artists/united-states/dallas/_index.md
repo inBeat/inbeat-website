@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Dallas In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Dallas in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #duet #tattoo #foryou.
+  Find top tattoo-artists TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #tattoo #foryou.
 platform: TikTok
 hits: 6
 text_top: See the top-rated TikTok profiles on inBeat.

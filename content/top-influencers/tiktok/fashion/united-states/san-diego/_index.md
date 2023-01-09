@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In San Diego In 2022
+title: Top 10 Fashion TikTok Influencers In San Diego in 2023
 description: >-
-  Find top fashion TikTok influencers in San Diego in 2022. Most popular hashtags: #fyp #fashion #foryoupage #viral.
+  Find top fashion TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #fashion #foryoupage #viral.
 platform: TikTok
 hits: 36
 text_top: Identify the best TikTok profiles on inBeat.

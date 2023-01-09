@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In United States In 2022
+title: Top 10 Illustrators TikTok Influencers In United States in 2023
 description: >-
-  Find top illustrators TikTok influencers in United States in 2022. Most popular hashtags: #fyp #drawing #art #artist.
+  Find top illustrators TikTok influencers in United States in 2023. Most popular hashtags: #fyp #drawing #art #artist.
 platform: TikTok
 hits: 82
 text_top: See the best TikTok influencers on inBeat.

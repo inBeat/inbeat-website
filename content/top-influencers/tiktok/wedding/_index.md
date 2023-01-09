@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wedding TikTok Influencers In 2022
+title: Top 10 Wedding TikTok Influencers in 2023
 description: >-
-  Find top wedding TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #comedy #duet.
+  Find top wedding TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #comedy #duet.
 platform: TikTok
 hits: 2933
 text_top: Analyze the most popular TikTok profiles on inBeat.

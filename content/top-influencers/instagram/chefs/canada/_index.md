@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Canada In 2022
+title: Top 10 Chefs Instagram Influencers In Canada in 2023
 description: >-
-  Find top chefs Instagram influencers in Canada in 2022. Most popular hashtags: #sponsored #foodphotography #campeveryday.
+  Find top chefs Instagram influencers in Canada in 2023. Most popular hashtags: #sponsored #foodphotography #campeveryday.
 platform: Instagram
 hits: 121
 text_top: Identify the top-rated Instagram influencers on inBeat.

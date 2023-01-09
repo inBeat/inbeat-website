@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening TikTok Influencers In New York In 2022
+title: Top 10 Gardening TikTok Influencers In New York in 2023
 description: >-
-  Find top gardening TikTok influencers in New York in 2022. Most popular hashtags: #fyp #gardening #plants #newyork.
+  Find top gardening TikTok influencers in New York in 2023. Most popular hashtags: #fyp #gardening #plants #newyork.
 platform: TikTok
 hits: 7
 text_top: Identify the best TikTok profiles on inBeat.

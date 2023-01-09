@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In France In 2022
+title: Top 10 Stylists TikTok Influencers In France in 2023
 description: >-
-  Find top stylists TikTok influencers in France in 2022. Most popular hashtags: #foryou #pourtoi #mode #fashion.
+  Find top stylists TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #mode #fashion.
 platform: TikTok
 hits: 12
 text_top: Identify the most popular TikTok influencers on inBeat.

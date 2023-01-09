@@ -1,7 +1,7 @@
 ---
-title: Top 10 Scrapbooking Instagram Influencers In 2022
+title: Top 10 Scrapbooking Instagram Influencers in 2023
 description: >-
-  Find top scrapbooking Instagram influencers in 2022. Most popular hashtags: #scrap #scrapbooking #scrapbook #cardmaking.
+  Find top scrapbooking Instagram influencers in 2023. Most popular hashtags: #scrap #scrapbooking #scrapbook #cardmaking.
 platform: Instagram
 hits: 233
 text_top: See the top-rated Instagram accounts on inBeat.

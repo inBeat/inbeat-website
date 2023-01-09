@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Poland In 2022
+title: Top 10 Dancers Instagram Influencers In Poland in 2023
 description: >-
-  Find top dancers Instagram influencers in Poland in 2022. Most popular hashtags: #polishgirl #model #poland #warsaw.
+  Find top dancers Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #model #poland #warsaw.
 platform: Instagram
 hits: 142
 text_top: Analyze the most popular Instagram accounts on inBeat.

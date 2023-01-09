@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In New York In 2022
+title: Top 10 Mothers Instagram Influencers In New York in 2023
 description: >-
-  Find top mothers Instagram influencers in New York in 2022. Most popular hashtags: #family #model #fashion.
+  Find top mothers Instagram influencers in New York in 2023. Most popular hashtags: #family #model #fashion.
 platform: Instagram
 hits: 208
 text_top: See the best Instagram accounts on inBeat.

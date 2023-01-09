@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Italy In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Italy in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Italy in 2022. Most popular hashtags: #perte #foryou #neiperte #tattoo.
+  Find top tattoo-artists TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #neiperte #tattoo.
 platform: TikTok
 hits: 10
 text_top: Discover the most popular TikTok profiles on inBeat.

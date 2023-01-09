@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Miami In 2022
+title: Top 10 Gaming TikTok Influencers In Miami in 2023
 description: >-
-  Find top gaming TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #viral #foryou #foryoupage.
+  Find top gaming TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #viral #foryou #foryoupage.
 platform: TikTok
 hits: 21
 text_top: Discover the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Poland In 2022
+title: Top 10 Gardening Instagram Influencers In Poland in 2023
 description: >-
-  Find top gardening Instagram influencers in Poland in 2022. Most popular hashtags: #gardening #gardeninspiration #gardendesign #garden.
+  Find top gardening Instagram influencers in Poland in 2023. Most popular hashtags: #gardening #gardeninspiration #gardendesign #garden.
 platform: Instagram
 hits: 81
 text_top: Identify the top-rated Instagram profiles on inBeat.

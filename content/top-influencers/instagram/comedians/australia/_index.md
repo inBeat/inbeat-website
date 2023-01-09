@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Australia In 2022
+title: Top 10 Comedians Instagram Influencers In Australia in 2023
 description: >-
-  Find top comedians Instagram influencers in Australia in 2022. Most popular hashtags: #comedian #somethingaboutyou #magpie.
+  Find top comedians Instagram influencers in Australia in 2023. Most popular hashtags: #comedian #somethingaboutyou #magpie.
 platform: Instagram
 hits: 28
 text_top: Analyze the top-rated Instagram profiles on inBeat.

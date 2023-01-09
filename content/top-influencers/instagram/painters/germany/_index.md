@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Germany In 2022
+title: Top 10 Painters Instagram Influencers In Germany in 2023
 description: >-
-  Find top painters Instagram influencers in Germany in 2022. Most popular hashtags: #artwork #berlin #art.
+  Find top painters Instagram influencers in Germany in 2023. Most popular hashtags: #artwork #berlin #art.
 platform: Instagram
 hits: 291
 text_top: Discover the top-rated Instagram profiles on inBeat.

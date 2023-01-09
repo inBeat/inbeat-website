@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Hamburg In 2022
+title: Top 10 Health TikTok Influencers In Hamburg in 2023
 description: >-
-  Find top health TikTok influencers in Hamburg in 2022. Most popular hashtags: #foryou #fyp #fy #foryoupage.
+  Find top health TikTok influencers in Hamburg in 2023. Most popular hashtags: #foryou #fyp #fy #foryoupage.
 platform: TikTok
 hits: 4
 text_top: Identify the top-rated TikTok profiles on inBeat.

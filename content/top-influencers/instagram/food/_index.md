@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In 2022
+title: Top 10 Food Instagram Influencers in 2023
 description: >-
-  Find top food Instagram influencers in 2022. Most popular hashtags: #summervibes #summer #travel #streetstyle.
+  Find top food Instagram influencers in 2023. Most popular hashtags: #summervibes #summer #travel #streetstyle.
 platform: Instagram
 hits: 32335
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Turkey In 2022
+title: Top 10 Chefs Instagram Influencers In Turkey in 2023
 description: >-
-  Find top chefs Instagram influencers in Turkey in 2022. Most popular hashtags: #istanbul #today #kahvalt.
+  Find top chefs Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #today #kahvalt.
 platform: Instagram
 hits: 144
 text_top: Identify the top-rated Instagram accounts on inBeat.

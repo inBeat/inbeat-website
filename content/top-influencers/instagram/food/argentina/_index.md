@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Argentina In 2022
+title: Top 10 Food Instagram Influencers In Argentina in 2023
 description: >-
-  Find top food Instagram influencers in Argentina in 2022. Most popular hashtags: #chocolate #foodporn #argentina #comida.
+  Find top food Instagram influencers in Argentina in 2023. Most popular hashtags: #chocolate #foodporn #argentina #comida.
 platform: Instagram
 hits: 227
 text_top: See the top-rated Instagram profiles on inBeat.

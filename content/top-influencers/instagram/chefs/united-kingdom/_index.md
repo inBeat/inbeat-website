@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United Kingdom In 2022
+title: Top 10 Chefs Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top chefs Instagram influencers in United Kingdom in 2022. Most popular hashtags: #blessed #reels #homecooking.
+  Find top chefs Instagram influencers in United Kingdom in 2023. Most popular hashtags: #blessed #reels #homecooking.
 platform: Instagram
 hits: 237
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Greece In 2022
+title: Top 10 Cooking TikTok Influencers In Greece in 2023
 description: >-
-  Find top cooking TikTok influencers in Greece in 2022. Most popular hashtags: #foryou #houseoftiktok #foryoupage #fyp.
+  Find top cooking TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #houseoftiktok #foryoupage #fyp.
 platform: TikTok
 hits: 10
 text_top: Analyze the best TikTok accounts on inBeat.

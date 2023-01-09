@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Berlin In 2022
+title: Top 10 Food TikTok Influencers In Berlin in 2023
 description: >-
-  Find top food TikTok influencers in Berlin in 2022. Most popular hashtags: #fyp #viral #berlin #food.
+  Find top food TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #viral #berlin #food.
 platform: TikTok
 hits: 30
 text_top: Analyze the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Atlanta In 2022
+title: Top 10 Vegan Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2022. Most popular hashtags: #vegan #atlanta #vegansofig #love.
+  Find top vegan Instagram influencers in Atlanta in 2023. Most popular hashtags: #vegan #atlanta #vegansofig #love.
 platform: Instagram
 hits: 63
 text_top: See the top-rated Instagram profiles on inBeat.

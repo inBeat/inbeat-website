@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In San Antonio In 2022
+title: Top 10 Models Instagram Influencers In San Antonio in 2023
 description: >-
-  Find top models Instagram influencers in San Antonio in 2022. Most popular hashtags: #model #texas #sanantonio #austin.
+  Find top models Instagram influencers in San Antonio in 2023. Most popular hashtags: #model #texas #sanantonio #austin.
 platform: Instagram
 hits: 17
 text_top: Identify the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Peru In 2022
+title: Top 10 Bloggers Instagram Influencers In Peru in 2023
 description: >-
-  Find top bloggers Instagram influencers in Peru in 2022. Most popular hashtags: #publicidad #peru #lookoftheday #lima.
+  Find top bloggers Instagram influencers in Peru in 2023. Most popular hashtags: #publicidad #peru #lookoftheday #lima.
 platform: Instagram
 hits: 40
 text_top: Identify the most popular Instagram accounts on inBeat.

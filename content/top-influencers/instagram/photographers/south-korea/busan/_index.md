@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Busan In 2022
+title: Top 10 Photographers Instagram Influencers In Busan in 2023
 description: >-
-  Find top photographers Instagram influencers in Busan in 2022. Most popular hashtags: #busan #korea #seoul.
+  Find top photographers Instagram influencers in Busan in 2023. Most popular hashtags: #busan #korea #seoul.
 platform: Instagram
 hits: 7
 text_top: See the best Instagram profiles on inBeat.

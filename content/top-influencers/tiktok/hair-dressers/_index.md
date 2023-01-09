@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers In 2022
+title: Top 10 Hair Dressers TikTok Influencers in 2023
 description: >-
-  Find top hair dressers TikTok influencers in 2022. Most popular hashtags: #hairdressers #fyp #hair #haircut.
+  Find top hair dressers TikTok influencers in 2023. Most popular hashtags: #hairdressers #fyp #hair #haircut.
 platform: TikTok
 hits: 47
 text_top: Identify the top-rated TikTok accounts on inBeat.

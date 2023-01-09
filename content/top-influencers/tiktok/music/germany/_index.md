@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Germany In 2022
+title: Top 10 Music TikTok Influencers In Germany in 2023
 description: >-
-  Find top music TikTok influencers in Germany in 2022. Most popular hashtags: #foryou #comedy #duett #fy.
+  Find top music TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #comedy #duett #fy.
 platform: TikTok
 hits: 363
 text_top: Analyze the top-rated TikTok profiles on inBeat.

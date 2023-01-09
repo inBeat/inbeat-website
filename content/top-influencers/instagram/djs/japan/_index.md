@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Japan In 2022
+title: Top 10 Djs Instagram Influencers In Japan in 2023
 description: >-
-  Find top djs Instagram influencers in Japan in 2022. Most popular hashtags: #japan #dj #djlife #stayhome.
+  Find top djs Instagram influencers in Japan in 2023. Most popular hashtags: #japan #dj #djlife #stayhome.
 platform: Instagram
 hits: 27
 text_top: Analyze the best Instagram profiles on inBeat.

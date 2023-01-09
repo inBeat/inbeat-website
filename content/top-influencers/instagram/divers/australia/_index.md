@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Australia In 2022
+title: Top 10 Divers Instagram Influencers In Australia in 2023
 description: >-
-  Find top divers Instagram influencers in Australia in 2022. Most popular hashtags: #dancer #australia #crossfit.
+  Find top divers Instagram influencers in Australia in 2023. Most popular hashtags: #dancer #australia #crossfit.
 platform: Instagram
 hits: 98
 text_top: Discover the top-rated Instagram profiles on inBeat.

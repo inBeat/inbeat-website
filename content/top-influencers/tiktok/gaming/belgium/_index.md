@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Belgium In 2022
+title: Top 10 Gaming TikTok Influencers In Belgium in 2023
 description: >-
-  Find top gaming TikTok influencers in Belgium in 2022. Most popular hashtags: #fyp #viral #gaming #pourtoi.
+  Find top gaming TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #viral #gaming #pourtoi.
 platform: TikTok
 hits: 11
 text_top: Identify the best TikTok influencers on inBeat.

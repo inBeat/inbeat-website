@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists TikTok Influencers In Canada In 2022
+title: Top 10 Stylists TikTok Influencers In Canada in 2023
 description: >-
-  Find top stylists TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #stylist #fashion.
+  Find top stylists TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #stylist #fashion.
 platform: TikTok
 hits: 20
 text_top: Analyze the best TikTok profiles on inBeat.

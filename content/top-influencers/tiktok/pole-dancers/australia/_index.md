@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In Australia In 2022
+title: Top 10 Pole Dancers TikTok Influencers In Australia in 2023
 description: >-
-  Find top pole dancers TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #poledancing #polefitness #dancer.
+  Find top pole dancers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #poledancing #polefitness #dancer.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok profiles on inBeat.

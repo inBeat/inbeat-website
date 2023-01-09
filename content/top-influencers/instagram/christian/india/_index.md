@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In India In 2022
+title: Top 10 Christian Instagram Influencers In India in 2023
 description: >-
-  Find top christian Instagram influencers in India in 2022. Most popular hashtags: #love #swag #christian.
+  Find top christian Instagram influencers in India in 2023. Most popular hashtags: #love #swag #christian.
 platform: Instagram
 hits: 255
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Milan In 2022
+title: Top 10 Gaming Instagram Influencers In Milan in 2023
 description: >-
-  Find top gaming Instagram influencers in Milan in 2022. Most popular hashtags: #gaming #gamer #milano #italia.
+  Find top gaming Instagram influencers in Milan in 2023. Most popular hashtags: #gaming #gamer #milano #italia.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram profiles on inBeat.

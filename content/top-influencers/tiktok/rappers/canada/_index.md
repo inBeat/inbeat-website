@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Canada In 2022
+title: Top 10 Rappers TikTok Influencers In Canada in 2023
 description: >-
-  Find top rappers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
+  Find top rappers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage #rapper.
 platform: TikTok
 hits: 59
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In South Africa In 2022
+title: Top 10 Outdoors Instagram Influencers In South Africa in 2023
 description: >-
-  Find top outdoors Instagram influencers in South Africa in 2022. Most popular hashtags: #ocean #capetown #outdoors #southafrica.
+  Find top outdoors Instagram influencers in South Africa in 2023. Most popular hashtags: #ocean #capetown #outdoors #southafrica.
 platform: Instagram
 hits: 61
 text_top: See the best Instagram profiles on inBeat.

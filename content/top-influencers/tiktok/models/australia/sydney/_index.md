@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Sydney In 2022
+title: Top 10 Models TikTok Influencers In Sydney in 2023
 description: >-
-  Find top models TikTok influencers in Sydney in 2022. Most popular hashtags: #sydney #fyp #model #foryou.
+  Find top models TikTok influencers in Sydney in 2023. Most popular hashtags: #sydney #fyp #model #foryou.
 platform: TikTok
 hits: 14
 text_top: Identify the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In New York In 2022
+title: Top 10 Photographers Instagram Influencers In New York in 2023
 description: >-
-  Find top photographers Instagram influencers in New York in 2022. Most popular hashtags: #naturalhair #littlebootiesmatter #melanin.
+  Find top photographers Instagram influencers in New York in 2023. Most popular hashtags: #naturalhair #littlebootiesmatter #melanin.
 platform: Instagram
 hits: 735
 text_top: Analyze the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Germany In 2022
+title: Top 10 Skincare TikTok Influencers In Germany in 2023
 description: >-
-  Find top skincare TikTok influencers in Germany in 2022. Most popular hashtags: #skincare #foryou #fyp #foryoupage.
+  Find top skincare TikTok influencers in Germany in 2023. Most popular hashtags: #skincare #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 54
 text_top: See the most popular TikTok accounts on inBeat.

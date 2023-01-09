@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Russia In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Russia in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Russia in 2022. Most popular hashtags: #tattoo #portrait #realistictattoo.
+  Find top tattoo-artists Instagram influencers in Russia in 2023. Most popular hashtags: #tattoo #portrait #realistictattoo.
 platform: Instagram
 hits: 155
 text_top: Discover the most popular Instagram accounts on inBeat.

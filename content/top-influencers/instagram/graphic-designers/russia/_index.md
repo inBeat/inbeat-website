@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Russia In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Russia in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Russia in 2022. Most popular hashtags: #nature #wildlife #artwork.
+  Find top graphic-designers Instagram influencers in Russia in 2023. Most popular hashtags: #nature #wildlife #artwork.
 platform: Instagram
 hits: 43
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Chicago In 2022
+title: Top 10 Rappers TikTok Influencers In Chicago in 2023
 description: >-
-  Find top rappers TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
+  Find top rappers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryoupage #foryou #chicago.
 platform: TikTok
 hits: 16
 text_top: Identify the top-rated TikTok profiles on inBeat.

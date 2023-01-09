@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In India In 2022
+title: Top 10 Gardening Instagram Influencers In India in 2023
 description: >-
-  Find top gardening Instagram influencers in India in 2022. Most popular hashtags: #gardening #nature #instagood #instadaily.
+  Find top gardening Instagram influencers in India in 2023. Most popular hashtags: #gardening #nature #instagood #instadaily.
 platform: Instagram
 hits: 80
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Greece In 2022
+title: Top 10 Cooking Instagram Influencers In Greece in 2023
 description: >-
-  Find top cooking Instagram influencers in Greece in 2022. Most popular hashtags: #cooking #foodporn #instafood #foodstagram.
+  Find top cooking Instagram influencers in Greece in 2023. Most popular hashtags: #cooking #foodporn #instafood #foodstagram.
 platform: Instagram
 hits: 83
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Sydney In 2022
+title: Top 10 Vegan TikTok Influencers In Sydney in 2023
 description: >-
-  Find top vegan TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #vegan #food #veganfood.
+  Find top vegan TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #vegan #food #veganfood.
 platform: TikTok
 hits: 6
 text_top: See the best TikTok profiles on inBeat.

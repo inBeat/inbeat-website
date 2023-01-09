@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United Kingdom In 2022
+title: Top 10 Nutrition Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top nutrition Instagram influencers in United Kingdom in 2022. Most popular hashtags: #gains #girlswholift #gifted.
+  Find top nutrition Instagram influencers in United Kingdom in 2023. Most popular hashtags: #gains #girlswholift #gifted.
 platform: Instagram
 hits: 279
 text_top: Identify the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Canada In 2022
+title: Top 10 Food Instagram Influencers In Canada in 2023
 description: >-
-  Find top food Instagram influencers in Canada in 2022. Most popular hashtags: #selfie #nature #fall.
+  Find top food Instagram influencers in Canada in 2023. Most popular hashtags: #selfie #nature #fall.
 platform: Instagram
 hits: 878
 text_top: See the top-rated Instagram accounts on inBeat.

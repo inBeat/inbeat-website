@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Switzerland In 2022
+title: Top 10 Painters Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top painters Instagram influencers in Switzerland in 2022. Most popular hashtags: #contemporaryart #abstractart #abstractpainting #abstractartist.
+  Find top painters Instagram influencers in Switzerland in 2023. Most popular hashtags: #contemporaryart #abstractart #abstractpainting #abstractartist.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram influencers on inBeat.

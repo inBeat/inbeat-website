@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Brazil In 2022
+title: Top 10 Skincare Instagram Influencers In Brazil in 2023
 description: >-
-  Find top skincare Instagram influencers in Brazil in 2022. Most popular hashtags: #blogger #skincare #cacheadas.
+  Find top skincare Instagram influencers in Brazil in 2023. Most popular hashtags: #blogger #skincare #cacheadas.
 platform: Instagram
 hits: 806
 text_top: See the most popular Instagram accounts on inBeat.

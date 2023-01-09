@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Berlin In 2022
+title: Top 10 Makeup Instagram Influencers In Berlin in 2023
 description: >-
-  Find top makeup Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #makeup #fashion #autumn.
+  Find top makeup Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #makeup #fashion #autumn.
 platform: Instagram
 hits: 373
 text_top: Analyze the best Instagram accounts on inBeat.

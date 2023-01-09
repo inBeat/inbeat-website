@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Brazil In 2022
+title: Top 10 Wellness Instagram Influencers In Brazil in 2023
 description: >-
-  Find top wellness Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #fitness #bodybuilding.
+  Find top wellness Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #fitness #bodybuilding.
 platform: Instagram
 hits: 188
 text_top: See the best Instagram influencers on inBeat.

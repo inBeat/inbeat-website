@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Seattle In 2022
+title: Top 10 Health Instagram Influencers In Seattle in 2023
 description: >-
-  Find top health Instagram influencers in Seattle in 2022. Most popular hashtags: #seattle #fitness #health.
+  Find top health Instagram influencers in Seattle in 2023. Most popular hashtags: #seattle #fitness #health.
 platform: Instagram
 hits: 60
 text_top: Analyze the most popular Instagram profiles on inBeat.

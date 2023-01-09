@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Seattle In 2022
+title: Top 10 Nutrition Instagram Influencers In Seattle in 2023
 description: >-
-  Find top nutrition Instagram influencers in Seattle in 2022. Most popular hashtags: #nutrition #seattle #healthyfood #plantbased.
+  Find top nutrition Instagram influencers in Seattle in 2023. Most popular hashtags: #nutrition #seattle #healthyfood #plantbased.
 platform: Instagram
 hits: 15
 text_top: Discover the most popular Instagram profiles on inBeat.

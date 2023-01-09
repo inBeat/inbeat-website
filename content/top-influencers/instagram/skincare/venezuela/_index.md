@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Venezuela In 2022
+title: Top 10 Skincare Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top skincare Instagram influencers in Venezuela in 2022. Most popular hashtags: #skincare #venezuela #makeup #cuarentena.
+  Find top skincare Instagram influencers in Venezuela in 2023. Most popular hashtags: #skincare #venezuela #makeup #cuarentena.
 platform: Instagram
 hits: 22
 text_top: Discover the top-rated Instagram accounts on inBeat.

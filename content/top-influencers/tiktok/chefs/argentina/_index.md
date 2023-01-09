@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In Argentina In 2022
+title: Top 10 Chefs TikTok Influencers In Argentina in 2023
 description: >-
-  Find top chefs TikTok influencers in Argentina in 2022. Most popular hashtags: #parati #fyp #viral #foryou.
+  Find top chefs TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #fyp #viral #foryou.
 platform: TikTok
 hits: 9
 text_top: See the best TikTok accounts on inBeat.

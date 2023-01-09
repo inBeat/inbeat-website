@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Chile In 2022
+title: Top 10 Makeup Instagram Influencers In Chile in 2023
 description: >-
-  Find top makeup Instagram influencers in Chile in 2022. Most popular hashtags: #makeupchile #makeupartist #halloweenmakeup #makeup.
+  Find top makeup Instagram influencers in Chile in 2023. Most popular hashtags: #makeupchile #makeupartist #halloweenmakeup #makeup.
 platform: Instagram
 hits: 200
 text_top: Analyze the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Peru In 2022
+title: Top 10 Travel Instagram Influencers In Peru in 2023
 description: >-
-  Find top travel Instagram influencers in Peru in 2022. Most popular hashtags: #peru #travel #lima #visitperu.
+  Find top travel Instagram influencers in Peru in 2023. Most popular hashtags: #peru #travel #lima #visitperu.
 platform: Instagram
 hits: 130
 text_top: Analyze the best Instagram profiles on inBeat.

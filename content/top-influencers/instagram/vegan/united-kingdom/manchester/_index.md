@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Manchester In 2022
+title: Top 10 Vegan Instagram Influencers In Manchester in 2023
 description: >-
-  Find top vegan Instagram influencers in Manchester in 2022. Most popular hashtags: #vegan #whatveganseat #foodporn #vegansofig.
+  Find top vegan Instagram influencers in Manchester in 2023. Most popular hashtags: #vegan #whatveganseat #foodporn #vegansofig.
 platform: Instagram
 hits: 35
 text_top: See the most popular Instagram influencers on inBeat.

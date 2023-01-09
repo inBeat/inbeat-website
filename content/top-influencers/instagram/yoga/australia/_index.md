@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Australia In 2022
+title: Top 10 Yoga Instagram Influencers In Australia in 2023
 description: >-
-  Find top yoga Instagram influencers in Australia in 2022. Most popular hashtags: #yogagram #yoga #igyoga.
+  Find top yoga Instagram influencers in Australia in 2023. Most popular hashtags: #yogagram #yoga #igyoga.
 platform: Instagram
 hits: 186
 text_top: Identify the top-rated Instagram accounts on inBeat.
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.087504
     id: ck0tzgrzjqd5y0i19c5egbdw8
     verified: false
-    hashtags: "#dueapril2022, #vanlife, #cabaritabeach, #cabrita"
+    hashtags: "#dueapril2023, #vanlife, #cabaritabeach, #cabrita"
   - username: "patti.sebastiao"
     fullname: >-
       Patti

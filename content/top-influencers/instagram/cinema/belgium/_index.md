@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Belgium In 2022
+title: Top 10 Cinema Instagram Influencers In Belgium in 2023
 description: >-
-  Find top cinema Instagram influencers in Belgium in 2022. Most popular hashtags: #belgium #art #brussels #belgique.
+  Find top cinema Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #art #brussels #belgique.
 platform: Instagram
 hits: 11
 text_top: See the most popular Instagram accounts on inBeat.

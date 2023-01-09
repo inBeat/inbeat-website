@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Ukraine In 2022
+title: Top 10 Beauty Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top beauty Instagram influencers in Ukraine in 2022. Most popular hashtags: #lookoftheday #odessa #lfc.
+  Find top beauty Instagram influencers in Ukraine in 2023. Most popular hashtags: #lookoftheday #odessa #lfc.
 platform: Instagram
 hits: 528
 text_top: Identify the most popular Instagram accounts on inBeat.

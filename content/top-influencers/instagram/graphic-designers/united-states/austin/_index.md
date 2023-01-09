@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Austin In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In Austin in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in Austin in 2022. Most popular hashtags: #graphicdesign #graphicdesigner #illustration #design.
+  Find top graphic-designers Instagram influencers in Austin in 2023. Most popular hashtags: #graphicdesign #graphicdesigner #illustration #design.
 platform: Instagram
 hits: 18
 text_top: Analyze the top-rated Instagram profiles on inBeat.

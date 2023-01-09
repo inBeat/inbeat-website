@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Greece In 2022
+title: Top 10 Dancers TikTok Influencers In Greece in 2023
 description: >-
-  Find top dancers TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #foryou #foryoupage #viral.
+  Find top dancers TikTok influencers in Greece in 2023. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
 hits: 13
 text_top: Discover the top-rated TikTok profiles on inBeat.
@@ -25,7 +25,7 @@ profiles:
     bio: >-
       Twins! Dancers-Choreographers!Greeks🇬🇷SYTYCD winners ! Gr Got Talent finalists
     location: "Greece"
-    followers: 202200
+    followers: 202300
     engagement: 1411
     commentsToLikes: 0.015891
     id: ck9gko8ahki6r0j784wfosjia

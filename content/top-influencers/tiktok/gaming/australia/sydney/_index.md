@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Sydney In 2022
+title: Top 10 Gaming TikTok Influencers In Sydney in 2023
 description: >-
-  Find top gaming TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #duet #sydney.
+  Find top gaming TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #foryou #duet #sydney.
 platform: TikTok
 hits: 6
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Germany In 2022
+title: Top 10 Yoga Instagram Influencers In Germany in 2023
 description: >-
-  Find top yoga Instagram influencers in Germany in 2022. Most popular hashtags: #yogachallenge #ecofashion #adidascleanclassics.
+  Find top yoga Instagram influencers in Germany in 2023. Most popular hashtags: #yogachallenge #ecofashion #adidascleanclassics.
 platform: Instagram
 hits: 540
 text_top: Discover the top-rated Instagram profiles on inBeat.

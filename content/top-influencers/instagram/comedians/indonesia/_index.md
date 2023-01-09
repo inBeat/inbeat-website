@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Indonesia In 2022
+title: Top 10 Comedians Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top comedians Instagram influencers in Indonesia in 2022. Most popular hashtags: #tiktok #viral #photoshoot.
+  Find top comedians Instagram influencers in Indonesia in 2023. Most popular hashtags: #tiktok #viral #photoshoot.
 platform: Instagram
 hits: 37
 text_top: Discover the top-rated Instagram profiles on inBeat.

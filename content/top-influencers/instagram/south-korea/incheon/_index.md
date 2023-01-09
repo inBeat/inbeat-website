@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Incheon In 2022
+title: Top 10 Instagram Influencers In Incheon in 2023
 description: >-
-  Find top Instagram influencers in Incheon in 2022. Most popular hashtags: #incheon #seoul #korea #ig.
+  Find top Instagram influencers in Incheon in 2023. Most popular hashtags: #incheon #seoul #korea #ig.
 platform: Instagram
 hits: 17
 text_top: Analyze the top-rated Instagram accounts on inBeat.

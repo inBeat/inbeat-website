@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Russia In 2022
+title: Top 10 Skincare Instagram Influencers In Russia in 2023
 description: >-
-  Find top skincare Instagram influencers in Russia in 2022. Most popular hashtags: #skincare #beauty #makeup #instabeauty.
+  Find top skincare Instagram influencers in Russia in 2023. Most popular hashtags: #skincare #beauty #makeup #instabeauty.
 platform: Instagram
 hits: 54
 text_top: Discover the top-rated Instagram influencers on inBeat.

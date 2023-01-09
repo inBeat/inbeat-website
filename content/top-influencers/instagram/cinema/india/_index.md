@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In India In 2022
+title: Top 10 Cinema Instagram Influencers In India in 2023
 description: >-
-  Find top cinema Instagram influencers in India in 2022. Most popular hashtags: #photography #instagood #india #picoftheday.
+  Find top cinema Instagram influencers in India in 2023. Most popular hashtags: #photography #instagood #india #picoftheday.
 platform: Instagram
 hits: 909
 text_top: Analyze the most popular Instagram influencers on inBeat.

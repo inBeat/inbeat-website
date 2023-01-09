@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Montreal In 2022
+title: Top 10 Health Instagram Influencers In Montreal in 2023
 description: >-
-  Find top health Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #health #fall #canada.
+  Find top health Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #health #fall #canada.
 platform: Instagram
 hits: 35
 text_top: Analyze the top-rated Instagram profiles on inBeat.

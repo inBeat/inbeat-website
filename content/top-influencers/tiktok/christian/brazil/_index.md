@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Brazil In 2022
+title: Top 10 Christian TikTok Influencers In Brazil in 2023
 description: >-
-  Find top christian TikTok influencers in Brazil in 2022. Most popular hashtags: #fy #christian #foryou #fyp.
+  Find top christian TikTok influencers in Brazil in 2023. Most popular hashtags: #fy #christian #foryou #fyp.
 platform: TikTok
 hits: 88
 text_top: See the top-rated TikTok influencers on inBeat.

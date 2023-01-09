@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Izmir In 2022
+title: Top 10 Beauty Instagram Influencers In Izmir in 2023
 description: >-
-  Find top beauty Instagram influencers in Izmir in 2022. Most popular hashtags: #beauty #summer #izmir #nature.
+  Find top beauty Instagram influencers in Izmir in 2023. Most popular hashtags: #beauty #summer #izmir #nature.
 platform: Instagram
 hits: 79
 text_top: Identify the top-rated Instagram profiles on inBeat.

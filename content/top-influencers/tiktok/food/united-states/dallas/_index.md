@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Dallas In 2022
+title: Top 10 Food TikTok Influencers In Dallas in 2023
 description: >-
-  Find top food TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #foryou #foryoupage #food.
+  Find top food TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #foryou #foryoupage #food.
 platform: TikTok
 hits: 55
 text_top: Identify the most popular TikTok profiles on inBeat.

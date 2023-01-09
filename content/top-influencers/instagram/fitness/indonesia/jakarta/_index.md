@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Jakarta In 2022
+title: Top 10 Fitness Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top fitness Instagram influencers in Jakarta in 2022. Most popular hashtags: #fitness #ootd #indonesia #jakarta.
+  Find top fitness Instagram influencers in Jakarta in 2023. Most popular hashtags: #fitness #ootd #indonesia #jakarta.
 platform: Instagram
 hits: 31
 text_top: Analyze the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Switzerland In 2022
+title: Top 10 Rappers Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top rappers Instagram influencers in Switzerland in 2022. Most popular hashtags: #love #switzerland #rapperswil #happy.
+  Find top rappers Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #switzerland #rapperswil #happy.
 platform: Instagram
 hits: 24
 text_top: See the most popular Instagram accounts on inBeat.

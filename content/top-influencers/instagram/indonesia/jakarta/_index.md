@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Jakarta In 2022
+title: Top 10 Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top Instagram influencers in Jakarta in 2022. Most popular hashtags: #lfl #makeup #ootd.
+  Find top Instagram influencers in Jakarta in 2023. Most popular hashtags: #lfl #makeup #ootd.
 platform: Instagram
 hits: 2591
 text_top: Identify the most popular Instagram influencers on inBeat.

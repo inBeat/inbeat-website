@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Medellín In 2022
+title: Top 10 Models Instagram Influencers In Medellín in 2023
 description: >-
-  Find top models Instagram influencers in Medellín in 2022. Most popular hashtags: #model #medellin #colombia #picoftheday.
+  Find top models Instagram influencers in Medellín in 2023. Most popular hashtags: #model #medellin #colombia #picoftheday.
 platform: Instagram
 hits: 69
 text_top: See the top-rated Instagram influencers on inBeat.

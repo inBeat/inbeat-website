@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Miami In 2022
+title: Top 10 Fitness TikTok Influencers In Miami in 2023
 description: >-
-  Find top fitness TikTok influencers in Miami in 2022. Most popular hashtags: #miami #fitness #fyp #foryou.
+  Find top fitness TikTok influencers in Miami in 2023. Most popular hashtags: #miami #fitness #fyp #foryou.
 platform: TikTok
 hits: 85
 text_top: Analyze the best TikTok profiles on inBeat.

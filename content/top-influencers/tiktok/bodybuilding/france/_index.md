@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In France In 2022
+title: Top 10 Bodybuilding TikTok Influencers In France in 2023
 description: >-
-  Find top bodybuilding TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #fitness #bodybuilding.
+  Find top bodybuilding TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fitness #bodybuilding.
 platform: TikTok
 hits: 8
 text_top: Analyze the top-rated TikTok accounts on inBeat.

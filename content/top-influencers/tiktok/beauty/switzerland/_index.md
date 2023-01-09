@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Switzerland In 2022
+title: Top 10 Beauty TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top beauty TikTok influencers in Switzerland in 2022. Most popular hashtags: #beauty #switzerland #fyp #foryou.
+  Find top beauty TikTok influencers in Switzerland in 2023. Most popular hashtags: #beauty #switzerland #fyp #foryou.
 platform: TikTok
 hits: 64
 text_top: Discover the top-rated TikTok profiles on inBeat.
@@ -51,7 +51,7 @@ profiles:
     location: "Switzerland"
     followers: 2571
     engagement: 921
-    commentsToLikes: 0.020226
+    commentsToLikes: 0.020236
     id: ckav6sm8hdm1o0j234uj119gy
     verified: false
     hashtags: "#fashion, #travel, #fy, #greece"

@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Serbia In 2022
+title: Top 10 TikTok Influencers In Serbia in 2023
 description: >-
-  Find top TikTok influencers in Serbia in 2022. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top TikTok influencers in Serbia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #duet.
 platform: TikTok
 hits: 292
 text_top: Identify the best TikTok accounts on inBeat.

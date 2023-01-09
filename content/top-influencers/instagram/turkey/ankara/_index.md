@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Ankara In 2022
+title: Top 10 Instagram Influencers In Ankara in 2023
 description: >-
-  Find top Instagram influencers in Ankara in 2022. Most popular hashtags: #tbt #ankara #mutluluk.
+  Find top Instagram influencers in Ankara in 2023. Most popular hashtags: #tbt #ankara #mutluluk.
 platform: Instagram
 hits: 1248
 text_top: See the most popular Instagram influencers on inBeat.

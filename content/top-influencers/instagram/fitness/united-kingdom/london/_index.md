@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In London In 2022
+title: Top 10 Fitness Instagram Influencers In London in 2023
 description: >-
-  Find top fitness Instagram influencers in London in 2022. Most popular hashtags: #london #fitness #workout #fitnessmotivation.
+  Find top fitness Instagram influencers in London in 2023. Most popular hashtags: #london #fitness #workout #fitnessmotivation.
 platform: Instagram
 hits: 424
 text_top: See the most popular Instagram accounts on inBeat.
@@ -95,7 +95,7 @@ profiles:
     fullname: >-
       'Teysty' Tey Lynn-Jones
     bio: >-
-      🔹Professional Boxer #TTT 🥊 🔹Essex/LDN 🔹Met Police👮🏼‍♂️ #ThinBlueLine ⚫️🔵⚫️ 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2022 👀 🔹MTK FIGHTER👊🏼
+      🔹Professional Boxer #TTT 🥊 🔹Essex/LDN 🔹Met Police👮🏼‍♂️ #ThinBlueLine ⚫️🔵⚫️ 🔹💪🏼🏃🏼‍♂️ #CrossFit #OCR #Running 🔸LondonMarathon2023 👀 🔹MTK FIGHTER👊🏼
     location: "United Kingdom"
     followers: 10156
     engagement: 408

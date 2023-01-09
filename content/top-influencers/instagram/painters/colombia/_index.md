@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Colombia In 2022
+title: Top 10 Painters Instagram Influencers In Colombia in 2023
 description: >-
-  Find top painters Instagram influencers in Colombia in 2022. Most popular hashtags: #pazinterior #gratitud #espiritualidad #colombia.
+  Find top painters Instagram influencers in Colombia in 2023. Most popular hashtags: #pazinterior #gratitud #espiritualidad #colombia.
 platform: Instagram
 hits: 32
 text_top: See the most popular Instagram profiles on inBeat.

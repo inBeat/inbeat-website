@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Morocco In 2022
+title: Top 10 Stylists Instagram Influencers In Morocco in 2023
 description: >-
-  Find top stylists Instagram influencers in Morocco in 2022. Most popular hashtags: #makeup #fashion #fashionblogger #style.
+  Find top stylists Instagram influencers in Morocco in 2023. Most popular hashtags: #makeup #fashion #fashionblogger #style.
 platform: Instagram
 hits: 43
 text_top: Discover the best Instagram profiles on inBeat.

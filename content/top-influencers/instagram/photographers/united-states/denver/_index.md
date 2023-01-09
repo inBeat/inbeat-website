@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Denver In 2022
+title: Top 10 Photographers Instagram Influencers In Denver in 2023
 description: >-
-  Find top photographers Instagram influencers in Denver in 2022. Most popular hashtags: #denver #denverphotographer #photographer.
+  Find top photographers Instagram influencers in Denver in 2023. Most popular hashtags: #denver #denverphotographer #photographer.
 platform: Instagram
 hits: 75
 text_top: Discover the most popular Instagram profiles on inBeat.

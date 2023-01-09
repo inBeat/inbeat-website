@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hair Dressers TikTok Influencers In United States In 2022
+title: Top 10 Hair Dressers TikTok Influencers In United States in 2023
 description: >-
-  Find top hair dressers TikTok influencers in United States in 2022. Most popular hashtags: #hair #fyp #foryou #foryoupage.
+  Find top hair dressers TikTok influencers in United States in 2023. Most popular hashtags: #hair #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 16
 text_top: Analyze the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Spain In 2022
+title: Top 10 Vegan Instagram Influencers In Spain in 2023
 description: >-
-  Find top vegan Instagram influencers in Spain in 2022. Most popular hashtags: #namaste #happy #nature.
+  Find top vegan Instagram influencers in Spain in 2023. Most popular hashtags: #namaste #happy #nature.
 platform: Instagram
 hits: 331
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In India In 2022
+title: Top 10 Chefs Instagram Influencers In India in 2023
 description: >-
-  Find top chefs Instagram influencers in India in 2022. Most popular hashtags: #indianfood #bikelife #bikelovers.
+  Find top chefs Instagram influencers in India in 2023. Most popular hashtags: #indianfood #bikelife #bikelovers.
 platform: Instagram
 hits: 240
 text_top: Identify the top-rated Instagram influencers on inBeat.

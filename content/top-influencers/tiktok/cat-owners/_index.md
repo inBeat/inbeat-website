@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cat Owners TikTok Influencers In 2022
+title: Top 10 Cat Owners TikTok Influencers in 2023
 description: >-
-  Find top cat owners TikTok influencers in 2022. Most popular hashtags: #fyp #duet #foryoupage #xyzbca.
+  Find top cat owners TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryoupage #xyzbca.
 platform: TikTok
 hits: 45
 text_top: Identify the top-rated TikTok accounts on inBeat.

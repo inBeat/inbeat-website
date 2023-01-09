@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Canada In 2022
+title: Top 10 Photographers TikTok Influencers In Canada in 2023
 description: >-
-  Find top photographers TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #greenscreen #photographer.
+  Find top photographers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #greenscreen #photographer.
 platform: TikTok
 hits: 95
 text_top: Analyze the best TikTok influencers on inBeat.

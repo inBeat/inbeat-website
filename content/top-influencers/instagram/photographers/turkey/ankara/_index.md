@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Ankara In 2022
+title: Top 10 Photographers Instagram Influencers In Ankara in 2023
 description: >-
-  Find top photographers Instagram influencers in Ankara in 2022. Most popular hashtags: #ig #turkobjektif #objektifimden #nature.
+  Find top photographers Instagram influencers in Ankara in 2023. Most popular hashtags: #ig #turkobjektif #objektifimden #nature.
 platform: Instagram
 hits: 78
 text_top: Identify the best Instagram influencers on inBeat.

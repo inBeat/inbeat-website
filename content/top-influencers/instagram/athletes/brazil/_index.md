@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Brazil In 2022
+title: Top 10 Athletes Instagram Influencers In Brazil in 2023
 description: >-
-  Find top athletes Instagram influencers in Brazil in 2022. Most popular hashtags: #repost #esporte #brasil.
+  Find top athletes Instagram influencers in Brazil in 2023. Most popular hashtags: #repost #esporte #brasil.
 platform: Instagram
 hits: 205
 text_top: Identify the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Morocco In 2022
+title: Top 10 Photographers Instagram Influencers In Morocco in 2023
 description: >-
-  Find top photographers Instagram influencers in Morocco in 2022. Most popular hashtags: #morocco #photography #visitmorocco #moroccobyyou.
+  Find top photographers Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #photography #visitmorocco #moroccobyyou.
 platform: Instagram
 hits: 77
 text_top: See the best Instagram influencers on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       PeoplePhotography פיפלפוטוגרפי
     bio: >-
-      People Photography•Destination Wedding Photographers Based in Israel 🤍 Peoplepho@gmail.com Booking 2022/2022 #פיפלפוטוגרפי 📞 +972(0)528481481
+      People Photography•Destination Wedding Photographers Based in Israel 🤍 Peoplepho@gmail.com Booking 2023/2023 #פיפלפוטוגרפי 📞 +972(0)528481481
     location: "Morocco"
     followers: 19177
     engagement: 299

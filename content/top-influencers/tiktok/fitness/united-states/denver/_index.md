@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Denver In 2022
+title: Top 10 Fitness TikTok Influencers In Denver in 2023
 description: >-
-  Find top fitness TikTok influencers in Denver in 2022. Most popular hashtags: #fitness #fyp #foryou #duet.
+  Find top fitness TikTok influencers in Denver in 2023. Most popular hashtags: #fitness #fyp #foryou #duet.
 platform: TikTok
 hits: 15
 text_top: Identify the most popular TikTok profiles on inBeat.

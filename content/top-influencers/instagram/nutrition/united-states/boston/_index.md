@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Boston In 2022
+title: Top 10 Nutrition Instagram Influencers In Boston in 2023
 description: >-
-  Find top nutrition Instagram influencers in Boston in 2022. Most popular hashtags: #fitness #nutrition #boston #healthylifestyle.
+  Find top nutrition Instagram influencers in Boston in 2023. Most popular hashtags: #fitness #nutrition #boston #healthylifestyle.
 platform: Instagram
 hits: 21
 text_top: Analyze the best Instagram influencers on inBeat.

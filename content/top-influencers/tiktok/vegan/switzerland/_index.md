@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Switzerland In 2022
+title: Top 10 Vegan TikTok Influencers In Switzerland in 2023
 description: >-
-  Find top vegan TikTok influencers in Switzerland in 2022. Most popular hashtags: #fyp #switzerland #vegan #foryou.
+  Find top vegan TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #switzerland #vegan #foryou.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok influencers on inBeat.

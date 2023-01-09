@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Boston In 2022
+title: Top 10 Vegan Instagram Influencers In Boston in 2023
 description: >-
-  Find top vegan Instagram influencers in Boston in 2022. Most popular hashtags: #vegan #boston #healthylifestyle #healthyfood.
+  Find top vegan Instagram influencers in Boston in 2023. Most popular hashtags: #vegan #boston #healthylifestyle #healthyfood.
 platform: Instagram
 hits: 45
 text_top: See the best Instagram profiles on inBeat.

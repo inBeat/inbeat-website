@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In United Kingdom In 2022
+title: Top 10 Food TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top food TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #duet #foryou #uk.
+  Find top food TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #foryou #uk.
 platform: TikTok
 hits: 941
 text_top: Discover the most popular TikTok accounts on inBeat.
@@ -38,7 +38,7 @@ profiles:
       CEO OF EGG LANGUAGE🍳 Star.holroyd@outlook.com EATING ALL THE GROSS FOODS 🤮👇🏽
     location: "United Kingdom"
     followers: 454100
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.031657
     id: ck8ore28ebs2m0j78d273gel0
     verified: false

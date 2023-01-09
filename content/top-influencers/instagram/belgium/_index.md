@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Belgium In 2022
+title: Top 10 Instagram Influencers In Belgium in 2023
 description: >-
-  Find top Instagram influencers in Belgium in 2022. Most popular hashtags: #collab #mamablogger #outdoorphotography.
+  Find top Instagram influencers in Belgium in 2023. Most popular hashtags: #collab #mamablogger #outdoorphotography.
 platform: Instagram
 hits: 1232
 text_top: Analyze the most popular Instagram accounts on inBeat.

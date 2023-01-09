@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In Russia In 2022
+title: Top 10 Djs Instagram Influencers In Russia in 2023
 description: >-
-  Find top djs Instagram influencers in Russia in 2022. Most popular hashtags: #music #moscow #dj.
+  Find top djs Instagram influencers in Russia in 2023. Most popular hashtags: #music #moscow #dj.
 platform: Instagram
 hits: 60
 text_top: Discover the most popular Instagram accounts on inBeat.

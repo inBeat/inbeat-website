@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Bali In 2022
+title: Top 10 Makeup Instagram Influencers In Bali in 2023
 description: >-
-  Find top makeup Instagram influencers in Bali in 2022. Most popular hashtags: #makeupbali #bali #makeup #muabali.
+  Find top makeup Instagram influencers in Bali in 2023. Most popular hashtags: #makeupbali #bali #makeup #muabali.
 platform: Instagram
 hits: 139
 text_top: Analyze the most popular Instagram accounts on inBeat.

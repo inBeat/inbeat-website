@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Seoul In 2022
+title: Top 10 Food Instagram Influencers In Seoul in 2023
 description: >-
-  Find top food Instagram influencers in Seoul in 2022. Most popular hashtags: #food #seoul #ootd.
+  Find top food Instagram influencers in Seoul in 2023. Most popular hashtags: #food #seoul #ootd.
 platform: Instagram
 hits: 19
 text_top: See the top-rated Instagram accounts on inBeat.

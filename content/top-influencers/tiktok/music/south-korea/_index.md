@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In South Korea In 2022
+title: Top 10 Music TikTok Influencers In South Korea in 2023
 description: >-
-  Find top music TikTok influencers in South Korea in 2022. Most popular hashtags: #music #kpop #youtuber.
+  Find top music TikTok influencers in South Korea in 2023. Most popular hashtags: #music #kpop #youtuber.
 platform: TikTok
 hits: 20
 text_top: Analyze the top-rated TikTok profiles on inBeat.

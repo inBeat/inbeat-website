@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Nigeria In 2022
+title: Top 10 Makeup TikTok Influencers In Nigeria in 2023
 description: >-
-  Find top makeup TikTok influencers in Nigeria in 2022. Most popular hashtags: #fyp #makeup #foryou #teamtennie.
+  Find top makeup TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #makeup #foryou #teamtennie.
 platform: TikTok
 hits: 16
 text_top: See the best TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In France In 2022
+title: Top 10 Wellness Instagram Influencers In France in 2023
 description: >-
-  Find top wellness Instagram influencers in France in 2022. Most popular hashtags: #southoffrance #justdoit #fitnessmotivation.
+  Find top wellness Instagram influencers in France in 2023. Most popular hashtags: #southoffrance #justdoit #fitnessmotivation.
 platform: Instagram
 hits: 121
 text_top: Discover the top-rated Instagram accounts on inBeat.

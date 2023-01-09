@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Brazil In 2022
+title: Top 10 Food TikTok Influencers In Brazil in 2023
 description: >-
-  Find top food TikTok influencers in Brazil in 2022. Most popular hashtags: #food #fyp #foryou #tiktok.
+  Find top food TikTok influencers in Brazil in 2023. Most popular hashtags: #food #fyp #foryou #tiktok.
 platform: TikTok
 hits: 163
 text_top: Identify the top-rated TikTok profiles on inBeat.

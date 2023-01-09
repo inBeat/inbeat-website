@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Germany In 2022
+title: Top 10 Gardening Instagram Influencers In Germany in 2023
 description: >-
-  Find top gardening Instagram influencers in Germany in 2022. Most popular hashtags: #gardening #autumn #solebich #garden.
+  Find top gardening Instagram influencers in Germany in 2023. Most popular hashtags: #gardening #autumn #solebich #garden.
 platform: Instagram
 hits: 235
 text_top: Identify the best Instagram accounts on inBeat.

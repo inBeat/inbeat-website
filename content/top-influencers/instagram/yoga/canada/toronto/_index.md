@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Toronto In 2022
+title: Top 10 Yoga Instagram Influencers In Toronto in 2023
 description: >-
-  Find top yoga Instagram influencers in Toronto in 2022. Most popular hashtags: #yoga #toronto #yogaeverydamnday #beautifuldestinations.
+  Find top yoga Instagram influencers in Toronto in 2023. Most popular hashtags: #yoga #toronto #yogaeverydamnday #beautifuldestinations.
 platform: Instagram
 hits: 33
 text_top: Analyze the top-rated Instagram accounts on inBeat.

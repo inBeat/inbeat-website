@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Mumbai In 2022
+title: Top 10 Health TikTok Influencers In Mumbai in 2023
 description: >-
-  Find top health TikTok influencers in Mumbai in 2022. Most popular hashtags: #tiktok #mumbai #tiktokindia #food.
+  Find top health TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktok #mumbai #tiktokindia #food.
 platform: TikTok
 hits: 14
 text_top: Analyze the most popular TikTok profiles on inBeat.

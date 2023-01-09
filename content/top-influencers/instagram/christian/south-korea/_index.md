@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In South Korea In 2022
+title: Top 10 Christian Instagram Influencers In South Korea in 2023
 description: >-
-  Find top christian Instagram influencers in South Korea in 2022. Most popular hashtags: #nike #uniqlo #dior.
+  Find top christian Instagram influencers in South Korea in 2023. Most popular hashtags: #nike #uniqlo #dior.
 platform: Instagram
 hits: 20
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Switzerland In 2022
+title: Top 10 Vegan Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top vegan Instagram influencers in Switzerland in 2022. Most popular hashtags: #yoga #peace #smile #happy.
+  Find top vegan Instagram influencers in Switzerland in 2023. Most popular hashtags: #yoga #peace #smile #happy.
 platform: Instagram
 hits: 85
 text_top: Discover the best Instagram profiles on inBeat.

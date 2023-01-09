@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United States In 2022
+title: Top 10 Barbers Instagram Influencers In United States in 2023
 description: >-
-  Find top barbers Instagram influencers in United States in 2022. Most popular hashtags: #barber #barbershopconnect #barberlife #wahlpro.
+  Find top barbers Instagram influencers in United States in 2023. Most popular hashtags: #barber #barbershopconnect #barberlife #wahlpro.
 platform: Instagram
 hits: 887
 text_top: Discover the top-rated Instagram profiles on inBeat.

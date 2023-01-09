@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Spain In 2022
+title: Top 10 Yoga Instagram Influencers In Spain in 2023
 description: >-
-  Find top yoga Instagram influencers in Spain in 2022. Most popular hashtags: #yoga #yogainspiration #yogini.
+  Find top yoga Instagram influencers in Spain in 2023. Most popular hashtags: #yoga #yogainspiration #yogini.
 platform: Instagram
 hits: 248
 text_top: See the best Instagram profiles on inBeat.

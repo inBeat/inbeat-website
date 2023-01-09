@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Austin In 2022
+title: Top 10 Athletes Instagram Influencers In Austin in 2023
 description: >-
-  Find top athletes Instagram influencers in Austin in 2022. Most popular hashtags: #healthyliving #fitness #austintexas #workout.
+  Find top athletes Instagram influencers in Austin in 2023. Most popular hashtags: #healthyliving #fitness #austintexas #workout.
 platform: Instagram
 hits: 79
 text_top: Identify the top-rated Instagram accounts on inBeat.

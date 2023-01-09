@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Finland In 2022
+title: Top 10 Music Instagram Influencers In Finland in 2023
 description: >-
-  Find top music Instagram influencers in Finland in 2022. Most popular hashtags: #finnishgirl #alennuskoodi #cello.
+  Find top music Instagram influencers in Finland in 2023. Most popular hashtags: #finnishgirl #alennuskoodi #cello.
 platform: Instagram
 hits: 86
 text_top: Discover the best Instagram profiles on inBeat.

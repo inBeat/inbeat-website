@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In 2022
+title: Top 10 Health Instagram Influencers in 2023
 description: >-
-  Find top health Instagram influencers in 2022. Most popular hashtags: #streetstyle #fitnessgirl #lifestyle.
+  Find top health Instagram influencers in 2023. Most popular hashtags: #streetstyle #fitnessgirl #lifestyle.
 platform: Instagram
 hits: 33232
 text_top: Analyze the best Instagram influencers on inBeat.

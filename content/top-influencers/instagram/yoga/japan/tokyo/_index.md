@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Tokyo In 2022
+title: Top 10 Yoga Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top yoga Instagram influencers in Tokyo in 2022. Most popular hashtags: #yoga #pr #fitness #tokyo.
+  Find top yoga Instagram influencers in Tokyo in 2023. Most popular hashtags: #yoga #pr #fitness #tokyo.
 platform: Instagram
 hits: 33
 text_top: Discover the best Instagram influencers on inBeat.

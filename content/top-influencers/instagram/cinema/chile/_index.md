@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Chile In 2022
+title: Top 10 Cinema Instagram Influencers In Chile in 2023
 description: >-
-  Find top cinema Instagram influencers in Chile in 2022. Most popular hashtags: #chile #photography #instagood #portrait.
+  Find top cinema Instagram influencers in Chile in 2023. Most popular hashtags: #chile #photography #instagood #portrait.
 platform: Instagram
 hits: 23
 text_top: See the top-rated Instagram profiles on inBeat.

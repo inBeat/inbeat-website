@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Italy In 2022
+title: Top 10 Graphic-Designers TikTok Influencers In Italy in 2023
 description: >-
-  Find top graphic-designers TikTok influencers in Italy in 2022. Most popular hashtags: #graphicdesign #design #imparacontiktok #foryou.
+  Find top graphic-designers TikTok influencers in Italy in 2023. Most popular hashtags: #graphicdesign #design #imparacontiktok #foryou.
 platform: TikTok
 hits: 9
 text_top: Discover the top-rated TikTok accounts on inBeat.

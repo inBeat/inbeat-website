@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Los Angeles In 2022
+title: Top 10 Yoga TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top yoga TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #yoga #losangeles #foryou.
+  Find top yoga TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #yoga #losangeles #foryou.
 platform: TikTok
 hits: 16
 text_top: See the best TikTok profiles on inBeat.

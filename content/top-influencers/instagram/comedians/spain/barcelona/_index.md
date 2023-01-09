@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Barcelona In 2022
+title: Top 10 Comedians Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top comedians Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #comedia #humor #madrid.
+  Find top comedians Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #comedia #humor #madrid.
 platform: Instagram
 hits: 12
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Russia In 2022
+title: Top 10 Yoga Instagram Influencers In Russia in 2023
 description: >-
-  Find top yoga Instagram influencers in Russia in 2022. Most popular hashtags: #nice #liketime #yogagirl.
+  Find top yoga Instagram influencers in Russia in 2023. Most popular hashtags: #nice #liketime #yogagirl.
 platform: Instagram
 hits: 145
 text_top: Analyze the top-rated Instagram influencers on inBeat.

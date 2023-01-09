@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Colombia In 2022
+title: Top 10 Skincare TikTok Influencers In Colombia in 2023
 description: >-
-  Find top skincare TikTok influencers in Colombia in 2022. Most popular hashtags: #skincare #colombia #foryou #parati.
+  Find top skincare TikTok influencers in Colombia in 2023. Most popular hashtags: #skincare #colombia #foryou #parati.
 platform: TikTok
 hits: 9
 text_top: Identify the top-rated TikTok profiles on inBeat.

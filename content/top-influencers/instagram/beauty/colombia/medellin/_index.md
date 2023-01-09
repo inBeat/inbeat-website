@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Medellín In 2022
+title: Top 10 Beauty Instagram Influencers In Medellín in 2023
 description: >-
-  Find top beauty Instagram influencers in Medellín in 2022. Most popular hashtags: #beauty #medellin #colombia #makeup.
+  Find top beauty Instagram influencers in Medellín in 2023. Most popular hashtags: #beauty #medellin #colombia #makeup.
 platform: Instagram
 hits: 35
 text_top: See the most popular Instagram influencers on inBeat.

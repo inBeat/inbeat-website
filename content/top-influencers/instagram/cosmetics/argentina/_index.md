@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Argentina In 2022
+title: Top 10 Cosmetics Instagram Influencers In Argentina in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Argentina in 2022. Most popular hashtags: #cosmetics #makeup #beauty #lips.
+  Find top cosmetics Instagram influencers in Argentina in 2023. Most popular hashtags: #cosmetics #makeup #beauty #lips.
 platform: Instagram
 hits: 54
 text_top: Discover the most popular Instagram accounts on inBeat.

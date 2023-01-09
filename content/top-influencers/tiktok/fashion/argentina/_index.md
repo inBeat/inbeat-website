@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Argentina In 2022
+title: Top 10 Fashion TikTok Influencers In Argentina in 2023
 description: >-
-  Find top fashion TikTok influencers in Argentina in 2022. Most popular hashtags: #fashion #parati #fyp #foryou.
+  Find top fashion TikTok influencers in Argentina in 2023. Most popular hashtags: #fashion #parati #fyp #foryou.
 platform: TikTok
 hits: 48
 text_top: Discover the best TikTok accounts on inBeat.

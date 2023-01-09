@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Switzerland In 2022
+title: Top 10 Lingerie Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top lingerie Instagram influencers in Switzerland in 2022. Most popular hashtags: #lingerie #portrait #fashion #blackandwhite.
+  Find top lingerie Instagram influencers in Switzerland in 2023. Most popular hashtags: #lingerie #portrait #fashion #blackandwhite.
 platform: Instagram
 hits: 18
 text_top: Analyze the most popular Instagram influencers on inBeat.

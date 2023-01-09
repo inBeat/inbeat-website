@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Canada In 2022
+title: Top 10 Health Instagram Influencers In Canada in 2023
 description: >-
-  Find top health Instagram influencers in Canada in 2022. Most popular hashtags: #workout #selflove #fitness.
+  Find top health Instagram influencers in Canada in 2023. Most popular hashtags: #workout #selflove #fitness.
 platform: Instagram
 hits: 816
 text_top: Analyze the top-rated Instagram profiles on inBeat.

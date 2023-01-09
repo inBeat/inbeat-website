@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Denver In 2022
+title: Top 10 Yoga Instagram Influencers In Denver in 2023
 description: >-
-  Find top yoga Instagram influencers in Denver in 2022. Most popular hashtags: #yoga #denver #fitnessaddict #stayhome.
+  Find top yoga Instagram influencers in Denver in 2023. Most popular hashtags: #yoga #denver #fitnessaddict #stayhome.
 platform: Instagram
 hits: 28
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In South Africa In 2022
+title: Top 10 Comedians TikTok Influencers In South Africa in 2023
 description: >-
-  Find top comedians TikTok influencers in South Africa in 2022. Most popular hashtags: #fyp #comedy #tiktoksouthafrica #funny.
+  Find top comedians TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #comedy #tiktoksouthafrica #funny.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok profiles on inBeat.

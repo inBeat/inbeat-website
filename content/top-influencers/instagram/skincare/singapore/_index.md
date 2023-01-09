@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Singapore In 2022
+title: Top 10 Skincare Instagram Influencers In Singapore in 2023
 description: >-
-  Find top skincare Instagram influencers in Singapore in 2022. Most popular hashtags: #skincare #beauty #singapore #igsg.
+  Find top skincare Instagram influencers in Singapore in 2023. Most popular hashtags: #skincare #beauty #singapore #igsg.
 platform: Instagram
 hits: 23
 text_top: Discover the most popular Instagram accounts on inBeat.
@@ -63,7 +63,7 @@ profiles:
     location: "Singapore"
     followers: 21358
     engagement: 183
-    commentsToLikes: 0.020223
+    commentsToLikes: 0.020233
     id: ck14ihwyofhg30i19gzusp79h
     verified: false
     hashtags: ""

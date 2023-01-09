@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Philadelphia In 2022
+title: Top 10 Models Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top models Instagram influencers in Philadelphia in 2022. Most popular hashtags: #sponsored #tiktok #model.
+  Find top models Instagram influencers in Philadelphia in 2023. Most popular hashtags: #sponsored #tiktok #model.
 platform: Instagram
 hits: 48
 text_top: Identify the best Instagram influencers on inBeat.

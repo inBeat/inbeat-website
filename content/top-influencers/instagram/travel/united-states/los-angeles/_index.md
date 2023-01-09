@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Los Angeles In 2022
+title: Top 10 Travel Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top travel Instagram influencers in Los Angeles in 2022. Most popular hashtags: #travel #losangeles #lifestyle #la.
+  Find top travel Instagram influencers in Los Angeles in 2023. Most popular hashtags: #travel #losangeles #lifestyle #la.
 platform: Instagram
 hits: 918
 text_top: See the top-rated Instagram profiles on inBeat.

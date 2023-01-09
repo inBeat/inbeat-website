@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Venezuela In 2022
+title: Top 10 Crossfit Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top crossfit Instagram influencers in Venezuela in 2022. Most popular hashtags: #crossfit #venezuela #tbt #healthylifestyle.
+  Find top crossfit Instagram influencers in Venezuela in 2023. Most popular hashtags: #crossfit #venezuela #tbt #healthylifestyle.
 platform: Instagram
 hits: 11
 text_top: Discover the best Instagram influencers on inBeat.

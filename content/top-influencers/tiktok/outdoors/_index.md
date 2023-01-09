@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In 2022
+title: Top 10 Outdoors TikTok Influencers in 2023
 description: >-
-  Find top outdoors TikTok influencers in 2022. Most popular hashtags: #duet #fyp #foryou #foryoupage.
+  Find top outdoors TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 1618
 text_top: Identify the best TikTok profiles on inBeat.

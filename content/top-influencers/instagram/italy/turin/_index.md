@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Turin In 2022
+title: Top 10 Instagram Influencers In Turin in 2023
 description: >-
-  Find top Instagram influencers in Turin in 2022. Most popular hashtags: #torino #turin #portrait #summer.
+  Find top Instagram influencers in Turin in 2023. Most popular hashtags: #torino #turin #portrait #summer.
 platform: Instagram
 hits: 195
 text_top: Analyze the most popular Instagram influencers on inBeat.

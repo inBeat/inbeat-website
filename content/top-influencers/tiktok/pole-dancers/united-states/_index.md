@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In United States In 2022
+title: Top 10 Pole Dancers TikTok Influencers In United States in 2023
 description: >-
-  Find top pole dancers TikTok influencers in United States in 2022. Most popular hashtags: #fyp #poledancing #poledancer #polefitness.
+  Find top pole dancers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #poledancing #poledancer #polefitness.
 platform: TikTok
 hits: 67
 text_top: See the best TikTok profiles on inBeat.

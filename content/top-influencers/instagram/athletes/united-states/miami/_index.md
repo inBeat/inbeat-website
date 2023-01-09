@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Miami In 2022
+title: Top 10 Athletes Instagram Influencers In Miami in 2023
 description: >-
-  Find top athletes Instagram influencers in Miami in 2022. Most popular hashtags: #miami #athlete #fitness #workout.
+  Find top athletes Instagram influencers in Miami in 2023. Most popular hashtags: #miami #athlete #fitness #workout.
 platform: Instagram
 hits: 160
 text_top: Analyze the top-rated Instagram profiles on inBeat.

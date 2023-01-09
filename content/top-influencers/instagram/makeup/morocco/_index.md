@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Morocco In 2022
+title: Top 10 Makeup Instagram Influencers In Morocco in 2023
 description: >-
-  Find top makeup Instagram influencers in Morocco in 2022. Most popular hashtags: #instagood #morocco #makeup #likeforlikes.
+  Find top makeup Instagram influencers in Morocco in 2023. Most popular hashtags: #instagood #morocco #makeup #likeforlikes.
 platform: Instagram
 hits: 160
 text_top: Identify the best Instagram accounts on inBeat.

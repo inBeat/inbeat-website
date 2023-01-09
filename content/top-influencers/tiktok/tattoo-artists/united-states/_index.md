@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In United States In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In United States in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in United States in 2022. Most popular hashtags: #duet #tattooartist #fyp #tattoo.
+  Find top tattoo-artists TikTok influencers in United States in 2023. Most popular hashtags: #duet #tattooartist #fyp #tattoo.
 platform: TikTok
 hits: 316
 text_top: See the best TikTok accounts on inBeat.

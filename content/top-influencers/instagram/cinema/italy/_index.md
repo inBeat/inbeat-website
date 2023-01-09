@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Italy In 2022
+title: Top 10 Cinema Instagram Influencers In Italy in 2023
 description: >-
-  Find top cinema Instagram influencers in Italy in 2022. Most popular hashtags: #portrait #shooting #love #attrice.
+  Find top cinema Instagram influencers in Italy in 2023. Most popular hashtags: #portrait #shooting #love #attrice.
 platform: Instagram
 hits: 603
 text_top: Identify the most popular Instagram influencers on inBeat.

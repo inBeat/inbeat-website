@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Germany In 2022
+title: Top 10 Lifestyle TikTok Influencers In Germany in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Germany in 2022. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top lifestyle TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #viral #fy.
 platform: TikTok
 hits: 74
 text_top: Discover the best TikTok influencers on inBeat.

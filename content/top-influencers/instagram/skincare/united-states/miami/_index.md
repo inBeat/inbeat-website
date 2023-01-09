@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Miami In 2022
+title: Top 10 Skincare Instagram Influencers In Miami in 2023
 description: >-
-  Find top skincare Instagram influencers in Miami in 2022. Most popular hashtags: #skincare #miami #makeup #blogger.
+  Find top skincare Instagram influencers in Miami in 2023. Most popular hashtags: #skincare #miami #makeup #blogger.
 platform: Instagram
 hits: 136
 text_top: Discover the best Instagram profiles on inBeat.

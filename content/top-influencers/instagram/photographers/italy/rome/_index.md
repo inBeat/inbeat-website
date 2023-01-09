@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Rome In 2022
+title: Top 10 Photographers Instagram Influencers In Rome in 2023
 description: >-
-  Find top photographers Instagram influencers in Rome in 2022. Most popular hashtags: #roma #instagood #sunrise.
+  Find top photographers Instagram influencers in Rome in 2023. Most popular hashtags: #roma #instagood #sunrise.
 platform: Instagram
 hits: 184
 text_top: See the best Instagram profiles on inBeat.

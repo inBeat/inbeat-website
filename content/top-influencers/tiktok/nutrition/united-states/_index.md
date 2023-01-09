@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In United States In 2022
+title: Top 10 Nutrition TikTok Influencers In United States in 2023
 description: >-
-  Find top nutrition TikTok influencers in United States in 2022. Most popular hashtags: #fyp #foryou #comedy #duet.
+  Find top nutrition TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #comedy #duet.
 platform: TikTok
 hits: 276
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Ireland In 2022
+title: Top 10 Instagram Influencers In Ireland in 2023
 description: >-
-  Find top Instagram influencers in Ireland in 2022. Most popular hashtags: #dublin #dragonballz #darkartists.
+  Find top Instagram influencers in Ireland in 2023. Most popular hashtags: #dublin #dragonballz #darkartists.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram profiles on inBeat.

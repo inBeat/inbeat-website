@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Malaysia In 2022
+title: Top 10 Nutrition Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top nutrition Instagram influencers in Malaysia in 2022. Most popular hashtags: #bodybuilding #fitness #fitnessjourney.
+  Find top nutrition Instagram influencers in Malaysia in 2023. Most popular hashtags: #bodybuilding #fitness #fitnessjourney.
 platform: Instagram
 hits: 10
 text_top: Analyze the best Instagram profiles on inBeat.

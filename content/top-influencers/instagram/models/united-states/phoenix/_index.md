@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Phoenix In 2022
+title: Top 10 Models Instagram Influencers In Phoenix in 2023
 description: >-
-  Find top models Instagram influencers in Phoenix in 2022. Most popular hashtags: #model #arizona #phoenix.
+  Find top models Instagram influencers in Phoenix in 2023. Most popular hashtags: #model #arizona #phoenix.
 platform: Instagram
 hits: 104
 text_top: See the top-rated Instagram accounts on inBeat.

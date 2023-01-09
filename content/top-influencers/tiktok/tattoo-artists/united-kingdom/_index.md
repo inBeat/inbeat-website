@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In United Kingdom In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #tattoo #foryou #tattooartist.
+  Find top tattoo-artists TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #tattoo #foryou #tattooartist.
 platform: TikTok
 hits: 32
 text_top: Discover the best TikTok accounts on inBeat.

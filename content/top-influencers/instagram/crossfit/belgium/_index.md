@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Belgium In 2022
+title: Top 10 Crossfit Instagram Influencers In Belgium in 2023
 description: >-
-  Find top crossfit Instagram influencers in Belgium in 2022. Most popular hashtags: #crossfit #crossfitgirls #training #motivation.
+  Find top crossfit Instagram influencers in Belgium in 2023. Most popular hashtags: #crossfit #crossfitgirls #training #motivation.
 platform: Instagram
 hits: 8
 text_top: See the most popular Instagram accounts on inBeat.

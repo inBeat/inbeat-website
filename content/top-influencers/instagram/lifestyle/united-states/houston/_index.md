@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Houston In 2022
+title: Top 10 Lifestyle Instagram Influencers In Houston in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Houston in 2022. Most popular hashtags: #houston #lifestyle #fashion.
+  Find top lifestyle Instagram influencers in Houston in 2023. Most popular hashtags: #houston #lifestyle #fashion.
 platform: Instagram
 hits: 197
 text_top: Analyze the best Instagram influencers on inBeat.

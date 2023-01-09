@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ukraine In 2022
+title: Top 10 Fitness Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top fitness Instagram influencers in Ukraine in 2022. Most popular hashtags: #model #gymlife #fitnessmotivation.
+  Find top fitness Instagram influencers in Ukraine in 2023. Most popular hashtags: #model #gymlife #fitnessmotivation.
 platform: Instagram
 hits: 124
 text_top: Identify the top-rated Instagram accounts on inBeat.

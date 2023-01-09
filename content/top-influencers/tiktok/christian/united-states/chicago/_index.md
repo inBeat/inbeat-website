@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian TikTok Influencers In Chicago In 2022
+title: Top 10 Christian TikTok Influencers In Chicago in 2023
 description: >-
-  Find top christian TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #duet #christian #foryou.
+  Find top christian TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #duet #christian #foryou.
 platform: TikTok
 hits: 32
 text_top: Discover the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Singapore In 2022
+title: Top 10 Food TikTok Influencers In Singapore in 2023
 description: >-
-  Find top food TikTok influencers in Singapore in 2022. Most popular hashtags: #fyp #food #foryou #tiktoksg.
+  Find top food TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #food #foryou #tiktoksg.
 platform: TikTok
 hits: 31
 text_top: Identify the best TikTok profiles on inBeat.

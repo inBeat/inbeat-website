@@ -1,7 +1,7 @@
 ---
-title: Top 10 Climbers TikTok Influencers In 2022
+title: Top 10 Climbers TikTok Influencers in 2023
 description: >-
-  Find top climbers TikTok influencers in 2022. Most popular hashtags: #fyp #climbing #bouldering #foryou.
+  Find top climbers TikTok influencers in 2023. Most popular hashtags: #fyp #climbing #bouldering #foryou.
 platform: TikTok
 hits: 65
 text_top: See the most popular TikTok profiles on inBeat.

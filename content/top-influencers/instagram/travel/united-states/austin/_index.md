@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Austin In 2022
+title: Top 10 Travel Instagram Influencers In Austin in 2023
 description: >-
-  Find top travel Instagram influencers in Austin in 2022. Most popular hashtags: #austin #austinblogger #austintexas.
+  Find top travel Instagram influencers in Austin in 2023. Most popular hashtags: #austin #austinblogger #austintexas.
 platform: Instagram
 hits: 296
 text_top: Identify the most popular Instagram influencers on inBeat.

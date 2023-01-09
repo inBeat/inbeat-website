@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Atlanta In 2022
+title: Top 10 Nutrition Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top nutrition Instagram influencers in Atlanta in 2022. Most popular hashtags: #feedfeed #foodie #strongnotskinny.
+  Find top nutrition Instagram influencers in Atlanta in 2023. Most popular hashtags: #feedfeed #foodie #strongnotskinny.
 platform: Instagram
 hits: 26
 text_top: Identify the top-rated Instagram accounts on inBeat.

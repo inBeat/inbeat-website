@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In 2022
+title: Top 10 Hypebeast Instagram Influencers in 2023
 description: >-
-  Find top hypebeast Instagram influencers in 2022. Most popular hashtags: #publicity254 #vscokenya #iamnairobian.
+  Find top hypebeast Instagram influencers in 2023. Most popular hashtags: #publicity254 #vscokenya #iamnairobian.
 platform: Instagram
 hits: 2285
 text_top: See the best Instagram influencers on inBeat.

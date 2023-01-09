@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers TikTok Influencers In New York In 2022
+title: Top 10 Barbers TikTok Influencers In New York in 2023
 description: >-
-  Find top barbers TikTok influencers in New York in 2022. Most popular hashtags: #barber #fyp #foryou #barbershop.
+  Find top barbers TikTok influencers in New York in 2023. Most popular hashtags: #barber #fyp #foryou #barbershop.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok profiles on inBeat.

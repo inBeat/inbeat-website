@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Bangkok In 2022
+title: Top 10 Travel TikTok Influencers In Bangkok in 2023
 description: >-
-  Find top travel TikTok influencers in Bangkok in 2022. Most popular hashtags: #travel #bangkok #thailand #foryou.
+  Find top travel TikTok influencers in Bangkok in 2023. Most popular hashtags: #travel #bangkok #thailand #foryou.
 platform: TikTok
 hits: 7
 text_top: Identify the most popular TikTok accounts on inBeat.

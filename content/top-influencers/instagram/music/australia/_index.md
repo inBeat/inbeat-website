@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music Instagram Influencers In Australia In 2022
+title: Top 10 Music Instagram Influencers In Australia in 2023
 description: >-
-  Find top music Instagram influencers in Australia in 2022. Most popular hashtags: #kozhikode #canonphotography #kerala.
+  Find top music Instagram influencers in Australia in 2023. Most popular hashtags: #kozhikode #canonphotography #kerala.
 platform: Instagram
 hits: 520
 text_top: See the top-rated Instagram influencers on inBeat.

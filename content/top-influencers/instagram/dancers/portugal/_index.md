@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Portugal In 2022
+title: Top 10 Dancers Instagram Influencers In Portugal in 2023
 description: >-
-  Find top dancers Instagram influencers in Portugal in 2022. Most popular hashtags: #dance #portugal #tiktok.
+  Find top dancers Instagram influencers in Portugal in 2023. Most popular hashtags: #dance #portugal #tiktok.
 platform: Instagram
 hits: 29
 text_top: Discover the top-rated Instagram profiles on inBeat.
@@ -121,7 +121,7 @@ profiles:
     bio: >-
       Choreographer & Teacher.📍🇵🇹 CEO @summerdancebrasil 🇧🇷 Judge @danceworldcup 🌍 Founder @alianzstreet 🔗 🥇@kodlatinamerica 💍@rimoldijuliana
     location: "Portugal"
-    followers: 20223
+    followers: 20233
     engagement: 354
     commentsToLikes: 0.073475
     id: ck6u7ftcel9bw0j71y7mkmqst

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In United Kingdom In 2022
+title: Top 10 Painters Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top painters Instagram influencers in United Kingdom in 2022. Most popular hashtags: #oilpainting #artoftheday #drawing.
+  Find top painters Instagram influencers in United Kingdom in 2023. Most popular hashtags: #oilpainting #artoftheday #drawing.
 platform: Instagram
 hits: 396
 text_top: Analyze the best Instagram influencers on inBeat.

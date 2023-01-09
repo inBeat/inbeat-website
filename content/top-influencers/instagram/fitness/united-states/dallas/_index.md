@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Dallas In 2022
+title: Top 10 Fitness Instagram Influencers In Dallas in 2023
 description: >-
-  Find top fitness Instagram influencers in Dallas in 2022. Most popular hashtags: #fitness #workout #fit.
+  Find top fitness Instagram influencers in Dallas in 2023. Most popular hashtags: #fitness #workout #fit.
 platform: Instagram
 hits: 227
 text_top: See the best Instagram influencers on inBeat.

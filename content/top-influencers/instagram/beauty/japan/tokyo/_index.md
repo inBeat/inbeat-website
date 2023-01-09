@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Tokyo In 2022
+title: Top 10 Beauty Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top beauty Instagram influencers in Tokyo in 2022. Most popular hashtags: #beauty #fashion #tokyo #makeup.
+  Find top beauty Instagram influencers in Tokyo in 2023. Most popular hashtags: #beauty #fashion #tokyo #makeup.
 platform: Instagram
 hits: 172
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Bali In 2022
+title: Top 10 Nutrition Instagram Influencers In Bali in 2023
 description: >-
-  Find top nutrition Instagram influencers in Bali in 2022. Most popular hashtags: #bali #nutrition #shakeherbalife #herbalife.
+  Find top nutrition Instagram influencers in Bali in 2023. Most popular hashtags: #bali #nutrition #shakeherbalife #herbalife.
 platform: Instagram
 hits: 48
 text_top: See the top-rated Instagram accounts on inBeat.

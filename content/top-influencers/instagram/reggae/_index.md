@@ -1,7 +1,7 @@
 ---
-title: Top 10 Reggae Instagram Influencers In 2022
+title: Top 10 Reggae Instagram Influencers in 2023
 description: >-
-  Find top reggae Instagram influencers in 2022. Most popular hashtags: #reggaeton #rap #batalladegallos.
+  Find top reggae Instagram influencers in 2023. Most popular hashtags: #reggaeton #rap #batalladegallos.
 platform: Instagram
 hits: 2283
 text_top: See the top-rated Instagram influencers on inBeat.

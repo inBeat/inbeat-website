@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Chicago In 2022
+title: Top 10 Mothers Instagram Influencers In Chicago in 2023
 description: >-
-  Find top mothers Instagram influencers in Chicago in 2022. Most popular hashtags: #love #chicago #quarantine.
+  Find top mothers Instagram influencers in Chicago in 2023. Most popular hashtags: #love #chicago #quarantine.
 platform: Instagram
 hits: 62
 text_top: See the top-rated Instagram accounts on inBeat.

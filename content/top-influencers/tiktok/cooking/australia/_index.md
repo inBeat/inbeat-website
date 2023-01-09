@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Australia In 2022
+title: Top 10 Cooking TikTok Influencers In Australia in 2023
 description: >-
-  Find top cooking TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #foryoupage #foryou #cooking.
+  Find top cooking TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #cooking.
 platform: TikTok
 hits: 175
 text_top: Identify the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Illustrators Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top illustrators Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #illustrator #illustration #artistsoninstagram #art.
+  Find top illustrators Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #illustrator #illustration #artistsoninstagram #art.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram profiles on inBeat.

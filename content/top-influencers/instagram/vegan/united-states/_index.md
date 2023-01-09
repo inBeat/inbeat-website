@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In United States In 2022
+title: Top 10 Vegan Instagram Influencers In United States in 2023
 description: >-
-  Find top vegan Instagram influencers in United States in 2022. Most popular hashtags: #styleinspo #fashiongram #whatiwore.
+  Find top vegan Instagram influencers in United States in 2023. Most popular hashtags: #styleinspo #fashiongram #whatiwore.
 platform: Instagram
 hits: 3867
 text_top: Identify the top-rated Instagram influencers on inBeat.

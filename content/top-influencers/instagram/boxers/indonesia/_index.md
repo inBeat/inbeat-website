@@ -1,7 +1,7 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Indonesia In 2022
+title: Top 10 Boxers Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top boxers Instagram influencers in Indonesia in 2022. Most popular hashtags: #lfl #beutikcompany #bonek #bobotoh.
+  Find top boxers Instagram influencers in Indonesia in 2023. Most popular hashtags: #lfl #beutikcompany #bonek #bobotoh.
 platform: Instagram
 hits: 9
 text_top: Discover the top-rated Instagram profiles on inBeat.
@@ -15,7 +15,7 @@ profiles:
     location: "Indonesia"
     followers: 163819
     engagement: 52
-    commentsToLikes: 0.002022
+    commentsToLikes: 0.002023
     id: ck14jx9ilmnh00i195pg284q8
     verified: false
     hashtags: "#persebayanews, #jawapos, #bonek, #bolalob"

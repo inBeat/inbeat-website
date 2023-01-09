@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Ireland In 2022
+title: Top 10 Music TikTok Influencers In Ireland in 2023
 description: >-
-  Find top music TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #ireland #foryou #dublin.
+  Find top music TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #ireland #foryou #dublin.
 platform: TikTok
 hits: 50
 text_top: Discover the best TikTok accounts on inBeat.

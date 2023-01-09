@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Austin In 2022
+title: Top 10 Bloggers Instagram Influencers In Austin in 2023
 description: >-
-  Find top bloggers Instagram influencers in Austin in 2022. Most popular hashtags: #austinblogger #ad #sponsored #trueaustin.
+  Find top bloggers Instagram influencers in Austin in 2023. Most popular hashtags: #austinblogger #ad #sponsored #trueaustin.
 platform: Instagram
 hits: 61
 text_top: Discover the best Instagram profiles on inBeat.
@@ -11,7 +11,7 @@ profiles:
     fullname: >-
       KOKO | Austin Food Blogger
     bio: >-
-      austin blogger + author #kokosguidetoaustin » ft. ny times » building a new house - jan 2022 ____ ▽: #austintexas ✉️: jane@atasteofkoko.com ↓: blog
+      austin blogger + author #kokosguidetoaustin » ft. ny times » building a new house - jan 2023 ____ ▽: #austintexas ✉️: jane@atasteofkoko.com ↓: blog
     location: "United States"
     followers: 84454
     engagement: 199

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Philadelphia In 2022
+title: Top 10 Fitness TikTok Influencers In Philadelphia in 2023
 description: >-
-  Find top fitness TikTok influencers in Philadelphia in 2022. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
+  Find top fitness TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
 platform: TikTok
 hits: 6
 text_top: See the most popular TikTok influencers on inBeat.

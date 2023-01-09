@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In United Kingdom In 2022
+title: Top 10 Comedians Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top comedians Instagram influencers in United Kingdom in 2022. Most popular hashtags: #comedy #drag #ad #cabaret.
+  Find top comedians Instagram influencers in United Kingdom in 2023. Most popular hashtags: #comedy #drag #ad #cabaret.
 platform: Instagram
 hits: 66
 text_top: See the most popular Instagram profiles on inBeat.
@@ -59,7 +59,7 @@ profiles:
     fullname: >-
       Sukh Ojla
     bio: >-
-      Comedian | Actress | Writer | 🎤 BBC Asian Network 📺 Class Dismissed Work enquiries: info@sukhojla.com ⭐ LIFE SUKHS TOUR 2022 TICKETS ON SALE ⭐
+      Comedian | Actress | Writer | 🎤 BBC Asian Network 📺 Class Dismissed Work enquiries: info@sukhojla.com ⭐ LIFE SUKHS TOUR 2023 TICKETS ON SALE ⭐
     location: "United Kingdom"
     followers: 7234
     engagement: 1019
@@ -71,7 +71,7 @@ profiles:
     fullname: >-
       Lloyd Griffith
     bio: >-
-      comedian and choirboy. On tour in 2022. Hopefully
+      comedian and choirboy. On tour in 2023. Hopefully
     location: "United Kingdom"
     followers: 95358
     engagement: 169

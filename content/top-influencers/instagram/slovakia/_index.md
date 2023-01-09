@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Slovakia In 2022
+title: Top 10 Instagram Influencers In Slovakia in 2023
 description: >-
-  Find top Instagram influencers in Slovakia in 2022. Most popular hashtags: #nature #slovakia #autumnvibes #autumn.
+  Find top Instagram influencers in Slovakia in 2023. Most popular hashtags: #nature #slovakia #autumnvibes #autumn.
 platform: Instagram
 hits: 30
 text_top: See the most popular Instagram profiles on inBeat.

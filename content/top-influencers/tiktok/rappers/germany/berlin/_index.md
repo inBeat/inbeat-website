@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Berlin In 2022
+title: Top 10 Rappers TikTok Influencers In Berlin in 2023
 description: >-
-  Find top rappers TikTok influencers in Berlin in 2022. Most popular hashtags: #foryou #viral #rapper #berlin.
+  Find top rappers TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #viral #rapper #berlin.
 platform: TikTok
 hits: 13
 text_top: Identify the most popular TikTok accounts on inBeat.

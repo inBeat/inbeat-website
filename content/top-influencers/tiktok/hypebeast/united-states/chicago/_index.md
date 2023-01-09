@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Chicago In 2022
+title: Top 10 Hypebeast TikTok Influencers In Chicago in 2023
 description: >-
-  Find top hypebeast TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
+  Find top hypebeast TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
 platform: TikTok
 hits: 6
 text_top: See the best TikTok influencers on inBeat.

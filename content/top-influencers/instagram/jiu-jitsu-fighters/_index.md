@@ -1,7 +1,7 @@
 ---
-title: Top 10 Jiu-Jitsu Fighters Instagram Influencers In 2022
+title: Top 10 Jiu-Jitsu Fighters Instagram Influencers in 2023
 description: >-
-  Find top jiu-jitsu fighters Instagram influencers in 2022. Most popular hashtags: #jiujitsu #bjj #love #bjjgirls.
+  Find top jiu-jitsu fighters Instagram influencers in 2023. Most popular hashtags: #jiujitsu #bjj #love #bjjgirls.
 platform: Instagram
 hits: 1039
 text_top: Identify the most popular Instagram accounts on inBeat.

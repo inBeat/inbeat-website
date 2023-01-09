@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Montreal In 2022
+title: Top 10 Christian Instagram Influencers In Montreal in 2023
 description: >-
-  Find top christian Instagram influencers in Montreal in 2022. Most popular hashtags: #shotoniphone #montreal #beautiful.
+  Find top christian Instagram influencers in Montreal in 2023. Most popular hashtags: #shotoniphone #montreal #beautiful.
 platform: Instagram
 hits: 5
 text_top: Analyze the most popular Instagram profiles on inBeat.

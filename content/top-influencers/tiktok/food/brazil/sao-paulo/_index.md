@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Sao Paulo In 2022
+title: Top 10 Food TikTok Influencers In Sao Paulo in 2023
 description: >-
-  Find top food TikTok influencers in Sao Paulo in 2022. Most popular hashtags: #comedia #humor #food #foryou.
+  Find top food TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #comedia #humor #food #foryou.
 platform: TikTok
 hits: 8
 text_top: Discover the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Norway In 2022
+title: Top 10 Dancers Instagram Influencers In Norway in 2023
 description: >-
-  Find top dancers Instagram influencers in Norway in 2022. Most popular hashtags: #oslo #dancer #norge #dance.
+  Find top dancers Instagram influencers in Norway in 2023. Most popular hashtags: #oslo #dancer #norge #dance.
 platform: Instagram
 hits: 23
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Canada In 2022
+title: Top 10 Soccer-Players Instagram Influencers In Canada in 2023
 description: >-
-  Find top soccer-players Instagram influencers in Canada in 2022. Most popular hashtags: #soccer #quarantine #football.
+  Find top soccer-players Instagram influencers in Canada in 2023. Most popular hashtags: #soccer #quarantine #football.
 platform: Instagram
 hits: 9
 text_top: See the top-rated Instagram accounts on inBeat.

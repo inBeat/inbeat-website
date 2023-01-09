@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Manchester In 2022
+title: Top 10 Nutrition Instagram Influencers In Manchester in 2023
 description: >-
-  Find top nutrition Instagram influencers in Manchester in 2022. Most popular hashtags: #fitness #training #nutrition #motivation.
+  Find top nutrition Instagram influencers in Manchester in 2023. Most popular hashtags: #fitness #training #nutrition #motivation.
 platform: Instagram
 hits: 8
 text_top: Discover the best Instagram accounts on inBeat.

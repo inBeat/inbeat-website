@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Seattle In 2022
+title: Top 10 Models TikTok Influencers In Seattle in 2023
 description: >-
-  Find top models TikTok influencers in Seattle in 2022. Most popular hashtags: #fyp #washington #foryou #seattle.
+  Find top models TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #washington #foryou #seattle.
 platform: TikTok
 hits: 18
 text_top: See the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Australia In 2022
+title: Top 10 Gymnasts TikTok Influencers In Australia in 2023
 description: >-
-  Find top gymnasts TikTok influencers in Australia in 2022. Most popular hashtags: #gymnastics #fyp #gym #fitness.
+  Find top gymnasts TikTok influencers in Australia in 2023. Most popular hashtags: #gymnastics #fyp #gym #fitness.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Italy In 2022
+title: Top 10 Barbers Instagram Influencers In Italy in 2023
 description: >-
-  Find top barbers Instagram influencers in Italy in 2022. Most popular hashtags: #barber #barbershop #barberlife #barbering.
+  Find top barbers Instagram influencers in Italy in 2023. Most popular hashtags: #barber #barbershop #barberlife #barbering.
 platform: Instagram
 hits: 117
 text_top: Analyze the top-rated Instagram profiles on inBeat.

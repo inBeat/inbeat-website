@@ -1,7 +1,7 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Germany In 2022
+title: Top 10 Golfers Instagram Influencers In Germany in 2023
 description: >-
-  Find top golfers Instagram influencers in Germany in 2022. Most popular hashtags: #golf #golfaddict #golfswing #golfcourse.
+  Find top golfers Instagram influencers in Germany in 2023. Most popular hashtags: #golf #golfaddict #golfswing #golfcourse.
 platform: Instagram
 hits: 17
 text_top: Analyze the most popular Instagram influencers on inBeat.

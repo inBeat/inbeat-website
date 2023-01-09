@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Peru In 2022
+title: Top 10 Makeup Instagram Influencers In Peru in 2023
 description: >-
-  Find top makeup Instagram influencers in Peru in 2022. Most popular hashtags: #makeup #halloweenmakeup #halloween #maquillaje.
+  Find top makeup Instagram influencers in Peru in 2023. Most popular hashtags: #makeup #halloweenmakeup #halloween #maquillaje.
 platform: Instagram
 hits: 89
 text_top: Analyze the most popular Instagram accounts on inBeat.

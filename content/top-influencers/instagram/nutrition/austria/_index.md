@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Austria In 2022
+title: Top 10 Nutrition Instagram Influencers In Austria in 2023
 description: >-
-  Find top nutrition Instagram influencers in Austria in 2022. Most popular hashtags: #instagood #vienna #austria #fitnessmotivation.
+  Find top nutrition Instagram influencers in Austria in 2023. Most popular hashtags: #instagood #vienna #austria #fitnessmotivation.
 platform: Instagram
 hits: 15
 text_top: See the most popular Instagram accounts on inBeat.

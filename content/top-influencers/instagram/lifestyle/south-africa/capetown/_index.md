@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Capetown In 2022
+title: Top 10 Lifestyle Instagram Influencers In Capetown in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Capetown in 2022. Most popular hashtags: #capetown #southafrica #lifestyle #photography.
+  Find top lifestyle Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #lifestyle #photography.
 platform: Instagram
 hits: 36
 text_top: See the top-rated Instagram accounts on inBeat.

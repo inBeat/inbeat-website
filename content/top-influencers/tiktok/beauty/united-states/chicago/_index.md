@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Chicago In 2022
+title: Top 10 Beauty TikTok Influencers In Chicago in 2023
 description: >-
-  Find top beauty TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #beauty #chicago #duet.
+  Find top beauty TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #beauty #chicago #duet.
 platform: TikTok
 hits: 36
 text_top: Discover the most popular TikTok profiles on inBeat.

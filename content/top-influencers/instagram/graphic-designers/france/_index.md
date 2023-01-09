@@ -1,7 +1,7 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In France In 2022
+title: Top 10 Graphic-Designers Instagram Influencers In France in 2023
 description: >-
-  Find top graphic-designers Instagram influencers in France in 2022. Most popular hashtags: #portrait #style #fashion.
+  Find top graphic-designers Instagram influencers in France in 2023. Most popular hashtags: #portrait #style #fashion.
 platform: Instagram
 hits: 85
 text_top: Analyze the top-rated Instagram influencers on inBeat.

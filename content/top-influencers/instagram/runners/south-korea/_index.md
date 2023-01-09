@@ -1,7 +1,7 @@
 ---
-title: Top 10 Runners Instagram Influencers In South Korea In 2022
+title: Top 10 Runners Instagram Influencers In South Korea in 2023
 description: >-
-  Find top runners Instagram influencers in South Korea in 2022. Most popular hashtags: #running #runner #run #workout.
+  Find top runners Instagram influencers in South Korea in 2023. Most popular hashtags: #running #runner #run #workout.
 platform: Instagram
 hits: 9
 text_top: Analyze the most popular Instagram influencers on inBeat.

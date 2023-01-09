@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Medellín In 2022
+title: Top 10 Food Instagram Influencers In Medellín in 2023
 description: >-
-  Find top food Instagram influencers in Medellín in 2022. Most popular hashtags: #colombia #medellin #food #photooftheday.
+  Find top food Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #food #photooftheday.
 platform: Instagram
 hits: 11
 text_top: See the best Instagram profiles on inBeat.

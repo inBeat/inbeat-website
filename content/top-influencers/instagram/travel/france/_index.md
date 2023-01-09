@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In France In 2022
+title: Top 10 Travel Instagram Influencers In France in 2023
 description: >-
-  Find top travel Instagram influencers in France in 2022. Most popular hashtags: #wanderlust #passionpassport #explorerbabes.
+  Find top travel Instagram influencers in France in 2023. Most popular hashtags: #wanderlust #passionpassport #explorerbabes.
 platform: Instagram
 hits: 2890
 text_top: Analyze the most popular Instagram profiles on inBeat.

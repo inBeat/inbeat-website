@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Taiwan In 2022
+title: Top 10 Instagram Influencers In Taiwan in 2023
 description: >-
-  Find top Instagram influencers in Taiwan in 2022. Most popular hashtags: #taiwan #taipei #ootd.
+  Find top Instagram influencers in Taiwan in 2023. Most popular hashtags: #taiwan #taipei #ootd.
 platform: Instagram
 hits: 40
 text_top: Identify the top-rated Instagram profiles on inBeat.

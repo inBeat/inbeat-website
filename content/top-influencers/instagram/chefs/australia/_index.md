@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Australia In 2022
+title: Top 10 Chefs Instagram Influencers In Australia in 2023
 description: >-
-  Find top chefs Instagram influencers in Australia in 2022. Most popular hashtags: #gopro #australia #goldcoast.
+  Find top chefs Instagram influencers in Australia in 2023. Most popular hashtags: #gopro #australia #goldcoast.
 platform: Instagram
 hits: 110
 text_top: Analyze the most popular Instagram accounts on inBeat.

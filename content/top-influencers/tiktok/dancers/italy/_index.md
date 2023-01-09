@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Italy In 2022
+title: Top 10 Dancers TikTok Influencers In Italy in 2023
 description: >-
-  Find top dancers TikTok influencers in Italy in 2022. Most popular hashtags: #foryou #perte #trend #fyp.
+  Find top dancers TikTok influencers in Italy in 2023. Most popular hashtags: #foryou #perte #trend #fyp.
 platform: TikTok
 hits: 85
 text_top: Discover the top-rated TikTok profiles on inBeat.

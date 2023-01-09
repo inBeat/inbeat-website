@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In New York In 2022
+title: Top 10 Fashion Instagram Influencers In New York in 2023
 description: >-
-  Find top fashion Instagram influencers in New York in 2022. Most popular hashtags: #fashion #newyork #model #nyc.
+  Find top fashion Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #model #nyc.
 platform: Instagram
 hits: 1293
 text_top: Identify the top-rated Instagram influencers on inBeat.

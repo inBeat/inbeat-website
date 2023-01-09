@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Belgium In 2022
+title: Top 10 Athletes Instagram Influencers In Belgium in 2023
 description: >-
-  Find top athletes Instagram influencers in Belgium in 2022. Most popular hashtags: #fitness #paris #tbt.
+  Find top athletes Instagram influencers in Belgium in 2023. Most popular hashtags: #fitness #paris #tbt.
 platform: Instagram
 hits: 27
 text_top: Discover the best Instagram accounts on inBeat.

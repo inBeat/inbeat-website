@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Japan In 2022
+title: Top 10 Stylists Instagram Influencers In Japan in 2023
 description: >-
-  Find top stylists Instagram influencers in Japan in 2022. Most popular hashtags: #pr #coupleshoot #snackswkfilm.
+  Find top stylists Instagram influencers in Japan in 2023. Most popular hashtags: #pr #coupleshoot #snackswkfilm.
 platform: Instagram
 hits: 95
 text_top: Identify the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Barcelona In 2022
+title: Top 10 Mothers Instagram Influencers In Barcelona in 2023
 description: >-
-  Find top mothers Instagram influencers in Barcelona in 2022. Most popular hashtags: #barcelona #mother #portrait #love.
+  Find top mothers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #mother #portrait #love.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram profiles on inBeat.
@@ -47,7 +47,7 @@ profiles:
     fullname: >-
       Monika Frias
     bio: >-
-      Photographer, Videographer & Lover. Living in Barcelona and telling stories around the globe. Now Booking 2022 One half of @dos__santas
+      Photographer, Videographer & Lover. Living in Barcelona and telling stories around the globe. Now Booking 2023 One half of @dos__santas
     location: "Spain"
     followers: 19799
     engagement: 399

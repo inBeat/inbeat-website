@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In New York In 2022
+title: Top 10 Athletes TikTok Influencers In New York in 2023
 description: >-
-  Find top athletes TikTok influencers in New York in 2022. Most popular hashtags: #fyp #newyork #sports #athlete.
+  Find top athletes TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #sports #athlete.
 platform: TikTok
 hits: 22
 text_top: See the best TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Sydney In 2022
+title: Top 10 Architecture Instagram Influencers In Sydney in 2023
 description: >-
-  Find top architecture Instagram influencers in Sydney in 2022. Most popular hashtags: #architecture #interiordesign #sydneyarchitecture #australianarchitecture.
+  Find top architecture Instagram influencers in Sydney in 2023. Most popular hashtags: #architecture #interiordesign #sydneyarchitecture #australianarchitecture.
 platform: Instagram
 hits: 54
 text_top: Analyze the best Instagram influencers on inBeat.

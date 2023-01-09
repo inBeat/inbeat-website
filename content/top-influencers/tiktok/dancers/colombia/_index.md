@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Colombia In 2022
+title: Top 10 Dancers TikTok Influencers In Colombia in 2023
 description: >-
-  Find top dancers TikTok influencers in Colombia in 2022. Most popular hashtags: #colombia #parati #foryou #fyp.
+  Find top dancers TikTok influencers in Colombia in 2023. Most popular hashtags: #colombia #parati #foryou #fyp.
 platform: TikTok
 hits: 23
 text_top: Discover the top-rated TikTok accounts on inBeat.

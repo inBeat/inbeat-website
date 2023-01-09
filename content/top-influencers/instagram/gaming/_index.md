@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming Instagram Influencers In 2022
+title: Top 10 Gaming Instagram Influencers in 2023
 description: >-
-  Find top gaming Instagram influencers in 2022. Most popular hashtags: #ad #switchgames #setupgoals.
+  Find top gaming Instagram influencers in 2023. Most popular hashtags: #ad #switchgames #setupgoals.
 platform: Instagram
 hits: 4320
 text_top: Identify the most popular Instagram influencers on inBeat.

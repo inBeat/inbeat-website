@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Bali In 2022
+title: Top 10 Vegan Instagram Influencers In Bali in 2023
 description: >-
-  Find top vegan Instagram influencers in Bali in 2022. Most popular hashtags: #bali #balilife #vegan #travel.
+  Find top vegan Instagram influencers in Bali in 2023. Most popular hashtags: #bali #balilife #vegan #travel.
 platform: Instagram
 hits: 20
 text_top: Analyze the most popular Instagram accounts on inBeat.

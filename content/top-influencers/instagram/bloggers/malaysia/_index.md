@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Malaysia In 2022
+title: Top 10 Bloggers Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top bloggers Instagram influencers in Malaysia in 2022. Most popular hashtags: #instagram #lahore #bookshelfie.
+  Find top bloggers Instagram influencers in Malaysia in 2023. Most popular hashtags: #instagram #lahore #bookshelfie.
 platform: Instagram
 hits: 33
 text_top: Identify the top-rated Instagram profiles on inBeat.

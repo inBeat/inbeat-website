@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Chile In 2022
+title: Top 10 Fashion Instagram Influencers In Chile in 2023
 description: >-
-  Find top fashion Instagram influencers in Chile in 2022. Most popular hashtags: #halloween #chile #ootd.
+  Find top fashion Instagram influencers in Chile in 2023. Most popular hashtags: #halloween #chile #ootd.
 platform: Instagram
 hits: 130
 text_top: Discover the top-rated Instagram influencers on inBeat.

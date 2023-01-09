@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Chile In 2022
+title: Top 10 Vegan Instagram Influencers In Chile in 2023
 description: >-
-  Find top vegan Instagram influencers in Chile in 2022. Most popular hashtags: #chile #vegan #chilena.
+  Find top vegan Instagram influencers in Chile in 2023. Most popular hashtags: #chile #vegan #chilena.
 platform: Instagram
 hits: 66
 text_top: Identify the most popular Instagram accounts on inBeat.

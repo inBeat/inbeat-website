@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Venezuela In 2022
+title: Top 10 Yoga Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top yoga Instagram influencers in Venezuela in 2022. Most popular hashtags: #venezuela #caracas #yoga #familia.
+  Find top yoga Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #yoga #familia.
 platform: Instagram
 hits: 13
 text_top: See the top-rated Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Miami In 2022
+title: Top 10 Models Instagram Influencers In Miami in 2023
 description: >-
-  Find top models Instagram influencers in Miami in 2022. Most popular hashtags: #bodysuit #inkedmodel #legsleevetattoo.
+  Find top models Instagram influencers in Miami in 2023. Most popular hashtags: #bodysuit #inkedmodel #legsleevetattoo.
 platform: Instagram
 hits: 777
 text_top: Discover the most popular Instagram accounts on inBeat.

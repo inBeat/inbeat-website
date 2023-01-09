@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Finland In 2022
+title: Top 10 Lifestyle Instagram Influencers In Finland in 2023
 description: >-
-  Find top lifestyle Instagram influencers in Finland in 2022. Most popular hashtags: #arvonta #kaupallinenyhteisty #kasvisruoka.
+  Find top lifestyle Instagram influencers in Finland in 2023. Most popular hashtags: #arvonta #kaupallinenyhteisty #kasvisruoka.
 platform: Instagram
 hits: 113
 text_top: Identify the top-rated Instagram influencers on inBeat.

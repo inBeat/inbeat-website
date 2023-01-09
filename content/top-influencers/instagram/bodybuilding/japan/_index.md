@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Japan In 2022
+title: Top 10 Bodybuilding Instagram Influencers In Japan in 2023
 description: >-
-  Find top bodybuilding Instagram influencers in Japan in 2022. Most popular hashtags: #bodybuilding #fitness #workout #motivation.
+  Find top bodybuilding Instagram influencers in Japan in 2023. Most popular hashtags: #bodybuilding #fitness #workout #motivation.
 platform: Instagram
 hits: 11
 text_top: Analyze the most popular Instagram influencers on inBeat.

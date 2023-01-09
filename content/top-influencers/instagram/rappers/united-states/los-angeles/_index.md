@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Los Angeles In 2022
+title: Top 10 Rappers Instagram Influencers In Los Angeles in 2023
 description: >-
-  Find top rappers Instagram influencers in Los Angeles in 2022. Most popular hashtags: #rapper #hiphop #losangeles #rap.
+  Find top rappers Instagram influencers in Los Angeles in 2023. Most popular hashtags: #rapper #hiphop #losangeles #rap.
 platform: Instagram
 hits: 93
 text_top: Analyze the best Instagram influencers on inBeat.

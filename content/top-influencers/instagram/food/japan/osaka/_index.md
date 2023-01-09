@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Osaka In 2022
+title: Top 10 Food Instagram Influencers In Osaka in 2023
 description: >-
-  Find top food Instagram influencers in Osaka in 2022. Most popular hashtags: #osaka #food #lunch #japan.
+  Find top food Instagram influencers in Osaka in 2023. Most popular hashtags: #osaka #food #lunch #japan.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram influencers on inBeat.

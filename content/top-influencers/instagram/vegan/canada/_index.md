@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Canada In 2022
+title: Top 10 Vegan Instagram Influencers In Canada in 2023
 description: >-
-  Find top vegan Instagram influencers in Canada in 2022. Most popular hashtags: #nature #outdoors #love.
+  Find top vegan Instagram influencers in Canada in 2023. Most popular hashtags: #nature #outdoors #love.
 platform: Instagram
 hits: 323
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2022
+title: Top 10 Gymnasts Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Switzerland in 2022. Most popular hashtags: #gymnastics #handstand #balance #switzerland.
+  Find top gymnasts Instagram influencers in Switzerland in 2023. Most popular hashtags: #gymnastics #handstand #balance #switzerland.
 platform: Instagram
 hits: 20
 text_top: Identify the most popular Instagram influencers on inBeat.
@@ -47,7 +47,7 @@ profiles:
     fullname: >-
       Stephanie Kiryakova
     bio: >-
-      🇧🇬 Bulgaria National team of rhythmic gymnastics 🤸🏽‍♀️ 💎 Jesus is King👑✝️ Road to Tokyo 2022* Olympic Games🇯🇵 European and World Champion🥇🥇
+      🇧🇬 Bulgaria National team of rhythmic gymnastics 🤸🏽‍♀️ 💎 Jesus is King👑✝️ Road to Tokyo 2023* Olympic Games🇯🇵 European and World Champion🥇🥇
     location: "Switzerland"
     followers: 7951
     engagement: 1305

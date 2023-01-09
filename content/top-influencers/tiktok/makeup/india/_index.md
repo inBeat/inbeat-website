@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In India In 2022
+title: Top 10 Makeup TikTok Influencers In India in 2023
 description: >-
-  Find top makeup TikTok influencers in India in 2022. Most popular hashtags: #foryoupage #foryou #tiktokindia #trending.
+  Find top makeup TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #foryou #tiktokindia #trending.
 platform: TikTok
 hits: 530
 text_top: See the top-rated TikTok influencers on inBeat.

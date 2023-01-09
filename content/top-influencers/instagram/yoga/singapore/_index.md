@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Singapore In 2022
+title: Top 10 Yoga Instagram Influencers In Singapore in 2023
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2022. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
+  Find top yoga Instagram influencers in Singapore in 2023. Most popular hashtags: #yoga #yogaeverydamnday #yogagram.
 platform: Instagram
 hits: 14
 text_top: Identify the top-rated Instagram influencers on inBeat.

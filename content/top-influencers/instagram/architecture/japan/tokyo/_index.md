@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Tokyo In 2022
+title: Top 10 Architecture Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top architecture Instagram influencers in Tokyo in 2022. Most popular hashtags: #tokyo #japan #architecture #night.
+  Find top architecture Instagram influencers in Tokyo in 2023. Most popular hashtags: #tokyo #japan #architecture #night.
 platform: Instagram
 hits: 31
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Canada In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In Canada in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #tattoo #artist.
+  Find top tattoo-artists TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #tattoo #artist.
 platform: TikTok
 hits: 34
 text_top: Analyze the most popular TikTok accounts on inBeat.

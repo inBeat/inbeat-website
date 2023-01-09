@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Germany In 2022
+title: Top 10 Nutrition Instagram Influencers In Germany in 2023
 description: >-
-  Find top nutrition Instagram influencers in Germany in 2022. Most popular hashtags: #fitness #fitnessmotivation #ootd.
+  Find top nutrition Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #fitnessmotivation #ootd.
 platform: Instagram
 hits: 265
 text_top: See the most popular Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Turkey In 2022
+title: Top 10 Crossfit Instagram Influencers In Turkey in 2023
 description: >-
-  Find top crossfit Instagram influencers in Turkey in 2022. Most popular hashtags: #crossfit #fitness #workout #motivation.
+  Find top crossfit Instagram influencers in Turkey in 2023. Most popular hashtags: #crossfit #fitness #workout #motivation.
 platform: Instagram
 hits: 42
 text_top: See the top-rated Instagram accounts on inBeat.

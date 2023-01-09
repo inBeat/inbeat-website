@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Greece In 2022
+title: Top 10 Crossfit Instagram Influencers In Greece in 2023
 description: >-
-  Find top crossfit Instagram influencers in Greece in 2022. Most popular hashtags: #greece #fitness #igers #training.
+  Find top crossfit Instagram influencers in Greece in 2023. Most popular hashtags: #greece #fitness #igers #training.
 platform: Instagram
 hits: 16
 text_top: Analyze the most popular Instagram profiles on inBeat.

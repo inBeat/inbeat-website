@@ -1,7 +1,7 @@
 ---
-title: Top 10 Karate Fighters TikTok Influencers In 2022
+title: Top 10 Karate Fighters TikTok Influencers in 2023
 description: >-
-  Find top karate fighters TikTok influencers in 2022. Most popular hashtags: #knife #kickbox #athlet #fighter.
+  Find top karate fighters TikTok influencers in 2023. Most popular hashtags: #knife #kickbox #athlet #fighter.
 platform: TikTok
 hits: 1
 text_top: See the most popular TikTok accounts on inBeat.

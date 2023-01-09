@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Ireland In 2022
+title: Top 10 Mothers TikTok Influencers In Ireland in 2023
 description: >-
-  Find top mothers TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #irish #comedy #foryou.
+  Find top mothers TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #irish #comedy #foryou.
 platform: TikTok
 hits: 14
 text_top: Discover the top-rated TikTok profiles on inBeat.

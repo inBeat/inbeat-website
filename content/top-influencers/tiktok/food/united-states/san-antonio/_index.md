@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In San Antonio In 2022
+title: Top 10 Food TikTok Influencers In San Antonio in 2023
 description: >-
-  Find top food TikTok influencers in San Antonio in 2022. Most popular hashtags: #texas #sanantonio #fyp #food.
+  Find top food TikTok influencers in San Antonio in 2023. Most popular hashtags: #texas #sanantonio #fyp #food.
 platform: TikTok
 hits: 22
 text_top: Analyze the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians Instagram Influencers In New York In 2022
+title: Top 10 Comedians Instagram Influencers In New York in 2023
 description: >-
-  Find top comedians Instagram influencers in New York in 2022. Most popular hashtags: #comedy #comedian #quarantinelife.
+  Find top comedians Instagram influencers in New York in 2023. Most popular hashtags: #comedy #comedian #quarantinelife.
 platform: Instagram
 hits: 65
 text_top: Discover the top-rated Instagram influencers on inBeat.

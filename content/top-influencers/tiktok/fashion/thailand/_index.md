@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Thailand In 2022
+title: Top 10 Fashion TikTok Influencers In Thailand in 2023
 description: >-
-  Find top fashion TikTok influencers in Thailand in 2022. Most popular hashtags: #fyp #foryoupage #foryou #thailand.
+  Find top fashion TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #foryoupage #foryou #thailand.
 platform: TikTok
 hits: 14
 text_top: See the top-rated TikTok profiles on inBeat.

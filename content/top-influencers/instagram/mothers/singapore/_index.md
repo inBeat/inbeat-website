@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Singapore In 2022
+title: Top 10 Mothers Instagram Influencers In Singapore in 2023
 description: >-
-  Find top mothers Instagram influencers in Singapore in 2022. Most popular hashtags: #motherhood #sgmom #singapore #momlife.
+  Find top mothers Instagram influencers in Singapore in 2023. Most popular hashtags: #motherhood #sgmom #singapore #momlife.
 platform: Instagram
 hits: 46
 text_top: See the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Montreal In 2022
+title: Top 10 Makeup TikTok Influencers In Montreal in 2023
 description: >-
-  Find top makeup TikTok influencers in Montreal in 2022. Most popular hashtags: #foryou #makeup #fyp #montreal.
+  Find top makeup TikTok influencers in Montreal in 2023. Most popular hashtags: #foryou #makeup #fyp #montreal.
 platform: TikTok
 hits: 34
 text_top: See the most popular TikTok influencers on inBeat.

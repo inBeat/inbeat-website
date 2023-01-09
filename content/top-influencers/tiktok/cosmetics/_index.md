@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In 2022
+title: Top 10 Cosmetics TikTok Influencers in 2023
 description: >-
-  Find top cosmetics TikTok influencers in 2022. Most popular hashtags: #fyp #duet #skincare #lipgloss.
+  Find top cosmetics TikTok influencers in 2023. Most popular hashtags: #fyp #duet #skincare #lipgloss.
 platform: TikTok
 hits: 373
 text_top: Discover the most popular TikTok influencers on inBeat.

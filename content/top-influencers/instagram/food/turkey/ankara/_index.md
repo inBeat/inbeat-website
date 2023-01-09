@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Ankara In 2022
+title: Top 10 Food Instagram Influencers In Ankara in 2023
 description: >-
-  Find top food Instagram influencers in Ankara in 2022. Most popular hashtags: #ankara #food #istanbul #izmir.
+  Find top food Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #food #istanbul #izmir.
 platform: Instagram
 hits: 106
 text_top: Discover the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Singapore In 2022
+title: Top 10 Fashion Instagram Influencers In Singapore in 2023
 description: >-
-  Find top fashion Instagram influencers in Singapore in 2022. Most popular hashtags: #sp #indianfashion #ootd.
+  Find top fashion Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #indianfashion #ootd.
 platform: Instagram
 hits: 65
 text_top: Discover the most popular Instagram influencers on inBeat.

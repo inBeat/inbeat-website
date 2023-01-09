@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Malaysia In 2022
+title: Top 10 Architecture Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top architecture Instagram influencers in Malaysia in 2022. Most popular hashtags: #kualalumpur #architecture #malaysia #hellofrom.
+  Find top architecture Instagram influencers in Malaysia in 2023. Most popular hashtags: #kualalumpur #architecture #malaysia #hellofrom.
 platform: Instagram
 hits: 16
 text_top: Discover the top-rated Instagram influencers on inBeat.

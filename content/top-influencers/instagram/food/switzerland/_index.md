@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Switzerland In 2022
+title: Top 10 Food Instagram Influencers In Switzerland in 2023
 description: >-
-  Find top food Instagram influencers in Switzerland in 2022. Most popular hashtags: #switzerland #zurich #myswitzerland #collab.
+  Find top food Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #zurich #myswitzerland #collab.
 platform: Instagram
 hits: 175
 text_top: Discover the top-rated Instagram profiles on inBeat.

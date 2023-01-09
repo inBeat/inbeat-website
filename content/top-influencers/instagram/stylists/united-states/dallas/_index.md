@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Dallas In 2022
+title: Top 10 Stylists Instagram Influencers In Dallas in 2023
 description: >-
-  Find top stylists Instagram influencers in Dallas in 2022. Most popular hashtags: #dallas #stylist #liketkit #hair.
+  Find top stylists Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #stylist #liketkit #hair.
 platform: Instagram
 hits: 54
 text_top: See the best Instagram influencers on inBeat.

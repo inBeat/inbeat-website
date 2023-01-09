@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In London In 2022
+title: Top 10 Nutrition Instagram Influencers In London in 2023
 description: >-
-  Find top nutrition Instagram influencers in London in 2022. Most popular hashtags: #london #nutrition #coffee #summer.
+  Find top nutrition Instagram influencers in London in 2023. Most popular hashtags: #london #nutrition #coffee #summer.
 platform: Instagram
 hits: 65
 text_top: See the most popular Instagram profiles on inBeat.

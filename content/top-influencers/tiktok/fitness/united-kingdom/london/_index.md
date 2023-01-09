@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In London In 2022
+title: Top 10 Fitness TikTok Influencers In London in 2023
 description: >-
-  Find top fitness TikTok influencers in London in 2022. Most popular hashtags: #fitness #fyp #london #workout.
+  Find top fitness TikTok influencers in London in 2023. Most popular hashtags: #fitness #fyp #london #workout.
 platform: TikTok
 hits: 57
 text_top: Analyze the top-rated TikTok influencers on inBeat.

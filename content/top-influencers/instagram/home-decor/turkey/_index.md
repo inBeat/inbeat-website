@@ -1,7 +1,7 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Turkey In 2022
+title: Top 10 Home Decor Instagram Influencers In Turkey in 2023
 description: >-
-  Find top home decor Instagram influencers in Turkey in 2022. Most popular hashtags: #homedecor #handmade #plants #interiordesign.
+  Find top home decor Instagram influencers in Turkey in 2023. Most popular hashtags: #homedecor #handmade #plants #interiordesign.
 platform: Instagram
 hits: 235
 text_top: See the most popular Instagram accounts on inBeat.

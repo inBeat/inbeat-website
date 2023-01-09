@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Australia In 2022
+title: Top 10 Lifestyle TikTok Influencers In Australia in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Australia in 2022. Most popular hashtags: #fyp #foryoupage #duet #aesthetic.
+  Find top lifestyle TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #duet #aesthetic.
 platform: TikTok
 hits: 34
 text_top: Analyze the most popular TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Thailand In 2022
+title: Top 10 Models Instagram Influencers In Thailand in 2023
 description: >-
-  Find top models Instagram influencers in Thailand in 2022. Most popular hashtags: #tmor4 #takemeoutreality #discomakeup.
+  Find top models Instagram influencers in Thailand in 2023. Most popular hashtags: #tmor4 #takemeoutreality #discomakeup.
 platform: Instagram
 hits: 93
 text_top: Identify the best Instagram influencers on inBeat.

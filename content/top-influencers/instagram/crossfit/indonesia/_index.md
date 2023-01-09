@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Indonesia In 2022
+title: Top 10 Crossfit Instagram Influencers In Indonesia in 2023
 description: >-
-  Find top crossfit Instagram influencers in Indonesia in 2022. Most popular hashtags: #crossfit #fitness #coach #workout.
+  Find top crossfit Instagram influencers in Indonesia in 2023. Most popular hashtags: #crossfit #fitness #coach #workout.
 platform: Instagram
 hits: 19
 text_top: Analyze the most popular Instagram profiles on inBeat.

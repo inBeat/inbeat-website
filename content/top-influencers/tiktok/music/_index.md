@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In 2022
+title: Top 10 Music TikTok Influencers in 2023
 description: >-
-  Find top music TikTok influencers in 2022. Most popular hashtags: #fyp #foryoupage #foryou.
+  Find top music TikTok influencers in 2023. Most popular hashtags: #fyp #foryoupage #foryou.
 platform: TikTok
 hits: 21600
 text_top: Identify the top-rated TikTok influencers on inBeat.

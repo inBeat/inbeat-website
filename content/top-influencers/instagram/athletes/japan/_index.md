@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Japan In 2022
+title: Top 10 Athletes Instagram Influencers In Japan in 2023
 description: >-
-  Find top athletes Instagram influencers in Japan in 2022. Most popular hashtags: #workout #tricking #kick #japan.
+  Find top athletes Instagram influencers in Japan in 2023. Most popular hashtags: #workout #tricking #kick #japan.
 platform: Instagram
 hits: 47
 text_top: Analyze the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters Instagram Influencers In Venezuela In 2022
+title: Top 10 Painters Instagram Influencers In Venezuela in 2023
 description: >-
-  Find top painters Instagram influencers in Venezuela in 2022. Most popular hashtags: #amor #love #cuarentena #colombia.
+  Find top painters Instagram influencers in Venezuela in 2023. Most popular hashtags: #amor #love #cuarentena #colombia.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Singapore In 2022
+title: Top 10 Food Instagram Influencers In Singapore in 2023
 description: >-
-  Find top food Instagram influencers in Singapore in 2022. Most popular hashtags: #sp #sgfood #instasg #igsg.
+  Find top food Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #sgfood #instasg #igsg.
 platform: Instagram
 hits: 92
 text_top: Analyze the top-rated Instagram profiles on inBeat.

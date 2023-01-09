@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Norway In 2022
+title: Top 10 Nutrition Instagram Influencers In Norway in 2023
 description: >-
-  Find top nutrition Instagram influencers in Norway in 2022. Most popular hashtags: #reklame #fitness #health.
+  Find top nutrition Instagram influencers in Norway in 2023. Most popular hashtags: #reklame #fitness #health.
 platform: Instagram
 hits: 18
 text_top: Analyze the most popular Instagram accounts on inBeat.

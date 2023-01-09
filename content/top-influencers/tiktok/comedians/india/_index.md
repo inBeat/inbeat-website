@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In India In 2022
+title: Top 10 Comedians TikTok Influencers In India in 2023
 description: >-
-  Find top comedians TikTok influencers in India in 2022. Most popular hashtags: #foryou #comedy #foryoupage.
+  Find top comedians TikTok influencers in India in 2023. Most popular hashtags: #foryou #comedy #foryoupage.
 platform: TikTok
 hits: 195
 text_top: Discover the best TikTok accounts on inBeat.

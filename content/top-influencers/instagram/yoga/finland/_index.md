@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Finland In 2022
+title: Top 10 Yoga Instagram Influencers In Finland in 2023
 description: >-
-  Find top yoga Instagram influencers in Finland in 2022. Most popular hashtags: #yoga #finland #nature #helsinki.
+  Find top yoga Instagram influencers in Finland in 2023. Most popular hashtags: #yoga #finland #nature #helsinki.
 platform: Instagram
 hits: 19
 text_top: See the top-rated Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Madrid In 2022
+title: Top 10 Fitness Instagram Influencers In Madrid in 2023
 description: >-
-  Find top fitness Instagram influencers in Madrid in 2022. Most popular hashtags: #madrid #fitness #love #model.
+  Find top fitness Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #fitness #love #model.
 platform: Instagram
 hits: 177
 text_top: See the most popular Instagram accounts on inBeat.

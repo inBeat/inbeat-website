@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Austin In 2022
+title: Top 10 Models Instagram Influencers In Austin in 2023
 description: >-
-  Find top models Instagram influencers in Austin in 2022. Most popular hashtags: #model #photography #texas.
+  Find top models Instagram influencers in Austin in 2023. Most popular hashtags: #model #photography #texas.
 platform: Instagram
 hits: 144
 text_top: Identify the most popular Instagram accounts on inBeat.

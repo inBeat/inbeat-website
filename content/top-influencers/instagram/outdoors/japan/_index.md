@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Japan In 2022
+title: Top 10 Outdoors Instagram Influencers In Japan in 2023
 description: >-
-  Find top outdoors Instagram influencers in Japan in 2022. Most popular hashtags: #camping #outdoors #camp #camphack.
+  Find top outdoors Instagram influencers in Japan in 2023. Most popular hashtags: #camping #outdoors #camp #camphack.
 platform: Instagram
 hits: 155
 text_top: See the top-rated Instagram profiles on inBeat.

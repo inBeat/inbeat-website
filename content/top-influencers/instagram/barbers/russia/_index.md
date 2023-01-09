@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Russia In 2022
+title: Top 10 Barbers Instagram Influencers In Russia in 2023
 description: >-
-  Find top barbers Instagram influencers in Russia in 2022. Most popular hashtags: #barbershop #barber #haircut #barbershopconnect.
+  Find top barbers Instagram influencers in Russia in 2023. Most popular hashtags: #barbershop #barber #haircut #barbershopconnect.
 platform: Instagram
 hits: 124
 text_top: See the top-rated Instagram influencers on inBeat.

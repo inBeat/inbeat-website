@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Japan In 2022
+title: Top 10 Fashion TikTok Influencers In Japan in 2023
 description: >-
-  Find top fashion TikTok influencers in Japan in 2022. Most popular hashtags: #fashion #fyp #dance #halloween.
+  Find top fashion TikTok influencers in Japan in 2023. Most popular hashtags: #fashion #fyp #dance #halloween.
 platform: TikTok
 hits: 22
 text_top: Identify the best TikTok accounts on inBeat.

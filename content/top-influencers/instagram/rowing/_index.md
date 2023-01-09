@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rowing Instagram Influencers In 2022
+title: Top 10 Rowing Instagram Influencers in 2023
 description: >-
-  Find top rowing Instagram influencers in 2022. Most popular hashtags: #rowing #roeien #rudern.
+  Find top rowing Instagram influencers in 2023. Most popular hashtags: #rowing #roeien #rudern.
 platform: Instagram
 hits: 562
 text_top: See the most popular Instagram profiles on inBeat.
@@ -107,7 +107,7 @@ profiles:
     fullname: >-
       Bjorn van den Ende
     bio: >-
-      🇳🇱 Olympic rowing athlete 🚣 Member of the @hollandacht 🇯🇵 Olympic Games Tokyo 2022 🤙 @redbullned athlete 🏋🏼 Former lightweight | OG Rio '
+      🇳🇱 Olympic rowing athlete 🚣 Member of the @hollandacht 🇯🇵 Olympic Games Tokyo 2023 🤙 @redbullned athlete 🏋🏼 Former lightweight | OG Rio '
     location: "Brazil"
     followers: 8199
     engagement: 575

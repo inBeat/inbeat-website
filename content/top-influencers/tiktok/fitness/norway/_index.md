@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Norway In 2022
+title: Top 10 Fitness TikTok Influencers In Norway in 2023
 description: >-
-  Find top fitness TikTok influencers in Norway in 2022. Most popular hashtags: #foryou #fyp #fitness #foryoupage.
+  Find top fitness TikTok influencers in Norway in 2023. Most popular hashtags: #foryou #fyp #fitness #foryoupage.
 platform: TikTok
 hits: 10
 text_top: Analyze the most popular TikTok profiles on inBeat.

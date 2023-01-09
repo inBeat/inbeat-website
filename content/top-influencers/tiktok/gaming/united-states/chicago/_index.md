@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Chicago In 2022
+title: Top 10 Gaming TikTok Influencers In Chicago in 2023
 description: >-
-  Find top gaming TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #gaming #foryou #funny.
+  Find top gaming TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #gaming #foryou #funny.
 platform: TikTok
 hits: 19
 text_top: Discover the top-rated TikTok accounts on inBeat.

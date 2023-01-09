@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lacrosse Players Instagram Influencers In 2022
+title: Top 10 Lacrosse Players Instagram Influencers in 2023
 description: >-
-  Find top lacrosse players Instagram influencers in 2022. Most popular hashtags: #blackouttuesday #togetherasone #blm.
+  Find top lacrosse players Instagram influencers in 2023. Most popular hashtags: #blackouttuesday #togetherasone #blm.
 platform: Instagram
 hits: 30
 text_top: Identify the top-rated Instagram influencers on inBeat.

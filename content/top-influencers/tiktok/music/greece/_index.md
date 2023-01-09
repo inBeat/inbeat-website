@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Greece In 2022
+title: Top 10 Music TikTok Influencers In Greece in 2023
 description: >-
-  Find top music TikTok influencers in Greece in 2022. Most popular hashtags: #foryou #fyp #foryoupage #tiktok.
+  Find top music TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #fyp #foryoupage #tiktok.
 platform: TikTok
 hits: 22
 text_top: Identify the top-rated TikTok accounts on inBeat.

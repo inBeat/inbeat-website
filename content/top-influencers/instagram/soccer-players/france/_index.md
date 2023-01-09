@@ -1,7 +1,7 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In France In 2022
+title: Top 10 Soccer-Players Instagram Influencers In France in 2023
 description: >-
-  Find top soccer-players Instagram influencers in France in 2022. Most popular hashtags: #soccer #soccerplayer #football #ligue1.
+  Find top soccer-players Instagram influencers in France in 2023. Most popular hashtags: #soccer #soccerplayer #football #ligue1.
 platform: Instagram
 hits: 28
 text_top: Analyze the most popular Instagram accounts on inBeat.

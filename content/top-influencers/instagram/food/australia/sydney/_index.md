@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Sydney In 2022
+title: Top 10 Food Instagram Influencers In Sydney in 2023
 description: >-
-  Find top food Instagram influencers in Sydney in 2022. Most popular hashtags: #sydneyfoodie #food #sydneyeats.
+  Find top food Instagram influencers in Sydney in 2023. Most popular hashtags: #sydneyfoodie #food #sydneyeats.
 platform: Instagram
 hits: 132
 text_top: Discover the most popular Instagram profiles on inBeat.

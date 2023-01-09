@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In 2022
+title: Top 10 Cosmetics Instagram Influencers in 2023
 description: >-
-  Find top cosmetics Instagram influencers in 2022. Most popular hashtags: #suvabeautyhydraliner #halloween #ofrabeauties.
+  Find top cosmetics Instagram influencers in 2023. Most popular hashtags: #suvabeautyhydraliner #halloween #ofrabeauties.
 platform: Instagram
 hits: 7862
 text_top: Discover the top-rated Instagram profiles on inBeat.

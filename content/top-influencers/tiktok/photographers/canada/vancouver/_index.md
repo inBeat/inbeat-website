@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Vancouver In 2022
+title: Top 10 Photographers TikTok Influencers In Vancouver in 2023
 description: >-
-  Find top photographers TikTok influencers in Vancouver in 2022. Most popular hashtags: #canada #photographer #fyp #vancouver.
+  Find top photographers TikTok influencers in Vancouver in 2023. Most popular hashtags: #canada #photographer #fyp #vancouver.
 platform: TikTok
 hits: 16
 text_top: Analyze the most popular TikTok influencers on inBeat.

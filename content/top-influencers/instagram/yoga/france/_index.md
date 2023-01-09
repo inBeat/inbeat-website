@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In France In 2022
+title: Top 10 Yoga Instagram Influencers In France in 2023
 description: >-
-  Find top yoga Instagram influencers in France in 2022. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogapose.
+  Find top yoga Instagram influencers in France in 2023. Most popular hashtags: #yoga #yogapractice #yogainspiration #yogapose.
 platform: Instagram
 hits: 382
 text_top: Analyze the most popular Instagram profiles on inBeat.

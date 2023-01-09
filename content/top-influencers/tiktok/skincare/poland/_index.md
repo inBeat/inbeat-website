@@ -1,7 +1,7 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Poland In 2022
+title: Top 10 Skincare TikTok Influencers In Poland in 2023
 description: >-
-  Find top skincare TikTok influencers in Poland in 2022. Most popular hashtags: #fyp #skincare #dc #foryou.
+  Find top skincare TikTok influencers in Poland in 2023. Most popular hashtags: #fyp #skincare #dc #foryou.
 platform: TikTok
 hits: 14
 text_top: Discover the top-rated TikTok influencers on inBeat.

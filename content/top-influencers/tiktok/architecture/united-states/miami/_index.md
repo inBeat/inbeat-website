@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Miami In 2022
+title: Top 10 Architecture TikTok Influencers In Miami in 2023
 description: >-
-  Find top architecture TikTok influencers in Miami in 2022. Most popular hashtags: #fyp #architecture #miami #interiordesign.
+  Find top architecture TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #architecture #miami #interiordesign.
 platform: TikTok
 hits: 5
 text_top: Identify the top-rated TikTok profiles on inBeat.

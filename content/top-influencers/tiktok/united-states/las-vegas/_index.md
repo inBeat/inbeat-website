@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Las Vegas In 2022
+title: Top 10 TikTok Influencers In Las Vegas in 2023
 description: >-
-  Find top TikTok influencers in Las Vegas in 2022. Most popular hashtags: #duet #fyp #greenscreen #foryoupage.
+  Find top TikTok influencers in Las Vegas in 2023. Most popular hashtags: #duet #fyp #greenscreen #foryoupage.
 platform: TikTok
 hits: 605
 text_top: Discover the top-rated TikTok accounts on inBeat.

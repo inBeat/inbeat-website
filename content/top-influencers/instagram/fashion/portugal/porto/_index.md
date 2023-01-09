@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Porto In 2022
+title: Top 10 Fashion Instagram Influencers In Porto in 2023
 description: >-
-  Find top fashion Instagram influencers in Porto in 2022. Most popular hashtags: #porto #fashion #portugal #ootd.
+  Find top fashion Instagram influencers in Porto in 2023. Most popular hashtags: #porto #fashion #portugal #ootd.
 platform: Instagram
 hits: 60
 text_top: Analyze the most popular Instagram accounts on inBeat.

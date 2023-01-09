@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In 2022
+title: Top 10 Djs Instagram Influencers in 2023
 description: >-
-  Find top djs Instagram influencers in 2022. Most popular hashtags: #halloween2020 #lgbtq #flavntyourself.
+  Find top djs Instagram influencers in 2023. Most popular hashtags: #halloween2020 #lgbtq #flavntyourself.
 platform: Instagram
 hits: 2805
 text_top: See the best Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Atlanta In 2022
+title: Top 10 Food Instagram Influencers In Atlanta in 2023
 description: >-
-  Find top food Instagram influencers in Atlanta in 2022. Most popular hashtags: #atlanta #food #atleats #foodie.
+  Find top food Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #food #atleats #foodie.
 platform: Instagram
 hits: 131
 text_top: Analyze the top-rated Instagram accounts on inBeat.

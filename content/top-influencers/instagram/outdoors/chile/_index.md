@@ -1,7 +1,7 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Chile In 2022
+title: Top 10 Outdoors Instagram Influencers In Chile in 2023
 description: >-
-  Find top outdoors Instagram influencers in Chile in 2022. Most popular hashtags: #outdoors #chile #landscape #travelphotography.
+  Find top outdoors Instagram influencers in Chile in 2023. Most popular hashtags: #outdoors #chile #landscape #travelphotography.
 platform: Instagram
 hits: 86
 text_top: See the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Sydney In 2022
+title: Top 10 Fitness Instagram Influencers In Sydney in 2023
 description: >-
-  Find top fitness Instagram influencers in Sydney in 2022. Most popular hashtags: #fitness #sydney #fitnessmotivation #australia.
+  Find top fitness Instagram influencers in Sydney in 2023. Most popular hashtags: #fitness #sydney #fitnessmotivation #australia.
 platform: Instagram
 hits: 119
 text_top: Analyze the top-rated Instagram accounts on inBeat.

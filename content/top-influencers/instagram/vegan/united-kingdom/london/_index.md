@@ -1,7 +1,7 @@
 ---
-title: Top 10 Vegan Instagram Influencers In London In 2022
+title: Top 10 Vegan Instagram Influencers In London in 2023
 description: >-
-  Find top vegan Instagram influencers in London in 2022. Most popular hashtags: #veganlondon #vegan #veganuk #veganfood.
+  Find top vegan Instagram influencers in London in 2023. Most popular hashtags: #veganlondon #vegan #veganuk #veganfood.
 platform: Instagram
 hits: 216
 text_top: See the best Instagram influencers on inBeat.

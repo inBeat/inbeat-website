@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Ukraine In 2022
+title: Top 10 Fitness TikTok Influencers In Ukraine in 2023
 description: >-
-  Find top fitness TikTok influencers in Ukraine in 2022. Most popular hashtags: #fitness #workout #sport #ukraine.
+  Find top fitness TikTok influencers in Ukraine in 2023. Most popular hashtags: #fitness #workout #sport #ukraine.
 platform: TikTok
 hits: 9
 text_top: See the top-rated TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Izmir In 2022
+title: Top 10 Yoga Instagram Influencers In Izmir in 2023
 description: >-
-  Find top yoga Instagram influencers in Izmir in 2022. Most popular hashtags: #yoga #izmir #love #nature.
+  Find top yoga Instagram influencers in Izmir in 2023. Most popular hashtags: #yoga #izmir #love #nature.
 platform: Instagram
 hits: 20
 text_top: Identify the top-rated Instagram accounts on inBeat.

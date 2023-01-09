@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Philadelphia In 2022
+title: Top 10 Fitness Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top fitness Instagram influencers in Philadelphia in 2022. Most popular hashtags: #fitness #fitnessmotivation #philadelphia #love.
+  Find top fitness Instagram influencers in Philadelphia in 2023. Most popular hashtags: #fitness #fitnessmotivation #philadelphia #love.
 platform: Instagram
 hits: 45
 text_top: Identify the top-rated Instagram accounts on inBeat.

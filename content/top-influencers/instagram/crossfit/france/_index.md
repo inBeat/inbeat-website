@@ -1,7 +1,7 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In France In 2022
+title: Top 10 Crossfit Instagram Influencers In France in 2023
 description: >-
-  Find top crossfit Instagram influencers in France in 2022. Most popular hashtags: #fitness #crossfit #fit #motivation.
+  Find top crossfit Instagram influencers in France in 2023. Most popular hashtags: #fitness #crossfit #fit #motivation.
 platform: Instagram
 hits: 182
 text_top: Identify the top-rated Instagram influencers on inBeat.

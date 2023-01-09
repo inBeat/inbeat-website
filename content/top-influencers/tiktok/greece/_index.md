@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Greece In 2022
+title: Top 10 TikTok Influencers In Greece in 2023
 description: >-
-  Find top TikTok influencers in Greece in 2022. Most popular hashtags: #fyp #greece #foryou.
+  Find top TikTok influencers in Greece in 2023. Most popular hashtags: #fyp #greece #foryou.
 platform: TikTok
 hits: 282
 text_top: Identify the top-rated TikTok profiles on inBeat.

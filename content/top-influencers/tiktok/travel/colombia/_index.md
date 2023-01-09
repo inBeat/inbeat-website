@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Colombia In 2022
+title: Top 10 Travel TikTok Influencers In Colombia in 2023
 description: >-
-  Find top travel TikTok influencers in Colombia in 2022. Most popular hashtags: #colombia #viajes #travel #tiktoktravel.
+  Find top travel TikTok influencers in Colombia in 2023. Most popular hashtags: #colombia #viajes #travel #tiktoktravel.
 platform: TikTok
 hits: 40
 text_top: See the most popular TikTok influencers on inBeat.

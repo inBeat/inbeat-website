@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Finland In 2022
+title: Top 10 Fashion TikTok Influencers In Finland in 2023
 description: >-
-  Find top fashion TikTok influencers in Finland in 2022. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
+  Find top fashion TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
 platform: TikTok
 hits: 9
 text_top: Discover the best TikTok profiles on inBeat.

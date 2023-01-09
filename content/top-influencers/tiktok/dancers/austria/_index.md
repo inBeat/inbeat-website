@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Austria In 2022
+title: Top 10 Dancers TikTok Influencers In Austria in 2023
 description: >-
-  Find top dancers TikTok influencers in Austria in 2022. Most popular hashtags: #austria #fyp #foryou #vienna.
+  Find top dancers TikTok influencers in Austria in 2023. Most popular hashtags: #austria #fyp #foryou #vienna.
 platform: TikTok
 hits: 8
 text_top: See the best TikTok profiles on inBeat.

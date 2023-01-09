@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Bali In 2022
+title: Top 10 Architecture Instagram Influencers In Bali in 2023
 description: >-
-  Find top architecture Instagram influencers in Bali in 2022. Most popular hashtags: #bali #architecture #indonesia #balilife.
+  Find top architecture Instagram influencers in Bali in 2023. Most popular hashtags: #bali #architecture #indonesia #balilife.
 platform: Instagram
 hits: 39
 text_top: Analyze the best Instagram accounts on inBeat.

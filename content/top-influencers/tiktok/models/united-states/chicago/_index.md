@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models TikTok Influencers In Chicago In 2022
+title: Top 10 Models TikTok Influencers In Chicago in 2023
 description: >-
-  Find top models TikTok influencers in Chicago in 2022. Most popular hashtags: #fyp #chicago #viral #model.
+  Find top models TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #viral #model.
 platform: TikTok
 hits: 53
 text_top: See the best TikTok profiles on inBeat.

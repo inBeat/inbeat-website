@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Jakarta In 2022
+title: Top 10 Health Instagram Influencers In Jakarta in 2023
 description: >-
-  Find top health Instagram influencers in Jakarta in 2022. Most popular hashtags: #jakarta #fashion #bandung #health.
+  Find top health Instagram influencers in Jakarta in 2023. Most popular hashtags: #jakarta #fashion #bandung #health.
 platform: Instagram
 hits: 58
 text_top: See the most popular Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Brazil In 2022
+title: Top 10 Beauty Instagram Influencers In Brazil in 2023
 description: >-
-  Find top beauty Instagram influencers in Brazil in 2022. Most popular hashtags: #publi #challenge #instagood.
+  Find top beauty Instagram influencers in Brazil in 2023. Most popular hashtags: #publi #challenge #instagood.
 platform: Instagram
 hits: 3681
 text_top: Analyze the most popular Instagram accounts on inBeat.

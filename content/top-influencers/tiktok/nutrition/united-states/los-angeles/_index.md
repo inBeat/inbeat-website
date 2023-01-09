@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Los Angeles In 2022
+title: Top 10 Nutrition TikTok Influencers In Los Angeles in 2023
 description: >-
-  Find top nutrition TikTok influencers in Los Angeles in 2022. Most popular hashtags: #fyp #funny #foryou #comedy.
+  Find top nutrition TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #funny #foryou #comedy.
 platform: TikTok
 hits: 5
 text_top: See the most popular TikTok influencers on inBeat.

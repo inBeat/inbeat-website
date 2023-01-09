@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Italy In 2022
+title: Top 10 Health Instagram Influencers In Italy in 2023
 description: >-
-  Find top health Instagram influencers in Italy in 2022. Most popular hashtags: #puglia #style #bodytransformation.
+  Find top health Instagram influencers in Italy in 2023. Most popular hashtags: #puglia #style #bodytransformation.
 platform: Instagram
 hits: 955
 text_top: Discover the top-rated Instagram profiles on inBeat.

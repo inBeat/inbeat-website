@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In United Kingdom In 2022
+title: Top 10 Nail Artists Instagram Influencers In United Kingdom in 2023
 description: >-
-  Find top nail artists Instagram influencers in United Kingdom in 2022. Most popular hashtags: #naturalnails #nailart #nailinspo.
+  Find top nail artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #naturalnails #nailart #nailinspo.
 platform: Instagram
 hits: 67
 text_top: Analyze the most popular Instagram accounts on inBeat.

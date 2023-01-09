@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Brazil In 2022
+title: Top 10 Cooking TikTok Influencers In Brazil in 2023
 description: >-
-  Find top cooking TikTok influencers in Brazil in 2022. Most popular hashtags: #foryou #cooking #fyp #foryoupage.
+  Find top cooking TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #cooking #fyp #foryoupage.
 platform: TikTok
 hits: 28
 text_top: Discover the top-rated TikTok accounts on inBeat.

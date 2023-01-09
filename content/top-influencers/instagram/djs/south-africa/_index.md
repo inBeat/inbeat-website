@@ -1,7 +1,7 @@
 ---
-title: Top 10 Djs Instagram Influencers In South Africa In 2022
+title: Top 10 Djs Instagram Influencers In South Africa in 2023
 description: >-
-  Find top djs Instagram influencers in South Africa in 2022. Most popular hashtags: #nigeria #radio #africa.
+  Find top djs Instagram influencers in South Africa in 2023. Most popular hashtags: #nigeria #radio #africa.
 platform: Instagram
 hits: 13
 text_top: See the most popular Instagram accounts on inBeat.

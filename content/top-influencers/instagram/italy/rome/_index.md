@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Rome In 2022
+title: Top 10 Instagram Influencers In Rome in 2023
 description: >-
-  Find top Instagram influencers in Rome in 2022. Most popular hashtags: #italy #fashion #home.
+  Find top Instagram influencers in Rome in 2023. Most popular hashtags: #italy #fashion #home.
 platform: Instagram
 hits: 1305
 text_top: See the best Instagram profiles on inBeat.

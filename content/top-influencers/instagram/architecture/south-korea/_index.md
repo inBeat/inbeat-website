@@ -1,7 +1,7 @@
 ---
-title: Top 10 Architecture Instagram Influencers In South Korea In 2022
+title: Top 10 Architecture Instagram Influencers In South Korea in 2023
 description: >-
-  Find top architecture Instagram influencers in South Korea in 2022. Most popular hashtags: #architecture #architecturesketch #pensketch.
+  Find top architecture Instagram influencers in South Korea in 2023. Most popular hashtags: #architecture #architecturesketch #pensketch.
 platform: Instagram
 hits: 10
 text_top: Discover the top-rated Instagram influencers on inBeat.

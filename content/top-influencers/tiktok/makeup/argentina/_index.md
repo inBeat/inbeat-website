@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Argentina In 2022
+title: Top 10 Makeup TikTok Influencers In Argentina in 2023
 description: >-
-  Find top makeup TikTok influencers in Argentina in 2022. Most popular hashtags: #makeup #parati #foryoupage #foryou.
+  Find top makeup TikTok influencers in Argentina in 2023. Most popular hashtags: #makeup #parati #foryoupage #foryou.
 platform: TikTok
 hits: 114
 text_top: See the top-rated TikTok profiles on inBeat.

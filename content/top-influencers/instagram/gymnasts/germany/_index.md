@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Germany In 2022
+title: Top 10 Gymnasts Instagram Influencers In Germany in 2023
 description: >-
-  Find top gymnasts Instagram influencers in Germany in 2022. Most popular hashtags: #gymnastics #happy #training.
+  Find top gymnasts Instagram influencers in Germany in 2023. Most popular hashtags: #gymnastics #happy #training.
 platform: Instagram
 hits: 176
 text_top: Analyze the best Instagram profiles on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Marina González
     bio: >-
-      🤸🏼‍♀️||Gymnast🇪🇸National Team 🇭🇺||world cup🥇floor 🇩🇪||worldchampionships 2019 🇯🇵||working on Tokio 2022 Official Website👇🏼👇🏼
+      🤸🏼‍♀️||Gymnast🇪🇸National Team 🇭🇺||world cup🥇floor 🇩🇪||worldchampionships 2019 🇯🇵||working on Tokio 2023 Official Website👇🏼👇🏼
     location: "Germany"
     followers: 4163
     engagement: 2492

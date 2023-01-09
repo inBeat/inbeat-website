@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Portugal In 2022
+title: Top 10 Dancers TikTok Influencers In Portugal in 2023
 description: >-
-  Find top dancers TikTok influencers in Portugal in 2022. Most popular hashtags: #fyp #dance #foryoupage #tiktokportugal.
+  Find top dancers TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #dance #foryoupage #tiktokportugal.
 platform: TikTok
 hits: 13
 text_top: Discover the most popular TikTok influencers on inBeat.

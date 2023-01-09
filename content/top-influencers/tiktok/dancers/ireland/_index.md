@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Ireland In 2022
+title: Top 10 Dancers TikTok Influencers In Ireland in 2023
 description: >-
-  Find top dancers TikTok influencers in Ireland in 2022. Most popular hashtags: #fyp #duet #foryou #dance.
+  Find top dancers TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #duet #foryou #dance.
 platform: TikTok
 hits: 10
 text_top: Identify the most popular TikTok influencers on inBeat.

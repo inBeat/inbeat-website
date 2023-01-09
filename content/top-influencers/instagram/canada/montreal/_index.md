@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Montreal In 2022
+title: Top 10 Instagram Influencers In Montreal in 2023
 description: >-
-  Find top Instagram influencers in Montreal in 2022. Most popular hashtags: #gifted #dirtybootsmessyhair #worldtravel.
+  Find top Instagram influencers in Montreal in 2023. Most popular hashtags: #gifted #dirtybootsmessyhair #worldtravel.
 platform: Instagram
 hits: 815
 text_top: Discover the best Instagram accounts on inBeat.

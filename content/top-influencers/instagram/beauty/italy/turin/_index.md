@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Turin In 2022
+title: Top 10 Beauty Instagram Influencers In Turin in 2023
 description: >-
-  Find top beauty Instagram influencers in Turin in 2022. Most popular hashtags: #me #beauty #makeup #fashion.
+  Find top beauty Instagram influencers in Turin in 2023. Most popular hashtags: #me #beauty #makeup #fashion.
 platform: Instagram
 hits: 25
 text_top: See the top-rated Instagram accounts on inBeat.

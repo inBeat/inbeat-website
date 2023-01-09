@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Malaysia In 2022
+title: Top 10 Makeup TikTok Influencers In Malaysia in 2023
 description: >-
-  Find top makeup TikTok influencers in Malaysia in 2022. Most popular hashtags: #fyp #foryoupage #foryou #tiktokmalaysia.
+  Find top makeup TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #tiktokmalaysia.
 platform: TikTok
 hits: 20
 text_top: Discover the most popular TikTok profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Dallas In 2022
+title: Top 10 Lifestyle TikTok Influencers In Dallas in 2023
 description: >-
-  Find top lifestyle TikTok influencers in Dallas in 2022. Most popular hashtags: #fyp #dallas #texas #lifestyle.
+  Find top lifestyle TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #dallas #texas #lifestyle.
 platform: TikTok
 hits: 12
 text_top: Identify the top-rated TikTok influencers on inBeat.

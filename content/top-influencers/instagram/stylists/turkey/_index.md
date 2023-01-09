@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Turkey In 2022
+title: Top 10 Stylists Instagram Influencers In Turkey in 2023
 description: >-
-  Find top stylists Instagram influencers in Turkey in 2022. Most popular hashtags: #fashion #style #love.
+  Find top stylists Instagram influencers in Turkey in 2023. Most popular hashtags: #fashion #style #love.
 platform: Instagram
 hits: 156
 text_top: Discover the top-rated Instagram accounts on inBeat.

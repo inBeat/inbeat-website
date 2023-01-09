@@ -1,7 +1,7 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Turkey In 2022
+title: Top 10 Lingerie Instagram Influencers In Turkey in 2023
 description: >-
-  Find top lingerie Instagram influencers in Turkey in 2022. Most popular hashtags: #lingerie #model #beauty #fashion.
+  Find top lingerie Instagram influencers in Turkey in 2023. Most popular hashtags: #lingerie #model #beauty #fashion.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram influencers on inBeat.

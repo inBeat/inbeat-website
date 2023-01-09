@@ -1,7 +1,7 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Peru In 2022
+title: Top 10 Photographers Instagram Influencers In Peru in 2023
 description: >-
-  Find top photographers Instagram influencers in Peru in 2022. Most popular hashtags: #sonyalpha #photography #peru #model.
+  Find top photographers Instagram influencers in Peru in 2023. Most popular hashtags: #sonyalpha #photography #peru #model.
 platform: Instagram
 hits: 50
 text_top: See the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Vancouver In 2022
+title: Top 10 Beauty TikTok Influencers In Vancouver in 2023
 description: >-
-  Find top beauty TikTok influencers in Vancouver in 2022. Most popular hashtags: #fyp #vancouver #foryou #foryoupage.
+  Find top beauty TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #vancouver #foryou #foryoupage.
 platform: TikTok
 hits: 14
 text_top: Identify the top-rated TikTok profiles on inBeat.
@@ -119,7 +119,7 @@ profiles:
     fullname: >-
       Makeupbyfateh
     bio: >-
-      Instagram @makeupbyfateh Taking bridal bookings 2020 to 2022
+      Instagram @makeupbyfateh Taking bridal bookings 2020 to 2023
     location: "Canada"
     followers: 39100
     engagement: 457

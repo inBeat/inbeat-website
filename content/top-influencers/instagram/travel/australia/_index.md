@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Australia In 2022
+title: Top 10 Travel Instagram Influencers In Australia in 2023
 description: >-
-  Find top travel Instagram influencers in Australia in 2022. Most popular hashtags: #travel #traveltheworld #dametraveler #travelgram.
+  Find top travel Instagram influencers in Australia in 2023. Most popular hashtags: #travel #traveltheworld #dametraveler #travelgram.
 platform: Instagram
 hits: 1467
 text_top: Discover the best Instagram accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Malaysia In 2022
+title: Top 10 Hypebeast Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Malaysia in 2022. Most popular hashtags: #hypebeast #moodygrams #agameoftones #gramslayers.
+  Find top hypebeast Instagram influencers in Malaysia in 2023. Most popular hashtags: #hypebeast #moodygrams #agameoftones #gramslayers.
 platform: Instagram
 hits: 10
 text_top: Identify the best Instagram profiles on inBeat.

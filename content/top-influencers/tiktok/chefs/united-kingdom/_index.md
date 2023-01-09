@@ -1,7 +1,7 @@
 ---
-title: Top 10 Chefs TikTok Influencers In United Kingdom In 2022
+title: Top 10 Chefs TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top chefs TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #recipe #learnontiktok #food.
+  Find top chefs TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #recipe #learnontiktok #food.
 platform: TikTok
 hits: 83
 text_top: Analyze the best TikTok influencers on inBeat.

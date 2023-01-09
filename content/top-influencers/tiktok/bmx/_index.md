@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bmx TikTok Influencers In 2022
+title: Top 10 Bmx TikTok Influencers in 2023
 description: >-
-  Find top bmx TikTok influencers in 2022. Most popular hashtags: #bmx #foryou #bike #fyp.
+  Find top bmx TikTok influencers in 2023. Most popular hashtags: #bmx #foryou #bike #fyp.
 platform: TikTok
 hits: 229
 text_top: Discover the best TikTok accounts on inBeat.

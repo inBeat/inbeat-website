@@ -1,7 +1,7 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Japan In 2022
+title: Top 10 Gardening Instagram Influencers In Japan in 2023
 description: >-
-  Find top gardening Instagram influencers in Japan in 2022. Most popular hashtags: #garden #gardening #gardenlife #mygarden.
+  Find top gardening Instagram influencers in Japan in 2023. Most popular hashtags: #garden #gardening #gardenlife #mygarden.
 platform: Instagram
 hits: 36
 text_top: Analyze the most popular Instagram profiles on inBeat.

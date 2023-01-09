@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Hamburg In 2022
+title: Top 10 Beauty TikTok Influencers In Hamburg in 2023
 description: >-
-  Find top beauty TikTok influencers in Hamburg in 2022. Most popular hashtags: #hamburg #beauty #foryou #fyp.
+  Find top beauty TikTok influencers in Hamburg in 2023. Most popular hashtags: #hamburg #beauty #foryou #fyp.
 platform: TikTok
 hits: 10
 text_top: See the best TikTok accounts on inBeat.

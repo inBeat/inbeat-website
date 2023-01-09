@@ -1,7 +1,7 @@
 ---
-title: Top 10 Barbers Instagram Influencers In San Francisco In 2022
+title: Top 10 Barbers Instagram Influencers In San Francisco in 2023
 description: >-
-  Find top barbers Instagram influencers in San Francisco in 2022. Most popular hashtags: #barbershopconnect #barber #sanfrancisco #faded.
+  Find top barbers Instagram influencers in San Francisco in 2023. Most popular hashtags: #barbershopconnect #barber #sanfrancisco #faded.
 platform: Instagram
 hits: 10
 text_top: See the top-rated Instagram influencers on inBeat.

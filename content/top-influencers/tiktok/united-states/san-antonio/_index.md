@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In San Antonio In 2022
+title: Top 10 TikTok Influencers In San Antonio in 2023
 description: >-
-  Find top TikTok influencers in San Antonio in 2022. Most popular hashtags: #fyp #foryou #greenscreen #foryoupage.
+  Find top TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #foryou #greenscreen #foryoupage.
 platform: TikTok
 hits: 211
 text_top: Analyze the most popular TikTok influencers on inBeat.

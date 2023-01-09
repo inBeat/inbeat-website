@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cooking Instagram Influencers In France In 2022
+title: Top 10 Cooking Instagram Influencers In France in 2023
 description: >-
-  Find top cooking Instagram influencers in France in 2022. Most popular hashtags: #paris #france #outfitoftheday #lookdujour.
+  Find top cooking Instagram influencers in France in 2023. Most popular hashtags: #paris #france #outfitoftheday #lookdujour.
 platform: Instagram
 hits: 847
 text_top: Analyze the most popular Instagram profiles on inBeat.

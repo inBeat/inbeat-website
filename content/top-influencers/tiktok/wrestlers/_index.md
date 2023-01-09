@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wrestlers TikTok Influencers In 2022
+title: Top 10 Wrestlers TikTok Influencers in 2023
 description: >-
-  Find top wrestlers TikTok influencers in 2022. Most popular hashtags: #foryou #fyp #wrestling #duet.
+  Find top wrestlers TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #wrestling #duet.
 platform: TikTok
 hits: 423
 text_top: Identify the top-rated TikTok accounts on inBeat.

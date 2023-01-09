@@ -1,7 +1,7 @@
 ---
-title: Top 10 TikTok Influencers In Spain In 2022
+title: Top 10 TikTok Influencers In Spain in 2023
 description: >-
-  Find top TikTok influencers in Spain in 2022. Most popular hashtags: #fyp #tiktok #parati #greenscreen.
+  Find top TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #tiktok #parati #greenscreen.
 platform: TikTok
 hits: 2575
 text_top: Identify the top-rated TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Ukraine in 2022. Most popular hashtags: #tattoo #tattooartist #tattooart.
+  Find top tattoo-artists Instagram influencers in Ukraine in 2023. Most popular hashtags: #tattoo #tattooartist #tattooart.
 platform: Instagram
 hits: 33
 text_top: See the best Instagram influencers on inBeat.

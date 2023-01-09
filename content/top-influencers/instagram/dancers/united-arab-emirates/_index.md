@@ -1,7 +1,7 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United Arab Emirates In 2022
+title: Top 10 Dancers Instagram Influencers In United Arab Emirates in 2023
 description: >-
-  Find top dancers Instagram influencers in United Arab Emirates in 2022. Most popular hashtags: #dubai #dance #dancer.
+  Find top dancers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #dance #dancer.
 platform: Instagram
 hits: 20
 text_top: Analyze the most popular Instagram profiles on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Serbia In 2022
+title: Top 10 Instagram Influencers In Serbia in 2023
 description: >-
-  Find top Instagram influencers in Serbia in 2022. Most popular hashtags: #art #nature #belgrade #makeup.
+  Find top Instagram influencers in Serbia in 2023. Most popular hashtags: #art #nature #belgrade #makeup.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram profiles on inBeat.

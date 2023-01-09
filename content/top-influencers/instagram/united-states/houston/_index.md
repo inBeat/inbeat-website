@@ -1,7 +1,7 @@
 ---
-title: Top 10 Instagram Influencers In Houston In 2022
+title: Top 10 Instagram Influencers In Houston in 2023
 description: >-
-  Find top Instagram influencers in Houston in 2022. Most popular hashtags: #houstonblogger #houstonphotographer #howtopose.
+  Find top Instagram influencers in Houston in 2023. Most popular hashtags: #houstonblogger #houstonphotographer #howtopose.
 platform: Instagram
 hits: 2338
 text_top: Discover the best Instagram profiles on inBeat.

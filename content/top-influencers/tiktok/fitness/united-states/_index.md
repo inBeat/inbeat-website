@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness TikTok Influencers In United States In 2022
+title: Top 10 Fitness TikTok Influencers In United States in 2023
 description: >-
-  Find top fitness TikTok influencers in United States in 2022. Most popular hashtags: #fyp #duet #fitness #foryoupage.
+  Find top fitness TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #fitness #foryoupage.
 platform: TikTok
 hits: 3184
 text_top: Analyze the top-rated TikTok profiles on inBeat.

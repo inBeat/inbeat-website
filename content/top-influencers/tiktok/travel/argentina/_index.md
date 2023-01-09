@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel TikTok Influencers In Argentina In 2022
+title: Top 10 Travel TikTok Influencers In Argentina in 2023
 description: >-
-  Find top travel TikTok influencers in Argentina in 2022. Most popular hashtags: #travel #fyp #parati #argentina.
+  Find top travel TikTok influencers in Argentina in 2023. Most popular hashtags: #travel #fyp #parati #argentina.
 platform: TikTok
 hits: 46
 text_top: Analyze the best TikTok accounts on inBeat.

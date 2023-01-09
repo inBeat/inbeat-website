@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Sydney In 2022
+title: Top 10 Athletes TikTok Influencers In Sydney in 2023
 description: >-
-  Find top athletes TikTok influencers in Sydney in 2022. Most popular hashtags: #fyp #foryou #australia #viral.
+  Find top athletes TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #foryou #australia #viral.
 platform: TikTok
 hits: 6
 text_top: See the best TikTok profiles on inBeat.

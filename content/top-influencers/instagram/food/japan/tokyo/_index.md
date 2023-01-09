@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food Instagram Influencers In Tokyo In 2022
+title: Top 10 Food Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top food Instagram influencers in Tokyo in 2022. Most popular hashtags: #tokyo #food #japan #instafood.
+  Find top food Instagram influencers in Tokyo in 2023. Most popular hashtags: #tokyo #food #japan #instafood.
 platform: Instagram
 hits: 83
 text_top: Identify the most popular Instagram accounts on inBeat.

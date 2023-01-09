@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United Kingdom In 2022
+title: Top 10 Comedians TikTok Influencers In United Kingdom in 2023
 description: >-
-  Find top comedians TikTok influencers in United Kingdom in 2022. Most popular hashtags: #fyp #foryou #foryoupage #comedian.
+  Find top comedians TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #comedian.
 platform: TikTok
 hits: 95
 text_top: Discover the most popular TikTok accounts on inBeat.

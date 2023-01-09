@@ -1,7 +1,7 @@
 ---
-title: Top 10 Divers Instagram Influencers In Greece In 2022
+title: Top 10 Divers Instagram Influencers In Greece in 2023
 description: >-
-  Find top divers Instagram influencers in Greece in 2022. Most popular hashtags: #portrait #summer #greece #fashion.
+  Find top divers Instagram influencers in Greece in 2023. Most popular hashtags: #portrait #summer #greece #fashion.
 platform: Instagram
 hits: 20
 text_top: Analyze the most popular Instagram profiles on inBeat.

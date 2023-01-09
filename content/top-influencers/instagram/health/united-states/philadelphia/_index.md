@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health Instagram Influencers In Philadelphia In 2022
+title: Top 10 Health Instagram Influencers In Philadelphia in 2023
 description: >-
-  Find top health Instagram influencers in Philadelphia in 2022. Most popular hashtags: #fitness #love #philadelphia #family.
+  Find top health Instagram influencers in Philadelphia in 2023. Most popular hashtags: #fitness #love #philadelphia #family.
 platform: Instagram
 hits: 38
 text_top: Discover the top-rated Instagram profiles on inBeat.

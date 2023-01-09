@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Colombia In 2022
+title: Top 10 Tattoo-Artists Instagram Influencers In Colombia in 2023
 description: >-
-  Find top tattoo-artists Instagram influencers in Colombia in 2022. Most popular hashtags: #tattoo #tattoos #tattooartist #blackandgrey.
+  Find top tattoo-artists Instagram influencers in Colombia in 2023. Most popular hashtags: #tattoo #tattoos #tattooartist #blackandgrey.
 platform: Instagram
 hits: 34
 text_top: Analyze the most popular Instagram accounts on inBeat.

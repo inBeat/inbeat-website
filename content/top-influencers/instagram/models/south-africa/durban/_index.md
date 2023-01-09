@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Durban In 2022
+title: Top 10 Models Instagram Influencers In Durban in 2023
 description: >-
-  Find top models Instagram influencers in Durban in 2022. Most popular hashtags: #fashion #model #photoshoot #travel.
+  Find top models Instagram influencers in Durban in 2023. Most popular hashtags: #fashion #model #photoshoot #travel.
 platform: Instagram
 hits: 12
 text_top: Identify the top-rated Instagram accounts on inBeat.

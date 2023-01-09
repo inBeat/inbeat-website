@@ -1,7 +1,7 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Milan In 2022
+title: Top 10 Beauty Instagram Influencers In Milan in 2023
 description: >-
-  Find top beauty Instagram influencers in Milan in 2022. Most popular hashtags: #beauty #love #fashion #model.
+  Find top beauty Instagram influencers in Milan in 2023. Most popular hashtags: #beauty #love #fashion #model.
 platform: Instagram
 hits: 463
 text_top: Identify the top-rated Instagram profiles on inBeat.

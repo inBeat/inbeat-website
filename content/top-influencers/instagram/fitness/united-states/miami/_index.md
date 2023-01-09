@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Miami In 2022
+title: Top 10 Fitness Instagram Influencers In Miami in 2023
 description: >-
-  Find top fitness Instagram influencers in Miami in 2022. Most popular hashtags: #miami #fitness #miamibeach #beach.
+  Find top fitness Instagram influencers in Miami in 2023. Most popular hashtags: #miami #fitness #miamibeach #beach.
 platform: Instagram
 hits: 594
 text_top: Analyze the top-rated Instagram profiles on inBeat.

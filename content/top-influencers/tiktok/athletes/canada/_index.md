@@ -1,7 +1,7 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Canada In 2022
+title: Top 10 Athletes TikTok Influencers In Canada in 2023
 description: >-
-  Find top athletes TikTok influencers in Canada in 2022. Most popular hashtags: #fyp #foryou #fail #fitness.
+  Find top athletes TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #fail #fitness.
 platform: TikTok
 hits: 70
 text_top: See the top-rated TikTok accounts on inBeat.

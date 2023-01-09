@@ -1,7 +1,7 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Peru In 2022
+title: Top 10 Bakers Instagram Influencers In Peru in 2023
 description: >-
-  Find top bakers Instagram influencers in Peru in 2022. Most popular hashtags: #peru #instagood #lifestyle #outfits.
+  Find top bakers Instagram influencers in Peru in 2023. Most popular hashtags: #peru #instagood #lifestyle #outfits.
 platform: Instagram
 hits: 8
 text_top: Identify the top-rated Instagram influencers on inBeat.

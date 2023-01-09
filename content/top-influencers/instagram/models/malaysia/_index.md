@@ -1,7 +1,7 @@
 ---
-title: Top 10 Models Instagram Influencers In Malaysia In 2022
+title: Top 10 Models Instagram Influencers In Malaysia in 2023
 description: >-
-  Find top models Instagram influencers in Malaysia in 2022. Most popular hashtags: #ootd #selfie #model #photo.
+  Find top models Instagram influencers in Malaysia in 2023. Most popular hashtags: #ootd #selfie #model #photo.
 platform: Instagram
 hits: 110
 text_top: Identify the best Instagram accounts on inBeat.

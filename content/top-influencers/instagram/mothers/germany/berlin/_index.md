@@ -1,7 +1,7 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Berlin In 2022
+title: Top 10 Mothers Instagram Influencers In Berlin in 2023
 description: >-
-  Find top mothers Instagram influencers in Berlin in 2022. Most popular hashtags: #berlin #love #mother.
+  Find top mothers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #love #mother.
 platform: Instagram
 hits: 54
 text_top: See the best Instagram influencers on inBeat.

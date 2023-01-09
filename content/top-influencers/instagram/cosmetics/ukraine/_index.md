@@ -1,7 +1,7 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Ukraine In 2022
+title: Top 10 Cosmetics Instagram Influencers In Ukraine in 2023
 description: >-
-  Find top cosmetics Instagram influencers in Ukraine in 2022. Most popular hashtags: #makeupartist #makeup #mua.
+  Find top cosmetics Instagram influencers in Ukraine in 2023. Most popular hashtags: #makeupartist #makeup #mua.
 platform: Instagram
 hits: 80
 text_top: See the best Instagram influencers on inBeat.

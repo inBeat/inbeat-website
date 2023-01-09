@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Poland In 2022
+title: Top 10 Fashion TikTok Influencers In Poland in 2023
 description: >-
-  Find top fashion TikTok influencers in Poland in 2022. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
+  Find top fashion TikTok influencers in Poland in 2023. Most popular hashtags: #foryou #fyp #dlaciebie #dc.
 platform: TikTok
 hits: 86
 text_top: See the top-rated TikTok accounts on inBeat.

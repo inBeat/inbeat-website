@@ -1,7 +1,7 @@
 ---
-title: Top 10 Travel Instagram Influencers In Morocco In 2022
+title: Top 10 Travel Instagram Influencers In Morocco in 2023
 description: >-
-  Find top travel Instagram influencers in Morocco in 2022. Most popular hashtags: #marrakech #travelphotography #travelblogger.
+  Find top travel Instagram influencers in Morocco in 2023. Most popular hashtags: #marrakech #travelphotography #travelblogger.
 platform: Instagram
 hits: 167
 text_top: Analyze the best Instagram accounts on inBeat.

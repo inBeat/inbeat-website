@@ -1,7 +1,7 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Australia In 2022
+title: Top 10 Pole Dancers Instagram Influencers In Australia in 2023
 description: >-
-  Find top pole dancers Instagram influencers in Australia in 2022. Most popular hashtags: #poledancer #poledance #poledancing #polefitness.
+  Find top pole dancers Instagram influencers in Australia in 2023. Most popular hashtags: #poledancer #poledance #poledancing #polefitness.
 platform: Instagram
 hits: 24
 text_top: Identify the top-rated Instagram profiles on inBeat.

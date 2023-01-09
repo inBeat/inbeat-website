@@ -1,7 +1,7 @@
 ---
-title: Top 10 Music TikTok Influencers In Austria In 2022
+title: Top 10 Music TikTok Influencers In Austria in 2023
 description: >-
-  Find top music TikTok influencers in Austria in 2022. Most popular hashtags: #foryou #music #fyp #austria.
+  Find top music TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #music #fyp #austria.
 platform: TikTok
 hits: 56
 text_top: Analyze the most popular TikTok profiles on inBeat.

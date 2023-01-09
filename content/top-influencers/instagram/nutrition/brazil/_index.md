@@ -1,7 +1,7 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Brazil In 2022
+title: Top 10 Nutrition Instagram Influencers In Brazil in 2023
 description: >-
-  Find top nutrition Instagram influencers in Brazil in 2022. Most popular hashtags: #tbt #love #lifestyle #gym.
+  Find top nutrition Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #love #lifestyle #gym.
 platform: Instagram
 hits: 406
 text_top: Discover the most popular Instagram influencers on inBeat.

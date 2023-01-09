@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Poland In 2022
+title: Top 10 Fitness Instagram Influencers In Poland in 2023
 description: >-
-  Find top fitness Instagram influencers in Poland in 2022. Most popular hashtags: #body #girl #polskadziewczyna #fitness.
+  Find top fitness Instagram influencers in Poland in 2023. Most popular hashtags: #body #girl #polskadziewczyna #fitness.
 platform: Instagram
 hits: 684
 text_top: See the best Instagram influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Health TikTok Influencers In Houston In 2022
+title: Top 10 Health TikTok Influencers In Houston in 2023
 description: >-
-  Find top health TikTok influencers in Houston in 2022. Most popular hashtags: #fyp #foryoupage #foryou #houston.
+  Find top health TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #foryoupage #foryou #houston.
 platform: TikTok
 hits: 23
 text_top: Analyze the best TikTok influencers on inBeat.
@@ -110,7 +110,7 @@ profiles:
       ⬆️follow me on here & IG⬆️ Just trying to make you laugh venmo:@davison-abrantes
     location: "United States"
     followers: 43900
-    engagement: 2022
+    engagement: 2023
     commentsToLikes: 0.033220
     id: ck81t23qwuvky0j78av0e1n3l
     verified: false

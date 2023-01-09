@@ -1,7 +1,7 @@
 ---
-title: Top 10 Christian Instagram Influencers In Medellín In 2022
+title: Top 10 Christian Instagram Influencers In Medellín in 2023
 description: >-
-  Find top christian Instagram influencers in Medellín in 2022. Most popular hashtags: #medellin #colombia #cali #cuarentena.
+  Find top christian Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #cali #cuarentena.
 platform: Instagram
 hits: 6
 text_top: Discover the most popular Instagram accounts on inBeat.

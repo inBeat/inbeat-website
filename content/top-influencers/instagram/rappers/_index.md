@@ -1,7 +1,7 @@
 ---
-title: Top 10 Rappers Instagram Influencers In 2022
+title: Top 10 Rappers Instagram Influencers in 2023
 description: >-
-  Find top rappers Instagram influencers in 2022. Most popular hashtags: #hiphop #rap #tiktok.
+  Find top rappers Instagram influencers in 2023. Most popular hashtags: #hiphop #rap #tiktok.
 platform: Instagram
 hits: 2275
 text_top: Identify the top-rated Instagram influencers on inBeat.

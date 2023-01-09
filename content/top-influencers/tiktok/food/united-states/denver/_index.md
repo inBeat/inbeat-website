@@ -1,7 +1,7 @@
 ---
-title: Top 10 Food TikTok Influencers In Denver In 2022
+title: Top 10 Food TikTok Influencers In Denver in 2023
 description: >-
-  Find top food TikTok influencers in Denver in 2022. Most popular hashtags: #fyp #foryou #food #foryoupage.
+  Find top food TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #foryou #food #foryoupage.
 platform: TikTok
 hits: 33
 text_top: Analyze the best TikTok accounts on inBeat.

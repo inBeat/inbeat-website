@@ -1,7 +1,7 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Austin In 2022
+title: Top 10 Comedians TikTok Influencers In Austin in 2023
 description: >-
-  Find top comedians TikTok influencers in Austin in 2022. Most popular hashtags: #comedy #fyp #foryou #comedian.
+  Find top comedians TikTok influencers in Austin in 2023. Most popular hashtags: #comedy #fyp #foryou #comedian.
 platform: TikTok
 hits: 18
 text_top: See the most popular TikTok influencers on inBeat.

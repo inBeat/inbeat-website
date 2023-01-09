@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In 2022
+title: Top 10 Wellness Instagram Influencers in 2023
 description: >-
-  Find top wellness Instagram influencers in 2022. Most popular hashtags: #wellness #exploreitaly #selfcare.
+  Find top wellness Instagram influencers in 2023. Most popular hashtags: #wellness #exploreitaly #selfcare.
 platform: Instagram
 hits: 5386
 text_top: Analyze the top-rated Instagram influencers on inBeat.

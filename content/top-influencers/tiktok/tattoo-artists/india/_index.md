@@ -1,7 +1,7 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In India In 2022
+title: Top 10 Tattoo-Artists TikTok Influencers In India in 2023
 description: >-
-  Find top tattoo-artists TikTok influencers in India in 2022. Most popular hashtags: #tattoo #tiktok #foryoupage #foryou.
+  Find top tattoo-artists TikTok influencers in India in 2023. Most popular hashtags: #tattoo #tiktok #foryoupage #foryou.
 platform: TikTok
 hits: 25
 text_top: Identify the top-rated TikTok accounts on inBeat.

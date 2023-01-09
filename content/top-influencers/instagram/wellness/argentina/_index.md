@@ -1,7 +1,7 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Argentina In 2022
+title: Top 10 Wellness Instagram Influencers In Argentina in 2023
 description: >-
-  Find top wellness Instagram influencers in Argentina in 2022. Most popular hashtags: #wellness #healthyfood #fitness.
+  Find top wellness Instagram influencers in Argentina in 2023. Most popular hashtags: #wellness #healthyfood #fitness.
 platform: Instagram
 hits: 22
 text_top: Analyze the most popular Instagram profiles on inBeat.

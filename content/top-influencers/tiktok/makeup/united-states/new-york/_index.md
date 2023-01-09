@@ -1,7 +1,7 @@
 ---
-title: Top 10 Makeup TikTok Influencers In New York In 2022
+title: Top 10 Makeup TikTok Influencers In New York in 2023
 description: >-
-  Find top makeup TikTok influencers in New York in 2022. Most popular hashtags: #foryou #fyp #makeup #newyork.
+  Find top makeup TikTok influencers in New York in 2023. Most popular hashtags: #foryou #fyp #makeup #newyork.
 platform: TikTok
 hits: 156
 text_top: Identify the best TikTok influencers on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Painters TikTok Influencers In France In 2022
+title: Top 10 Painters TikTok Influencers In France in 2023
 description: >-
-  Find top painters TikTok influencers in France in 2022. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
+  Find top painters TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fyp #foryoupage.
 platform: TikTok
 hits: 22
 text_top: Discover the most popular TikTok accounts on inBeat.

@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Boston In 2022
+title: Top 10 Fitness Instagram Influencers In Boston in 2023
 description: >-
-  Find top fitness Instagram influencers in Boston in 2022. Most popular hashtags: #fitness #boston #bostonfitness #mondaymotivation.
+  Find top fitness Instagram influencers in Boston in 2023. Most popular hashtags: #fitness #boston #bostonfitness #mondaymotivation.
 platform: Instagram
 hits: 130
 text_top: See the best Instagram profiles on inBeat.

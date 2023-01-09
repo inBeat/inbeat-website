@@ -1,7 +1,7 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Houston In 2022
+title: Top 10 Fitness Instagram Influencers In Houston in 2023
 description: >-
-  Find top fitness Instagram influencers in Houston in 2022. Most popular hashtags: #fitness #houston #texas #fitfam.
+  Find top fitness Instagram influencers in Houston in 2023. Most popular hashtags: #fitness #houston #texas #fitfam.
 platform: Instagram
 hits: 189
 text_top: Discover the best Instagram profiles on inBeat.

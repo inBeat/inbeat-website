@@ -1,7 +1,7 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2022
+title: Top 10 Hypebeast Instagram Influencers In Tokyo in 2023
 description: >-
-  Find top hypebeast Instagram influencers in Tokyo in 2022. Most popular hashtags: #hypebeast #japan #moodygrams #discovertokyo.
+  Find top hypebeast Instagram influencers in Tokyo in 2023. Most popular hashtags: #hypebeast #japan #moodygrams #discovertokyo.
 platform: Instagram
 hits: 33
 text_top: Identify the top-rated Instagram profiles on inBeat.

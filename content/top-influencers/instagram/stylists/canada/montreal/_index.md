@@ -1,7 +1,7 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Montreal In 2022
+title: Top 10 Stylists Instagram Influencers In Montreal in 2023
 description: >-
-  Find top stylists Instagram influencers in Montreal in 2022. Most popular hashtags: #montreal #mtl #style #fashionstyle.
+  Find top stylists Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #mtl #style #fashionstyle.
 platform: Instagram
 hits: 12
 text_top: Discover the top-rated Instagram accounts on inBeat.
